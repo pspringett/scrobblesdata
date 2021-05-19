@@ -32,7 +32,7 @@ def main():
         f["Datetime"] = s["Datetime"]
         f["Title"] = s["Title"]
         f["Artist"] = s["Artist"]
-        f["Album"] = s["Artist"]
+        f["Album"] = s["Album"]
         # artist, album = fx.fixup_scrobble_info(s["Artist"], s["Album"], s["Title"])
         tracks.append(f)
 
