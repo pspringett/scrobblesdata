@@ -4,13 +4,24 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
+        // {
+        //     "name": "read old scrobbles",
+        //     "type": "python",
+        //     "request": "launch",
+        //     "program": "read_old_scrobbles.py",
+        //     "console": "integratedTerminal",
+        //     "args": ["-y 2020"]
+        // },
         {
-            "name": "Python: Current File",
+            "name": "Fixup old scrobbles",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "fixup_old_scrobbles.py",
             "console": "integratedTerminal",
-            "args": ["-y 2020"]
+            // "args": ["-y 2015", "-m 5"]
+            "args": ["-y 2021"]
         }
+
     ]
 }

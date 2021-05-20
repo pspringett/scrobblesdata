@@ -27,6 +27,19 @@ class Fixup:
 
         self.boxset = self.read_boxset(fixup_path)
 
+    def fixup_tracks(self, tracks):
+        new_tracks = []
+        for t in tracks:
+
+            datetime = t[0]
+            artist = t[1]
+            album = t[2]
+            title = t[3]
+
+            artist, album = self.fixup_scrobble_info(artist, album, title)
+            new_tracks.append([datetime, artist, album, title])
+        return new_tracks
+
     def fixup_scrobble_info(self, artist, album, track):
 
         new_album = album
