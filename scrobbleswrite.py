@@ -50,7 +50,7 @@ def write_raw_tracks(tracks):
     return
 
 
-def write_tracks(tracks):
+def write_tracks(tracks, replace="no"):
     def write_tracks_to_file(fp, tracks):
         json.dump(tracks, fp, indent=4)
 
@@ -70,6 +70,13 @@ def write_tracks(tracks):
             # print("track file = {}".format(fqname))
             Path(fqpath).mkdir(parents=True, exist_ok=True)
 
+            # Force overwrite (used by the fixup function that operates
+            # on the tracks itself).
+            if os.path.exists(fqname):
+                if replace == "yes":
+                    os.remove(fqname)
+
+            # And write the data.
             if os.path.exists(fqname):
                 print("Append tracks to {}".format(fqname))
                 with open(fqname, "r") as fp:
