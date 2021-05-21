@@ -1,0 +1,12 @@
+{
+  "BoxsetName": [
+    {
+      "m_track": "Track1",
+      "n_album": "AlbumName"
+    },
+    {
+      "m_track": "Track2",
+      "n_album": "AlbumName"
+    }
+  ]
+}

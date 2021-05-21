@@ -2,7 +2,7 @@ import os
 import json
 import pprint
 
-fixup_path = os.path.join("h:\\", "dev", "gomod", "scrobbles", "data")
+fixup_path = os.path.join("h:\\", "dev", "scrobbles", "data", "filters")
 
 
 class Fixup:
