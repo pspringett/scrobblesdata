@@ -7,7 +7,6 @@ raw_tracks_path = os.path.join("h:\\", "dev", "scrobbles", "data", "rawtracks")
 tracks_path = os.path.join("h:\\", "dev", "scrobbles", "data", "tracks")
 
 base_tracks_fname = "tracks.json"
-base_char_name = "chart.txt"
 
 months_as_string = [
     "01",
