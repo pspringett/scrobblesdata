@@ -2,20 +2,22 @@ import os
 
 from collections import namedtuple
 from pprint import pprint
+import dataclasses
 
 
-TrackEntry = namedtuple("TrackEntry", "Datetime artist album track")
+@dataclasses.dataclass(order=True)
+class TrackEntry:
+    datetime: str
+    artist: str
+    album: str
+    track: str
 
-# Actuyaly thisd is immutable, instead try the dataeclass decorator.
-# @dataclass
-# class Book:
-#    author: str
-#    title: str
-#    genre: str
-#    year: int
-#    price: float
-#    instock: int
-# ChartTrackEntry = namedtuple("TrackEntry", "Datetime artist album track")
+
+@dataclasses.dataclass(order=True)
+class ChartEntry:
+    key: str
+    count: int
+    previous_count: int
 
 
 def make_chart(tracks, key_type):
@@ -29,23 +31,24 @@ def make_chart(tracks, key_type):
         # print("key={}".format(key))
 
         if key not in unsorted_chart:
-            unsorted_chart[key] = [key, 0, 0]
+            chart_entry = ChartEntry(key, 0, 0)
+            unsorted_chart[key] = chart_entry
 
-        unsorted_chart[key][1] += 1
-        unsorted_chart[key][2] += 1
+        unsorted_chart[key].count += 1
+        unsorted_chart[key].previous_count += 1
 
     # pprint(basic_chart, indent=4)
     chart = list(dict.values(unsorted_chart))
     # pprint(chart_list, indent=4)
 
-    chart.sort(key=lambda x: x[1], reverse=True)
+    chart.sort(key=lambda x: x.count, reverse=True)
 
     return chart
 
 
 def print_chart(chart):
     for index, item in enumerate(chart):
-        print("{:4}: ({:4}) - {}".format(index + 1, item[1], item[0]))
+        print("{:4}: ({:4}) - {}".format(index + 1, item.count, item.key))
         # 1: (1656) - David Bowie
         #   5: (232) - Scott 3 - Scott Walker
 
@@ -83,14 +86,14 @@ if __name__ == "__main__":
     chart = make_chart(tracks, "track")
     print_chart(chart)
 
-    get_key_partial = partial(get_key, "artist")
-    key = get_key_partial("artist1", "album1", "track1")
-    assert key == "artist1"
+    # get_key_partial = partial(get_key, "artist")
+    # key = get_key_partial("artist1", "album1", "track1")
+    # assert key == "artist1"
 
-    get_key_partial = partial(get_key, "album")
-    key = get_key_partial("artist1", "album1", "track1")
-    assert key == "artist1 - album1"
+    # get_key_partial = partial(get_key, "album")
+    # key = get_key_partial("artist1", "album1", "track1")
+    # assert key == "artist1 - album1"
 
-    get_key_partial = partial(get_key, "track")
-    key = get_key_partial("artist1", "album1", "track1")
-    assert key == "artist1 - album1 - track1"
+    # get_key_partial = partial(get_key, "track")
+    # key = get_key_partial("artist1", "album1", "track1")
+    # assert key == "artist1 - album1 - track1"
