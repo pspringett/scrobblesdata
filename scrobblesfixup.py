@@ -1,8 +1,10 @@
 import os
 import json
 import pprint
+import re
 
 fixup_path = os.path.join("h:\\", "dev", "scrobbles", "data", "filters")
+small_words = ["a", "an", "and", "in", "for", "is", "it", "of", "on", "the", "that", "to"]
 
 
 class Fixup:
@@ -42,8 +44,8 @@ class Fixup:
 
     def fixup_scrobble_info(self, artist, album, track):
 
-        new_album = album
-        new_artist = artist
+        new_album = self.titlecase(album)
+        new_artist = self.proper(artist)
 
         new_album = self.fixup_boxset(new_artist, new_album, track)
         new_album = self.fixup_album(new_album)
@@ -139,4 +141,22 @@ class Fixup:
         except KeyError:
             return album
 
-        return album
+    def proper(self, sentance):
+        """
+        Capitalises all the non-small words ina  string.
+        """
+        new_sentance = []
+
+        words = sentance.split()
+
+        for word in words:
+            word = word.lower()
+            if word in small_words:
+                new_sentance.append(word)
+            else:
+                new_sentance.append(word.capitalize())
+
+        return " ".join(new_sentance)
+
+    def titlecase(self, s):
+        return re.sub(r"[A-Za-z]+('[A-Za-z]+)?", lambda mo: mo.group(0).capitalize(), s)
