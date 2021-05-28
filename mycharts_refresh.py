@@ -26,18 +26,20 @@ def update_all():
             )
 
             if len(month_list) > 1:
+                title = "Specified year ({}), specified month ({})".format(year, int(month))
                 fqpath = os.path.join(glb.mycharts_path, year, month)
-                write_charts(month_list, fqpath)
+                write_charts(month_list, fqpath, title)
 
-        fname = year
-        fqname = os.path.join(glb.mycharts_path, year)
-        write_charts(year_list, fqpath)
+        title = "Specified year ({})".format(year)
+        fqpath = os.path.join(glb.mycharts_path, year)
+        write_charts(year_list, fqpath, title)
 
+    title = "All time"
     fqpath = os.path.join(glb.mycharts_path)
-    write_charts(all_tracks, fqpath)
+    write_charts(all_tracks, fqpath, title)
 
 
-def write_charts(tracks, fqpath):
+def write_charts(tracks, fqpath, title):
 
     for key in glb.keys:
 
@@ -50,7 +52,7 @@ def write_charts(tracks, fqpath):
         chart = charts.make_chart(tracks, key)
 
         with open(fqname, "w", encoding="utf8") as fp:
-            charts.write_chart(fp, chart)
+            charts.write_chart(fp, chart, title)
 
 
 if __name__ == "__main__":
