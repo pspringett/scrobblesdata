@@ -1,8 +1,7 @@
 """
 Recreates mytracks from rawtracks.
 
-Converts from a tab-separated document which is raw data downloaded from last.fm, 
-to a json document, applying a bunch of filters and fixups.  
+Fixes up mytracks to apply the existing rules.  Used when the rules change.
 
 It overwrites existing files.
 """
@@ -22,32 +21,38 @@ import pprint
 def main():
     global options, fqpath
 
-    _main_cmd_line()
+    # _main_cmd_line()
 
     fx = scrobblesfixup.Fixup()
 
-    if options.year == 0:
-        if options.Month == 0:
-            print("Fixup all scrobbles not supported")
-            exit()
-        else:
-            print("Don't know which year you want")
-            exit()
-    else:
-        if options.month == 0:
-            print("Fixup all scrobbles for one year")
-            for month in glb.months_as_string:
-                tracks = read_tracks_month(glb.tracks_path, str(options.year), month)
-                if tracks is not None:
-                    new_tracks = fixup_tracks(fx, tracks)
-                    scrobbleswrite.write_tracks(new_tracks, replace="yes")
+    years = os.listdir(glb.tracks_path)
+    years.sort()
+    years = [x for x in years if glb.valid_year(x)]
 
-        else:
-            print("Fixup scrobbles for year and month")
-            tracks = read_tracks_month(glb.tracks_path, str(options.year), options.month2)
+    for year in years:
+        for month in glb.months_as_string:
+            tracks = read_tracks_month(glb.tracks_path, year, month)
             if tracks is not None:
                 new_tracks = fixup_tracks(fx, tracks)
                 scrobbleswrite.write_tracks(new_tracks, replace="yes")
+
+    # if options.year == 0:
+    #     if options.Month == 0:
+    #         print("Fixup all scrobbles not supported")
+    #         exit()
+    #     else:
+    #         print("Don't know which year you want")
+    #         exit()
+    # else:
+    #     if options.month == 0:
+    #         print("Fixup all scrobbles for one year")
+
+    #     else:
+    #         print("Fixup scrobbles for year and month")
+    #         tracks = read_tracks_month(glb.tracks_path, str(options.year), options.month2)
+    #         if tracks is not None:
+    #             new_tracks = fixup_tracks(fx, tracks)
+    #             scrobbleswrite.write_tracks(new_tracks, replace="yes")
 
 
 def read_tracks_month(fqpath, year, month):
@@ -56,7 +61,7 @@ def read_tracks_month(fqpath, year, month):
     base_fname = "tracks.json"
     fname = "-".join([year, month, base_fname])
     fqname = os.path.join(fqpath, year, fname)
-    print("fqname={}".format(fqname))
+    # print("fqname={}".format(fqname))
 
     if os.path.exists(fqname):
         with open(fqname, "r", encoding="utf8") as fp:
