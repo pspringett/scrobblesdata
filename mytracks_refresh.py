@@ -24,9 +24,7 @@ def main():
 
     fx = scrobblesfixup.Fixup()
 
-    years = os.listdir(glb.tracks_path)
-    years.sort()
-    years = [x for x in years if glb.valid_year(x)]
+    years = glb.get_years(glb.tracks_path)
 
     for year in years:
         for month in glb.months_as_string:

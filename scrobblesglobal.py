@@ -29,6 +29,16 @@ keys = ["artist", "album", "track"]
 chart_fnames = {"artist": "artists.txt", "album": "albums.txt", "track": "tracks.txt"}
 
 
+def get_years(fqpath):
+    """
+    Gets the valid year directories in the specified folder.
+    """
+
+    years = os.listdir(fqpath)
+    years.sort()
+    years = [x for x in years if valid_year(x)]
+
+
 def valid_year(year):
 
     if len(year) != 4:

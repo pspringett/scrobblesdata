@@ -1,14 +1,19 @@
 Specified year (2021), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      90            11            14            72
-   1: (  21) - The Weather Station
-   2: (  17) - The Beatles
-   3: (  16) - Lloyd Cole and The Commotions
-   4: (  13) - The Cure
-   5: (   8) - Bob Dylan
-   6: (   5) - Chrissie Hynde
-   7: (   3) - Paul Weller
-   8: (   2) - David Bowie
-   9: (   2) - Sam Fender
-  10: (   2) - Elton John
-  11: (   1) - Iggy Pop
+     147            16            20           112
+   1: (  33) - Bob Dylan
+   2: (  21) - The Weather Station
+   3: (  18) - Lloyd Cole and The Commotions
+   4: (  17) - The Beatles
+   5: (  13) - The Cure
+   6: (  10) - Paul Weller
+   7: (   7) - Scott Walker
+   8: (   5) - Chrissie Hynde
+   9: (   5) - Nick Heyward
+  10: (   4) - philscreen
+  11: (   4) - Spandau Ballet
+  12: (   3) - The Smiths
+  13: (   2) - David Bowie
+  14: (   2) - Sam Fender
+  15: (   2) - Elton John
+  16: (   1) - Iggy Pop

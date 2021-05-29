@@ -1,6 +1,6 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1238           119           144           701
+    1295           122           147           736
    1: (  87) - The Rolling Stones
    2: (  54) - Lissie
    3: (  52) - Catatonia
@@ -12,111 +12,114 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    9: (  49) - Echo & the Bunnymen
   10: (  48) - Fleet Foxes
   11: (  44) - Chip Taylor & Carrie Rodriguez
-  12: (  39) - The Smiths
-  13: (  36) - Simple Minds
-  14: (  32) - The Cure
-  15: (  31) - David Bowie
-  16: (  29) - The Weather Station
-  17: (  27) - Martin Stephenson
-  18: (  25) - Elvis Costello & The Attractions
-  19: (  23) - Piney Gir
-  20: (  22) - Suzanne Vega
-  21: (  17) - Eliza Gilkyson
-  22: (  16) - Lloyd Cole and The Commotions
-  23: (  15) - Buffy Sainte-Marie
-  24: (  15) - First Aid Kit
-  25: (  14) - The Style Council
-  26: (  14) - Elvis Costello
-  27: (  14) - Paul Weller
-  28: (  13) - Bob Dylan
-  29: (  13) - Emma Swift
-  30: (  13) - First Aid Kit, Nina Zanjani & Maia Hansson-Bergqvist
-  31: (  12) - Siouxsie and the Banshees
-  32: (  11) - The Velvet Underground
-  33: (  11) - Cocteau Twins
-  34: (  10) - Paul McCartney
-  35: (  10) - Natalie Prass
-  36: (   9) - Orange Juice
-  37: (   9) - Josh Ritter
-  38: (   7) - The Jam
-  39: (   7) - Scott Walker
+  12: (  42) - The Smiths
+  13: (  38) - Bob Dylan
+  14: (  36) - Simple Minds
+  15: (  32) - The Cure
+  16: (  31) - David Bowie
+  17: (  29) - The Weather Station
+  18: (  27) - Martin Stephenson
+  19: (  25) - Elvis Costello & The Attractions
+  20: (  23) - Piney Gir
+  21: (  22) - Suzanne Vega
+  22: (  21) - Paul Weller
+  23: (  18) - Lloyd Cole and The Commotions
+  24: (  17) - Eliza Gilkyson
+  25: (  15) - Buffy Sainte-Marie
+  26: (  15) - First Aid Kit
+  27: (  14) - The Style Council
+  28: (  14) - Elvis Costello
+  29: (  14) - Scott Walker
+  30: (  13) - Emma Swift
+  31: (  13) - First Aid Kit, Nina Zanjani & Maia Hansson-Bergqvist
+  32: (  12) - Siouxsie and the Banshees
+  33: (  11) - The Velvet Underground
+  34: (  11) - Cocteau Twins
+  35: (  10) - Paul McCartney
+  36: (  10) - Natalie Prass
+  37: (   9) - Orange Juice
+  38: (   9) - Josh Ritter
+  39: (   7) - The Jam
   40: (   6) - Angie Palmer
   41: (   6) - Roxy Music
   42: (   6) - Yazoo
   43: (   5) - Tift Merritt
   44: (   5) - Chrissie Hynde
-  45: (   4) - Aztec Camera
-  46: (   4) - The Civil Wars
-  47: (   4) - The Waterboys
-  48: (   4) - Mark Knopfler & Emmylou Harris
-  49: (   4) - Leonard Cohen
-  50: (   4) - Gang of Four
-  51: (   4) - First Aid Kit & Jesper Lindell
-  52: (   3) - Laura Marling
-  53: (   3) - The Piney Gir Country Roadshow
-  54: (   3) - Emmylou Harris
-  55: (   3) - Lyle Lovett
-  56: (   3) - New Order
-  57: (   3) - T. Rex
-  58: (   2) - Fleetwood Mac
-  59: (   2) - Jimi Hendrix
-  60: (   2) - Altered Images
-  61: (   2) - First Aid Kit & Frida Hyvönen
-  62: (   2) - First Aid Kit & Loney Dear
-  63: (   2) - First Aid Kit, Maia Hansson-Bergqvist & Nina Zanjani
-  64: (   2) - First Aid Kit, Maja Francis & Nina Zanjani
-  65: (   2) - First Aid Kit, Frida Hyvönen, Loney dear, Jesper Lindell, Annika Norlin, Maja Francis, Nina Zanjani and Maia Hansson-Bergqvist
-  66: (   2) - First Aid Kit & Annika Norlin
-  67: (   2) - Dry Cleaning
-  68: (   2) - World Party
-  69: (   2) - They Might Be Giants
-  70: (   2) - The Church
-  71: (   2) - The Go-Betweens
-  72: (   2) - Miracle Legion
-  73: (   2) - Talking Heads
-  74: (   2) - R.E.M.
-  75: (   2) - The Housemartins
-  76: (   2) - The Wedding Present
-  77: (   2) - Prefab Sprout
-  78: (   2) - The Feelies
-  79: (   2) - The Weather Prophets
-  80: (   2) - Sam Fender
-  81: (   2) - Elton John
-  82: (   1) - The Fall
-  83: (   1) - ThePnutNo2
-  84: (   1) - B.A. Robertson
-  85: (   1) - Edwyn Collins
-  86: (   1) - B.E.F.
-  87: (   1) - Lucinda Williams
-  88: (   1) - Kevin Morby
-  89: (   1) - Rose City Band
-  90: (   1) - Brigid Mae Power
-  91: (   1) - Jason Isbell and The 400 Unit
-  92: (   1) - Thundercat
-  93: (   1) - Courtney Marie Andrews
-  94: (   1) - Afel Bocoum
-  95: (   1) - Phoebe Bridgers
-  96: (   1) - Stephen Malkmus
-  97: (   1) - Destroyer
-  98: (   1) - Waxahatchee
-  99: (   1) - Manfred Mann
- 100: (   1) - Suzi Quatro
- 101: (   1) - Young Marble Giants
- 102: (   1) - Stealers Wheel
- 103: (   1) - Martha and the Muffins
- 104: (   1) - The Chameleons
- 105: (   1) - Tintern Abbey
- 106: (   1) - The End
- 107: (   1) - The Accent
- 108: (   1) - Curiosity Shoppe
- 109: (   1) - The Syn
- 110: (   1) - The Poets
- 111: (   1) - The Attack
- 112: (   1) - The Fairytale
- 113: (   1) - Nacho Video
- 114: (   1) - First Aid Kit, Annika Norlin
- 115: (   1) - Slow Hands
- 116: (   1) - Hüsker Dü
- 117: (   1) - The Triffids
- 118: (   1) - The Replacements
- 119: (   1) - Iggy Pop
+  45: (   5) - Nick Heyward
+  46: (   4) - Aztec Camera
+  47: (   4) - The Civil Wars
+  48: (   4) - The Waterboys
+  49: (   4) - Mark Knopfler & Emmylou Harris
+  50: (   4) - Leonard Cohen
+  51: (   4) - Gang of Four
+  52: (   4) - First Aid Kit & Jesper Lindell
+  53: (   4) - philscreen
+  54: (   4) - Spandau Ballet
+  55: (   3) - Laura Marling
+  56: (   3) - The Piney Gir Country Roadshow
+  57: (   3) - Emmylou Harris
+  58: (   3) - Lyle Lovett
+  59: (   3) - New Order
+  60: (   3) - T. Rex
+  61: (   2) - Fleetwood Mac
+  62: (   2) - Jimi Hendrix
+  63: (   2) - Altered Images
+  64: (   2) - First Aid Kit & Frida Hyvönen
+  65: (   2) - First Aid Kit & Loney Dear
+  66: (   2) - First Aid Kit, Maia Hansson-Bergqvist & Nina Zanjani
+  67: (   2) - First Aid Kit, Maja Francis & Nina Zanjani
+  68: (   2) - First Aid Kit, Frida Hyvönen, Loney dear, Jesper Lindell, Annika Norlin, Maja Francis, Nina Zanjani and Maia Hansson-Bergqvist
+  69: (   2) - First Aid Kit & Annika Norlin
+  70: (   2) - Dry Cleaning
+  71: (   2) - World Party
+  72: (   2) - They Might Be Giants
+  73: (   2) - The Church
+  74: (   2) - The Go-Betweens
+  75: (   2) - Miracle Legion
+  76: (   2) - Talking Heads
+  77: (   2) - R.E.M.
+  78: (   2) - The Housemartins
+  79: (   2) - The Wedding Present
+  80: (   2) - Prefab Sprout
+  81: (   2) - The Feelies
+  82: (   2) - The Weather Prophets
+  83: (   2) - Sam Fender
+  84: (   2) - Elton John
+  85: (   1) - The Fall
+  86: (   1) - ThePnutNo2
+  87: (   1) - B.A. Robertson
+  88: (   1) - Edwyn Collins
+  89: (   1) - B.E.F.
+  90: (   1) - Lucinda Williams
+  91: (   1) - Kevin Morby
+  92: (   1) - Rose City Band
+  93: (   1) - Brigid Mae Power
+  94: (   1) - Jason Isbell and The 400 Unit
+  95: (   1) - Thundercat
+  96: (   1) - Courtney Marie Andrews
+  97: (   1) - Afel Bocoum
+  98: (   1) - Phoebe Bridgers
+  99: (   1) - Stephen Malkmus
+ 100: (   1) - Destroyer
+ 101: (   1) - Waxahatchee
+ 102: (   1) - Manfred Mann
+ 103: (   1) - Suzi Quatro
+ 104: (   1) - Young Marble Giants
+ 105: (   1) - Stealers Wheel
+ 106: (   1) - Martha and the Muffins
+ 107: (   1) - The Chameleons
+ 108: (   1) - Tintern Abbey
+ 109: (   1) - The End
+ 110: (   1) - The Accent
+ 111: (   1) - Curiosity Shoppe
+ 112: (   1) - The Syn
+ 113: (   1) - The Poets
+ 114: (   1) - The Attack
+ 115: (   1) - The Fairytale
+ 116: (   1) - Nacho Video
+ 117: (   1) - First Aid Kit, Annika Norlin
+ 118: (   1) - Slow Hands
+ 119: (   1) - Hüsker Dü
+ 120: (   1) - The Triffids
+ 121: (   1) - The Replacements
+ 122: (   1) - Iggy Pop

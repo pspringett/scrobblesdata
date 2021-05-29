@@ -11,9 +11,7 @@ def get_all():
     "Returns all scrobbles."
     all_time_list = []
 
-    years = os.listdir(glb.tracks_path)
-    years.sort()
-    years = [x for x in years if valid_year(x)]
+    years = glb.get_years(glb.tracks_path)
 
     for year in years:
         all_time_list, year_list = get_year(int(year), all_time_list)
