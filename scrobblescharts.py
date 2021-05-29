@@ -21,12 +21,42 @@ class ChartEntry:
     gap: int
 
 
+@dataclasses.dataclass(order=True)
+class SummaryEntry:
+    total_tracks: int
+    unique_artists: int
+    unique_albums: int
+    unique_tracks: int
+
+
+compilations = {
+    "soundtrack",
+    "the story of trojan records",
+    "30 years of punk",
+    "a very special christmas",
+    "50 of the greatest original xmas hits",
+    "a tribute to gram parsons",
+    "uncut",
+    "crazy heart soundtrack",
+    "nme c81",
+    "tower of song - the songs of leonard cohen",
+    "blowin' in the wind: a reggae tribute to bob dylan",
+    "i'm not there",
+    "eurovision song contest lisbon 2018",
+    "rockers - original soundtrack",
+}
+
+
 def make_chart(tracks, key_type):
 
     unsorted_chart = {}
     for track in tracks:
         # print("Track={}".format(track))
         entry = TrackEntry(track[0], track[1], track[2], track[3])
+
+        if key_type == "album":
+            if entry.album.lower() in compilations:
+                entry.artist = "Various"
 
         key = get_key(key_type, entry.artist, entry.album, entry.track)
         # print("key={}".format(key))
@@ -65,14 +95,69 @@ def print_chart(chart):
         #   5: (232) - Scott 3 - Scott Walker
 
 
-def write_chart(fp, chart, title):
-    fp.write("{}\n".format(title))
+def write_chart(fp, chart, title=None, summary=None, gaps=True):
+
+    if title is not None:
+        write_title(fp, title)
+
+    if summary is not None:
+        write_summary(fp, summary)
+
     for index, item in enumerate(chart):
         fp.write("{:4}: ({:4}) - {}\n".format(index + 1, item.count, item.key))
-        for line in range(item.gap):
-            fp.write("\n")
+        if gaps:
+            for line in range(item.gap):
+                fp.write("\n")
         # 1: (1656) - David Bowie
         #   5: (232) - Scott 3 - Scott Walker
+
+
+def write_title(fp, title):
+    fp.write("{}\n".format(title))
+
+
+def write_summary(fp, summary):
+    fp.write(
+        "{:8} {:13} {:13} {:13}\n".format(
+            "Total Tracks", "Unique Artists", "Unique albums", "Unique Tracks"
+        )
+    )
+    fp.write(
+        "{:8} {:13} {:13} {:13}\n".format(
+            summary.total_tracks,
+            summary.unique_artists,
+            summary.unique_albums,
+            summary.unique_tracks,
+        )
+    )
+
+
+def make_summary(tracks):
+    """
+    GIven a list of track, generates sumamry information for it.
+    """
+    unique_artists = {}
+    unique_albums = {}
+    unique_tracks = {}
+
+    summary = SummaryEntry(0, 0, 0, 0)
+
+    summary.total_tracks = len(tracks)
+
+    for track in tracks:
+        entry = TrackEntry(track[0], track[1], track[2], track[3])
+
+        if entry.artist not in unique_artists:
+            unique_artists[entry.artist] = 0
+            summary.unique_artists += 1
+        if entry.album not in unique_albums:
+            unique_albums[entry.album] = 0
+            summary.unique_albums += 1
+        if entry.track not in unique_tracks:
+            unique_tracks[entry.track] = 0
+            summary.unique_tracks += 1
+
+    return summary
 
 
 # But also use partial function to supply key once, once we know it.
@@ -81,10 +166,10 @@ def get_key(key, artist, album, track):
         return artist
 
     if key == "album":
-        return " - ".join([artist, album])
+        return " - ".join([album, artist])
 
     if key == "track":
-        return " - ".join([artist, album, track])
+        return "{} - {} ({})".format(track, artist, album)
 
     return None
 
