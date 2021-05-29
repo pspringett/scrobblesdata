@@ -1,7 +1,8 @@
 """
-Recreates mytracks from rawtracks.
+Refreshes tracks data.
 
 Fixes up mytracks to apply the existing rules.  Used when the rules change.
+Note that this DOESN'T read rawtracks.
 
 It overwrites existing files.
 """
@@ -21,8 +22,6 @@ import pprint
 def main():
     global options, fqpath
 
-    # _main_cmd_line()
-
     fx = scrobblesfixup.Fixup()
 
     years = os.listdir(glb.tracks_path)
@@ -35,24 +34,6 @@ def main():
             if tracks is not None:
                 new_tracks = fixup_tracks(fx, tracks)
                 scrobbleswrite.write_tracks(new_tracks, replace="yes")
-
-    # if options.year == 0:
-    #     if options.Month == 0:
-    #         print("Fixup all scrobbles not supported")
-    #         exit()
-    #     else:
-    #         print("Don't know which year you want")
-    #         exit()
-    # else:
-    #     if options.month == 0:
-    #         print("Fixup all scrobbles for one year")
-
-    #     else:
-    #         print("Fixup scrobbles for year and month")
-    #         tracks = read_tracks_month(glb.tracks_path, str(options.year), options.month2)
-    #         if tracks is not None:
-    #             new_tracks = fixup_tracks(fx, tracks)
-    #             scrobbleswrite.write_tracks(new_tracks, replace="yes")
 
 
 def read_tracks_month(fqpath, year, month):
