@@ -16,6 +16,13 @@ tracks_path = os.path.join("h:\\", "dev", "scrobbles", "data", "tracks")
 # Track[2] is the album
 # Track[3] is the track
 def write_raw_tracks(tracks):
+    """
+    Given tarcks, it appends the tracks the relevant csv file, or creates any
+    new ones. It assumes that all the tracks are new (i.e. there is no
+    overlap with existing ones).
+
+    """
+
     def write_raw_tracks_to_file(fp, tracks):
         for fields in tracks:
             # print(fields)
@@ -94,7 +101,13 @@ def write_tracks(tracks, replace="no"):
 
 
 def parse_tracks_to_write(tracks):
+    """
+    Splits tracks into a dictionary as follows:
+
+    tracks_by_month[year] = dict[month] = list of tracks.
+    """
     tracks_by_month = {}
+
     for track in tracks:
         start_time = track[0]
         dt = datetime.fromisoformat(start_time)
@@ -110,6 +123,7 @@ def parse_tracks_to_write(tracks):
             tracks_by_month[dt.year][month] = []
 
         tracks_by_month[dt.year][month].append(track)
+
     return tracks_by_month
 
 
