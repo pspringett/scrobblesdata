@@ -6,6 +6,22 @@ import re
 fixup_path = os.path.join("h:\\", "dev", "scrobbles", "data", "filters")
 small_words = ["a", "an", "and", "in", "for", "is", "it", "of", "on", "the", "that", "to"]
 
+compilations = {
+    "soundtrack",
+    "the story of trojan records",
+    "30 years of punk",
+    "a very special christmas",
+    "50 of the greatest original xmas hits",
+    "a tribute to gram parsons",
+    "uncut",
+    "crazy heart soundtrack",
+    "nme c81",
+    "tower of song - the songs of leonard cohen",
+    "blowin' in the wind: a reggae tribute to bob dylan",
+    "i'm not there",
+    "eurovision song contest lisbon 2018",
+}
+
 
 class Fixup:
     def __init__(self):
@@ -143,7 +159,7 @@ class Fixup:
 
     def proper(self, sentance):
         """
-        Capitalises all the non-small words ina  string.
+        Capitalises all the non-small words in a string.
         """
         new_sentance = []
 
