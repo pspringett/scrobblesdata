@@ -12,9 +12,7 @@ def update_all():
 
     all_tracks = []
 
-    years = os.listdir(glb.tracks_path)
-    years.sort()
-    years = [x for x in years if glb.valid_year(x)]
+    years = glb.get_years(glb.tracks_path)
 
     for year in years:
 

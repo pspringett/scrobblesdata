@@ -89,8 +89,9 @@ def make_chart(tracks, key_type):
 def print_chart(chart):
     for index, item in enumerate(chart):
         print("{:4}: ({:4}) - {}".format(index + 1, item.count, item.key))
-        for line in range(item.gap):
-            print("")
+        if item.count > 10 and item.count < 50:
+            for line in range(item.gap):
+                print("")
         # 1: (1656) - David Bowie
         #   5: (232) - Scott 3 - Scott Walker
 
@@ -105,7 +106,7 @@ def write_chart(fp, chart, title=None, summary=None, gaps=True):
 
     for index, item in enumerate(chart):
         fp.write("{:4}: ({:4}) - {}\n".format(index + 1, item.count, item.key))
-        if gaps:
+        if item.count > 10 and item.count < 50:
             for line in range(item.gap):
                 fp.write("\n")
         # 1: (1656) - David Bowie

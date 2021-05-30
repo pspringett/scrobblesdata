@@ -37,6 +37,7 @@ def get_years(fqpath):
     years = os.listdir(fqpath)
     years.sort()
     years = [x for x in years if valid_year(x)]
+    return years
 
 
 def valid_year(year):
