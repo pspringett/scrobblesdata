@@ -96,4 +96,17 @@ def _main_cmd_line():
 if __name__ == "__main__":
     # print(sys.version)
     # print(sys, sys.executable)
+    fx = scrobblesfixup.Fixup()
+
+    track1 = ["2015-08-01 23:30:27", "Simple Minds", "New Gold Dream (81 82 83 84)", "Big Sleep"]
+    track2 = [
+        "2015-08-01 23:36:29",
+        "Simple Minds",
+        "New Gold Dream (81/82/83/84)",
+        "Big Sleep (2002 - Remaster)",
+    ]
+
+    tracks = [track1, track2]
+    new_tracks = fixup_tracks(fx, tracks)
+    print(new_tracks)
     main()

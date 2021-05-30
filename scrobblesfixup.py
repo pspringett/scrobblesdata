@@ -79,7 +79,7 @@ class Fixup:
             fixup_artist = json.load(fp)
 
         self.artists = {}
-        for item in fixup_artist[:2]:
+        for item in fixup_artist:
             self.artists[item["m_artist"]] = item["n_artist"]
 
     def fixup_artist(self, artist):
@@ -98,7 +98,7 @@ class Fixup:
             fixup_album = json.load(fp)
 
         self.albums = {}
-        for item in fixup_album[:2]:
+        for item in fixup_album:
             self.albums[item["m_album"]] = item["n_album"]
 
     def fixup_album(self, album):
