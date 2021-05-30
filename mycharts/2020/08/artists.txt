@@ -1,13 +1,13 @@
 Specified year (2020), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
      964            63            63           277
-   1: (  76) - Edwyn Collins
-   2: (  72) - Gary Lucas
-   3: (  72) - Sweet
-   4: (  62) - Focus
-   5: (  60) - Chatham County Line
-   6: (  50) - The Rolling Stones
-   7: (  48) - Pretenders
+  1: ( 76) - Edwyn Collins
+  2: ( 72) - Gary Lucas
+  3: ( 72) - Sweet
+  4: ( 62) - Focus
+  5: ( 60) - Chatham County Line
+  6: ( 50) - The Rolling Stones
+  7: ( 48) - Pretenders
 
 
 
@@ -15,79 +15,79 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   8: (  40) - HAIM
+  8: ( 40) - HAIM
 
-   9: (  38) - The Mighty Wah!
-
-
+  9: ( 38) - The Mighty Wah!
 
 
 
 
 
-  10: (  30) - Jean Toussaint
-
-  11: (  28) - Eliza Gilkyson
-  12: (  28) - Rod Picott and Amanda Shires
 
 
+ 10: ( 30) - Jean Toussaint
 
-  13: (  24) - Paul Weller
-
-  14: (  22) - Laura Marling
-
-  15: (  20) - Cocteau Twins
-  16: (  20) - Orange Juice
-  17: (  20) - Sara Watkins
-
-  18: (  18) - Birds of Chicago
-  19: (  18) - Elton John
-  20: (  18) - Tower of Song
-  21: (  18) - David Bowie
+ 11: ( 28) - Eliza Gilkyson
+ 12: ( 28) - Rod Picott and Amanda Shires
 
 
 
-  22: (  14) - JARV IS...
+ 13: ( 24) - Paul Weller
 
-  23: (  12) - Electric Light Orchestra
+ 14: ( 22) - Laura Marling
 
-  24: (  10) - Striking Matches
-  25: (  10) - H.C. McEntire
-  26: (  10) - The Waterboys
-  27: (   8) - Caleb Landry Jones
-  28: (   8) - The Dream Syndicate
-  29: (   8) - Martha Wainwright
-  30: (   6) - Brigid Dawson and The Mothers Network
-  31: (   6) - William Tyler
-  32: (   6) - Woods
-  33: (   6) - Margo Price
-  34: (   6) - Mark Lanegan
-  35: (   6) - Steve Earle
-  36: (   4) - Robert Forster
-  37: (   4) - The Magnetic Fields
-  38: (   4) - I Break Horses
-  39: (   4) - Damien Jurado
-  40: (   4) - Robert Plant
-  41: (   2) - Chapter 4
-  42: (   2) - Chapter 5
-  43: (   2) - Modern Studies
-  44: (   2) - Nap Eyes
-  45: (   2) - Yin Yin
-  46: (   2) - Felt
-  47: (   2) - Middle Of The Road
-  48: (   2) - Steve Harley
-  49: (   2) - Lou Reed
-  50: (   2) - David Essex
-  51: (   2) - Blue Öyster Cult
-  52: (   2) - Mott the Hoople
-  53: (   2) - Free
-  54: (   2) - Gerry Rafferty
-  55: (   2) - Carly Simon
-  56: (   2) - New Order
-  57: (   2) - Spizz Energi
-  58: (   2) - Elvis Costello
-  59: (   2) - Bob Dylan
-  60: (   2) - Paul Haig
-  61: (   2) - Green Gartside
-  62: (   2) - Aztec Camera
-  63: (   2) - Furniture
+ 15: ( 20) - Cocteau Twins
+ 16: ( 20) - Orange Juice
+ 17: ( 20) - Sara Watkins
+
+ 18: ( 18) - Birds of Chicago
+ 19: ( 18) - David Bowie
+ 20: ( 18) - Elton John
+ 21: ( 18) - Tower of Song
+
+
+
+ 22: ( 14) - JARV IS...
+
+ 23: ( 12) - Electric Light Orchestra
+
+ 24: ( 10) - H.C. McEntire
+ 25: ( 10) - Striking Matches
+ 26: ( 10) - The Waterboys
+ 27: (  8) - Caleb Landry Jones
+ 28: (  8) - Martha Wainwright
+ 29: (  8) - The Dream Syndicate
+ 30: (  6) - Brigid Dawson and The Mothers Network
+ 31: (  6) - Margo Price
+ 32: (  6) - Mark Lanegan
+ 33: (  6) - Steve Earle
+ 34: (  6) - William Tyler
+ 35: (  6) - Woods
+ 36: (  4) - Damien Jurado
+ 37: (  4) - I Break Horses
+ 38: (  4) - Robert Forster
+ 39: (  4) - Robert Plant
+ 40: (  4) - The Magnetic Fields
+ 41: (  2) - Aztec Camera
+ 42: (  2) - Blue Öyster Cult
+ 43: (  2) - Bob Dylan
+ 44: (  2) - Carly Simon
+ 45: (  2) - Chapter 4
+ 46: (  2) - Chapter 5
+ 47: (  2) - David Essex
+ 48: (  2) - Elvis Costello
+ 49: (  2) - Felt
+ 50: (  2) - Free
+ 51: (  2) - Furniture
+ 52: (  2) - Gerry Rafferty
+ 53: (  2) - Green Gartside
+ 54: (  2) - Lou Reed
+ 55: (  2) - Middle Of The Road
+ 56: (  2) - Modern Studies
+ 57: (  2) - Mott the Hoople
+ 58: (  2) - Nap Eyes
+ 59: (  2) - New Order
+ 60: (  2) - Paul Haig
+ 61: (  2) - Spizz Energi
+ 62: (  2) - Steve Harley
+ 63: (  2) - Yin Yin

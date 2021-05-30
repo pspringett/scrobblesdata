@@ -1,88 +1,88 @@
 Specified year (2016), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1447            62            83           741
-   1: ( 335) - Leonard Cohen
-   2: (  80) - Roddy Frame
-   3: (  80) - Lloyd Cole
-   4: (  69) - Echo & the Bunnymen
-   5: (  63) - Hem
-   6: (  56) - Haircut 100
-   7: (  54) - U2
-   8: (  49) - Nick Heyward
+  1: (335) - Leonard Cohen
+  2: ( 80) - Lloyd Cole
+  3: ( 80) - Roddy Frame
+  4: ( 69) - Echo & the Bunnymen
+  5: ( 63) - Hem
+  6: ( 56) - Haircut 100
+  7: ( 54) - U2
+  8: ( 49) - Nick Heyward
 
 
-   9: (  46) - Bob Dylan
+  9: ( 46) - Bob Dylan
 
-  10: (  44) - Sarah MacDougall
-
-
-  11: (  41) - Roxy Music
-
-  12: (  39) - The Jesus and Mary Chain
+ 10: ( 44) - Sarah MacDougall
 
 
-  13: (  36) - Scott Walker
+ 11: ( 41) - Roxy Music
 
-  14: (  34) - The Redlands Palomino Company
+ 12: ( 39) - The Jesus and Mary Chain
 
 
+ 13: ( 36) - Scott Walker
 
+ 14: ( 34) - The Redlands Palomino Company
 
 
 
-  15: (  27) - Paul Weller
 
 
-  16: (  24) - Tift Merritt
-  17: (  24) - Allison Moorer
 
-  18: (  22) - New Order
-  19: (  22) - ABC
-  20: (  22) - The Piney Gir Country Roadshow
-  21: (  22) - Martin Stephenson
-  22: (  21) - Martha Wainwright
+ 15: ( 27) - Paul Weller
 
 
-  23: (  18) - Joy Division
+ 16: ( 24) - Allison Moorer
+ 17: ( 24) - Tift Merritt
 
-  24: (  16) - The Pale Fountains
-  25: (  16) - Amy LaVere
+ 18: ( 22) - ABC
+ 19: ( 22) - Martin Stephenson
+ 20: ( 22) - New Order
+ 21: ( 22) - The Piney Gir Country Roadshow
+ 22: ( 21) - Martha Wainwright
 
-  26: (  14) - case/lang/veirs
 
-  27: (  12) - Rosanne Cash
-  28: (  12) - Eilen Jewell
-  29: (  12) - Christine and the Queens
-  30: (  11) - David Bowie
-  31: (  11) - Emmylou Harris
-  32: (  10) - Rodney Crowell
-  33: (  10) - Laura Marling
-  34: (  10) - Kristin Hersh
-  35: (  10) - It's Immaterial
-  36: (  10) - Samantha Crain
-  37: (  10) - Gillian Welch
-  38: (   9) - Natalie Prass
-  39: (   9) - Aztec Camera
-  40: (   5) - Birds of Chicago
-  41: (   5) - Lera Lynn
-  42: (   4) - Artery
-  43: (   4) - Kathryn Williams, Anthony Kerr
-  44: (   1) - Rodney Crowell (duet with Emmylou Harris)
-  45: (   1) - Christie
-  46: (   1) - George McCrae
-  47: (   1) - Pilot
-  48: (   1) - John Denver
-  49: (   1) - Steve Harley & Cockney Rebel
-  50: (   1) - Brotherhood of Man
-  51: (   1) - Bay City Rollers
-  52: (   1) - T. Rex
-  53: (   1) - Aoife O'Donovan
-  54: (   1) - Houndmouth
-  55: (   1) - Fraser A. Gorman
-  56: (   1) - John Fullbright
-  57: (   1) - The New Basement Tapes
-  58: (   1) - Sufjan Stevens
-  59: (   1) - Jamestown Revival
-  60: (   1) - Shakey Graves
-  61: (   1) - Sharon Van Etten
-  62: (   1) - Barna Howard
+ 23: ( 18) - Joy Division
+
+ 24: ( 16) - Amy LaVere
+ 25: ( 16) - The Pale Fountains
+
+ 26: ( 14) - case/lang/veirs
+
+ 27: ( 12) - Christine and the Queens
+ 28: ( 12) - Eilen Jewell
+ 29: ( 12) - Rosanne Cash
+ 30: ( 11) - David Bowie
+ 31: ( 11) - Emmylou Harris
+ 32: ( 10) - Gillian Welch
+ 33: ( 10) - It's Immaterial
+ 34: ( 10) - Kristin Hersh
+ 35: ( 10) - Laura Marling
+ 36: ( 10) - Rodney Crowell
+ 37: ( 10) - Samantha Crain
+ 38: (  9) - Aztec Camera
+ 39: (  9) - Natalie Prass
+ 40: (  5) - Birds of Chicago
+ 41: (  5) - Lera Lynn
+ 42: (  4) - Artery
+ 43: (  4) - Kathryn Williams, Anthony Kerr
+ 44: (  1) - Aoife O'Donovan
+ 45: (  1) - Barna Howard
+ 46: (  1) - Bay City Rollers
+ 47: (  1) - Brotherhood of Man
+ 48: (  1) - Christie
+ 49: (  1) - Fraser A. Gorman
+ 50: (  1) - George McCrae
+ 51: (  1) - Houndmouth
+ 52: (  1) - Jamestown Revival
+ 53: (  1) - John Denver
+ 54: (  1) - John Fullbright
+ 55: (  1) - Pilot
+ 56: (  1) - Rodney Crowell (duet with Emmylou Harris)
+ 57: (  1) - Shakey Graves
+ 58: (  1) - Sharon Van Etten
+ 59: (  1) - Steve Harley & Cockney Rebel
+ 60: (  1) - Sufjan Stevens
+ 61: (  1) - T. Rex
+ 62: (  1) - The New Basement Tapes

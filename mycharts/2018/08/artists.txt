@@ -1,80 +1,80 @@
 Specified year (2018), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
      999            68            71           581
-   1: ( 108) - Cocteau Twins
-   2: (  90) - Amanda Shires
-   3: (  86) - Simple Minds
-   4: (  69) - The Velvet Underground
-   5: (  55) - Cowboy Junkies
-   6: (  52) - Bob Dylan
-   7: (  32) - The Style Council
+  1: (108) - Cocteau Twins
+  2: ( 90) - Amanda Shires
+  3: ( 86) - Simple Minds
+  4: ( 69) - The Velvet Underground
+  5: ( 55) - Cowboy Junkies
+  6: ( 52) - Bob Dylan
+  7: ( 32) - The Style Council
 
 
 
 
-   8: (  27) - Led Zeppelin
+  8: ( 27) - Led Zeppelin
 
 
-   9: (  24) - Phoebe Bridgers
+  9: ( 24) - Phoebe Bridgers
 
 
-  10: (  21) - David Bowie
-  11: (  20) - Kate Bush
-  12: (  20) - Lloyd Cole
-  13: (  20) - Jason Isbell and The 400 Unit
-  14: (  19) - Grace Jones
-  15: (  18) - The Civil Wars
-  16: (  17) - Echo & the Bunnymen
-  17: (  17) - Roxy Music
-  18: (  16) - Jeff Bridges
+ 10: ( 21) - David Bowie
+ 11: ( 20) - Jason Isbell and The 400 Unit
+ 12: ( 20) - Kate Bush
+ 13: ( 20) - Lloyd Cole
+ 14: ( 19) - Grace Jones
+ 15: ( 18) - The Civil Wars
+ 16: ( 17) - Echo & the Bunnymen
+ 17: ( 17) - Roxy Music
+ 18: ( 16) - Jeff Bridges
 
-  19: (  14) - The Clash
-  20: (  14) - Birds of Chicago
-  21: (  14) - The Corrs
-  22: (  13) - UB40
-  23: (  13) - Tift Merritt
-  24: (  13) - The Wailers
-  25: (  12) - Eliza Gilkyson
-  26: (  12) - Corb Lund
-  27: (  12) - The Cure
-  28: (  12) - Tubeway Army
-  29: (  11) - The Fall
-  30: (  11) - The Rolling Stones
-  31: (  11) - The Jam
-  32: (  10) - The Undertones
-  33: (  10) - Orchestral Manoeuvres in the Dark
-  34: (  10) - JT Nero
-  35: (  10) - Scott Walker
-  36: (   9) - Kacy & Clayton
-  37: (   8) - Hawkwind
-  38: (   8) - Chip Taylor & Carrie Rodriguez
-  39: (   7) - Roddy Frame
-  40: (   6) - Ryan Bingham
-  41: (   6) - Colin Farrell
-  42: (   3) - Buck Owens
-  43: (   3) - The Louvin Brothers
-  44: (   3) - Lightnin' Hopkins
-  45: (   3) - Waylon Jennings
-  46: (   3) - Townes Van Zandt
-  47: (   3) - Sam Phillips
-  48: (   3) - Robert Duvall
-  49: (   2) - Haircut 100
-  50: (   1) - Bob Dylan and Joan Baez
-  51: (   1) - dcoops
-  52: (   1) - Stealers Wheel
-  53: (   1) - The Passions
-  54: (   1) - Manfred Mann
-  55: (   1) - Suzanne Vega
-  56: (   1) - Mungo Jerry
-  57: (   1) - Strawbs
-  58: (   1) - New Order
-  59: (   1) - Yazoo
-  60: (   1) - John Cooper Clarke
-  61: (   1) - Weekend
-  62: (   1) - Furniture
-  63: (   1) - Japan
-  64: (   1) - Middle Of The Road
-  65: (   1) - The Chameleons
-  66: (   1) - Suzi Quatro
-  67: (   1) - Department S
-  68: (   1) - Altered Images
+ 19: ( 14) - Birds of Chicago
+ 20: ( 14) - The Clash
+ 21: ( 14) - The Corrs
+ 22: ( 13) - The Wailers
+ 23: ( 13) - Tift Merritt
+ 24: ( 13) - UB40
+ 25: ( 12) - Corb Lund
+ 26: ( 12) - Eliza Gilkyson
+ 27: ( 12) - The Cure
+ 28: ( 12) - Tubeway Army
+ 29: ( 11) - The Fall
+ 30: ( 11) - The Jam
+ 31: ( 11) - The Rolling Stones
+ 32: ( 10) - JT Nero
+ 33: ( 10) - Orchestral Manoeuvres in the Dark
+ 34: ( 10) - Scott Walker
+ 35: ( 10) - The Undertones
+ 36: (  9) - Kacy & Clayton
+ 37: (  8) - Chip Taylor & Carrie Rodriguez
+ 38: (  8) - Hawkwind
+ 39: (  7) - Roddy Frame
+ 40: (  6) - Colin Farrell
+ 41: (  6) - Ryan Bingham
+ 42: (  3) - Buck Owens
+ 43: (  3) - Lightnin' Hopkins
+ 44: (  3) - Robert Duvall
+ 45: (  3) - Sam Phillips
+ 46: (  3) - The Louvin Brothers
+ 47: (  3) - Townes Van Zandt
+ 48: (  3) - Waylon Jennings
+ 49: (  2) - Haircut 100
+ 50: (  1) - Altered Images
+ 51: (  1) - Bob Dylan and Joan Baez
+ 52: (  1) - Department S
+ 53: (  1) - Furniture
+ 54: (  1) - Japan
+ 55: (  1) - John Cooper Clarke
+ 56: (  1) - Manfred Mann
+ 57: (  1) - Middle Of The Road
+ 58: (  1) - Mungo Jerry
+ 59: (  1) - New Order
+ 60: (  1) - Stealers Wheel
+ 61: (  1) - Strawbs
+ 62: (  1) - Suzanne Vega
+ 63: (  1) - Suzi Quatro
+ 64: (  1) - The Chameleons
+ 65: (  1) - The Passions
+ 66: (  1) - Weekend
+ 67: (  1) - Yazoo
+ 68: (  1) - dcoops

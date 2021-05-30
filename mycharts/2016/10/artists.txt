@@ -1,98 +1,98 @@
 Specified year (2016), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1237            79            77           821
-   1: ( 135) - The Style Council
-   2: (  63) - David Bowie
-   3: (  60) - Lloyd Cole
-   4: (  56) - Edwyn Collins
-   5: (  55) - Leonard Cohen
-   6: (  50) - Gillian Welch
-   7: (  45) - Devine & Statton
+  1: (135) - The Style Council
+  2: ( 63) - David Bowie
+  3: ( 60) - Lloyd Cole
+  4: ( 56) - Edwyn Collins
+  5: ( 55) - Leonard Cohen
+  6: ( 50) - Gillian Welch
+  7: ( 45) - Devine & Statton
 
 
-   8: (  42) - Bob Dylan
-   9: (  41) - Birds of Chicago
+  8: ( 42) - Bob Dylan
+  9: ( 41) - Birds of Chicago
 
 
-  10: (  38) - Amanda Shires
-
-
-
-  11: (  34) - Corb Lund
-  12: (  33) - Hayes Carll
-
-  13: (  31) - Justin Townes Earle
+ 10: ( 38) - Amanda Shires
 
 
 
+ 11: ( 34) - Corb Lund
+ 12: ( 33) - Hayes Carll
+
+ 13: ( 31) - Justin Townes Earle
 
 
 
-  14: (  24) - Angie Palmer
-  15: (  23) - Emmylou Harris
-  16: (  22) - Jason Isbell
-  17: (  22) - The Jam
-  18: (  21) - Suzanne Vega
-  19: (  20) - Rod Picott and Amanda Shires
 
-  20: (  18) - Aztec Camera
-  21: (  18) - Focus
-  22: (  18) - Sarah MacDougall
-  23: (  17) - JT Nero
-  24: (  17) - Elvis Costello
-  25: (  16) - Spandau Ballet
 
-  26: (  14) - Nick Heyward
-  27: (  13) - Orange Juice
-  28: (  13) - It's Immaterial
-  29: (  12) - The Velvet Underground
-  30: (  12) - The Redlands Palomino Company
-  31: (  12) - Laura Cantrell
-  32: (  12) - Kacey Musgraves
-  33: (  11) - Eilen Jewell
-  34: (  11) - Lera Lynn
-  35: (  11) - Eliza Gilkyson
-  36: (  11) - The Wailers
-  37: (  11) - Echo & the Bunnymen
-  38: (  11) - The Undertones
-  39: (  11) - ABC
-  40: (  10) - Lloyd Cole and The Commotions
-  41: (  10) - The Police
-  42: (  10) - Jan Garbarek
-  43: (  10) - The Sundays
-  44: (  10) - Rodney Crowell
-  45: (  10) - Tift Merritt
-  46: (   9) - Heaven 17
-  47: (   7) - B.E.F.
-  48: (   6) - Laura Marling
-  49: (   5) - Corb Lund 
-  50: (   5) - Amanda Shires  
-  51: (   3) - Conor Oberst
-  52: (   3) - Goat
-  53: (   3) - Luke Roberts
-  54: (   3) - Chivalrous Amoekons
-  55: (   3) - C Duncan
-  56: (   3) - Kristin Hersh
-  57: (   3) - Acid Arab
-  58: (   3) - Xylouris White
-  59: (   3) - Julia Jacklin
-  60: (   3) - Purling Hiss
-  61: (   3) - the FRIGHTNRS
-  62: (   3) - Natural Child
-  63: (   3) - The Clang Group
-  64: (   3) - Weyes Blood
-  65: (   3) - 75 Dollar Bill
-  66: (   2) - Tom House
-  67: (   2) - Lambchop
-  68: (   1) - Sleaford Mods
-  69: (   1) - Kort
-  70: (   1) - William Tyler
-  71: (   1) - Tiny Ruins
-  72: (   1) - Shabazz Palaces
-  73: (   1) - Dump
-  74: (   1) - Factory Floor
-  75: (   1) - Richard Buckner
-  76: (   1) - Yolo Tengo
-  77: (   1) - Can
-  78: (   1) - Nick Cave & The Bad Seeds
-  79: (   1) - Rodney Crowell (duet with Emmylou Harris)
+
+ 14: ( 24) - Angie Palmer
+ 15: ( 23) - Emmylou Harris
+ 16: ( 22) - Jason Isbell
+ 17: ( 22) - The Jam
+ 18: ( 21) - Suzanne Vega
+ 19: ( 20) - Rod Picott and Amanda Shires
+
+ 20: ( 18) - Aztec Camera
+ 21: ( 18) - Focus
+ 22: ( 18) - Sarah MacDougall
+ 23: ( 17) - Elvis Costello
+ 24: ( 17) - JT Nero
+ 25: ( 16) - Spandau Ballet
+
+ 26: ( 14) - Nick Heyward
+ 27: ( 13) - It's Immaterial
+ 28: ( 13) - Orange Juice
+ 29: ( 12) - Kacey Musgraves
+ 30: ( 12) - Laura Cantrell
+ 31: ( 12) - The Redlands Palomino Company
+ 32: ( 12) - The Velvet Underground
+ 33: ( 11) - ABC
+ 34: ( 11) - Echo & the Bunnymen
+ 35: ( 11) - Eilen Jewell
+ 36: ( 11) - Eliza Gilkyson
+ 37: ( 11) - Lera Lynn
+ 38: ( 11) - The Undertones
+ 39: ( 11) - The Wailers
+ 40: ( 10) - Jan Garbarek
+ 41: ( 10) - Lloyd Cole and The Commotions
+ 42: ( 10) - Rodney Crowell
+ 43: ( 10) - The Police
+ 44: ( 10) - The Sundays
+ 45: ( 10) - Tift Merritt
+ 46: (  9) - Heaven 17
+ 47: (  7) - B.E.F.
+ 48: (  6) - Laura Marling
+ 49: (  5) - Amanda Shires  
+ 50: (  5) - Corb Lund 
+ 51: (  3) - 75 Dollar Bill
+ 52: (  3) - Acid Arab
+ 53: (  3) - C Duncan
+ 54: (  3) - Chivalrous Amoekons
+ 55: (  3) - Conor Oberst
+ 56: (  3) - Goat
+ 57: (  3) - Julia Jacklin
+ 58: (  3) - Kristin Hersh
+ 59: (  3) - Luke Roberts
+ 60: (  3) - Natural Child
+ 61: (  3) - Purling Hiss
+ 62: (  3) - The Clang Group
+ 63: (  3) - Weyes Blood
+ 64: (  3) - Xylouris White
+ 65: (  3) - the FRIGHTNRS
+ 66: (  2) - Lambchop
+ 67: (  2) - Tom House
+ 68: (  1) - Can
+ 69: (  1) - Dump
+ 70: (  1) - Factory Floor
+ 71: (  1) - Kort
+ 72: (  1) - Nick Cave & The Bad Seeds
+ 73: (  1) - Richard Buckner
+ 74: (  1) - Rodney Crowell (duet with Emmylou Harris)
+ 75: (  1) - Shabazz Palaces
+ 76: (  1) - Sleaford Mods
+ 77: (  1) - Tiny Ruins
+ 78: (  1) - William Tyler
+ 79: (  1) - Yolo Tengo

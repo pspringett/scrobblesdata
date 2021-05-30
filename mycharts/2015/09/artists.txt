@@ -1,16 +1,12 @@
 Specified year (2015), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
      435           102            50           363
-   1: (  53) - Tift Merritt
-   2: (  39) - Bob Dylan
+  1: ( 53) - Tift Merritt
+  2: ( 39) - Bob Dylan
 
 
 
-   3: (  35) - Prefab Sprout
-
-
-
-
+  3: ( 35) - Prefab Sprout
 
 
 
@@ -21,105 +17,109 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   4: (  20) - Andrew Combs
-   5: (  19) - Orchestral Manoeuvres in the Dark
-
-   6: (  17) - The Go-Betweens
-   7: (  16) - Cocteau Twins
 
 
-   8: (  13) - Lloyd Cole
-   9: (  13) - Robert Forster
-  10: (  12) - Gretchen Peters
-  11: (  12) - Patty Griffin
-  12: (  12) - Eilen Jewell
-  13: (  11) - Fleet Foxes
-  14: (  10) - The Civil Wars
-  15: (   9) - The Cure
-  16: (   9) - Dave Rawlings Machine
-  17: (   9) - Elvis Costello & The Attractions
-  18: (   9) - Roxy Music
-  19: (   6) - The Decemberists
-  20: (   6) - Elvis Costello
-  21: (   5) - Brian Eno
-  22: (   3) - Ken Boothe
-  23: (   3) - Phillip Samuels
-  24: (   2) - The Pioneers
-  25: (   2) - Jimmy Cliff
-  26: (   2) - Lloyd Parks
-  27: (   2) - The Velvet Underground
-  28: (   2) - Amanda Shires
-  29: (   2) - Dennis Brown
-  30: (   2) - The Heptones
-  31: (   2) - Cornell Campbell
-  32: (   2) - Owen Gray
-  33: (   2) - Gregory Isaacs
-  34: (   2) - Derrick Morgan
-  35: (   2) - Horace Andy
-  36: (   2) - Twinkle Brothers
-  37: (   2) - Freddie McKay
-  38: (   2) - Tracey Thorn
-  39: (   1) - Alton Ellis
-  40: (   1) - Bob & Marcia
-  41: (   1) - Jackie Edwards
-  42: (   1) - Villagers
-  43: (   1) - Real Estate
-  44: (   1) - Lee "Scratch" Perry
-  45: (   1) - U-Roy
-  46: (   1) - Big Youth
-  47: (   1) - Augustus Pablo
-  48: (   1) - John Holt
-  49: (   1) - Ike Bennett
-  50: (   1) - Trevor Brown
-  51: (   1) - The Lyrics
-  52: (   1) - The Rhythm Rulers
-  53: (   1) - Gene Rondo
-  54: (   1) - The Jokers
-  55: (   1) - The Hippy Boys
-  56: (   1) - Dice The Boss
-  57: (   1) - Peggy
-  58: (   1) - Barry & The Affections
-  59: (   1) - The Melodians
-  60: (   1) - Val Bennett
-  61: (   1) - Niney
-  62: (   1) - Dave Barker
-  63: (   1) - Rad Bryan
-  64: (   1) - Sir Lord Comic
-  65: (   1) - Bingy Bunny
-  66: (   1) - Annetta Jackson
-  67: (   1) - Joe White
-  68: (   1) - The Viceroys
-  69: (   1) - Carlton Brown
-  70: (   1) - Austin Faithful
-  71: (   1) - Lloyd Charmers
-  72: (   1) - Sir Collins
-  73: (   1) - The Immortals
-  74: (   1) - Keith & Tex
-  75: (   1) - Haircut 100
-  76: (   1) - Gary Numan
-  77: (   1) - Waylon Jennings
-  78: (   1) - Mindy Smith
-  79: (   1) - Yazoo
-  80: (   1) - New Order
-  81: (   1) - A Certain Ratio
-  82: (   1) - Martin Stephenson And The Daintees
-  83: (   1) - Leonard Cohen
-  84: (   1) - Talking Heads
-  85: (   1) - Texas
-  86: (   1) - Fleetwood Mac
-  87: (   1) - Jonathan Richman And The Modern Lovers
-  88: (   1) - Winston Francis
-  89: (   1) - Roy Martell
-  90: (   1) - Hot Rod All Stars
-  91: (   1) - Earl Lawrence
-  92: (   1) - Tommy McCook
-  93: (   1) - The Viceroys with Hubcap & The Wheels
-  94: (   1) - The Medetators
-  95: (   1) - Roy Panton
-  96: (   1) - Boy Friday
-  97: (   1) - Lester Sterling
-  98: (   1) - Brent Dowe
-  99: (   1) - The Cables
- 100: (   1) - Billy Dyce
- 101: (   1) - The Mighty Diamonds
- 102: (   1) - Hubert Lee
+
+
+  4: ( 20) - Andrew Combs
+  5: ( 19) - Orchestral Manoeuvres in the Dark
+
+  6: ( 17) - The Go-Betweens
+  7: ( 16) - Cocteau Twins
+
+
+  8: ( 13) - Lloyd Cole
+  9: ( 13) - Robert Forster
+ 10: ( 12) - Eilen Jewell
+ 11: ( 12) - Gretchen Peters
+ 12: ( 12) - Patty Griffin
+ 13: ( 11) - Fleet Foxes
+ 14: ( 10) - The Civil Wars
+ 15: (  9) - Dave Rawlings Machine
+ 16: (  9) - Elvis Costello & The Attractions
+ 17: (  9) - Roxy Music
+ 18: (  9) - The Cure
+ 19: (  6) - Elvis Costello
+ 20: (  6) - The Decemberists
+ 21: (  5) - Brian Eno
+ 22: (  3) - Ken Boothe
+ 23: (  3) - Phillip Samuels
+ 24: (  2) - Amanda Shires
+ 25: (  2) - Cornell Campbell
+ 26: (  2) - Dennis Brown
+ 27: (  2) - Derrick Morgan
+ 28: (  2) - Freddie McKay
+ 29: (  2) - Gregory Isaacs
+ 30: (  2) - Horace Andy
+ 31: (  2) - Jimmy Cliff
+ 32: (  2) - Lloyd Parks
+ 33: (  2) - Owen Gray
+ 34: (  2) - The Heptones
+ 35: (  2) - The Pioneers
+ 36: (  2) - The Velvet Underground
+ 37: (  2) - Tracey Thorn
+ 38: (  2) - Twinkle Brothers
+ 39: (  1) - A Certain Ratio
+ 40: (  1) - Alton Ellis
+ 41: (  1) - Annetta Jackson
+ 42: (  1) - Augustus Pablo
+ 43: (  1) - Austin Faithful
+ 44: (  1) - Barry & The Affections
+ 45: (  1) - Big Youth
+ 46: (  1) - Billy Dyce
+ 47: (  1) - Bingy Bunny
+ 48: (  1) - Bob & Marcia
+ 49: (  1) - Boy Friday
+ 50: (  1) - Brent Dowe
+ 51: (  1) - Carlton Brown
+ 52: (  1) - Dave Barker
+ 53: (  1) - Dice The Boss
+ 54: (  1) - Earl Lawrence
+ 55: (  1) - Fleetwood Mac
+ 56: (  1) - Gary Numan
+ 57: (  1) - Gene Rondo
+ 58: (  1) - Haircut 100
+ 59: (  1) - Hot Rod All Stars
+ 60: (  1) - Hubert Lee
+ 61: (  1) - Ike Bennett
+ 62: (  1) - Jackie Edwards
+ 63: (  1) - Joe White
+ 64: (  1) - John Holt
+ 65: (  1) - Jonathan Richman And The Modern Lovers
+ 66: (  1) - Keith & Tex
+ 67: (  1) - Lee "Scratch" Perry
+ 68: (  1) - Leonard Cohen
+ 69: (  1) - Lester Sterling
+ 70: (  1) - Lloyd Charmers
+ 71: (  1) - Martin Stephenson And The Daintees
+ 72: (  1) - Mindy Smith
+ 73: (  1) - New Order
+ 74: (  1) - Niney
+ 75: (  1) - Peggy
+ 76: (  1) - Rad Bryan
+ 77: (  1) - Real Estate
+ 78: (  1) - Roy Martell
+ 79: (  1) - Roy Panton
+ 80: (  1) - Sir Collins
+ 81: (  1) - Sir Lord Comic
+ 82: (  1) - Talking Heads
+ 83: (  1) - Texas
+ 84: (  1) - The Cables
+ 85: (  1) - The Hippy Boys
+ 86: (  1) - The Immortals
+ 87: (  1) - The Jokers
+ 88: (  1) - The Lyrics
+ 89: (  1) - The Medetators
+ 90: (  1) - The Melodians
+ 91: (  1) - The Mighty Diamonds
+ 92: (  1) - The Rhythm Rulers
+ 93: (  1) - The Viceroys
+ 94: (  1) - The Viceroys with Hubcap & The Wheels
+ 95: (  1) - Tommy McCook
+ 96: (  1) - Trevor Brown
+ 97: (  1) - U-Roy
+ 98: (  1) - Val Bennett
+ 99: (  1) - Villagers
+100: (  1) - Waylon Jennings
+101: (  1) - Winston Francis
+102: (  1) - Yazoo

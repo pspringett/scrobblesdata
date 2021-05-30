@@ -1,59 +1,59 @@
 Specified year (2017), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
      670            28            39           394
-   1: (  71) - Short Movie - Laura Marling
-   2: (  50) - Sinatra - Basie (Remastered) - Count Basie
-   3: (  40) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
+  1: ( 71) - Short Movie - Laura Marling
+  2: ( 50) - Sinatra - Basie (Remastered) - Count Basie
+  3: ( 40) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
 
 
 
-   4: (  36) - Siren - Roxy Music
-   5: (  36) - Parallel Lines: Deluxe Collector's Edition - Blondie
-
-
-
-
-
-   6: (  30) - Lost And Found - Eliza Gilkyson
+  4: ( 36) - Parallel Lines: Deluxe Collector's Edition - Blondie
+  5: ( 36) - Siren - Roxy Music
 
 
 
 
-   7: (  25) - Scott 3 - Scott Walker
-   8: (  24) - Woodland Echoes - Nick Heyward
-   9: (  23) - Head Over Heels - Cocteau Twins
-  10: (  22) - Transformer - Lou Reed
-  11: (  22) - Real Midnight - Birds of Chicago
-  12: (  21) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
+
+  6: ( 30) * Lost And Found - Eliza Gilkyson
 
 
-  13: (  18) - Echo & The Bunnymen - Echo & the Bunnymen
-  14: (  18) - Jordan: The Comeback - Prefab Sprout
 
-  15: (  16) - Are You Experienced - Jimi Hendrix
 
-  16: (  14) - This Is The Sea (Deluxe Version) - The Waterboys
+  7: ( 25) - Scott 3 - Scott Walker
+  8: ( 24) - Woodland Echoes - Nick Heyward
+  9: ( 23) - Head Over Heels - Cocteau Twins
+ 10: ( 22) - Real Midnight - Birds of Chicago
+ 11: ( 22) * Transformer - Lou Reed
+ 12: ( 21) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
 
-  17: (  12) - Midwest Farmer's Daughter - Margo Price
-  18: (  12) - Low - David Bowie
-  19: (  12) - Kids In The Street - Justin Townes Earle
-  20: (  12) - Sermon On The Rocks - Josh Ritter
-  21: (  12) - Crocodiles - Echo & the Bunnymen
-  22: (  11) - Broken Record - Lloyd Cole
-  23: (  11) - Antidepressant - Lloyd Cole
-  24: (  11) - Heaven Up Here - Echo & the Bunnymen
-  25: (  11) - Rumours - Fleetwood Mac
-  26: (  11) - The Weather Station - The Weather Station
-  27: (  10) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
-  28: (  10) - Can't Buy A Thrill - Steely Dan
-  29: (  10) - Upstairs At Erics (Remastered) - Yazoo
-  30: (   9) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
-  31: (   8) - Movement [Collector's Edition] - New Order
-  32: (   8) - Ocean Rain - Echo & the Bunnymen
-  33: (   6) - Hurricane - Grace Jones
-  34: (   6) - The Nashville Sound - Jason Isbell and The 400 Unit
-  35: (   6) - Miles From Our Home - Cowboy Junkies
-  36: (   6) - Cleaning Out The Ashtrays Cd4 Difficult Pieces - Lloyd Cole
-  37: (   6) - American Flowers - Birds of Chicago
-  38: (   2) - Don't Get Weird On Me Babe - Lloyd Cole
-  39: (   2) - Plastic Wood - Lloyd Cole
+
+ 13: ( 18) - Echo & The Bunnymen - Echo & the Bunnymen
+ 14: ( 18) * Jordan: The Comeback - Prefab Sprout
+
+ 15: ( 16) - Are You Experienced - Jimi Hendrix
+
+ 16: ( 14) - This Is The Sea (Deluxe Version) - The Waterboys
+
+ 17: ( 12) - Crocodiles - Echo & the Bunnymen
+ 18: ( 12) - Kids In The Street - Justin Townes Earle
+ 19: ( 12) - Low - David Bowie
+ 20: ( 12) - Midwest Farmer's Daughter - Margo Price
+ 21: ( 12) - Sermon On The Rocks - Josh Ritter
+ 22: ( 11) * Antidepressant - Lloyd Cole
+ 23: ( 11) * Broken Record - Lloyd Cole
+ 24: ( 11) * Heaven Up Here - Echo & the Bunnymen
+ 25: ( 11) - Rumours - Fleetwood Mac
+ 26: ( 11) - The Weather Station - The Weather Station
+ 27: ( 10) - Can't Buy A Thrill - Steely Dan
+ 28: ( 10) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 29: ( 10) - Upstairs At Erics (Remastered) - Yazoo
+ 30: (  9) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
+ 31: (  8) * Movement [Collector's Edition] - New Order
+ 32: (  8) * Ocean Rain - Echo & the Bunnymen
+ 33: (  6) - American Flowers - Birds of Chicago
+ 34: (  6) - Cleaning Out The Ashtrays Cd4 Difficult Pieces - Lloyd Cole
+ 35: (  6) - Hurricane - Grace Jones
+ 36: (  6) - Miles From Our Home - Cowboy Junkies
+ 37: (  6) - The Nashville Sound - Jason Isbell and The 400 Unit
+ 38: (  2) * Don't Get Weird On Me Babe - Lloyd Cole
+ 39: (  2) * Plastic Wood - Lloyd Cole

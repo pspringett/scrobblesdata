@@ -1,11 +1,11 @@
 Specified year (2015), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
      904            86           120           716
-   1: (  66) - Hem
-   2: (  55) - Bob Dylan
-   3: (  50) - Lloyd Cole
-   4: (  50) - Allison Moorer
-   5: (  49) - Roxy Music
+  1: ( 66) - Hem
+  2: ( 55) - Bob Dylan
+  3: ( 50) - Allison Moorer
+  4: ( 50) - Lloyd Cole
+  5: ( 49) - Roxy Music
 
 
 
@@ -19,95 +19,95 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   6: (  35) - U2
+  6: ( 35) - U2
 
-   7: (  33) - Shelby Lynne
-   8: (  32) - Tift Merritt
-   9: (  32) - The Jam
+  7: ( 33) - Shelby Lynne
+  8: ( 32) - The Jam
+  9: ( 32) - Tift Merritt
 
-  10: (  30) - Prefab Sprout
-
-
-
-  11: (  26) - Kacey Musgraves
-
-
-  12: (  23) - Orange Juice
-  13: (  23) - Carrie Rodriguez
-  14: (  22) - Rachel Harrington
+ 10: ( 30) - Prefab Sprout
 
 
 
-  15: (  18) - Heaven 17
-  16: (  17) - Emmylou Harris
+ 11: ( 26) - Kacey Musgraves
 
-  17: (  15) - Rod Stewart
-  18: (  15) - Corb Lund
-  19: (  14) - Dave Rawlings Machine
-  20: (  14) - Rosanne Cash
-  21: (  13) - UB40
-  22: (  12) - Jason Isbell
-  23: (  12) - Scott Walker
-  24: (  12) - Edwyn Collins
-  25: (  12) - Laura Marling
-  26: (  11) - Echo & the Bunnymen
-  27: (  11) - The Cure
-  28: (  11) - The Wailers
-  29: (  10) - Tom Tom Club
-  30: (  10) - Robert Forster
-  31: (  10) - Simple Minds
-  32: (  10) - Angie Palmer
-  33: (  10) - JT Nero
-  34: (  10) - JT and the Clouds
-  35: (   9) - Natalie Prass
-  36: (   9) - B.E.F.
-  37: (   9) - Miranda Lambert
-  38: (   9) - The Velvet Underground
-  39: (   8) - Elvis Costello
-  40: (   7) - Larkin Poe
-  41: (   7) - David Bowie
-  42: (   7) - The Style Council
-  43: (   6) - Lloyd Cole and The Commotions
-  44: (   4) - Cara Luft
-  45: (   3) - The Decemberists
-  46: (   3) - Martin Stephenson And The Daintees
-  47: (   3) - Orchestral Manoeuvres in the Dark
-  48: (   2) - Wham!
-  49: (   2) - Nat King Cole
-  50: (   2) - Bruce Springsteen
-  51: (   2) - The Pretenders
-  52: (   2) - Stevie Nicks
-  53: (   2) - John Cale
-  54: (   2) - Travis Linville
-  55: (   2) - Yazoo
-  56: (   1) - Miranda Lambert feat. Little Big Town
-  57: (   1) - Miranda Lambert feat. The Time Jumpers
-  58: (   1) - Slade
-  59: (   1) - Dolly Parton
-  60: (   1) - George Strait
-  61: (   1) - Alison Moyet
-  62: (   1) - Greg Lake
-  63: (   1) - Frank Sinatra
-  64: (   1) - Paul McCartney
-  65: (   1) - Frankie Goes to Hollywood
-  66: (   1) - Wizzard
-  67: (   1) - The Pogues
-  68: (   1) - Jona Lewie
-  69: (   1) - John Lennon
-  70: (   1) - Scritti Politti
-  71: (   1) - Led Zeppelin
-  72: (   1) - Martyn Bates
-  73: (   1) - Eilen Jewell
-  74: (   1) - The Dust Poets
-  75: (   1) - Hayes Carll
-  76: (   1) - The Low Anthem
-  77: (   1) - The Chameleons
-  78: (   1) - Stealers Wheel
-  79: (   1) - Department S
-  80: (   1) - Joy Division
-  81: (   1) - The Smiths
-  82: (   1) - Patty Griffin
-  83: (   1) - Middle Of The Road
-  84: (   1) - Dwight Yoakam
-  85: (   1) - Mindy Smith
-  86: (   1) - Cowboy Junkies
+
+ 12: ( 23) - Carrie Rodriguez
+ 13: ( 23) - Orange Juice
+ 14: ( 22) - Rachel Harrington
+
+
+
+ 15: ( 18) - Heaven 17
+ 16: ( 17) - Emmylou Harris
+
+ 17: ( 15) - Corb Lund
+ 18: ( 15) - Rod Stewart
+ 19: ( 14) - Dave Rawlings Machine
+ 20: ( 14) - Rosanne Cash
+ 21: ( 13) - UB40
+ 22: ( 12) - Edwyn Collins
+ 23: ( 12) - Jason Isbell
+ 24: ( 12) - Laura Marling
+ 25: ( 12) - Scott Walker
+ 26: ( 11) - Echo & the Bunnymen
+ 27: ( 11) - The Cure
+ 28: ( 11) - The Wailers
+ 29: ( 10) - Angie Palmer
+ 30: ( 10) - JT Nero
+ 31: ( 10) - JT and the Clouds
+ 32: ( 10) - Robert Forster
+ 33: ( 10) - Simple Minds
+ 34: ( 10) - Tom Tom Club
+ 35: (  9) - B.E.F.
+ 36: (  9) - Miranda Lambert
+ 37: (  9) - Natalie Prass
+ 38: (  9) - The Velvet Underground
+ 39: (  8) - Elvis Costello
+ 40: (  7) - David Bowie
+ 41: (  7) - Larkin Poe
+ 42: (  7) - The Style Council
+ 43: (  6) - Lloyd Cole and The Commotions
+ 44: (  4) - Cara Luft
+ 45: (  3) - Martin Stephenson And The Daintees
+ 46: (  3) - Orchestral Manoeuvres in the Dark
+ 47: (  3) - The Decemberists
+ 48: (  2) - Bruce Springsteen
+ 49: (  2) - John Cale
+ 50: (  2) - Nat King Cole
+ 51: (  2) - Stevie Nicks
+ 52: (  2) - The Pretenders
+ 53: (  2) - Travis Linville
+ 54: (  2) - Wham!
+ 55: (  2) - Yazoo
+ 56: (  1) - Alison Moyet
+ 57: (  1) - Cowboy Junkies
+ 58: (  1) - Department S
+ 59: (  1) - Dolly Parton
+ 60: (  1) - Dwight Yoakam
+ 61: (  1) - Eilen Jewell
+ 62: (  1) - Frank Sinatra
+ 63: (  1) - Frankie Goes to Hollywood
+ 64: (  1) - George Strait
+ 65: (  1) - Greg Lake
+ 66: (  1) - Hayes Carll
+ 67: (  1) - John Lennon
+ 68: (  1) - Jona Lewie
+ 69: (  1) - Joy Division
+ 70: (  1) - Led Zeppelin
+ 71: (  1) - Martyn Bates
+ 72: (  1) - Middle Of The Road
+ 73: (  1) - Mindy Smith
+ 74: (  1) - Miranda Lambert feat. Little Big Town
+ 75: (  1) - Miranda Lambert feat. The Time Jumpers
+ 76: (  1) - Patty Griffin
+ 77: (  1) - Paul McCartney
+ 78: (  1) - Scritti Politti
+ 79: (  1) - Slade
+ 80: (  1) - Stealers Wheel
+ 81: (  1) - The Chameleons
+ 82: (  1) - The Dust Poets
+ 83: (  1) - The Low Anthem
+ 84: (  1) - The Pogues
+ 85: (  1) - The Smiths
+ 86: (  1) - Wizzard

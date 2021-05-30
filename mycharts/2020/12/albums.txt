@@ -1,11 +1,11 @@
 Specified year (2020), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
      722            57            54           210
-   1: (  86) - Mccartney - Paul McCartney
-   2: (  86) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
-   3: (  80) - You Are Here - Piney Gir
-   4: (  54) - Achtung Baby - U2
-   5: (  48) - Celebration - Simple Minds
+  1: ( 86) - Mccartney - Paul McCartney
+  2: ( 86) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
+  3: ( 80) - You Are Here - Piney Gir
+  4: ( 54) - Achtung Baby - U2
+  5: ( 48) - Celebration - Simple Minds
 
 
 
@@ -17,105 +17,105 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   6: (  36) - The Wrong People - Furniture
+  6: ( 36) - The Wrong People - Furniture
 
 
 
-   7: (  32) - Gaslighter - The Chicks
-
-
-
-
-
-
-
-   8: (  24) - Hey Clockface - Elvis Costello
-   9: (  24) - Crocodiles - Echo & the Bunnymen
-
-
-
-  10: (  20) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+  7: ( 32) - Gaslighter - The Chicks
 
 
 
 
 
-  11: (  14) - Good Luck, Seeker - The Waterboys
-  12: (  14) - Armed Forces (Super Deluxe Edition) - Elvis Costello & The Attractions
 
-  13: (  12) - Desire - Bob Dylan
-  14: (  12) - Something On My Mind - The Pale Fountains
 
-  15: (  10) - This Year's Model - Bonus - Elvis Costello
-  16: (   6) - Boy - U2
-  17: (   6) - Sorry For Laughing - Josef K
-  18: (   4) - Coals To Newcastle - Orange Juice
-  19: (   4) - The Psychedelic Scene - The Syn
-  20: (   4) - The Psychedelic Scene - Keith Shields
-  21: (   4) - Elevation Days - Edwyn Collins
-  22: (   4) - I Fix My Gaze / Don't Shy Away - Loma
-  23: (   4) - Iii - Loma
-  24: (   4) - Songs - Loma
-  25: (   4) - War Baby - Hope & Glory - Tom Robinson
-  26: (   4) - New Gold Dream (81/82/83/84) - Simple Minds
-  27: (   2) - Songs - Adrianne Lenker
-  28: (   2) - Nightcap At Wits' End - Garcia Peoples
-  29: (   2) - Acr Loco - A Certain Ratio
-  30: (   2) - Song To A Refugee - Diana Jones
-  31: (   2) - 2020 - Magik Markers
-  32: (   2) - Misfit's Jubilee - Jim White
-  33: (   2) - Silver Ladders - Mary Lattimore
-  34: (   2) - Whatever It Is - Hello Forever
-  35: (   2) - The Ascension - Sufjan Stevens
-  36: (   2) - Iii - Fuzz
-  37: (   2) - Barre - Songhoy Blues
-  38: (   2) - The View From Halfway Down - Andy Bell
-  39: (   2) - Free Humans - Hen Ogledd
-  40: (   2) - Soul Dance! - Loma
-  41: (   2) - Silver Ladders - Loma
-  42: (   2) - Nightcap At Wits' End - Loma
-  43: (   2) - The View From Halfway Down - Loma
-  44: (   2) - The Ascension - Loma
-  45: (   2) - Whatever It Is - Loma
-  46: (   2) - Misfit's Jubilee - Loma
-  47: (   2) - Song To A Refugee - Loma
-  48: (   2) - Acr Loco - Loma
-  49: (   2) - Free Humans - Loma
-  50: (   2) - Barre - Loma
-  51: (   2) - 2020 - Loma
-  52: (   2) - Love Comes In Waves - Loma
-  53: (   2) - Trouble - Loma
-  54: (   2) - Transitions 1: Spaceship Bop (1955-57) - Loma
-  55: (   2) - Finds You Well - Loma
-  56: (   2) - Badala - Loma
-  57: (   2) - Walking On A String - Loma
-  58: (   2) - Pine Trees - Loma
-  59: (   2) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
-  60: (   2) - Forgotten Days - Loma
-  61: (   2) - As Long As You Are - Loma
-  62: (   2) - Wanderer - Cara Dillon
-  63: (   2) - Pacific Street - The Pale Fountains
-  64: (   2) - Tin Drum - Japan
-  65: (   2) - You And Me Both - Yazoo
-  66: (   2) - Station To Station - David Bowie
-  67: (   2) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-  68: (   2) - The Psychedelic Scene - Tintern Abbey
-  69: (   2) - The Psychedelic Scene - The End
-  70: (   2) - The Psychedelic Scene - The Accent
-  71: (   2) - The Psychedelic Scene - Curiosity Shoppe
-  72: (   2) - The Psychedelic Scene - The Poets
-  73: (   2) - The Psychedelic Scene - The Attack
-  74: (   2) - The Psychedelic Scene - The Fairytale
-  75: (   2) - The Psychedelic Scene - Turquoise
-  76: (   2) - The Psychedelic Scene - Al Stewart
-  77: (   2) - The Psychedelic Scene - Virgin Sleep
-  78: (   2) - The Psychedelic Scene - Felius Andromeda
-  79: (   2) - The Psychedelic Scene - Human Instinct
-  80: (   2) - The Psychedelic Scene - ICE
-  81: (   2) - The Psychedelic Scene - The Moody Blues
-  82: (   2) - The Psychedelic Scene - 23rd Turnoff
-  83: (   2) - The Psychedelic Scene - The Societie
-  84: (   2) - The Psychedelic Scene - World Of Oz
-  85: (   2) - The Psychedelic Scene - Garden Odyssey Enterprise
-  86: (   2) - The Psychedelic Scene - Timebox
-  87: (   2) - Snap, Crackle & Bop (Expanded Edition) - John Cooper Clarke
+  8: ( 24) - Crocodiles - Echo & the Bunnymen
+  9: ( 24) - Hey Clockface - Elvis Costello
+
+
+
+ 10: ( 20) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+
+
+
+
+
+ 11: ( 14) - Armed Forces (Super Deluxe Edition) - Elvis Costello & The Attractions
+ 12: ( 14) - Good Luck, Seeker - The Waterboys
+
+ 13: ( 12) * Desire - Bob Dylan
+ 14: ( 12) - Something On My Mind - The Pale Fountains
+
+ 15: ( 10) - This Year's Model - Bonus - Elvis Costello
+ 16: (  6) * Boy - U2
+ 17: (  6) - Sorry For Laughing - Josef K
+ 18: (  4) - Coals To Newcastle - Orange Juice
+ 19: (  4) - Elevation Days - Edwyn Collins
+ 20: (  4) - I Fix My Gaze / Don't Shy Away - Loma
+ 21: (  4) - Iii - Loma
+ 22: (  4) - New Gold Dream (81/82/83/84) - Simple Minds
+ 23: (  4) - Songs - Loma
+ 24: (  4) - The Psychedelic Scene - Keith Shields
+ 25: (  4) - The Psychedelic Scene - The Syn
+ 26: (  4) - War Baby - Hope & Glory - Tom Robinson
+ 27: (  2) - 2020 - Loma
+ 28: (  2) - 2020 - Magik Markers
+ 29: (  2) - Acr Loco - A Certain Ratio
+ 30: (  2) - Acr Loco - Loma
+ 31: (  2) - As Long As You Are - Loma
+ 32: (  2) - Badala - Loma
+ 33: (  2) - Barre - Loma
+ 34: (  2) - Barre - Songhoy Blues
+ 35: (  2) - Finds You Well - Loma
+ 36: (  2) - Forgotten Days - Loma
+ 37: (  2) - Free Humans - Hen Ogledd
+ 38: (  2) - Free Humans - Loma
+ 39: (  2) - Iii - Fuzz
+ 40: (  2) - Love Comes In Waves - Loma
+ 41: (  2) - Misfit's Jubilee - Jim White
+ 42: (  2) - Misfit's Jubilee - Loma
+ 43: (  2) - Nightcap At Wits' End - Garcia Peoples
+ 44: (  2) - Nightcap At Wits' End - Loma
+ 45: (  2) - Pacific Street - The Pale Fountains
+ 46: (  2) - Pine Trees - Loma
+ 47: (  2) - Silver Ladders - Loma
+ 48: (  2) - Silver Ladders - Mary Lattimore
+ 49: (  2) - Snap, Crackle & Bop (Expanded Edition) - John Cooper Clarke
+ 50: (  2) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
+ 51: (  2) - Song To A Refugee - Diana Jones
+ 52: (  2) - Song To A Refugee - Loma
+ 53: (  2) - Songs - Adrianne Lenker
+ 54: (  2) - Soul Dance! - Loma
+ 55: (  2) * Station To Station - David Bowie
+ 56: (  2) - The Ascension - Loma
+ 57: (  2) - The Ascension - Sufjan Stevens
+ 58: (  2) - The Psychedelic Scene - 23rd Turnoff
+ 59: (  2) - The Psychedelic Scene - Al Stewart
+ 60: (  2) - The Psychedelic Scene - Curiosity Shoppe
+ 61: (  2) - The Psychedelic Scene - Felius Andromeda
+ 62: (  2) - The Psychedelic Scene - Garden Odyssey Enterprise
+ 63: (  2) - The Psychedelic Scene - Human Instinct
+ 64: (  2) - The Psychedelic Scene - ICE
+ 65: (  2) - The Psychedelic Scene - The Accent
+ 66: (  2) - The Psychedelic Scene - The Attack
+ 67: (  2) - The Psychedelic Scene - The End
+ 68: (  2) - The Psychedelic Scene - The Fairytale
+ 69: (  2) - The Psychedelic Scene - The Moody Blues
+ 70: (  2) - The Psychedelic Scene - The Poets
+ 71: (  2) - The Psychedelic Scene - The Societie
+ 72: (  2) - The Psychedelic Scene - Timebox
+ 73: (  2) - The Psychedelic Scene - Tintern Abbey
+ 74: (  2) - The Psychedelic Scene - Turquoise
+ 75: (  2) - The Psychedelic Scene - Virgin Sleep
+ 76: (  2) - The Psychedelic Scene - World Of Oz
+ 77: (  2) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+ 78: (  2) - The View From Halfway Down - Andy Bell
+ 79: (  2) - The View From Halfway Down - Loma
+ 80: (  2) - Tin Drum - Japan
+ 81: (  2) - Transitions 1: Spaceship Bop (1955-57) - Loma
+ 82: (  2) - Trouble - Loma
+ 83: (  2) - Walking On A String - Loma
+ 84: (  2) - Wanderer - Cara Dillon
+ 85: (  2) - Whatever It Is - Hello Forever
+ 86: (  2) - Whatever It Is - Loma
+ 87: (  2) - You And Me Both - Yazoo

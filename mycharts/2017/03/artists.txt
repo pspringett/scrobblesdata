@@ -1,69 +1,69 @@
 Specified year (2017), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1272            52            76           691
-   1: ( 163) - Laura Marling
-   2: (  98) - Cowboy Junkies
-   3: (  86) - Orchestral Manoeuvres in the Dark
-   4: (  75) - T. Rex
-   5: (  58) - Echo & the Bunnymen
-   6: (  43) - Simple Minds
-   7: (  43) - Tift Merritt
+  1: (163) - Laura Marling
+  2: ( 98) - Cowboy Junkies
+  3: ( 86) - Orchestral Manoeuvres in the Dark
+  4: ( 75) - T. Rex
+  5: ( 58) - Echo & the Bunnymen
+  6: ( 43) - Simple Minds
+  7: ( 43) - Tift Merritt
 
-   8: (  41) - The Style Council
+  8: ( 41) - The Style Council
 
-   9: (  39) - Mary Chapin Carpenter
-
-
+  9: ( 39) - Mary Chapin Carpenter
 
 
-  10: (  34) - The Smiths
-  11: (  33) - Yazoo
-  12: (  32) - Rodney Crowell
-
-  13: (  30) - ABC
-
-  14: (  28) - Rosanne Cash
-  15: (  27) - Cocteau Twins
-  16: (  27) - UB40
-  17: (  27) - Talking Heads
 
 
-  18: (  24) - Emmylou Harris
+ 10: ( 34) - The Smiths
+ 11: ( 33) - Yazoo
+ 12: ( 32) - Rodney Crowell
 
-  19: (  22) - The Jayhawks
+ 13: ( 30) - ABC
 
-  20: (  20) - Bob Dylan
+ 14: ( 28) - Rosanne Cash
+ 15: ( 27) - Cocteau Twins
+ 16: ( 27) - Talking Heads
+ 17: ( 27) - UB40
 
-  21: (  18) - Margaret Glaspy
-  22: (  18) - Heaven 17
-  23: (  17) - The Jesus and Mary Chain
-  24: (  17) - Rod Stewart
-  25: (  17) - Birds of Chicago
 
-  26: (  15) - Bob Marley & The Wailers
-  27: (  15) - David Bowie
-  28: (  14) - The Undertones
-  29: (  14) - case/lang/veirs
-  30: (  14) - Brian Eno
-  31: (  13) - Lloyd Cole and The Commotions
-  32: (  12) - Marc Bolan
-  33: (  12) - Lizanne Knott
-  34: (  12) - It's Immaterial
-  35: (  11) - JT and the Clouds
-  36: (  10) - Roxy Music
-  37: (  10) - Roddy Frame
-  38: (  10) - Jack Harris
-  39: (  10) - The Go-Betweens
-  40: (   9) - Aztec Camera
-  41: (   9) - Paul Weller
-  42: (   7) - Lloyd Cole
-  43: (   6) - New Order
-  44: (   6) - Jason Isbell
-  45: (   6) - Orange Juice
-  46: (   5) - The Redlands Palomino Company
-  47: (   4) - Edwyn Collins
-  48: (   3) - Bob Marley
-  49: (   3) - Alex de Grassi
-  50: (   3) - Haircut 100
-  51: (   1) - The Wailers
-  52: (   1) - Rodney Crowell (duet with Emmylou Harris)
+ 18: ( 24) - Emmylou Harris
+
+ 19: ( 22) - The Jayhawks
+
+ 20: ( 20) - Bob Dylan
+
+ 21: ( 18) - Heaven 17
+ 22: ( 18) - Margaret Glaspy
+ 23: ( 17) - Birds of Chicago
+ 24: ( 17) - Rod Stewart
+ 25: ( 17) - The Jesus and Mary Chain
+
+ 26: ( 15) - Bob Marley & The Wailers
+ 27: ( 15) - David Bowie
+ 28: ( 14) - Brian Eno
+ 29: ( 14) - The Undertones
+ 30: ( 14) - case/lang/veirs
+ 31: ( 13) - Lloyd Cole and The Commotions
+ 32: ( 12) - It's Immaterial
+ 33: ( 12) - Lizanne Knott
+ 34: ( 12) - Marc Bolan
+ 35: ( 11) - JT and the Clouds
+ 36: ( 10) - Jack Harris
+ 37: ( 10) - Roddy Frame
+ 38: ( 10) - Roxy Music
+ 39: ( 10) - The Go-Betweens
+ 40: (  9) - Aztec Camera
+ 41: (  9) - Paul Weller
+ 42: (  7) - Lloyd Cole
+ 43: (  6) - Jason Isbell
+ 44: (  6) - New Order
+ 45: (  6) - Orange Juice
+ 46: (  5) - The Redlands Palomino Company
+ 47: (  4) - Edwyn Collins
+ 48: (  3) - Alex de Grassi
+ 49: (  3) - Bob Marley
+ 50: (  3) - Haircut 100
+ 51: (  1) - Rodney Crowell (duet with Emmylou Harris)
+ 52: (  1) - The Wailers

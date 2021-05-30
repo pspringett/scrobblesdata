@@ -1,128 +1,128 @@
 Specified year (2016), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1214            95            70           697
-   1: (  77) - Time Out Of Mind - Bob Dylan
-   2: (  60) - Something More Than Free - Jason Isbell
-   3: (  50) - I Speak Because I Can - Laura Marling
-   4: (  40) - Have You In My Wilderness - Julia Holter
+  1: ( 77) - Time Out Of Mind - Bob Dylan
+  2: ( 60) - Something More Than Free - Jason Isbell
+  3: ( 50) * I Speak Because I Can - Laura Marling
+  4: ( 40) - Have You In My Wilderness - Julia Holter
 
 
-   5: (  37) - War - U2
-   6: (  36) - Saturns Pattern - Paul Weller
-   7: (  36) - Red Dirt Girl - Emmylou Harris
+  5: ( 37) - War - U2
+  6: ( 36) - Red Dirt Girl - Emmylou Harris
+  7: ( 36) - Saturns Pattern - Paul Weller
 
 
-   8: (  33) - Tower Of Song - The Songs Of Leonard Cohen - Various
-   9: (  33) - Penthouse And Pavement - Heaven 17
+  8: ( 33) - Penthouse And Pavement - Heaven 17
+  9: ( 33) - Tower Of Song - The Songs Of Leonard Cohen - Various
 
 
-  10: (  30) - Blackbirds - Gretchen Peters
-
-
-
-
-  11: (  25) - What A Terrible World, What A Beautiful World - The Decemberists
-  12: (  24) - Same Trailer Different Park - Kacey Musgraves
-  13: (  24) - Pin Ups - David Bowie
-  14: (  24) - All Summer Long (2001 - Remaster) - The Beach Boys
-
-  15: (  22) - Standards - Lloyd Cole
-  16: (  22) - Alabama Song (International Version) - Allison Moorer
-  17: (  21) - The King Is Dead - The Decemberists
-  18: (  21) - Low - David Bowie
-  19: (  20) - Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
-  20: (  20) - Get Happy!! - Elvis Costello & The Attractions
+ 10: ( 30) * Blackbirds - Gretchen Peters
 
 
 
-  21: (  16) - Hello Cruel World - Gretchen Peters
-  22: (  16) - Eveningland - Hem
-  23: (  16) - Revelation Road - Shelby Lynne
-  24: (  16) - Grand Canyon - Sarah MacDougall
-  25: (  15) - Aladdin Sane - David Bowie
-  26: (  15) - Imperial Bedroom - Elvis Costello & The Attractions
-  27: (  14) - Pageant Material - Kacey Musgraves
-  28: (  14) - Organisation - Orchestral Manoeuvres in the Dark
-  29: (  14) - Trouble In Mind - Hayes Carll
-  30: (  13) - Down To Believing - Allison Moorer
-  31: (  13) - By The Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-  32: (  13) - Pet Sounds - 40Th Anniversary - The Beach Boys
-  33: (  13) - Departure And Farewell - Hem
-  34: (  12) - Letters From Sinners & Strangers - Eilen Jewell
-  35: (  12) - The List - Rosanne Cash
-  36: (  12) - Wrecking Ball - Emmylou Harris
-  37: (  12) - Sundown Over Ghost Town - Eilen Jewell
-  38: (  12) - Don't Get Weird On Me Babe - Lloyd Cole
-  39: (  11) - October - U2
-  40: (  11) - Young Americans - David Bowie
-  41: (  11) - Bad Vibes - Lloyd Cole
-  42: (  10) - Caledonia - JT and the Clouds
-  43: (  10) - Roxy Music - Roxy Music
-  44: (  10) - Seven Dials - Roddy Frame
-  45: (  10) - Across The Atlantic - Sarah MacDougall
-  46: (  10) - The Unforgettable Fire - U2
-  47: (  10) - The Caution Horses - Cowboy Junkies
-  48: (  10) - Country Life - Roxy Music
-  49: (   9) - Love - Aztec Camera
-  50: (   8) - For Your Pleasure - Roxy Music
-  51: (   8) - Power, Corruption & Lies - New Order
-  52: (   7) - Nashville Obsolete - Dave Rawlings Machine
-  53: (   7) - Demons/Demons - JT Nero
-  54: (   7) - Love Story - Lloyd Cole
-  55: (   6) - Love And Circumstance - Carrie Rodriguez
-  56: (   5) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - The Besnard Lakes
-  57: (   5) - Sew Your Heart With Wires - Rod Picott and Amanda Shires
-  58: (   5) - Seven Angels On A Bicycle - Carrie Rodriguez
-  59: (   5) - Uncut 2016-03 The Stars Are Out Tonight - School of Seven Bells
-  60: (   5) - Broken Record - Lloyd Cole
-  61: (   4) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Cowboy Junkies
-  62: (   4) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Rolling Creekdippers
-  63: (   4) - Uncut 2016-03 The Stars Are Out Tonight - Rokia Traoré
-  64: (   4) - Uncut 2016-03 The Stars Are Out Tonight - Cavern of Anti-Matter
-  65: (   4) - Uncut 2016-03 The Stars Are Out Tonight - Emitt Rhodes
-  66: (   4) - Uncut 2016-03 The Stars Are Out Tonight - Field Music
-  67: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Pretenders & Emmylou Harris
-  68: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Beck & Emmylou Harris
-  69: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Evan Dando & Julianna Hatfield
-  70: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Mavericks
-  71: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Chris Hillman & Steve Earle
-  72: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Sheryl Crow & Emmylou Harris
-  73: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Elvis Costello
-  74: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Lucinda Williams & David Crosby
-  75: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Wilco
-  76: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Whiskeytown
-  77: (   3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Gillian Welch
-  78: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Cross Record
-  79: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Lucinda Williams
-  80: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Eleanor Friedberger
-  81: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Tindersticks [Feat Lhasa De Sela]
-  82: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Lera Lynn
-  83: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - The Long Ryders
-  84: (   3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Suede
-  85: (   3) - Uncut 2016-03 The Stars Are Out Tonight - Mount Moriah
-  86: (   3) - Uncut 2016-03 The Stars Are Out Tonight - Freakwater
-  87: (   3) - Uncut 2016-03 The Stars Are Out Tonight - Rangda
-  88: (   3) - Uncut 2016-03 The Stars Are Out Tonight - Steve Mason
-  89: (   3) - Uncut 2016-03 The Stars Are Out Tonight - The Wilde Flowers
-  90: (   3) - Uncut 2016-03 The Stars Are Out Tonight - Barry Adamson
-  91: (   3) - Uncut 2016-03 The Stars Are Out Tonight - This Heat
-  92: (   2) - Love What You Do - Hackensaw Boys
-  93: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Fat White Family
-  94: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - John Cale
-  95: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Cian Nugent
-  96: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Saul Williams
-  97: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Baaba Maal
-  98: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Yorkston Thorne Khan
-  99: (   2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Tortoise
- 100: (   2) - Penthouse And Pavement - B.E.F.
- 101: (   2) - Uncut 2016-03 The Stars Are Out Tonight - Matmos
- 102: (   2) - Uncut 2016-03 The Stars Are Out Tonight - Prins Thomas
- 103: (   2) - Uncut 2016-03 The Stars Are Out Tonight - Josephine Foster
- 104: (   1) - Uncut 2016-02 What's Going On The Sound Of 2016 - Fat White Family
- 105: (   1) - Uncut 2016-12 - John Cale
- 106: (   1) - She Ain't Me - Carrie Rodriguez
- 107: (   1) - Pelican West Plus - Haircut 100
- 108: (   1) - Ooh La La - Faces
- 109: (   1) - I'm In Love With A German Film Star - The Passions
- 110: (   1) - Top 100 80S - New Order
- 111: (   1) - Happy Together - The Turtles
+
+ 11: ( 25) - What A Terrible World, What A Beautiful World - The Decemberists
+ 12: ( 24) - All Summer Long (2001 - Remaster) - The Beach Boys
+ 13: ( 24) - Pin Ups - David Bowie
+ 14: ( 24) - Same Trailer Different Park - Kacey Musgraves
+
+ 15: ( 22) - Alabama Song (International Version) - Allison Moorer
+ 16: ( 22) * Standards - Lloyd Cole
+ 17: ( 21) - Low - David Bowie
+ 18: ( 21) * The King Is Dead - The Decemberists
+ 19: ( 20) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
+ 20: ( 20) - Get Happy!! - Elvis Costello & The Attractions
+
+
+
+ 21: ( 16) * Eveningland - Hem
+ 22: ( 16) * Grand Canyon - Sarah MacDougall
+ 23: ( 16) - Hello Cruel World - Gretchen Peters
+ 24: ( 16) - Revelation Road - Shelby Lynne
+ 25: ( 15) - Aladdin Sane - David Bowie
+ 26: ( 15) - Imperial Bedroom - Elvis Costello & The Attractions
+ 27: ( 14) * Organisation - Orchestral Manoeuvres in the Dark
+ 28: ( 14) - Pageant Material - Kacey Musgraves
+ 29: ( 14) * Trouble In Mind - Hayes Carll
+ 30: ( 13) - By The Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+ 31: ( 13) * Departure And Farewell - Hem
+ 32: ( 13) - Down To Believing - Allison Moorer
+ 33: ( 13) - Pet Sounds - 40Th Anniversary - The Beach Boys
+ 34: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 35: ( 12) * Letters From Sinners & Strangers - Eilen Jewell
+ 36: ( 12) - Sundown Over Ghost Town - Eilen Jewell
+ 37: ( 12) - The List - Rosanne Cash
+ 38: ( 12) * Wrecking Ball - Emmylou Harris
+ 39: ( 11) * Bad Vibes - Lloyd Cole
+ 40: ( 11) * October - U2
+ 41: ( 11) * Young Americans - David Bowie
+ 42: ( 10) * Across The Atlantic - Sarah MacDougall
+ 43: ( 10) * Caledonia - JT and the Clouds
+ 44: ( 10) - Country Life - Roxy Music
+ 45: ( 10) * Roxy Music - Roxy Music
+ 46: ( 10) * Seven Dials - Roddy Frame
+ 47: ( 10) * The Caution Horses - Cowboy Junkies
+ 48: ( 10) * The Unforgettable Fire - U2
+ 49: (  9) - Love - Aztec Camera
+ 50: (  8) - For Your Pleasure - Roxy Music
+ 51: (  8) * Power, Corruption & Lies - New Order
+ 52: (  7) * Demons/Demons - JT Nero
+ 53: (  7) * Love Story - Lloyd Cole
+ 54: (  7) - Nashville Obsolete - Dave Rawlings Machine
+ 55: (  6) * Love And Circumstance - Carrie Rodriguez
+ 56: (  5) * Broken Record - Lloyd Cole
+ 57: (  5) * Seven Angels On A Bicycle - Carrie Rodriguez
+ 58: (  5) * Sew Your Heart With Wires - Rod Picott and Amanda Shires
+ 59: (  5) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - The Besnard Lakes
+ 60: (  5) - Uncut 2016-03 The Stars Are Out Tonight - School of Seven Bells
+ 61: (  4) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Cowboy Junkies
+ 62: (  4) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Rolling Creekdippers
+ 63: (  4) - Uncut 2016-03 The Stars Are Out Tonight - Cavern of Anti-Matter
+ 64: (  4) - Uncut 2016-03 The Stars Are Out Tonight - Emitt Rhodes
+ 65: (  4) - Uncut 2016-03 The Stars Are Out Tonight - Field Music
+ 66: (  4) - Uncut 2016-03 The Stars Are Out Tonight - Rokia Traoré
+ 67: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Beck & Emmylou Harris
+ 68: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Chris Hillman & Steve Earle
+ 69: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Elvis Costello
+ 70: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Evan Dando & Julianna Hatfield
+ 71: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Gillian Welch
+ 72: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Lucinda Williams & David Crosby
+ 73: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Sheryl Crow & Emmylou Harris
+ 74: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Mavericks
+ 75: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Pretenders & Emmylou Harris
+ 76: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Whiskeytown
+ 77: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Wilco
+ 78: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Cross Record
+ 79: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Eleanor Friedberger
+ 80: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Lera Lynn
+ 81: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Lucinda Williams
+ 82: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Suede
+ 83: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - The Long Ryders
+ 84: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Tindersticks [Feat Lhasa De Sela]
+ 85: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Barry Adamson
+ 86: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Freakwater
+ 87: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Mount Moriah
+ 88: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Rangda
+ 89: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Steve Mason
+ 90: (  3) - Uncut 2016-03 The Stars Are Out Tonight - The Wilde Flowers
+ 91: (  3) - Uncut 2016-03 The Stars Are Out Tonight - This Heat
+ 92: (  2) - Love What You Do - Hackensaw Boys
+ 93: (  2) - Penthouse And Pavement - B.E.F.
+ 94: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Baaba Maal
+ 95: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Cian Nugent
+ 96: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Fat White Family
+ 97: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - John Cale
+ 98: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Saul Williams
+ 99: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Tortoise
+100: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Yorkston Thorne Khan
+101: (  2) - Uncut 2016-03 The Stars Are Out Tonight - Josephine Foster
+102: (  2) - Uncut 2016-03 The Stars Are Out Tonight - Matmos
+103: (  2) - Uncut 2016-03 The Stars Are Out Tonight - Prins Thomas
+104: (  1) - Happy Together - The Turtles
+105: (  1) - I'm In Love With A German Film Star - The Passions
+106: (  1) - Ooh La La - Faces
+107: (  1) - Pelican West Plus - Haircut 100
+108: (  1) * She Ain't Me - Carrie Rodriguez
+109: (  1) - Top 100 80S - New Order
+110: (  1) - Uncut 2016-02 What's Going On The Sound Of 2016 - Fat White Family
+111: (  1) - Uncut 2016-12 - John Cale

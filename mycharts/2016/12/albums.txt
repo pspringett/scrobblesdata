@@ -1,103 +1,103 @@
 Specified year (2016), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1530            64            84           690
-   1: (  79) - Journeys To Glory - Spandau Ballet
-   2: (  72) - Stranger Me - Amy LaVere
-   3: (  72) - Excellent Day - Lizanne Knott
-   4: (  65) - The Things That We Are Made Of - Mary Chapin Carpenter
-   5: (  60) - Rabbit Songs - Hem
-   6: (  60) - Live At Brooklyn Bowl 2016 - Lloyd Cole
-   7: (  59) - Burnin' - The Wailers
-   8: (  55) - Dire Straits (Remastered) - Dire Straits
-   9: (  51) - Midwest Farmer's Daughter - Margo Price
-  10: (  41) - Live At Union Chapel 2016 - Lloyd Cole
+  1: ( 79) - Journeys To Glory - Spandau Ballet
+  2: ( 72) - Excellent Day - Lizanne Knott
+  3: ( 72) - Stranger Me - Amy LaVere
+  4: ( 65) - The Things That We Are Made Of - Mary Chapin Carpenter
+  5: ( 60) * Live At Brooklyn Bowl 2016 - Lloyd Cole
+  6: ( 60) * Rabbit Songs - Hem
+  7: ( 59) - Burnin' - The Wailers
+  8: ( 55) - Dire Straits (Remastered) - Dire Straits
+  9: ( 51) - Midwest Farmer's Daughter - Margo Price
+ 10: ( 41) * Live At Union Chapel 2016 - Lloyd Cole
 
 
 
 
-  11: (  36) - Psychocandy - The Jesus and Mary Chain
+ 11: ( 36) - Psychocandy - The Jesus and Mary Chain
 
-  12: (  34) - Modern Times - Bob Dylan
-  13: (  34) - Bite - Altered Images
-  14: (  34) - Penthouse And Pavement - Heaven 17
-  15: (  34) - Staring At The Sea: The Singles - The Cure
-  16: (  33) - The Joshua Tree - U2
-  17: (  33) - Yogi In My House - Martin Stephenson
-  18: (  32) - Pelican West Plus - Haircut 100
-  19: (  31) - Tambourine - Tift Merritt
+ 12: ( 34) * Bite - Altered Images
+ 13: ( 34) - Modern Times - Bob Dylan
+ 14: ( 34) - Penthouse And Pavement - Heaven 17
+ 15: ( 34) - Staring At The Sea: The Singles - The Cure
+ 16: ( 33) - The Joshua Tree - U2
+ 17: ( 33) * Yogi In My House - Martin Stephenson
+ 18: ( 32) - Pelican West Plus - Haircut 100
+ 19: ( 31) - Tambourine - Tift Merritt
 
-  20: (  29) - Grand Canyon - Sarah MacDougall
-
-
+ 20: ( 29) * Grand Canyon - Sarah MacDougall
 
 
-  21: (  24) - For Your Pleasure - Roxy Music
-  22: (  24) - Acoustic - Simple Minds
-  23: (  24) - The List - Rosanne Cash
-  24: (  24) - Chaleur Humaine - Christine and the Queens
-  25: (  24) - Seven Angels On A Bicycle - Carrie Rodriguez
-  26: (  24) - The Lexicon Of Love (Digitally Remastered) - ABC
-  27: (  23) - Roxy Music - Roxy Music
-  28: (  22) - Revelation Road - Shelby Lynne
 
-  29: (  20) - Sparkle In The Rain - Simple Minds
-  30: (  19) - The Orange Juice - Orange Juice
 
-  31: (  17) - The Unforgettable Fire - U2
+ 21: ( 24) - Acoustic - Simple Minds
+ 22: ( 24) - Chaleur Humaine - Christine and the Queens
+ 23: ( 24) - For Your Pleasure - Roxy Music
+ 24: ( 24) * Seven Angels On A Bicycle - Carrie Rodriguez
+ 25: ( 24) - The Lexicon Of Love (Digitally Remastered) - ABC
+ 26: ( 24) - The List - Rosanne Cash
+ 27: ( 23) * Roxy Music - Roxy Music
+ 28: ( 22) - Revelation Road - Shelby Lynne
 
-  32: (  15) - Gorgeous George - Edwyn Collins
-  33: (  15) - By The Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-  34: (  15) - A Word To The Wise Guy - The Mighty Wah!
-  35: (  14) - A Creature I Don't Know - Laura Marling
-  36: (  14) - Sons And Fascination/Sister Feelings Call - Simple Minds
-  37: (  14) - You And Me Both - Yazoo
-  38: (  13) - Lloyd Cole - Lloyd Cole
-  39: (  12) - I'm Not Following You - Edwyn Collins
-  40: (  11) - Case/Lang/Veirs - case/lang/veirs
-  41: (  11) - Hellbent On Compromise - Edwyn Collins
-  42: (  11) - Bramble Rose - Tift Merritt
-  43: (  11) - Bad Vibes - Lloyd Cole
-  44: (  11) - Don't Get Weird On Me Babe - Lloyd Cole
-  45: (  11) - Exodus Of Venus - Elizabeth Cook
-  46: (  11) - Upstairs At Erics (Remastered) - Yazoo
-  47: (  10) - Revival - Gillian Welch
-  48: (  10) - Movement [Collector's Edition] - New Order
-  49: (  10) - Rip It Up - Orange Juice
-  50: (  10) - Sundown Over Ghost Town - Eilen Jewell
-  51: (  10) - I Speak Because I Can - Laura Marling
-  52: (   9) - Stranded - Roxy Music
-  53: (   7) - Hope And Despair - Edwyn Collins
-  54: (   7) - Tallulah - The Go-Betweens
-  55: (   7) - She Ain't Me - Carrie Rodriguez
-  56: (   7) - It's Immaterial - Black Marble
-  57: (   6) - Pin Ups - David Bowie
-  58: (   6) - Same Trailer Different Park - Kacey Musgraves
-  59: (   5) - Burnin' - Bob Marley
-  60: (   5) - Little Rock - Hayes Carll
-  61: (   4) - Something More Than Free - Jason Isbell
-  62: (   4) - Mountains/Forests - JT Nero
-  63: (   3) - Live At Brooklyn Bowl - Lloyd Cole
-  64: (   3) - 16 Lovers Lane - The Go-Betweens
-  65: (   3) - You Want It Darker - Leonard Cohen
-  66: (   2) - Faith - The Cure
-  67: (   2) - Greatest Hits - Slade
-  68: (   2) - Last Christmas - Wham!
-  69: (   2) - Melophobia - Cage the Elephant
-  70: (   1) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
-  71: (   1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - MUD
-  72: (   1) - Once Upon A Christmas - Dolly Parton
-  73: (   1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
-  74: (   1) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
-  75: (   1) - Essential Music Hits Vol 2 - Mike Oldfield
-  76: (   1) - Stop The Cavalry - Jona Lewie
-  77: (   1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
-  78: (   1) - Peace At Last - Ep - Hem
-  79: (   1) - Mccartney Ii (Special Edition) - Paul McCartney
-  80: (   1) - The Magic 0F Christmas - Nat King Cole
-  81: (   1) - NoëL Inoubliable - Frank Sinatra
-  82: (   1) - Merry Christmas Wherever You Are - George Strait
-  83: (   1) - Power To The People: The Hits - John Lennon
-  84: (   1) - Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-  85: (   1) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
-  86: (   1) - Colossal Youth - Young Marble Giants
-  87: (   1) - Seventeen Seconds - The Cure
+ 29: ( 20) * Sparkle In The Rain - Simple Minds
+ 30: ( 19) * The Orange Juice - Orange Juice
+
+ 31: ( 17) * The Unforgettable Fire - U2
+
+ 32: ( 15) * A Word To The Wise Guy - The Mighty Wah!
+ 33: ( 15) - By The Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+ 34: ( 15) * Gorgeous George - Edwyn Collins
+ 35: ( 14) - A Creature I Don't Know - Laura Marling
+ 36: ( 14) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 37: ( 14) - You And Me Both - Yazoo
+ 38: ( 13) * Lloyd Cole - Lloyd Cole
+ 39: ( 12) * I'm Not Following You - Edwyn Collins
+ 40: ( 11) * Bad Vibes - Lloyd Cole
+ 41: ( 11) - Bramble Rose - Tift Merritt
+ 42: ( 11) - Case/Lang/Veirs - case/lang/veirs
+ 43: ( 11) * Don't Get Weird On Me Babe - Lloyd Cole
+ 44: ( 11) - Exodus Of Venus - Elizabeth Cook
+ 45: ( 11) * Hellbent On Compromise - Edwyn Collins
+ 46: ( 11) - Upstairs At Erics (Remastered) - Yazoo
+ 47: ( 10) * I Speak Because I Can - Laura Marling
+ 48: ( 10) * Movement [Collector's Edition] - New Order
+ 49: ( 10) - Revival - Gillian Welch
+ 50: ( 10) - Rip It Up - Orange Juice
+ 51: ( 10) - Sundown Over Ghost Town - Eilen Jewell
+ 52: (  9) - Stranded - Roxy Music
+ 53: (  7) * Hope And Despair - Edwyn Collins
+ 54: (  7) - It's Immaterial - Black Marble
+ 55: (  7) * She Ain't Me - Carrie Rodriguez
+ 56: (  7) * Tallulah - The Go-Betweens
+ 57: (  6) - Pin Ups - David Bowie
+ 58: (  6) - Same Trailer Different Park - Kacey Musgraves
+ 59: (  5) - Burnin' - Bob Marley
+ 60: (  5) * Little Rock - Hayes Carll
+ 61: (  4) * Mountains/Forests - JT Nero
+ 62: (  4) - Something More Than Free - Jason Isbell
+ 63: (  3) - 16 Lovers Lane - The Go-Betweens
+ 64: (  3) - Live At Brooklyn Bowl - Lloyd Cole
+ 65: (  3) - You Want It Darker - Leonard Cohen
+ 66: (  2) * Faith - The Cure
+ 67: (  2) - Greatest Hits - Slade
+ 68: (  2) - Last Christmas - Wham!
+ 69: (  2) - Melophobia - Cage the Elephant
+ 70: (  1) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
+ 71: (  1) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
+ 72: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - MUD
+ 73: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
+ 74: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
+ 75: (  1) - Colossal Youth - Young Marble Giants
+ 76: (  1) - Essential Music Hits Vol 2 - Mike Oldfield
+ 77: (  1) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
+ 78: (  1) - Mccartney Ii (Special Edition) - Paul McCartney
+ 79: (  1) - Merry Christmas Wherever You Are - George Strait
+ 80: (  1) - NoëL Inoubliable - Frank Sinatra
+ 81: (  1) - Once Upon A Christmas - Dolly Parton
+ 82: (  1) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+ 83: (  1) - Peace At Last - Ep - Hem
+ 84: (  1) - Power To The People: The Hits - John Lennon
+ 85: (  1) * Seventeen Seconds - The Cure
+ 86: (  1) - Stop The Cavalry - Jona Lewie
+ 87: (  1) - The Magic 0F Christmas - Nat King Cole

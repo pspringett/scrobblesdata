@@ -1,14 +1,14 @@
 Specified year (2020), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1118            44            54           465
-   1: (  82) - Rod Stewart
-   2: (  76) - T. Rex
-   3: (  76) - Nick Heyward
-   4: (  66) - Lloyd Cole
-   5: (  58) - Prefab Sprout
-   6: (  56) - Bob Dylan
-   7: (  52) - Orange Juice
-   8: (  46) - David Bowie
+  1: ( 82) - Rod Stewart
+  2: ( 76) - Nick Heyward
+  3: ( 76) - T. Rex
+  4: ( 66) - Lloyd Cole
+  5: ( 58) - Prefab Sprout
+  6: ( 56) - Bob Dylan
+  7: ( 52) - Orange Juice
+  8: ( 46) - David Bowie
 
 
 
@@ -16,55 +16,55 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   9: (  38) - The Waterboys
+  9: ( 38) - The Waterboys
 
-  10: (  36) - Haircut 100
-  11: (  36) - Leonard Cohen
+ 10: ( 36) - Haircut 100
+ 11: ( 36) - Leonard Cohen
 
-  12: (  34) - Patty Griffin
+ 12: ( 34) - Patty Griffin
 
-  13: (  32) - The Fall
+ 13: ( 32) - The Fall
 
-  14: (  30) - Orchestral Manoeuvres in the Dark
-
-
-
-  15: (  26) - Simon & Garfunkel
-  16: (  26) - Dolly Parton
-  17: (  26) - Simple Minds
-
-  18: (  24) - Dave Grusin
-  19: (  24) - Carrie Rodriguez
-  20: (  24) - Corb Lund
-
-  21: (  22) - New Order
-  22: (  22) - Brian Eno & David Byrne
-  23: (  22) - Rodney Crowell
-
-  24: (  20) - Andrew Combs
-  25: (  20) - Devine & Statton
-  26: (  20) - Justin Townes Earle
-
-  27: (  18) - Electric Light Orchestra
-
-  28: (  16) - Striking Matches
-  29: (  16) - Lyle Lovett
+ 14: ( 30) - Orchestral Manoeuvres in the Dark
 
 
 
-  30: (  12) - Eberhard Weber
+ 15: ( 26) - Dolly Parton
+ 16: ( 26) - Simon & Garfunkel
+ 17: ( 26) - Simple Minds
 
-  31: (  10) - Emmylou Harris
-  32: (  10) - Chip Taylor
-  33: (  10) - U2
-  34: (  10) - Kraftwerk
-  35: (   4) - Calexico
-  36: (   2) - Joy Division
-  37: (   2) - Eddie Vedder
-  38: (   2) - Sonic Youth
-  39: (   2) - Richie Havens
-  40: (   2) - Stephen Malkmus
-  41: (   2) - Cat Power
-  42: (   2) - John Doe
-  43: (   2) - Yo La Tengo
-  44: (   2) - Marc Bolan
+ 18: ( 24) - Carrie Rodriguez
+ 19: ( 24) - Corb Lund
+ 20: ( 24) - Dave Grusin
+
+ 21: ( 22) - Brian Eno & David Byrne
+ 22: ( 22) - New Order
+ 23: ( 22) - Rodney Crowell
+
+ 24: ( 20) - Andrew Combs
+ 25: ( 20) - Devine & Statton
+ 26: ( 20) - Justin Townes Earle
+
+ 27: ( 18) - Electric Light Orchestra
+
+ 28: ( 16) - Lyle Lovett
+ 29: ( 16) - Striking Matches
+
+
+
+ 30: ( 12) - Eberhard Weber
+
+ 31: ( 10) - Chip Taylor
+ 32: ( 10) - Emmylou Harris
+ 33: ( 10) - Kraftwerk
+ 34: ( 10) - U2
+ 35: (  4) - Calexico
+ 36: (  2) - Cat Power
+ 37: (  2) - Eddie Vedder
+ 38: (  2) - John Doe
+ 39: (  2) - Joy Division
+ 40: (  2) - Marc Bolan
+ 41: (  2) - Richie Havens
+ 42: (  2) - Sonic Youth
+ 43: (  2) - Stephen Malkmus
+ 44: (  2) - Yo La Tengo

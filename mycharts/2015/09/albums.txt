@@ -1,8 +1,8 @@
 Specified year (2015), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
      435           102            50           363
-   1: (  79) - The Story Of Trojan Records - Various
-   2: (  34) - Tambourine - Tift Merritt
+  1: ( 79) - The Story Of Trojan Records - Various
+  2: ( 34) - Tambourine - Tift Merritt
 
 
 
@@ -11,59 +11,59 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   3: (  25) - Good As I Been To You (Remastered) - Bob Dylan
+  3: ( 25) - Good As I Been To You (Remastered) - Bob Dylan
 
 
-   4: (  22) - Steve Mcqueen - Prefab Sprout
+  4: ( 22) - Steve Mcqueen - Prefab Sprout
 
-   5: (  20) - All These Dreams - Andrew Combs
-   6: (  19) - Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
-
-
+  5: ( 20) - All These Dreams - Andrew Combs
+  6: ( 19) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
 
 
-   7: (  14) - Blonde On Blonde - Bob Dylan
-   8: (  13) - 16 Lovers Lane - The Go-Betweens
-   9: (  13) - Songs To Play - Robert Forster
-  10: (  12) - Blackbirds - Gretchen Peters
-  11: (  12) - American Kid - Patty Griffin
-  12: (  12) - Sundown Over Ghost Town - Eilen Jewell
-  13: (  11) - Helplessness Blues - Fleet Foxes
-  14: (  11) - Traveling Alone - Tift Merritt
-  15: (  10) - From Langley Park To Memphis - Prefab Sprout
-  16: (  10) - Head Over Heels - Cocteau Twins
-  17: (  10) - Live At Eddie's Attic - The Civil Wars
-  18: (   9) - Faith - The Cure
-  19: (   9) - A Friend Of A Friend - Dave Rawlings Machine
-  20: (   9) - Standards - Lloyd Cole
-  21: (   9) - Stranded - Roxy Music
-  22: (   8) - Traveling Companion - Tift Merritt
-  23: (   7) - This Year's Model - Elvis Costello & The Attractions
-  24: (   6) - The King Is Dead - The Decemberists
-  25: (   6) - The Pink Opaque - Cocteau Twins
-  26: (   6) - This Year's Model - Elvis Costello
-  27: (   5) - Another Green World - Brian Eno
-  28: (   4) - Liberty Belle And The Black Diamond Express - The Go-Betweens
-  29: (   3) - Swoon - Prefab Sprout
-  30: (   3) - The Negatives - Lloyd Cole
-  31: (   2) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
-  32: (   2) - Being Brave - Amanda Shires
-  33: (   2) - A Distant Shore - Tracey Thorn
-  34: (   1) - Darling Arithmetic (Deluxe Version) - Villagers
-  35: (   1) - Atlas - Real Estate
-  36: (   1) - Pelican West Plus - Haircut 100
-  37: (   1) - Replicas - Gary Numan
-  38: (   1) - Ultimate Waylon Jennings - Waylon Jennings
-  39: (   1) - One Moment More - Mindy Smith
-  40: (   1) - Only Yazoo - The Best Of Yazoo - Yazoo
-  41: (   1) - Singles - New Order
-  42: (   1) - Sextet - A Certain Ratio
-  43: (   1) - Gladsome Humour & Blues - Martin Stephenson And The Daintees
-  44: (   1) - Songs From A Room - Leonard Cohen
-  45: (   1) - Little Creatures - Talking Heads
-  46: (   1) - Southside - Texas
-  47: (   1) - Get Happy!! - Elvis Costello & The Attractions
-  48: (   1) - Imperial Bedroom - Elvis Costello & The Attractions
-  49: (   1) - Plastic Wood - Lloyd Cole
-  50: (   1) - Tusk - Fleetwood Mac
-  51: (   1) - The Modern Lovers - Jonathan Richman And The Modern Lovers
+
+
+  7: ( 14) * Blonde On Blonde - Bob Dylan
+  8: ( 13) - 16 Lovers Lane - The Go-Betweens
+  9: ( 13) - Songs To Play - Robert Forster
+ 10: ( 12) - American Kid - Patty Griffin
+ 11: ( 12) * Blackbirds - Gretchen Peters
+ 12: ( 12) - Sundown Over Ghost Town - Eilen Jewell
+ 13: ( 11) - Helplessness Blues - Fleet Foxes
+ 14: ( 11) - Traveling Alone - Tift Merritt
+ 15: ( 10) * From Langley Park To Memphis - Prefab Sprout
+ 16: ( 10) - Head Over Heels - Cocteau Twins
+ 17: ( 10) - Live At Eddie's Attic - The Civil Wars
+ 18: (  9) - A Friend Of A Friend - Dave Rawlings Machine
+ 19: (  9) * Faith - The Cure
+ 20: (  9) * Standards - Lloyd Cole
+ 21: (  9) - Stranded - Roxy Music
+ 22: (  8) - Traveling Companion - Tift Merritt
+ 23: (  7) - This Year's Model - Elvis Costello & The Attractions
+ 24: (  6) * The King Is Dead - The Decemberists
+ 25: (  6) - The Pink Opaque - Cocteau Twins
+ 26: (  6) - This Year's Model - Elvis Costello
+ 27: (  5) - Another Green World - Brian Eno
+ 28: (  4) - Liberty Belle And The Black Diamond Express - The Go-Betweens
+ 29: (  3) * Swoon - Prefab Sprout
+ 30: (  3) * The Negatives - Lloyd Cole
+ 31: (  2) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
+ 32: (  2) * A Distant Shore - Tracey Thorn
+ 33: (  2) - Being Brave - Amanda Shires
+ 34: (  1) - Atlas - Real Estate
+ 35: (  1) - Darling Arithmetic (Deluxe Version) - Villagers
+ 36: (  1) - Get Happy!! - Elvis Costello & The Attractions
+ 37: (  1) - Gladsome Humour & Blues - Martin Stephenson And The Daintees
+ 38: (  1) - Imperial Bedroom - Elvis Costello & The Attractions
+ 39: (  1) * Little Creatures - Talking Heads
+ 40: (  1) * One Moment More - Mindy Smith
+ 41: (  1) - Only Yazoo - The Best Of Yazoo - Yazoo
+ 42: (  1) - Pelican West Plus - Haircut 100
+ 43: (  1) * Plastic Wood - Lloyd Cole
+ 44: (  1) - Replicas - Gary Numan
+ 45: (  1) - Sextet - A Certain Ratio
+ 46: (  1) - Singles - New Order
+ 47: (  1) * Songs From A Room - Leonard Cohen
+ 48: (  1) * Southside - Texas
+ 49: (  1) - The Modern Lovers - Jonathan Richman And The Modern Lovers
+ 50: (  1) * Tusk - Fleetwood Mac
+ 51: (  1) - Ultimate Waylon Jennings - Waylon Jennings

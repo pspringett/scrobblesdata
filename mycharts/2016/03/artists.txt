@@ -1,104 +1,104 @@
 Specified year (2016), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1170            80            81           698
-   1: (  73) - Justin Townes Earle
-   2: (  63) - Freakwater
-   3: (  57) - Edwyn Collins
-   4: (  56) - The Redlands Palomino Company
-   5: (  54) - U2
-   6: (  50) - Rosanne Cash
-   7: (  48) - Emmylou Harris
-   8: (  47) - Hayes Carll
+  1: ( 73) - Justin Townes Earle
+  2: ( 63) - Freakwater
+  3: ( 57) - Edwyn Collins
+  4: ( 56) - The Redlands Palomino Company
+  5: ( 54) - U2
+  6: ( 50) - Rosanne Cash
+  7: ( 48) - Emmylou Harris
+  8: ( 47) - Hayes Carll
 
 
-   9: (  44) - Eilen Jewell
-  10: (  44) - Lloyd Cole
-
-
-
-  11: (  40) - Tift Merritt
+  9: ( 44) - Eilen Jewell
+ 10: ( 44) - Lloyd Cole
 
 
 
-  12: (  36) - Hackensaw Boys
+ 11: ( 40) - Tift Merritt
 
 
 
-
-
-  13: (  30) - Laura Marling
-  14: (  29) - School of Seven Bells
+ 12: ( 36) - Hackensaw Boys
 
 
 
 
-  15: (  24) - Allison Moorer
-  16: (  23) - Jason Isbell
-  17: (  23) - David Bowie
+
+ 13: ( 30) - Laura Marling
+ 14: ( 29) - School of Seven Bells
 
 
-  18: (  20) - Orchestral Manoeuvres in the Dark
 
-  19: (  18) - The Wailers
-  20: (  17) - Shelby Lynne
-  21: (  16) - Martin Stephenson And The Daintees
-  22: (  16) - Hem
-  23: (  15) - Angie Palmer
-  24: (  14) - Patty Griffin
-  25: (  14) - Gretchen Peters
-  26: (  14) - Aztec Camera
-  27: (  14) - Amanda Shires
-  28: (  14) - The Mavericks
-  29: (  13) - UB40
 
-  30: (  11) - Simple Minds
-  31: (  11) - The Smiths
-  32: (  11) - New Order
-  33: (  11) - Sarah MacDougall
-  34: (  11) - Rodney Crowell
-  35: (  10) - Julia Holter
-  36: (  10) - The Decemberists
-  37: (  10) - JT and the Clouds
-  38: (  10) - The Go-Betweens
-  39: (   9) - Paul Weller
-  40: (   9) - The Waterboys
-  41: (   9) - Heaven 17
-  42: (   7) - Margo Price
-  43: (   7) - White Denim
-  44: (   7) - Kiran Leonard
-  45: (   6) - Chris Forsyth and the Solar Motel Band
-  46: (   6) - Richmond Fontaine
-  47: (   6) - Grant -Lee Phillips
-  48: (   6) - Heron Oblivion
-  49: (   6) - Charles Bradley
-  50: (   6) - Meilyr Jones
-  51: (   6) - Jeff Cowell
-  52: (   6) - Bob Mould
-  53: (   5) - The Coral
-  54: (   5) - Aziza Brahim
-  55: (   5) - Christine and the Queens (Featuring Perfume Genius)
-  56: (   5) - M. Ward
-  57: (   3) - Rokia Traoré
-  58: (   3) - Field Music
-  59: (   2) - Emitt Rhodes
-  60: (   2) - Mount Moriah
-  61: (   2) - Barry Adamson
-  62: (   2) - A Certain Ratio
-  63: (   2) - The Style Council
-  64: (   1) - China Crisis
-  65: (   1) - Steve Mason
-  66: (   1) - The Wilde Flowers
-  67: (   1) - The Cure
-  68: (   1) - The Velvet Underground
-  69: (   1) - Native Hipsters
-  70: (   1) - Orange Juice
-  71: (   1) - Joy Division
-  72: (   1) - Martin Stephenson
-  73: (   1) - T. Rex
-  74: (   1) - Martha and the Muffins
-  75: (   1) - Yazoo
-  76: (   1) - Lloyd Cole and The Commotions
-  77: (   1) - The Teardrop Explodes
-  78: (   1) - Young Marble Giants
-  79: (   1) - Faces
-  80: (   1) - John Cooper Clarke
+ 15: ( 24) - Allison Moorer
+ 16: ( 23) - David Bowie
+ 17: ( 23) - Jason Isbell
+
+
+ 18: ( 20) - Orchestral Manoeuvres in the Dark
+
+ 19: ( 18) - The Wailers
+ 20: ( 17) - Shelby Lynne
+ 21: ( 16) - Hem
+ 22: ( 16) - Martin Stephenson And The Daintees
+ 23: ( 15) - Angie Palmer
+ 24: ( 14) - Amanda Shires
+ 25: ( 14) - Aztec Camera
+ 26: ( 14) - Gretchen Peters
+ 27: ( 14) - Patty Griffin
+ 28: ( 14) - The Mavericks
+ 29: ( 13) - UB40
+
+ 30: ( 11) - New Order
+ 31: ( 11) - Rodney Crowell
+ 32: ( 11) - Sarah MacDougall
+ 33: ( 11) - Simple Minds
+ 34: ( 11) - The Smiths
+ 35: ( 10) - JT and the Clouds
+ 36: ( 10) - Julia Holter
+ 37: ( 10) - The Decemberists
+ 38: ( 10) - The Go-Betweens
+ 39: (  9) - Heaven 17
+ 40: (  9) - Paul Weller
+ 41: (  9) - The Waterboys
+ 42: (  7) - Kiran Leonard
+ 43: (  7) - Margo Price
+ 44: (  7) - White Denim
+ 45: (  6) - Bob Mould
+ 46: (  6) - Charles Bradley
+ 47: (  6) - Chris Forsyth and the Solar Motel Band
+ 48: (  6) - Grant -Lee Phillips
+ 49: (  6) - Heron Oblivion
+ 50: (  6) - Jeff Cowell
+ 51: (  6) - Meilyr Jones
+ 52: (  6) - Richmond Fontaine
+ 53: (  5) - Aziza Brahim
+ 54: (  5) - Christine and the Queens (Featuring Perfume Genius)
+ 55: (  5) - M. Ward
+ 56: (  5) - The Coral
+ 57: (  3) - Field Music
+ 58: (  3) - Rokia Traoré
+ 59: (  2) - A Certain Ratio
+ 60: (  2) - Barry Adamson
+ 61: (  2) - Emitt Rhodes
+ 62: (  2) - Mount Moriah
+ 63: (  2) - The Style Council
+ 64: (  1) - China Crisis
+ 65: (  1) - Faces
+ 66: (  1) - John Cooper Clarke
+ 67: (  1) - Joy Division
+ 68: (  1) - Lloyd Cole and The Commotions
+ 69: (  1) - Martha and the Muffins
+ 70: (  1) - Martin Stephenson
+ 71: (  1) - Native Hipsters
+ 72: (  1) - Orange Juice
+ 73: (  1) - Steve Mason
+ 74: (  1) - T. Rex
+ 75: (  1) - The Cure
+ 76: (  1) - The Teardrop Explodes
+ 77: (  1) - The Velvet Underground
+ 78: (  1) - The Wilde Flowers
+ 79: (  1) - Yazoo
+ 80: (  1) - Young Marble Giants

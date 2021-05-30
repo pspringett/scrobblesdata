@@ -1,16 +1,14 @@
 Specified year (2021), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
      244            37            37           149
-   1: (  29) - The Last Broadcast - Doves
+  1: ( 29) - The Last Broadcast - Doves
 
-   2: (  27) - Under A Blood Red Sky - U2
-   3: (  27) - Live @ Glasgow Pavilion - Martin Stephenson
-   4: (  26) - Last Will & Testament - Bonnie Whitmore
-
-
-   5: (  23) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
+  2: ( 27) - Live @ Glasgow Pavilion - Martin Stephenson
+  3: ( 27) - Under A Blood Red Sky - U2
+  4: ( 26) - Last Will & Testament - Bonnie Whitmore
 
 
+  5: ( 23) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
 
 
 
@@ -20,37 +18,39 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   6: (  11) - Revolver - The Beatles
-   7: (  10) - The Scream - Siouxsie and the Banshees
-   8: (  10) - Shore - Fleet Foxes
-   9: (  10) - Lost And Found - Eliza Gilkyson
-  10: (   7) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
-  11: (   7) - Ignorance - The Weather Station
-  12: (   7) - Illuminations - Buffy Sainte-Marie
-  13: (   6) - On Sunset (Deluxe) - Paul Weller
-  14: (   3) - Low-Life - New Order
-  15: (   2) - New Long Leg - Dry Cleaning
-  16: (   2) - Electric Warrior - T. Rex
-  17: (   2) - Road - Angie Palmer
-  18: (   2) - Private Revolution - World Party
-  19: (   2) - They Might Be Giants - They Might Be Giants
-  20: (   2) - Heyday - The Church
-  21: (   2) - Liberty Belle And The Black Diamond Express (Remastered) - The Go-Betweens
-  22: (   2) - The Moon And The Melodies - Cocteau Twins
-  23: (   2) - Surprise Surprise Surprise - Miracle Legion
-  24: (   2) - True Stories - Talking Heads
-  25: (   2) - Lifes Rich Pageant (Deluxe Edition) - R.E.M.
-  26: (   2) - London 0 Hull 4 - The Housemartins
-  27: (   2) - Tommy - The Wedding Present
-  28: (   2) - The Collection - Prefab Sprout
-  29: (   2) - The Good Earth - The Feelies
-  30: (   2) - Blue Skies & Free-Rides: The Best Of 1986-1989 - The Weather Prophets
-  31: (   1) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Jesper Lindell
-  32: (   1) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Annika Norlin
-  33: (   1) - Entertainment! - Gang of Four
-  34: (   1) - Bye - Slow Hands
-  35: (   1) - Shore - The Weather Station
-  36: (   1) - Get It On: The Collection - T. Rex
-  37: (   1) - Candy Apple Grey - Hüsker Dü
-  38: (   1) - Born Sandy Devotional - The Triffids
-  39: (   1) - Tim (Expanded) - The Replacements
+
+
+  6: ( 11) - Revolver - The Beatles
+  7: ( 10) * Lost And Found - Eliza Gilkyson
+  8: ( 10) - Shore - Fleet Foxes
+  9: ( 10) - The Scream - Siouxsie and the Banshees
+ 10: (  7) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
+ 11: (  7) - Ignorance - The Weather Station
+ 12: (  7) - Illuminations - Buffy Sainte-Marie
+ 13: (  6) - On Sunset (Deluxe) - Paul Weller
+ 14: (  3) - Low-Life - New Order
+ 15: (  2) - Blue Skies & Free-Rides: The Best Of 1986-1989 - The Weather Prophets
+ 16: (  2) * Electric Warrior - T. Rex
+ 17: (  2) - Heyday - The Church
+ 18: (  2) - Liberty Belle And The Black Diamond Express (Remastered) - The Go-Betweens
+ 19: (  2) - Lifes Rich Pageant (Deluxe Edition) - R.E.M.
+ 20: (  2) - London 0 Hull 4 - The Housemartins
+ 21: (  2) - New Long Leg - Dry Cleaning
+ 22: (  2) - Private Revolution - World Party
+ 23: (  2) * Road - Angie Palmer
+ 24: (  2) - Surprise Surprise Surprise - Miracle Legion
+ 25: (  2) - The Collection - Prefab Sprout
+ 26: (  2) - The Good Earth - The Feelies
+ 27: (  2) - The Moon And The Melodies - Cocteau Twins
+ 28: (  2) - They Might Be Giants - They Might Be Giants
+ 29: (  2) - Tommy - The Wedding Present
+ 30: (  2) - True Stories - Talking Heads
+ 31: (  1) - Born Sandy Devotional - The Triffids
+ 32: (  1) - Bye - Slow Hands
+ 33: (  1) - Candy Apple Grey - Hüsker Dü
+ 34: (  1) - Entertainment! - Gang of Four
+ 35: (  1) - Get It On: The Collection - T. Rex
+ 36: (  1) - Shore - The Weather Station
+ 37: (  1) - Tim (Expanded) - The Replacements
+ 38: (  1) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Annika Norlin
+ 39: (  1) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Jesper Lindell

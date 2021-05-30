@@ -1,11 +1,11 @@
 Specified year (2017), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1000            48            63           597
-   1: (  70) - Jordan: The Comeback - Prefab Sprout
-   2: (  63) - The Undertones - The Undertones
-   3: (  56) - The Weather Station - The Weather Station
-   4: (  50) - Not Dark Yet - Shelby Lynne
-   5: (  44) - Carry Fire - Robert Plant
+  1: ( 70) * Jordan: The Comeback - Prefab Sprout
+  2: ( 63) - The Undertones - The Undertones
+  3: ( 56) - The Weather Station - The Weather Station
+  4: ( 50) - Not Dark Yet - Shelby Lynne
+  5: ( 44) - Carry Fire - Robert Plant
 
 
 
@@ -17,68 +17,68 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   6: (  32) - Midwest Farmer's Daughter - Margo Price
+  6: ( 32) - Midwest Farmer's Daughter - Margo Price
 
-   7: (  30) - Solitude Standing - Suzanne Vega
-   8: (  29) - Popular Problems - Leonard Cohen
+  7: ( 30) - Solitude Standing - Suzanne Vega
+  8: ( 29) - Popular Problems - Leonard Cohen
 
-   9: (  27) - You Want It Darker - Leonard Cohen
-  10: (  27) - Excellent Day - Lizanne Knott
-  11: (  26) - In Your Room - Yazoo
-  12: (  26) - American Dream - LCD Soundsystem
+  9: ( 27) - Excellent Day - Lizanne Knott
+ 10: ( 27) - You Want It Darker - Leonard Cohen
+ 11: ( 26) - American Dream - LCD Soundsystem
+ 12: ( 26) - In Your Room - Yazoo
 
-  13: (  24) - Crush - Orchestral Manoeuvres in the Dark
-  14: (  23) - My Life In The Bush Of Ghosts - Brian Eno
-  15: (  22) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
-  16: (  22) - Grand Canyon - Sarah MacDougall
+ 13: ( 24) - Crush - Orchestral Manoeuvres in the Dark
+ 14: ( 23) - My Life In The Bush Of Ghosts - Brian Eno
+ 15: ( 22) * Grand Canyon - Sarah MacDougall
+ 16: ( 22) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
 
-  17: (  20) - Shadows In The Night - Bob Dylan
-  18: (  19) - This Year's Model - Elvis Costello & The Attractions
-  19: (  18) - The Flame And The Pelican - Jack Harris
+ 17: ( 20) - Shadows In The Night - Bob Dylan
+ 18: ( 19) - This Year's Model - Elvis Costello & The Attractions
+ 19: ( 18) - The Flame And The Pelican - Jack Harris
 
-  20: (  16) - Once I Was An Eagle - Laura Marling
-  21: (  16) - Echo & The Bunnymen - Echo & the Bunnymen
+ 20: ( 16) - Echo & The Bunnymen - Echo & the Bunnymen
+ 21: ( 16) - Once I Was An Eagle - Laura Marling
 
-  22: (  14) - Other World - Peter Hammill
-  23: (  14) - Highway 61 Revisited - Bob Dylan
-  24: (  14) - Honky Chateau (Remastered) - Elton John
-  25: (  13) - Armed Forces - Elvis Costello
-  26: (  13) - The Kick Inside - Kate Bush
-  27: (  13) - Caledonia - JT and the Clouds
-  28: (  12) - No Way There From Here - Laura Cantrell
-  29: (  12) - Scott 3 - Scott Walker
-  30: (  12) - Down Hearted Blues - Eilen Jewell
-  31: (  12) - Sermon On The Rocks - Josh Ritter
-  32: (  12) - Don't Get Weird On Me Babe - Lloyd Cole
-  33: (  12) - Greatest - Jim Croce
-  34: (  11) - Hunky Dory - David Bowie
-  35: (  11) - Rumours - Fleetwood Mac
-  36: (  11) - Being Brave - Amanda Shires
-  37: (  10) - Don't Fade - The Redlands Palomino Company
-  38: (  10) - Suzanne Vega - Suzanne Vega
-  39: (  10) - Song - It's Immaterial
-  40: (   9) - Acoustic - Simple Minds
-  41: (   9) - Hurricane - Grace Jones
-  42: (   8) - Seven Dials - Roddy Frame
-  43: (   8) - Little Rock - Hayes Carll
-  44: (   8) - Songs Of Love And Hate - Leonard Cohen
-  45: (   7) - Easy Pieces - Lloyd Cole and The Commotions
-  46: (   7) - Unplugged... And Seated - Rod Stewart
-  47: (   7) - Evergreen - Echo & the Bunnymen
-  48: (   6) - Let's Dance - David Bowie
-  49: (   5) - Crocodiles - Echo & the Bunnymen
-  50: (   5) - Bolivia - Martin Stephenson
-  51: (   5) - The River & The Thread - Rosanne Cash
-  52: (   5) - Woodland Echoes - Nick Heyward
-  53: (   5) - Tempest - Bob Dylan
-  54: (   5) - The Luxury Gap - Heaven 17
-  55: (   5) - The Smiths - The Smiths
-  56: (   4) - This Year's Model - Elvis Costello
-  57: (   4) - High Land, Hard Rain - Aztec Camera
-  58: (   3) - Positive Touch - The Undertones
-  59: (   3) - Journeys To Glory - Spandau Ballet
-  60: (   2) - Hypnotised - The Undertones
-  61: (   1) - Hypnotised (2016 Remastered) - The Undertones
-  62: (   1) - Dig Yourself Deep - The Undertones
-  63: (   1) - Get What You Need - The Undertones
-  64: (   1) - Revelation Road - Shelby Lynne
+ 22: ( 14) * Highway 61 Revisited - Bob Dylan
+ 23: ( 14) - Honky Chateau (Remastered) - Elton John
+ 24: ( 14) - Other World - Peter Hammill
+ 25: ( 13) - Armed Forces - Elvis Costello
+ 26: ( 13) * Caledonia - JT and the Clouds
+ 27: ( 13) - The Kick Inside - Kate Bush
+ 28: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 29: ( 12) - Down Hearted Blues - Eilen Jewell
+ 30: ( 12) - Greatest - Jim Croce
+ 31: ( 12) - No Way There From Here - Laura Cantrell
+ 32: ( 12) - Scott 3 - Scott Walker
+ 33: ( 12) - Sermon On The Rocks - Josh Ritter
+ 34: ( 11) - Being Brave - Amanda Shires
+ 35: ( 11) - Hunky Dory - David Bowie
+ 36: ( 11) - Rumours - Fleetwood Mac
+ 37: ( 10) * Don't Fade - The Redlands Palomino Company
+ 38: ( 10) - Song - It's Immaterial
+ 39: ( 10) - Suzanne Vega - Suzanne Vega
+ 40: (  9) - Acoustic - Simple Minds
+ 41: (  9) - Hurricane - Grace Jones
+ 42: (  8) * Little Rock - Hayes Carll
+ 43: (  8) * Seven Dials - Roddy Frame
+ 44: (  8) - Songs Of Love And Hate - Leonard Cohen
+ 45: (  7) - Easy Pieces - Lloyd Cole and The Commotions
+ 46: (  7) - Evergreen - Echo & the Bunnymen
+ 47: (  7) * Unplugged... And Seated - Rod Stewart
+ 48: (  6) - Let's Dance - David Bowie
+ 49: (  5) - Bolivia - Martin Stephenson
+ 50: (  5) - Crocodiles - Echo & the Bunnymen
+ 51: (  5) - Tempest - Bob Dylan
+ 52: (  5) - The Luxury Gap - Heaven 17
+ 53: (  5) - The River & The Thread - Rosanne Cash
+ 54: (  5) - The Smiths - The Smiths
+ 55: (  5) - Woodland Echoes - Nick Heyward
+ 56: (  4) * High Land, Hard Rain - Aztec Camera
+ 57: (  4) - This Year's Model - Elvis Costello
+ 58: (  3) - Journeys To Glory - Spandau Ballet
+ 59: (  3) - Positive Touch - The Undertones
+ 60: (  2) - Hypnotised - The Undertones
+ 61: (  1) - Dig Yourself Deep - The Undertones
+ 62: (  1) - Get What You Need - The Undertones
+ 63: (  1) - Hypnotised (2016 Remastered) - The Undertones
+ 64: (  1) - Revelation Road - Shelby Lynne

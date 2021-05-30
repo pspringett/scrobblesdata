@@ -1,12 +1,12 @@
 Specified year (2017), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1057            66            86           575
-   1: (  70) - Not Dark Yet - Shelby Lynne
-   2: (  66) - The Weather Station - The Weather Station
-   3: (  61) - Are You Experienced - Jimi Hendrix
-   4: (  52) - Scott 3 - Scott Walker
-   5: (  51) - Sermon On The Rocks - Josh Ritter
-   6: (  41) - La Variete - Weekend
+  1: ( 70) - Not Dark Yet - Shelby Lynne
+  2: ( 66) - The Weather Station - The Weather Station
+  3: ( 61) - Are You Experienced - Jimi Hendrix
+  4: ( 52) - Scott 3 - Scott Walker
+  5: ( 51) - Sermon On The Rocks - Josh Ritter
+  6: ( 41) - La Variete - Weekend
 
 
 
@@ -15,91 +15,91 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   7: (  32) - Down Hearted Blues - Eilen Jewell
-   8: (  31) - Carry Fire - Robert Plant
-   9: (  30) - Crocodiles - Echo & the Bunnymen
-  10: (  29) - October - U2
+  7: ( 32) - Down Hearted Blues - Eilen Jewell
+  8: ( 31) - Carry Fire - Robert Plant
+  9: ( 30) - Crocodiles - Echo & the Bunnymen
+ 10: ( 29) * October - U2
 
-  11: (  27) - The Nashville Sound - Jason Isbell and The 400 Unit
-  12: (  27) - Songs In The Key Of Life - Stevie Wonder
+ 11: ( 27) - Songs In The Key Of Life - Stevie Wonder
+ 12: ( 27) - The Nashville Sound - Jason Isbell and The 400 Unit
 
-  13: (  25) - Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-  14: (  25) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
-
-
-  15: (  22) - The Very Best Of Orange Juice - Orange Juice
-  16: (  22) - Sound And Vision - David Bowie
-  17: (  21) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
-
-  18: (  19) - Raising Sand - Robert Plant & Alison Krauss
-  19: (  18) - Miles From Our Home - Cowboy Junkies
-  20: (  17) - Porcupine - Echo & the Bunnymen
+ 13: ( 25) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+ 14: ( 25) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
 
 
+ 15: ( 22) - Sound And Vision - David Bowie
+ 16: ( 22) - The Very Best Of Orange Juice - Orange Juice
+ 17: ( 21) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
 
-  21: (  13) - Lloyd Cole - Lloyd Cole
-  22: (  13) - The Kick Inside - Kate Bush
-  23: (  12) - Wrecking Ball - Emmylou Harris
-  24: (  12) - Red Dirt Girl - Emmylou Harris
-  25: (  12) - Antidepressant - Lloyd Cole
-  26: (  12) - The Lexicon Of Love (Digitally Remastered) - ABC
-  27: (  11) - Stranger Me - Amy LaVere
-  28: (  11) - Low - David Bowie
-  29: (  11) - You And Me Both - Yazoo
-  30: (  11) - Substance - New Order
-  31: (  10) - Ocean Rain - Echo & the Bunnymen
-  32: (  10) - Bolivia - Martin Stephenson
-  33: (  10) - I Can't Imagine - Shelby Lynne
-  34: (  10) - Cleaning Out The Ashtrays Cd4 Difficult Pieces - Lloyd Cole
-  35: (  10) - Wanderer - Cara Dillon
-  36: (   9) - The Luxury Gap - Heaven 17
-  37: (   9) - The '81 Demos - Weekend
-  38: (   9) - Siren - Roxy Music
-  39: (   9) - Closer - Joy Division
-  40: (   9) - The Unforgettable Fire - U2
-  41: (   9) - The Negatives - Lloyd Cole
-  42: (   9) - Hurricane - Grace Jones
-  43: (   8) - Young Americans - David Bowie
-  44: (   8) - Happy Birthday - Altered Images
-  45: (   8) - The River & The Thread - Rosanne Cash
-  46: (   6) - Station To Station - David Bowie
-  47: (   6) - Unplugged... And Seated - Rod Stewart
-  48: (   5) - Woodland Echoes - Nick Heyward
-  49: (   4) - Giant Steps - John Coltrane
-  50: (   4) - Innovations In British Psychedelia - Small Faces
-  51: (   4) - Sam Hard And Heavy - Sam Samudio
-  52: (   3) - Bite - Altered Images
-  53: (   3) - Germ Free Adolescents (Deluxe Edition) - X-Ray Spex
-  54: (   3) - Down By The Jetty - Dr. Feelgood
-  55: (   3) - Où Est La Maison De Fromage? - John Cooper Clarke
-  56: (   3) - The Unfinished Revolution - Christy Moore
-  57: (   3) - Dustbin Of Sound - The Cravats
-  58: (   3) - 40 Greatest Hits - U Roy
-  59: (   3) - White Light / White Heat (45Th Anniversary) - The Velvet Underground
-  60: (   3) - Out Of All This Blue (Deluxe) - The Waterboys
-  61: (   3) - The Slider - T. Rex
-  62: (   3) - Spiral Scratch - Buzzcocks
-  63: (   3) - Kentish Longtails - The Len Price 3
-  64: (   3) - All The Young Dudes - Mott the Hoople
-  65: (   3) - New Boots And Panties! - Ian Dury
-  66: (   3) - Pet Sounds - 40Th Anniversary - The Beach Boys
-  67: (   3) - Streetcore - Joe Strummer
-  68: (   3) - That's Right - the fallen leaves
-  69: (   3) - 1978-1988 A Decade Of Spizz History - Spizz Energi
-  70: (   3) - A Beard Of Stars (Deluxe Edition) - T. Rex
-  71: (   2) - Crush - Orchestral Manoeuvres in the Dark
-  72: (   2) - Aladdin Sane - David Bowie
-  73: (   2) - David Bowie (Deluxe Edition) - David Bowie
-  74: (   2) - In The City (Remastered Version) - The Jam
-  75: (   2) - God Squad Saviour - Department S
-  76: (   2) - Whenever You Need Somebody - Rick Astley
-  77: (   2) - Rock With I - U-Roy
-  78: (   2) - My Greatest Songs - Buddy Holly
-  79: (   2) - Selected Works (1972-1999) - Eagles
-  80: (   2) - Reflected Images - The Best Of Altered Images - Altered Images
-  81: (   2) - The Clash - The Clash
-  82: (   2) - My Aim Is True - Elvis Costello
-  83: (   2) - Circu5 - Circu5
-  84: (   2) - Cool As Folk - Joe Strummer and?The Mescaleros
-  85: (   1) - Sam The Sham & The Pharoahs, Vol. 1 - Sam The Sham & The Pharaohs
-  86: (   1) - The Flame And The Pelican - Jack Harris
+ 18: ( 19) * Raising Sand - Robert Plant & Alison Krauss
+ 19: ( 18) - Miles From Our Home - Cowboy Junkies
+ 20: ( 17) - Porcupine - Echo & the Bunnymen
+
+
+
+ 21: ( 13) * Lloyd Cole - Lloyd Cole
+ 22: ( 13) - The Kick Inside - Kate Bush
+ 23: ( 12) * Antidepressant - Lloyd Cole
+ 24: ( 12) - Red Dirt Girl - Emmylou Harris
+ 25: ( 12) - The Lexicon Of Love (Digitally Remastered) - ABC
+ 26: ( 12) * Wrecking Ball - Emmylou Harris
+ 27: ( 11) - Low - David Bowie
+ 28: ( 11) - Stranger Me - Amy LaVere
+ 29: ( 11) - Substance - New Order
+ 30: ( 11) - You And Me Both - Yazoo
+ 31: ( 10) - Bolivia - Martin Stephenson
+ 32: ( 10) - Cleaning Out The Ashtrays Cd4 Difficult Pieces - Lloyd Cole
+ 33: ( 10) - I Can't Imagine - Shelby Lynne
+ 34: ( 10) * Ocean Rain - Echo & the Bunnymen
+ 35: ( 10) - Wanderer - Cara Dillon
+ 36: (  9) * Closer - Joy Division
+ 37: (  9) - Hurricane - Grace Jones
+ 38: (  9) - Siren - Roxy Music
+ 39: (  9) - The '81 Demos - Weekend
+ 40: (  9) - The Luxury Gap - Heaven 17
+ 41: (  9) * The Negatives - Lloyd Cole
+ 42: (  9) * The Unforgettable Fire - U2
+ 43: (  8) * Happy Birthday - Altered Images
+ 44: (  8) - The River & The Thread - Rosanne Cash
+ 45: (  8) * Young Americans - David Bowie
+ 46: (  6) * Station To Station - David Bowie
+ 47: (  6) * Unplugged... And Seated - Rod Stewart
+ 48: (  5) - Woodland Echoes - Nick Heyward
+ 49: (  4) - Giant Steps - John Coltrane
+ 50: (  4) - Innovations In British Psychedelia - Small Faces
+ 51: (  4) - Sam Hard And Heavy - Sam Samudio
+ 52: (  3) - 1978-1988 A Decade Of Spizz History - Spizz Energi
+ 53: (  3) - 40 Greatest Hits - U Roy
+ 54: (  3) - A Beard Of Stars (Deluxe Edition) - T. Rex
+ 55: (  3) - All The Young Dudes - Mott the Hoople
+ 56: (  3) * Bite - Altered Images
+ 57: (  3) - Down By The Jetty - Dr. Feelgood
+ 58: (  3) - Dustbin Of Sound - The Cravats
+ 59: (  3) - Germ Free Adolescents (Deluxe Edition) - X-Ray Spex
+ 60: (  3) - Kentish Longtails - The Len Price 3
+ 61: (  3) - New Boots And Panties! - Ian Dury
+ 62: (  3) - Out Of All This Blue (Deluxe) - The Waterboys
+ 63: (  3) - Où Est La Maison De Fromage? - John Cooper Clarke
+ 64: (  3) - Pet Sounds - 40Th Anniversary - The Beach Boys
+ 65: (  3) - Spiral Scratch - Buzzcocks
+ 66: (  3) - Streetcore - Joe Strummer
+ 67: (  3) - That's Right - the fallen leaves
+ 68: (  3) - The Slider - T. Rex
+ 69: (  3) - The Unfinished Revolution - Christy Moore
+ 70: (  3) - White Light / White Heat (45Th Anniversary) - The Velvet Underground
+ 71: (  2) - Aladdin Sane - David Bowie
+ 72: (  2) - Circu5 - Circu5
+ 73: (  2) - Cool As Folk - Joe Strummer and?The Mescaleros
+ 74: (  2) - Crush - Orchestral Manoeuvres in the Dark
+ 75: (  2) - David Bowie (Deluxe Edition) - David Bowie
+ 76: (  2) - God Squad Saviour - Department S
+ 77: (  2) - In The City (Remastered Version) - The Jam
+ 78: (  2) - My Aim Is True - Elvis Costello
+ 79: (  2) - My Greatest Songs - Buddy Holly
+ 80: (  2) - Reflected Images - The Best Of Altered Images - Altered Images
+ 81: (  2) - Rock With I - U-Roy
+ 82: (  2) - Selected Works (1972-1999) - Eagles
+ 83: (  2) - The Clash - The Clash
+ 84: (  2) - Whenever You Need Somebody - Rick Astley
+ 85: (  1) - Sam The Sham & The Pharoahs, Vol. 1 - Sam The Sham & The Pharaohs
+ 86: (  1) - The Flame And The Pelican - Jack Harris

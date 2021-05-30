@@ -1,13 +1,13 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1322            51            54           461
-   1: ( 200) - Bob Dylan
-   2: ( 136) - ABC
-   3: (  84) - Gretchen Peters
-   4: (  60) - New Order
-   5: (  60) - Department S
-   6: (  52) - Prefab Sprout
-   7: (  48) - Lloyd Cole
+  1: (200) - Bob Dylan
+  2: (136) - ABC
+  3: ( 84) - Gretchen Peters
+  4: ( 60) - Department S
+  5: ( 60) - New Order
+  6: ( 52) - Prefab Sprout
+  7: ( 48) - Lloyd Cole
 
 
 
@@ -21,62 +21,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   8: (  34) - The Human League
+  8: ( 34) - The Human League
 
-   9: (  32) - Talking Heads
-  10: (  32) - Tift Merritt
+  9: ( 32) - Talking Heads
+ 10: ( 32) - Tift Merritt
 
-  11: (  30) - T. Rex
-  12: (  30) - Brigid Mae Power
-  13: (  30) - Rod Picott
+ 11: ( 30) - Brigid Mae Power
+ 12: ( 30) - Rod Picott
+ 13: ( 30) - T. Rex
 
-  14: (  28) - The Beatles
-  15: (  28) - The Fall
-  16: (  28) - The Clash
-  17: (  28) - Orchestral Manoeuvres in the Dark
+ 14: ( 28) - Orchestral Manoeuvres in the Dark
+ 15: ( 28) - The Beatles
+ 16: ( 28) - The Clash
+ 17: ( 28) - The Fall
 
-  18: (  26) - Aztec Camera
-  19: (  26) - Corb Lund
-  20: (  26) - Simple Minds
-  21: (  26) - Rachel Harrington
+ 18: ( 26) - Aztec Camera
+ 19: ( 26) - Corb Lund
+ 20: ( 26) - Rachel Harrington
+ 21: ( 26) - Simple Minds
 
-  22: (  24) - The Low Anthem
-  23: (  24) - Eliza Gilkyson
-  24: (  24) - Laura Cantrell
-  25: (  24) - Patty Griffin
+ 22: ( 24) - Eliza Gilkyson
+ 23: ( 24) - Laura Cantrell
+ 24: ( 24) - Patty Griffin
+ 25: ( 24) - The Low Anthem
 
-  26: (  22) - Lou Reed
-  27: (  22) - Rodney Crowell
-  28: (  22) - Nick Heyward
+ 26: ( 22) - Lou Reed
+ 27: ( 22) - Nick Heyward
+ 28: ( 22) - Rodney Crowell
 
-  29: (  20) - Cocteau Twins
-  30: (  20) - Gillian Welch
-
-
+ 29: ( 20) - Cocteau Twins
+ 30: ( 20) - Gillian Welch
 
 
 
-  31: (  14) - Eyeless in Gaza
+
+
+ 31: ( 14) - Eyeless in Gaza
 
 
 
-  32: (  10) - Haircut 100
-  33: (  10) - The Cure
-  34: (   8) - Phoebe Bridgers
-  35: (   2) - Tom Robinson
-  36: (   2) - Sugar Black
-  37: (   2) - Lehbanchleh
-  38: (   2) - Mankind
-  39: (   2) - Fat White Family
-  40: (   2) - Conor Oberst
-  41: (   2) - Goat
-  42: (   2) - Luke Roberts
-  43: (   2) - Chivalrous Amoekons
-  44: (   2) - C Duncan
-  45: (   2) - Kristin Hersch
-  46: (   2) - Acid Arab
-  47: (   2) - Xylouris White
-  48: (   2) - Julia Jacklin
-  49: (   2) - Purling Hiss
-  50: (   2) - Paul Weller
-  51: (   2) - The Men
+ 32: ( 10) - Haircut 100
+ 33: ( 10) - The Cure
+ 34: (  8) - Phoebe Bridgers
+ 35: (  2) - Acid Arab
+ 36: (  2) - C Duncan
+ 37: (  2) - Chivalrous Amoekons
+ 38: (  2) - Conor Oberst
+ 39: (  2) - Fat White Family
+ 40: (  2) - Goat
+ 41: (  2) - Julia Jacklin
+ 42: (  2) - Kristin Hersch
+ 43: (  2) - Lehbanchleh
+ 44: (  2) - Luke Roberts
+ 45: (  2) - Mankind
+ 46: (  2) - Paul Weller
+ 47: (  2) - Purling Hiss
+ 48: (  2) - Sugar Black
+ 49: (  2) - The Men
+ 50: (  2) - Tom Robinson
+ 51: (  2) - Xylouris White

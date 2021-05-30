@@ -1,131 +1,131 @@
 Specified year (2017), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1107           106           109           580
-   1: ( 124) - Suzanne Vega
-   2: (  73) - The Style Council
-   3: (  56) - Cowboy Junkies
-   4: (  52) - Simple Minds
-   5: (  48) - Heaven 17
-   6: (  47) - Orchestral Manoeuvres in the Dark
+  1: (124) - Suzanne Vega
+  2: ( 73) - The Style Council
+  3: ( 56) - Cowboy Junkies
+  4: ( 52) - Simple Minds
+  5: ( 48) - Heaven 17
+  6: ( 47) - Orchestral Manoeuvres in the Dark
 
 
 
-   7: (  43) - U2
-   8: (  42) - Nick Heyward
-   9: (  41) - Bob Dylan
-
-
-
-
-  10: (  36) - David Bowie
-
-  11: (  34) - Hem
-
-
-  12: (  31) - Rodney Crowell
+  7: ( 43) - U2
+  8: ( 42) - Nick Heyward
+  9: ( 41) - Bob Dylan
 
 
 
 
+ 10: ( 36) - David Bowie
 
-  13: (  25) - London Grammar
-
-
-  14: (  22) - Margaret Glaspy
-  15: (  22) - The Smiths
+ 11: ( 34) - Hem
 
 
-  16: (  19) - UB40
-  17: (  19) - Laura Marling
-  18: (  18) - Talking Heads
+ 12: ( 31) - Rodney Crowell
 
 
-  19: (  15) - The Big Moon
-  20: (  15) - Altered Images
-  21: (  15) - Ray Davies
-  22: (  15) - Haircut 100
-  23: (  14) - Tift Merritt
-  24: (  14) - Sweet
 
-  25: (  12) - Scott Walker
-  26: (  12) - Lizanne Knott
-  27: (  11) - Blondie
-  28: (  11) - The Beatles
-  29: (  10) - Tim Buckley
-  30: (  10) - Roxy Music
-  31: (   9) - Paul Weller
-  32: (   7) - Lloyd Cole and The Commotions
-  33: (   6) - Sarah MacDougall
-  34: (   6) - The Rolling Stones
-  35: (   5) - Cocteau Twins
-  36: (   5) - Spandau Ballet
-  37: (   5) - The Wailers
-  38: (   5) - The Redlands Palomino Company
-  39: (   5) - Lloyd Cole
-  40: (   5) - Scott McKenzie
-  41: (   5) - The Jam
-  42: (   4) - The Move
-  43: (   4) - 13th Floor Elevators
-  44: (   4) - JT and the Clouds
-  45: (   3) - Edwyn Collins
-  46: (   3) - Aretha Franklin
-  47: (   3) - Jimi Hendrix
-  48: (   3) - The Kinks
-  49: (   3) - Procol Harum
-  50: (   3) - Love
-  51: (   3) - Tomorrow
-  52: (   3) - The Smoke
-  53: (   3) - Soft Machine
-  54: (   3) - The Mamas & the Papas
-  55: (   3) - The Seeds
-  56: (   3) - The Chocolate Watch Band
-  57: (   3) - Keith West
-  58: (   3) - The Charlatans
-  59: (   3) - The Bonzo Dog Band
-  60: (   3) - The Pretty Things
-  61: (   3) - Buffalo Springfield
-  62: (   2) - Jason Isbell
-  63: (   2) - Bobbie Gentry
-  64: (   2) - The Monkees
-  65: (   2) - The Velvet Underground
-  66: (   2) - Cream
-  67: (   2) - The Who
-  68: (   2) - Sonny & Cher
-  69: (   2) - The Byrds
-  70: (   2) - The Magpie Salute
-  71: (   2) - Thundercat (Featuring Michael McDonald & Kenny Loggins)
-  72: (   2) - The New Pornographers
-  73: (   2) - Fairport Convention
-  74: (   2) - Robyn Hitchcock
-  75: (   2) - Yasmin Hamdan
-  76: (   2) - bnqt
-  77: (   2) - Wire
-  78: (   2) - Jake Xerxes Fussell
-  79: (   2) - Feral Ohms
-  80: (   2) - Father John Misty
-  81: (   2) - Moby Grape
-  82: (   2) - Bee Gees
-  83: (   2) - The Association
-  84: (   2) - Eric Burdon & The Animals
-  85: (   2) - Small Faces
-  86: (   2) - The Incredible String Band
-  87: (   2) - The Beach Boys
-  88: (   2) - Traffic
-  89: (   2) - Sly & The Family Stone
-  90: (   2) - Country Joe & The Fish
-  91: (   2) - The Jimi Hendrix Experience
-  92: (   1) - This Mortal Coil
-  93: (   1) - The Chameleons
-  94: (   1) - Pink Floyd
-  95: (   1) - Mark Lanegan
-  96: (   1) - Rolling Blackouts CF
-  97: (   1) - Boss Hog
-  98: (   1) - Tamikrest
-  99: (   1) - Donovan
- 100: (   1) - Big Brother & The Holding Company
- 101: (   1) - Family
- 102: (   1) - Jefferson Airplane
- 103: (   1) - The Doors
- 104: (   1) - The Moving Sidewalks
- 105: (   1) - The Youngbloods
- 106: (   1) - The Electric Prunes
+
+
+ 13: ( 25) - London Grammar
+
+
+ 14: ( 22) - Margaret Glaspy
+ 15: ( 22) - The Smiths
+
+
+ 16: ( 19) - Laura Marling
+ 17: ( 19) - UB40
+ 18: ( 18) - Talking Heads
+
+
+ 19: ( 15) - Altered Images
+ 20: ( 15) - Haircut 100
+ 21: ( 15) - Ray Davies
+ 22: ( 15) - The Big Moon
+ 23: ( 14) - Sweet
+ 24: ( 14) - Tift Merritt
+
+ 25: ( 12) - Lizanne Knott
+ 26: ( 12) - Scott Walker
+ 27: ( 11) - Blondie
+ 28: ( 11) - The Beatles
+ 29: ( 10) - Roxy Music
+ 30: ( 10) - Tim Buckley
+ 31: (  9) - Paul Weller
+ 32: (  7) - Lloyd Cole and The Commotions
+ 33: (  6) - Sarah MacDougall
+ 34: (  6) - The Rolling Stones
+ 35: (  5) - Cocteau Twins
+ 36: (  5) - Lloyd Cole
+ 37: (  5) - Scott McKenzie
+ 38: (  5) - Spandau Ballet
+ 39: (  5) - The Jam
+ 40: (  5) - The Redlands Palomino Company
+ 41: (  5) - The Wailers
+ 42: (  4) - 13th Floor Elevators
+ 43: (  4) - JT and the Clouds
+ 44: (  4) - The Move
+ 45: (  3) - Aretha Franklin
+ 46: (  3) - Buffalo Springfield
+ 47: (  3) - Edwyn Collins
+ 48: (  3) - Jimi Hendrix
+ 49: (  3) - Keith West
+ 50: (  3) - Love
+ 51: (  3) - Procol Harum
+ 52: (  3) - Soft Machine
+ 53: (  3) - The Bonzo Dog Band
+ 54: (  3) - The Charlatans
+ 55: (  3) - The Chocolate Watch Band
+ 56: (  3) - The Kinks
+ 57: (  3) - The Mamas & the Papas
+ 58: (  3) - The Pretty Things
+ 59: (  3) - The Seeds
+ 60: (  3) - The Smoke
+ 61: (  3) - Tomorrow
+ 62: (  2) - Bee Gees
+ 63: (  2) - Bobbie Gentry
+ 64: (  2) - Country Joe & The Fish
+ 65: (  2) - Cream
+ 66: (  2) - Eric Burdon & The Animals
+ 67: (  2) - Fairport Convention
+ 68: (  2) - Father John Misty
+ 69: (  2) - Feral Ohms
+ 70: (  2) - Jake Xerxes Fussell
+ 71: (  2) - Jason Isbell
+ 72: (  2) - Moby Grape
+ 73: (  2) - Robyn Hitchcock
+ 74: (  2) - Sly & The Family Stone
+ 75: (  2) - Small Faces
+ 76: (  2) - Sonny & Cher
+ 77: (  2) - The Association
+ 78: (  2) - The Beach Boys
+ 79: (  2) - The Byrds
+ 80: (  2) - The Incredible String Band
+ 81: (  2) - The Jimi Hendrix Experience
+ 82: (  2) - The Magpie Salute
+ 83: (  2) - The Monkees
+ 84: (  2) - The New Pornographers
+ 85: (  2) - The Velvet Underground
+ 86: (  2) - The Who
+ 87: (  2) - Thundercat (Featuring Michael McDonald & Kenny Loggins)
+ 88: (  2) - Traffic
+ 89: (  2) - Wire
+ 90: (  2) - Yasmin Hamdan
+ 91: (  2) - bnqt
+ 92: (  1) - Big Brother & The Holding Company
+ 93: (  1) - Boss Hog
+ 94: (  1) - Donovan
+ 95: (  1) - Family
+ 96: (  1) - Jefferson Airplane
+ 97: (  1) - Mark Lanegan
+ 98: (  1) - Pink Floyd
+ 99: (  1) - Rolling Blackouts CF
+100: (  1) - Tamikrest
+101: (  1) - The Chameleons
+102: (  1) - The Doors
+103: (  1) - The Electric Prunes
+104: (  1) - The Moving Sidewalks
+105: (  1) - The Youngbloods
+106: (  1) - This Mortal Coil

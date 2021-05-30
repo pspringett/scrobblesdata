@@ -1,91 +1,91 @@
 Specified year (2015), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
      801            72           125           616
-   1: (  64) - Roxy Music
-   2: (  50) - Lloyd Cole
-   3: (  50) - Roddy Frame
-   4: (  42) - Gretchen Peters
-   5: (  41) - Sarah MacDougall
+  1: ( 64) - Roxy Music
+  2: ( 50) - Lloyd Cole
+  3: ( 50) - Roddy Frame
+  4: ( 42) - Gretchen Peters
+  5: ( 41) - Sarah MacDougall
 
 
 
 
-   6: (  36) - Jason Isbell
+  6: ( 36) - Jason Isbell
 
-   7: (  34) - Bob Dylan
-
-
-   8: (  31) - Eilen Jewell
-
-   9: (  29) - Corb Lund
-
-  10: (  27) - Orchestral Manoeuvres in the Dark
+  7: ( 34) - Bob Dylan
 
 
-  11: (  24) - Carrie Rodriguez
+  8: ( 31) - Eilen Jewell
+
+  9: ( 29) - Corb Lund
+
+ 10: ( 27) - Orchestral Manoeuvres in the Dark
 
 
-  12: (  21) - Tift Merritt
+ 11: ( 24) - Carrie Rodriguez
 
 
-  13: (  18) - Elvis Costello
-  14: (  17) - Scott Walker
+ 12: ( 21) - Tift Merritt
 
-  15: (  15) - Hem
-  16: (  15) - The Cure
-  17: (  15) - Gillian Welch
-  18: (  15) - Angie Palmer
-  19: (  14) - Robert Plant & Alison Krauss
-  20: (  13) - Heaven 17
-  21: (  12) - Cowboy Junkies
-  22: (  12) - The Redlands Palomino Company
-  23: (  11) - U2
-  24: (  11) - Emmylou Harris
-  25: (  11) - Orange Juice
-  26: (  11) - Rosanne Cash
-  27: (  10) - Robert Forster
-  28: (  10) - Aztec Camera
-  29: (  10) - David Bowie
-  30: (  10) - Ian McCulloch
-  31: (   9) - B.E.F.
-  32: (   8) - Martin Stephenson And The Daintees
-  33: (   7) - Tom Tom Club
-  34: (   7) - Natalie Prass
-  35: (   6) - Rodney Crowell
-  36: (   5) - Hayes Carll
-  37: (   5) - Leonard Cohen
-  38: (   5) - Rachel Harrington
-  39: (   4) - Joy Division
-  40: (   4) - The Jam
-  41: (   4) - Martin Stephenson
-  42: (   4) - John Cale
-  43: (   4) - Led Zeppelin
-  44: (   4) - Romi Mayes
-  45: (   3) - Cara Luft
-  46: (   3) - Edwyn Collins
-  47: (   3) - Gina Villalobos
-  48: (   3) - JT and the Clouds
-  49: (   3) - JT Nero
-  50: (   3) - Jan Garbarek
-  51: (   3) - Cocteau Twins
-  52: (   2) - Scritti Politti
-  53: (   2) - The Low Anthem
-  54: (   2) - The Wailin' Jennys
-  55: (   2) - Travis Linville
-  56: (   1) - Rod Picott & Amanda Shires
-  57: (   1) - Larkin Poe
-  58: (   1) - Spizz Energi
-  59: (   1) - Uriah Heep
-  60: (   1) - Jeff Bridges
-  61: (   1) - Amy LaVere
-  62: (   1) - Jonathan Richman And The Modern Lovers
-  63: (   1) - The Dust Poets
-  64: (   1) - Martyn Bates
-  65: (   1) - The Chameleons
-  66: (   1) - The Members
-  67: (   1) - The Decemberists
-  68: (   1) - Weekend
-  69: (   1) - Ian Dury and the Blockheads
-  70: (   1) - Carrie Rodriguez and Ben Kyle
-  71: (   1) - UB40
-  72: (   1) - Theatre of Hate
+
+ 13: ( 18) - Elvis Costello
+ 14: ( 17) - Scott Walker
+
+ 15: ( 15) - Angie Palmer
+ 16: ( 15) - Gillian Welch
+ 17: ( 15) - Hem
+ 18: ( 15) - The Cure
+ 19: ( 14) - Robert Plant & Alison Krauss
+ 20: ( 13) - Heaven 17
+ 21: ( 12) - Cowboy Junkies
+ 22: ( 12) - The Redlands Palomino Company
+ 23: ( 11) - Emmylou Harris
+ 24: ( 11) - Orange Juice
+ 25: ( 11) - Rosanne Cash
+ 26: ( 11) - U2
+ 27: ( 10) - Aztec Camera
+ 28: ( 10) - David Bowie
+ 29: ( 10) - Ian McCulloch
+ 30: ( 10) - Robert Forster
+ 31: (  9) - B.E.F.
+ 32: (  8) - Martin Stephenson And The Daintees
+ 33: (  7) - Natalie Prass
+ 34: (  7) - Tom Tom Club
+ 35: (  6) - Rodney Crowell
+ 36: (  5) - Hayes Carll
+ 37: (  5) - Leonard Cohen
+ 38: (  5) - Rachel Harrington
+ 39: (  4) - John Cale
+ 40: (  4) - Joy Division
+ 41: (  4) - Led Zeppelin
+ 42: (  4) - Martin Stephenson
+ 43: (  4) - Romi Mayes
+ 44: (  4) - The Jam
+ 45: (  3) - Cara Luft
+ 46: (  3) - Cocteau Twins
+ 47: (  3) - Edwyn Collins
+ 48: (  3) - Gina Villalobos
+ 49: (  3) - JT Nero
+ 50: (  3) - JT and the Clouds
+ 51: (  3) - Jan Garbarek
+ 52: (  2) - Scritti Politti
+ 53: (  2) - The Low Anthem
+ 54: (  2) - The Wailin' Jennys
+ 55: (  2) - Travis Linville
+ 56: (  1) - Amy LaVere
+ 57: (  1) - Carrie Rodriguez and Ben Kyle
+ 58: (  1) - Ian Dury and the Blockheads
+ 59: (  1) - Jeff Bridges
+ 60: (  1) - Jonathan Richman And The Modern Lovers
+ 61: (  1) - Larkin Poe
+ 62: (  1) - Martyn Bates
+ 63: (  1) - Rod Picott & Amanda Shires
+ 64: (  1) - Spizz Energi
+ 65: (  1) - The Chameleons
+ 66: (  1) - The Decemberists
+ 67: (  1) - The Dust Poets
+ 68: (  1) - The Members
+ 69: (  1) - Theatre of Hate
+ 70: (  1) - UB40
+ 71: (  1) - Uriah Heep
+ 72: (  1) - Weekend

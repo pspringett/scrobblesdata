@@ -1,8 +1,8 @@
 Specified year (2019), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
      558            70            77           393
-   1: (  48) - Manifesto - Roxy Music
-   2: (  47) - The Glasgow School - Orange Juice
+  1: ( 48) - Manifesto - Roxy Music
+  2: ( 47) - The Glasgow School - Orange Juice
 
 
 
@@ -25,81 +25,81 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   3: (  24) - Welcome To The Blackout (Live London '78) - David Bowie
-   4: (  23) - Andromeda Heights - Prefab Sprout
+  3: ( 24) - Welcome To The Blackout (Live London '78) - David Bowie
+  4: ( 23) * Andromeda Heights - Prefab Sprout
 
 
-   5: (  20) - Blue - Joni Mitchell
-   6: (  20) - Victorialand - Cocteau Twins
+  5: ( 20) - Blue - Joni Mitchell
+  6: ( 20) - Victorialand - Cocteau Twins
 
-   7: (  18) - All These Dreams - Andrew Combs
-   8: (  17) - Gasoline Alley - Rod Stewart
-   9: (  17) - Closer - Joy Division
-  10: (  16) - Golden Hour - Kacey Musgraves
-  11: (  16) - Gathering - Josh Ritter
-  12: (  16) - Autobahn - Kraftwerk
-  13: (  15) - Sons And Fascination/Sister Feelings Call - Simple Minds
-  14: (  14) - Sermon On The Rocks - Josh Ritter
-  15: (  13) - True Meanings - Paul Weller
-  16: (  12) - She Remembers Everything - Rosanne Cash
-  17: (  12) - Wanderer - Cara Dillon
-  18: (  12) - The Count - Count Basie
-  19: (  12) - Sunshine On Leith - The Proclaimers
-  20: (  12) - Scott 2 - Scott Walker
-  21: (  11) - Antidepressant - Lloyd Cole
-  22: (  11) - Songs To Play - Robert Forster
-  23: (  11) - Queer As Folk - Grace Petrie
-  24: (  11) - Standards - Lloyd Cole
-  25: (  10) - Music In A Foreign Language - Lloyd Cole
-  26: (  10) - A Kind Revolution (Deluxe) - Paul Weller
-  27: (  10) - The Top (Remastered Version) - The Cure
-  28: (   9) - Caledonia - JT and the Clouds
-  29: (   9) - Are You Experienced - Jimi Hendrix
-  30: (   8) - I'm Your Man - Leonard Cohen
-  31: (   3) - 13 Rivers - Richard Thompson
-  32: (   3) - >>> - Beak>
-  33: (   3) - Double Negative - Low
-  34: (   3) - The Other Years - The Other Years
-  35: (   3) - Knife - Aztec Camera
-  36: (   3) - Acoustic - Simple Minds
-  37: (   2) - Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain - China Crisis
-  38: (   2) - For My Crimes - Marissa Nadler
-  39: (   2) - We're Not Talking - The Goon Sax
-  40: (   2) - Chris - Christine and the Queens
-  41: (   2) - And Nothing Hurt - Spiritualized
-  42: (   2) - Years In The Making - Loudon Wainwright III
-  43: (   2) - Shelley's On Zenn-La - Oliver Coates
-  44: (   2) - Love, Loss, And Auto-Tune - Swamp Dogg
-  45: (   2) - Digital Garbage - Mudhoney
-  46: (   2) - The Crossing - Alejandro Escovedo
-  47: (   2) - No Recover - Eric Bachmann
-  48: (   2) - Meet Me At The River - Dawn Landes
-  49: (   2) - The Morning Star - Daniel Bachman
-  50: (   2) - Scott 4 - Scott Walker
-  51: (   2) - The Anthology 1964 - 1971 - The Kinks
-  52: (   1) - Various Positions - Leonard Cohen
-  53: (   1) - Genericana - Elephant Micah
-  54: (   1) - Performance - White Denim
-  55: (   1) - All That Reckoning - Cowboy Junkies
-  56: (   1) - Old Rockhounds Never Die - Odetta Hartman
-  57: (   1) - From When I Wake The Want Is - Kathryn Joseph
-  58: (   1) - With Animals - Duke Garwood
-  59: (   1) - Semblance - Forma
-  60: (   1) - Black Rainbow Sound - Menace Beach
-  61: (   1) - At Weddings - Tomberlin
-  62: (   1) - A Broke Moon Rises - Papa M
-  63: (   1) - The Underworld & You - Two Circles
-  64: (   1) - To The Sunset - Amanda Shires
-  65: (   1) - Sounds Recorded By Steve Albini - Spare Snare
-  66: (   1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
-  67: (   1) - Sugar, Sugar - The Archies
-  68: (   1) - Album 1700 - Peter, Paul & Mary
-  69: (   1) - Paint Your Wagon - Lee Marvin
-  70: (   1) - Girls (3 Cd Boxset) - Dana
-  71: (   1) - Spirit In The Sky "The Definitive Anthology" - Norman Greenbaum
-  72: (   1) - Yellow River - Christie
-  73: (   1) - Greatest Hits - The Jackson 5
-  74: (   1) - In The Summertime - Remastered - Mungo Jerry
-  75: (   1) - All Right Now: The Collection - Free
-  76: (   1) - 40 Golden Greats - Cliff Richard
-  77: (   1) - Miami Lighthouse For The Blind Presents: Instrumental Magic - Stevie Wonder
+  7: ( 18) - All These Dreams - Andrew Combs
+  8: ( 17) * Closer - Joy Division
+  9: ( 17) - Gasoline Alley - Rod Stewart
+ 10: ( 16) - Autobahn - Kraftwerk
+ 11: ( 16) - Gathering - Josh Ritter
+ 12: ( 16) - Golden Hour - Kacey Musgraves
+ 13: ( 15) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 14: ( 14) - Sermon On The Rocks - Josh Ritter
+ 15: ( 13) - True Meanings - Paul Weller
+ 16: ( 12) * Scott 2 - Scott Walker
+ 17: ( 12) - She Remembers Everything - Rosanne Cash
+ 18: ( 12) - Sunshine On Leith - The Proclaimers
+ 19: ( 12) - The Count - Count Basie
+ 20: ( 12) - Wanderer - Cara Dillon
+ 21: ( 11) * Antidepressant - Lloyd Cole
+ 22: ( 11) - Queer As Folk - Grace Petrie
+ 23: ( 11) - Songs To Play - Robert Forster
+ 24: ( 11) * Standards - Lloyd Cole
+ 25: ( 10) - A Kind Revolution (Deluxe) - Paul Weller
+ 26: ( 10) - Music In A Foreign Language - Lloyd Cole
+ 27: ( 10) - The Top (Remastered Version) - The Cure
+ 28: (  9) - Are You Experienced - Jimi Hendrix
+ 29: (  9) * Caledonia - JT and the Clouds
+ 30: (  8) * I'm Your Man - Leonard Cohen
+ 31: (  3) - 13 Rivers - Richard Thompson
+ 32: (  3) - >>> - Beak>
+ 33: (  3) - Acoustic - Simple Minds
+ 34: (  3) - Double Negative - Low
+ 35: (  3) * Knife - Aztec Camera
+ 36: (  3) - The Other Years - The Other Years
+ 37: (  2) - And Nothing Hurt - Spiritualized
+ 38: (  2) - Chris - Christine and the Queens
+ 39: (  2) - Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain - China Crisis
+ 40: (  2) - Digital Garbage - Mudhoney
+ 41: (  2) - For My Crimes - Marissa Nadler
+ 42: (  2) - Love, Loss, And Auto-Tune - Swamp Dogg
+ 43: (  2) - Meet Me At The River - Dawn Landes
+ 44: (  2) - No Recover - Eric Bachmann
+ 45: (  2) - Scott 4 - Scott Walker
+ 46: (  2) - Shelley's On Zenn-La - Oliver Coates
+ 47: (  2) - The Anthology 1964 - 1971 - The Kinks
+ 48: (  2) - The Crossing - Alejandro Escovedo
+ 49: (  2) - The Morning Star - Daniel Bachman
+ 50: (  2) - We're Not Talking - The Goon Sax
+ 51: (  2) - Years In The Making - Loudon Wainwright III
+ 52: (  1) - 40 Golden Greats - Cliff Richard
+ 53: (  1) - A Broke Moon Rises - Papa M
+ 54: (  1) - Album 1700 - Peter, Paul & Mary
+ 55: (  1) - All Right Now: The Collection - Free
+ 56: (  1) - All That Reckoning - Cowboy Junkies
+ 57: (  1) - At Weddings - Tomberlin
+ 58: (  1) - Black Rainbow Sound - Menace Beach
+ 59: (  1) - From When I Wake The Want Is - Kathryn Joseph
+ 60: (  1) - Genericana - Elephant Micah
+ 61: (  1) - Girls (3 Cd Boxset) - Dana
+ 62: (  1) - Greatest Hits - The Jackson 5
+ 63: (  1) - In The Summertime - Remastered - Mungo Jerry
+ 64: (  1) - Miami Lighthouse For The Blind Presents: Instrumental Magic - Stevie Wonder
+ 65: (  1) - Old Rockhounds Never Die - Odetta Hartman
+ 66: (  1) - Paint Your Wagon - Lee Marvin
+ 67: (  1) - Performance - White Denim
+ 68: (  1) - Semblance - Forma
+ 69: (  1) - Sounds Recorded By Steve Albini - Spare Snare
+ 70: (  1) - Spirit In The Sky "The Definitive Anthology" - Norman Greenbaum
+ 71: (  1) - Sugar, Sugar - The Archies
+ 72: (  1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
+ 73: (  1) - The Underworld & You - Two Circles
+ 74: (  1) - To The Sunset - Amanda Shires
+ 75: (  1) * Various Positions - Leonard Cohen
+ 76: (  1) - With Animals - Duke Garwood
+ 77: (  1) - Yellow River - Christie

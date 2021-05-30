@@ -1,84 +1,84 @@
 Specified year (2018), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
      894            67            85           609
-   1: (  98) - Jimi Hendrix
-   2: (  56) - Lloyd Cole
-   3: (  41) - Martin Stephenson
-   4: (  40) - Bobbie Gentry
+  1: ( 98) - Jimi Hendrix
+  2: ( 56) - Lloyd Cole
+  3: ( 41) - Martin Stephenson
+  4: ( 40) - Bobbie Gentry
 
 
 
 
-   5: (  35) - Cocteau Twins
-   6: (  35) - Echo & the Bunnymen
-   7: (  34) - Simple Minds
+  5: ( 35) - Cocteau Twins
+  6: ( 35) - Echo & the Bunnymen
+  7: ( 34) - Simple Minds
 
 
 
 
-   8: (  29) - UB40
+  8: ( 29) - UB40
 
-   9: (  27) - Bob Dylan
+  9: ( 27) - Bob Dylan
 
-  10: (  25) - Led Zeppelin
-  11: (  24) - The Cure
-  12: (  24) - Josh Ritter
+ 10: ( 25) - Led Zeppelin
+ 11: ( 24) - Josh Ritter
+ 12: ( 24) - The Cure
 
-  13: (  22) - The Corrs
-  14: (  22) - Orchestral Manoeuvres in the Dark
+ 13: ( 22) - Orchestral Manoeuvres in the Dark
+ 14: ( 22) - The Corrs
 
-  15: (  20) - Phoebe Bridgers
-  16: (  19) - Rodney Crowell
-  17: (  19) - Tift Merritt
+ 15: ( 20) - Phoebe Bridgers
+ 16: ( 19) - Rodney Crowell
+ 17: ( 19) - Tift Merritt
 
-  18: (  17) - David Bowie
-  19: (  17) - Roddy Frame
-  20: (  16) - Chip Taylor & Carrie Rodriguez
+ 18: ( 17) - David Bowie
+ 19: ( 17) - Roddy Frame
+ 20: ( 16) - Chip Taylor & Carrie Rodriguez
 
-  21: (  14) - Brian Eno
-  22: (  13) - The Style Council
-  23: (  13) - Hem
-  24: (  13) - The Wailers
-  25: (  12) - Lloyd Cole and The Commotions
-  26: (  12) - Freakwater
-  27: (  12) - The Low Anthem
-  28: (  12) - Wolf Alice
-  29: (  11) - Cowboy Junkies
-  30: (  11) - Justin Townes Earle
-  31: (  11) - Brian Eno & David Byrne
-  32: (  10) - Jason Isbell and The 400 Unit
-  33: (  10) - The Twilight Sad
-  34: (   9) - JT Nero
-  35: (   9) - Joy Division
-  36: (   8) - Corb Lund
-  37: (   8) - New Order
-  38: (   8) - Aztec Camera
-  39: (   5) - Rolling Blackouts Coastal Fever
-  40: (   5) - Tracyanne & Danny
-  41: (   5) - Let's Eat Grandma
-  42: (   5) - Natalie Prass
-  43: (   5) - Virginia Wing
-  44: (   5) - Neko Case
-  45: (   4) - Father John Misty
-  46: (   4) - The Last Poets
-  47: (   4) - The Wave Pictures
-  48: (   4) - Erin Rae
-  49: (   4) - Bombino
-  50: (   4) - Jon Hassell
-  51: (   3) - Michael Rault
-  52: (   3) - Melody's Echo Chamber
-  53: (   3) - Jimmie Dale Gilmore
-  54: (   2) - Christine and the Queens
-  55: (   1) - The Teardrop Explodes
-  56: (   1) - Faces
-  57: (   1) - Bob Dylan and Joan Baez
-  58: (   1) - MELOVIN
-  59: (   1) - Amaia Romero & Alfred García
-  60: (   1) - Lea Sirk
-  61: (   1) - Ieva Zasimauskaitė
-  62: (   1) - Cesár Sampson
-  63: (   1) - dcoops
-  64: (   1) - Rodney Crowell (duet with Emmylou Harris)
-  65: (   1) - Jimmy Dale Gilmore
-  66: (   1) - Melodies Echo Chamber
-  67: (   1) - Jon Hassel
+ 21: ( 14) - Brian Eno
+ 22: ( 13) - Hem
+ 23: ( 13) - The Style Council
+ 24: ( 13) - The Wailers
+ 25: ( 12) - Freakwater
+ 26: ( 12) - Lloyd Cole and The Commotions
+ 27: ( 12) - The Low Anthem
+ 28: ( 12) - Wolf Alice
+ 29: ( 11) - Brian Eno & David Byrne
+ 30: ( 11) - Cowboy Junkies
+ 31: ( 11) - Justin Townes Earle
+ 32: ( 10) - Jason Isbell and The 400 Unit
+ 33: ( 10) - The Twilight Sad
+ 34: (  9) - JT Nero
+ 35: (  9) - Joy Division
+ 36: (  8) - Aztec Camera
+ 37: (  8) - Corb Lund
+ 38: (  8) - New Order
+ 39: (  5) - Let's Eat Grandma
+ 40: (  5) - Natalie Prass
+ 41: (  5) - Neko Case
+ 42: (  5) - Rolling Blackouts Coastal Fever
+ 43: (  5) - Tracyanne & Danny
+ 44: (  5) - Virginia Wing
+ 45: (  4) - Bombino
+ 46: (  4) - Erin Rae
+ 47: (  4) - Father John Misty
+ 48: (  4) - Jon Hassell
+ 49: (  4) - The Last Poets
+ 50: (  4) - The Wave Pictures
+ 51: (  3) - Jimmie Dale Gilmore
+ 52: (  3) - Melody's Echo Chamber
+ 53: (  3) - Michael Rault
+ 54: (  2) - Christine and the Queens
+ 55: (  1) - Amaia Romero & Alfred García
+ 56: (  1) - Bob Dylan and Joan Baez
+ 57: (  1) - Cesár Sampson
+ 58: (  1) - Faces
+ 59: (  1) - Ieva Zasimauskaitė
+ 60: (  1) - Jimmy Dale Gilmore
+ 61: (  1) - Jon Hassel
+ 62: (  1) - Lea Sirk
+ 63: (  1) - MELOVIN
+ 64: (  1) - Melodies Echo Chamber
+ 65: (  1) - Rodney Crowell (duet with Emmylou Harris)
+ 66: (  1) - The Teardrop Explodes
+ 67: (  1) - dcoops

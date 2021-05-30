@@ -1,21 +1,18 @@
 Specified year (2017), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
      959            53            71           626
-   1: (  64) - Lloyd Cole
-   2: (  63) - Scott Walker
-   3: (  59) - Nick Heyward
-   4: (  59) - Josh Ritter
-   5: (  58) - Roxy Music
-   6: (  49) - Roddy Frame
-   7: (  48) - Orange Juice
-   8: (  47) - Orchestral Manoeuvres in the Dark
+  1: ( 64) - Lloyd Cole
+  2: ( 63) - Scott Walker
+  3: ( 59) - Josh Ritter
+  4: ( 59) - Nick Heyward
+  5: ( 58) - Roxy Music
+  6: ( 49) - Roddy Frame
+  7: ( 48) - Orange Juice
+  8: ( 47) - Orchestral Manoeuvres in the Dark
 
 
-   9: (  44) - David Bowie
-  10: (  44) - Steely Dan
-
-
-
+  9: ( 44) - David Bowie
+ 10: ( 44) - Steely Dan
 
 
 
@@ -26,55 +23,58 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  11: (  30) - Sarah MacDougall
+
+
+
+ 11: ( 30) - Sarah MacDougall
 
 
 
 
 
 
-  12: (  23) - U2
+ 12: ( 23) - U2
 
-  13: (  21) - Bob Dylan
+ 13: ( 21) - Bob Dylan
 
-  14: (  19) - Justin Townes Earle
-  15: (  18) - Fleetwood Mac
-  16: (  17) - Tift Merritt
-  17: (  17) - New Order
+ 14: ( 19) - Justin Townes Earle
+ 15: ( 18) - Fleetwood Mac
+ 16: ( 17) - New Order
+ 17: ( 17) - Tift Merritt
 
-  18: (  15) - Department S
-  19: (  15) - Hem
-  20: (  14) - Aztec Camera
-  21: (  13) - Sparks
-  22: (  12) - Shelby Lynne
-  23: (  12) - Anne McCue
-  24: (  12) - Eilen Jewell
-  25: (  11) - The Smiths
-  26: (  11) - Spandau Ballet
-  27: (  11) - Rosanne Cash
-  28: (  10) - Cowboy Junkies
-  29: (  10) - Jason Isbell and The 400 Unit
-  30: (  10) - ABC
-  31: (  10) - Kate Bush
-  32: (  10) - Amy LaVere
-  33: (   9) - Simple Minds
-  34: (   9) - Gretchen Peters
-  35: (   9) - The Velvet Underground
-  36: (   9) - Altered Images
-  37: (   8) - Alison Moyet
-  38: (   8) - The Cure
-  39: (   7) - The Jam
-  40: (   7) - Edwyn Collins
-  41: (   7) - JT Nero
-  42: (   5) - Rodney Crowell
-  43: (   5) - Joy Division
-  44: (   4) - Bob Marley & The Wailers
-  45: (   4) - The Redlands Palomino Company
-  46: (   3) - Laura Marling
-  47: (   2) - Birds of Chicago
-  48: (   2) - The Style Council
-  49: (   1) - Lizanne Knott
-  50: (   1) - Rodney Crowell (duet with Emmylou Harris)
-  51: (   1) - Jimi Hendrix
-  52: (   1) - Jean-Michel Blais
-  53: (   1) - Leonard Cohen
+ 18: ( 15) - Department S
+ 19: ( 15) - Hem
+ 20: ( 14) - Aztec Camera
+ 21: ( 13) - Sparks
+ 22: ( 12) - Anne McCue
+ 23: ( 12) - Eilen Jewell
+ 24: ( 12) - Shelby Lynne
+ 25: ( 11) - Rosanne Cash
+ 26: ( 11) - Spandau Ballet
+ 27: ( 11) - The Smiths
+ 28: ( 10) - ABC
+ 29: ( 10) - Amy LaVere
+ 30: ( 10) - Cowboy Junkies
+ 31: ( 10) - Jason Isbell and The 400 Unit
+ 32: ( 10) - Kate Bush
+ 33: (  9) - Altered Images
+ 34: (  9) - Gretchen Peters
+ 35: (  9) - Simple Minds
+ 36: (  9) - The Velvet Underground
+ 37: (  8) - Alison Moyet
+ 38: (  8) - The Cure
+ 39: (  7) - Edwyn Collins
+ 40: (  7) - JT Nero
+ 41: (  7) - The Jam
+ 42: (  5) - Joy Division
+ 43: (  5) - Rodney Crowell
+ 44: (  4) - Bob Marley & The Wailers
+ 45: (  4) - The Redlands Palomino Company
+ 46: (  3) - Laura Marling
+ 47: (  2) - Birds of Chicago
+ 48: (  2) - The Style Council
+ 49: (  1) - Jean-Michel Blais
+ 50: (  1) - Jimi Hendrix
+ 51: (  1) - Leonard Cohen
+ 52: (  1) - Lizanne Knott
+ 53: (  1) - Rodney Crowell (duet with Emmylou Harris)

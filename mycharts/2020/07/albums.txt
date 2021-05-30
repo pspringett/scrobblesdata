@@ -1,13 +1,13 @@
 Specified year (2020), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1286            69            72           432
-   1: (  98) - On Sunset (Deluxe) - Paul Weller
-   2: (  80) - Sweet Fanny Adams - Sweet
-   3: (  72) - 2020 - Eliza Gilkyson
-   4: (  68) - Head Above The Water - Brigid Mae Power
-   5: (  68) - Bauhaus - 1979-1983 Volume One - Bauhaus
-   6: (  58) - Women In Music Pt. Iii - HAIM
-   7: (  46) - Works - Eberhard Weber
+  1: ( 98) - On Sunset (Deluxe) - Paul Weller
+  2: ( 80) - Sweet Fanny Adams - Sweet
+  3: ( 72) - 2020 - Eliza Gilkyson
+  4: ( 68) - Bauhaus - 1979-1983 Volume One - Bauhaus
+  5: ( 68) - Head Above The Water - Brigid Mae Power
+  6: ( 58) - Women In Music Pt. Iii - HAIM
+  7: ( 46) - Works - Eberhard Weber
 
 
 
@@ -15,93 +15,93 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-   8: (  38) - Rough And Rowdy Ways - Bob Dylan
-   9: (  38) - Hate For Sale - Pretenders
-  10: (  38) - Blue Black - Jean Toussaint
+  8: ( 38) - Blue Black - Jean Toussaint
+  9: ( 38) - Hate For Sale - Pretenders
+ 10: ( 38) - Rough And Rowdy Ways - Bob Dylan
 
 
 
-  11: (  34) - The Lookout - Laura Veirs
+ 11: ( 34) - The Lookout - Laura Veirs
 
-  12: (  32) - Parallel Lines: Deluxe Collector's Edition - Blondie
+ 12: ( 32) - Parallel Lines: Deluxe Collector's Edition - Blondie
 
-  13: (  30) - Unplugged And Slightly Phased Live 1996 - David Bowie
-  14: (  30) - Live Orchestral - 2018-10-06 Cd2 - Orchestral Manoeuvres in the Dark
-  15: (  30) - I'm Your Man - Leonard Cohen
+ 13: ( 30) * I'm Your Man - Leonard Cohen
+ 14: ( 30) - Live Orchestral - 2018-10-06 Cd2 - Orchestral Manoeuvres in the Dark
+ 15: ( 30) - Unplugged And Slightly Phased Live 1996 - David Bowie
 
-  16: (  28) - Horse Soldier! Horse Soldier! - Corb Lund
+ 16: ( 28) * Horse Soldier! Horse Soldier! - Corb Lund
 
-  17: (  26) - Sorry For Laughing - Josef K
+ 17: ( 26) - Sorry For Laughing - Josef K
 
-  18: (  24) - Servant Of Love - Patty Griffin
-  19: (  24) - Love And Circumstance - Carrie Rodriguez
-  20: (  24) - Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
+ 18: ( 24) * Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
+ 19: ( 24) * Love And Circumstance - Carrie Rodriguez
+ 20: ( 24) - Servant Of Love - Patty Griffin
 
-  21: (  22) - Revolution Of Mind - She Drew the Gun
+ 21: ( 22) - Revolution Of Mind - She Drew the Gun
 
-  22: (  20) - Elton John (Remastered Version) - Elton John
-  23: (  20) - Tanx (The Visconti Master) - T. Rex
+ 22: ( 20) - Elton John (Remastered Version) - Elton John
+ 23: ( 20) - Tanx (The Visconti Master) - T. Rex
 
-  24: (  18) - Lionheart - H.C. McEntire
+ 24: ( 18) - Lionheart - H.C. McEntire
 
-  25: (  16) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
-  26: (  16) - Garlands - Cocteau Twins
+ 25: ( 16) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
+ 26: ( 16) - Garlands - Cocteau Twins
 
-  27: (  14) - Sound Affects (Remastered Version) - The Jam
-  28: (  14) - The Negatives - Lloyd Cole
-  29: (  14) - When All Is Said And All Is Done - Department S
+ 27: ( 14) - Sound Affects (Remastered Version) - The Jam
+ 28: ( 14) * The Negatives - Lloyd Cole
+ 29: ( 14) - When All Is Said And All Is Done - Department S
 
-  30: (  12) - The Wrong People - Furniture
-  31: (  12) - Another View - The Velvet Underground
-  32: (  12) - Resistor - Lera Lynn
+ 30: ( 12) - Another View - The Velvet Underground
+ 31: ( 12) - Resistor - Lera Lynn
+ 32: ( 12) - The Wrong People - Furniture
 
-  33: (  10) - From Her To Eternity (2009 Remastered Version) - Nick Cave & The Bad Seeds
-  34: (   8) - Live At The Narrows - Eilen Jewell
-  35: (   8) - Tiny Dynamine - Cocteau Twins
-  36: (   8) - Love In The 4Th Dimension - The Big Moon
-  37: (   8) - Works - Ralph Towner
-  38: (   8) - Tangled Man - Green Gartside
-  39: (   8) - Pinky Blue - Altered Images
-  40: (   8) - The '81 Demos - Weekend
-  41: (   8) - Echoes In A Shallow Bay - Cocteau Twins
-  42: (   6) - Reading, Writing & Arithmetic - The Sundays
-  43: (   6) - Peel Sessions 1981 - The Cure
-  44: (   6) - Beauty Stab - ABC
-  45: (   6) - Unfollow The Rules - Rufus Wainwright
-  46: (   6) - Rubber Soul - The Beatles
-  47: (   6) - Broken Record - Lloyd Cole
-  48: (   6) - Songs Of Leonard Cohen - Leonard Cohen
-  49: (   6) - Merry Christmas, Baby - Rod Stewart
-  50: (   6) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
-  51: (   6) - The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
-  52: (   6) - Lullabies - Cocteau Twins
-  53: (   4) - A Distant Shore - Tracey Thorn
-  54: (   4) - Station To Station - David Bowie
-  55: (   4) - The Graduate - Simon & Garfunkel
-  56: (   4) - The Slider - T. Rex
-  57: (   4) - Bolan's Zip Gun - T. Rex
-  58: (   2) - Protest Songs - Prefab Sprout
-  59: (   2) - Etc - Lloyd Cole
-  60: (   2) - Crush [Explicit] - Lettuce
-  61: (   2) - Uncut 2016-02 - Fat White Family
-  62: (   2) - Uncut 2016-02 - John Cale
-  63: (   2) - Uncut 2016-09 - Ones From The Heart - Teenage Fanclub
-  64: (   2) - Uncut 2016-09 - Ones From The Heart - Ryley Walker
-  65: (   2) - Uncut 2016-09 - Ones From The Heart - De La Soul
-  66: (   2) - Uncut 2016-09 - Ones From The Heart - Lydia Loveless
-  67: (   2) - Uncut 2016-09 - Ones From The Heart - Wild Beasts
-  68: (   2) - Uncut 2016-09 - Ones From The Heart - Hans Chew
-  69: (   2) - Uncut 2016-09 - Ones From The Heart - Dinosaur Jr.
-  70: (   2) - Uncut 2016-09 - Ones From The Heart - Cass McCombs
-  71: (   2) - Murder Ballads (2011 Remastered Version) - Nick Cave & The Bad Seeds
-  72: (   2) - The Graduate - Dave Grusin
-  73: (   2) - Music From First Cow - William Tyler
-  74: (   2) - Strange To Explain - Woods
-  75: (   2) - That's How Rumors Get Started - Margo Price
-  76: (   2) - Straight Songs Of Sorrow - Mark Lanegan
-  77: (   2) - Ghosts Of West Virginia - Steve Earle
-  78: (   2) - Speaking In Tongues - Talking Heads
-  79: (   2) - Ballet Of Apes - Brigid Dawson and The Mothers Network
-  80: (   2) - The Universe Inside - The Dream Syndicate
-  81: (   2) - Futuristic Dragon (Deluxe Edition) - T. Rex
-  82: (   2) - Chapter 4 - Chapter 4
+ 33: ( 10) - From Her To Eternity (2009 Remastered Version) - Nick Cave & The Bad Seeds
+ 34: (  8) - Echoes In A Shallow Bay - Cocteau Twins
+ 35: (  8) - Live At The Narrows - Eilen Jewell
+ 36: (  8) - Love In The 4Th Dimension - The Big Moon
+ 37: (  8) * Pinky Blue - Altered Images
+ 38: (  8) - Tangled Man - Green Gartside
+ 39: (  8) - The '81 Demos - Weekend
+ 40: (  8) - Tiny Dynamine - Cocteau Twins
+ 41: (  8) - Works - Ralph Towner
+ 42: (  6) - Beauty Stab - ABC
+ 43: (  6) * Broken Record - Lloyd Cole
+ 44: (  6) - Lullabies - Cocteau Twins
+ 45: (  6) - Merry Christmas, Baby - Rod Stewart
+ 46: (  6) - Peel Sessions 1981 - The Cure
+ 47: (  6) * Reading, Writing & Arithmetic - The Sundays
+ 48: (  6) - Rubber Soul - The Beatles
+ 49: (  6) * Songs Of Leonard Cohen - Leonard Cohen
+ 50: (  6) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
+ 51: (  6) - Unfollow The Rules - Rufus Wainwright
+ 52: (  6) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+ 53: (  4) * A Distant Shore - Tracey Thorn
+ 54: (  4) - Bolan's Zip Gun - T. Rex
+ 55: (  4) * Station To Station - David Bowie
+ 56: (  4) - The Graduate - Simon & Garfunkel
+ 57: (  4) - The Slider - T. Rex
+ 58: (  2) - Ballet Of Apes - Brigid Dawson and The Mothers Network
+ 59: (  2) - Chapter 4 - Chapter 4
+ 60: (  2) - Crush [Explicit] - Lettuce
+ 61: (  2) - Etc - Lloyd Cole
+ 62: (  2) - Futuristic Dragon (Deluxe Edition) - T. Rex
+ 63: (  2) - Ghosts Of West Virginia - Steve Earle
+ 64: (  2) - Murder Ballads (2011 Remastered Version) - Nick Cave & The Bad Seeds
+ 65: (  2) - Music From First Cow - William Tyler
+ 66: (  2) - Protest Songs - Prefab Sprout
+ 67: (  2) - Speaking In Tongues - Talking Heads
+ 68: (  2) - Straight Songs Of Sorrow - Mark Lanegan
+ 69: (  2) - Strange To Explain - Woods
+ 70: (  2) - That's How Rumors Get Started - Margo Price
+ 71: (  2) - The Graduate - Dave Grusin
+ 72: (  2) - The Universe Inside - The Dream Syndicate
+ 73: (  2) - Uncut 2016-02 - Fat White Family
+ 74: (  2) - Uncut 2016-02 - John Cale
+ 75: (  2) - Uncut 2016-09 - Ones From The Heart - Cass McCombs
+ 76: (  2) - Uncut 2016-09 - Ones From The Heart - De La Soul
+ 77: (  2) - Uncut 2016-09 - Ones From The Heart - Dinosaur Jr.
+ 78: (  2) - Uncut 2016-09 - Ones From The Heart - Hans Chew
+ 79: (  2) - Uncut 2016-09 - Ones From The Heart - Lydia Loveless
+ 80: (  2) - Uncut 2016-09 - Ones From The Heart - Ryley Walker
+ 81: (  2) - Uncut 2016-09 - Ones From The Heart - Teenage Fanclub
+ 82: (  2) - Uncut 2016-09 - Ones From The Heart - Wild Beasts
