@@ -1,57 +1,58 @@
 Specified year (2020), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1362            60            51           428
+    1362            45            51           428
   1: (110) - Cocteau Twins
-  2: (102) - Lloyd Cole
-  3: ( 94) - Nick Heyward
-  4: ( 86) - The Beatles
-  5: ( 58) - Bryan Ferry
-  6: ( 58) - Japan
-  7: ( 58) - The Cure
-  8: ( 52) - Orange Juice
-  9: ( 48) - Shovels & Rope
+  2: (108) - Various
+  3: ( 96) - Lloyd Cole
+  4: ( 94) - Nick Heyward
+  5: ( 86) - The Beatles
+  6: ( 58) - Bryan Ferry
+  7: ( 58) - Japan
+  8: ( 58) - The Cure
+  9: ( 52) - Orange Juice
+ 10: ( 48) - Shovels & Rope
 
 
 
 
 
- 10: ( 42) - Yazoo
+ 11: ( 42) - Yazoo
 
 
 
 
 
- 11: ( 36) - Haircut 100
- 12: ( 36) - JT and the Clouds
+ 12: ( 36) - Haircut 100
+ 13: ( 36) - JT and the Clouds
 
 
 
- 13: ( 32) - Julia Holter
- 14: ( 32) - New Order
+ 14: ( 32) - Julia Holter
+ 15: ( 32) - New Order
 
- 15: ( 30) - Modern English
+ 16: ( 30) - Modern English
 
- 16: ( 28) - Corb Lund
- 17: ( 28) - Rod Stewart
- 18: ( 28) - Rodney Crowell
+ 17: ( 28) - Corb Lund
+ 18: ( 28) - Rod Stewart
+ 19: ( 28) - Rodney Crowell
 
- 19: ( 26) - Sweet
+ 20: ( 26) - Sweet
 
- 20: ( 24) - Bill Frisell
- 21: ( 24) - Felt
+ 21: ( 24) - Bill Frisell
+ 22: ( 24) - Felt
 
- 22: ( 22) - David Bowie
+ 23: ( 22) - David Bowie
 
- 23: ( 20) - Angie Palmer
- 24: ( 20) - Elton John
- 25: ( 20) - Walter Salas-Humara
+ 24: ( 20) - Angie Palmer
+ 25: ( 20) - Elton John
+ 26: ( 20) - Walter Salas-Humara
 
- 26: ( 18) - Josef K
- 27: ( 18) - Simon & Garfunkel
+ 27: ( 18) - Josef K
+ 28: ( 18) - Simon & Garfunkel
 
 
 
- 28: ( 14) - Nick Cave & The Bad Seeds
+
 
  29: ( 12) - Dave Grusin
  30: ( 12) - Laura Gibson
@@ -60,29 +61,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 10) - Kacy & Clayton
  33: (  8) - Bob Dylan
  34: (  8) - Elvis Costello & the Attractions
- 35: (  8) - Orchestral Manoeuvres in the Dark
- 36: (  8) - T. Rex
- 37: (  6) - Bill Pritchard
- 38: (  6) - David McComb & Adam Peters
- 39: (  6) - Dead Famous People
- 40: (  6) - Geoffrey Oryema
- 41: (  6) - Ian McCulloch
- 42: (  6) - James
- 43: (  6) - Jean-Louis Murat
- 44: (  6) - John Cale
- 45: (  6) - Kacey Musgraves
- 46: (  6) - Peter Astor
- 47: (  6) - Pixies
- 48: (  6) - R.E.M.
- 49: (  6) - Robert Foster
- 50: (  6) - That Petrol Emotion
- 51: (  6) - The Fatima Mansions
- 52: (  6) - The House of Love
- 53: (  6) - The Lilac Time
- 54: (  6) - U2
- 55: (  2) - Calexico
- 56: (  2) - Cat Power
- 57: (  2) - Eddie Vedder
- 58: (  2) - John Doe
- 59: (  2) - Richie Havens
- 60: (  2) - Sonic Youth
+ 35: (  8) - Nick Cave & The Bad Seeds
+ 36: (  8) - Orchestral Manoeuvres in the Dark
+ 37: (  8) - T. Rex
+ 38: (  6) - Kacey Musgraves
+ 39: (  6) - U2
+ 40: (  2) - Calexico
+ 41: (  2) - Cat Power
+ 42: (  2) - Eddie Vedder
+ 43: (  2) - John Doe
+ 44: (  2) - Richie Havens
+ 45: (  2) - Sonic Youth

@@ -46,6 +46,7 @@ compilations = {
     "eurovision song contest lisbon 2018",
     "rockers - original soundtrack",
     "life on mars original soundtrack",
+    "anarchy in the uk - 30 years of punk",
 }
 
 myowned = {

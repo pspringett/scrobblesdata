@@ -1,97 +1,74 @@
 Specified year (2019), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     536            81            64           438
+     536            59            64           438
   1: ( 52) - All The Roadrunning - Mark Knopfler
   2: ( 24) - Sorry For Laughing - Josef K
+  3: ( 23) - The Psychedelic Scene - Various
+
+  4: ( 21) - Gypsy - Eilen Jewell
 
 
-  3: ( 21) - Gypsy - Eilen Jewell
+  5: ( 18) * Dazzle Ships (Remastered) - Orchestral Manoeuvres in the Dark
+  6: ( 17) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
 
-
-  4: ( 18) * Dazzle Ships (Remastered) - Orchestral Manoeuvres in the Dark
-  5: ( 17) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
-
-  6: ( 15) * Electric Warrior - T. Rex
-  7: ( 14) * Beyond The Leap Beyond The Law - Martin Stephenson
-  8: ( 14) - Scott 3 - Scott Walker
-  9: ( 14) - You Want It Darker - Leonard Cohen
- 10: ( 13) - Elton John (Remastered Version) - Elton John
- 11: ( 13) - Jupiter Calling - The Corrs
- 12: ( 12) - Identity Crisis - Shelby Lynne
- 13: ( 12) - Tambourine - Tift Merritt
- 14: ( 12) - The Outsider - Rodney Crowell
- 15: ( 11) - All That Reckoning - Cowboy Junkies
- 16: ( 11) - Texas - Rodney Crowell
- 17: ( 11) - The Smiths - The Smiths
- 18: ( 11) - The Weather Station - The Weather Station
- 19: ( 11) - The Wide Afternoon - Jack Harris
- 20: ( 10) - Carrying On - Kacy & Clayton
- 21: ( 10) - Sermon On The Rocks - Josh Ritter
- 22: ( 10) * Songs From A Room - Leonard Cohen
- 23: ( 10) * Songs Of Leonard Cohen - Leonard Cohen
- 24: ( 10) * The Unforgettable Fire - U2
- 25: (  9) - Inferno - Robert Forster
- 26: (  9) - Love - Aztec Camera
- 27: (  9) - Street-Legal - Bob Dylan
- 28: (  9) * Wrecking Ball - Emmylou Harris
- 29: (  8) - Disintegration - The Cure
- 30: (  8) - Electric Ladyland - The Jimi Hendrix Experience
- 31: (  8) - Every Picture Tells A Story - Rod Stewart
- 32: (  8) - For Your Pleasure - Roxy Music
- 33: (  8) - Live Nassau Coliseum '76 - David Bowie
- 34: (  7) - The Joshua Tree - U2
- 35: (  5) - Aikea-Guinea - Cocteau Twins
- 36: (  4) * The North Star - Roddy Frame
- 37: (  3) - 3 X 4: The Bangles, The Three O'clock, The Dream Syndicate, Rain Parade - The Dream Syndicate
- 38: (  3) * Blonde On Blonde - Bob Dylan
- 39: (  3) - Dazzle Ships Live At The Museum Of Liverpool - OMD
- 40: (  3) - De Facto - Lorelle Meets The Obsolete
- 41: (  3) - Foreign Parts - You Tell me
- 42: (  3) - Goes West - William Tyler
- 43: (  3) - Grenades - Kaia Kater
- 44: (  3) - I Have To Feed Larry's Hawk - White Fence
- 45: (  3) - Rat’S Spit - Julian Lynch
- 46: (  3) - Remind Me Tomorrow - Sharon Van Etten
- 47: (  3) - Springsteen On Broadway - Bruce Springsteen
- 48: (  3) - Temporal - Julia Kent
- 49: (  3) - The Imperial - The Delines
- 50: (  3) - The Unseen In Between - Steve Gunn
- 51: (  3) - Weird - Juliana Hatfield
- 52: (  3) - Woodland Echoes - Nick Heyward
- 53: (  2) - Cafe Bleu - The Style Council
- 54: (  2) - Rumours - Fleetwood Mac
- 55: (  2) * Signing Off - UB40
- 56: (  1) -  - Doctor Who
- 57: (  1) -  - Sky News
- 58: (  1) -  - The Cure
- 59: (  1) - Dragnet - The Fall
- 60: (  1) - Earl Scruggs And Friends - Earl Scruggs
- 61: (  1) - Hard Times In Babylon - Eliza Gilkyson
- 62: (  1) - Metro Music - Martha and the Muffins
- 63: (  1) - Nighttime Birds And Morning Stars - Sarah Louise
- 64: (  1) - Serious Moonlight - David Bowie
- 65: (  1) - The Correct Use Of Soap - Magazine
- 66: (  1) - The Psychedelic Scene - 23rd Turnoff
- 67: (  1) - The Psychedelic Scene - Al Stewart
- 68: (  1) - The Psychedelic Scene - Andy Forray
- 69: (  1) - The Psychedelic Scene - Curiosity Shoppe
- 70: (  1) - The Psychedelic Scene - Garden Odyssey Enterprise
- 71: (  1) - The Psychedelic Scene - Human Instinct
- 72: (  1) - The Psychedelic Scene - ICE
- 73: (  1) - The Psychedelic Scene - Keith Shields
- 74: (  1) - The Psychedelic Scene - THE END
- 75: (  1) - The Psychedelic Scene - The Accent
- 76: (  1) - The Psychedelic Scene - The Attack
- 77: (  1) - The Psychedelic Scene - The Fairytale
- 78: (  1) - The Psychedelic Scene - The Moody Blues
- 79: (  1) - The Psychedelic Scene - The Plague
- 80: (  1) - The Psychedelic Scene - The Poets
- 81: (  1) - The Psychedelic Scene - The Societie
- 82: (  1) - The Psychedelic Scene - The Syn
- 83: (  1) - The Psychedelic Scene - Timebox
- 84: (  1) - The Psychedelic Scene - Tintern Abbey
- 85: (  1) - The Psychedelic Scene - Turquoise
- 86: (  1) - The Psychedelic Scene - Virgin Sleep
- 87: (  1) - The Psychedelic Scene - Warm Sounds
- 88: (  1) - The Psychedelic Scene - World Of Oz
- 89: (  1) - You And Me Both - Yazoo
+  7: ( 15) * Electric Warrior - T. Rex
+  8: ( 14) * Beyond The Leap Beyond The Law - Martin Stephenson
+  9: ( 14) - Scott 3 - Scott Walker
+ 10: ( 14) - You Want It Darker - Leonard Cohen
+ 11: ( 13) - Elton John (Remastered Version) - Elton John
+ 12: ( 13) - Jupiter Calling - The Corrs
+ 13: ( 12) - Identity Crisis - Shelby Lynne
+ 14: ( 12) - Tambourine - Tift Merritt
+ 15: ( 12) - The Outsider - Rodney Crowell
+ 16: ( 11) - All That Reckoning - Cowboy Junkies
+ 17: ( 11) - Texas - Rodney Crowell
+ 18: ( 11) - The Smiths - The Smiths
+ 19: ( 11) - The Weather Station - The Weather Station
+ 20: ( 11) - The Wide Afternoon - Jack Harris
+ 21: ( 10) - Carrying On - Kacy & Clayton
+ 22: ( 10) - Sermon On The Rocks - Josh Ritter
+ 23: ( 10) * Songs From A Room - Leonard Cohen
+ 24: ( 10) * Songs Of Leonard Cohen - Leonard Cohen
+ 25: ( 10) * The Unforgettable Fire - U2
+ 26: (  9) - Inferno - Robert Forster
+ 27: (  9) - Love - Aztec Camera
+ 28: (  9) - Street-Legal - Bob Dylan
+ 29: (  9) * Wrecking Ball - Emmylou Harris
+ 30: (  8) - Disintegration - The Cure
+ 31: (  8) - Electric Ladyland - The Jimi Hendrix Experience
+ 32: (  8) - Every Picture Tells A Story - Rod Stewart
+ 33: (  8) - For Your Pleasure - Roxy Music
+ 34: (  8) - Live Nassau Coliseum '76 - David Bowie
+ 35: (  7) - The Joshua Tree - U2
+ 36: (  5) - Aikea-Guinea - Cocteau Twins
+ 37: (  4) * The North Star - Roddy Frame
+ 38: (  3) - 3 X 4: The Bangles, The Three O'clock, The Dream Syndicate, Rain Parade - The Dream Syndicate
+ 39: (  3) * Blonde On Blonde - Bob Dylan
+ 40: (  3) - Dazzle Ships Live At The Museum Of Liverpool - OMD
+ 41: (  3) - De Facto - Lorelle Meets The Obsolete
+ 42: (  3) - Foreign Parts - You Tell me
+ 43: (  3) - Goes West - William Tyler
+ 44: (  3) - Grenades - Kaia Kater
+ 45: (  3) - I Have To Feed Larry's Hawk - White Fence
+ 46: (  3) - Rat’S Spit - Julian Lynch
+ 47: (  3) - Remind Me Tomorrow - Sharon Van Etten
+ 48: (  3) - Springsteen On Broadway - Bruce Springsteen
+ 49: (  3) - Temporal - Julia Kent
+ 50: (  3) - The Imperial - The Delines
+ 51: (  3) - The Unseen In Between - Steve Gunn
+ 52: (  3) - Weird - Juliana Hatfield
+ 53: (  3) - Woodland Echoes - Nick Heyward
+ 54: (  2) - Cafe Bleu - The Style Council
+ 55: (  2) - Rumours - Fleetwood Mac
+ 56: (  2) * Signing Off - UB40
+ 57: (  1) -  - Doctor Who
+ 58: (  1) -  - Sky News
+ 59: (  1) -  - The Cure
+ 60: (  1) - Dragnet - The Fall
+ 61: (  1) - Earl Scruggs And Friends - Earl Scruggs
+ 62: (  1) - Hard Times In Babylon - Eliza Gilkyson
+ 63: (  1) - Metro Music - Martha and the Muffins
+ 64: (  1) - Nighttime Birds And Morning Stars - Sarah Louise
+ 65: (  1) - Serious Moonlight - David Bowie
+ 66: (  1) - The Correct Use Of Soap - Magazine
+ 67: (  1) - You And Me Both - Yazoo

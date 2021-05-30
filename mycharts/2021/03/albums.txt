@@ -1,10 +1,11 @@
 Specified year (2021), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     211            34            23           154
+     211            19            23           154
   1: ( 39) - The Smiths - The Smiths
 
 
 
+  2: ( 35) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
 
 
 
@@ -24,10 +25,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: ( 15) - Shore - Fleet Foxes
 
-  2: ( 15) - Shore - Fleet Foxes
 
-  3: ( 13) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit, Nina Zanjani & Maia Hansson-Bergqvist
   4: ( 12) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
   5: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
   6: ( 11) - Hunky Dory - David Bowie
@@ -35,7 +35,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   8: (  8) * Faith - The Cure
-  9: (  8) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
+  9: (  8) - The Psychedelic Scene - Various
  10: (  7) - Revolver - The Beatles
  11: (  7) - Who By Fire - First Aid Kit
  12: (  6) - Cafe Bleu - The Style Council
@@ -47,22 +47,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  18: (  3) * Blonde On Blonde - Bob Dylan
  19: (  3) - Entertainment! - Gang of Four
  20: (  3) - Introducing The Style Council - The Style Council
- 21: (  3) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Jesper Lindell
- 22: (  2) - Acoustic - Simple Minds
- 23: (  2) - The Scream - Siouxsie and the Banshees
- 24: (  2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Frida Hyvönen
- 25: (  2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Loney Dear
- 26: (  2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit, Frida Hyvönen, Loney dear, Jesper Lindell, Annika Norlin, Maja Francis, Nina Zanjani and Maia Hansson-Bergqvist
- 27: (  2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit, Maia Hansson-Bergqvist & Nina Zanjani
- 28: (  2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit, Maja Francis & Nina Zanjani
- 29: (  1) -  - Nacho Video
- 30: (  1) - The Psychedelic Scene - Curiosity Shoppe
- 31: (  1) - The Psychedelic Scene - The Accent
- 32: (  1) - The Psychedelic Scene - The Attack
- 33: (  1) - The Psychedelic Scene - The End
- 34: (  1) - The Psychedelic Scene - The Fairytale
- 35: (  1) - The Psychedelic Scene - The Poets
- 36: (  1) - The Psychedelic Scene - The Syn
- 37: (  1) - The Psychedelic Scene - Tintern Abbey
- 38: (  1) - Who By Fire - First Aid Kit, Annika Norlin
- 39: (  1) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit & Annika Norlin
+ 21: (  2) - Acoustic - Simple Minds
+ 22: (  2) - The Scream - Siouxsie and the Banshees
+ 23: (  1) -  - Nacho Video
+ 24: (  1) - Who By Fire - First Aid Kit, Annika Norlin

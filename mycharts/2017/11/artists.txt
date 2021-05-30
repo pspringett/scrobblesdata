@@ -1,6 +1,6 @@
 Specified year (2017), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1000            48            63           597
+    1000            47            63           597
   1: ( 71) - The Undertones
   2: ( 70) - Prefab Sprout
   3: ( 64) - Leonard Cohen
@@ -16,54 +16,53 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   9: ( 39) - Bob Dylan
 
 
+ 10: ( 36) - Elvis Costello & the Attractions
 
 
 
-
- 10: ( 32) - Margo Price
-
+ 11: ( 32) - Margo Price
 
 
- 11: ( 28) - Echo & the Bunnymen
- 12: ( 27) - Lizanne Knott
- 13: ( 26) - LCD Soundsystem
- 14: ( 26) - Yazoo
+
+ 12: ( 28) - Echo & the Bunnymen
+ 13: ( 27) - Lizanne Knott
+ 14: ( 26) - LCD Soundsystem
+ 15: ( 26) - Yazoo
 
 
- 15: ( 23) - Brian Eno
- 16: ( 22) - Sarah MacDougall
+ 16: ( 23) - Brian Eno & David Byrne
+ 17: ( 22) - Sarah MacDougall
 
 
- 17: ( 19) - Elvis Costello & the Attractions
+
  18: ( 18) - Jack Harris
  19: ( 17) - David Bowie
- 20: ( 17) - Elvis Costello
- 21: ( 16) - Laura Marling
+ 20: ( 16) - Laura Marling
 
- 22: ( 14) - Elton John
- 23: ( 14) - Peter Hammill
- 24: ( 13) - JT and the Clouds
- 25: ( 13) - Kate Bush
- 26: ( 12) - Eilen Jewell
- 27: ( 12) - Jim Croce
- 28: ( 12) - Josh Ritter
- 29: ( 12) - Laura Cantrell
- 30: ( 12) - Lloyd Cole
- 31: ( 12) - Scott Walker
- 32: ( 11) - Amanda Shires
- 33: ( 11) - Fleetwood Mac
- 34: ( 10) - It's Immaterial
- 35: ( 10) - The Redlands Palomino Company
- 36: (  9) - Grace Jones
- 37: (  9) - Simple Minds
- 38: (  8) - Hayes Carll
- 39: (  8) - Roddy Frame
- 40: (  7) - Lloyd Cole and The Commotions
- 41: (  7) - Rod Stewart
- 42: (  5) - Heaven 17
- 43: (  5) - Martin Stephenson
- 44: (  5) - Nick Heyward
- 45: (  5) - Rosanne Cash
- 46: (  5) - The Smiths
- 47: (  4) - Aztec Camera
- 48: (  3) - Spandau Ballet
+ 21: ( 14) - Elton John
+ 22: ( 14) - Peter Hammill
+ 23: ( 13) - JT and the Clouds
+ 24: ( 13) - Kate Bush
+ 25: ( 12) - Eilen Jewell
+ 26: ( 12) - Jim Croce
+ 27: ( 12) - Josh Ritter
+ 28: ( 12) - Laura Cantrell
+ 29: ( 12) - Lloyd Cole
+ 30: ( 12) - Scott Walker
+ 31: ( 11) - Amanda Shires
+ 32: ( 11) - Fleetwood Mac
+ 33: ( 10) - It's Immaterial
+ 34: ( 10) - The Redlands Palomino Company
+ 35: (  9) - Grace Jones
+ 36: (  9) - Simple Minds
+ 37: (  8) - Hayes Carll
+ 38: (  8) - Roddy Frame
+ 39: (  7) - Lloyd Cole and The Commotions
+ 40: (  7) - Rod Stewart
+ 41: (  5) - Heaven 17
+ 42: (  5) - Martin Stephenson
+ 43: (  5) - Nick Heyward
+ 44: (  5) - Rosanne Cash
+ 45: (  5) - The Smiths
+ 46: (  4) - Aztec Camera
+ 47: (  3) - Spandau Ballet

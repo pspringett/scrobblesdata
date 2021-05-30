@@ -1,6 +1,6 @@
 Specified year (2017), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1208            57            70           692
+    1208            56            70           692
   1: ( 76) - Yazoo
   2: ( 70) - Bob Dylan
   3: ( 62) - Devine & Statton
@@ -8,9 +8,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   5: ( 57) - Simple Minds
   6: ( 55) - Echo & the Bunnymen
   7: ( 55) - Tift Merritt
-  8: ( 44) - The Wailers
+  8: ( 50) - Bob Marley & the Wailers
+  9: ( 44) - The Wailers
 
-  9: ( 42) - Bob Marley & The Wailers
+
 
  10: ( 40) - Cocteau Twins
  11: ( 40) - David Bowie
@@ -55,22 +56,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  36: ( 10) - Orange Juice
  37: ( 10) - The Police
  38: (  9) - Roxy Music
- 39: (  8) - Bob Marley
- 40: (  7) - Amanda Shires
- 41: (  7) - Aztec Camera
- 42: (  7) - The Cure
- 43: (  7) - The Go-Betweens
- 44: (  6) - Altered Images
- 45: (  6) - Corb Lund
- 46: (  6) - Edwyn Collins
- 47: (  6) - Hayes Carll
- 48: (  6) - Jim Lauderdale
- 49: (  6) - Shelby Lynne
- 50: (  4) - Amy LaVere
- 51: (  4) - Carrie Rodriguez
- 52: (  3) - Hem
- 53: (  3) - Kacey Musgraves
- 54: (  2) - JT Nero
- 55: (  2) - Lloyd Cole and The Commotions
- 56: (  1) - Adam Gussow
- 57: (  1) - The Jimi Hendrix Experience
+ 39: (  7) - Amanda Shires
+ 40: (  7) - Aztec Camera
+ 41: (  7) - The Cure
+ 42: (  7) - The Go-Betweens
+ 43: (  6) - Altered Images
+ 44: (  6) - Corb Lund
+ 45: (  6) - Edwyn Collins
+ 46: (  6) - Hayes Carll
+ 47: (  6) - Jim Lauderdale
+ 48: (  6) - Shelby Lynne
+ 49: (  4) - Amy LaVere
+ 50: (  4) - Carrie Rodriguez
+ 51: (  3) - Hem
+ 52: (  3) - Kacey Musgraves
+ 53: (  2) - JT Nero
+ 54: (  2) - Lloyd Cole and The Commotions
+ 55: (  1) - Adam Gussow
+ 56: (  1) - The Jimi Hendrix Experience

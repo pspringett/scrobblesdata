@@ -1,6 +1,6 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1322            51            54           461
+    1322            52            54           461
   1: (200) - Bob Dylan
   2: (136) - ABC
   3: ( 84) - Gretchen Peters
@@ -28,17 +28,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  11: ( 30) - Brigid Mae Power
  12: ( 30) - Rod Picott
- 13: ( 30) - T. Rex
 
- 14: ( 28) - Orchestral Manoeuvres in the Dark
- 15: ( 28) - The Beatles
- 16: ( 28) - The Clash
- 17: ( 28) - The Fall
+ 13: ( 28) - Orchestral Manoeuvres in the Dark
+ 14: ( 28) - The Beatles
+ 15: ( 28) - The Clash
+ 16: ( 28) - The Fall
 
- 18: ( 26) - Aztec Camera
- 19: ( 26) - Corb Lund
- 20: ( 26) - Rachel Harrington
- 21: ( 26) - Simple Minds
+ 17: ( 26) - Aztec Camera
+ 18: ( 26) - Corb Lund
+ 19: ( 26) - Rachel Harrington
+ 20: ( 26) - Simple Minds
+ 21: ( 26) - T. Rex
 
  22: ( 24) - Eliza Gilkyson
  23: ( 24) - Laura Cantrell
@@ -63,20 +63,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 10) - Haircut 100
  33: ( 10) - The Cure
  34: (  8) - Phoebe Bridgers
- 35: (  2) - Acid Arab
- 36: (  2) - C Duncan
- 37: (  2) - Chivalrous Amoekons
- 38: (  2) - Conor Oberst
- 39: (  2) - Fat White Family
- 40: (  2) - Goat
- 41: (  2) - Julia Jacklin
- 42: (  2) - Kristin Hersch
- 43: (  2) - Lehbanchleh
- 44: (  2) - Luke Roberts
- 45: (  2) - Mankind
- 46: (  2) - Paul Weller
- 47: (  2) - Purling Hiss
- 48: (  2) - Sugar Black
- 49: (  2) - The Men
- 50: (  2) - Tom Robinson
- 51: (  2) - Xylouris White
+ 35: (  4) - Marc Bolan
+ 36: (  2) - Acid Arab
+ 37: (  2) - C Duncan
+ 38: (  2) - Chivalrous Amoekons
+ 39: (  2) - Conor Oberst
+ 40: (  2) - Fat White Family
+ 41: (  2) - Goat
+ 42: (  2) - Julia Jacklin
+ 43: (  2) - Kristin Hersch
+ 44: (  2) - Lehbanchleh
+ 45: (  2) - Luke Roberts
+ 46: (  2) - Mankind
+ 47: (  2) - Paul Weller
+ 48: (  2) - Purling Hiss
+ 49: (  2) - Sugar Black
+ 50: (  2) - The Men
+ 51: (  2) - Tom Robinson
+ 52: (  2) - Xylouris White

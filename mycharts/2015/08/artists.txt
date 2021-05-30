@@ -1,6 +1,6 @@
 Specified year (2015), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     954           166           191           763
+     954           168           191           763
   1: ( 88) - Tift Merritt
   2: ( 59) - Bob Dylan
   3: ( 56) - Elton John
@@ -31,12 +31,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
   9: ( 22) - Eilen Jewell
  10: ( 21) - Carrie Rodriguez
- 11: ( 21) - Elvis Costello
- 12: ( 21) - Gretchen Peters
+ 11: ( 21) - Gretchen Peters
 
- 13: ( 19) - David Bowie
- 14: ( 18) - Martin Stephenson
-
+ 12: ( 19) - David Bowie
+ 13: ( 18) - Martin Stephenson
+ 14: ( 17) - Elvis Costello
 
 
  15: ( 14) - Dolly Parton
@@ -51,7 +50,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  23: ( 11) - Joni Mitchell
  24: ( 10) - The Cure
  25: (  9) - JT Nero
- 26: (  9) - Rod Picott & Amanda Shires
+ 26: (  9) - Rod Picott and Amanda Shires
  27: (  9) - The Jam
  28: (  8) - Corb Lund
  29: (  8) - Rachel Harrington
@@ -69,12 +68,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  41: (  6) - John Cale
  42: (  6) - Sarah MacDougall
  43: (  6) - The Mavericks
- 44: (  5) - Martin Stephenson And The Daintees
- 45: (  5) - Martyn Bates
- 46: (  5) - Rodney Crowell
- 47: (  5) - Romi Mayes
- 48: (  4) - Angie Palmer
- 49: (  4) - Chip Taylor
+ 44: (  5) - Martyn Bates
+ 45: (  5) - Rodney Crowell
+ 46: (  5) - Romi Mayes
+ 47: (  4) - Angie Palmer
+ 48: (  4) - Chip Taylor & Carrie Rodriguez
+ 49: (  4) - Elvis Costello & the Attractions
  50: (  4) - Orange Juice
  51: (  4) - Shelby Lynne
  52: (  4) - Stephenson's Rocketts
@@ -82,113 +81,115 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  54: (  4) - UB40
  55: (  3) - Amanda Shires
  56: (  3) - Cara Luft
- 57: (  3) - Noah and the Whale
- 58: (  3) - Stealers Wheel
- 59: (  2) - Altered Images
- 60: (  2) - Beth Nielsen Chapman
- 61: (  2) - Bob & Marcia
- 62: (  2) - Bob Marley & The Wailers
- 63: (  2) - Burning Spear
- 64: (  2) - Carrie Rodriguez and Ben Kyle
- 65: (  2) - David Rodigan
- 66: (  2) - Desmond Dekker & The Aces
- 67: (  2) - Emmylou Harris
- 68: (  2) - Fleetwood Mac
- 69: (  2) - Jan Garbarek
- 70: (  2) - Patty Griffin
- 71: (  2) - Roddy Frame
- 72: (  2) - Ryan Bingham
- 73: (  2) - Sheryl Crow
- 74: (  2) - T. Rex
- 75: (  2) - The Decemberists
- 76: (  2) - The Low Anthem
- 77: (  2) - The Rolling Stones
- 78: (  2) - The Sundays
- 79: (  2) - Weekend
- 80: (  1) - Alton Ellis
- 81: (  1) - Amy LaVere
- 82: (  1) - Ananda Shankar
- 83: (  1) - Aztec Camera
- 84: (  1) - Boris Gardiner
- 85: (  1) - Buck Owens
- 86: (  1) - Bunny Wailer
- 87: (  1) - Cocteau Twins
- 88: (  1) - Colin Farrell
- 89: (  1) - Colin Farrell & Jeff Bridges
- 90: (  1) - Corinne West
- 91: (  1) - Dandy Livingstone
- 92: (  1) - Dave & Ansel Collins
- 93: (  1) - Dave Barker
- 94: (  1) - Delroy Wilson
- 95: (  1) - Desmond Dekker
- 96: (  1) - Don Drummond & The Skatalites
- 97: (  1) - Edwyn Collins
- 98: (  1) - Eyeless in Gaza
- 99: (  1) - Free
-100: (  1) - Gary Numan
-101: (  1) - Gregory Isaacs
-102: (  1) - Greyhound
-103: (  1) - Haircut 100
-104: (  1) - Harry J Allstars
-105: (  1) - Inner Circle
-106: (  1) - It's Immaterial
-107: (  1) - Jacob Miller
-108: (  1) - Jimmy Cliff
-109: (  1) - John Holt
-110: (  1) - John Kongos
-111: (  1) - Josef K
-112: (  1) - Joy Division
-113: (  1) - Junior Byles
-114: (  1) - Junior Murvin
-115: (  1) - Justin Townes Earle
-116: (  1) - Kiddus I
-117: (  1) - Lightnin' Hopkins
-118: (  1) - Lloyd Cole and The Commotions
-119: (  1) - Loudon Wainwright III
-120: (  1) - Louisa Mark
-121: (  1) - Manfred Mann
-122: (  1) - Mary Gauthier
-123: (  1) - Max Romeo
-124: (  1) - Maytones
-125: (  1) - Mindy Smith
-126: (  1) - Miranda Lambert
-127: (  1) - Nicky Thomas
-128: (  1) - Nina Simone
-129: (  1) - Orchestral Manoeuvres in the Dark
-130: (  1) - Owen Gray
-131: (  1) - Peter Tosh
-132: (  1) - Prefab Sprout
-133: (  1) - Robert Duvall
-134: (  1) - Robert Plant & Alison Krauss
-135: (  1) - Roxy Music
-136: (  1) - Rudy Thomas
-137: (  1) - Sam Phillips
-138: (  1) - Sex Pistols
-139: (  1) - Siouxsie and the Banshees
-140: (  1) - Slade
-141: (  1) - Spandau Ballet
-142: (  1) - Sugar Minott
-143: (  1) - The Associates
-144: (  1) - The Damned
-145: (  1) - The Dust Poets
-146: (  1) - The Ethiopians
-147: (  1) - The Go-Betweens
-148: (  1) - The Heptones
-149: (  1) - The Louvin Brothers
-150: (  1) - The Maytals
-151: (  1) - The Melodians
-152: (  1) - The Monkees
-153: (  1) - The Passions
-154: (  1) - The Pioneers
-155: (  1) - The Stranglers
-156: (  1) - The Teardrop Explodes
-157: (  1) - The Upsetters
-158: (  1) - The Vagaband
-159: (  1) - The Walker Brothers
-160: (  1) - Tony Tribe
-161: (  1) - Townes Van Zandt
-162: (  1) - U2
-163: (  1) - Waylon Jennings
-164: (  1) - Willie Nelson
-165: (  1) - Willie Nelson & Asleep At The Wheel
-166: (  1) - the FRIGHTNRS
+ 57: (  3) - Martin Stephenson and the Daintees
+ 58: (  3) - Noah and the Whale
+ 59: (  3) - Stealers Wheel
+ 60: (  2) - Altered Images
+ 61: (  2) - Beth Nielsen Chapman
+ 62: (  2) - Bob & Marcia
+ 63: (  2) - Bob Marley & The Wailers
+ 64: (  2) - Burning Spear
+ 65: (  2) - Carrie Rodriguez and Ben Kyle
+ 66: (  2) - David Rodigan
+ 67: (  2) - Desmond Dekker & The Aces
+ 68: (  2) - Emmylou Harris
+ 69: (  2) - Fleetwood Mac
+ 70: (  2) - Jan Garbarek
+ 71: (  2) - Martin Stephenson And The Daintees
+ 72: (  2) - Patty Griffin
+ 73: (  2) - Roddy Frame
+ 74: (  2) - Ryan Bingham
+ 75: (  2) - Sheryl Crow
+ 76: (  2) - T. Rex
+ 77: (  2) - The Decemberists
+ 78: (  2) - The Low Anthem
+ 79: (  2) - The Rolling Stones
+ 80: (  2) - The Sundays
+ 81: (  2) - Weekend
+ 82: (  1) - Alton Ellis
+ 83: (  1) - Amy LaVere
+ 84: (  1) - Ananda Shankar
+ 85: (  1) - Aztec Camera
+ 86: (  1) - Boris Gardiner
+ 87: (  1) - Buck Owens
+ 88: (  1) - Bunny Wailer
+ 89: (  1) - Cocteau Twins
+ 90: (  1) - Colin Farrell
+ 91: (  1) - Colin Farrell & Jeff Bridges
+ 92: (  1) - Corinne West
+ 93: (  1) - Dandy Livingstone
+ 94: (  1) - Dave & Ansel Collins
+ 95: (  1) - Dave Barker
+ 96: (  1) - Delroy Wilson
+ 97: (  1) - Desmond Dekker
+ 98: (  1) - Don Drummond & The Skatalites
+ 99: (  1) - Edwyn Collins
+100: (  1) - Eyeless in Gaza
+101: (  1) - Free
+102: (  1) - Gary Numan
+103: (  1) - Gregory Isaacs
+104: (  1) - Greyhound
+105: (  1) - Haircut 100
+106: (  1) - Harry J Allstars
+107: (  1) - Inner Circle
+108: (  1) - It's Immaterial
+109: (  1) - Jacob Miller
+110: (  1) - Jimmy Cliff
+111: (  1) - John Holt
+112: (  1) - John Kongos
+113: (  1) - Josef K
+114: (  1) - Joy Division
+115: (  1) - Junior Byles
+116: (  1) - Junior Murvin
+117: (  1) - Justin Townes Earle
+118: (  1) - Kiddus I
+119: (  1) - Lightnin' Hopkins
+120: (  1) - Lloyd Cole and The Commotions
+121: (  1) - Loudon Wainwright III
+122: (  1) - Louisa Mark
+123: (  1) - Manfred Mann
+124: (  1) - Mary Gauthier
+125: (  1) - Max Romeo
+126: (  1) - Maytones
+127: (  1) - Mindy Smith
+128: (  1) - Miranda Lambert
+129: (  1) - Nicky Thomas
+130: (  1) - Nina Simone
+131: (  1) - Orchestral Manoeuvres in the Dark
+132: (  1) - Owen Gray
+133: (  1) - Peter Tosh
+134: (  1) - Prefab Sprout
+135: (  1) - Robert Duvall
+136: (  1) - Robert Plant & Alison Krauss
+137: (  1) - Roxy Music
+138: (  1) - Rudy Thomas
+139: (  1) - Sam Phillips
+140: (  1) - Sex Pistols
+141: (  1) - Siouxsie and the Banshees
+142: (  1) - Slade
+143: (  1) - Spandau Ballet
+144: (  1) - Sugar Minott
+145: (  1) - The Associates
+146: (  1) - The Damned
+147: (  1) - The Dust Poets
+148: (  1) - The Ethiopians
+149: (  1) - The Go-Betweens
+150: (  1) - The Heptones
+151: (  1) - The Louvin Brothers
+152: (  1) - The Maytals
+153: (  1) - The Melodians
+154: (  1) - The Monkees
+155: (  1) - The Passions
+156: (  1) - The Pioneers
+157: (  1) - The Stranglers
+158: (  1) - The Teardrop Explodes
+159: (  1) - The Upsetters
+160: (  1) - The Vagaband
+161: (  1) - The Walker Brothers
+162: (  1) - Tony Tribe
+163: (  1) - Townes Van Zandt
+164: (  1) - U2
+165: (  1) - Waylon Jennings
+166: (  1) - Willie Nelson
+167: (  1) - Willie Nelson & Asleep At the Wheel
+168: (  1) - the FRIGHTNRS

@@ -1,6 +1,6 @@
 Specified year (2015), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     801            72           125           616
+     801            74           125           616
   1: ( 64) - Roxy Music
   2: ( 50) - Lloyd Cole
   3: ( 50) - Roddy Frame
@@ -28,15 +28,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  12: ( 21) - Tift Merritt
 
 
- 13: ( 18) - Elvis Costello
- 14: ( 17) - Scott Walker
 
+ 13: ( 17) - Scott Walker
+ 14: ( 16) - Elvis Costello
  15: ( 15) - Angie Palmer
  16: ( 15) - Gillian Welch
  17: ( 15) - Hem
  18: ( 15) - The Cure
- 19: ( 14) - Robert Plant & Alison Krauss
- 20: ( 13) - Heaven 17
+ 19: ( 14) - Heaven 17
+ 20: ( 14) - Robert Plant & Alison Krauss
+
  21: ( 12) - Cowboy Junkies
  22: ( 12) - The Redlands Palomino Company
  23: ( 11) - Emmylou Harris
@@ -47,13 +48,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  28: ( 10) - David Bowie
  29: ( 10) - Ian McCulloch
  30: ( 10) - Robert Forster
- 31: (  9) - B.E.F.
- 32: (  8) - Martin Stephenson And The Daintees
- 33: (  7) - Natalie Prass
- 34: (  7) - Tom Tom Club
- 35: (  6) - Rodney Crowell
- 36: (  5) - Hayes Carll
- 37: (  5) - Leonard Cohen
+ 31: (  8) - B.E.F.
+ 32: (  7) - Natalie Prass
+ 33: (  7) - Tom Tom Club
+ 34: (  6) - Rodney Crowell
+ 35: (  5) - Hayes Carll
+ 36: (  5) - Leonard Cohen
+ 37: (  5) - Martin Stephenson And The Daintees
  38: (  5) - Rachel Harrington
  39: (  4) - John Cale
  40: (  4) - Joy Division
@@ -68,24 +69,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  49: (  3) - JT Nero
  50: (  3) - JT and the Clouds
  51: (  3) - Jan Garbarek
- 52: (  2) - Scritti Politti
- 53: (  2) - The Low Anthem
- 54: (  2) - The Wailin' Jennys
- 55: (  2) - Travis Linville
- 56: (  1) - Amy LaVere
- 57: (  1) - Carrie Rodriguez and Ben Kyle
- 58: (  1) - Ian Dury and the Blockheads
- 59: (  1) - Jeff Bridges
- 60: (  1) - Jonathan Richman And The Modern Lovers
- 61: (  1) - Larkin Poe
- 62: (  1) - Martyn Bates
- 63: (  1) - Rod Picott & Amanda Shires
- 64: (  1) - Spizz Energi
- 65: (  1) - The Chameleons
- 66: (  1) - The Decemberists
- 67: (  1) - The Dust Poets
- 68: (  1) - The Members
- 69: (  1) - Theatre of Hate
- 70: (  1) - UB40
- 71: (  1) - Uriah Heep
- 72: (  1) - Weekend
+ 52: (  3) - Martin Stephenson and the Daintees
+ 53: (  2) - Elvis Costello & the Attractions
+ 54: (  2) - Scritti Politti
+ 55: (  2) - The Low Anthem
+ 56: (  2) - The Wailin' Jennys
+ 57: (  2) - Travis Linville
+ 58: (  1) - Amy LaVere
+ 59: (  1) - Carrie Rodriguez and Ben Kyle
+ 60: (  1) - Ian Dury and the Blockheads
+ 61: (  1) - Jeff Bridges
+ 62: (  1) - Jonathan Richman And The Modern Lovers
+ 63: (  1) - Larkin Poe
+ 64: (  1) - Martyn Bates
+ 65: (  1) - Rod Picott and Amanda Shires
+ 66: (  1) - Spizz Energi
+ 67: (  1) - The Chameleons
+ 68: (  1) - The Decemberists
+ 69: (  1) - The Dust Poets
+ 70: (  1) - The Members
+ 71: (  1) - Theatre of Hate
+ 72: (  1) - UB40
+ 73: (  1) - Uriah Heep
+ 74: (  1) - Weekend

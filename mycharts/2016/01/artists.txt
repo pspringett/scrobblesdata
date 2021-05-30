@@ -1,6 +1,6 @@
 Specified year (2016), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1214            95            69           697
+    1214            94            69           697
   1: ( 77) - Bob Dylan
   2: ( 71) - David Bowie
   3: ( 60) - Jason Isbell
@@ -23,8 +23,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  13: ( 36) - Paul Weller
  14: ( 35) - Allison Moorer
  15: ( 35) - Elvis Costello & the Attractions
- 16: ( 34) - Orchestral Manoeuvres in the Dark
- 17: ( 33) - Heaven 17
+ 16: ( 35) - Heaven 17
+ 17: ( 34) - Orchestral Manoeuvres in the Dark
+
 
 
 
@@ -97,23 +98,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  73: (  3) - Trisha Yearwood
  74: (  3) - Whiskeytown
  75: (  3) - Wilco
- 76: (  2) - B.E.F.
- 77: (  2) - Baaba Maal
- 78: (  2) - Bono
- 79: (  2) - Cian Nugent
- 80: (  2) - Don Henley
- 81: (  2) - Elton John
- 82: (  2) - Hackensaw Boys
- 83: (  2) - Jann Arden
- 84: (  2) - Josephine Foster
- 85: (  2) - Matmos
- 86: (  2) - Prins Thomas
- 87: (  2) - Saul Williams
- 88: (  2) - Sting
- 89: (  2) - Tortoise
- 90: (  2) - Willie Nelson
- 91: (  2) - Yorkston Thorne Khan
- 92: (  1) - Faces
- 93: (  1) - Haircut 100
- 94: (  1) - The Passions
- 95: (  1) - The Turtles
+ 76: (  2) - Baaba Maal
+ 77: (  2) - Bono
+ 78: (  2) - Cian Nugent
+ 79: (  2) - Don Henley
+ 80: (  2) - Elton John
+ 81: (  2) - Hackensaw Boys
+ 82: (  2) - Jann Arden
+ 83: (  2) - Josephine Foster
+ 84: (  2) - Matmos
+ 85: (  2) - Prins Thomas
+ 86: (  2) - Saul Williams
+ 87: (  2) - Sting
+ 88: (  2) - Tortoise
+ 89: (  2) - Willie Nelson
+ 90: (  2) - Yorkston Thorne Khan
+ 91: (  1) - Faces
+ 92: (  1) - Haircut 100
+ 93: (  1) - The Passions
+ 94: (  1) - The Turtles

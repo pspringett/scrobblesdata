@@ -1,6 +1,6 @@
 Specified year (2015), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     435           102            50           363
+     435           101            50           363
   1: ( 53) - Tift Merritt
   2: ( 39) - Bob Dylan
 
@@ -26,100 +26,98 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
   6: ( 17) - The Go-Betweens
   7: ( 16) - Cocteau Twins
+  8: ( 15) - Elvis Costello & the Attractions
 
-
-  8: ( 13) - Lloyd Cole
-  9: ( 13) - Robert Forster
- 10: ( 12) - Eilen Jewell
- 11: ( 12) - Gretchen Peters
- 12: ( 12) - Patty Griffin
- 13: ( 11) - Fleet Foxes
- 14: ( 10) - The Civil Wars
- 15: (  9) - Dave Rawlings Machine
- 16: (  9) - Elvis Costello & the Attractions
+  9: ( 13) - Lloyd Cole
+ 10: ( 13) - Robert Forster
+ 11: ( 12) - Eilen Jewell
+ 12: ( 12) - Gretchen Peters
+ 13: ( 12) - Patty Griffin
+ 14: ( 11) - Fleet Foxes
+ 15: ( 10) - The Civil Wars
+ 16: (  9) - Dave Rawlings Machine
  17: (  9) - Roxy Music
  18: (  9) - The Cure
- 19: (  6) - Elvis Costello
- 20: (  6) - The Decemberists
- 21: (  5) - Brian Eno
- 22: (  3) - Ken Boothe
- 23: (  3) - Phillip Samuels
- 24: (  2) - Amanda Shires
- 25: (  2) - Cornell Campbell
- 26: (  2) - Dennis Brown
- 27: (  2) - Derrick Morgan
- 28: (  2) - Freddie McKay
- 29: (  2) - Gregory Isaacs
- 30: (  2) - Horace Andy
- 31: (  2) - Jimmy Cliff
- 32: (  2) - Lloyd Parks
- 33: (  2) - Owen Gray
- 34: (  2) - The Heptones
- 35: (  2) - The Pioneers
- 36: (  2) - The Velvet Underground
- 37: (  2) - Tracey Thorn
- 38: (  2) - Twinkle Brothers
- 39: (  1) - A Certain Ratio
- 40: (  1) - Alton Ellis
- 41: (  1) - Annetta Jackson
- 42: (  1) - Augustus Pablo
- 43: (  1) - Austin Faithful
- 44: (  1) - Barry & The Affections
- 45: (  1) - Big Youth
- 46: (  1) - Billy Dyce
- 47: (  1) - Bingy Bunny
- 48: (  1) - Bob & Marcia
- 49: (  1) - Boy Friday
- 50: (  1) - Brent Dowe
- 51: (  1) - Carlton Brown
- 52: (  1) - Dave Barker
- 53: (  1) - Dice The Boss
- 54: (  1) - Earl Lawrence
- 55: (  1) - Fleetwood Mac
- 56: (  1) - Gary Numan
- 57: (  1) - Gene Rondo
- 58: (  1) - Haircut 100
- 59: (  1) - Hot Rod All Stars
- 60: (  1) - Hubert Lee
- 61: (  1) - Ike Bennett
- 62: (  1) - Jackie Edwards
- 63: (  1) - Joe White
- 64: (  1) - John Holt
- 65: (  1) - Jonathan Richman And The Modern Lovers
- 66: (  1) - Keith & Tex
- 67: (  1) - Lee "Scratch" Perry
- 68: (  1) - Leonard Cohen
- 69: (  1) - Lester Sterling
- 70: (  1) - Lloyd Charmers
- 71: (  1) - Martin Stephenson And The Daintees
- 72: (  1) - Mindy Smith
- 73: (  1) - New Order
- 74: (  1) - Niney
- 75: (  1) - Peggy
- 76: (  1) - Rad Bryan
- 77: (  1) - Real Estate
- 78: (  1) - Roy Martell
- 79: (  1) - Roy Panton
- 80: (  1) - Sir Collins
- 81: (  1) - Sir Lord Comic
- 82: (  1) - Talking Heads
- 83: (  1) - Texas
- 84: (  1) - The Cables
- 85: (  1) - The Hippy Boys
- 86: (  1) - The Immortals
- 87: (  1) - The Jokers
- 88: (  1) - The Lyrics
- 89: (  1) - The Medetators
- 90: (  1) - The Melodians
- 91: (  1) - The Mighty Diamonds
- 92: (  1) - The Rhythm Rulers
- 93: (  1) - The Viceroys
- 94: (  1) - The Viceroys with Hubcap & The Wheels
- 95: (  1) - Tommy McCook
- 96: (  1) - Trevor Brown
- 97: (  1) - U-Roy
- 98: (  1) - Val Bennett
- 99: (  1) - Villagers
-100: (  1) - Waylon Jennings
-101: (  1) - Winston Francis
-102: (  1) - Yazoo
+ 19: (  6) - The Decemberists
+ 20: (  5) - Brian Eno
+ 21: (  3) - Ken Boothe
+ 22: (  3) - Phillip Samuels
+ 23: (  2) - Amanda Shires
+ 24: (  2) - Cornell Campbell
+ 25: (  2) - Dennis Brown
+ 26: (  2) - Derrick Morgan
+ 27: (  2) - Freddie McKay
+ 28: (  2) - Gregory Isaacs
+ 29: (  2) - Horace Andy
+ 30: (  2) - Jimmy Cliff
+ 31: (  2) - Lloyd Parks
+ 32: (  2) - Owen Gray
+ 33: (  2) - The Heptones
+ 34: (  2) - The Pioneers
+ 35: (  2) - The Velvet Underground
+ 36: (  2) - Tracey Thorn
+ 37: (  2) - Twinkle Brothers
+ 38: (  1) - A Certain Ratio
+ 39: (  1) - Alton Ellis
+ 40: (  1) - Annetta Jackson
+ 41: (  1) - Augustus Pablo
+ 42: (  1) - Austin Faithful
+ 43: (  1) - Barry & The Affections
+ 44: (  1) - Big Youth
+ 45: (  1) - Billy Dyce
+ 46: (  1) - Bingy Bunny
+ 47: (  1) - Bob & Marcia
+ 48: (  1) - Boy Friday
+ 49: (  1) - Brent Dowe
+ 50: (  1) - Carlton Brown
+ 51: (  1) - Dave Barker
+ 52: (  1) - Dice The Boss
+ 53: (  1) - Earl Lawrence
+ 54: (  1) - Fleetwood Mac
+ 55: (  1) - Gary Numan
+ 56: (  1) - Gene Rondo
+ 57: (  1) - Haircut 100
+ 58: (  1) - Hot Rod All Stars
+ 59: (  1) - Hubert Lee
+ 60: (  1) - Ike Bennett
+ 61: (  1) - Jackie Edwards
+ 62: (  1) - Joe White
+ 63: (  1) - John Holt
+ 64: (  1) - Jonathan Richman And The Modern Lovers
+ 65: (  1) - Keith & Tex
+ 66: (  1) - Lee "Scratch" Perry
+ 67: (  1) - Leonard Cohen
+ 68: (  1) - Lester Sterling
+ 69: (  1) - Lloyd Charmers
+ 70: (  1) - Martin Stephenson And The Daintees
+ 71: (  1) - Mindy Smith
+ 72: (  1) - New Order
+ 73: (  1) - Niney
+ 74: (  1) - Peggy
+ 75: (  1) - Rad Bryan
+ 76: (  1) - Real Estate
+ 77: (  1) - Roy Martell
+ 78: (  1) - Roy Panton
+ 79: (  1) - Sir Collins
+ 80: (  1) - Sir Lord Comic
+ 81: (  1) - Talking Heads
+ 82: (  1) - Texas
+ 83: (  1) - The Cables
+ 84: (  1) - The Hippy Boys
+ 85: (  1) - The Immortals
+ 86: (  1) - The Jokers
+ 87: (  1) - The Lyrics
+ 88: (  1) - The Medetators
+ 89: (  1) - The Melodians
+ 90: (  1) - The Mighty Diamonds
+ 91: (  1) - The Rhythm Rulers
+ 92: (  1) - The Viceroys
+ 93: (  1) - The Viceroys with Hubcap & The Wheels
+ 94: (  1) - Tommy McCook
+ 95: (  1) - Trevor Brown
+ 96: (  1) - U-Roy
+ 97: (  1) - Val Bennett
+ 98: (  1) - Villagers
+ 99: (  1) - Waylon Jennings
+100: (  1) - Winston Francis
+101: (  1) - Yazoo

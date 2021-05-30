@@ -35,17 +35,17 @@ class Fixup:
             self.variants = json.load(fp)
 
         # This maps an album name with a corrected artist.
-        fqpath = os.path.join(fixup_path, "fixup_artist.json")
+        fqpath = os.path.join(fixup_path, "fixup_artists.json")
         with open(fqpath, "r") as fp:
             fixup_artist = json.load(fp)
 
         # This maps an album name with a corrected artist.
         fqpath = os.path.join(fixup_path, "fixup.json")
         with open(fqpath, "r") as fp:
-            fixup_artist = json.load(fp)
+            fixup_artist_from_album = json.load(fp)
 
         self.artist_from_album = {}
-        for item in fixup_artist[:2]:
+        for item in fixup_artist_from_album:
             self.artist_from_album[item["m_album"]] = item["n_artist"]
 
         self.boxset = self.read_boxset(fixup_path)
@@ -181,3 +181,9 @@ class Fixup:
 
     def titlecase(self, s):
         return re.sub(r"[A-Za-z]+('[A-Za-z]+)?", lambda mo: mo.group(0).capitalize(), s)
+
+
+#   // {
+#   //   "m_track": "Understanding What Black Is",
+#   //   "n_track": "Understand What Black Is"
+#   // },

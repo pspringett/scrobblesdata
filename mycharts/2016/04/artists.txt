@@ -1,6 +1,6 @@
 Specified year (2016), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     996            51            47           453
+     996            50            47           453
   1: ( 90) - Rosanne Cash
   2: ( 67) - Eliza Gilkyson
   3: ( 56) - Justin Townes Earle
@@ -31,8 +31,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  14: ( 24) - Birds of Chicago
  15: ( 23) - Bob Dylan
- 16: ( 22) - David Bowie
- 17: ( 22) - Heaven 17
+ 16: ( 23) - Heaven 17
+ 17: ( 22) - David Bowie
  18: ( 22) - Lloyd Cole and The Commotions
  19: ( 22) - Rodney Crowell
 
@@ -66,9 +66,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  43: (  2) - Laura Gibson
  44: (  2) - Martin Stephenson
  45: (  2) - New Order
- 46: (  1) - B.E.F.
- 47: (  1) - Kononon°1
- 48: (  1) - Martin Stephenson And The Daintees
- 49: (  1) - Mogwai
- 50: (  1) - Soft Cell
- 51: (  1) - Tim Hecker
+ 46: (  1) - Kononon°1
+ 47: (  1) - Martin Stephenson And The Daintees
+ 48: (  1) - Mogwai
+ 49: (  1) - Soft Cell
+ 50: (  1) - Tim Hecker

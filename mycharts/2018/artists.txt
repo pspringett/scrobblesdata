@@ -11,8 +11,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   8: (260) - Cowboy Junkies
   9: (253) - Martin Stephenson
  10: (232) - Echo & the Bunnymen
- 11: (200) - Elvis Costello
- 12: (177) - New Order
+ 11: (177) - New Order
+ 12: (174) - Elvis Costello
  13: (173) - The Cure
  14: (165) - Simple Minds
  15: (153) - Prefab Sprout
@@ -20,16 +20,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  17: (148) - Josh Ritter
  18: (140) - The Corrs
  19: (136) - Birds of Chicago
- 20: (134) - Roxy Music
- 21: (134) - The Beatles
- 22: (125) - The Fall
- 23: (119) - Joni Mitchell
- 24: (117) - UB40
- 25: (116) - Leonard Cohen
- 26: (112) - The Low Anthem
- 27: (110) - Elvis Costello & the Attractions
- 28: (107) - Corb Lund
- 29: (107) - Martin Stephenson And The Daintees
+ 20: (136) - Elvis Costello & the Attractions
+ 21: (134) - Roxy Music
+ 22: (134) - The Beatles
+ 23: (125) - The Fall
+ 24: (119) - Joni Mitchell
+ 25: (117) - UB40
+ 26: (116) - Leonard Cohen
+ 27: (112) - The Low Anthem
+ 28: (108) - Eilen Jewell
+ 29: (107) - Corb Lund
  30: (107) - Rodney Crowell
  31: (106) - The Style Council
  32: (105) - Kate Bush
@@ -42,11 +42,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: ( 88) - Lloyd Cole and The Commotions
  40: ( 88) - U2
  41: ( 86) - Tift Merritt
- 42: ( 84) - Eilen Jewell
- 43: ( 81) - Nick Heyward
- 44: ( 77) - Mark Knopfler And Emmylou Harris
- 45: ( 77) - The Wailin' Jennys
- 46: ( 73) - The Civil Wars
+ 42: ( 81) - Nick Heyward
+ 43: ( 77) - Mark Knopfler And Emmylou Harris
+ 44: ( 77) - The Wailin' Jennys
+ 45: ( 73) - The Civil Wars
+ 46: ( 72) - Martin Stephenson And The Daintees
  47: ( 70) - Wolf Alice
  48: ( 68) - The Weather Station
  49: ( 67) - Roddy Frame
@@ -94,35 +94,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  89: ( 36) - Small Faces
  90: ( 36) - The Jam
  91: ( 35) - Brigid Mae Power
- 92: ( 35) - Ray Davies
- 93: ( 34) - Jan Garbarek
- 94: ( 34) - The Waterboys
- 95: ( 33) - she drew the gun
+ 92: ( 35) - Martin Stephenson and the Daintees
+ 93: ( 35) - Ray Davies
+ 94: ( 34) - Jan Garbarek
+ 95: ( 34) - The Waterboys
+ 96: ( 33) - she drew the gun
 
- 96: ( 31) - The Mighty Wah!
- 97: ( 30) - Artery
- 98: ( 30) - Jason Isbell and The 400 Unit
- 99: ( 30) - Jeff Bridges
-100: ( 29) - Brian Eno
-101: ( 29) - JT Nero
-102: ( 29) - Kraftwerk
-103: ( 29) - Shelby Lynne
-104: ( 28) - Robert Plant & Alison Krauss
-105: ( 28) - Rosanne Cash
-106: ( 28) - The Smiths
-107: ( 28) - The Undertones
-108: ( 28) - Tracey Thorn
-109: ( 27) - Devine & Statton
-110: ( 26) - Dolly Parton
-111: ( 26) - Edwyn Collins
-112: ( 26) - Jim Lauderdale
-113: ( 26) - The Wailers
-114: ( 25) - Natalie Prass
-115: ( 24) - Allison Moorer
-116: ( 24) - Butcher Holler
+ 97: ( 31) - The Mighty Wah!
+ 98: ( 30) - Artery
+ 99: ( 30) - Jason Isbell and The 400 Unit
+100: ( 30) - Jeff Bridges
+101: ( 29) - Brian Eno
+102: ( 29) - JT Nero
+103: ( 29) - Kraftwerk
+104: ( 29) - Shelby Lynne
+105: ( 28) - Robert Plant & Alison Krauss
+106: ( 28) - Rosanne Cash
+107: ( 28) - The Smiths
+108: ( 28) - The Undertones
+109: ( 28) - Tracey Thorn
+110: ( 27) - Devine & Statton
+111: ( 26) - Dolly Parton
+112: ( 26) - Edwyn Collins
+113: ( 26) - Jim Lauderdale
+114: ( 26) - The Wailers
+115: ( 25) - Natalie Prass
+116: ( 24) - Allison Moorer
 117: ( 24) - Martha Wainwright
 118: ( 24) - Mindy Smith
-119: ( 24) - Willie Nelson
+119: ( 24) - Willie Nelson & Asleep At the Wheel
 120: ( 23) - Emmylou Harris
 121: ( 22) - Brian Eno & David Byrne
 122: ( 22) - Robert Plant
@@ -166,7 +166,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 160: ( 11) - Ryan Bingham
 161: ( 11) - Scritti Politti
 162: ( 11) - The Proclaimers
-163: ( 10) - Bob Marley & The Wailers
+163: ( 10) - Bob Marley & the Wailers
 164: ( 10) - Colin Farrell
 165: ( 10) - Gillian Welch
 166: ( 10) - Haley Bonar

@@ -1,12 +1,13 @@
 Specified year (2020), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1362            60            51           428
-  1: ( 96) - Folksinger Vol 1 - Bremen Radio 2003 - Lloyd Cole
-  2: ( 94) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
-  3: ( 86) - Rubber Soul - The Beatles
-  4: ( 58) - Another Time, Another Place - Bryan Ferry
-  5: ( 58) - Tin Drum - Japan
-  6: ( 48) - Little Seeds - Shovels & Rope
+    1362            45            51           428
+  1: (108) - I'm Your Fan: The Songs Of Leonard Cohen - Various
+  2: ( 96) - Folksinger Vol 1 - Bremen Radio 2003 - Lloyd Cole
+  3: ( 94) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
+  4: ( 86) - Rubber Soul - The Beatles
+  5: ( 58) - Another Time, Another Place - Bryan Ferry
+  6: ( 58) - Tin Drum - Japan
+  7: ( 48) - Little Seeds - Shovels & Rope
 
 
 
@@ -14,86 +15,68 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  7: ( 40) * The Orange Juice - Orange Juice
+  8: ( 40) * The Orange Juice - Orange Juice
 
 
 
-  8: ( 36) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
+  9: ( 36) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
 
 
 
-  9: ( 32) - Aikea-Guinea - Cocteau Twins
- 10: ( 32) - Aviary - Julia Holter
- 11: ( 32) - Low-Life - New Order
- 12: ( 32) - Peel Sessions 1981 - The Cure
- 13: ( 32) - Tiny Dynamine - Cocteau Twins
+ 10: ( 32) - Aikea-Guinea - Cocteau Twins
+ 11: ( 32) - Aviary - Julia Holter
+ 12: ( 32) - Low-Life - New Order
+ 13: ( 32) - Peel Sessions 1981 - The Cure
+ 14: ( 32) - Tiny Dynamine - Cocteau Twins
 
- 14: ( 30) - Mesh & Lace - Modern English
- 15: ( 30) - You And Me Both - Yazoo
-
-
-
- 16: ( 26) - Desolation Boulevard (New Extended Version) - Sweet
-
- 17: ( 24) - Americana - Bill Frisell
- 18: ( 24) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
-
- 19: ( 22) - Sex And Gasoline - Rodney Crowell
-
- 20: ( 20) * Caledonia - JT and the Clouds
- 21: ( 20) - Echoes In A Shallow Bay - Cocteau Twins
- 22: ( 20) - Elton John (Remastered Version) - Elton John
- 23: ( 20) - Head Over Heels - Cocteau Twins
- 24: ( 20) * Tales Of Light And Darkness - Angie Palmer
- 25: ( 20) - Work, Pt. 1 - Walter Salas-Humara
-
- 26: ( 18) - Gasoline Alley - Rod Stewart
- 27: ( 18) - Sorry For Laughing - Josef K
- 28: ( 18) - The Graduate - Simon & Garfunkel
-
- 29: ( 16) - Cover Your Tracks - Corb Lund
- 30: ( 16) * Pornography - The Cure
- 31: ( 16) * The City's Hot Yeah The City's Hot - JT and the Clouds
+ 15: ( 30) - Mesh & Lace - Modern English
+ 16: ( 30) - You And Me Both - Yazoo
 
 
 
- 32: ( 12) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
- 33: ( 12) * Cabin Fever - Corb Lund
- 34: ( 12) - Empire Builder - Laura Gibson
- 35: ( 12) - I'm Not There - Various
- 36: ( 12) - Reconnected - Yazoo
- 37: ( 12) * Texas Fever - Orange Juice
- 38: ( 12) - The Graduate - Dave Grusin
- 39: ( 12) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+ 17: ( 26) - Desolation Boulevard (New Extended Version) - Sweet
 
- 40: ( 10) - Carrying On - Kacy & Clayton
- 41: ( 10) - Changesnowbowie - David Bowie
- 42: ( 10) - Merry Christmas, Baby - Rod Stewart
- 43: ( 10) * Seventeen Seconds - The Cure
- 44: (  8) - Bolan's Zip Gun - T. Rex
- 45: (  8) - From Her To Eternity (2009 Remastered Version) - Nick Cave & The Bad Seeds
- 46: (  8) - Shadows In The Night - Bob Dylan
- 47: (  8) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 48: (  8) * This Year's Model - Elvis Costello & the Attractions
- 49: (  6) * Boy - U2
- 50: (  6) - Golden Hour - Kacey Musgraves
- 51: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Bill Pritchard
- 52: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - David McComb & Adam Peters
- 53: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Dead Famous People
- 54: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Geoffrey Oryema
- 55: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Ian McCulloch
- 56: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - James
- 57: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Jean-Louis Murat
- 58: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - John Cale
- 59: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Lloyd Cole
- 60: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Nick Cave & The Bad Seeds
- 61: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Peter Astor
- 62: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Pixies
- 63: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - R.E.M.
- 64: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - Robert Foster
- 65: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - That Petrol Emotion
- 66: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - The Fatima Mansions
- 67: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - The House of Love
- 68: (  6) - I'm Your Fan: The Songs Of Leonard Cohen - The Lilac Time
- 69: (  6) - Lullabies - Cocteau Twins
- 70: (  6) - The Houston Kid - Rodney Crowell
+ 18: ( 24) - Americana - Bill Frisell
+ 19: ( 24) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
+
+ 20: ( 22) - Sex And Gasoline - Rodney Crowell
+
+ 21: ( 20) * Caledonia - JT and the Clouds
+ 22: ( 20) - Echoes In A Shallow Bay - Cocteau Twins
+ 23: ( 20) - Elton John (Remastered Version) - Elton John
+ 24: ( 20) - Head Over Heels - Cocteau Twins
+ 25: ( 20) * Tales Of Light And Darkness - Angie Palmer
+ 26: ( 20) - Work, Pt. 1 - Walter Salas-Humara
+
+ 27: ( 18) - Gasoline Alley - Rod Stewart
+ 28: ( 18) - Sorry For Laughing - Josef K
+ 29: ( 18) - The Graduate - Simon & Garfunkel
+
+ 30: ( 16) - Cover Your Tracks - Corb Lund
+ 31: ( 16) * Pornography - The Cure
+ 32: ( 16) * The City's Hot Yeah The City's Hot - JT and the Clouds
+
+
+
+ 33: ( 12) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+ 34: ( 12) * Cabin Fever - Corb Lund
+ 35: ( 12) - Empire Builder - Laura Gibson
+ 36: ( 12) - I'm Not There - Various
+ 37: ( 12) - Reconnected - Yazoo
+ 38: ( 12) * Texas Fever - Orange Juice
+ 39: ( 12) - The Graduate - Dave Grusin
+ 40: ( 12) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+
+ 41: ( 10) - Carrying On - Kacy & Clayton
+ 42: ( 10) - Changesnowbowie - David Bowie
+ 43: ( 10) - Merry Christmas, Baby - Rod Stewart
+ 44: ( 10) * Seventeen Seconds - The Cure
+ 45: (  8) - Bolan's Zip Gun - T. Rex
+ 46: (  8) - From Her To Eternity (2009 Remastered Version) - Nick Cave & The Bad Seeds
+ 47: (  8) - Shadows In The Night - Bob Dylan
+ 48: (  8) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 49: (  8) * This Year's Model - Elvis Costello & the Attractions
+ 50: (  6) * Boy - U2
+ 51: (  6) - Golden Hour - Kacey Musgraves
+ 52: (  6) - Lullabies - Cocteau Twins
+ 53: (  6) - The Houston Kid - Rodney Crowell

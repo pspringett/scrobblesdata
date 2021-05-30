@@ -1,6 +1,6 @@
 Specified year (2017), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1000            48            63           597
+    1000            47            63           597
   1: ( 70) * Jordan: The Comeback - Prefab Sprout
   2: ( 63) - The Undertones - The Undertones
   3: ( 56) - The Weather Station - The Weather Station
@@ -28,12 +28,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  12: ( 26) - In Your Room - Yazoo
 
  13: ( 24) - Crush - Orchestral Manoeuvres in the Dark
- 14: ( 23) - My Life In The Bush Of Ghosts - Brian Eno
- 15: ( 22) * Grand Canyon - Sarah MacDougall
- 16: ( 22) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 14: ( 23) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+ 15: ( 23) * This Year's Model - Elvis Costello & the Attractions
+ 16: ( 22) * Grand Canyon - Sarah MacDougall
+ 17: ( 22) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
 
- 17: ( 20) - Shadows In The Night - Bob Dylan
- 18: ( 19) * This Year's Model - Elvis Costello & the Attractions
+ 18: ( 20) - Shadows In The Night - Bob Dylan
+
  19: ( 18) - The Flame And The Pelican - Jack Harris
 
  20: ( 16) - Echo & The Bunnymen - Echo & the Bunnymen
@@ -42,7 +43,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: ( 14) * Highway 61 Revisited - Bob Dylan
  23: ( 14) - Honky Chateau (Remastered) - Elton John
  24: ( 14) - Other World - Peter Hammill
- 25: ( 13) - Armed Forces - Elvis Costello
+ 25: ( 13) - Armed Forces - Elvis Costello & the Attractions
  26: ( 13) * Caledonia - JT and the Clouds
  27: ( 13) - The Kick Inside - Kate Bush
  28: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
@@ -74,11 +75,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  54: (  5) - The Smiths - The Smiths
  55: (  5) - Woodland Echoes - Nick Heyward
  56: (  4) * High Land, Hard Rain - Aztec Camera
- 57: (  4) - This Year's Model - Elvis Costello
- 58: (  3) - Journeys To Glory - Spandau Ballet
- 59: (  3) - Positive Touch - The Undertones
- 60: (  2) - Hypnotised - The Undertones
- 61: (  1) - Dig Yourself Deep - The Undertones
- 62: (  1) - Get What You Need - The Undertones
- 63: (  1) - Hypnotised (2016 Remastered) - The Undertones
- 64: (  1) - Revelation Road - Shelby Lynne
+ 57: (  3) - Journeys To Glory - Spandau Ballet
+ 58: (  3) - Positive Touch - The Undertones
+ 59: (  2) - Hypnotised - The Undertones
+ 60: (  1) - Dig Yourself Deep - The Undertones
+ 61: (  1) - Get What You Need - The Undertones
+ 62: (  1) - Hypnotised (2016 Remastered) - The Undertones
+ 63: (  1) - Revelation Road - Shelby Lynne

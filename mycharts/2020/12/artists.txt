@@ -1,17 +1,13 @@
 Specified year (2020), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     722            57            54           210
+     722            37            54           210
   1: (110) - Echo & the Bunnymen
   2: ( 86) - Paul McCartney
   3: ( 80) - Piney Gir
   4: ( 60) - U2
   5: ( 56) - Loma
   6: ( 52) - Simple Minds
-  7: ( 36) - Furniture
-
-  8: ( 34) - Elvis Costello
-
-  9: ( 32) - The Chicks
+  7: ( 46) - Various
 
 
 
@@ -21,64 +17,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  8: ( 36) - Furniture
 
+  9: ( 34) - Elvis Costello
 
- 10: ( 20) - The Velvet Underground
-
-
-
-
-
- 11: ( 14) - Elvis Costello & the Attractions
- 12: ( 14) - The Pale Fountains
- 13: ( 14) - The Waterboys
-
- 14: ( 12) - Bob Dylan
+ 10: ( 32) - The Chicks
 
 
 
 
 
- 15: (  6) - Josef K
- 16: (  4) - David Bowie
- 17: (  4) - Edwyn Collins
- 18: (  4) - Keith Shields
+
+
+
+
+
+
+ 11: ( 20) - The Velvet Underground
+
+
+
+
+
+ 12: ( 14) - Elvis Costello & the Attractions
+ 13: ( 14) - The Pale Fountains
+ 14: ( 14) - The Waterboys
+
+ 15: ( 12) - Bob Dylan
+
+
+
+
+
+ 16: (  6) - Josef K
+ 17: (  4) - David Bowie
+ 18: (  4) - Edwyn Collins
  19: (  4) - Orange Juice
- 20: (  4) - The Syn
- 21: (  4) - Tom Robinson
- 22: (  2) - 23rd Turnoff
- 23: (  2) - A Certain Ratio
- 24: (  2) - Adrianne Lenker
- 25: (  2) - Al Stewart
- 26: (  2) - Andy Bell
- 27: (  2) - Cara Dillon
- 28: (  2) - Curiosity Shoppe
- 29: (  2) - Diana Jones
- 30: (  2) - Felius Andromeda
- 31: (  2) - Fuzz
- 32: (  2) - Garcia Peoples
- 33: (  2) - Garden Odyssey Enterprise
- 34: (  2) - Hello Forever
- 35: (  2) - Hen Ogledd
- 36: (  2) - Human Instinct
- 37: (  2) - ICE
- 38: (  2) - Japan
- 39: (  2) - Jim White
- 40: (  2) - John Cooper Clarke
- 41: (  2) - Magik Markers
- 42: (  2) - Mary Lattimore
- 43: (  2) - Songhoy Blues
- 44: (  2) - Sufjan Stevens
- 45: (  2) - The Accent
- 46: (  2) - The Attack
- 47: (  2) - The End
- 48: (  2) - The Fairytale
- 49: (  2) - The Moody Blues
- 50: (  2) - The Poets
- 51: (  2) - The Societie
- 52: (  2) - Timebox
- 53: (  2) - Tintern Abbey
- 54: (  2) - Turquoise
- 55: (  2) - Virgin Sleep
- 56: (  2) - World Of Oz
- 57: (  2) - Yazoo
+ 20: (  4) - Tom Robinson
+ 21: (  2) - A Certain Ratio
+ 22: (  2) - Adrianne Lenker
+ 23: (  2) - Andy Bell
+ 24: (  2) - Cara Dillon
+ 25: (  2) - Diana Jones
+ 26: (  2) - Fuzz
+ 27: (  2) - Garcia Peoples
+ 28: (  2) - Hello Forever
+ 29: (  2) - Hen Ogledd
+ 30: (  2) - Japan
+ 31: (  2) - Jim White
+ 32: (  2) - John Cooper Clarke
+ 33: (  2) - Magik Markers
+ 34: (  2) - Mary Lattimore
+ 35: (  2) - Songhoy Blues
+ 36: (  2) - Sufjan Stevens
+ 37: (  2) - Yazoo

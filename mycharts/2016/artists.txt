@@ -33,7 +33,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  30: (137) - Allison Moorer
  31: (133) - Paul Weller
  32: (129) - Freakwater
- 33: (126) - Heaven 17
+ 33: (129) - Heaven 17
  34: (125) - Angie Palmer
  35: (121) - Roddy Frame
  36: (121) - The Beatles
@@ -43,15 +43,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  40: (109) - Eliza Gilkyson
  41: ( 97) - Altered Images
  42: ( 96) - Rodney Crowell
- 43: ( 95) - Spandau Ballet
- 44: ( 92) - Aztec Camera
- 45: ( 91) - The Wailers
- 46: ( 90) - Haircut 100
- 47: ( 88) - Amy LaVere
- 48: ( 83) - Hackensaw Boys
- 49: ( 78) - Devine & Statton
- 50: ( 78) - Kacey Musgraves
- 51: ( 76) - Elvis Costello & the Attractions
+ 43: ( 95) - Elvis Costello & the Attractions
+ 44: ( 95) - Spandau Ballet
+ 45: ( 92) - Aztec Camera
+ 46: ( 91) - The Wailers
+ 47: ( 90) - Haircut 100
+ 48: ( 88) - Amy LaVere
+ 49: ( 83) - Hackensaw Boys
+ 50: ( 78) - Devine & Statton
+ 51: ( 78) - Kacey Musgraves
  52: ( 75) - Gillian Welch
  53: ( 75) - The Jesus and Mary Chain
  54: ( 72) - Lizanne Knott
@@ -80,38 +80,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  76: ( 41) - Cowboy Junkies
- 77: ( 41) - Elvis Costello
- 78: ( 40) - Patty Griffin
- 79: ( 40) - The Go-Betweens
+ 77: ( 40) - Patty Griffin
+ 78: ( 40) - The Go-Betweens
 
- 80: ( 38) - The Sundays
+ 79: ( 38) - The Sundays
 
- 81: ( 36) - Corb Lund
- 82: ( 36) - The Piney Gir Country Roadshow
- 83: ( 35) - Haley Bonar
- 84: ( 34) - Talking Heads
- 85: ( 33) - Martin Stephenson And The Daintees
+ 80: ( 36) - Corb Lund
+ 81: ( 36) - The Piney Gir Country Roadshow
+ 82: ( 35) - Haley Bonar
+ 83: ( 34) - Talking Heads
+ 84: ( 33) - Martin Stephenson And The Daintees
 
- 86: ( 31) - Striking Matches
- 87: ( 30) - Walter Salas-Humara
- 88: ( 29) - Sarah Jarosz
+ 85: ( 31) - Striking Matches
+ 86: ( 30) - Walter Salas-Humara
+ 87: ( 29) - Sarah Jarosz
 
- 89: ( 27) - Yazoo
- 90: ( 26) - Suzanne Vega
- 91: ( 25) - Rod Picott and Amanda Shires
- 92: ( 25) - T. Rex
+ 88: ( 27) - Yazoo
+ 89: ( 26) - Suzanne Vega
+ 90: ( 25) - Rod Picott and Amanda Shires
+ 91: ( 25) - T. Rex
 
- 93: ( 23) - It's Immaterial
- 94: ( 23) - The Civil Wars
- 95: ( 22) - B.E.F.
- 96: ( 22) - Noah and the Whale
- 97: ( 22) - Small Faces
- 98: ( 22) - The Jam
- 99: ( 21) - Brigid Mae Power
-100: ( 21) - Joy Division
-101: ( 21) - Martha Wainwright
-102: ( 21) - Sara Watkins
-103: ( 20) - Robert Forster
+ 92: ( 23) - It's Immaterial
+ 93: ( 23) - The Civil Wars
+ 94: ( 22) - Elvis Costello
+ 95: ( 22) - Noah and the Whale
+ 96: ( 22) - Small Faces
+ 97: ( 22) - The Jam
+ 98: ( 21) - Brigid Mae Power
+ 99: ( 21) - Joy Division
+100: ( 21) - Martha Wainwright
+101: ( 21) - Sara Watkins
+102: ( 20) - Robert Forster
+103: ( 19) - B.E.F.
 104: ( 19) - The Mavericks
 105: ( 19) - Tower of Song
 106: ( 18) - Artery
@@ -122,7 +122,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 111: ( 16) - Kristin Hersh
 112: ( 16) - The Smiths
 113: ( 15) - The Mighty Wah!
-114: ( 14) - Chip Taylor
+114: ( 14) - Chip Taylor & Carrie Rodriguez
 115: ( 13) - UB40
 116: ( 12) - Belle and Sebastian
 117: ( 12) - Bitchin Bajas & Bonnie 'Prince' Billy

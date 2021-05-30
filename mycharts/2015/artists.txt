@@ -1,6 +1,6 @@
 Specified year (2015)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3696           307           348          2248
+    3696           308           348          2248
   1: (223) - Tift Merritt
   2: (205) - Lloyd Cole
   3: (202) - Bob Dylan
@@ -10,14 +10,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   7: ( 91) - Carrie Rodriguez
   8: ( 78) - Eilen Jewell
   9: ( 75) - Shelby Lynne
- 10: ( 69) - Elvis Costello
- 11: ( 69) - Kacey Musgraves
- 12: ( 68) - Rosanne Cash
- 13: ( 66) - Corb Lund
- 14: ( 66) - Prefab Sprout
- 15: ( 63) - Orchestral Manoeuvres in the Dark
- 16: ( 61) - Allison Moorer
- 17: ( 56) - Elton John
+ 10: ( 69) - Kacey Musgraves
+ 11: ( 68) - Rosanne Cash
+ 12: ( 66) - Corb Lund
+ 13: ( 66) - Prefab Sprout
+ 14: ( 63) - Orchestral Manoeuvres in the Dark
+ 15: ( 61) - Allison Moorer
+ 16: ( 56) - Elton John
+ 17: ( 56) - Elvis Costello
  18: ( 52) - Roddy Frame
  19: ( 50) - Robert Forster
  20: ( 48) - Jason Isbell
@@ -26,21 +26,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  23: ( 47) - The Cure
  24: ( 47) - U2
  25: ( 46) - The Jam
+ 26: ( 45) - Elvis Costello & the Attractions
 
+ 27: ( 43) - JT Nero
 
- 26: ( 43) - JT Nero
+ 28: ( 41) - Heaven 17
+ 29: ( 40) - JT and the Clouds
+ 30: ( 39) - Orange Juice
+ 31: ( 38) - Angie Palmer
 
+ 32: ( 36) - Scott Walker
+ 33: ( 35) - Rachel Harrington
+ 34: ( 34) - Talking Heads
 
- 27: ( 40) - Heaven 17
- 28: ( 40) - JT and the Clouds
- 29: ( 39) - Orange Juice
- 30: ( 38) - Angie Palmer
-
- 31: ( 36) - Scott Walker
- 32: ( 35) - Rachel Harrington
- 33: ( 34) - Talking Heads
-
- 34: ( 32) - Elvis Costello & the Attractions
  35: ( 32) - Emmylou Harris
  36: ( 31) - Cowboy Junkies
 
@@ -61,34 +59,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  49: ( 19) - The Velvet Underground
  50: ( 19) - The Wailin' Jennys
  51: ( 18) - Aztec Camera
- 52: ( 18) - B.E.F.
- 53: ( 18) - Simple Minds
- 54: ( 18) - The Go-Betweens
- 55: ( 18) - UB40
+ 52: ( 18) - Simple Minds
+ 53: ( 18) - The Go-Betweens
+ 54: ( 18) - UB40
+ 55: ( 17) - B.E.F.
  56: ( 17) - Birds of Chicago
- 57: ( 17) - Martin Stephenson And The Daintees
- 58: ( 16) - Natalie Prass
- 59: ( 15) - Dolly Parton
- 60: ( 15) - Gillian Welch
- 61: ( 15) - Robert Plant & Alison Krauss
- 62: ( 15) - Rod Stewart
- 63: ( 14) - Willie Nelson & Asleep At The Wheel
- 64: ( 13) - John Cale
- 65: ( 12) - Amy LaVere
- 66: ( 12) - Echo & the Bunnymen
- 67: ( 12) - Eliza Gilkyson
- 68: ( 12) - Miranda Lambert
- 69: ( 12) - The Decemberists
- 70: ( 11) - Duran Duran
- 71: ( 11) - Fleet Foxes
- 72: ( 11) - Jessica Pratt
- 73: ( 11) - Joni Mitchell
- 74: ( 11) - Rod Picott & Amanda Shires
- 75: ( 11) - Rodney Crowell
- 76: ( 11) - The Wailers
- 77: ( 11) - Travis Linville
- 78: ( 10) - Cara Luft
- 79: ( 10) - Laura Cantrell
+ 57: ( 16) - Natalie Prass
+ 58: ( 15) - Dolly Parton
+ 59: ( 15) - Gillian Welch
+ 60: ( 15) - Robert Plant & Alison Krauss
+ 61: ( 15) - Rod Stewart
+ 62: ( 14) - Willie Nelson & Asleep At the Wheel
+ 63: ( 13) - John Cale
+ 64: ( 12) - Amy LaVere
+ 65: ( 12) - Echo & the Bunnymen
+ 66: ( 12) - Eliza Gilkyson
+ 67: ( 12) - Miranda Lambert
+ 68: ( 12) - The Decemberists
+ 69: ( 11) - Duran Duran
+ 70: ( 11) - Fleet Foxes
+ 71: ( 11) - Jessica Pratt
+ 72: ( 11) - Joni Mitchell
+ 73: ( 11) - Rod Picott and Amanda Shires
+ 74: ( 11) - Rodney Crowell
+ 75: ( 11) - The Wailers
+ 76: ( 11) - Travis Linville
+ 77: ( 10) - Cara Luft
+ 78: ( 10) - Laura Cantrell
+ 79: ( 10) - Martin Stephenson And The Daintees
  80: ( 10) - The Civil Wars
  81: (  9) - Bryan Adams
  82: (  9) - Romi Mayes
@@ -100,220 +98,221 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  88: (  7) - Jeff Bridges
  89: (  7) - Joy Division
  90: (  7) - Lloyd Cole and The Commotions
- 91: (  7) - Martyn Bates
- 92: (  7) - Striking Matches
- 93: (  7) - The Style Council
- 94: (  6) - Caroline Herring
- 95: (  6) - The Mavericks
- 96: (  5) - Amanda Shires
- 97: (  5) - Brian Eno
- 98: (  5) - Jan Garbarek
- 99: (  5) - Led Zeppelin
-100: (  5) - The Low Anthem
-101: (  5) - Tracey Thorn
-102: (  4) - Chip Taylor
-103: (  4) - Gregory Isaacs
-104: (  4) - Stealers Wheel
-105: (  4) - Stephenson's Rocketts
-106: (  4) - The Heptones
-107: (  4) - Yazoo
-108: (  3) - Bob & Marcia
-109: (  3) - Burning Spear
-110: (  3) - Carrie Rodriguez and Ben Kyle
-111: (  3) - Dave Barker
-112: (  3) - Fleetwood Mac
-113: (  3) - Gina Villalobos
-114: (  3) - Jimmy Cliff
-115: (  3) - Jonathan Richman And The Modern Lovers
-116: (  3) - Ken Boothe
-117: (  3) - Mindy Smith
-118: (  3) - New Order
-119: (  3) - Noah and the Whale
-120: (  3) - Owen Gray
-121: (  3) - Phillip Samuels
-122: (  3) - Scritti Politti
-123: (  3) - The Dust Poets
-124: (  3) - The Pioneers
-125: (  3) - The Smiths
-126: (  3) - The Sundays
-127: (  3) - Tom Waits
-128: (  3) - Weekend
-129: (  2) - Altered Images
-130: (  2) - Alton Ellis
-131: (  2) - Beth Nielsen Chapman
-132: (  2) - Bob Marley & The Wailers
-133: (  2) - Bruce Springsteen
-134: (  2) - Bunny Wailer
-135: (  2) - Cornell Campbell
-136: (  2) - David Rodigan
-137: (  2) - Dennis Brown
-138: (  2) - Derrick Morgan
-139: (  2) - Desmond Dekker & The Aces
-140: (  2) - Earl Lawrence
-141: (  2) - Freddie McKay
-142: (  2) - Gary Numan
-143: (  2) - Haircut 100
-144: (  2) - Horace Andy
-145: (  2) - Inner Circle
-146: (  2) - Jacob Miller
-147: (  2) - John Holt
-148: (  2) - Junior Byles
-149: (  2) - Junior Murvin
-150: (  2) - Kiddus I
-151: (  2) - Lloyd Parks
-152: (  2) - Maytones
-153: (  2) - Nat King Cole
-154: (  2) - Peter Tosh
-155: (  2) - Ryan Bingham
-156: (  2) - Sheryl Crow
-157: (  2) - Slade
-158: (  2) - Stevie Nicks
-159: (  2) - T. Rex
-160: (  2) - The Chameleons
-161: (  2) - The Hippy Boys
-162: (  2) - The Melodians
-163: (  2) - The Pretenders
-164: (  2) - The Rolling Stones
-165: (  2) - The Upsetters
-166: (  2) - Twinkle Brothers
-167: (  2) - Val Bennett
-168: (  2) - Waylon Jennings
-169: (  2) - Wham!
-170: (  1) - A Certain Ratio
-171: (  1) - Al Barry & The Aces
-172: (  1) - Alison Moyet
-173: (  1) - Ananda Shankar
-174: (  1) - Annetta Jackson
-175: (  1) - Anonymously Yours
-176: (  1) - Ansel Collins
-177: (  1) - Augustus Pablo
-178: (  1) - Austin Faithful
-179: (  1) - Barry & The Affections
-180: (  1) - Big Youth
-181: (  1) - Billy Dyce
-182: (  1) - Bingy Bunny
-183: (  1) - Bob Andy
-184: (  1) - Boris Gardiner
-185: (  1) - Boy Friday
-186: (  1) - Brent Dowe
-187: (  1) - Buck Owens
-188: (  1) - Carlton Brown
-189: (  1) - Colin Farrell
-190: (  1) - Colin Farrell & Jeff Bridges
-191: (  1) - Corinne West
-192: (  1) - Dandy
-193: (  1) - Dandy Livingstone
-194: (  1) - Dave & Ansel Collins
-195: (  1) - Delroy Wilson
-196: (  1) - Department S
-197: (  1) - Desmond Dekker
-198: (  1) - Dice The Boss
-199: (  1) - Don Drummond & The Skatalites
-200: (  1) - Dwight Yoakam
-201: (  1) - Eyeless in Gaza
-202: (  1) - Flick Wilson
-203: (  1) - Frank Sinatra
-204: (  1) - Frankie Goes to Hollywood
-205: (  1) - Free
-206: (  1) - Gene Rondo
-207: (  1) - George Strait
-208: (  1) - Greg Lake
-209: (  1) - Greyhound
-210: (  1) - Harry J Allstars
-211: (  1) - Hot Rod All Stars
-212: (  1) - Hubert Lee
-213: (  1) - Hugh Hendricks & The Buccaneers
-214: (  1) - Ian Dury and the Blockheads
-215: (  1) - Ike Bennett
-216: (  1) - It's Immaterial
-217: (  1) - Jackie Edwards
-218: (  1) - Jah Lloyd
-219: (  1) - Joan Baez
-220: (  1) - Joe White
-221: (  1) - John Kongos
-222: (  1) - John Lennon
-223: (  1) - Jona Lewie
-224: (  1) - Josef K
-225: (  1) - Justin Hinds & The Dominoes
-226: (  1) - Keith & Tex
-227: (  1) - Lee "Scratch" Perry
-228: (  1) - Lester Sterling
-229: (  1) - Lightnin' Hopkins
-230: (  1) - Lloyd Charmers
-231: (  1) - Lou Reed
-232: (  1) - Loudon Wainwright III
-233: (  1) - Louisa Mark
-234: (  1) - Manfred Mann
-235: (  1) - Marcia Aitken
-236: (  1) - Marcia Griffiths
-237: (  1) - Mary Gauthier
-238: (  1) - Max Romeo
-239: (  1) - Middle Of The Road
-240: (  1) - Miranda Lambert feat. The Time Jumpers
-241: (  1) - Nick Cave & The Bad Seeds
-242: (  1) - Nicky Thomas
-243: (  1) - Nina Simone
-244: (  1) - Niney
-245: (  1) - Nora Dean
-246: (  1) - Norris Weir
-247: (  1) - Paul McCartney
-248: (  1) - Peggy
-249: (  1) - Rad Bryan
-250: (  1) - Real Estate
-251: (  1) - Robert Duvall
-252: (  1) - Roy Martell
-253: (  1) - Roy Panton
-254: (  1) - Rudy Thomas
-255: (  1) - Sam Phillips
-256: (  1) - Sex Pistols
-257: (  1) - Siouxsie and the Banshees
-258: (  1) - Sir Collins
-259: (  1) - Sir Lord Comic
-260: (  1) - Ska Campbell
-261: (  1) - Slim Smith
-262: (  1) - Spandau Ballet
-263: (  1) - Spizz Energi
-264: (  1) - Sugar Minott
-265: (  1) - Texas
-266: (  1) - The Adverts
-267: (  1) - The Associates
-268: (  1) - The Cables
-269: (  1) - The Coolers
-270: (  1) - The Damned
-271: (  1) - The Dynamites
-272: (  1) - The Ethiopians
-273: (  1) - The Immortals
-274: (  1) - The Jokers
-275: (  1) - The Louvin Brothers
-276: (  1) - The Lyrics
-277: (  1) - The Maytals
-278: (  1) - The Medetators
-279: (  1) - The Members
-280: (  1) - The Mighty Diamonds
-281: (  1) - The Monkees
-282: (  1) - The Passions
-283: (  1) - The Pogues
-284: (  1) - The Rhythm Rulers
-285: (  1) - The Soul Syndicate
-286: (  1) - The Stranglers
-287: (  1) - The Teardrop Explodes
-288: (  1) - The Vagaband
-289: (  1) - The Viceroys
-290: (  1) - The Viceroys with Hubcap & The Wheels
-291: (  1) - The Walker Brothers
-292: (  1) - Theatre of Hate
-293: (  1) - Third World
-294: (  1) - Tommy McCook
-295: (  1) - Tommy Shakespeare
-296: (  1) - Tony Tribe
-297: (  1) - Townes Van Zandt
-298: (  1) - Trevor Brown
-299: (  1) - U-Roy
-300: (  1) - Uriah Heep
-301: (  1) - Villagers
-302: (  1) - Willie Nelson
-303: (  1) - Winston Francis
-304: (  1) - Winston Samuels
-305: (  1) - Winston Wright
-306: (  1) - Wizzard
-307: (  1) - the FRIGHTNRS
+ 91: (  7) - Martin Stephenson and the Daintees
+ 92: (  7) - Martyn Bates
+ 93: (  7) - Striking Matches
+ 94: (  7) - The Style Council
+ 95: (  6) - Caroline Herring
+ 96: (  6) - The Mavericks
+ 97: (  5) - Amanda Shires
+ 98: (  5) - Brian Eno
+ 99: (  5) - Jan Garbarek
+100: (  5) - Led Zeppelin
+101: (  5) - The Low Anthem
+102: (  5) - Tracey Thorn
+103: (  4) - Chip Taylor & Carrie Rodriguez
+104: (  4) - Gregory Isaacs
+105: (  4) - Stealers Wheel
+106: (  4) - Stephenson's Rocketts
+107: (  4) - The Heptones
+108: (  4) - Yazoo
+109: (  3) - Bob & Marcia
+110: (  3) - Burning Spear
+111: (  3) - Carrie Rodriguez and Ben Kyle
+112: (  3) - Dave Barker
+113: (  3) - Fleetwood Mac
+114: (  3) - Gina Villalobos
+115: (  3) - Jimmy Cliff
+116: (  3) - Jonathan Richman And The Modern Lovers
+117: (  3) - Ken Boothe
+118: (  3) - Mindy Smith
+119: (  3) - New Order
+120: (  3) - Noah and the Whale
+121: (  3) - Owen Gray
+122: (  3) - Phillip Samuels
+123: (  3) - Scritti Politti
+124: (  3) - The Dust Poets
+125: (  3) - The Pioneers
+126: (  3) - The Smiths
+127: (  3) - The Sundays
+128: (  3) - Tom Waits
+129: (  3) - Weekend
+130: (  2) - Altered Images
+131: (  2) - Alton Ellis
+132: (  2) - Beth Nielsen Chapman
+133: (  2) - Bob Marley & The Wailers
+134: (  2) - Bruce Springsteen
+135: (  2) - Bunny Wailer
+136: (  2) - Cornell Campbell
+137: (  2) - David Rodigan
+138: (  2) - Dennis Brown
+139: (  2) - Derrick Morgan
+140: (  2) - Desmond Dekker & The Aces
+141: (  2) - Earl Lawrence
+142: (  2) - Freddie McKay
+143: (  2) - Gary Numan
+144: (  2) - Haircut 100
+145: (  2) - Horace Andy
+146: (  2) - Inner Circle
+147: (  2) - Jacob Miller
+148: (  2) - John Holt
+149: (  2) - Junior Byles
+150: (  2) - Junior Murvin
+151: (  2) - Kiddus I
+152: (  2) - Lloyd Parks
+153: (  2) - Maytones
+154: (  2) - Nat King Cole
+155: (  2) - Peter Tosh
+156: (  2) - Ryan Bingham
+157: (  2) - Sheryl Crow
+158: (  2) - Slade
+159: (  2) - Stevie Nicks
+160: (  2) - T. Rex
+161: (  2) - The Chameleons
+162: (  2) - The Hippy Boys
+163: (  2) - The Melodians
+164: (  2) - The Pretenders
+165: (  2) - The Rolling Stones
+166: (  2) - The Upsetters
+167: (  2) - Twinkle Brothers
+168: (  2) - Val Bennett
+169: (  2) - Waylon Jennings
+170: (  2) - Wham!
+171: (  1) - A Certain Ratio
+172: (  1) - Al Barry & The Aces
+173: (  1) - Alison Moyet
+174: (  1) - Ananda Shankar
+175: (  1) - Annetta Jackson
+176: (  1) - Anonymously Yours
+177: (  1) - Ansel Collins
+178: (  1) - Augustus Pablo
+179: (  1) - Austin Faithful
+180: (  1) - Barry & The Affections
+181: (  1) - Big Youth
+182: (  1) - Billy Dyce
+183: (  1) - Bingy Bunny
+184: (  1) - Bob Andy
+185: (  1) - Boris Gardiner
+186: (  1) - Boy Friday
+187: (  1) - Brent Dowe
+188: (  1) - Buck Owens
+189: (  1) - Carlton Brown
+190: (  1) - Colin Farrell
+191: (  1) - Colin Farrell & Jeff Bridges
+192: (  1) - Corinne West
+193: (  1) - Dandy
+194: (  1) - Dandy Livingstone
+195: (  1) - Dave & Ansel Collins
+196: (  1) - Delroy Wilson
+197: (  1) - Department S
+198: (  1) - Desmond Dekker
+199: (  1) - Dice The Boss
+200: (  1) - Don Drummond & The Skatalites
+201: (  1) - Dwight Yoakam
+202: (  1) - Eyeless in Gaza
+203: (  1) - Flick Wilson
+204: (  1) - Frank Sinatra
+205: (  1) - Frankie Goes to Hollywood
+206: (  1) - Free
+207: (  1) - Gene Rondo
+208: (  1) - George Strait
+209: (  1) - Greg Lake
+210: (  1) - Greyhound
+211: (  1) - Harry J Allstars
+212: (  1) - Hot Rod All Stars
+213: (  1) - Hubert Lee
+214: (  1) - Hugh Hendricks & The Buccaneers
+215: (  1) - Ian Dury and the Blockheads
+216: (  1) - Ike Bennett
+217: (  1) - It's Immaterial
+218: (  1) - Jackie Edwards
+219: (  1) - Jah Lloyd
+220: (  1) - Joan Baez
+221: (  1) - Joe White
+222: (  1) - John Kongos
+223: (  1) - John Lennon
+224: (  1) - Jona Lewie
+225: (  1) - Josef K
+226: (  1) - Justin Hinds & The Dominoes
+227: (  1) - Keith & Tex
+228: (  1) - Lee "Scratch" Perry
+229: (  1) - Lester Sterling
+230: (  1) - Lightnin' Hopkins
+231: (  1) - Lloyd Charmers
+232: (  1) - Lou Reed
+233: (  1) - Loudon Wainwright III
+234: (  1) - Louisa Mark
+235: (  1) - Manfred Mann
+236: (  1) - Marcia Aitken
+237: (  1) - Marcia Griffiths
+238: (  1) - Mary Gauthier
+239: (  1) - Max Romeo
+240: (  1) - Middle Of The Road
+241: (  1) - Miranda Lambert feat. The Time Jumpers
+242: (  1) - Nick Cave & The Bad Seeds
+243: (  1) - Nicky Thomas
+244: (  1) - Nina Simone
+245: (  1) - Niney
+246: (  1) - Nora Dean
+247: (  1) - Norris Weir
+248: (  1) - Paul McCartney
+249: (  1) - Peggy
+250: (  1) - Rad Bryan
+251: (  1) - Real Estate
+252: (  1) - Robert Duvall
+253: (  1) - Roy Martell
+254: (  1) - Roy Panton
+255: (  1) - Rudy Thomas
+256: (  1) - Sam Phillips
+257: (  1) - Sex Pistols
+258: (  1) - Siouxsie and the Banshees
+259: (  1) - Sir Collins
+260: (  1) - Sir Lord Comic
+261: (  1) - Ska Campbell
+262: (  1) - Slim Smith
+263: (  1) - Spandau Ballet
+264: (  1) - Spizz Energi
+265: (  1) - Sugar Minott
+266: (  1) - Texas
+267: (  1) - The Adverts
+268: (  1) - The Associates
+269: (  1) - The Cables
+270: (  1) - The Coolers
+271: (  1) - The Damned
+272: (  1) - The Dynamites
+273: (  1) - The Ethiopians
+274: (  1) - The Immortals
+275: (  1) - The Jokers
+276: (  1) - The Louvin Brothers
+277: (  1) - The Lyrics
+278: (  1) - The Maytals
+279: (  1) - The Medetators
+280: (  1) - The Members
+281: (  1) - The Mighty Diamonds
+282: (  1) - The Monkees
+283: (  1) - The Passions
+284: (  1) - The Pogues
+285: (  1) - The Rhythm Rulers
+286: (  1) - The Soul Syndicate
+287: (  1) - The Stranglers
+288: (  1) - The Teardrop Explodes
+289: (  1) - The Vagaband
+290: (  1) - The Viceroys
+291: (  1) - The Viceroys with Hubcap & The Wheels
+292: (  1) - The Walker Brothers
+293: (  1) - Theatre of Hate
+294: (  1) - Third World
+295: (  1) - Tommy McCook
+296: (  1) - Tommy Shakespeare
+297: (  1) - Tony Tribe
+298: (  1) - Townes Van Zandt
+299: (  1) - Trevor Brown
+300: (  1) - U-Roy
+301: (  1) - Uriah Heep
+302: (  1) - Villagers
+303: (  1) - Willie Nelson
+304: (  1) - Winston Francis
+305: (  1) - Winston Samuels
+306: (  1) - Winston Wright
+307: (  1) - Wizzard
+308: (  1) - the FRIGHTNRS

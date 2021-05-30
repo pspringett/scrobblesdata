@@ -1,7 +1,10 @@
 Specified year (2021), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     211            34            23           154
-  1: ( 39) - The Smiths
+     211            19            23           154
+  1: ( 42) - First Aid Kit
+
+
+  2: ( 39) - The Smiths
 
 
 
@@ -16,45 +19,30 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  2: ( 24) - The Rolling Stones
+  3: ( 24) - The Rolling Stones
 
 
 
 
-  3: ( 19) - The Cure
+  4: ( 19) - The Cure
 
 
 
-  4: ( 15) - First Aid Kit
   5: ( 15) - Fleet Foxes
 
-  6: ( 13) - First Aid Kit, Nina Zanjani & Maia Hansson-Bergqvist
 
-  7: ( 11) - David Bowie
-  8: ( 10) - Doves
-  9: (  9) - The Style Council
+
+  6: ( 11) - David Bowie
+  7: ( 10) - Doves
+  8: (  9) - The Style Council
+  9: (  8) - Various
  10: (  7) - The Beatles
  11: (  6) - Lissie
  12: (  5) - Tift Merritt
  13: (  4) - Leonard Cohen
  14: (  3) - Bob Dylan
- 15: (  3) - First Aid Kit & Jesper Lindell
- 16: (  3) - Gang of Four
- 17: (  2) - First Aid Kit & Frida Hyvönen
- 18: (  2) - First Aid Kit & Loney Dear
- 19: (  2) - First Aid Kit, Frida Hyvönen, Loney dear, Jesper Lindell, Annika Norlin, Maja Francis, Nina Zanjani and Maia Hansson-Bergqvist
- 20: (  2) - First Aid Kit, Maia Hansson-Bergqvist & Nina Zanjani
- 21: (  2) - First Aid Kit, Maja Francis & Nina Zanjani
- 22: (  2) - Simple Minds
- 23: (  2) - Siouxsie and the Banshees
- 24: (  1) - Curiosity Shoppe
- 25: (  1) - First Aid Kit & Annika Norlin
- 26: (  1) - First Aid Kit, Annika Norlin
- 27: (  1) - Nacho Video
- 28: (  1) - The Accent
- 29: (  1) - The Attack
- 30: (  1) - The End
- 31: (  1) - The Fairytale
- 32: (  1) - The Poets
- 33: (  1) - The Syn
- 34: (  1) - Tintern Abbey
+ 15: (  3) - Gang of Four
+ 16: (  2) - Simple Minds
+ 17: (  2) - Siouxsie and the Banshees
+ 18: (  1) - First Aid Kit, Annika Norlin
+ 19: (  1) - Nacho Video
