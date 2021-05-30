@@ -35,6 +35,11 @@ class Fixup:
             self.variants = json.load(fp)
 
         # This maps an album name with a corrected artist.
+        fqpath = os.path.join(fixup_path, "fixup_artist.json")
+        with open(fqpath, "r") as fp:
+            fixup_artist = json.load(fp)
+
+        # This maps an album name with a corrected artist.
         fqpath = os.path.join(fixup_path, "fixup.json")
         with open(fqpath, "r") as fp:
             fixup_artist = json.load(fp)

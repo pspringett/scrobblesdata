@@ -1,5 +1,5 @@
 [
-  { "m_album": "By the Time You Hear This ...we'll Be Gone", "n_album": "By the Time You Hear This ...We'll Be Gone" },
+  { "m_album": "By The Time You Hear This ...We'll Be Gone", "n_album": "By the Time You Hear This ...We'll Be Gone" },
   { "m_album": "Life on Mars Original Soundtrack", "n_album": "Life On Mars Original Soundtrack" },
   { "m_album": "anarchy in the uk", "n_album": "Anarchy In The UK - 30 Years Of Punk" },
   { "m_album": "New Gold Dream (81/82/83/84)", "n_album": "New Gold Dream (81-82-83-84)" },
@@ -8,10 +8,11 @@
   { "m_album": "Demons/demons", "n_album": "Demons/Demons" },
   { "m_album": "Mountains/forests", "n_album": "Mountains/Forests" },
   { "m_album": "Mountains, Forests", "n_album": "Mountains/Forests" },
-  { "m_album": "Cleaning Out the Ashtrays CD1", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
-  { "m_album": "Cleaning Out the Ashtrays CD2", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},      
-  { "m_album": "Cleaning Out the Ashtrays CD3", "n_album": "Cleaning Out The Ashtrays CD3 - Dangerous Music"},                 
-  { "m_album": "Cleaning Out the Ashtrays CD4", "n_album": "Cleaning Out The Ashtrays CD4 - Dificult Pieces" },
+  { "m_album": "Cleaning Out The Ashtrays Cd1 - One Red Wine Glass", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
+  { "m_album": "Cleaning Out The Ashtrays Cd1 One Red Wine Glass", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
+  { "m_album": "Cleaning Out The Ashtrays Cd2 - Re-Make/Re-model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},      
+  { "m_album": "Cleaning Out The Ashtrays Cd3 - Dangerous Music", "n_album": "Cleaning Out The Ashtrays CD3 - Dangerous Music"},                 
+  { "m_album": "Cleaning Out The Ashtrays Cd4 - Dificult Pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Dificult Pieces" },
   { "m_album": "Reading Writing and Arithmetic", "n_album": "Reading, Writing & Arithmetic" },
   { "m_album": "Steve Mcqueen", "n_album": "Steve McQueen" },
   { "m_album": "Sviib", "n_album": "SVIIB" },
@@ -48,4 +49,12 @@
   { "m_album":"Royal Philharmonic Live - 2018-10-06-1", "n_album":"Live Orchestral - 2018-10-06 Cd1"},
   { "m_album":"Understanding What Black Is", "n_album":"Understand What Black Is"},
   { "m_album":"Anchors And Anvils", "n_album":"Anchors & Anvils"}
+  {
+    "m_album": "Return of the Grievous Angel",
+    "n_album": "Return of the Grievous Angel: A Tribute to Gram Parsons"
+  },
+  {
+    "m_album": "The Very Best Of Orange Juice",
+    "n_album": "The Esteemed Orange Juice"
+  }
 ]

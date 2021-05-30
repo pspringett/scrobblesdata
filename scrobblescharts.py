@@ -45,6 +45,7 @@ compilations = {
     "i'm not there",
     "eurovision song contest lisbon 2018",
     "rockers - original soundtrack",
+    "life on mars original soundtrack",
 }
 
 myowned = {
