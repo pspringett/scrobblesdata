@@ -10,9 +10,14 @@
   { "m_album": "Mountains, Forests", "n_album": "Mountains/Forests" },
   { "m_album": "Cleaning Out The Ashtrays Cd1 - One Red Wine Glass", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
   { "m_album": "Cleaning Out The Ashtrays Cd1 One Red Wine Glass", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
-  { "m_album": "Cleaning Out The Ashtrays Cd2 - Re-Make/Re-model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},      
+  { "m_album": "Cleaning Out The Ashtrays Cd2 Re-Make Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},  
+  { "m_album": "Cleaning Out The Ashtrays Cd2 - Re-Make/Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"}, 
+  { "m_album": "Cleaning Out The Ashtrays Cd2 - Re-Make / Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},    
+  { "m_album": "Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},    
   { "m_album": "Cleaning Out The Ashtrays Cd3 - Dangerous Music", "n_album": "Cleaning Out The Ashtrays CD3 - Dangerous Music"},                 
-  { "m_album": "Cleaning Out The Ashtrays Cd4 - Dificult Pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Dificult Pieces" },
+  { "m_album": "Cleaning Out The Ashtrays Cd3 Dangerous Music", "n_album": "Cleaning Out The Ashtrays CD3 - Dangerous Music"},                 
+  { "m_album": "Cleaning Out The Ashtrays Cd4 - Difficult Pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Difficult Pieces" },
+  { "m_album": "Cleaning Out The Ashtrays Cd4 Difficult Pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Difficult Pieces" },
   { "m_album": "Reading Writing and Arithmetic", "n_album": "Reading, Writing & Arithmetic" },
   { "m_album": "Steve Mcqueen", "n_album": "Steve McQueen" },
   { "m_album": "Sviib", "n_album": "SVIIB" },
@@ -51,6 +56,6 @@
   { "m_album":"Anchors And Anvils", "n_album":"Anchors & Anvils"},
   { "m_album": "Return of the Grievous Angel", "n_album": "Return of the Grievous Angel: A Tribute to Gram Parsons"  },
   { "m_album": "The Very Best Of Orange Juice", "n_album": "The Esteemed Orange Juice"  },
-  { "m_album": "Anarchy in the UK - 30 years of punk", "n_album": "Anarchy In The UK - 30 Years Of Punk"  }
-
+  { "m_album": "Anarchy in the UK - 30 years of punk", "n_album": "Anarchy In The UK - 30 Years Of Punk"  },
+  { "m_album": "Sons And Fascination/Sister Feelings Call", "n_album": "Sons And Fascination/Sister Feelings Call"}
 ]

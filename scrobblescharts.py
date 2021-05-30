@@ -47,6 +47,7 @@ compilations = {
     "rockers - original soundtrack",
     "life on mars original soundtrack",
     "anarchy in the uk - 30 years of punk",
+    "Pat Garrett & Billy The Kid [Soundtrack]",
 }
 
 myowned = {
@@ -152,7 +153,7 @@ myowned = {
     "Cleaning Out The Ashtrays CD1 - One Red Wine Glass - Lloyd Cole": 1,
     "Cleaning Out The Ashtrays CD2 - Re-make/Re-model - Lloyd Cole": 1,
     "Cleaning Out The Ashtrays CD3 - Dangerous Music - Lloyd Cole": 1,
-    "Cleaning Out The Ashtrays CD4 - Dificult Pieces - Lloyd Cole": 1,
+    "Cleaning Out The Ashtrays CD4 - Difficult Pieces - Lloyd Cole": 1,
     "Close To The Bone - Bonus - Tom Tom Club": 0,
     "Close To The Bone - Tom Tom Club": 0,
     "Closer - Joy Division": 1,
