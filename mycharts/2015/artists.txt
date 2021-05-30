@@ -1,6 +1,6 @@
 Specified year (2015)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3696           308           352          2248
+    3696           307           349          2248
   1: (223) - Tift Merritt
   2: (205) - Lloyd Cole
   3: (202) - Bob Dylan
@@ -40,7 +40,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 35) - Rachel Harrington
  33: ( 34) - Talking Heads
 
- 34: ( 32) - Elvis Costello & The Attractions
+ 34: ( 32) - Elvis Costello & the Attractions
  35: ( 32) - Emmylou Harris
  36: ( 31) - Cowboy Junkies
 
@@ -77,12 +77,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  65: ( 12) - Amy LaVere
  66: ( 12) - Echo & the Bunnymen
  67: ( 12) - Eliza Gilkyson
- 68: ( 12) - The Decemberists
- 69: ( 11) - Duran Duran
- 70: ( 11) - Fleet Foxes
- 71: ( 11) - Jessica Pratt
- 72: ( 11) - Joni Mitchell
- 73: ( 11) - Miranda Lambert
+ 68: ( 12) - Miranda Lambert
+ 69: ( 12) - The Decemberists
+ 70: ( 11) - Duran Duran
+ 71: ( 11) - Fleet Foxes
+ 72: ( 11) - Jessica Pratt
+ 73: ( 11) - Joni Mitchell
  74: ( 11) - Rod Picott & Amanda Shires
  75: ( 11) - Rodney Crowell
  76: ( 11) - The Wailers
@@ -249,72 +249,71 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 237: (  1) - Mary Gauthier
 238: (  1) - Max Romeo
 239: (  1) - Middle Of The Road
-240: (  1) - Miranda Lambert feat. Little Big Town
-241: (  1) - Miranda Lambert feat. The Time Jumpers
-242: (  1) - Nick Cave & The Bad Seeds
-243: (  1) - Nicky Thomas
-244: (  1) - Nina Simone
-245: (  1) - Niney
-246: (  1) - Nora Dean
-247: (  1) - Norris Weir
-248: (  1) - Paul McCartney
-249: (  1) - Peggy
-250: (  1) - Rad Bryan
-251: (  1) - Real Estate
-252: (  1) - Robert Duvall
-253: (  1) - Roy Martell
-254: (  1) - Roy Panton
-255: (  1) - Rudy Thomas
-256: (  1) - Sam Phillips
-257: (  1) - Sex Pistols
-258: (  1) - Siouxsie and the Banshees
-259: (  1) - Sir Collins
-260: (  1) - Sir Lord Comic
-261: (  1) - Ska Campbell
-262: (  1) - Slim Smith
-263: (  1) - Spandau Ballet
-264: (  1) - Spizz Energi
-265: (  1) - Sugar Minott
-266: (  1) - Texas
-267: (  1) - The Adverts
-268: (  1) - The Associates
-269: (  1) - The Cables
-270: (  1) - The Coolers
-271: (  1) - The Damned
-272: (  1) - The Dynamites
-273: (  1) - The Ethiopians
-274: (  1) - The Immortals
-275: (  1) - The Jokers
-276: (  1) - The Louvin Brothers
-277: (  1) - The Lyrics
-278: (  1) - The Maytals
-279: (  1) - The Medetators
-280: (  1) - The Members
-281: (  1) - The Mighty Diamonds
-282: (  1) - The Monkees
-283: (  1) - The Passions
-284: (  1) - The Pogues
-285: (  1) - The Rhythm Rulers
-286: (  1) - The Soul Syndicate
-287: (  1) - The Stranglers
-288: (  1) - The Teardrop Explodes
-289: (  1) - The Vagaband
-290: (  1) - The Viceroys
-291: (  1) - The Viceroys with Hubcap & The Wheels
-292: (  1) - The Walker Brothers
-293: (  1) - Theatre of Hate
-294: (  1) - Third World
-295: (  1) - Tommy McCook
-296: (  1) - Tommy Shakespeare
-297: (  1) - Tony Tribe
-298: (  1) - Townes Van Zandt
-299: (  1) - Trevor Brown
-300: (  1) - U-Roy
-301: (  1) - Uriah Heep
-302: (  1) - Villagers
-303: (  1) - Willie Nelson
-304: (  1) - Winston Francis
-305: (  1) - Winston Samuels
-306: (  1) - Winston Wright
-307: (  1) - Wizzard
-308: (  1) - the FRIGHTNRS
+240: (  1) - Miranda Lambert feat. The Time Jumpers
+241: (  1) - Nick Cave & The Bad Seeds
+242: (  1) - Nicky Thomas
+243: (  1) - Nina Simone
+244: (  1) - Niney
+245: (  1) - Nora Dean
+246: (  1) - Norris Weir
+247: (  1) - Paul McCartney
+248: (  1) - Peggy
+249: (  1) - Rad Bryan
+250: (  1) - Real Estate
+251: (  1) - Robert Duvall
+252: (  1) - Roy Martell
+253: (  1) - Roy Panton
+254: (  1) - Rudy Thomas
+255: (  1) - Sam Phillips
+256: (  1) - Sex Pistols
+257: (  1) - Siouxsie and the Banshees
+258: (  1) - Sir Collins
+259: (  1) - Sir Lord Comic
+260: (  1) - Ska Campbell
+261: (  1) - Slim Smith
+262: (  1) - Spandau Ballet
+263: (  1) - Spizz Energi
+264: (  1) - Sugar Minott
+265: (  1) - Texas
+266: (  1) - The Adverts
+267: (  1) - The Associates
+268: (  1) - The Cables
+269: (  1) - The Coolers
+270: (  1) - The Damned
+271: (  1) - The Dynamites
+272: (  1) - The Ethiopians
+273: (  1) - The Immortals
+274: (  1) - The Jokers
+275: (  1) - The Louvin Brothers
+276: (  1) - The Lyrics
+277: (  1) - The Maytals
+278: (  1) - The Medetators
+279: (  1) - The Members
+280: (  1) - The Mighty Diamonds
+281: (  1) - The Monkees
+282: (  1) - The Passions
+283: (  1) - The Pogues
+284: (  1) - The Rhythm Rulers
+285: (  1) - The Soul Syndicate
+286: (  1) - The Stranglers
+287: (  1) - The Teardrop Explodes
+288: (  1) - The Vagaband
+289: (  1) - The Viceroys
+290: (  1) - The Viceroys with Hubcap & The Wheels
+291: (  1) - The Walker Brothers
+292: (  1) - Theatre of Hate
+293: (  1) - Third World
+294: (  1) - Tommy McCook
+295: (  1) - Tommy Shakespeare
+296: (  1) - Tony Tribe
+297: (  1) - Townes Van Zandt
+298: (  1) - Trevor Brown
+299: (  1) - U-Roy
+300: (  1) - Uriah Heep
+301: (  1) - Villagers
+302: (  1) - Willie Nelson
+303: (  1) - Winston Francis
+304: (  1) - Winston Samuels
+305: (  1) - Winston Wright
+306: (  1) - Wizzard
+307: (  1) - the FRIGHTNRS

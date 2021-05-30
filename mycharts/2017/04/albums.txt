@@ -1,6 +1,6 @@
 Specified year (2017), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     771            36            52           458
+     771            36            51           458
   1: ( 84) - Pale Sun Crescent Moon - Cowboy Junkies
   2: ( 53) - Americana - Ray Davies
   3: ( 47) - The Smiths - The Smiths
@@ -60,8 +60,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  33: (  9) * Anchors & Anvils - Amy LaVere
  34: (  9) - Blue Sky Thinkin' - Anne McCue
  35: (  9) - Modern Times - Bob Dylan
- 36: (  8) * I'm Your Man - Leonard Cohen
- 37: (  8) - New Gold Dream (81 82 83 84) - Simple Minds
+ 36: (  9) * New Gold Dream (81-82-83-84) - Simple Minds
+ 37: (  8) * I'm Your Man - Leonard Cohen
  38: (  7) - Once I Was An Eagle - Laura Marling
  39: (  7) - You And Me Both - Yazoo
  40: (  6) * Electric Warrior - T. Rex
@@ -76,4 +76,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  49: (  3) - Futuristic Dragon (Deluxe Edition) - T. Rex
  50: (  2) - Get It On: The Collection - T. Rex
  51: (  1) - Christmas In The Heart - Bob Dylan
- 52: (  1) - New Gold Dream (81/82/83/84) - Simple Minds

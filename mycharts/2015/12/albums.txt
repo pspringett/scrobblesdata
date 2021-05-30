@@ -1,6 +1,6 @@
 Specified year (2015), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     904            86           120           716
+     904            85           120           716
   1: ( 48) * Eveningland - Hem
 
 
@@ -62,16 +62,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  36: ( 11) * The Unforgettable Fire - U2
  37: ( 10) - Bramble Rose - Tift Merritt
  38: ( 10) * Mountains/Forests - JT Nero
- 39: ( 10) * Roxy Music - Roxy Music
- 40: ( 10) * Seventeen Seconds - The Cure
- 41: ( 10) - Songs To Play - Robert Forster
- 42: ( 10) * Sparkle In The Rain - Simple Minds
- 43: ( 10) - The Very Best Of - Orange Juice
- 44: (  9) - 1981-2011 - B.E.F.
- 45: (  9) * Caledonia - JT and the Clouds
- 46: (  9) * Desire - Bob Dylan
- 47: (  9) - Natalie Prass - Natalie Prass
- 48: (  9) - Platinum - Miranda Lambert
+ 39: ( 10) - Platinum - Miranda Lambert
+ 40: ( 10) * Roxy Music - Roxy Music
+ 41: ( 10) * Seventeen Seconds - The Cure
+ 42: ( 10) - Songs To Play - Robert Forster
+ 43: ( 10) * Sparkle In The Rain - Simple Minds
+ 44: ( 10) - The Esteemed Orange Juice - Orange Juice
+ 45: (  9) - 1981-2011 - B.E.F.
+ 46: (  9) * Caledonia - JT and the Clouds
+ 47: (  9) * Desire - Bob Dylan
+ 48: (  9) - Natalie Prass - Natalie Prass
  49: (  9) * Road - Angie Palmer
  50: (  9) * The Bootlegger's Daughter - Rachel Harrington
  51: (  9) - The Complete Matrix Tapes - The Velvet Underground
@@ -107,44 +107,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  81: (  1) - Cleaning Out The Ashtrays Cd2 Re-Make Re-Model - Lloyd Cole
  82: (  1) - Cleaning Out The Ashtrays Cd4 Difficult Pieces - Lloyd Cole
  83: (  1) - Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons) - Cowboy Junkies
- 84: (  1) * David Bowie - Bonus - David Bowie
+ 84: (  1) - David Bowie (Bonus Tracks) - David Bowie
  85: (  1) * Empire Burlesque - Bob Dylan
  86: (  1) - Get Happy!! - Elvis Costello
  87: (  1) - Greatest Hits - Slade
  88: (  1) * Imagination Feels Like Poison - Martyn Bates
  89: (  1) * Impossible Dream - Patty Griffin
  90: (  1) * Led Zeppelin - Led Zeppelin
- 91: (  1) - Mccartney Ii (Special Edition) - Paul McCartney
+ 91: (  1) * Mccartney II (Special Edition) - Paul McCartney
  92: (  1) * Meanwhile, As Night Falls... - Angie Palmer
  93: (  1) - Merry Christmas Wherever You Are - George Strait
  94: (  1) - Noel Inoubliable - Frank Sinatra
  95: (  1) * Oh My God, Charlie Darwin - The Low Anthem
  96: (  1) - Once Upon A Christmas - Dolly Parton
  97: (  1) - Only Yazoo - The Best Of Yazoo - Yazoo
- 98: (  1) - Peace At Last - Ep - Hem
- 99: (  1) - Platinum - Miranda Lambert feat. Little Big Town
-100: (  1) - Platinum - Miranda Lambert feat. The Time Jumpers
-101: (  1) - Population: Me - Dwight Yoakam
-102: (  1) * Pornography - The Cure
-103: (  1) - Power To The People: The Hits - John Lennon
-104: (  1) - Pure... Christmas - Greg Lake
-105: (  1) * Queen Of The Minor Key - Eilen Jewell
-106: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-107: (  1) * Songs To Remember - Scritti Politti
-108: (  1) - Stage - David Bowie
-109: (  1) * Station To Station - David Bowie
-110: (  1) - Stealers Wheel - Stealers Wheel
-111: (  1) - Stop The Cavalry - Jona Lewie
-112: (  1) - Sub-Stance - Department S
-113: (  1) - The Best Of - Joy Division
-114: (  1) * The City's Hot Yeah The City's Hot - JT and the Clouds
-115: (  1) - The Essential Mindy Smith - Mindy Smith
-116: (  1) * The King Is Dead - The Decemberists
-117: (  1) - The Smiths - The Smiths
-118: (  1) - There Comes A Time - Martin Stephenson And The Daintees
-119: (  1) - This Year's Model - Bonus - Elvis Costello
-120: (  1) - This Year's Model - Elvis Costello
-121: (  1) - This Year's Model - Live 1978 - Elvis Costello
-122: (  1) * Trouble In Mind - Hayes Carll
-123: (  1) * World At Large - The Dust Poets
-124: (  1) - You And Me Both - Yazoo
+ 98: (  1) - Peace At Last - EP - Hem
+ 99: (  1) - Platinum - Miranda Lambert feat. The Time Jumpers
+100: (  1) - Population: Me - Dwight Yoakam
+101: (  1) * Pornography - The Cure
+102: (  1) - Power To The People: The Hits - John Lennon
+103: (  1) - Pure... Christmas - Greg Lake
+104: (  1) * Queen Of The Minor Key - Eilen Jewell
+105: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+106: (  1) * Songs To Remember - Scritti Politti
+107: (  1) - Stage - David Bowie
+108: (  1) * Station To Station - David Bowie
+109: (  1) - Stealers Wheel - Stealers Wheel
+110: (  1) - Stop The Cavalry - Jona Lewie
+111: (  1) - Sub-Stance - Department S
+112: (  1) - The Best Of - Joy Division
+113: (  1) * The City's Hot Yeah The City's Hot - JT and the Clouds
+114: (  1) - The Essential Mindy Smith - Mindy Smith
+115: (  1) * The King Is Dead - The Decemberists
+116: (  1) - The Smiths - The Smiths
+117: (  1) - There Comes A Time - Martin Stephenson And The Daintees
+118: (  1) - This Year's Model - Bonus - Elvis Costello
+119: (  1) - This Year's Model - Elvis Costello
+120: (  1) - This Year's Model - Live 1978 - Elvis Costello
+121: (  1) * Trouble In Mind - Hayes Carll
+122: (  1) * World At Large - The Dust Poets
+123: (  1) - You And Me Both - Yazoo

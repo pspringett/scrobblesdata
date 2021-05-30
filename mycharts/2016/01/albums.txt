@@ -1,6 +1,6 @@
 Specified year (2016), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1214            95            70           697
+    1214            95            69           697
   1: ( 77) - Time Out Of Mind - Bob Dylan
   2: ( 60) - Something More Than Free - Jason Isbell
   3: ( 50) * I Speak Because I Can - Laura Marling
@@ -31,7 +31,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  17: ( 21) - Low - David Bowie
  18: ( 21) * The King Is Dead - The Decemberists
  19: ( 20) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
- 20: ( 20) - Get Happy!! - Elvis Costello & The Attractions
+ 20: ( 20) * Get Happy!! - Elvis Costello & the Attractions
 
 
 
@@ -40,7 +40,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  23: ( 16) - Hello Cruel World - Gretchen Peters
  24: ( 16) - Revelation Road - Shelby Lynne
  25: ( 15) - Aladdin Sane - David Bowie
- 26: ( 15) - Imperial Bedroom - Elvis Costello & The Attractions
+ 26: ( 15) - Imperial Bedroom - Elvis Costello & the Attractions
  27: ( 14) * Organisation - Orchestral Manoeuvres in the Dark
  28: ( 14) - Pageant Material - Kacey Musgraves
  29: ( 14) * Trouble In Mind - Hayes Carll
@@ -73,7 +73,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  56: (  5) * Broken Record - Lloyd Cole
  57: (  5) * Seven Angels On A Bicycle - Carrie Rodriguez
  58: (  5) * Sew Your Heart With Wires - Rod Picott and Amanda Shires
- 59: (  5) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - The Besnard Lakes
+ 59: (  5) - Uncut 2016-02 - What's Going On! - The Besnard Lakes
  60: (  5) - Uncut 2016-03 The Stars Are Out Tonight - School of Seven Bells
  61: (  4) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Cowboy Junkies
  62: (  4) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Rolling Creekdippers
@@ -92,29 +92,29 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  75: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Pretenders & Emmylou Harris
  76: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Whiskeytown
  77: (  3) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Wilco
- 78: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Cross Record
- 79: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Eleanor Friedberger
- 80: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Lera Lynn
- 81: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Lucinda Williams
- 82: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Suede
- 83: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - The Long Ryders
- 84: (  3) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Tindersticks [Feat Lhasa De Sela]
- 85: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Barry Adamson
- 86: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Freakwater
- 87: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Mount Moriah
- 88: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Rangda
- 89: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Steve Mason
- 90: (  3) - Uncut 2016-03 The Stars Are Out Tonight - The Wilde Flowers
- 91: (  3) - Uncut 2016-03 The Stars Are Out Tonight - This Heat
- 92: (  2) - Love What You Do - Hackensaw Boys
- 93: (  2) - Penthouse And Pavement - B.E.F.
- 94: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Baaba Maal
- 95: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Cian Nugent
- 96: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Fat White Family
- 97: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - John Cale
- 98: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Saul Williams
- 99: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Tortoise
-100: (  2) - Uncut 2016 - 02 - What's Going On! - The Sound Of 2016 - Yorkston Thorne Khan
+ 78: (  3) - Uncut 2016-02 - What's Going On! - Cross Record
+ 79: (  3) - Uncut 2016-02 - What's Going On! - Eleanor Friedberger
+ 80: (  3) - Uncut 2016-02 - What's Going On! - Fat White Family
+ 81: (  3) - Uncut 2016-02 - What's Going On! - Lera Lynn
+ 82: (  3) - Uncut 2016-02 - What's Going On! - Lucinda Williams
+ 83: (  3) - Uncut 2016-02 - What's Going On! - Suede
+ 84: (  3) - Uncut 2016-02 - What's Going On! - The Long Ryders
+ 85: (  3) - Uncut 2016-02 - What's Going On! - Tindersticks [Feat Lhasa De Sela]
+ 86: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Barry Adamson
+ 87: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Freakwater
+ 88: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Mount Moriah
+ 89: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Rangda
+ 90: (  3) - Uncut 2016-03 The Stars Are Out Tonight - Steve Mason
+ 91: (  3) - Uncut 2016-03 The Stars Are Out Tonight - The Wilde Flowers
+ 92: (  3) - Uncut 2016-03 The Stars Are Out Tonight - This Heat
+ 93: (  2) - Love What You Do - Hackensaw Boys
+ 94: (  2) - Penthouse And Pavement - B.E.F.
+ 95: (  2) - Uncut 2016-02 - What's Going On! - Baaba Maal
+ 96: (  2) - Uncut 2016-02 - What's Going On! - Cian Nugent
+ 97: (  2) - Uncut 2016-02 - What's Going On! - John Cale
+ 98: (  2) - Uncut 2016-02 - What's Going On! - Saul Williams
+ 99: (  2) - Uncut 2016-02 - What's Going On! - Tortoise
+100: (  2) - Uncut 2016-02 - What's Going On! - Yorkston Thorne Khan
 101: (  2) - Uncut 2016-03 The Stars Are Out Tonight - Josephine Foster
 102: (  2) - Uncut 2016-03 The Stars Are Out Tonight - Matmos
 103: (  2) - Uncut 2016-03 The Stars Are Out Tonight - Prins Thomas
@@ -124,5 +124,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 107: (  1) - Pelican West Plus - Haircut 100
 108: (  1) * She Ain't Me - Carrie Rodriguez
 109: (  1) - Top 100 80S - New Order
-110: (  1) - Uncut 2016-02 What's Going On The Sound Of 2016 - Fat White Family
-111: (  1) - Uncut 2016-12 - John Cale
+110: (  1) - Uncut 2016-12 - The Hustle - John Cale

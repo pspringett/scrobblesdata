@@ -1,6 +1,6 @@
 Specified year (2018), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     894            67            85           609
+     894            67            84           609
   1: ( 98) - Are You Experienced - Jimi Hendrix
   2: ( 40) - Ode To Billie Joe - Bobbie Gentry
 
@@ -75,13 +75,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  56: (  4) - Ecstatic Arrow - Virginia Wing
  57: (  4) - Hell-On - Neko Case
  58: (  4) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
- 59: (  3) - Bon Voyage - Melody's Echo Chamber
- 60: (  3) - Brushes With Happiness - The Wave Pictures
- 61: (  3) - Deran - Bombino
- 62: (  3) - Downey To Lubbock - Jimmie Dale Gilmore
- 63: (  3) - God's Favorite Customer - Father John Misty
- 64: (  3) - Putting On Airs - Erin Rae
- 65: (  3) - Understand What Black Is - The Last Poets
+ 59: (  4) - Understand What Black Is - The Last Poets
+ 60: (  3) - Bon Voyage - Melody's Echo Chamber
+ 61: (  3) - Brushes With Happiness - The Wave Pictures
+ 62: (  3) - Deran - Bombino
+ 63: (  3) - Downey To Lubbock - Jimmie Dale Gilmore
+ 64: (  3) - God's Favorite Customer - Father John Misty
+ 65: (  3) - Putting On Airs - Erin Rae
  66: (  2) - Chris - Christine and the Queens
  67: (  2) - It's A New Day Tonight - Michael Rault
  68: (  1) -  - dcoops
@@ -102,5 +102,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  83: (  1) - Tambourine - Tift Merritt
  84: (  1) - The Burnt Match - The Wave Pictures
  85: (  1) - The Outsider - Rodney Crowell (duet with Emmylou Harris)
- 86: (  1) - Understanding What Black Is - The Last Poets
- 87: (  1) - Wilder - The Teardrop Explodes
+ 86: (  1) - Wilder - The Teardrop Explodes

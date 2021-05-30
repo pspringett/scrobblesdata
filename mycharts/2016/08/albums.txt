@@ -1,6 +1,6 @@
 Specified year (2016), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     954            58            60           627
+     954            58            59           627
   1: ( 46) - The Sin Of Pride - The Undertones
   2: ( 45) - Ashes & Fire - Ryan Adams
 
@@ -49,47 +49,46 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  29: ( 12) * Alas I Cannot Swim - Laura Marling
  30: ( 12) * Birds Of Chicago - Birds of Chicago
  31: ( 12) - Love What You Do - Hackensaw Boys
- 32: ( 12) * Wrecking Ball - Emmylou Harris
- 33: ( 11) * Antidepressant - Lloyd Cole
- 34: ( 11) * Don't Fade - The Redlands Palomino Company
- 35: ( 11) - Lovers And Leavers - Hayes Carll
- 36: ( 11) - Peaceful, The World Lays Me Down - Noah and the Whale
- 37: ( 11) - Rules Of Travel - Rosanne Cash
- 38: ( 11) - Something More Than Free - Jason Isbell
- 39: ( 11) - The Avenues - Lera Lynn
- 40: ( 10) * I Speak Because I Can - Laura Marling
- 41: ( 10) * Roxy Music - Roxy Music
- 42: ( 10) * Songs Of Leonard Cohen - Leonard Cohen
- 43: ( 10) * Sparkle In The Rain - Simple Minds
- 44: ( 10) - Themes - Volume 2 - Simple Minds
- 45: (  9) * Bite - Altered Images
- 46: (  9) * Ocean Rain - Echo & the Bunnymen
- 47: (  9) - Penthouse And Pavement - Heaven 17
- 48: (  9) * Road - Angie Palmer
- 49: (  9) - The Best Of - Nick Cave & The Bad Seeds
- 50: (  8) - By The Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
- 51: (  8) * Letters From Sinners & Strangers - Eilen Jewell
- 52: (  8) - New Gold Dream (81/82/83/84) - Simple Minds
+ 32: ( 12) * New Gold Dream (81-82-83-84) - Simple Minds
+ 33: ( 12) * Wrecking Ball - Emmylou Harris
+ 34: ( 11) * Antidepressant - Lloyd Cole
+ 35: ( 11) * Don't Fade - The Redlands Palomino Company
+ 36: ( 11) - Lovers And Leavers - Hayes Carll
+ 37: ( 11) - Peaceful, The World Lays Me Down - Noah and the Whale
+ 38: ( 11) - Rules Of Travel - Rosanne Cash
+ 39: ( 11) - Something More Than Free - Jason Isbell
+ 40: ( 11) - The Avenues - Lera Lynn
+ 41: ( 10) * I Speak Because I Can - Laura Marling
+ 42: ( 10) * Roxy Music - Roxy Music
+ 43: ( 10) * Songs Of Leonard Cohen - Leonard Cohen
+ 44: ( 10) * Sparkle In The Rain - Simple Minds
+ 45: ( 10) - Themes - Volume 2 - Simple Minds
+ 46: (  9) * Bite - Altered Images
+ 47: (  9) * Ocean Rain - Echo & the Bunnymen
+ 48: (  9) - Penthouse And Pavement - Heaven 17
+ 49: (  9) * Road - Angie Palmer
+ 50: (  9) - The Best Of - Nick Cave & The Bad Seeds
+ 51: (  8) - By The Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+ 52: (  8) * Letters From Sinners & Strangers - Eilen Jewell
  53: (  7) * Knife - Aztec Camera
  54: (  7) - Oceans - Artery
  55: (  7) - Something On My Mind - The Pale Fountains
- 56: (  4) - New Gold Dream (81 82 83 84) - Simple Minds
- 57: (  4) - Uncut 2016-08 The Goldrush - Bat for Lashes
- 58: (  4) - Uncut 2016-08 The Goldrush - Chris Robinson Brotherhood
- 59: (  4) - Uncut 2016-08 The Goldrush - D M Smith
- 60: (  4) - Uncut 2016-08 The Goldrush - Eggs Over Easy
- 61: (  4) - Uncut 2016-08 The Goldrush - Emma Russack
- 62: (  4) - Uncut 2016-08 The Goldrush - Hannah Georgas
- 63: (  4) - Uncut 2016-08 The Goldrush - Idris Ackamoor & The Pyramids
- 64: (  4) - Uncut 2016-08 The Goldrush - Lou Rhodes
- 65: (  4) - Uncut 2016-08 The Goldrush - Rhyton
- 66: (  4) - Uncut 2016-08 The Goldrush - Sara Watkins
- 67: (  4) - Uncut 2016-08 The Goldrush - Sarah Jarosz
- 68: (  4) - Uncut 2016-08 The Goldrush - Tchiss lopez
- 69: (  4) - Uncut 2016-08 The Goldrush - The Julie Ruin
- 70: (  4) - Uncut 2016-08 The Goldrush - Thee Oh Sees
- 71: (  3) - Paging Mr. Proust - The Jayhawks
- 72: (  3) - Strange Angels - Kristin Hersh
- 73: (  3) - Uncut 2016-08 The Goldrush - Plaid
- 74: (  2) - Redshift - Rhyton
- 75: (  2) - The Outsider - Rodney Crowell (duet with Emmylou Harris)
+ 56: (  4) - Uncut 2016-08 - The Goldrush - Bat for Lashes
+ 57: (  4) - Uncut 2016-08 - The Goldrush - Chris Robinson Brotherhood
+ 58: (  4) - Uncut 2016-08 - The Goldrush - D M Smith
+ 59: (  4) - Uncut 2016-08 - The Goldrush - Eggs Over Easy
+ 60: (  4) - Uncut 2016-08 - The Goldrush - Emma Russack
+ 61: (  4) - Uncut 2016-08 - The Goldrush - Hannah Georgas
+ 62: (  4) - Uncut 2016-08 - The Goldrush - Idris Ackamoor & The Pyramids
+ 63: (  4) - Uncut 2016-08 - The Goldrush - Lou Rhodes
+ 64: (  4) - Uncut 2016-08 - The Goldrush - Rhyton
+ 65: (  4) - Uncut 2016-08 - The Goldrush - Sara Watkins
+ 66: (  4) - Uncut 2016-08 - The Goldrush - Sarah Jarosz
+ 67: (  4) - Uncut 2016-08 - The Goldrush - Tchiss lopez
+ 68: (  4) - Uncut 2016-08 - The Goldrush - The Julie Ruin
+ 69: (  4) - Uncut 2016-08 - The Goldrush - Thee Oh Sees
+ 70: (  3) - Paging Mr. Proust - The Jayhawks
+ 71: (  3) - Strange Angels - Kristin Hersh
+ 72: (  3) - Uncut 2016-08 - The Goldrush - Plaid
+ 73: (  2) - Redshift - Rhyton
+ 74: (  2) - The Outsider - Rodney Crowell (duet with Emmylou Harris)

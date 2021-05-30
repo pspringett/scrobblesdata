@@ -1,6 +1,6 @@
 Specified year (2015), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     954           166           194           763
+     954           166           192           763
   1: ( 51) - Traveling Alone - Tift Merritt
   2: ( 46) - Goodbye Yellow Brick Road - Elton John
 
@@ -78,7 +78,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  52: (  5) * Grand Canyon - Sarah MacDougall
  53: (  5) * Imagination Feels Like Poison - Martyn Bates
  54: (  5) * Love Story - Lloyd Cole
- 55: (  5) - Mountains, Forests - JT Nero
+ 55: (  5) * Mountains/Forests - JT Nero
  56: (  5) * Tom Tom Club - Tom Tom Club
  57: (  4) * Blood On The Tracks - Bob Dylan
  58: (  4) * Demons/Demons - JT Nero
@@ -89,7 +89,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  63: (  4) * Scott 2 - Scott Walker
  64: (  4) * Seventeen Seconds - The Cure
  65: (  4) * Signing Off - UB40
- 66: (  4) - The Very Best Of - Orange Juice
+ 66: (  4) - The Esteemed Orange Juice - Orange Juice
  67: (  4) - This Year's Model - Elvis Costello
  68: (  3) * Bob Dylan At Budokan - Bob Dylan
  69: (  3) - Carrying Lightning - Amanda Shires
@@ -124,49 +124,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  98: (  2) * Empire Burlesque - Bob Dylan
  99: (  2) - Feels Like Home - Sheryl Crow
 100: (  2) * Firecracker - The Wailin' Jennys
-101: (  2) - Grrr! - The Rolling Stones
-102: (  2) * Horse Soldier! Horse Soldier! - Corb Lund
-103: (  2) * I Took Up The Runes - Jan Garbarek
-104: (  2) - In Time - The Mavericks
-105: (  2) * Infidels (Remastered 2003) - Bob Dylan
-106: (  2) - Look - Beth Nielsen Chapman
-107: (  2) * Meanwhile, As Night Falls... - Angie Palmer
-108: (  2) * Oh My God, Charlie Darwin - The Low Anthem
-109: (  2) - Old Yellow Moon - Emmylou Harris
-110: (  2) * Saved - Bob Dylan
-111: (  2) * Seven Dials - Roddy Frame
-112: (  2) - The '81 Demos - Weekend
-113: (  2) * The City's Hot Yeah The City's Hot - JT and the Clouds
-114: (  2) * The King Is Dead - The Decemberists
-115: (  2) * Tusk - Fleetwood Mac
-116: (  2) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
-117: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & The Aces
-118: (  1) - Acquaintance - Willie Nelson
-119: (  1) * Altered Images 12 Inch Mix - Altered Images
-120: (  1) - Anarchy In The Uk - 30 Years Of Punk - Sex Pistols
-121: (  1) - Anarchy In The Uk - 30 Years Of Punk - The Damned
-122: (  1) - Anarchy In The Uk - 30 Years Of Punk - The Stranglers
-123: (  1) * Anchors & Anvils - Amy LaVere
-124: (  1) * Andromeda Heights - Prefab Sprout
-125: (  1) * Architecture & Morality [Bonus Tracks] - Orchestral Manoeuvres in the Dark
-126: (  1) * Before The Flood (Disc 1) - Bob Dylan
-127: (  1) * Beyond Leap - Martin Stephenson
-128: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
-129: (  1) - Breakout - Louisa Mark
-130: (  1) - Butcher Holler - Eilen Jewell
-131: (  1) * Cabin Fever - Corb Lund
-132: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & The Wailers
-133: (  1) - Celebration - Simple Minds
-134: (  1) - Cleaning Out The Ashtrays Cd1 - One Red Wine Glass - Lloyd Cole
-135: (  1) - Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model - Lloyd Cole
-136: (  1) - Cleaning Out The Ashtrays Cd3 - Dangerous Music - Lloyd Cole
-137: (  1) - Close To The Bone - Bonus - Tom Tom Club
-138: (  1) * Desire - Bob Dylan
-139: (  1) - Drumming The Beating Heart - Eyeless in Gaza
-140: (  1) * Electric Warrior - T. Rex
-141: (  1) - Essential Reggae - 20 Reggae Classics - Sugar Minott
-142: (  1) - Gladsome Humour & Blues - Martin Stephenson And The Daintees
-143: (  1) - Gladsome, Humour & Blue - Martin Stephenson And The Daintees
+101: (  2) - Gladsome, Humour & Blue - Martin Stephenson And The Daintees
+102: (  2) - Grrr! - The Rolling Stones
+103: (  2) * Horse Soldier! Horse Soldier! - Corb Lund
+104: (  2) * I Took Up The Runes - Jan Garbarek
+105: (  2) - In Time - The Mavericks
+106: (  2) * Infidels (Remastered 2003) - Bob Dylan
+107: (  2) - Look - Beth Nielsen Chapman
+108: (  2) * Meanwhile, As Night Falls... - Angie Palmer
+109: (  2) * New Gold Dream (81-82-83-84) - Simple Minds
+110: (  2) * Oh My God, Charlie Darwin - The Low Anthem
+111: (  2) - Old Yellow Moon - Emmylou Harris
+112: (  2) * Saved - Bob Dylan
+113: (  2) * Seven Dials - Roddy Frame
+114: (  2) - The '81 Demos - Weekend
+115: (  2) * The City's Hot Yeah The City's Hot - JT and the Clouds
+116: (  2) * The King Is Dead - The Decemberists
+117: (  2) * Tusk - Fleetwood Mac
+118: (  2) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
+119: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & The Aces
+120: (  1) - Acquaintance - Willie Nelson
+121: (  1) * Altered Images 12 Inch Mix - Altered Images
+122: (  1) - Anarchy In The Uk - 30 Years Of Punk - Sex Pistols
+123: (  1) - Anarchy In The Uk - 30 Years Of Punk - The Damned
+124: (  1) - Anarchy In The Uk - 30 Years Of Punk - The Stranglers
+125: (  1) * Anchors & Anvils - Amy LaVere
+126: (  1) * Andromeda Heights - Prefab Sprout
+127: (  1) * Architecture & Morality [Bonus Tracks] - Orchestral Manoeuvres in the Dark
+128: (  1) * Before The Flood (Disc 1) - Bob Dylan
+129: (  1) * Beyond Leap - Martin Stephenson
+130: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
+131: (  1) - Breakout - Louisa Mark
+132: (  1) - Butcher Holler - Eilen Jewell
+133: (  1) * Cabin Fever - Corb Lund
+134: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & The Wailers
+135: (  1) - Celebration - Simple Minds
+136: (  1) - Cleaning Out The Ashtrays Cd1 - One Red Wine Glass - Lloyd Cole
+137: (  1) - Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model - Lloyd Cole
+138: (  1) - Cleaning Out The Ashtrays Cd3 - Dangerous Music - Lloyd Cole
+139: (  1) - Close To The Bone - Bonus - Tom Tom Club
+140: (  1) * Desire - Bob Dylan
+141: (  1) - Drumming The Beating Heart - Eyeless in Gaza
+142: (  1) * Electric Warrior - T. Rex
+143: (  1) - Essential Reggae - 20 Reggae Classics - Sugar Minott
 144: (  1) * Hard Rain - Bob Dylan
 145: (  1) * Harlem River Blues - Justin Townes Earle
 146: (  1) - Heartbeat - Rudy Thomas
@@ -189,40 +189,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 163: (  1) - Marcus Garvey: The Best Of Burning Spear - Burning Spear
 164: (  1) - Memorial Album - Don Drummond & The Skatalites
 165: (  1) - Music For Sixties - Manfred Mann
-166: (  1) - New Gold Dream (81 82 83 84) - Simple Minds
-167: (  1) - New Gold Dream (81/82/83/84) - Simple Minds
-168: (  1) - No Regrets: The Best Of Scott Walker & The Walker Brothers - The Walker Brothers
-169: (  1) * October - U2
-170: (  1) * Old Sticks To Scare A Bird - Angie Palmer
-171: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
-172: (  1) - Pelican West Plus - Haircut 100
-173: (  1) - Platinum - Miranda Lambert
-174: (  1) * Popera: The Singles Collection - The Associates
-175: (  1) * Postcard Singles - Josef K
-176: (  1) * Queen Of The Minor Key - Eilen Jewell
-177: (  1) * Raising Sand - Robert Plant & Alison Krauss
-178: (  1) - Rattlesnakes - Lloyd Cole and The Commotions
-179: (  1) - Reading Writing And Arithmetic - The Sundays
-180: (  1) * Reading, Writing & Arithmetic - The Sundays
-181: (  1) - Replicas - Gary Numan
-182: (  1) * Second Sight - Corinne West
-183: (  1) - Sons And Fascination/Sister Feelings Call - Simple Minds
-184: (  1) * Street Legal - Bob Dylan
-185: (  1) - Take Me Home - The Redlands Palomino Company
-186: (  1) * Tales Of Light And Darkness - Angie Palmer
-187: (  1) * Tallulah - The Go-Betweens
-188: (  1) - The Bbc Sessions - Loudon Wainwright III
-189: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
-190: (  1) * The Church And The Minidisc - Martin Stephenson
-191: (  1) * The Collection - Altered Images
-192: (  1) - The Essential Mindy Smith - Mindy Smith
-193: (  1) - The Greatest Ones Alive (Sarah First Master) - Sarah MacDougall
-194: (  1) * The Monkees Collection - The Monkees
-195: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
-196: (  1) - This Year's Model - Bonus - Elvis Costello
-197: (  1) - Town & Country - The Vagaband
-198: (  1) - Treasure - Cocteau Twins
-199: (  1) * Unknown Pleasures - Joy Division
-200: (  1) - Wilder - The Teardrop Explodes
-201: (  1) - Willie And The Wheel - Willie Nelson & Asleep At The Wheel
-202: (  1) * World At Large - The Dust Poets
+166: (  1) - No Regrets: The Best Of Scott Walker & The Walker Brothers - The Walker Brothers
+167: (  1) * October - U2
+168: (  1) * Old Sticks To Scare A Bird - Angie Palmer
+169: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
+170: (  1) - Pelican West Plus - Haircut 100
+171: (  1) - Platinum - Miranda Lambert
+172: (  1) * Popera: The Singles Collection - The Associates
+173: (  1) * Postcard Singles - Josef K
+174: (  1) * Queen Of The Minor Key - Eilen Jewell
+175: (  1) * Raising Sand - Robert Plant & Alison Krauss
+176: (  1) - Rattlesnakes - Lloyd Cole and The Commotions
+177: (  1) - Reading Writing And Arithmetic - The Sundays
+178: (  1) * Reading, Writing & Arithmetic - The Sundays
+179: (  1) - Replicas - Gary Numan
+180: (  1) * Second Sight - Corinne West
+181: (  1) - Sons And Fascination/Sister Feelings Call - Simple Minds
+182: (  1) * Street Legal - Bob Dylan
+183: (  1) - Take Me Home - The Redlands Palomino Company
+184: (  1) * Tales Of Light And Darkness - Angie Palmer
+185: (  1) * Tallulah - The Go-Betweens
+186: (  1) * The BBC Sessions - Loudon Wainwright III
+187: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
+188: (  1) * The Church And The Minidisc - Martin Stephenson
+189: (  1) * The Collection - Altered Images
+190: (  1) - The Essential Mindy Smith - Mindy Smith
+191: (  1) * The Greatest Ones Alive - Sarah MacDougall
+192: (  1) * The Monkees Collection - The Monkees
+193: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
+194: (  1) - This Year's Model - Bonus - Elvis Costello
+195: (  1) - Town & Country - The Vagaband
+196: (  1) - Treasure - Cocteau Twins
+197: (  1) * Unknown Pleasures - Joy Division
+198: (  1) - Wilder - The Teardrop Explodes
+199: (  1) - Willie And The Wheel - Willie Nelson & Asleep At The Wheel
+200: (  1) * World At Large - The Dust Poets

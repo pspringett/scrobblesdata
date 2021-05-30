@@ -5,7 +5,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   2: ( 69) - The Complete Matrix Tapes - The Velvet Underground
   3: ( 55) - All That Reckoning - Cowboy Junkies
   4: ( 50) - The Pink Opaque - Cocteau Twins
-  5: ( 49) - Walk Between Worlds - Simple Minds
+  5: ( 49) * Crazy Heart Soundtrack - Various
+  6: ( 49) - Walk Between Worlds - Simple Minds
 
 
 
@@ -27,23 +28,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: ( 27) * Led Zeppelin - Led Zeppelin
-  7: ( 27) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan
-  8: ( 26) - Sons And Fascination/Sister Feelings Call - Simple Minds
-  9: ( 25) * Blonde On Blonde - Bob Dylan
- 10: ( 25) - Cafe Bleu - The Style Council
- 11: ( 24) - Stranger In The Alps - Phoebe Bridgers
+  7: ( 27) * Led Zeppelin - Led Zeppelin
+  8: ( 27) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan
+  9: ( 26) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 10: ( 25) * Blonde On Blonde - Bob Dylan
+ 11: ( 25) - Cafe Bleu - The Style Council
+ 12: ( 24) - Stranger In The Alps - Phoebe Bridgers
 
 
 
- 12: ( 20) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
- 13: ( 20) - The Kick Inside - Kate Bush
- 14: ( 20) - The Nashville Sound - Jason Isbell and The 400 Unit
- 15: ( 19) - Hurricane - Grace Jones
- 16: ( 18) - Barton Hollow - The Civil Wars
- 17: ( 17) - Echo & The Bunnymen - Echo & the Bunnymen
- 18: ( 17) - Siren - Roxy Music
- 19: ( 16) - Crazy Heart - Jeff Bridges
+ 13: ( 20) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
+ 14: ( 20) - The Kick Inside - Kate Bush
+ 15: ( 20) - The Nashville Sound - Jason Isbell and The 400 Unit
+ 16: ( 19) - Hurricane - Grace Jones
+ 17: ( 18) - Barton Hollow - The Civil Wars
+ 18: ( 17) - Echo & The Bunnymen - Echo & the Bunnymen
+ 19: ( 17) - Siren - Roxy Music
  20: ( 16) - Head Over Heels - Cocteau Twins
 
  21: ( 14) - Forgiven, Not Forgotten - The Corrs
@@ -76,34 +76,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  48: (  8) - Tiny Dynamine - Cocteau Twins
  49: (  7) - Introducing The Style Council - The Style Council
  50: (  7) * Seven Dials - Roddy Frame
- 51: (  6) - Crazy Heart - Colin Farrell
- 52: (  6) - Crazy Heart - Ryan Bingham
- 53: (  4) - Peel Sessions 1981 - The Cure
- 54: (  3) - Crazy Heart - Buck Owens
- 55: (  3) - Crazy Heart - Lightnin' Hopkins
- 56: (  3) - Crazy Heart - Robert Duvall
- 57: (  3) - Crazy Heart - Sam Phillips
- 58: (  3) - Crazy Heart - The Louvin Brothers
- 59: (  3) - Crazy Heart - Townes Van Zandt
- 60: (  3) - Crazy Heart - Waylon Jennings
- 61: (  2) - Pelican West Plus - Haircut 100
- 62: (  1) -  - dcoops
- 63: (  1) - A's, B's And Rarities - Suzi Quatro
- 64: (  1) - Best Of - Middle Of The Road
- 65: (  1) - Halcyon Days - Strawbs
- 66: (  1) - I'm In Love With A German Film Star - The Passions
- 67: (  1) - In The Summer Time - Mungo Jerry
- 68: (  1) - La Variete - Weekend
- 69: (  1) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
- 70: (  1) - Music For Sixties - Manfred Mann
- 71: (  1) - Reel To Real Cacophony - Simple Minds
- 72: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
- 73: (  1) - Snap, Crackle & Bop - John Cooper Clarke
- 74: (  1) - Stealers Wheel - Stealers Wheel
- 75: (  1) - Sub-Stance - Department S
- 76: (  1) - Suzanne Vega - Suzanne Vega
- 77: (  1) * The Collection - Altered Images
- 78: (  1) - The Wrong People - Furniture
- 79: (  1) - Tin Drum - Japan
- 80: (  1) - Top 100 80S - New Order
- 81: (  1) - You And Me Both - Yazoo
+ 51: (  4) - Peel Sessions 1981 - The Cure
+ 52: (  2) - Pelican West Plus - Haircut 100
+ 53: (  1) -  - dcoops
+ 54: (  1) - A's, B's And Rarities - Suzi Quatro
+ 55: (  1) - Best Of - Middle Of The Road
+ 56: (  1) - Halcyon Days - Strawbs
+ 57: (  1) - I'm In Love With A German Film Star - The Passions
+ 58: (  1) - In The Summer Time - Mungo Jerry
+ 59: (  1) - La Variete - Weekend
+ 60: (  1) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
+ 61: (  1) - Music For Sixties - Manfred Mann
+ 62: (  1) - Reel To Real Cacophony - Simple Minds
+ 63: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+ 64: (  1) - Snap, Crackle & Bop - John Cooper Clarke
+ 65: (  1) - Stealers Wheel - Stealers Wheel
+ 66: (  1) - Sub-Stance - Department S
+ 67: (  1) - Suzanne Vega - Suzanne Vega
+ 68: (  1) * The Collection - Altered Images
+ 69: (  1) - The Wrong People - Furniture
+ 70: (  1) - Tin Drum - Japan
+ 71: (  1) - Top 100 80S - New Order
+ 72: (  1) - You And Me Both - Yazoo
