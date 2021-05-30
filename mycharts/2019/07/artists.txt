@@ -1,6 +1,6 @@
 Specified year (2019), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     296            16            22           211
+     296            15            22           211
   1: ( 61) - Jim Lauderdale
   2: ( 39) - Bob Dylan
 
@@ -14,18 +14,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: ( 27) - Martin Stephenson and the Daintees
+
+
+  4: ( 24) - The Cure
 
 
 
-  3: ( 24) - The Cure
+  5: ( 20) - Rod Stewart
+  6: ( 20) - Van Morrison
 
 
 
-  4: ( 20) - Rod Stewart
-  5: ( 20) - Van Morrison
-
-
-  6: ( 17) - Martin Stephenson And The Daintees
 
   7: ( 15) - Hem
   8: ( 14) - David Bowie
@@ -34,7 +34,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  10: ( 12) - Talking Heads
  11: ( 11) - Eyeless in Gaza
  12: ( 11) - U2
- 13: ( 10) - Easy Star All-Stars
- 14: ( 10) - Martin Stephenson and the Daintees
- 15: (  9) - Amy LaVere
- 16: (  9) - Roxy Music
+ 13: ( 10) - Easy Star All-stars
+ 14: (  9) - Amy LaVere
+ 15: (  9) - Roxy Music

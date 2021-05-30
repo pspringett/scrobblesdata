@@ -26,20 +26,17 @@ compilations = {
 class Fixup:
     def __init__(self):
 
-        self.read_artist()
-        self.read_album()
+        self.artists = self.read_artist(fixup_path)
+        self.albums = self.read_album(fixup_path)
 
         # This maps a variant album name, to a new album, it is a simple dictionary.
-        fqpath = os.path.join(fixup_path, "variant_albums.json")
-        with open(fqpath, "r") as fp:
-            self.variants = json.load(fp)
+        self.variants = self.read_variants(fixup_path)
 
         # This maps an album name with a corrected artist.
-        fqpath = os.path.join(fixup_path, "fixup_artists.json")
-        with open(fqpath, "r") as fp:
-            fixup_artist = json.load(fp)
+        self.artists = self.read_artist(fixup_path)
 
         # This maps an album name with a corrected artist.
+        self.artist_from_album = self.read_artist_from_album(fixup_path)
         fqpath = os.path.join(fixup_path, "fixup.json")
         with open(fqpath, "r") as fp:
             fixup_artist_from_album = json.load(fp)
@@ -72,63 +69,68 @@ class Fixup:
         new_album = self.fixup_album(new_album)
         new_album = self.fixup_variants(new_album)
 
-        new_artist = self.fixup_artist(artist)
+        new_artist = self.fixup_artist(new_artist)
         new_artist = self.fixup_artist_by_album(new_album, new_artist)
 
         return (new_artist, new_album)
 
-    def read_artist(self):
+    def read_album(self, ficup_path):
+        # The fixup albums needs converting to a dictionary maping old album to new album.
+        new_albums = {}
+        fqname = os.path.join(fixup_path, "fixup_albums.json")
+        with open(fqname, "r") as fp:
+            fixup_album = json.load(fp)
+
+        self.albums = {}
+        for item in fixup_album:
+            m_album = item["m_album"].lower()
+            new_albums[m_album] = item["n_album"]
+
+        return new_albums
+
+    def read_artist(self, fixup_path):
         # The fixup artists needs converting to a dictionary mapping old to new artist.
+        new_artists = {}
         fqpath = os.path.join(fixup_path, "fixup_artists.json")
+
         with open(fqpath, "r") as fp:
             fixup_artist = json.load(fp)
 
         self.artists = {}
         for item in fixup_artist:
-            self.artists[item["m_artist"]] = item["n_artist"]
+            m_artist = item["m_artist"].lower()
+            new_artists[m_artist] = item["n_artist"]
 
-    def fixup_artist(self, artist):
+        return new_artists
 
-        try:
-            return self.artists[artist]
-        except KeyError:
-            return artist
+    def read_variants(self, fixup_path):
+        """
+        This is a dictionary. Each key must be converted to lower case
+        """
+        fqname = os.path.join(fixup_path, "variant_albums.json")
+        new_variants = {}
+        with open(fqname, "r") as fp:
+            variants = json.load(fp)
 
-        return artist
+        for key, value in variants.items():
+            new_variants[key.lower()] = value
 
-    def read_album(self):
-        # The fixup albums needs converting to a dictionary maping old album to new album.
-        fqpath = os.path.join(fixup_path, "fixup_albums.json")
-        with open(fqpath, "r") as fp:
-            fixup_album = json.load(fp)
+        return new_variants
 
-        self.albums = {}
-        for item in fixup_album:
-            self.albums[item["m_album"]] = item["n_album"]
+    def read_artist_from_album(self, fixup_path):
 
-    def fixup_album(self, album):
-        try:
-            return self.albums[album]
-        except KeyError:
-            return album
+        new_artist_from_album = {}
 
-        return album
+        fqname = os.path.join(fixup_path, "fixup.json")
 
-    def fixup_variants(self, album):
-        try:
-            return self.variants[album]
-        except KeyError:
-            return album
+        with open(fqname, "r") as fp:
+            fixup_artist_from_album = json.load(fp)
 
-        return album
+        for item in fixup_artist_from_album:
+            m_album = item["m_album"].lower()
+            new_artist_from_album[m_album] = item["n_artist"]
 
-    def fixup_artist_by_album(self, album, artist):
-        try:
-            return self.artist_from_album[album]
-        except KeyError:
-            return artist
-
-        return artist
+        return new_artist_from_album
 
     def read_boxset(self, fqpath):
         # This maps an album name which is a box-set, and based on the track maps it to an actual album.
@@ -142,21 +144,54 @@ class Fixup:
 
             new_track_info = {}
             for track_info in tracks:
-                track = track_info["m_track"]
+                track = track_info["m_track"].lower()
                 new_album = track_info["n_album"]
                 new_track_info[track] = new_album
                 break
-            new_boxset[boxset_title] = new_track_info
+            new_boxset[boxset_title.lower()] = new_track_info
             break
 
         return new_boxset
 
+    def fixup_artist(self, artist):
+
+        try:
+            return self.artists[artist.lower()]
+        except KeyError:
+            return artist
+
+        return artist
+
+    def fixup_album(self, album):
+        try:
+            return self.albums[album.lower()]
+        except KeyError:
+            return album
+
+        return album
+
+    def fixup_variants(self, album):
+        try:
+            return self.variants[album.lower()]
+        except KeyError:
+            return album
+
+        return album
+
+    def fixup_artist_by_album(self, album, artist):
+        try:
+            return self.artist_from_album[album.lower()]
+        except KeyError:
+            return artist
+
+        return artist
+
     def fixup_boxset(self, artist, album, track):
 
         try:
-            album_by_track = self.boxset[album]
+            album_by_track = self.boxset[album.lower()]
             try:
-                return album_by_track[track]
+                return album_by_track[track.lower()]
             except KeyError:
                 return album
         except KeyError:
@@ -170,7 +205,8 @@ class Fixup:
 
         words = sentance.split()
 
-        for word in words:
+        new_sentance.append(words[0].title())
+        for word in words[1:]:
             word = word.lower()
             if word in small_words:
                 new_sentance.append(word)

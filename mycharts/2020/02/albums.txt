@@ -1,6 +1,6 @@
 Specified year (2020), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2272           119           107           865
+    2272           118           107           865
   1: ( 76) - Life's A Riot With Spy Vs. Spy (30Th Anniversary Edition) - Billy Bragg
   2: ( 72) - Sunshine On Leith - The Proclaimers
   3: ( 66) - Dandy In The Underworld (Deluxe Edition) - T. Rex
@@ -60,7 +60,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  43: ( 22) - Aikea-Guinea - Cocteau Twins
  44: ( 22) * Boy - U2
- 45: ( 22) - California Star - Martin Stephenson And The Daintees
+ 45: ( 22) * California Star - Martin Stephenson and the Daintees
  46: ( 22) - Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model - Lloyd Cole
  47: ( 22) - In Concert 1987 - New Order
  48: ( 22) - Sex And Gasoline - Rodney Crowell
@@ -110,12 +110,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  84: (  4) - Land Of No Junction - Aoife Nessa Frances
  85: (  4) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
  86: (  4) - Uncut 2016-12 - The Hustle - Dump
- 87: (  4) - Uncut 2016-12 - The Hustle - Nick Cave & The Bad Seeds
+ 87: (  4) - Uncut 2016-12 - The Hustle - Nick Cave & the Bad Seeds
  88: (  2) * Altered Images 12 Inch Mix - Altered Images
  89: (  2) - Concrete And Glass - Nicolas Godin
  90: (  2) - Crushing - Julia Jacklin
  91: (  2) - Designer - Aldous Harding
- 92: (  2) - Dogrel - Fontaines D.C.
+ 92: (  2) - Dogrel - Fontaines D.c.
  93: (  2) - Dream On - Alice Boman
  94: (  2) - Goodbye, Blue Sky - Mr. Elevator
  95: (  2) - I Was Born Swimming - Squirrel Flower
@@ -123,8 +123,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  97: (  2) - Like The River Loves The Sea - Joan Shelley
  98: (  2) - Nature - Modern Nature
  99: (  2) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
-100: (  2) - Nijimusi - OOIOO
-101: (  2) - Odd West - Jason McMahon
+100: (  2) - Nijimusi - Ooioo
+101: (  2) - Odd West - Jason Mcmahon
 102: (  2) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
 103: (  2) - Purple Mountains - Purple Mountains
 104: (  2) - Reflected Images - The Best Of Altered Images - Altered Images

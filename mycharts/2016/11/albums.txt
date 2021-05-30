@@ -1,6 +1,6 @@
 Specified year (2016), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1447            62            83           741
+    1447            61            83           741
   1: ( 63) * Rabbit Songs - Hem
   2: ( 63) * Songs From A Room - Leonard Cohen
   3: ( 62) - Popular Problems - Leonard Cohen
@@ -27,7 +27,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 16: ( 29) - Live At Union Chapel - Lloyd Cole
+ 16: ( 29) * Live At Union Chapel 2016 - Lloyd Cole
 
  17: ( 27) - Saturns Pattern - Paul Weller
 
@@ -64,14 +64,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  44: ( 11) * Broken Record - Lloyd Cole
  45: ( 11) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
  46: ( 11) * Stumble Into Grace - Emmylou Harris
- 47: ( 11) - Western Skies - Roddy Frame
- 48: ( 10) - A Creature I Don't Know - Laura Marling
- 49: ( 10) * Don't Fade - The Redlands Palomino Company
- 50: ( 10) - Life's Hard And Then You Die - It's Immaterial
- 51: ( 10) - Old Ideas - Leonard Cohen
- 52: ( 10) - Revival - Gillian Welch
- 53: ( 10) - Strange Angels - Kristin Hersh
- 54: ( 10) - The Outsider - Rodney Crowell
+ 47: ( 11) - The Outsider - Rodney Crowell
+ 48: ( 11) - Western Skies - Roddy Frame
+ 49: ( 10) - A Creature I Don't Know - Laura Marling
+ 50: ( 10) * Don't Fade - The Redlands Palomino Company
+ 51: ( 10) - Life's Hard And Then You Die - It'S Immaterial
+ 52: ( 10) - Old Ideas - Leonard Cohen
+ 53: ( 10) - Revival - Gillian Welch
+ 54: ( 10) - Strange Angels - Kristin Hersh
  55: ( 10) - Traveling Companion - Tift Merritt
  56: ( 10) - Under Branch & Thorn & Tree - Samantha Crain
  57: (  9) - Love - Aztec Camera
@@ -99,7 +99,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  79: (  1) - Second Flight - Pilot
  80: (  1) - Slow Gum - Fraser A. Gorman
  81: (  1) - Songs - John Fullbright
- 82: (  1) - The Outsider - Rodney Crowell (duet with Emmylou Harris)
- 83: (  1) - Utah - Jamestown Revival
- 84: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
- 85: (  1) - Wouldn't You Like It - Bay City Rollers
+ 82: (  1) - Utah - Jamestown Revival
+ 83: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
+ 84: (  1) - Wouldn't You Like It - Bay City Rollers

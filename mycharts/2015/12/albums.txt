@@ -1,6 +1,6 @@
 Specified year (2015), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     904            87           120           716
+     904            85           120           716
   1: ( 48) * Eveningland - Hem
 
 
@@ -57,12 +57,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  31: ( 11) - Alabama Song (International Version) - Allison Moorer
  32: ( 11) - Burnin' - The Wailers
  33: ( 11) * Heaven Up Here - Echo & the Bunnymen
- 34: ( 11) * She Ain't Me - Carrie Rodriguez
- 35: ( 11) * Swoon - Prefab Sprout
- 36: ( 11) * The Unforgettable Fire - U2
- 37: ( 10) - Bramble Rose - Tift Merritt
- 38: ( 10) * Mountains/Forests - JT Nero
- 39: ( 10) - Platinum - Miranda Lambert
+ 34: ( 11) - Platinum - Miranda Lambert
+ 35: ( 11) * She Ain't Me - Carrie Rodriguez
+ 36: ( 11) * Swoon - Prefab Sprout
+ 37: ( 11) * The Unforgettable Fire - U2
+ 38: ( 10) - Bramble Rose - Tift Merritt
+ 39: ( 10) * Mountains/Forests - JT Nero
  40: ( 10) * Roxy Music - Roxy Music
  41: ( 10) * Seventeen Seconds - The Cure
  42: ( 10) - Songs To Play - Robert Forster
@@ -78,14 +78,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  52: (  8) * Tom Tom Club - Tom Tom Club
  53: (  7) - Introducing The Style Council - The Style Council
  54: (  7) * Thick As Thieves - Larkin Poe
- 55: (  6) - Collected Recordings 1983-1989 - Lloyd Cole and The Commotions
- 56: (  4) - Get Happy!! (Cd2) - Elvis Costello
+ 55: (  6) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
+ 56: (  4) - Get Happy!! (CD2) - Elvis Costello
  57: (  3) - Cleaning Out The Ashtrays Cd3 Dangerous Music - Lloyd Cole
  58: (  3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
  59: (  3) * Saved - Bob Dylan
  60: (  2) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
  61: (  2) * Bob Dylan At Budokan - Bob Dylan
- 62: (  2) - California Star - Martin Stephenson And The Daintees
+ 62: (  2) * California Star - Martin Stephenson and the Daintees
  63: (  2) - Close To The Bone - Tom Tom Club
  64: (  2) - Last Christmas - Wham!
  65: (  2) - Learning To Crawl - The Pretenders
@@ -100,7 +100,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  74: (  2) - What A Terrible World, What A Beautiful World - The Decemberists
  75: (  1) - A Very Special Christmas 25Th Anniversary - Alison Moyet
  76: (  1) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
- 77: (  1) - Best Of - Middle Of The Road
+ 77: (  1) - Best Of - Middle of the Road
  78: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
  79: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
  80: (  1) * Cleaning Out The Ashtrays CD1 - One Red Wine Glass - Lloyd Cole
@@ -122,28 +122,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  96: (  1) - Once Upon A Christmas - Dolly Parton
  97: (  1) - Only Yazoo - The Best Of Yazoo - Yazoo
  98: (  1) - Peace At Last - EP - Hem
- 99: (  1) - Platinum - Miranda Lambert feat. The Time Jumpers
-100: (  1) - Population: Me - Dwight Yoakam
-101: (  1) * Pornography - The Cure
-102: (  1) - Power To The People: The Hits - John Lennon
-103: (  1) - Pure... Christmas - Greg Lake
-104: (  1) * Queen Of The Minor Key - Eilen Jewell
-105: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-106: (  1) * Songs To Remember - Scritti Politti
-107: (  1) - Stage - David Bowie
-108: (  1) * Station To Station - David Bowie
-109: (  1) - Stealers Wheel - Stealers Wheel
-110: (  1) - Stop The Cavalry - Jona Lewie
-111: (  1) - Sub-Stance - Department S
-112: (  1) - The Best Of - Joy Division
-113: (  1) * The City's Hot Yeah The City's Hot - JT and the Clouds
-114: (  1) - The Essential Mindy Smith - Mindy Smith
-115: (  1) * The King Is Dead - The Decemberists
-116: (  1) - The Smiths - The Smiths
-117: (  1) * There Comes A Time - Martin Stephenson and the Daintees
-118: (  1) - This Year's Model - Bonus - Elvis Costello
-119: (  1) * This Year's Model - Elvis Costello & the Attractions
-120: (  1) - This Year's Model - Live 1978 - Elvis Costello
-121: (  1) * Trouble In Mind - Hayes Carll
-122: (  1) * World At Large - The Dust Poets
-123: (  1) - You And Me Both - Yazoo
+ 99: (  1) - Population: Me - Dwight Yoakam
+100: (  1) * Pornography - The Cure
+101: (  1) - Power To The People: The Hits - John Lennon
+102: (  1) - Pure... Christmas - Greg Lake
+103: (  1) * Queen Of The Minor Key - Eilen Jewell
+104: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+105: (  1) * Songs To Remember - Scritti Politti
+106: (  1) - Stage - David Bowie
+107: (  1) * Station To Station - David Bowie
+108: (  1) - Stealers Wheel - Stealers Wheel
+109: (  1) - Stop The Cavalry - Jona Lewie
+110: (  1) - Sub-Stance - Department S
+111: (  1) - The Best Of - Joy Division
+112: (  1) * The City's Hot Yeah The City's Hot - JT and the Clouds
+113: (  1) - The Essential Mindy Smith - Mindy Smith
+114: (  1) * The King Is Dead - The Decemberists
+115: (  1) - The Smiths - The Smiths
+116: (  1) * There Comes A Time - Martin Stephenson and the Daintees
+117: (  1) - This Year's Model - Bonus - Elvis Costello
+118: (  1) * This Year's Model - Elvis Costello & the Attractions
+119: (  1) - This Year's Model - Live 1978 - Elvis Costello
+120: (  1) * Trouble In Mind - Hayes Carll
+121: (  1) * World At Large - The Dust Poets
+122: (  1) - You And Me Both - Yazoo

@@ -1,6 +1,6 @@
 Specified year (2017), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1272            52            76           691
+    1272            51            76           691
   1: (163) - Laura Marling
   2: ( 98) - Cowboy Junkies
   3: ( 86) - Orchestral Manoeuvres in the Dark
@@ -17,8 +17,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  10: ( 34) - The Smiths
- 11: ( 33) - Yazoo
- 12: ( 32) - Rodney Crowell
+ 11: ( 33) - Rodney Crowell
+ 12: ( 33) - Yazoo
+
 
  13: ( 30) - ABC
 
@@ -45,8 +46,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  28: ( 14) - Brian Eno
  29: ( 14) - The Undertones
  30: ( 14) - case/lang/veirs
- 31: ( 13) - Lloyd Cole and The Commotions
- 32: ( 12) - It's Immaterial
+ 31: ( 13) - Lloyd Cole and the Commotions
+ 32: ( 12) - It'S Immaterial
  33: ( 12) - Lizanne Knott
  34: ( 12) - Marc Bolan
  35: ( 11) - JT and the Clouds
@@ -62,8 +63,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  45: (  6) - Orange Juice
  46: (  5) - The Redlands Palomino Company
  47: (  4) - Edwyn Collins
- 48: (  3) - Alex de Grassi
+ 48: (  3) - Alex De Grassi
  49: (  3) - Bob Marley
  50: (  3) - Haircut 100
- 51: (  1) - Rodney Crowell (duet with Emmylou Harris)
- 52: (  1) - The Wailers
+ 51: (  1) - The Wailers

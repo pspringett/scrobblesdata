@@ -1,6 +1,6 @@
 Specified year (2017), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1272            52            76           691
+    1272            51            76           691
   1: (145) - Once I Was An Eagle - Laura Marling
   2: ( 65) - Pale Sun Crescent Moon - Cowboy Junkies
   3: ( 50) - Junk Culture - Orchestral Manoeuvres in the Dark
@@ -44,7 +44,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  29: ( 12) * Alas I Cannot Swim - Laura Marling
  30: ( 12) - Dandy In The Underworld (Deluxe Edition) - T. Rex
  31: ( 12) - Excellent Day - Lizanne Knott
- 32: ( 12) - Life's Hard And Then You Die - It's Immaterial
+ 32: ( 12) - Life's Hard And Then You Die - It'S Immaterial
  33: ( 12) - Old Yellow Moon - Emmylou Harris
  34: ( 12) - Red Dirt Girl - Emmylou Harris
  35: ( 12) - Tanx (The Visconti Master) - T. Rex
@@ -56,12 +56,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  41: ( 11) - Speaking In Tongues - Talking Heads
  42: ( 11) - Tarpaper Sky - Rodney Crowell
  43: ( 11) - The Houston Kid - Rodney Crowell
- 44: ( 10) - Easy Pieces - Lloyd Cole and The Commotions
- 45: ( 10) * Roxy Music - Roxy Music
- 46: ( 10) * Tallulah - The Go-Betweens
- 47: ( 10) - The Flame And The Pelican - Jack Harris
- 48: ( 10) * The North Star - Roddy Frame
- 49: ( 10) - The Outsider - Rodney Crowell
+ 44: ( 11) - The Outsider - Rodney Crowell
+ 45: ( 10) - Easy Pieces - Lloyd Cole and the Commotions
+ 46: ( 10) * Roxy Music - Roxy Music
+ 47: ( 10) * Tallulah - The Go-Betweens
+ 48: ( 10) - The Flame And The Pelican - Jack Harris
+ 49: ( 10) * The North Star - Roddy Frame
  50: (  9) - Love - Aztec Camera
  51: (  9) - Miles From Our Home - Cowboy Junkies
  52: (  9) - Penthouse And Pavement - Heaven 17
@@ -85,9 +85,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  70: (  4) - Pin Ups - David Bowie
  71: (  4) - Tambourine - Tift Merritt
  72: (  3) - Burnin' - Bob Marley
- 73: (  3) - Collected Recordings 1983-1989 - Lloyd Cole and The Commotions
+ 73: (  3) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
  74: (  3) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
- 75: (  3) - The Water Garden - Alex de Grassi
+ 75: (  3) - The Water Garden - Alex De Grassi
  76: (  1) - Burnin' - The Wailers
  77: (  1) - One Soul Now - Cowboy Junkies
- 78: (  1) - The Outsider - Rodney Crowell (duet with Emmylou Harris)

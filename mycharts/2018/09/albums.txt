@@ -1,6 +1,6 @@
 Specified year (2018), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     894            67            84           609
+     894            66            84           609
   1: ( 98) - Are You Experienced - Jimi Hendrix
   2: ( 40) - Ode To Billie Joe - Bobbie Gentry
 
@@ -39,7 +39,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  20: ( 13) * Departure And Farewell - Hem
  21: ( 12) - Gathering - Josh Ritter
  22: ( 12) * Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
- 23: ( 12) - Mainstream - Lloyd Cole and The Commotions
+ 23: ( 12) - Mainstream - Lloyd Cole and the Commotions
  24: ( 12) - My Love Is Cool - Wolf Alice
  25: ( 12) - Scheherazade - Freakwater
  26: ( 12) - Sermon On The Rocks - Josh Ritter
@@ -58,10 +58,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: ( 10) - Head Over Heels - Cocteau Twins
  40: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
  41: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
- 42: ( 10) - The Nashville Sound - Jason Isbell and The 400 Unit
- 43: (  9) * Closer - Joy Division
- 44: (  9) * Mountains/Forests - JT Nero
- 45: (  9) - The Outsider - Rodney Crowell
+ 42: ( 10) - The Nashville Sound - Jason Isbell and the 400 Unit
+ 43: ( 10) - The Outsider - Rodney Crowell
+ 44: (  9) * Closer - Joy Division
+ 45: (  9) * Mountains/Forests - JT Nero
  46: (  8) - Love - Aztec Camera
  47: (  8) * Plastic Wood - Lloyd Cole
  48: (  8) * Power, Corruption & Lies - New Order
@@ -69,14 +69,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  50: (  6) - A New Career In A New Town (1977 - 1982) - David Bowie
  51: (  5) - Eurovision Song Contest Lisbon 2018 - Various
  52: (  5) - Hope Downs - Rolling Blackouts Coastal Fever
- 53: (  5) - I'm All Ears - Let's Eat Grandma
+ 53: (  5) - I'm All Ears - Let'S Eat Grandma
  54: (  5) - The Future And The Past - Natalie Prass
  55: (  5) - Tracyanne & Danny - Tracyanne & Danny
  56: (  4) - Ecstatic Arrow - Virginia Wing
  57: (  4) - Hell-On - Neko Case
  58: (  4) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
  59: (  4) - Understand What Black Is - The Last Poets
- 60: (  3) - Bon Voyage - Melody's Echo Chamber
+ 60: (  3) - Bon Voyage - Melody'S Echo Chamber
  61: (  3) - Brushes With Happiness - The Wave Pictures
  62: (  3) - Deran - Bombino
  63: (  3) - Downey To Lubbock - Jimmie Dale Gilmore
@@ -84,7 +84,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  65: (  3) - Putting On Airs - Erin Rae
  66: (  2) - Chris - Christine and the Queens
  67: (  2) - It's A New Day Tonight - Michael Rault
- 68: (  1) -  - dcoops
+ 68: (  1) -  - Dcoops
  69: (  1) - Another Country - Tift Merritt
  70: (  1) - Be Released - Virginia Wing
  71: (  1) - Bramble Rose - Tift Merritt
@@ -101,5 +101,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  82: (  1) - Pastorale Vassant - Jon Hassel
  83: (  1) - Tambourine - Tift Merritt
  84: (  1) - The Burnt Match - The Wave Pictures
- 85: (  1) - The Outsider - Rodney Crowell (duet with Emmylou Harris)
- 86: (  1) - Wilder - The Teardrop Explodes
+ 85: (  1) - Wilder - The Teardrop Explodes

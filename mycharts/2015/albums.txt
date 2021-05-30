@@ -1,6 +1,6 @@
 Specified year (2015)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3696           308           348          2248
+    3696           306           347          2248
   1: (125) - The Story Of Trojan Records - Various
   2: (118) - Traveling Alone - Tift Merritt
   3: ( 63) - Country Life - Roxy Music
@@ -57,7 +57,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  46: ( 21) * Horse Soldier! Horse Soldier! - Corb Lund
  47: ( 21) * Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
  48: ( 20) - All These Dreams - Andrew Combs
- 49: ( 20) - Get Happy!! (Cd2) - Elvis Costello
+ 49: ( 20) - Get Happy!! (CD2) - Elvis Costello
  50: ( 20) * The North Star - Roddy Frame
  51: ( 19) * Alas I Cannot Swim - Laura Marling
  52: ( 19) * Jordan: The Comeback - Prefab Sprout
@@ -105,19 +105,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  94: ( 13) * High 7 Moon 5 - Martin Stephenson
  95: ( 13) * Old Sticks To Scare A Bird - Angie Palmer
  96: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
- 97: ( 13) * Rabbit Songs - Hem
- 98: ( 13) * Sea Of Tears - Eilen Jewell
- 99: ( 13) * The City's Hot Yeah The City's Hot - JT and the Clouds
-100: ( 13) * The Trinity Session - Cowboy Junkies
-101: ( 13) - You Can't Hide Your Love Forever - Orange Juice
-102: ( 12) - American Kid - Patty Griffin
-103: ( 12) * Anchors & Anvils - Amy LaVere
-104: ( 12) * Beautiful World - Eliza Gilkyson
-105: ( 12) * Birds Of Chicago - Birds of Chicago
-106: ( 12) * Harlem River Blues - Justin Townes Earle
-107: ( 12) * Hope And Despair - Edwyn Collins
-108: ( 12) * Organisation - Orchestral Manoeuvres in the Dark
-109: ( 12) - Platinum - Miranda Lambert
+ 97: ( 13) - Platinum - Miranda Lambert
+ 98: ( 13) * Rabbit Songs - Hem
+ 99: ( 13) * Sea Of Tears - Eilen Jewell
+100: ( 13) * The City's Hot Yeah The City's Hot - JT and the Clouds
+101: ( 13) * The Trinity Session - Cowboy Junkies
+102: ( 13) - You Can't Hide Your Love Forever - Orange Juice
+103: ( 12) - American Kid - Patty Griffin
+104: ( 12) * Anchors & Anvils - Amy LaVere
+105: ( 12) * Beautiful World - Eliza Gilkyson
+106: ( 12) * Birds Of Chicago - Birds of Chicago
+107: ( 12) * Harlem River Blues - Justin Townes Earle
+108: ( 12) * Hope And Despair - Edwyn Collins
+109: ( 12) * Organisation - Orchestral Manoeuvres in the Dark
 110: ( 12) * The Bootlegger's Daughter - Rachel Harrington
 111: ( 12) * The Greatest Ones Alive - Sarah MacDougall
 112: ( 11) * Boy - U2
@@ -135,7 +135,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 124: ( 11) * Stumble Into Grace - Emmylou Harris
 125: ( 11) * The Unforgettable Fire - U2
 126: ( 11) * This Year's Model - Bonus - Elvis Costello & the Attractions
-127: ( 10) - Anarchy In The Uk - 30 Years Of Punk - Various
+127: ( 10) - Anarchy in the UK - 30 Years Of Punk - Various
 128: ( 10) * From Langley Park To Memphis - Prefab Sprout
 129: ( 10) - Get Happy!! - Elvis Costello
 130: ( 10) - Head Over Heels - Cocteau Twins
@@ -176,9 +176,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 165: (  7) - This Year's Model - Live 1978 - Elvis Costello
 166: (  7) * Welcome To Scullyville - Martin Stephenson
 167: (  6) - Close To The Bone - Tom Tom Club
-168: (  6) - Collected Recordings 1983-1989 - Lloyd Cole and The Commotions
+168: (  6) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
 169: (  6) * David Bowie - David Bowie
-170: (  6) - Gladsome, Humour & Blue - Martin Stephenson And The Daintees
+170: (  6) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
 171: (  6) - Golden Apples Of The Sun - Caroline Herring
 172: (  6) - Live At The Narrows - Eilen Jewell
 173: (  6) * The Light Fantastic - Cara Luft
@@ -200,7 +200,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 189: (  5) * Unknown Pleasures - Joy Division
 190: (  4) * Achin In Yer Bones - Romi Mayes
 191: (  4) * Blood On The Tracks - Bob Dylan
-192: (  4) - California Star - Martin Stephenson And The Daintees
+192: (  4) * California Star - Martin Stephenson and the Daintees
 193: (  4) * Firecracker - The Wailin' Jennys
 194: (  4) * High Land, Hard Rain - Aztec Camera
 195: (  4) * Infidels (Remastered 2003) - Bob Dylan
@@ -209,7 +209,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 198: (  4) - Mono - The Mavericks
 199: (  4) * Pornography - The Cure
 200: (  4) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
-201: (  4) * Rock N Roll Jamboree - Stephenson's Rocketts
+201: (  4) - Rock N Roll Jamboree - Stephenson'S Rocketts
 202: (  4) * Station To Station - David Bowie
 203: (  4) - Stealers Wheel - Stealers Wheel
 204: (  4) - Tempting The Storm - Cara Luft
@@ -223,38 +223,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 212: (  3) - Love - Aztec Camera
 213: (  3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
 214: (  3) - Peaceful, The World Lays Me Down - Noah and the Whale
-215: (  3) - See You On The Moon - Tift Merritt
-216: (  3) - Singles - New Order
-217: (  3) * Songs To Remember - Scritti Politti
-218: (  3) * Tales Of Light And Darkness - Angie Palmer
-219: (  3) - The '81 Demos - Weekend
-220: (  3) * The Negatives - Lloyd Cole
-221: (  3) - The Smiths - The Smiths
-222: (  3) - This Year's Model - Bonus - Elvis Costello
-223: (  3) * Tusk - Fleetwood Mac
-224: (  3) * Various Positions - Leonard Cohen
-225: (  3) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
-226: (  3) - When The Roses Bloom Again - Laura Cantrell
-227: (  3) * World At Large - The Dust Poets
-228: (  2) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
-229: (  2) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
-230: (  2) * Across The Atlantic - Sarah MacDougall
-231: (  2) - Being Brave - Amanda Shires
-232: (  2) * David Rodigan Summmer Of Reggae - David Rodigan
-233: (  2) - Feels Like Home - Sheryl Crow
-234: (  2) - Grrr! - The Rolling Stones
-235: (  2) * Hard Rain - Bob Dylan
-236: (  2) - I Am Shelby Lynne (Bonus Track Version) - Shelby Lynne
-237: (  2) - In Time - The Mavericks
-238: (  2) - Last Christmas - Wham!
-239: (  2) - Learning To Crawl - The Pretenders
-240: (  2) - Look - Beth Nielsen Chapman
-241: (  2) - Low - David Bowie
-242: (  2) * New Gold Dream (81-82-83-84) - Simple Minds
-243: (  2) - Old Yellow Moon - Emmylou Harris
-244: (  2) - Only Yazoo - The Best Of Yazoo - Yazoo
-245: (  2) - Pelican West Plus - Haircut 100
-246: (  2) * Reading, Writing & Arithmetic - The Sundays
+215: (  3) * Reading, Writing & Arithmetic - The Sundays
+216: (  3) - See You On The Moon - Tift Merritt
+217: (  3) - Singles - New Order
+218: (  3) * Songs To Remember - Scritti Politti
+219: (  3) * Tales Of Light And Darkness - Angie Palmer
+220: (  3) - The '81 Demos - Weekend
+221: (  3) * The Negatives - Lloyd Cole
+222: (  3) - The Smiths - The Smiths
+223: (  3) - This Year's Model - Bonus - Elvis Costello
+224: (  3) * Tusk - Fleetwood Mac
+225: (  3) * Various Positions - Leonard Cohen
+226: (  3) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
+227: (  3) - When The Roses Bloom Again - Laura Cantrell
+228: (  3) * World At Large - The Dust Poets
+229: (  2) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
+230: (  2) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
+231: (  2) * Across The Atlantic - Sarah MacDougall
+232: (  2) - Being Brave - Amanda Shires
+233: (  2) * David Rodigan Summmer Of Reggae - David Rodigan
+234: (  2) - Feels Like Home - Sheryl Crow
+235: (  2) - Grrr! - The Rolling Stones
+236: (  2) * Hard Rain - Bob Dylan
+237: (  2) - I Am Shelby Lynne (Bonus Track Version) - Shelby Lynne
+238: (  2) - In Time - The Mavericks
+239: (  2) - Last Christmas - Wham!
+240: (  2) - Learning To Crawl - The Pretenders
+241: (  2) - Look - Beth Nielsen Chapman
+242: (  2) - Low - David Bowie
+243: (  2) * New Gold Dream (81-82-83-84) - Simple Minds
+244: (  2) - Old Yellow Moon - Emmylou Harris
+245: (  2) - Only Yazoo - The Best Of Yazoo - Yazoo
+246: (  2) - Pelican West Plus - Haircut 100
 247: (  2) - Replicas - Gary Numan
 248: (  2) - Santa Claus Is Comin' To Town - Bruce Springsteen
 249: (  2) - Side By Side (Live At Spacebomb Studios) - Natalie Prass
@@ -265,7 +265,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 254: (  2) - What A Terrible World, What A Beautiful World - The Decemberists
 255: (  2) - You And Me Both - Yazoo
 256: (  1) - * Naked As Advertised – Versions 08 - Heaven 17
-257: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & The Aces
+257: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & the Aces
 258: (  1) - A Very Special Christmas 25Th Anniversary - Alison Moyet
 259: (  1) - Acquaintance - Willie Nelson
 260: (  1) * Altered Images 12 Inch Mix - Altered Images
@@ -274,12 +274,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 263: (  1) - Atlas - Real Estate
 264: (  1) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
 265: (  1) * Before The Flood (Disc 1) - Bob Dylan
-266: (  1) - Best Of - Middle Of The Road
+266: (  1) - Best Of - Middle of the Road
 267: (  1) * Beyond Leap - Martin Stephenson
 268: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
 269: (  1) - Breakout - Louisa Mark
 270: (  1) * Bringing It All Back Home - Bob Dylan
-271: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & The Wailers
+271: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & the Wailers
 272: (  1) - Celebration - Simple Minds
 273: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
 274: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
@@ -303,12 +303,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 292: (  1) * Impossible Dream - Patty Griffin
 293: (  1) - Journeys To Glory - Spandau Ballet
 294: (  1) - Just A Little Lovin' - Shelby Lynne
-295: (  1) - Life's Hard And Then You Die - It's Immaterial
+295: (  1) - Life's Hard And Then You Die - It'S Immaterial
 296: (  1) * Little Creatures - Talking Heads
 297: (  1) - Live At Blue Rock - Mary Gauthier
 298: (  1) - Marcus Garvey: The Best Of Burning Spear - Burning Spear
 299: (  1) * Mccartney II (Special Edition) - Paul McCartney
-300: (  1) - Memorial Album - Don Drummond & The Skatalites
+300: (  1) - Memorial Album - Don Drummond & the Skatalites
 301: (  1) - Merry Christmas Wherever You Are - George Strait
 302: (  1) - Music For Sixties - Manfred Mann
 303: (  1) - New Skin For The Old Ceremony - Leonard Cohen
@@ -318,47 +318,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 307: (  1) * One Moment More - Mindy Smith
 308: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
 309: (  1) - Peace At Last - EP - Hem
-310: (  1) - Platinum - Miranda Lambert feat. The Time Jumpers
-311: (  1) * Popera: The Singles Collection - The Associates
-312: (  1) - Population: Me - Dwight Yoakam
-313: (  1) * Postcard Singles - Josef K
-314: (  1) - Power To The People: The Hits - John Lennon
-315: (  1) - Pure... Christmas - Greg Lake
-316: (  1) - Rain Dogs - Tom Waits
-317: (  1) - Rattlesnakes - Lloyd Cole and The Commotions
-318: (  1) - Reading Writing And Arithmetic - The Sundays
-319: (  1) - Script Of The Bridge (Remastered) - The Chameleons
-320: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-321: (  1) * Second Sight - Corinne West
-322: (  1) - Sextet - A Certain Ratio
-323: (  1) - Small Change - Tom Waits
-324: (  1) * Songs From A Room - Leonard Cohen
-325: (  1) * Songs Of Leonard Cohen - Leonard Cohen
-326: (  1) - Songs Of Love And Hate - Leonard Cohen
-327: (  1) - Songs To Learn And Sing - Echo & the Bunnymen
-328: (  1) - Sons And Fascination/Sister Feelings Call - Simple Minds
-329: (  1) * Southside - Texas
-330: (  1) - Stage - David Bowie
-331: (  1) - Stop The Cavalry - Jona Lewie
-332: (  1) - Sub-Stance - Department S
-333: (  1) - Suit Yourself - Shelby Lynne
-334: (  1) - Take Me Home - The Redlands Palomino Company
-335: (  1) * Tallulah - The Go-Betweens
-336: (  1) - Tears, Lies And Alibis - Shelby Lynne
-337: (  1) - The 70'S Studio Album Collection - Emmylou Harris
-338: (  1) * The BBC Sessions - Loudon Wainwright III
-339: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
-340: (  1) - The Boatman's Call - Nick Cave & The Bad Seeds
-341: (  1) * The Church And The Minidisc - Martin Stephenson
-342: (  1) * The Collection - Altered Images
-343: (  1) - The Essential Leonard Cohen - Leonard Cohen
-344: (  1) - The Modern Lovers - Jonathan Richman And The Modern Lovers
-345: (  1) * The Monkees Collection - The Monkees
-346: (  1) * The Orange Juice - Orange Juice
-347: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-348: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
-349: (  1) - Town & Country - The Vagaband
-350: (  1) * Transformer - Lou Reed
-351: (  1) - Trinity Revisited - Cowboy Junkies
-352: (  1) - Ultimate Waylon Jennings - Waylon Jennings
-353: (  1) - Wilder - The Teardrop Explodes
+310: (  1) * Popera: The Singles Collection - The Associates
+311: (  1) - Population: Me - Dwight Yoakam
+312: (  1) * Postcard Singles - Josef K
+313: (  1) - Power To The People: The Hits - John Lennon
+314: (  1) - Pure... Christmas - Greg Lake
+315: (  1) - Rain Dogs - Tom Waits
+316: (  1) * Rattlesnakes - Lloyd Cole and the Commotions
+317: (  1) - Script Of The Bridge (Remastered) - The Chameleons
+318: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+319: (  1) * Second Sight - Corinne West
+320: (  1) - Sextet - A Certain Ratio
+321: (  1) - Small Change - Tom Waits
+322: (  1) * Songs From A Room - Leonard Cohen
+323: (  1) * Songs Of Leonard Cohen - Leonard Cohen
+324: (  1) - Songs Of Love And Hate - Leonard Cohen
+325: (  1) - Songs To Learn And Sing - Echo & the Bunnymen
+326: (  1) - Sons And Fascination/Sister Feelings Call - Simple Minds
+327: (  1) * Southside - Texas
+328: (  1) - Stage - David Bowie
+329: (  1) - Stop The Cavalry - Jona Lewie
+330: (  1) - Sub-Stance - Department S
+331: (  1) - Suit Yourself - Shelby Lynne
+332: (  1) - Take Me Home - The Redlands Palomino Company
+333: (  1) * Tallulah - The Go-Betweens
+334: (  1) - Tears, Lies And Alibis - Shelby Lynne
+335: (  1) - The 70'S Studio Album Collection - Emmylou Harris
+336: (  1) * The BBC Sessions - Loudon Wainwright III
+337: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
+338: (  1) - The Boatman's Call - Nick Cave & the Bad Seeds
+339: (  1) * The Church And The Minidisc - Martin Stephenson
+340: (  1) * The Collection - Altered Images
+341: (  1) - The Essential Leonard Cohen - Leonard Cohen
+342: (  1) - The Modern Lovers - Jonathan Richman and the Modern Lovers
+343: (  1) * The Monkees Collection - The Monkees
+344: (  1) * The Orange Juice - Orange Juice
+345: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+346: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
+347: (  1) - Town & Country - The Vagaband
+348: (  1) * Transformer - Lou Reed
+349: (  1) - Trinity Revisited - Cowboy Junkies
+350: (  1) - Ultimate Waylon Jennings - Waylon Jennings
+351: (  1) - Wilder - The Teardrop Explodes

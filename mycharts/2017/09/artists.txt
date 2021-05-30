@@ -1,6 +1,6 @@
 Specified year (2017), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     959            53            71           626
+     959            52            71           626
   1: ( 64) - Lloyd Cole
   2: ( 63) - Scott Walker
   3: ( 59) - Josh Ritter
@@ -46,7 +46,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  19: ( 15) - Hem
  20: ( 14) - Aztec Camera
  21: ( 13) - Sparks
- 22: ( 12) - Anne McCue
+ 22: ( 12) - Anne Mccue
  23: ( 12) - Eilen Jewell
  24: ( 12) - Shelby Lynne
  25: ( 11) - Rosanne Cash
@@ -55,7 +55,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  28: ( 10) - ABC
  29: ( 10) - Amy LaVere
  30: ( 10) - Cowboy Junkies
- 31: ( 10) - Jason Isbell and The 400 Unit
+ 31: ( 10) - Jason Isbell and the 400 Unit
  32: ( 10) - Kate Bush
  33: (  9) - Altered Images
  34: (  9) - Gretchen Peters
@@ -66,8 +66,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: (  7) - Edwyn Collins
  40: (  7) - JT Nero
  41: (  7) - The Jam
- 42: (  5) - Joy Division
- 43: (  5) - Rodney Crowell
+ 42: (  6) - Rodney Crowell
+ 43: (  5) - Joy Division
  44: (  4) - Bob Marley & the Wailers
  45: (  4) - The Redlands Palomino Company
  46: (  3) - Laura Marling
@@ -77,4 +77,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  50: (  1) - Jimi Hendrix
  51: (  1) - Leonard Cohen
  52: (  1) - Lizanne Knott
- 53: (  1) - Rodney Crowell (duet with Emmylou Harris)

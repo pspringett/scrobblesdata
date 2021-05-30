@@ -1,6 +1,6 @@
 Specified year (2017), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     959            53            71           626
+     959            52            71           626
   1: ( 63) - Scott 3 - Scott Walker
   2: ( 59) - Sermon On The Rocks - Josh Ritter
   3: ( 59) - Woodland Echoes - Nick Heyward
@@ -43,7 +43,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  18: ( 13) - Hippopotamus - Sparks
  19: ( 13) - Rattle And Hum - U2
  20: ( 12) - Down Hearted Blues - Eilen Jewell
- 21: ( 12) - Roll - Anne McCue
+ 21: ( 12) - Roll - Anne Mccue
  22: ( 12) * The Negatives - Lloyd Cole
  23: ( 11) * Bad Vibes - Lloyd Cole
  24: ( 11) * Black Cadillac - Rosanne Cash
@@ -57,7 +57,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 10) - Stranger Me - Amy LaVere
  33: ( 10) - The Kick Inside - Kate Bush
  34: ( 10) - The Lexicon Of Love (Digitally Remastered) - ABC
- 35: ( 10) - The Nashville Sound - Jason Isbell and The 400 Unit
+ 35: ( 10) - The Nashville Sound - Jason Isbell and the 400 Unit
  36: ( 10) * The North Star - Roddy Frame
  37: ( 10) * The Unforgettable Fire - U2
  38: ( 10) - Total - New Order
@@ -89,11 +89,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  64: (  3) * I Speak Because I Can - Laura Marling
  65: (  2) * Birds Of Chicago - Birds of Chicago
  66: (  2) - Cafe Bleu - The Style Council
- 67: (  1) - Excellent Day - Lizanne Knott
- 68: (  1) - Nostos - Jean-Michel Blais
- 69: (  1) - Rattle And Hum - Jimi Hendrix
- 70: (  1) - Suit Yourself - Shelby Lynne
- 71: (  1) * The Caution Horses - Cowboy Junkies
- 72: (  1) - The Outsider - Rodney Crowell
- 73: (  1) - The Outsider - Rodney Crowell (duet with Emmylou Harris)
- 74: (  1) - You Want It Darker - Leonard Cohen
+ 67: (  2) - The Outsider - Rodney Crowell
+ 68: (  1) - Excellent Day - Lizanne Knott
+ 69: (  1) - Nostos - Jean-Michel Blais
+ 70: (  1) - Rattle And Hum - Jimi Hendrix
+ 71: (  1) - Suit Yourself - Shelby Lynne
+ 72: (  1) * The Caution Horses - Cowboy Junkies
+ 73: (  1) - You Want It Darker - Leonard Cohen

@@ -1,6 +1,6 @@
 Specified year (2016), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1237            79            77           821
+    1237            76            77           821
   1: (135) - The Style Council
   2: ( 63) - David Bowie
   3: ( 60) - Lloyd Cole
@@ -9,16 +9,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   6: ( 50) - Gillian Welch
   7: ( 45) - Devine & Statton
 
+  8: ( 43) - Amanda Shires
+  9: ( 42) - Bob Dylan
+ 10: ( 41) - Birds of Chicago
 
-  8: ( 42) - Bob Dylan
-  9: ( 41) - Birds of Chicago
-
-
- 10: ( 38) - Amanda Shires
-
+ 11: ( 39) - Corb Lund
 
 
- 11: ( 34) - Corb Lund
+
+
+
  12: ( 33) - Hayes Carll
 
  13: ( 31) - Justin Townes Earle
@@ -43,7 +43,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  25: ( 16) - Spandau Ballet
 
  26: ( 14) - Nick Heyward
- 27: ( 13) - It's Immaterial
+ 27: ( 13) - It'S Immaterial
  28: ( 13) - Orange Juice
  29: ( 12) - Kacey Musgraves
  30: ( 12) - Laura Cantrell
@@ -54,45 +54,42 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  35: ( 11) - Eilen Jewell
  36: ( 11) - Eliza Gilkyson
  37: ( 11) - Lera Lynn
- 38: ( 11) - The Undertones
- 39: ( 11) - The Wailers
- 40: ( 10) - Jan Garbarek
- 41: ( 10) - Lloyd Cole and The Commotions
- 42: ( 10) - Rodney Crowell
+ 38: ( 11) - Rodney Crowell
+ 39: ( 11) - The Undertones
+ 40: ( 11) - The Wailers
+ 41: ( 10) - Jan Garbarek
+ 42: ( 10) - Lloyd Cole and the Commotions
  43: ( 10) - The Police
  44: ( 10) - The Sundays
  45: ( 10) - Tift Merritt
  46: (  9) - Heaven 17
  47: (  7) - B.E.F.
  48: (  6) - Laura Marling
- 49: (  5) - Amanda Shires  
- 50: (  5) - Corb Lund 
- 51: (  3) - 75 Dollar Bill
- 52: (  3) - Acid Arab
- 53: (  3) - C Duncan
- 54: (  3) - Chivalrous Amoekons
- 55: (  3) - Conor Oberst
- 56: (  3) - Goat
- 57: (  3) - Julia Jacklin
- 58: (  3) - Kristin Hersh
- 59: (  3) - Luke Roberts
- 60: (  3) - Natural Child
- 61: (  3) - Purling Hiss
- 62: (  3) - The Clang Group
- 63: (  3) - Weyes Blood
- 64: (  3) - Xylouris White
- 65: (  3) - the FRIGHTNRS
- 66: (  2) - Lambchop
- 67: (  2) - Tom House
- 68: (  1) - Can
- 69: (  1) - Dump
- 70: (  1) - Factory Floor
- 71: (  1) - Kort
- 72: (  1) - Nick Cave & The Bad Seeds
- 73: (  1) - Richard Buckner
- 74: (  1) - Rodney Crowell (duet with Emmylou Harris)
- 75: (  1) - Shabazz Palaces
- 76: (  1) - Sleaford Mods
- 77: (  1) - Tiny Ruins
- 78: (  1) - William Tyler
- 79: (  1) - Yolo Tengo
+ 49: (  3) - 75 Dollar Bill
+ 50: (  3) - Acid Arab
+ 51: (  3) - C Duncan
+ 52: (  3) - Chivalrous Amoekons
+ 53: (  3) - Conor Oberst
+ 54: (  3) - Goat
+ 55: (  3) - Julia Jacklin
+ 56: (  3) - Kristin Hersh
+ 57: (  3) - Luke Roberts
+ 58: (  3) - Natural Child
+ 59: (  3) - Purling Hiss
+ 60: (  3) - The Clang Group
+ 61: (  3) - Weyes Blood
+ 62: (  3) - Xylouris White
+ 63: (  3) - the FRIGHTNRS
+ 64: (  2) - Lambchop
+ 65: (  2) - Tom House
+ 66: (  1) - Can
+ 67: (  1) - Dump
+ 68: (  1) - Factory Floor
+ 69: (  1) - Kort
+ 70: (  1) - Nick Cave & the Bad Seeds
+ 71: (  1) - Richard Buckner
+ 72: (  1) - Shabazz Palaces
+ 73: (  1) - Sleaford Mods
+ 74: (  1) - Tiny Ruins
+ 75: (  1) - William Tyler
+ 76: (  1) - Yolo Tengo

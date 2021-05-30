@@ -1,6 +1,6 @@
 Specified year (2018), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     951           111           124           506
+     951           110           124           506
   1: ( 95) - Martin Stephenson
   2: ( 74) - Orchestral Manoeuvres in the Dark
   3: ( 58) - Wolf Alice
@@ -45,9 +45,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  19: ( 13) - Angie Palmer
  20: ( 13) - The Style Council
  21: ( 12) - Tift Merritt
-
- 22: ( 10) - Madeleine Peyroux
- 23: ( 10) - Rodney Crowell
+ 22: ( 11) - Rodney Crowell
+ 23: ( 10) - Madeleine Peyroux
  24: ( 10) - The Decemberists
  25: (  9) - Dinah Washington
  26: (  9) - Electric Light Orchestra
@@ -64,7 +63,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  37: (  4) - Kamal Keila
  38: (  4) - Lena Horne
  39: (  4) - Mary Stallings
- 40: (  4) - Melody's Echo Chamber
+ 40: (  4) - Melody'S Echo Chamber
  41: (  4) - Mose Allison
  42: (  4) - Rosanne Cash
  43: (  4) - Shirley Horn
@@ -74,12 +73,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: (  3) - Jim James
  48: (  3) - John Coltrane & Johnny Hartman
  49: (  3) - Kurt Elling
- 50: (  3) - Let's Eat Grandma
+ 50: (  3) - Let'S Eat Grandma
  51: (  3) - Luluc
  52: (  3) - Michael Rault
  53: (  3) - Nathan Salsburg
- 54: (  3) - RVG
- 55: (  3) - Ray Davies
+ 54: (  3) - Ray Davies
+ 55: (  3) - Rvg
  56: (  3) - The Innocence Mission
  57: (  3) - The Last Poets
  58: (  3) - White Fence
@@ -96,27 +95,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  69: (  2) - The Pretty Things
  70: (  2) - The Who
  71: (  2) - The Yardbirds
- 72: (  1) - ABC
- 73: (  1) - Billy Idol
- 74: (  1) - Blondie
- 75: (  1) - Culture Club
- 76: (  1) - Dead or Alive
- 77: (  1) - Duran Duran
- 78: (  1) - Erin Rae
- 79: (  1) - Eurythmics
- 80: (  1) - Frankie Goes to Hollywood
- 81: (  1) - Gary Numan
- 82: (  1) - INXS
- 83: (  1) - Jack Jones
- 84: (  1) - Joe Jackson
- 85: (  1) - Jon Hassell
- 86: (  1) - Men at Work
- 87: (  1) - Neko Case
- 88: (  1) - Nena
- 89: (  1) - Pink Floyd
- 90: (  1) - Plastic Bertrand
- 91: (  1) - R.E.M.
- 92: (  1) - Rodney Crowell (duet with Emmylou Harris)
+ 72: (  1) - A-Ha
+ 73: (  1) - ABC
+ 74: (  1) - Billy Idol
+ 75: (  1) - Blondie
+ 76: (  1) - Culture Club
+ 77: (  1) - Dead Or Alive
+ 78: (  1) - Duran Duran
+ 79: (  1) - Erin Rae
+ 80: (  1) - Eurythmics
+ 81: (  1) - Frankie Goes to Hollywood
+ 82: (  1) - Gary Numan
+ 83: (  1) - Inxs
+ 84: (  1) - Jack Jones
+ 85: (  1) - Joe Jackson
+ 86: (  1) - Jon Hassell
+ 87: (  1) - Men At Work
+ 88: (  1) - Neko Case
+ 89: (  1) - Nena
+ 90: (  1) - Pink Floyd
+ 91: (  1) - Plastic Bertrand
+ 92: (  1) - R.E.M.
  93: (  1) - Rolling Blackouts Coastal Fever
  94: (  1) - Taco
  95: (  1) - Talking Heads
@@ -134,5 +133,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 107: (  1) - UB40
 108: (  1) - Violent Femmes
 109: (  1) - Virginia Wing
-110: (  1) - When In Rome
-111: (  1) - a-ha
+110: (  1) - When in Rome

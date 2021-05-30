@@ -1,6 +1,6 @@
 Specified year (2016), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     954            58            59           627
+     954            57            59           627
   1: ( 75) - The Undertones
   2: ( 57) - Simple Minds
   3: ( 45) - Ryan Adams
@@ -26,9 +26,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  13: ( 25) - Aztec Camera
  14: ( 25) - Orchestral Manoeuvres in the Dark
  15: ( 24) - Hayes Carll
+ 16: ( 23) - Rodney Crowell
 
 
- 16: ( 21) - Rodney Crowell
 
  17: ( 19) - The Redlands Palomino Company
  18: ( 18) - Devine & Statton
@@ -53,7 +53,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  36: (  9) - Angie Palmer
  37: (  9) - Echo & the Bunnymen
  38: (  9) - Heaven 17
- 39: (  9) - Nick Cave & The Bad Seeds
+ 39: (  9) - Nick Cave & the Bad Seeds
  40: (  8) - Eilen Jewell
  41: (  7) - Artery
  42: (  7) - The Pale Fountains
@@ -64,12 +64,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: (  4) - Eggs Over Easy
  48: (  4) - Emma Russack
  49: (  4) - Hannah Georgas
- 50: (  4) - Idris Ackamoor & The Pyramids
+ 50: (  4) - Idris Ackamoor & the Pyramids
  51: (  4) - Lou Rhodes
- 52: (  4) - Tchiss lopez
+ 52: (  4) - Tchiss Lopez
  53: (  4) - The Julie Ruin
  54: (  4) - Thee Oh Sees
  55: (  3) - Kristin Hersh
  56: (  3) - Plaid
  57: (  3) - The Jayhawks
- 58: (  2) - Rodney Crowell (duet with Emmylou Harris)

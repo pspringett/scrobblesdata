@@ -1,14 +1,14 @@
 Specified year (2020), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2272           119           107           865
+    2272           118           107           865
   1: (224) - David Bowie
   2: (202) - T. Rex
   3: (134) - Cocteau Twins
   4: ( 94) - Orchestral Manoeuvres in the Dark
-  5: ( 76) - Billy Bragg
-  6: ( 72) - The Proclaimers
-  7: ( 62) - Marine Girls
-  8: ( 62) - Martin Stephenson and the Daintees
+  5: ( 84) - Martin Stephenson and the Daintees
+  6: ( 76) - Billy Bragg
+  7: ( 72) - The Proclaimers
+  8: ( 62) - Marine Girls
   9: ( 54) - Lloyd Cole
  10: ( 50) - Eilen Jewell
  11: ( 50) - Modern English
@@ -52,94 +52,93 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  35: ( 24) - Willie Nelson & Asleep At the Wheel
 
  36: ( 22) - Darling West
- 37: ( 22) - Martin Stephenson And The Daintees
- 38: ( 22) - The Doors
+ 37: ( 22) - The Doors
 
- 39: ( 20) - UB40
+ 38: ( 20) - UB40
 
- 40: ( 18) - The Civil Wars
- 41: ( 18) - Tower of Song
+ 39: ( 18) - The Civil Wars
+ 40: ( 18) - Tower of Song
 
- 42: ( 16) - The Velvet Underground
- 43: ( 16) - Tracey Thorn
+ 41: ( 16) - The Velvet Underground
+ 42: ( 16) - Tracey Thorn
 
- 44: ( 14) - Kacy & Clayton
- 45: ( 14) - Mindy Smith
+ 43: ( 14) - Kacy & Clayton
+ 44: ( 14) - Mindy Smith
 
- 46: ( 12) - Birds of Chicago
- 47: ( 12) - Eberard Weber
-
+ 45: ( 12) - Birds of Chicago
+ 46: ( 12) - Eberard Weber
 
 
- 48: (  8) - Devine & Statton
- 49: (  8) - Field Music
- 50: (  6) - Bill Fay
- 51: (  6) - Lambchop
- 52: (  6) - Tom House
- 53: (  6) - William Tyler
- 54: (  4) - Altered Images
- 55: (  4) - Aoife Nessa Frances
- 56: (  4) - Brian Eno & David Byrne
- 57: (  4) - Dump
- 58: (  4) - Factory Floor
- 59: (  4) - Keeley Forsyth
- 60: (  4) - Nick Cave & The Bad Seeds
- 61: (  4) - The Panhandle Mystery Band
- 62: (  4) - Tracy Bryant
- 63: (  4) - Wire
- 64: (  2) - Aldous Harding
- 65: (  2) - Alice Boman
- 66: (  2) - Andy Shauf
- 67: (  2) - Anna Meredith
- 68: (  2) - Big Thief
- 69: (  2) - Bill Callahan
- 70: (  2) - Bon Iver
- 71: (  2) - Bunny Wailer
- 72: (  2) - Burning Spear
- 73: (  2) - Can
- 74: (  2) - Cass McCombs
- 75: (  2) - Cate le Bon
- 76: (  2) - Chip Taylor
- 77: (  2) - Cool Ghouls
- 78: (  2) - De La Soul
- 79: (  2) - Dinosaur Jr.
- 80: (  2) - Fontaines D.C.
- 81: (  2) - Gregory Isaacs
- 82: (  2) - Haley Bonar
- 83: (  2) - Hans Chew
- 84: (  2) - Inner Circle
- 85: (  2) - Jacob Miller
- 86: (  2) - Jason McMahon
- 87: (  2) - Joan Shelley
- 88: (  2) - Judy Henske and Jerry Yester
- 89: (  2) - Julia Jacklin
- 90: (  2) - Junior Byles
- 91: (  2) - Junior Murvin
- 92: (  2) - Justin Hinds & The Dominoes
- 93: (  2) - Kiddus I
- 94: (  2) - Kort
- 95: (  2) - Lydia Loveless
- 96: (  2) - Maytones
- 97: (  2) - Modern Nature
- 98: (  2) - Morgan Delt
- 99: (  2) - Mr. Elevator
-100: (  2) - Nicolas Godin
-101: (  2) - OOIOO
-102: (  2) - Peter Tosh
-103: (  2) - Purple Mountains
-104: (  2) - Rhiannon Giddens
-105: (  2) - Richard Buckner
-106: (  2) - Ryley Walker
-107: (  2) - Scott Hirsch
-108: (  2) - Shabazz Palaces
-109: (  2) - Squirrel Flower
-110: (  2) - Teenage Fanclub
-111: (  2) - The Heptones
-112: (  2) - The Upsetters
-113: (  2) - Third World
-114: (  2) - Tin Machine
-115: (  2) - Tiny Ruins
-116: (  2) - Weyes Blood
-117: (  2) - Wild Beasts
-118: (  2) - Yolo Tengo
-119: (  2) - Yorkston/Thorne/Khan
+
+ 47: (  8) - Devine & Statton
+ 48: (  8) - Field Music
+ 49: (  6) - Bill Fay
+ 50: (  6) - Lambchop
+ 51: (  6) - Tom House
+ 52: (  6) - William Tyler
+ 53: (  4) - Altered Images
+ 54: (  4) - Aoife Nessa Frances
+ 55: (  4) - Brian Eno & David Byrne
+ 56: (  4) - Dump
+ 57: (  4) - Factory Floor
+ 58: (  4) - Keeley Forsyth
+ 59: (  4) - Nick Cave & the Bad Seeds
+ 60: (  4) - The Panhandle Mystery Band
+ 61: (  4) - Tracy Bryant
+ 62: (  4) - Wire
+ 63: (  2) - Aldous Harding
+ 64: (  2) - Alice Boman
+ 65: (  2) - Andy Shauf
+ 66: (  2) - Anna Meredith
+ 67: (  2) - Big Thief
+ 68: (  2) - Bill Callahan
+ 69: (  2) - Bon Iver
+ 70: (  2) - Bunny Wailer
+ 71: (  2) - Burning Spear
+ 72: (  2) - Can
+ 73: (  2) - Cass McCombs
+ 74: (  2) - Cate le Bon
+ 75: (  2) - Chip Taylor
+ 76: (  2) - Cool Ghouls
+ 77: (  2) - De La Soul
+ 78: (  2) - Dinosaur Jr.
+ 79: (  2) - Fontaines D.c.
+ 80: (  2) - Gregory Isaacs
+ 81: (  2) - Haley Bonar
+ 82: (  2) - Hans Chew
+ 83: (  2) - Inner Circle
+ 84: (  2) - Jacob Miller
+ 85: (  2) - Jason Mcmahon
+ 86: (  2) - Joan Shelley
+ 87: (  2) - Judy Henske and Jerry Yester
+ 88: (  2) - Julia Jacklin
+ 89: (  2) - Junior Byles
+ 90: (  2) - Junior Murvin
+ 91: (  2) - Justin Hinds & the Dominoes
+ 92: (  2) - Kiddus I
+ 93: (  2) - Kort
+ 94: (  2) - Lydia Loveless
+ 95: (  2) - Maytones
+ 96: (  2) - Modern Nature
+ 97: (  2) - Morgan Delt
+ 98: (  2) - Mr. Elevator
+ 99: (  2) - Nicolas Godin
+100: (  2) - Ooioo
+101: (  2) - Peter Tosh
+102: (  2) - Purple Mountains
+103: (  2) - Rhiannon Giddens
+104: (  2) - Richard Buckner
+105: (  2) - Ryley Walker
+106: (  2) - Scott Hirsch
+107: (  2) - Shabazz Palaces
+108: (  2) - Squirrel Flower
+109: (  2) - Teenage Fanclub
+110: (  2) - The Heptones
+111: (  2) - The Upsetters
+112: (  2) - Third World
+113: (  2) - Tin Machine
+114: (  2) - Tiny Ruins
+115: (  2) - Weyes Blood
+116: (  2) - Wild Beasts
+117: (  2) - Yolo Tengo
+118: (  2) - Yorkston/Thorne/Khan

@@ -66,47 +66,7 @@ def fixup_tracks(fx, tracks):
     return new_tracks
 
 
-def _main_cmd_line():
-    """
-    Interprets the command line parameters and stores them in global variables.
-    In general these should not be changed by any part of this script.
-    """
-    global options
-
-    # -------------------------------------------------------------------------
-    # Create the options parser.
-    # -------------------------------------------------------------------------
-    usage = "Usage: %prog [options]"
-
-    epilog = "Fixues up tracks based on the fixup/filtering functions."
-    parser = OptionParser(usage, epilog=epilog)
-
-    parser.add_option("-y", "--year", type="int", default=0)
-    parser.add_option("-m", "--month", type="int", default=0)
-
-    (options, args) = parser.parse_args()
-
-    if options.month > 12:
-        options.month = 12
-
-    if options.month < 10:
-        options.month2 = "0" + str(options.month)
-
-
 if __name__ == "__main__":
     # print(sys.version)
     # print(sys, sys.executable)
-    fx = scrobblesfixup.Fixup()
-
-    track1 = ["2015-08-01 23:30:27", "Simple Minds", "New Gold Dream (81 82 83 84)", "Big Sleep"]
-    track2 = [
-        "2015-08-01 23:36:29",
-        "Simple Minds",
-        "New Gold Dream (81/82/83/84)",
-        "Big Sleep (2002 - Remaster)",
-    ]
-
-    tracks = [track1, track2]
-    new_tracks = fixup_tracks(fx, tracks)
-    print(new_tracks)
     main()

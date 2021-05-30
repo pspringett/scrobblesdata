@@ -1,6 +1,6 @@
 Specified year (2015), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     954           168           191           763
+     954           167           190           763
   1: ( 51) - Traveling Alone - Tift Merritt
   2: ( 46) - Goodbye Yellow Brick Road - Elton John
 
@@ -57,7 +57,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  31: (  9) * Sew Your Heart With Wires - Rod Picott and Amanda Shires
  32: (  9) * Snap - The Jam
  33: (  8) - Another View - The Velvet Underground
- 34: (  8) - Get Happy!! (Cd2) - Elvis Costello
+ 34: (  8) - Get Happy!! (CD2) - Elvis Costello
  35: (  8) * Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
  36: (  8) - Modern Blues - The Waterboys
  37: (  8) * Remain In Light - Talking Heads
@@ -86,13 +86,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  60: (  4) - Mono - The Mavericks
  61: (  4) - No Way There From Here - Laura Cantrell
  62: (  4) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
- 63: (  4) * Rock N Roll Jamboree - Stephenson's Rocketts
+ 63: (  4) - Rock N Roll Jamboree - Stephenson'S Rocketts
  64: (  4) * Scott 2 - Scott Walker
  65: (  4) * Seventeen Seconds - The Cure
  66: (  4) * Signing Off - UB40
  67: (  4) - The Esteemed Orange Juice - Orange Juice
  68: (  4) * This Year's Model - Elvis Costello & the Attractions
- 69: (  3) - Anarchy In The Uk - 30 Years Of Punk - Various
+ 69: (  3) - Anarchy in the UK - 30 Years Of Punk - Various
  70: (  3) * Bob Dylan At Budokan - Bob Dylan
  71: (  3) - Carrying Lightning - Amanda Shires
  72: (  3) * Celilo Falls - Rachel Harrington
@@ -126,7 +126,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 100: (  2) * Empire Burlesque - Bob Dylan
 101: (  2) - Feels Like Home - Sheryl Crow
 102: (  2) * Firecracker - The Wailin' Jennys
-103: (  2) - Gladsome, Humour & Blue - Martin Stephenson And The Daintees
+103: (  2) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
 104: (  2) - Grrr! - The Rolling Stones
 105: (  2) * Horse Soldier! Horse Soldier! - Corb Lund
 106: (  2) * I Took Up The Runes - Jan Garbarek
@@ -137,81 +137,80 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 111: (  2) * New Gold Dream (81-82-83-84) - Simple Minds
 112: (  2) * Oh My God, Charlie Darwin - The Low Anthem
 113: (  2) - Old Yellow Moon - Emmylou Harris
-114: (  2) * Saved - Bob Dylan
-115: (  2) * Seven Dials - Roddy Frame
-116: (  2) - The '81 Demos - Weekend
-117: (  2) * The City's Hot Yeah The City's Hot - JT and the Clouds
-118: (  2) * The King Is Dead - The Decemberists
-119: (  2) * Tusk - Fleetwood Mac
-120: (  2) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
-121: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & The Aces
-122: (  1) - Acquaintance - Willie Nelson
-123: (  1) * Altered Images 12 Inch Mix - Altered Images
-124: (  1) * Anchors & Anvils - Amy LaVere
-125: (  1) * Andromeda Heights - Prefab Sprout
-126: (  1) * Architecture & Morality [Bonus Tracks] - Orchestral Manoeuvres in the Dark
-127: (  1) * Before The Flood (Disc 1) - Bob Dylan
-128: (  1) * Beyond Leap - Martin Stephenson
-129: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
-130: (  1) - Breakout - Louisa Mark
-131: (  1) - Butcher Holler - Eilen Jewell
-132: (  1) * Cabin Fever - Corb Lund
-133: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & The Wailers
-134: (  1) - Celebration - Simple Minds
-135: (  1) * Cleaning Out The Ashtrays CD3 - Dangerous Music - Lloyd Cole
-136: (  1) - Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model - Lloyd Cole
-137: (  1) - Close To The Bone - Bonus - Tom Tom Club
-138: (  1) * Desire - Bob Dylan
-139: (  1) - Drumming The Beating Heart - Eyeless in Gaza
-140: (  1) * Electric Warrior - T. Rex
-141: (  1) - Essential Reggae - 20 Reggae Classics - Sugar Minott
-142: (  1) * Hard Rain - Bob Dylan
-143: (  1) * Harlem River Blues - Justin Townes Earle
-144: (  1) - Heartbeat - Rudy Thomas
-145: (  1) - I Can't Imagine - Shelby Lynne
-146: (  1) - I'd Rather Go Blind - Single - the FRIGHTNRS
-147: (  1) - I'm In Love With A German Film Star - The Passions
-148: (  1) - Journeys To Glory - Spandau Ballet
-149: (  1) * Knife - Aztec Camera
-150: (  1) * Letters From Sinners & Strangers - Eilen Jewell
-151: (  1) - Life's Hard And Then You Die - It's Immaterial
-152: (  1) - Live At Blue Rock - Mary Gauthier
-153: (  1) * Losing Sleep - Edwyn Collins
-154: (  1) - Marcus Garvey: The Best Of Burning Spear - Burning Spear
-155: (  1) - Memorial Album - Don Drummond & The Skatalites
-156: (  1) - Music For Sixties - Manfred Mann
-157: (  1) - No Regrets: The Best Of Scott Walker & The Walker Brothers - The Walker Brothers
-158: (  1) * October - U2
-159: (  1) * Old Sticks To Scare A Bird - Angie Palmer
-160: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
-161: (  1) - Pelican West Plus - Haircut 100
-162: (  1) - Platinum - Miranda Lambert
-163: (  1) * Popera: The Singles Collection - The Associates
-164: (  1) * Postcard Singles - Josef K
-165: (  1) * Queen Of The Minor Key - Eilen Jewell
-166: (  1) * Raising Sand - Robert Plant & Alison Krauss
-167: (  1) - Rattlesnakes - Lloyd Cole and The Commotions
-168: (  1) - Reading Writing And Arithmetic - The Sundays
-169: (  1) * Reading, Writing & Arithmetic - The Sundays
-170: (  1) - Replicas - Gary Numan
-171: (  1) * Second Sight - Corinne West
-172: (  1) - Sons And Fascination/Sister Feelings Call - Simple Minds
-173: (  1) * Street Legal - Bob Dylan
-174: (  1) - Take Me Home - The Redlands Palomino Company
-175: (  1) * Tales Of Light And Darkness - Angie Palmer
-176: (  1) * Tallulah - The Go-Betweens
-177: (  1) * The BBC Sessions - Loudon Wainwright III
-178: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
-179: (  1) * The Church And The Minidisc - Martin Stephenson
-180: (  1) * The Collection - Altered Images
-181: (  1) - The Essential Mindy Smith - Mindy Smith
-182: (  1) * The Greatest Ones Alive - Sarah MacDougall
-183: (  1) * The Monkees Collection - The Monkees
-184: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
-185: (  1) - This Year's Model - Bonus - Elvis Costello
-186: (  1) - Town & Country - The Vagaband
-187: (  1) - Treasure - Cocteau Twins
-188: (  1) * Unknown Pleasures - Joy Division
-189: (  1) - Wilder - The Teardrop Explodes
-190: (  1) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
-191: (  1) * World At Large - The Dust Poets
+114: (  2) * Reading, Writing & Arithmetic - The Sundays
+115: (  2) * Saved - Bob Dylan
+116: (  2) * Seven Dials - Roddy Frame
+117: (  2) - The '81 Demos - Weekend
+118: (  2) * The City's Hot Yeah The City's Hot - JT and the Clouds
+119: (  2) * The King Is Dead - The Decemberists
+120: (  2) * Tusk - Fleetwood Mac
+121: (  2) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
+122: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & the Aces
+123: (  1) - Acquaintance - Willie Nelson
+124: (  1) * Altered Images 12 Inch Mix - Altered Images
+125: (  1) * Anchors & Anvils - Amy LaVere
+126: (  1) * Andromeda Heights - Prefab Sprout
+127: (  1) * Architecture & Morality [Bonus Tracks] - Orchestral Manoeuvres in the Dark
+128: (  1) * Before The Flood (Disc 1) - Bob Dylan
+129: (  1) * Beyond Leap - Martin Stephenson
+130: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
+131: (  1) - Breakout - Louisa Mark
+132: (  1) - Butcher Holler - Eilen Jewell
+133: (  1) * Cabin Fever - Corb Lund
+134: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & the Wailers
+135: (  1) - Celebration - Simple Minds
+136: (  1) * Cleaning Out The Ashtrays CD3 - Dangerous Music - Lloyd Cole
+137: (  1) - Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model - Lloyd Cole
+138: (  1) - Close To The Bone - Bonus - Tom Tom Club
+139: (  1) * Desire - Bob Dylan
+140: (  1) - Drumming The Beating Heart - Eyeless in Gaza
+141: (  1) * Electric Warrior - T. Rex
+142: (  1) - Essential Reggae - 20 Reggae Classics - Sugar Minott
+143: (  1) * Hard Rain - Bob Dylan
+144: (  1) * Harlem River Blues - Justin Townes Earle
+145: (  1) - Heartbeat - Rudy Thomas
+146: (  1) - I Can't Imagine - Shelby Lynne
+147: (  1) - I'd Rather Go Blind - Single - the FRIGHTNRS
+148: (  1) - I'm In Love With A German Film Star - The Passions
+149: (  1) - Journeys To Glory - Spandau Ballet
+150: (  1) * Knife - Aztec Camera
+151: (  1) * Letters From Sinners & Strangers - Eilen Jewell
+152: (  1) - Life's Hard And Then You Die - It'S Immaterial
+153: (  1) - Live At Blue Rock - Mary Gauthier
+154: (  1) * Losing Sleep - Edwyn Collins
+155: (  1) - Marcus Garvey: The Best Of Burning Spear - Burning Spear
+156: (  1) - Memorial Album - Don Drummond & the Skatalites
+157: (  1) - Music For Sixties - Manfred Mann
+158: (  1) - No Regrets: The Best Of Scott Walker & The Walker Brothers - The Walker Brothers
+159: (  1) * October - U2
+160: (  1) * Old Sticks To Scare A Bird - Angie Palmer
+161: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
+162: (  1) - Pelican West Plus - Haircut 100
+163: (  1) - Platinum - Miranda Lambert
+164: (  1) * Popera: The Singles Collection - The Associates
+165: (  1) * Postcard Singles - Josef K
+166: (  1) * Queen Of The Minor Key - Eilen Jewell
+167: (  1) * Raising Sand - Robert Plant & Alison Krauss
+168: (  1) * Rattlesnakes - Lloyd Cole and the Commotions
+169: (  1) - Replicas - Gary Numan
+170: (  1) * Second Sight - Corinne West
+171: (  1) - Sons And Fascination/Sister Feelings Call - Simple Minds
+172: (  1) * Street Legal - Bob Dylan
+173: (  1) - Take Me Home - The Redlands Palomino Company
+174: (  1) * Tales Of Light And Darkness - Angie Palmer
+175: (  1) * Tallulah - The Go-Betweens
+176: (  1) * The BBC Sessions - Loudon Wainwright III
+177: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
+178: (  1) * The Church And The Minidisc - Martin Stephenson
+179: (  1) * The Collection - Altered Images
+180: (  1) - The Essential Mindy Smith - Mindy Smith
+181: (  1) * The Greatest Ones Alive - Sarah MacDougall
+182: (  1) * The Monkees Collection - The Monkees
+183: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
+184: (  1) - This Year's Model - Bonus - Elvis Costello
+185: (  1) - Town & Country - The Vagaband
+186: (  1) - Treasure - Cocteau Twins
+187: (  1) * Unknown Pleasures - Joy Division
+188: (  1) - Wilder - The Teardrop Explodes
+189: (  1) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
+190: (  1) * World At Large - The Dust Poets

@@ -1,6 +1,6 @@
 Specified year (2020), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     710            51            59           244
+     710            50            59           244
   1: (102) - The Jayhawks
   2: ( 66) - Orange Juice
   3: ( 54) - Emma Swift
@@ -22,17 +22,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  7: ( 28) - Prefab Sprout
-  8: ( 28) - The Waterboys
+  7: ( 28) - Jarv Is...
+  8: ( 28) - Prefab Sprout
+  9: ( 28) - The Waterboys
 
 
 
-  9: ( 24) - Aztec Camera
- 10: ( 24) - Bob Dylan
- 11: ( 24) - Lloyd Cole
- 12: ( 24) - Martin Stephenson
+ 10: ( 24) - Aztec Camera
+ 11: ( 24) - Bob Dylan
+ 12: ( 24) - Lloyd Cole
+ 13: ( 24) - Martin Stephenson
 
- 13: ( 22) - JARV IS...
+
 
  14: ( 20) - Josh Ritter
  15: ( 20) - Martin Stephenson and the Daintees
@@ -41,40 +42,39 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  17: ( 16) - Furniture
 
- 18: ( 14) - Lloyd Cole and The Commotions
+ 18: ( 14) - Lloyd Cole and the Commotions
  19: ( 14) - Paul Weller
 
 
 
  20: ( 10) - Bat for Lashes
  21: ( 10) - Pretenders
- 22: (  6) - Don Letts and Turtle Bay present Reggae 45
- 23: (  6) - Jarv Is...
- 24: (  4) - Edwyn Collins
- 25: (  4) - Electric Light Orchestra
- 26: (  4) - Talking Heads
- 27: (  2) - Acetone
- 28: (  2) - Angie Palmer
- 29: (  2) - Betty Davis
- 30: (  2) - Billy Joel
- 31: (  2) - Deep Purple
- 32: (  2) - Definitely Dylan
- 33: (  2) - Donnie & Joe Emerson
- 34: (  2) - Eilen Jewell
- 35: (  2) - Elton John
- 36: (  2) - Elvis Costello & the Attractions
- 37: (  2) - Gigi Masin
- 38: (  2) - Greg Mason
- 39: (  2) - Jackson Browne
- 40: (  2) - Jim Sullivan
- 41: (  2) - Karin Krog
- 42: (  2) - Karl Schaffner
- 43: (  2) - Lee Hazlewood
- 44: (  2) - Roky Erickson
- 45: (  2) - Sex Pistols
- 46: (  2) - Shin Joong Hyun & The Men
- 47: (  2) - Status Quo
- 48: (  2) - Supreme Jubilees
- 49: (  2) - The J. Geils Band
- 50: (  2) - The Style Council
- 51: (  2) - Young Marble Giants
+ 22: (  6) - Don Letts and Turtle Bay Present Reggae 45
+ 23: (  4) - Edwyn Collins
+ 24: (  4) - Electric Light Orchestra
+ 25: (  4) - Talking Heads
+ 26: (  2) - Acetone
+ 27: (  2) - Angie Palmer
+ 28: (  2) - Betty Davis
+ 29: (  2) - Billy Joel
+ 30: (  2) - Deep Purple
+ 31: (  2) - Definitely Dylan
+ 32: (  2) - Donnie & Joe Emerson
+ 33: (  2) - Eilen Jewell
+ 34: (  2) - Elton John
+ 35: (  2) - Elvis Costello & the Attractions
+ 36: (  2) - Gigi Masin
+ 37: (  2) - Greg Mason
+ 38: (  2) - Jackson Browne
+ 39: (  2) - Jim Sullivan
+ 40: (  2) - Karin Krog
+ 41: (  2) - Karl Schaffner
+ 42: (  2) - Lee Hazlewood
+ 43: (  2) - Roky Erickson
+ 44: (  2) - Sex Pistols
+ 45: (  2) - Shin Joong Hyun & the Men
+ 46: (  2) - Status Quo
+ 47: (  2) - Supreme Jubilees
+ 48: (  2) - The J. Geils Band
+ 49: (  2) - The Style Council
+ 50: (  2) - Young Marble Giants
