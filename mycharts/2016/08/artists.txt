@@ -1,74 +1,63 @@
 Specified year (2016), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     954            57            59           627
+     954            46            59           627
   1: ( 75) - The Undertones
-  2: ( 57) - Simple Minds
-  3: ( 45) - Ryan Adams
+  2: ( 59) - Various
+  3: ( 57) - Simple Minds
+  4: ( 45) - Ryan Adams
 
 
-  4: ( 42) - Laura Marling
+  5: ( 42) - Laura Marling
 
-  5: ( 40) - Rosanne Cash
-
-
-  6: ( 37) - Christine and the Queens
-  7: ( 36) - Emmylou Harris
-  8: ( 35) - Sarah MacDougall
-  9: ( 34) - ABC
-
- 10: ( 32) - David Bowie
+  6: ( 40) - Rosanne Cash
 
 
+  7: ( 37) - Christine and the Queens
+  8: ( 36) - Emmylou Harris
+  9: ( 35) - Sarah MacDougall
+ 10: ( 34) - ABC
+
+ 11: ( 32) - David Bowie
 
 
- 11: ( 27) - Roxy Music
- 12: ( 26) - Sarah Jarosz
+
+
+ 12: ( 27) - Roxy Music
+
  13: ( 25) - Aztec Camera
  14: ( 25) - Orchestral Manoeuvres in the Dark
  15: ( 24) - Hayes Carll
  16: ( 23) - Rodney Crowell
+ 17: ( 22) - Sarah Jarosz
 
 
-
- 17: ( 19) - The Redlands Palomino Company
- 18: ( 18) - Devine & Statton
- 19: ( 18) - Sara Watkins
+ 18: ( 19) - The Redlands Palomino Company
+ 19: ( 18) - Devine & Statton
  20: ( 17) - JT and the Clouds
  21: ( 16) - Hem
 
- 22: ( 14) - case/lang/veirs
- 23: ( 13) - Cowboy Junkies
- 24: ( 13) - Elvis Costello & the Attractions
- 25: ( 13) - Scott Walker
- 26: ( 13) - The Beach Boys
- 27: ( 13) - The Beatles
- 28: ( 12) - Birds of Chicago
- 29: ( 12) - Hackensaw Boys
- 30: ( 11) - Jason Isbell
- 31: ( 11) - Lera Lynn
- 32: ( 11) - Lloyd Cole
- 33: ( 11) - Noah and the Whale
- 34: ( 10) - Leonard Cohen
- 35: (  9) - Altered Images
- 36: (  9) - Angie Palmer
- 37: (  9) - Echo & the Bunnymen
- 38: (  9) - Heaven 17
- 39: (  9) - Nick Cave & the Bad Seeds
- 40: (  8) - Eilen Jewell
- 41: (  7) - Artery
- 42: (  7) - The Pale Fountains
- 43: (  6) - Rhyton
- 44: (  4) - Bat for Lashes
- 45: (  4) - Chris Robinson Brotherhood
- 46: (  4) - D M Smith
- 47: (  4) - Eggs Over Easy
- 48: (  4) - Emma Russack
- 49: (  4) - Hannah Georgas
- 50: (  4) - Idris Ackamoor & the Pyramids
- 51: (  4) - Lou Rhodes
- 52: (  4) - Tchiss Lopez
- 53: (  4) - The Julie Ruin
- 54: (  4) - Thee Oh Sees
- 55: (  3) - Kristin Hersh
- 56: (  3) - Plaid
- 57: (  3) - The Jayhawks
+ 22: ( 14) - Sara Watkins
+ 23: ( 14) - case/lang/veirs
+ 24: ( 13) - Cowboy Junkies
+ 25: ( 13) - Elvis Costello & the Attractions
+ 26: ( 13) - Scott Walker
+ 27: ( 13) - The Beach Boys
+ 28: ( 13) - The Beatles
+ 29: ( 12) - Birds of Chicago
+ 30: ( 12) - Hackensaw Boys
+ 31: ( 11) - Jason Isbell
+ 32: ( 11) - Lera Lynn
+ 33: ( 11) - Lloyd Cole
+ 34: ( 11) - Noah and the Whale
+ 35: ( 10) - Leonard Cohen
+ 36: (  9) - Altered Images
+ 37: (  9) - Angie Palmer
+ 38: (  9) - Echo & the Bunnymen
+ 39: (  9) - Heaven 17
+ 40: (  9) - Nick Cave & the Bad Seeds
+ 41: (  8) - Eilen Jewell
+ 42: (  7) - Artery
+ 43: (  7) - The Pale Fountains
+ 44: (  3) - Kristin Hersh
+ 45: (  3) - The Jayhawks
+ 46: (  2) - Rhyton

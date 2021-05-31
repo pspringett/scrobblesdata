@@ -1,6 +1,6 @@
 Specified year (2017), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1381            66            72           769
+    1381            56            72           769
   1: (102) - David Bowie
   2: ( 84) - Simple Minds
   3: ( 80) - The Style Council
@@ -49,36 +49,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  31: ( 14) - Hayes Carll
  32: ( 14) - The Beatles
  33: ( 13) - Jim Lauderdale
- 34: ( 12) - Carrie Rodriguez
- 35: ( 12) - Echo & the Bunnymen
- 36: ( 12) - Freakwater
- 37: ( 12) - Myrtle Park's Fishing Club
- 38: ( 11) - Lera Lynn
- 39: ( 11) - Ryan Adams
- 40: ( 11) - Shelby Lynne
- 41: ( 11) - The Wailers
- 42: ( 10) - Kathleen Edwards
- 43: ( 10) - Mount Moriah
- 44: ( 10) - Orange Juice
- 45: ( 10) - The Cure
- 46: ( 10) - The Police
- 47: ( 10) - The Sundays
- 48: (  9) - Rodney Crowell
- 49: (  8) - Anne Mccue
- 50: (  7) - The Redlands Palomino Company
- 51: (  6) - Heaven 17
- 52: (  5) - Altered Images
- 53: (  5) - Prefab Sprout
- 54: (  4) - ABC
- 55: (  4) - Birds of Chicago
- 56: (  2) - Lambchop
- 57: (  2) - Tom House
- 58: (  1) - Can
- 59: (  1) - Dump
- 60: (  1) - Factory Floor
- 61: (  1) - Kort
- 62: (  1) - Nick Cave & the Bad Seeds
- 63: (  1) - Richard Buckner
- 64: (  1) - Tiny Ruins
- 65: (  1) - William Tyler
- 66: (  1) - Yolo Tengo
+ 34: ( 13) - Various
+ 35: ( 12) - Carrie Rodriguez
+ 36: ( 12) - Echo & the Bunnymen
+ 37: ( 12) - Freakwater
+ 38: ( 12) - Myrtle Park's Fishing Club
+ 39: ( 11) - Lera Lynn
+ 40: ( 11) - Ryan Adams
+ 41: ( 11) - Shelby Lynne
+ 42: ( 11) - The Wailers
+ 43: ( 10) - Kathleen Edwards
+ 44: ( 10) - Mount Moriah
+ 45: ( 10) - Orange Juice
+ 46: ( 10) - The Cure
+ 47: ( 10) - The Police
+ 48: ( 10) - The Sundays
+ 49: (  9) - Rodney Crowell
+ 50: (  8) - Anne Mccue
+ 51: (  7) - The Redlands Palomino Company
+ 52: (  6) - Heaven 17
+ 53: (  5) - Altered Images
+ 54: (  5) - Prefab Sprout
+ 55: (  4) - ABC
+ 56: (  4) - Birds of Chicago

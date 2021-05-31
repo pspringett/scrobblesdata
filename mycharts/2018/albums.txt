@@ -152,7 +152,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 148: ( 30) - American Flowers - Birds of Chicago
 149: ( 30) - Another View - The Velvet Underground
 150: ( 30) - Close Ties - Rodney Crowell
-151: ( 30) - Get Happy!! (CD2) - Elvis Costello & the Attractions
+151: ( 30) - Get Happy!! Cd2 - Elvis Costello & the Attractions
 152: ( 30) - Hunky Dory - David Bowie
 153: ( 30) - King Of America - Elvis Costello
 154: ( 30) - Oceans - Artery
@@ -194,7 +194,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 190: ( 24) - American Kid - Patty Griffin
 191: ( 24) * Black Cadillac - Rosanne Cash
 192: ( 24) * Black Eyed Man - Cowboy Junkies
-193: ( 24) - Butcher Holler - Eilen Jewell
+193: ( 24) - Butcher Holler - A Tribute To Loretta Lynn - Butcher Holler
 194: ( 24) * Cabin Fever (Cabin Side) - Corb Lund
 195: ( 24) - Carrying Lightning - Amanda Shires
 196: ( 24) - Crows - Allison Moorer
@@ -242,20 +242,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 238: ( 18) * Highway 61 Revisited - Bob Dylan
 239: ( 18) - In City And In Forest - Tower of Song
 240: ( 18) - Natalie Prass - Natalie Prass
-241: ( 18) - Speaking In Tongues - Talking Heads
-242: ( 18) - The Sin Of Pride - The Undertones
-243: ( 18) * Tom Tom Club - Tom Tom Club
-244: ( 17) - A Selection Of Songs - The French Impressionists
-245: ( 17) - Another Country - Tift Merritt
-246: ( 17) - Live From Space - Birds of Chicago
-247: ( 17) - Peel Sessions 1981 - The Cure
-248: ( 17) - Protest Songs - Prefab Sprout
-249: ( 17) * Rattlesnakes - Lloyd Cole and the Commotions
-250: ( 17) - Shadows In The Night - Bob Dylan
-251: ( 17) * Tallulah - The Go-Betweens
-252: ( 16) - Back From The Rains - Eyeless in Gaza
-253: ( 16) - Empire Builder - Laura Gibson
-254: ( 16) - Rattle And Hum - U2
+241: ( 18) - Rattle And Hum - U2
+242: ( 18) - Speaking In Tongues - Talking Heads
+243: ( 18) - The Sin Of Pride - The Undertones
+244: ( 18) * Tom Tom Club - Tom Tom Club
+245: ( 17) - A Selection Of Songs - The French Impressionists
+246: ( 17) - Another Country - Tift Merritt
+247: ( 17) - Live From Space - Birds of Chicago
+248: ( 17) - Peel Sessions 1981 - The Cure
+249: ( 17) - Protest Songs - Prefab Sprout
+250: ( 17) * Rattlesnakes - Lloyd Cole and the Commotions
+251: ( 17) - Shadows In The Night - Bob Dylan
+252: ( 17) * Tallulah - The Go-Betweens
+253: ( 16) - Back From The Rains - Eyeless in Gaza
+254: ( 16) - Empire Builder - Laura Gibson
 255: ( 16) - The '81 Demos - Weekend
 256: ( 15) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
 257: ( 15) * Don't Get Weird On Me Babe - Lloyd Cole
@@ -267,7 +267,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 263: ( 15) - The Prince Of Wales - Devine & Statton
 264: ( 14) - Being Brave - Amanda Shires
 265: ( 14) - Blue Black - Jean Toussaint
-266: ( 14) * Cleaning Out The Ashtrays CD4 - Difficult Pieces - Lloyd Cole
+266: ( 14) - Cleaning Out The Ashtrays Cd4 - Difficult Pieces - Lloyd Cole
 267: ( 14) * Happy Birthday - Altered Images
 268: ( 14) * I'm Not Following You - Edwyn Collins
 269: ( 14) - In Search Of Space - Hawkwind
@@ -570,47 +570,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 566: (  1) - Perfume - Wand
 567: (  1) - Plastic Bertrand - Plastic Bertrand
 568: (  1) - Plastic Letters - Blondie
-569: (  1) - Rattle And Hum - Adam Gussow
-570: (  1) - Rattle And Hum - Jimi Hendrix
-571: (  1) - Rebound - Eleanor Friedberger
-572: (  1) - Reel To Real Cacophony - Simple Minds
-573: (  1) * Remain In Light - Talking Heads
-574: (  1) - Replicas (Remastered) - Tubeway Army
-575: (  1) - Rio (Collector's Edition) - Duran Duran
-576: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-577: (  1) - Ska Box Anthology - The Specials
-578: (  1) - Sleep - Hatchie
-579: (  1) * Snap - The Jam
-580: (  1) - Songs From The Big Chair - Tears for Fears
-581: (  1) - Stealers Wheel - Stealers Wheel
-582: (  1) * Stop Making Sense - Talking Heads
-583: (  1) - Sub-Stance - Department S
-584: (  1) - Sure (Robin Guthrie Remix) - Hatchie
-585: (  1) - Suzanne Vega - Suzanne Vega
-586: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
-587: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
-588: (  1) - Take It Or Leave It - Madness
-589: (  1) - Tell Me How You Really Feel - Courtney Barnett
-590: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
-591: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
-592: (  1) - The Burnt Match - The Wave Pictures
-593: (  1) - The Essential Yardbirds - The Yardbirds
-594: (  1) - The Esteemed Orange Juice - Haircut 100
-595: (  1) - The Gift - The Jam
-596: (  1) - The Head On The Door - The Cure
-597: (  1) - The Kink Kontroversy - The Kinks
-598: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
-599: (  1) - The Projector - Simone Felice
-600: (  1) - The Singles 1984-2004 - A-Ha
-601: (  1) - The Wrong People - Furniture
-602: (  1) - Tin Drum - Japan
-603: (  1) - Top 100 80S - New Order
-604: (  1) - Try - Hatchie
-605: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
-606: (  1) - Universalists - Yonatan Gat
-607: (  1) - Up The Junction - Squeeze
-608: (  1) - Upper West Side - Harry Allen
-609: (  1) - Violent Femmes - Violent Femmes
-610: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
-611: (  1) - When In Rome - When in Rome
-612: (  1) - Wilder - The Teardrop Explodes
+569: (  1) - Rebound - Eleanor Friedberger
+570: (  1) - Reel To Real Cacophony - Simple Minds
+571: (  1) * Remain In Light - Talking Heads
+572: (  1) - Replicas (Remastered) - Tubeway Army
+573: (  1) - Rio (Collector's Edition) - Duran Duran
+574: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+575: (  1) - Ska Box Anthology - The Specials
+576: (  1) - Sleep - Hatchie
+577: (  1) * Snap - The Jam
+578: (  1) - Songs From The Big Chair - Tears for Fears
+579: (  1) - Stealers Wheel - Stealers Wheel
+580: (  1) * Stop Making Sense - Talking Heads
+581: (  1) - Sub-Stance - Department S
+582: (  1) - Sure (Robin Guthrie Remix) - Hatchie
+583: (  1) - Suzanne Vega - Suzanne Vega
+584: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
+585: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
+586: (  1) - Take It Or Leave It - Madness
+587: (  1) - Tell Me How You Really Feel - Courtney Barnett
+588: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
+589: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
+590: (  1) - The Burnt Match - The Wave Pictures
+591: (  1) - The Essential Yardbirds - The Yardbirds
+592: (  1) - The Esteemed Orange Juice - Haircut 100
+593: (  1) - The Gift - The Jam
+594: (  1) - The Head On The Door - The Cure
+595: (  1) - The Kink Kontroversy - The Kinks
+596: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
+597: (  1) - The Projector - Simone Felice
+598: (  1) - The Singles 1984-2004 - A-Ha
+599: (  1) - The Wrong People - Furniture
+600: (  1) - Tin Drum - Japan
+601: (  1) - Top 100 80S - New Order
+602: (  1) - Try - Hatchie
+603: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
+604: (  1) - Universalists - Yonatan Gat
+605: (  1) - Up The Junction - Squeeze
+606: (  1) - Upper West Side - Harry Allen
+607: (  1) - Violent Femmes - Violent Femmes
+608: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
+609: (  1) - When In Rome - When in Rome
+610: (  1) - Wilder - The Teardrop Explodes

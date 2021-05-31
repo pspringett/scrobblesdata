@@ -1,6 +1,6 @@
 Specified year (2018), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1366           102           107          1001
+    1366           100           107          1001
   1: ( 96) - Elvis Costello
   2: ( 72) - David Bowie
   3: ( 51) - Cocteau Twins
@@ -41,8 +41,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: ( 19) - Orange Juice
  23: ( 18) - The Mighty Wah!
  24: ( 18) - The Waterboys
+ 25: ( 18) - U2
 
- 25: ( 16) - U2
+
  26: ( 15) - Blondie
  27: ( 15) - Elvis Costello & the Attractions
  28: ( 15) - Josh Ritter
@@ -54,7 +55,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  34: ( 13) - Dolly Parton
  35: ( 13) - Jim Lauderdale
  36: ( 13) - Laura Cantrell
- 37: ( 12) - Eilen Jewell
+ 37: ( 12) - Butcher Holler
  38: ( 12) - Nick Heyward
  39: ( 12) - Patty Griffin
  40: ( 12) - Rosanne Cash
@@ -116,7 +117,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  96: (  2) - The Red Krayola
  97: (  2) - Virgin Prunes
  98: (  2) - Wah! Heat
- 99: (  1) - Adam Gussow
-100: (  1) - Jimi Hendrix
-101: (  1) - Subway Sect
-102: (  1) - The Gist
+ 99: (  1) - Subway Sect
+100: (  1) - The Gist

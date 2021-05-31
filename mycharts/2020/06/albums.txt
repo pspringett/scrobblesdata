@@ -1,6 +1,6 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1322            52            54           461
+    1322            42            54           461
   1: (136) - Beauty Stab - ABC
   2: ( 84) - One To The Heart, One To The Head - Gretchen Peters
   3: ( 72) - Rough And Rowdy Ways - Bob Dylan
@@ -50,43 +50,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  30: ( 20) * Bad Vibes - Lloyd Cole
  31: ( 20) - Sons And Fascination/Sister Feelings Call - Simple Minds
  32: ( 20) * Soul Journey - Gillian Welch
+ 33: ( 20) - UNCUT 2016-11 Sterotypes - Various
 
- 33: ( 18) - Modern Times - Bob Dylan
- 34: ( 18) * Slow Train Coming - Bob Dylan
+ 34: ( 18) - Modern Times - Bob Dylan
+ 35: ( 18) * Slow Train Coming - Bob Dylan
 
- 35: ( 16) - Aikea-Guinea - Cocteau Twins
+ 36: ( 16) - Aikea-Guinea - Cocteau Twins
 
- 36: ( 14) - Back From The Rains - Eyeless in Gaza
+ 37: ( 14) - Back From The Rains - Eyeless in Gaza
 
 
 
- 37: ( 10) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
- 38: ( 10) - The Top (Remastered Version) - The Cure
- 39: ( 10) - Triplicate - Bob Dylan
- 40: (  8) - Traveling Companion - Tift Merritt
- 41: (  6) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
- 42: (  6) - Fallen Angels - Bob Dylan
- 43: (  6) - Speaking In Tongues - Talking Heads
- 44: (  6) - Stranger In The Alps - Phoebe Bridgers
- 45: (  4) - Head Over Heels - Cocteau Twins
- 46: (  4) * Sparkle In The Rain - Simple Minds
- 47: (  4) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
- 48: (  2) -  - Bob Dylan
- 49: (  2) * Jordan: The Comeback - Prefab Sprout
- 50: (  2) - Stranger In The Alp - Phoebe Bridgers
- 51: (  2) - Time Out Of Mind - Bob Dylan
- 52: (  2) - Time Out Of Mind - Simple Minds
- 53: (  2) - Travelogue - The Men
- 54: (  2) - True Meanings - Paul Weller
- 55: (  2) - Uncut 2016-02 - What's Going On! - Fat White Family
- 56: (  2) - Uncut 2016-11 - Sterotypes - Acid Arab
- 57: (  2) - Uncut 2016-11 - Sterotypes - C Duncan
- 58: (  2) - Uncut 2016-11 - Sterotypes - Chivalrous Amoekons
- 59: (  2) - Uncut 2016-11 - Sterotypes - Conor Oberst
- 60: (  2) - Uncut 2016-11 - Sterotypes - Goat
- 61: (  2) - Uncut 2016-11 - Sterotypes - Julia Jacklin
- 62: (  2) - Uncut 2016-11 - Sterotypes - Kristin Hersch
- 63: (  2) - Uncut 2016-11 - Sterotypes - Luke Roberts
- 64: (  2) - Uncut 2016-11 - Sterotypes - Purling Hiss
- 65: (  2) - Uncut 2016-11 - Sterotypes - Xylouris White
- 66: (  2) - War Baby - Hope & Glory - Tom Robinson
+ 38: ( 10) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
+ 39: ( 10) - The Top (Remastered Version) - The Cure
+ 40: ( 10) - Triplicate - Bob Dylan
+ 41: (  8) - Traveling Companion - Tift Merritt
+ 42: (  6) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
+ 43: (  6) - Fallen Angels - Bob Dylan
+ 44: (  6) - Speaking In Tongues - Talking Heads
+ 45: (  6) - Stranger In The Alps - Phoebe Bridgers
+ 46: (  4) - Head Over Heels - Cocteau Twins
+ 47: (  4) * Sparkle In The Rain - Simple Minds
+ 48: (  4) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+ 49: (  2) -  - Bob Dylan
+ 50: (  2) * Jordan: The Comeback - Prefab Sprout
+ 51: (  2) - Stranger In The Alp - Phoebe Bridgers
+ 52: (  2) - Time Out Of Mind - Bob Dylan
+ 53: (  2) - Time Out Of Mind - Simple Minds
+ 54: (  2) - Travelogue - The Men
+ 55: (  2) - True Meanings - Paul Weller
+ 56: (  2) - UNCUT 2016-02 - Various
+ 57: (  2) - War Baby - Hope & Glory - Tom Robinson

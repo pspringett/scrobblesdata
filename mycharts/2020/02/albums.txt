@@ -1,6 +1,6 @@
 Specified year (2020), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2272           118           107           865
+    2272            93           107           865
   1: ( 76) - Life's A Riot With Spy Vs. Spy (30Th Anniversary Edition) - Billy Bragg
   2: ( 72) - Sunshine On Leith - The Proclaimers
   3: ( 66) - Dandy In The Underworld (Deluxe Edition) - T. Rex
@@ -22,139 +22,114 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  14: ( 40) - Echoes In A Shallow Bay - Cocteau Twins
  15: ( 40) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
+ 16: ( 40) - UNCUT 2016-12 The Hustle - Various
 
- 16: ( 38) - Cover Your Tracks - Corb Lund
- 17: ( 38) - The Slider - T. Rex
+ 17: ( 38) - Cover Your Tracks - Corb Lund
+ 18: ( 38) - The Slider - T. Rex
 
- 18: ( 36) - The Graduate - Dave Grusin
+ 19: ( 36) - The Graduate - Dave Grusin
 
- 19: ( 34) - Tiny Dynamine - Cocteau Twins
+ 20: ( 34) - Tiny Dynamine - Cocteau Twins
 
- 20: ( 32) * Cleaning Out The Ashtrays CD4 - Difficult Pieces - Lloyd Cole
+ 21: ( 32) - Cleaning Out The Ashtrays Cd4 - Difficult Pieces - Lloyd Cole
 
- 21: ( 30) - Aviary - Julia Holter
- 22: ( 30) * Funnel Cloud (Bonus Track Version) - Hem
- 23: ( 30) - Tanx (The Visconti Master) - T. Rex
+ 22: ( 30) - Aviary - Julia Holter
+ 23: ( 30) * Funnel Cloud (Bonus Track Version) - Hem
+ 24: ( 30) - Tanx (The Visconti Master) - T. Rex
+ 25: ( 30) * UNCUT 2016-09 - Ones From The Heart - Various
 
- 24: ( 28) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
- 25: ( 28) * Rockers - Original Soundtrack - Various
- 26: ( 28) - What A Terrible World, What A Beautiful World - The Decemberists
- 27: ( 28) - You Can't Hide Your Love Forever - Orange Juice
+ 26: ( 28) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
+ 27: ( 28) * Rockers - Original Soundtrack - Various
+ 28: ( 28) - What A Terrible World, What A Beautiful World - The Decemberists
+ 29: ( 28) - You Can't Hide Your Love Forever - Orange Juice
 
- 28: ( 26) * Architecture & Morality - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
- 29: ( 26) - Bobby Fuller Died For Your Sins - Chuck Prophet
- 30: ( 26) - Elton John (Remastered Version) - Elton John
- 31: ( 26) * Queen Of The Minor Key - Eilen Jewell
- 32: ( 26) * This Year's Model - Elvis Costello & the Attractions
+ 30: ( 26) * Architecture & Morality - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
+ 31: ( 26) - Bobby Fuller Died For Your Sins - Chuck Prophet
+ 32: ( 26) - Elton John (Remastered Version) - Elton John
+ 33: ( 26) * Queen Of The Minor Key - Eilen Jewell
+ 34: ( 26) * This Year's Model - Elvis Costello & the Attractions
 
- 33: ( 24) - Bolan's Zip Gun - T. Rex
- 34: ( 24) * Broken Carelessly - The Redlands Palomino Company
- 35: ( 24) - Butcher Holler - Eilen Jewell
- 36: ( 24) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
- 37: ( 24) - Old Yellow Moon - Emmylou Harris
- 38: ( 24) - Peel Sessions 1981 - The Cure
- 39: ( 24) - Sorry For Laughing - Josef K
- 40: ( 24) * The Trinity Session - Cowboy Junkies
- 41: ( 24) - Tin Drum - Japan
- 42: ( 24) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
+ 35: ( 24) - Bolan's Zip Gun - T. Rex
+ 36: ( 24) * Broken Carelessly - The Redlands Palomino Company
+ 37: ( 24) - Butcher Holler - Eilen Jewell
+ 38: ( 24) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
+ 39: ( 24) - Old Yellow Moon - Emmylou Harris
+ 40: ( 24) - Peel Sessions 1981 - The Cure
+ 41: ( 24) - Sorry For Laughing - Josef K
+ 42: ( 24) * The Trinity Session - Cowboy Junkies
+ 43: ( 24) - Tin Drum - Japan
+ 44: ( 24) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
 
- 43: ( 22) - Aikea-Guinea - Cocteau Twins
- 44: ( 22) * Boy - U2
- 45: ( 22) * California Star - Martin Stephenson and the Daintees
- 46: ( 22) * Cleaning Out The Ashtrays CD2 - Re-make/Re-model - Lloyd Cole
- 47: ( 22) - In Concert 1987 - New Order
- 48: ( 22) - Sex And Gasoline - Rodney Crowell
- 49: ( 22) - The Doors - The Doors
- 50: ( 22) - The Houston Kid - Rodney Crowell
- 51: ( 22) - While I Was Asleep - Darling West
+ 45: ( 22) - Aikea-Guinea - Cocteau Twins
+ 46: ( 22) * Boy - U2
+ 47: ( 22) * California Star - Martin Stephenson and the Daintees
+ 48: ( 22) * Cleaning Out The Ashtrays CD2 - Re-make/Re-model - Lloyd Cole
+ 49: ( 22) - In Concert 1987 - New Order
+ 50: ( 22) - Sex And Gasoline - Rodney Crowell
+ 51: ( 22) - The Doors - The Doors
+ 52: ( 22) - The Houston Kid - Rodney Crowell
+ 53: ( 22) - While I Was Asleep - Darling West
 
- 52: ( 20) - I'll Be Your Girl - The Decemberists
- 53: ( 20) - Movement - The Factory Years (Bonus Disc) - New Order
- 54: ( 20) - Present Arms - UB40
- 55: ( 20) - The Top (Remastered Version) - The Cure
+ 54: ( 20) - I'll Be Your Girl - The Decemberists
+ 55: ( 20) - Movement - The Factory Years (Bonus Disc) - New Order
+ 56: ( 20) - Present Arms - UB40
+ 57: ( 20) - The Top (Remastered Version) - The Cure
 
- 56: ( 18) - In City And In Forest - Tower of Song
- 57: ( 18) - Live At Eddie's Attic - The Civil Wars
- 58: ( 18) * Various Positions - Leonard Cohen
- 59: ( 18) * Wrecking Ball - Emmylou Harris
+ 58: ( 18) - In City And In Forest - Tower of Song
+ 59: ( 18) - Live At Eddie's Attic - The Civil Wars
+ 60: ( 18) * Various Positions - Leonard Cohen
+ 61: ( 18) * Wrecking Ball - Emmylou Harris
 
- 60: ( 16) * A Distant Shore - Tracey Thorn
- 61: ( 16) - Another View - The Velvet Underground
- 62: ( 16) * Don't Fade - The Redlands Palomino Company
- 63: ( 16) - Garlands - Cocteau Twins
- 64: ( 16) - Songs Of Love And Hate - Leonard Cohen
- 65: ( 16) - The Spangle Maker - Cocteau Twins
+ 62: ( 16) * A Distant Shore - Tracey Thorn
+ 63: ( 16) - Another View - The Velvet Underground
+ 64: ( 16) * Don't Fade - The Redlands Palomino Company
+ 65: ( 16) - Garlands - Cocteau Twins
+ 66: ( 16) - Songs Of Love And Hate - Leonard Cohen
+ 67: ( 16) - The Spangle Maker - Cocteau Twins
 
- 66: ( 14) - Carrying On - Kacy & Clayton
- 67: ( 14) * One Moment More - Mindy Smith
+ 68: ( 14) - Carrying On - Kacy & Clayton
+ 69: ( 14) * One Moment More - Mindy Smith
 
- 68: ( 12) - American Flowers - Birds of Chicago
- 69: ( 12) * There Comes A Time - Martin Stephenson and the Daintees
- 70: ( 12) - Works - Eberard Weber
+ 70: ( 12) - American Flowers - Birds of Chicago
+ 71: ( 12) * There Comes A Time - Martin Stephenson and the Daintees
+ 72: ( 12) - Works - Eberard Weber
 
 
 
- 71: (  8) - Cardiffians - Devine & Statton
- 72: (  8) - Live At The Empire Theatre Liverpool. 04.11.19. - Orchestral Manoeuvres in the Dark
- 73: (  8) - Making A New World - Field Music
- 74: (  6) - Countless Branches (Deluxe Edition) - Bill Fay
- 75: (  6) - Lullabies - Cocteau Twins
- 76: (  6) - Uncut 2016-12 - The Hustle - Lambchop
- 77: (  6) - Uncut 2016-12 - The Hustle - Tom House
- 78: (  6) - Uncut 2016-12 - The Hustle - William Tyler
- 79: (  4) - Cactused - Wire
- 80: (  4) - Debris - Keeley Forsyth
- 81: (  4) - Futuristic Dragon (Deluxe Edition) - T. Rex
- 82: (  4) - Hush - Tracy Bryant
- 83: (  4) - Just Like Moby Dick - The Panhandle Mystery Band
- 84: (  4) - Land Of No Junction - Aoife Nessa Frances
- 85: (  4) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
- 86: (  4) - Uncut 2016-12 - The Hustle - Dump
- 87: (  4) - Uncut 2016-12 - The Hustle - Nick Cave & the Bad Seeds
- 88: (  2) * Altered Images 12 Inch Mix - Altered Images
- 89: (  2) - Concrete And Glass - Nicolas Godin
- 90: (  2) - Crushing - Julia Jacklin
- 91: (  2) - Designer - Aldous Harding
- 92: (  2) - Dogrel - Fontaines D.c.
- 93: (  2) - Dream On - Alice Boman
- 94: (  2) - Goodbye, Blue Sky - Mr. Elevator
- 95: (  2) - I Was Born Swimming - Squirrel Flower
- 96: (  2) - I,I - Bon Iver
- 97: (  2) - Like The River Loves The Sea - Joan Shelley
- 98: (  2) - Nature - Modern Nature
- 99: (  2) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
-100: (  2) - Nijimusi - Ooioo
-101: (  2) - Odd West - Jason Mcmahon
-102: (  2) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
-103: (  2) - Purple Mountains - Purple Mountains
-104: (  2) - Reflected Images - The Best Of Altered Images - Altered Images
-105: (  2) - Reward - Cate le Bon
-106: (  2) - Shepherd In A Sheepskin Vest - Bill Callahan
-107: (  2) - Sound And Vision - Tin Machine
-108: (  2) - The Neon Skyline - Andy Shauf
-109: (  2) * The Unforgettable Fire - U2
-110: (  2) - There Is No Other (With Francesco Turrisi) [Deluxe Version] - Rhiannon Giddens
-111: (  2) - Titanic Rising - Weyes Blood
-112: (  2) - U.F.O.F. - Big Thief
-113: (  2) - UNCUT 2016-09 - Ones From The Heart - Anna Meredith
-114: (  2) - UNCUT 2016-09 - Ones From The Heart - Cass McCombs
-115: (  2) - UNCUT 2016-09 - Ones From The Heart - Cool Ghouls
-116: (  2) - UNCUT 2016-09 - Ones From The Heart - De La Soul
-117: (  2) - UNCUT 2016-09 - Ones From The Heart - Dinosaur Jr.
-118: (  2) - UNCUT 2016-09 - Ones From The Heart - Factory Floor
-119: (  2) - UNCUT 2016-09 - Ones From The Heart - Haley Bonar
-120: (  2) - UNCUT 2016-09 - Ones From The Heart - Hans Chew
-121: (  2) - UNCUT 2016-09 - Ones From The Heart - Judy Henske and Jerry Yester
-122: (  2) - UNCUT 2016-09 - Ones From The Heart - Lydia Loveless
-123: (  2) - UNCUT 2016-09 - Ones From The Heart - Morgan Delt
-124: (  2) - UNCUT 2016-09 - Ones From The Heart - Ryley Walker
-125: (  2) - UNCUT 2016-09 - Ones From The Heart - Scott Hirsch
-126: (  2) - UNCUT 2016-09 - Ones From The Heart - Teenage Fanclub
-127: (  2) - UNCUT 2016-09 - Ones From The Heart - Wild Beasts
-128: (  2) - Uncut 2016-12 - The Hustle - Can
-129: (  2) - Uncut 2016-12 - The Hustle - Factory Floor
-130: (  2) - Uncut 2016-12 - The Hustle - Kort
-131: (  2) - Uncut 2016-12 - The Hustle - Richard Buckner
-132: (  2) - Uncut 2016-12 - The Hustle - Shabazz Palaces
-133: (  2) - Uncut 2016-12 - The Hustle - Tiny Ruins
-134: (  2) - Uncut 2016-12 - The Hustle - Yolo Tengo
+ 73: (  8) - Cardiffians - Devine & Statton
+ 74: (  8) - Live At The Empire Theatre Liverpool. 04.11.19. - Orchestral Manoeuvres in the Dark
+ 75: (  8) - Making A New World - Field Music
+ 76: (  6) - Countless Branches (Deluxe Edition) - Bill Fay
+ 77: (  6) - Lullabies - Cocteau Twins
+ 78: (  4) - Cactused - Wire
+ 79: (  4) - Debris - Keeley Forsyth
+ 80: (  4) - Futuristic Dragon (Deluxe Edition) - T. Rex
+ 81: (  4) - Hush - Tracy Bryant
+ 82: (  4) - Just Like Moby Dick - The Panhandle Mystery Band
+ 83: (  4) - Land Of No Junction - Aoife Nessa Frances
+ 84: (  4) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+ 85: (  2) * Altered Images 12 Inch Mix - Altered Images
+ 86: (  2) - Concrete And Glass - Nicolas Godin
+ 87: (  2) - Crushing - Julia Jacklin
+ 88: (  2) - Designer - Aldous Harding
+ 89: (  2) - Dogrel - Fontaines D.c.
+ 90: (  2) - Dream On - Alice Boman
+ 91: (  2) - Goodbye, Blue Sky - Mr. Elevator
+ 92: (  2) - I Was Born Swimming - Squirrel Flower
+ 93: (  2) - I,I - Bon Iver
+ 94: (  2) - Like The River Loves The Sea - Joan Shelley
+ 95: (  2) - Nature - Modern Nature
+ 96: (  2) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
+ 97: (  2) - Nijimusi - Ooioo
+ 98: (  2) - Odd West - Jason Mcmahon
+ 99: (  2) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
+100: (  2) - Purple Mountains - Purple Mountains
+101: (  2) - Reflected Images - The Best Of Altered Images - Altered Images
+102: (  2) - Reward - Cate le Bon
+103: (  2) - Shepherd In A Sheepskin Vest - Bill Callahan
+104: (  2) - Sound And Vision - Tin Machine
+105: (  2) - The Neon Skyline - Andy Shauf
+106: (  2) * The Unforgettable Fire - U2
+107: (  2) - There Is No Other (With Francesco Turrisi) [Deluxe Version] - Rhiannon Giddens
+108: (  2) - Titanic Rising - Weyes Blood
+109: (  2) - U.F.O.F. - Big Thief

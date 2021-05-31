@@ -1,6 +1,6 @@
 Specified year (2020), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1286            68            72           432
+    1286            59            72           432
   1: ( 98) - Paul Weller
   2: ( 80) - Sweet
   3: ( 72) - Eliza Gilkyson
@@ -41,54 +41,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  23: ( 22) - She Drew the Gun
 
  24: ( 20) - Elton John
+ 25: ( 20) - Various
 
- 25: ( 18) - H.C. Mcentire
+ 26: ( 18) - H.C. Mcentire
 
- 26: ( 16) - Felt
+ 27: ( 16) - Felt
 
- 27: ( 14) - Department S
- 28: ( 14) - The Jam
+ 28: ( 14) - Department S
+ 29: ( 14) - The Jam
 
- 29: ( 12) - Furniture
- 30: ( 12) - Lera Lynn
- 31: ( 12) - Nick Cave & the Bad Seeds
- 32: ( 12) - The Velvet Underground
+ 30: ( 12) - Furniture
+ 31: ( 12) - Lera Lynn
+ 32: ( 12) - Nick Cave & the Bad Seeds
+ 33: ( 12) - The Velvet Underground
 
 
 
- 33: (  8) - Altered Images
- 34: (  8) - Eilen Jewell
- 35: (  8) - Green Gartside
- 36: (  8) - The Big Moon
- 37: (  8) - Weekend
- 38: (  6) - ABC
- 39: (  6) - Marc Bolan
- 40: (  6) - Rod Stewart
- 41: (  6) - Rufus Wainwright
- 42: (  6) - The Beatles
- 43: (  6) - The Cure
- 44: (  6) - The Sundays
- 45: (  4) - Simon & Garfunkel
- 46: (  4) - Tracey Thorn
- 47: (  2) - Brigid Dawson and the Mothers Network
- 48: (  2) - Cass McCombs
+ 34: (  8) - Altered Images
+ 35: (  8) - Eilen Jewell
+ 36: (  8) - Green Gartside
+ 37: (  8) - The Big Moon
+ 38: (  8) - Weekend
+ 39: (  6) - ABC
+ 40: (  6) - Marc Bolan
+ 41: (  6) - Rod Stewart
+ 42: (  6) - Rufus Wainwright
+ 43: (  6) - The Beatles
+ 44: (  6) - The Cure
+ 45: (  6) - The Sundays
+ 46: (  4) - Simon & Garfunkel
+ 47: (  4) - Tracey Thorn
+ 48: (  2) - Brigid Dawson and the Mothers Network
  49: (  2) - Chapter 4
  50: (  2) - Dave Grusin
- 51: (  2) - De La Soul
- 52: (  2) - Dinosaur Jr.
- 53: (  2) - Fat White Family
- 54: (  2) - Hans Chew
- 55: (  2) - John Cale
- 56: (  2) - Lettuce
- 57: (  2) - Lydia Loveless
- 58: (  2) - Margo Price
- 59: (  2) - Mark Lanegan
- 60: (  2) - Prefab Sprout
- 61: (  2) - Ryley Walker
- 62: (  2) - Steve Earle
- 63: (  2) - Talking Heads
- 64: (  2) - Teenage Fanclub
- 65: (  2) - The Dream Syndicate
- 66: (  2) - Wild Beasts
- 67: (  2) - William Tyler
- 68: (  2) - Woods
+ 51: (  2) - Lettuce
+ 52: (  2) - Margo Price
+ 53: (  2) - Mark Lanegan
+ 54: (  2) - Prefab Sprout
+ 55: (  2) - Steve Earle
+ 56: (  2) - Talking Heads
+ 57: (  2) - The Dream Syndicate
+ 58: (  2) - William Tyler
+ 59: (  2) - Woods

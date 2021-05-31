@@ -1,6 +1,6 @@
 Specified year (2017), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     524            57            47           380
+     524            43            47           380
   1: ( 41) - Orchestral Manoeuvres in the Dark
 
 
@@ -22,58 +22,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   5: ( 23) - It'S Immaterial
   6: ( 23) - Stevie Parker
   7: ( 22) - Haircut 100
-
-  8: ( 20) - The Style Council
-  9: ( 20) - The Undertones
- 10: ( 20) - Tift Merritt
-
-
- 11: ( 17) - Echo & the Bunnymen
- 12: ( 17) - The Velvet Underground
- 13: ( 16) - Bob Marley & the Wailers
- 14: ( 15) - David Bowie
- 15: ( 15) - The Big Moon
- 16: ( 14) - ABC
+  8: ( 21) - Various
+  9: ( 20) - The Style Council
+ 10: ( 20) - The Undertones
+ 11: ( 20) - Tift Merritt
 
 
- 17: ( 11) - Rosanne Cash
- 18: ( 11) - The Go-Betweens
- 19: ( 10) - Chuck Prophet
- 20: ( 10) - Cowboy Junkies
- 21: ( 10) - Leonard Cohen
- 22: ( 10) - Paul Weller
- 23: ( 10) - Simple Minds
- 24: ( 10) - Yazoo
- 25: (  8) - Spandau Ballet
- 26: (  8) - The Decemberists
- 27: (  7) - Eliza Gilkyson
- 28: (  7) - Mary Chapin Carpenter
- 29: (  7) - The Cure
- 30: (  5) - Bob Dylan
- 31: (  5) - Eyeless in Gaza
- 32: (  5) - Heaven 17
- 33: (  5) - London Grammar
- 34: (  2) - Boss Hog
- 35: (  2) - Mark Lanegan
- 36: (  2) - Rolling Blackouts Cf
- 37: (  2) - Tamikrest
- 38: (  2) - The Magpie Salute
- 39: (  2) - Thundercat (featuring Michael Mcdonald & Kenny Loggins)
- 40: (  1) - Bnqt
- 41: (  1) - Corb Lund
- 42: (  1) - Country Joe & the Fish
- 43: (  1) - Cream
- 44: (  1) - Fairport Convention
- 45: (  1) - Father John Misty
- 46: (  1) - Feral Ohms
- 47: (  1) - Fifty Foot Hose
- 48: (  1) - Jake Xerxes Fussell
- 49: (  1) - Robyn Hitchcock
- 50: (  1) - The Jimi Hendrix Experience
- 51: (  1) - The Move
- 52: (  1) - The Moving Sidewalks
- 53: (  1) - The New Pornographers
- 54: (  1) - Tomorrow
- 55: (  1) - Traffic
- 56: (  1) - Wire
- 57: (  1) - Yasmin Hamdan
+ 12: ( 17) - Echo & the Bunnymen
+ 13: ( 17) - The Velvet Underground
+ 14: ( 16) - Bob Marley & the Wailers
+ 15: ( 15) - David Bowie
+ 16: ( 15) - The Big Moon
+ 17: ( 14) - ABC
+
+
+ 18: ( 11) - Rosanne Cash
+ 19: ( 11) - The Go-Betweens
+ 20: ( 10) - Chuck Prophet
+ 21: ( 10) - Cowboy Junkies
+ 22: ( 10) - Leonard Cohen
+ 23: ( 10) - Paul Weller
+ 24: ( 10) - Simple Minds
+ 25: ( 10) - Yazoo
+ 26: (  8) - Spandau Ballet
+ 27: (  8) - The Decemberists
+ 28: (  7) - Eliza Gilkyson
+ 29: (  7) - Mary Chapin Carpenter
+ 30: (  7) - The Cure
+ 31: (  5) - Bob Dylan
+ 32: (  5) - Eyeless in Gaza
+ 33: (  5) - Heaven 17
+ 34: (  5) - London Grammar
+ 35: (  1) - Corb Lund
+ 36: (  1) - Country Joe & the Fish
+ 37: (  1) - Cream
+ 38: (  1) - Fifty Foot Hose
+ 39: (  1) - The Jimi Hendrix Experience
+ 40: (  1) - The Move
+ 41: (  1) - The Moving Sidewalks
+ 42: (  1) - Tomorrow
+ 43: (  1) - Traffic

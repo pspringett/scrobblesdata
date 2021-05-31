@@ -1,6 +1,6 @@
 Specified year (2017), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1381            66            72           769
+    1381            56            72           769
   1: ( 60) - Acoustic - Simple Minds
   2: ( 57) - Who Can I Be Now? [1974 - 1976] - David Bowie
   3: ( 48) - Song - It'S Immaterial
@@ -56,45 +56,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  38: ( 14) * Trouble In Mind - Hayes Carll
  39: ( 13) - Headed For The Hills - Jim Lauderdale
  40: ( 13) * High Land, Hard Rain - Aztec Camera
- 41: ( 12) - Evergreen - Echo & the Bunnymen
- 42: ( 12) * Love And Circumstance - Carrie Rodriguez
- 43: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
- 44: ( 12) - Scheherazade - Freakwater
- 45: ( 11) - Ashes & Fire - Ryan Adams
- 46: ( 11) - Burnin' - The Wailers
- 47: ( 11) - Revelation Road - Shelby Lynne
- 48: ( 11) - The Avenues - Lera Lynn
- 49: ( 11) - You And Me Both - Yazoo
- 50: ( 10) - Country Life - Roxy Music
- 51: ( 10) - Failer - Kathleen Edwards
- 52: ( 10) - How To Dance - Mount Moriah
- 53: ( 10) - Outlandos D'amour (Remastered) - The Police
- 54: ( 10) * Reading, Writing & Arithmetic - The Sundays
- 55: ( 10) * Roxy Music - Roxy Music
- 56: ( 10) * Seventeen Seconds - The Cure
- 57: ( 10) * Sparkle In The Rain - Simple Minds
- 58: ( 10) * The Orange Juice - Orange Juice
- 59: ( 10) - Traveling Companion - Tift Merritt
- 60: (  9) * The Man Who Sold The World - David Bowie
- 61: (  9) - The Outsider - Rodney Crowell
- 62: (  8) - Roll - Anne Mccue
- 63: (  7) * Broken Carelessly - The Redlands Palomino Company
- 64: (  6) - Penthouse And Pavement - Heaven 17
- 65: (  5) * Bite - Altered Images
- 66: (  5) - Love - Aztec Camera
- 67: (  4) * Birds Of Chicago - Birds of Chicago
- 68: (  4) - The Lexicon Of Love (Digitally Remastered) - ABC
- 69: (  2) * From Langley Park To Memphis - Prefab Sprout
- 70: (  2) * Steve McQueen - Prefab Sprout
- 71: (  2) - Uncut 2016-12 - The Hustle - Lambchop
- 72: (  2) - Uncut 2016-12 - The Hustle - Tom House
- 73: (  1) * Jordan: The Comeback - Prefab Sprout
- 74: (  1) - Uncut 2016-12 - The Hustle - Can
- 75: (  1) - Uncut 2016-12 - The Hustle - Dump
- 76: (  1) - Uncut 2016-12 - The Hustle - Factory Floor
- 77: (  1) - Uncut 2016-12 - The Hustle - Kort
- 78: (  1) - Uncut 2016-12 - The Hustle - Nick Cave & the Bad Seeds
- 79: (  1) - Uncut 2016-12 - The Hustle - Richard Buckner
- 80: (  1) - Uncut 2016-12 - The Hustle - Tiny Ruins
- 81: (  1) - Uncut 2016-12 - The Hustle - William Tyler
- 82: (  1) - Uncut 2016-12 - The Hustle - Yolo Tengo
+ 41: ( 13) - UNCUT 2016-12 The Hustle - Various
+ 42: ( 12) - Evergreen - Echo & the Bunnymen
+ 43: ( 12) * Love And Circumstance - Carrie Rodriguez
+ 44: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
+ 45: ( 12) - Scheherazade - Freakwater
+ 46: ( 11) - Ashes & Fire - Ryan Adams
+ 47: ( 11) - Burnin' - The Wailers
+ 48: ( 11) - Revelation Road - Shelby Lynne
+ 49: ( 11) - The Avenues - Lera Lynn
+ 50: ( 11) - You And Me Both - Yazoo
+ 51: ( 10) - Country Life - Roxy Music
+ 52: ( 10) - Failer - Kathleen Edwards
+ 53: ( 10) - How To Dance - Mount Moriah
+ 54: ( 10) - Outlandos D'amour (Remastered) - The Police
+ 55: ( 10) * Reading, Writing & Arithmetic - The Sundays
+ 56: ( 10) * Roxy Music - Roxy Music
+ 57: ( 10) * Seventeen Seconds - The Cure
+ 58: ( 10) * Sparkle In The Rain - Simple Minds
+ 59: ( 10) * The Orange Juice - Orange Juice
+ 60: ( 10) - Traveling Companion - Tift Merritt
+ 61: (  9) * The Man Who Sold The World - David Bowie
+ 62: (  9) - The Outsider - Rodney Crowell
+ 63: (  8) - Roll - Anne Mccue
+ 64: (  7) * Broken Carelessly - The Redlands Palomino Company
+ 65: (  6) - Penthouse And Pavement - Heaven 17
+ 66: (  5) * Bite - Altered Images
+ 67: (  5) - Love - Aztec Camera
+ 68: (  4) * Birds Of Chicago - Birds of Chicago
+ 69: (  4) - The Lexicon Of Love (Digitally Remastered) - ABC
+ 70: (  2) * From Langley Park To Memphis - Prefab Sprout
+ 71: (  2) * Steve McQueen - Prefab Sprout
+ 72: (  1) * Jordan: The Comeback - Prefab Sprout

@@ -1,6 +1,6 @@
 Specified year (2017), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1208            56            70           692
+    1208            54            70           692
   1: ( 70) - Together Through Life - Bob Dylan
   2: ( 56) - You And Me Both - Yazoo
   3: ( 55) - Stitch Of The World - Tift Merritt
@@ -38,11 +38,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: ( 19) - Positive Touch - The Undertones
  23: ( 18) - Echo & The Bunnymen - Echo & the Bunnymen
  24: ( 18) - Low - David Bowie
- 25: ( 17) - The Smiths - The Smiths
- 26: ( 16) * Beyond The Leap Beyond The Law - Martin Stephenson
- 27: ( 16) * Stop Making Sense - Talking Heads
- 28: ( 15) - Evergreen - Echo & the Bunnymen
- 29: ( 15) - Rattle And Hum - U2
+ 25: ( 17) - Rattle And Hum - U2
+ 26: ( 17) - The Smiths - The Smiths
+ 27: ( 16) * Beyond The Leap Beyond The Law - Martin Stephenson
+ 28: ( 16) * Stop Making Sense - Talking Heads
+ 29: ( 15) - Evergreen - Echo & the Bunnymen
  30: ( 14) - The River & The Thread - Rosanne Cash
  31: ( 13) - Cafe Bleu - The Style Council
  32: ( 13) - Sons And Fascination/Sister Feelings Call - Simple Minds
@@ -84,5 +84,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  68: (  3) - Same Trailer Different Park - Kacey Musgraves
  69: (  2) - Easy Pieces - Lloyd Cole and the Commotions
  70: (  2) * Mountains/Forests - JT Nero
- 71: (  1) - Rattle And Hum - Adam Gussow
- 72: (  1) - Rattle And Hum - The Jimi Hendrix Experience

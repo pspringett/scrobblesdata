@@ -1,6 +1,6 @@
 Specified year (2020), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1600            97            86           718
+    1600            82            86           718
   1: (128) - David Bowie
   2: ( 88) - Lloyd Cole
   3: ( 78) - Tift Merritt
@@ -21,103 +21,87 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 13: ( 34) - Various
 
 
 
+ 14: ( 30) - Alison Moyet
+ 15: ( 30) - Kacy & Clayton
+ 16: ( 30) - The Velvet Underground
+ 17: ( 30) - Young Marble Giants
 
- 13: ( 30) - Alison Moyet
- 14: ( 30) - Kacy & Clayton
- 15: ( 30) - The Velvet Underground
- 16: ( 30) - Young Marble Giants
+ 18: ( 28) - The Beatles
 
- 17: ( 28) - The Beatles
+ 19: ( 26) - The Fall
+ 20: ( 26) - The Style Council
+ 21: ( 26) - The Wailin' Jennys
 
- 18: ( 26) - The Fall
- 19: ( 26) - The Style Council
- 20: ( 26) - The Wailin' Jennys
+ 22: ( 24) - Laura Marling
+ 23: ( 24) - Mindy Smith
 
- 21: ( 24) - Laura Marling
- 22: ( 24) - Mindy Smith
+ 24: ( 22) - Elvis Costello
+ 25: ( 22) - Emmylou Harris
+ 26: ( 22) - Lcd Soundsystem
+ 27: ( 22) - Roddy Frame
+ 28: ( 22) - Rodney Crowell
+ 29: ( 22) - Sarah MacDougall
+ 30: ( 22) - The Weather Station
 
- 23: ( 22) - Elvis Costello
- 24: ( 22) - Emmylou Harris
- 25: ( 22) - Lcd Soundsystem
- 26: ( 22) - Roddy Frame
- 27: ( 22) - Rodney Crowell
- 28: ( 22) - Sarah MacDougall
- 29: ( 22) - The Weather Station
-
- 30: ( 20) - Haley Bonar
- 31: ( 20) - Joni Mitchell
- 32: ( 20) - Laura Gibson
- 33: ( 20) - Orange Juice
- 34: ( 20) - Paul Weller
- 35: ( 20) - The Decemberists
-
+ 31: ( 20) - Haley Bonar
+ 32: ( 20) - Joni Mitchell
+ 33: ( 20) - Laura Gibson
+ 34: ( 20) - Orange Juice
+ 35: ( 20) - Paul Weller
+ 36: ( 20) - The Decemberists
 
 
- 36: ( 16) - Bobbie Gentry
- 37: ( 16) - Rachel Harrington
- 38: ( 16) - Simon & Garfunkel
- 39: ( 16) - Suzanne Vega
 
- 40: ( 14) - Cocteau Twins
- 41: ( 14) - JT Nero
- 42: ( 14) - Kacey Musgraves
+ 37: ( 16) - Bobbie Gentry
+ 38: ( 16) - Rachel Harrington
+ 39: ( 16) - Simon & Garfunkel
+ 40: ( 16) - Suzanne Vega
 
- 43: ( 12) - Birds of Chicago
- 44: ( 12) - Dave Grusin
- 45: ( 12) - Dave Rawlings Machine
- 46: ( 12) - Natalie Prass
- 47: ( 12) - School of Seven Bells
+ 41: ( 14) - Cocteau Twins
+ 42: ( 14) - JT Nero
+ 43: ( 14) - Kacey Musgraves
+
+ 44: ( 12) - Birds of Chicago
+ 45: ( 12) - Dave Grusin
+ 46: ( 12) - Dave Rawlings Machine
+ 47: ( 12) - Natalie Prass
  48: ( 12) - The Comsat Angels
 
  49: ( 10) - H.C. Mcentire
- 50: ( 10) - The Big Moon
- 51: (  8) - Felt
- 52: (  8) - The Cure
- 53: (  6) - Nick Cave & the Bad Seeds
- 54: (  4) - Reggae Rockers
- 55: (  2) - Arbouretum
- 56: (  2) - Barry Adamson
+ 50: ( 10) - School of Seven Bells
+ 51: ( 10) - The Big Moon
+ 52: (  8) - Felt
+ 53: (  8) - The Cure
+ 54: (  6) - Nick Cave & the Bad Seeds
+ 55: (  4) - Reggae Rockers
+ 56: (  2) - Arbouretum
  57: (  2) - Baxter Dury
  58: (  2) - Bradley Brown
- 59: (  2) - Cavern of Anti-Matter
- 60: (  2) - Chalice
- 61: (  2) - Chris Hillman & Steve Earle
- 62: (  2) - Cornershop
- 63: (  2) - Cowboy Junkies
- 64: (  2) - Eleanor Friedberger
- 65: (  2) - Emitt Rhodes
- 66: (  2) - Field Music
- 67: (  2) - Fourth Street Sisters
- 68: (  2) - Freakwater
- 69: (  2) - Hilary Woods
- 70: (  2) - Honey Harper
- 71: (  2) - John Moreland
- 72: (  2) - Josephine Foster
- 73: (  2) - Judy Mowatt
- 74: (  2) - Juniore
- 75: (  2) - L.A. Takedown
- 76: (  2) - Lehbanchleh
- 77: (  2) - Lucinda Williams & David Crosby
- 78: (  2) - Mankind
- 79: (  2) - Matmos
- 80: (  2) - Mello
- 81: (  2) - Mount Moriah
- 82: (  2) - Nadia Reid
- 83: (  2) - Prins Thomas
- 84: (  2) - Rangda
- 85: (  2) - Real Estate
- 86: (  2) - Rokia Traore
- 87: (  2) - Steve Mason
- 88: (  2) - Sugar Black
- 89: (  2) - Swamp Dogg
- 90: (  2) - Tamikrest
- 91: (  2) - The Abyssinians
- 92: (  2) - The Besnard Lakes
- 93: (  2) - The Mighty Diamonds
- 94: (  2) - The Pretenders & Emmylou Harris
- 95: (  2) - The Wilde Flowers
- 96: (  2) - This Heat
- 97: (  2) - U.S. Girls
+ 59: (  2) - Chalice
+ 60: (  2) - Chris Hillman & Steve Earle
+ 61: (  2) - Cornershop
+ 62: (  2) - Cowboy Junkies
+ 63: (  2) - Fourth Street Sisters
+ 64: (  2) - Hilary Woods
+ 65: (  2) - Honey Harper
+ 66: (  2) - John Moreland
+ 67: (  2) - Judy Mowatt
+ 68: (  2) - Juniore
+ 69: (  2) - L.A. Takedown
+ 70: (  2) - Lehbanchleh
+ 71: (  2) - Lucinda Williams & David Crosby
+ 72: (  2) - Mankind
+ 73: (  2) - Mello
+ 74: (  2) - Nadia Reid
+ 75: (  2) - Real Estate
+ 76: (  2) - Sugar Black
+ 77: (  2) - Swamp Dogg
+ 78: (  2) - Tamikrest
+ 79: (  2) - The Abyssinians
+ 80: (  2) - The Mighty Diamonds
+ 81: (  2) - The Pretenders & Emmylou Harris
+ 82: (  2) - U.S. Girls

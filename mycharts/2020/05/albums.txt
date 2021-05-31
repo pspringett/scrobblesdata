@@ -1,6 +1,6 @@
 Specified year (2020), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1600            97            86           718
+    1600            82            86           718
   1: ( 64) - Futuristic Dragon (Deluxe Edition) - T. Rex
   2: ( 54) - Night - Tift Merritt
   3: ( 48) * Cleaning Out The Ashtrays CD3 - Dangerous Music - Lloyd Cole
@@ -25,107 +25,89 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  10: ( 30) - Alf (Deluxe Version) - Alison Moyet
  11: ( 30) - Colossal Youth - Young Marble Giants
+ 12: ( 30) - UNCUT 2016-03 The Stars Are Out Tonight - Various
 
- 12: ( 28) * Cleaning Out The Ashtrays CD1 - One Red Wine Glass - Lloyd Cole
- 13: ( 28) - Montreal 1983: Cd1 - David Bowie
- 14: ( 28) - Montreal 1983: Cd2 - David Bowie
- 15: ( 28) - Rubber Soul - The Beatles
+ 13: ( 28) * Cleaning Out The Ashtrays CD1 - One Red Wine Glass - Lloyd Cole
+ 14: ( 28) - Montreal 1983: Cd1 - David Bowie
+ 15: ( 28) - Montreal 1983: Cd2 - David Bowie
+ 16: ( 28) - Rubber Soul - The Beatles
 
- 16: ( 26) - Cafe Bleu - The Style Council
- 17: ( 26) * Firecracker - The Wailin' Jennys
- 18: ( 26) - Nomc15 (Live) - New Order
- 19: ( 26) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
+ 17: ( 26) - Cafe Bleu - The Style Council
+ 18: ( 26) * Firecracker - The Wailin' Jennys
+ 19: ( 26) - Nomc15 (Live) - New Order
+ 20: ( 26) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
 
- 20: ( 24) * Alas I Cannot Swim - Laura Marling
- 21: ( 24) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
- 22: ( 24) * Cabin Fever (Cabin Side) - Corb Lund
- 23: ( 24) * One Moment More - Mindy Smith
- 24: ( 24) - Traveling Alone (Bonus Track Version) - Tift Merritt
+ 21: ( 24) * Alas I Cannot Swim - Laura Marling
+ 22: ( 24) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
+ 23: ( 24) * Cabin Fever (Cabin Side) - Corb Lund
+ 24: ( 24) * One Moment More - Mindy Smith
+ 25: ( 24) - Traveling Alone (Bonus Track Version) - Tift Merritt
 
- 25: ( 22) - American Dream - Lcd Soundsystem
- 26: ( 22) - Hunky Dory - David Bowie
- 27: ( 22) - Loyalty - The Weather Station
- 28: ( 22) - Sex And Gasoline - Rodney Crowell
- 29: ( 22) * Stumble Into Grace - Emmylou Harris
- 30: ( 22) * The Greatest Ones Alive - Sarah MacDougall
- 31: ( 22) - Trust - Elvis Costello
- 32: ( 22) - Western Skies - Roddy Frame
+ 26: ( 22) - American Dream - Lcd Soundsystem
+ 27: ( 22) - Hunky Dory - David Bowie
+ 28: ( 22) - Loyalty - The Weather Station
+ 29: ( 22) - Sex And Gasoline - Rodney Crowell
+ 30: ( 22) * Stumble Into Grace - Emmylou Harris
+ 31: ( 22) * The Greatest Ones Alive - Sarah MacDougall
+ 32: ( 22) - Trust - Elvis Costello
+ 33: ( 22) - Western Skies - Roddy Frame
 
- 33: ( 20) - A Kind Revolution (Deluxe) - Paul Weller
- 34: ( 20) - Another Time, Another Place - Bryan Ferry
- 35: ( 20) * Bringing It All Back Home - Bob Dylan
- 36: ( 20) - Empire Builder - Laura Gibson
- 37: ( 20) * From Langley Park To Memphis - Prefab Sprout
- 38: ( 20) - I'll Be Your Girl - The Decemberists
- 39: ( 20) - Impossible Dream - Haley Bonar
- 40: ( 20) - Rip It Up - Orange Juice
- 41: ( 20) - Song To A Seagull - Joni Mitchell
- 42: ( 20) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
+ 34: ( 20) - A Kind Revolution (Deluxe) - Paul Weller
+ 35: ( 20) - Another Time, Another Place - Bryan Ferry
+ 36: ( 20) * Bringing It All Back Home - Bob Dylan
+ 37: ( 20) - Empire Builder - Laura Gibson
+ 38: ( 20) * From Langley Park To Memphis - Prefab Sprout
+ 39: ( 20) - I'll Be Your Girl - The Decemberists
+ 40: ( 20) - Impossible Dream - Haley Bonar
+ 41: ( 20) - Rip It Up - Orange Juice
+ 42: ( 20) - Song To A Seagull - Joni Mitchell
+ 43: ( 20) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
 
- 43: ( 18) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
- 44: ( 18) - The Siren's Song - Kacy & Clayton
+ 44: ( 18) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
+ 45: ( 18) - The Siren's Song - Kacy & Clayton
 
- 45: ( 16) - Cover Your Tracks - Corb Lund
- 46: ( 16) - Low-Life - New Order
- 47: ( 16) - Ode To Billie Joe - Bobbie Gentry
- 48: ( 16) - Suzanne Vega - Suzanne Vega
- 49: ( 16) * The Bootlegger's Daughter - Rachel Harrington
- 50: ( 16) - The Graduate - Simon & Garfunkel
+ 46: ( 16) - Cover Your Tracks - Corb Lund
+ 47: ( 16) - Low-Life - New Order
+ 48: ( 16) - Ode To Billie Joe - Bobbie Gentry
+ 49: ( 16) - Suzanne Vega - Suzanne Vega
+ 50: ( 16) * The Bootlegger's Daughter - Rachel Harrington
+ 51: ( 16) - The Graduate - Simon & Garfunkel
 
- 51: ( 14) * Demons/Demons - JT Nero
- 52: ( 14) - Golden Hour - Kacey Musgraves
- 53: ( 14) - Things That Can't Be Undone - Corb Lund
+ 52: ( 14) * Demons/Demons - JT Nero
+ 53: ( 14) - Golden Hour - Kacey Musgraves
+ 54: ( 14) - Things That Can't Be Undone - Corb Lund
 
- 54: ( 12) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
- 55: ( 12) - A Friend Of A Friend - Dave Rawlings Machine
- 56: ( 12) - American Flowers - Birds of Chicago
- 57: ( 12) - Carrying On - Kacy & Clayton
- 58: ( 12) - Natalie Prass - Natalie Prass
- 59: ( 12) * Plastic Wood - Lloyd Cole
- 60: ( 12) - The Graduate - Dave Grusin
- 61: ( 12) - Waiting For A Miracle - The Comsat Angels
+ 55: ( 12) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
+ 56: ( 12) - A Friend Of A Friend - Dave Rawlings Machine
+ 57: ( 12) - American Flowers - Birds of Chicago
+ 58: ( 12) - Carrying On - Kacy & Clayton
+ 59: ( 12) - Natalie Prass - Natalie Prass
+ 60: ( 12) * Plastic Wood - Lloyd Cole
+ 61: ( 12) - The Graduate - Dave Grusin
+ 62: ( 12) - Waiting For A Miracle - The Comsat Angels
 
- 62: ( 10) - Lionheart - H.C. Mcentire
- 63: ( 10) - Love In The 4Th Dimension - The Big Moon
- 64: ( 10) - SVIIB - School of Seven Bells
- 65: (  8) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
- 66: (  8) - Echoes In A Shallow Bay - Cocteau Twins
- 67: (  8) - The Top (Remastered Version) - The Cure
- 68: (  6) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
- 69: (  6) - Lullabies - Cocteau Twins
- 70: (  4) - Changesnowbowie - David Bowie
- 71: (  4) - Serious Moonlight - David Bowie
- 72: (  2) - Birthmarks - Hilary Woods
- 73: (  2) - England Is A Garden - Cornershop
- 74: (  2) - Heavy Light - U.S. Girls
- 75: (  2) - Let It All In - Arbouretum
- 76: (  2) - Lp5 - John Moreland
- 77: (  2) - Our Feeling Of Natural High - L.A. Takedown
- 78: (  2) - Out Of My Province - Nadia Reid
- 79: (  2) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Chris Hillman & Steve Earle
- 80: (  2) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Cowboy Junkies
- 81: (  2) - Return Of The Grievous Angel - A Tribute To Gram Parsons - Lucinda Williams & David Crosby
- 82: (  2) - Return Of The Grievous Angel - A Tribute To Gram Parsons - The Pretenders & Emmylou Harris
- 83: (  2) - Sorry You Couldn't Make It - Swamp Dogg
- 84: (  2) - Starmaker - Honey Harper
- 85: (  2) - TamotaïT - Tamikrest
- 86: (  2) - The Main Thing - Real Estate
- 87: (  2) - The Night Chancers - Baxter Dury
- 88: (  2) - Un, Deux, Trois - Juniore
- 89: (  2) - Uncut 2016-02 - What's Going On! - Eleanor Friedberger
- 90: (  2) - Uncut 2016-02 - What's Going On! - The Besnard Lakes
- 91: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Barry Adamson
- 92: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Cavern of Anti-Matter
- 93: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Emitt Rhodes
- 94: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Field Music
- 95: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Freakwater
- 96: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Josephine Foster
- 97: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Matmos
- 98: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Mount Moriah
- 99: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Prins Thomas
-100: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Rangda
-101: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Rokia Traore
-102: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - School of Seven Bells
-103: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - Steve Mason
-104: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - The Wilde Flowers
-105: (  2) - Uncut 2016-03 - The Stars Are Out Tonight - This Heat
+ 63: ( 10) - Lionheart - H.C. Mcentire
+ 64: ( 10) - Love In The 4Th Dimension - The Big Moon
+ 65: ( 10) - SVIIB - School of Seven Bells
+ 66: (  8) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
+ 67: (  8) - Echoes In A Shallow Bay - Cocteau Twins
+ 68: (  8) * Return of the Grievous Angel: A Tribute to Gram Parsons - Various
+ 69: (  8) - The Top (Remastered Version) - The Cure
+ 70: (  6) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
+ 71: (  6) - Lullabies - Cocteau Twins
+ 72: (  4) - Changesnowbowie - David Bowie
+ 73: (  4) - Serious Moonlight - David Bowie
+ 74: (  4) - UNCUT 2016-02 - Various
+ 75: (  2) - Birthmarks - Hilary Woods
+ 76: (  2) - England Is A Garden - Cornershop
+ 77: (  2) - Heavy Light - U.S. Girls
+ 78: (  2) - Let It All In - Arbouretum
+ 79: (  2) - Lp5 - John Moreland
+ 80: (  2) - Our Feeling Of Natural High - L.A. Takedown
+ 81: (  2) - Out Of My Province - Nadia Reid
+ 82: (  2) - Sorry You Couldn't Make It - Swamp Dogg
+ 83: (  2) - Starmaker - Honey Harper
+ 84: (  2) - TamotaïT - Tamikrest
+ 85: (  2) - The Main Thing - Real Estate
+ 86: (  2) - The Night Chancers - Baxter Dury
+ 87: (  2) - Un, Deux, Trois - Juniore

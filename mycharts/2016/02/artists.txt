@@ -1,6 +1,6 @@
 Specified year (2016), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     865            77            64           653
+     865            68            64           653
   1: ( 67) - Rosanne Cash
   2: ( 54) - Gretchen Peters
   3: ( 54) - Tift Merritt
@@ -20,83 +20,73 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   8: ( 34) - Paul Weller
 
 
+  9: ( 31) - Various
 
 
 
 
-
-  9: ( 26) - Patty Griffin
- 10: ( 25) - The Redlands Palomino Company
- 11: ( 24) - Scott Walker
- 12: ( 23) - Shelby Lynne
- 13: ( 23) - Talking Heads
-
-
- 14: ( 20) - Roxy Music
- 15: ( 19) - Angie Palmer
+ 10: ( 26) - Patty Griffin
+ 11: ( 25) - The Redlands Palomino Company
+ 12: ( 24) - Scott Walker
+ 13: ( 23) - Shelby Lynne
+ 14: ( 23) - Talking Heads
 
 
- 16: ( 16) - Hem
- 17: ( 15) - Martin Stephenson and the Daintees
- 18: ( 15) - Orchestral Manoeuvres in the Dark
+ 15: ( 20) - Roxy Music
+ 16: ( 19) - Angie Palmer
 
 
- 19: ( 12) - Belle and Sebastian
- 20: ( 12) - Jason Isbell
- 21: ( 12) - Orange Juice
- 22: ( 12) - Striking Matches
- 23: ( 12) - U2
- 24: ( 11) - Bob Dylan
- 25: ( 11) - Carrie Rodriguez
- 26: ( 11) - Lloyd Cole
- 27: ( 11) - The Decemberists
- 28: ( 10) - Heaven 17
- 29: ( 10) - Julia Holter
- 30: ( 10) - Laura Marling
- 31: ( 10) - Rachel Harrington
- 32: ( 10) - The Sundays
- 33: (  9) - B.E.F.
- 34: (  8) - Sarah MacDougall
- 35: (  6) - David Bowie
- 36: (  6) - School of Seven Bells
+ 17: ( 16) - Hem
+ 18: ( 15) - Martin Stephenson and the Daintees
+ 19: ( 15) - Orchestral Manoeuvres in the Dark
+
+
+ 20: ( 12) - Belle and Sebastian
+ 21: ( 12) - Jason Isbell
+ 22: ( 12) - Orange Juice
+ 23: ( 12) - Striking Matches
+ 24: ( 12) - U2
+ 25: ( 11) - Bob Dylan
+ 26: ( 11) - Carrie Rodriguez
+ 27: ( 11) - Lloyd Cole
+ 28: ( 11) - The Decemberists
+ 29: ( 10) - Heaven 17
+ 30: ( 10) - Julia Holter
+ 31: ( 10) - Laura Marling
+ 32: ( 10) - Rachel Harrington
+ 33: ( 10) - The Sundays
+ 34: (  9) - B.E.F.
+ 35: (  8) - Sarah MacDougall
+ 36: (  6) - David Bowie
  37: (  6) - Simple Minds
- 38: (  5) - Emitt Rhodes
- 39: (  5) - T. Rex
- 40: (  5) - Weekend
- 41: (  4) - The Velvet Underground
- 42: (  3) - Barry Adamson
- 43: (  3) - Field Music
- 44: (  3) - Freakwater
- 45: (  3) - Mount Moriah
- 46: (  3) - Rokia Traoré
- 47: (  3) - Steve Mason
- 48: (  3) - The Wailers
- 49: (  3) - The Wilde Flowers
- 50: (  2) - Aaron Neville
- 51: (  2) - Billy Joel
- 52: (  2) - Bono
- 53: (  2) - Don Henley
- 54: (  2) - Elton John
- 55: (  2) - Peter Gabriel
- 56: (  2) - Sting
- 57: (  2) - Tori Amos
- 58: (  2) - Trisha Yearwood
- 59: (  2) - Willie Nelson
- 60: (  1) - Beck & Emmylou Harris
- 61: (  1) - Cavern of Anti-Matter
- 62: (  1) - Chris Hillman & Steve Earle
- 63: (  1) - Cowboy Junkies
- 64: (  1) - Elvis Costello
- 65: (  1) - Evan Dando & Julianna Hatfield
- 66: (  1) - Gillian Welch
- 67: (  1) - Jann Arden
- 68: (  1) - Lucinda Williams & David Crosby
- 69: (  1) - Rangda
- 70: (  1) - Sheryl Crow & Emmylou Harris
- 71: (  1) - Suzanne Vega
- 72: (  1) - The Mavericks
- 73: (  1) - The Pretenders & Emmylou Harris
- 74: (  1) - The Rolling Creekdippers
- 75: (  1) - The Staple Singers
- 76: (  1) - Whiskeytown
- 77: (  1) - Wilco
+ 38: (  5) - T. Rex
+ 39: (  5) - Weekend
+ 40: (  4) - The Velvet Underground
+ 41: (  3) - School of Seven Bells
+ 42: (  3) - The Wailers
+ 43: (  2) - Aaron Neville
+ 44: (  2) - Billy Joel
+ 45: (  2) - Bono
+ 46: (  2) - Don Henley
+ 47: (  2) - Elton John
+ 48: (  2) - Peter Gabriel
+ 49: (  2) - Sting
+ 50: (  2) - Tori Amos
+ 51: (  2) - Trisha Yearwood
+ 52: (  2) - Willie Nelson
+ 53: (  1) - Beck & Emmylou Harris
+ 54: (  1) - Chris Hillman & Steve Earle
+ 55: (  1) - Cowboy Junkies
+ 56: (  1) - Elvis Costello
+ 57: (  1) - Evan Dando & Julianna Hatfield
+ 58: (  1) - Gillian Welch
+ 59: (  1) - Jann Arden
+ 60: (  1) - Lucinda Williams & David Crosby
+ 61: (  1) - Sheryl Crow & Emmylou Harris
+ 62: (  1) - Suzanne Vega
+ 63: (  1) - The Mavericks
+ 64: (  1) - The Pretenders & Emmylou Harris
+ 65: (  1) - The Rolling Creekdippers
+ 66: (  1) - The Staple Singers
+ 67: (  1) - Whiskeytown
+ 68: (  1) - Wilco

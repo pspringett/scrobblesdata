@@ -1,6 +1,6 @@
 Specified year (2017), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1208            56            70           692
+    1208            54            70           692
   1: ( 76) - Yazoo
   2: ( 70) - Bob Dylan
   3: ( 62) - Devine & Statton
@@ -28,9 +28,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  15: ( 30) - Colvin & Earle
  16: ( 30) - Jack Harris
 
+ 17: ( 28) - U2
+ 18: ( 27) - Rod Stewart
 
- 17: ( 27) - Rod Stewart
- 18: ( 26) - U2
 
  19: ( 24) - Eilen Jewell
  20: ( 24) - Emmylou Harris
@@ -72,5 +72,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  52: (  3) - Kacey Musgraves
  53: (  2) - JT Nero
  54: (  2) - Lloyd Cole and the Commotions
- 55: (  1) - Adam Gussow
- 56: (  1) - The Jimi Hendrix Experience

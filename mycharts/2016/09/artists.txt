@@ -1,6 +1,6 @@
 Specified year (2016), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     732            51            55           502
+     732            38            55           502
   1: ( 64) - The Undertones
   2: ( 54) - Orchestral Manoeuvres in the Dark
   3: ( 51) - Hem
@@ -10,63 +10,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: ( 35) - Haley Bonar
 
 
+  6: ( 33) - Haley Bonar
   7: ( 32) - U2
 
+  8: ( 30) - Various
+
+  9: ( 28) - ABC
 
 
-  8: ( 28) - ABC
 
 
+ 10: ( 23) - Christine and the Queens
+ 11: ( 23) - Edwyn Collins
+ 12: ( 23) - Lloyd Cole
+ 13: ( 23) - Rosanne Cash
+ 14: ( 22) - Shelby Lynne
+ 15: ( 22) - Tift Merritt
 
 
-  9: ( 23) - Christine and the Queens
- 10: ( 23) - Edwyn Collins
- 11: ( 23) - Lloyd Cole
- 12: ( 23) - Rosanne Cash
- 13: ( 22) - Shelby Lynne
- 14: ( 22) - Tift Merritt
+ 16: ( 19) - Striking Matches
+ 17: ( 19) - The Pale Fountains
+ 18: ( 18) - Laura Marling
+ 19: ( 18) - Ryan Adams
+ 20: ( 17) - Emmylou Harris
 
 
- 15: ( 19) - Striking Matches
- 16: ( 19) - The Pale Fountains
- 17: ( 18) - Laura Marling
- 18: ( 18) - Ryan Adams
- 19: ( 17) - Emmylou Harris
+ 21: ( 14) - The Beatles
+ 22: ( 13) - The Beach Boys
+ 23: ( 12) - Freakwater
+ 24: ( 12) - Mindy Smith
+ 25: ( 12) - Simple Minds
+ 26: ( 11) - Echo & the Bunnymen
+ 27: ( 11) - Jason Isbell
 
-
- 20: ( 14) - The Beatles
- 21: ( 13) - The Beach Boys
- 22: ( 12) - Freakwater
- 23: ( 12) - Mindy Smith
- 24: ( 12) - Simple Minds
- 25: ( 11) - Echo & the Bunnymen
- 26: ( 11) - Jason Isbell
-
- 27: (  9) - Eliza Gilkyson
- 28: (  9) - Talking Heads
- 29: (  8) - The Sundays
- 30: (  7) - Artery
- 31: (  7) - The Redlands Palomino Company
- 32: (  2) - Anna Meredith
- 33: (  2) - Cass McCombs
- 34: (  2) - Cool Ghouls
- 35: (  2) - Cowboy Junkies
- 36: (  2) - De La Soul
- 37: (  2) - Dinosaur Jr.
- 38: (  2) - Factory Floor
- 39: (  2) - Hans Chew
- 40: (  2) - Judy Henske & Jerry Yester
- 41: (  2) - Lydia Loveless
- 42: (  2) - Morgan Delt
- 43: (  2) - Ryley Walker
- 44: (  2) - Scott Hirsch
- 45: (  2) - Spizz Energi
- 46: (  2) - Teenage Fanclub
- 47: (  2) - Wild Beasts
- 48: (  1) - Chip & Carrie
- 49: (  1) - Chip Taylor & Carrie Rodriguez
- 50: (  1) - Lucinda Williams
- 51: (  1) - Shania Twain
+ 28: (  9) - Eliza Gilkyson
+ 29: (  9) - Talking Heads
+ 30: (  8) - The Sundays
+ 31: (  7) - Artery
+ 32: (  7) - The Redlands Palomino Company
+ 33: (  2) - Cowboy Junkies
+ 34: (  2) - Spizz Energi
+ 35: (  1) - Chip & Carrie
+ 36: (  1) - Chip Taylor & Carrie Rodriguez
+ 37: (  1) - Lucinda Williams
+ 38: (  1) - Shania Twain

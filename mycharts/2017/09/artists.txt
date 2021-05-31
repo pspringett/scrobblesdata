@@ -1,6 +1,6 @@
 Specified year (2017), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     959            52            71           626
+     959            51            71           626
   1: ( 64) - Lloyd Cole
   2: ( 63) - Scott Walker
   3: ( 59) - Josh Ritter
@@ -32,8 +32,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 12: ( 24) - U2
 
- 12: ( 23) - U2
 
  13: ( 21) - Bob Dylan
 
@@ -74,6 +74,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: (  2) - Birds of Chicago
  48: (  2) - The Style Council
  49: (  1) - Jean-Michel Blais
- 50: (  1) - Jimi Hendrix
- 51: (  1) - Leonard Cohen
- 52: (  1) - Lizanne Knott
+ 50: (  1) - Leonard Cohen
+ 51: (  1) - Lizanne Knott

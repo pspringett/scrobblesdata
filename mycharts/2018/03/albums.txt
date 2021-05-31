@@ -1,6 +1,6 @@
 Specified year (2018), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1366           102           107          1001
+    1366           100           107          1001
   1: ( 68) - National Ransom - Elvis Costello
   2: ( 51) - Nme C81 - Various
   3: ( 42) - In Time - The Mavericks
@@ -30,10 +30,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  14: ( 20) - Head Over Heels - Cocteau Twins
 
  15: ( 18) * A Word To The Wise Guy - The Mighty Wah!
- 16: ( 18) - The Spangle Maker - Cocteau Twins
- 17: ( 17) * Architecture And Morality - Orchestral Manoeuvres in the Dark
- 18: ( 16) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
- 19: ( 16) - Rattle And Hum - U2
+ 16: ( 18) - Rattle And Hum - U2
+ 17: ( 18) - The Spangle Maker - Cocteau Twins
+ 18: ( 17) * Architecture And Morality - Orchestral Manoeuvres in the Dark
+ 19: ( 16) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
  20: ( 15) - Imperial Bedroom - Elvis Costello & the Attractions
  21: ( 15) - King Of America - Elvis Costello
  22: ( 15) - Live Nassau Coliseum '76 - David Bowie
@@ -52,7 +52,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  35: ( 13) * Signing Off - UB40
  36: ( 13) * The Grass Is Blue - Dolly Parton
  37: ( 12) * Black Cadillac - Rosanne Cash
- 38: ( 12) - Butcher Holler - Eilen Jewell
+ 38: ( 12) - Butcher Holler - A Tribute To Loretta Lynn - Butcher Holler
  39: ( 12) * Cabin Fever - Corb Lund
  40: ( 12) * Children Running Through - Patty Griffin
  41: ( 12) * Live In Louisville - Carrie Rodriguez
@@ -123,5 +123,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 106: (  2) - Strangeways, Here We Come - The Smiths
 107: (  2) - Travelogue - The Men
 108: (  1) - Complete - The Smiths
-109: (  1) - Rattle And Hum - Adam Gussow
-110: (  1) - Rattle And Hum - Jimi Hendrix

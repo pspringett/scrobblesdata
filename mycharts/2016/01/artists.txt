@@ -1,119 +1,90 @@
 Specified year (2016), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1214            94            69           697
-  1: ( 77) - Bob Dylan
-  2: ( 71) - David Bowie
-  3: ( 60) - Jason Isbell
-  4: ( 58) - U2
-  5: ( 57) - Lloyd Cole
-  6: ( 50) - Laura Marling
-  7: ( 48) - Emmylou Harris
+    1214            65            70           697
+  1: ( 90) - Various
+  2: ( 77) - Bob Dylan
+  3: ( 71) - David Bowie
+  4: ( 60) - Jason Isbell
+  5: ( 58) - U2
+  6: ( 57) - Lloyd Cole
+  7: ( 50) - Laura Marling
+  8: ( 48) - Emmylou Harris
 
-  8: ( 46) - Gretchen Peters
-  9: ( 46) - The Decemberists
-
-
-
-
-
- 10: ( 40) - Julia Holter
-
- 11: ( 38) - Kacey Musgraves
- 12: ( 37) - The Beach Boys
- 13: ( 36) - Paul Weller
- 14: ( 35) - Allison Moorer
- 15: ( 35) - Elvis Costello & the Attractions
- 16: ( 35) - Heaven 17
- 17: ( 34) - Orchestral Manoeuvres in the Dark
-
-
-
-
- 18: ( 29) - Hem
- 19: ( 28) - Roxy Music
-
- 20: ( 26) - Sarah MacDougall
-
- 21: ( 24) - Eilen Jewell
+  9: ( 46) - Gretchen Peters
+ 10: ( 46) - The Decemberists
 
 
 
 
 
+ 11: ( 40) - Julia Holter
+
+ 12: ( 38) - Kacey Musgraves
+ 13: ( 37) - The Beach Boys
+ 14: ( 36) - Paul Weller
+ 15: ( 35) - Allison Moorer
+ 16: ( 35) - Elvis Costello & the Attractions
+ 17: ( 35) - Heaven 17
+ 18: ( 34) - Orchestral Manoeuvres in the Dark
 
 
- 22: ( 16) - Shelby Lynne
 
- 23: ( 14) - Cowboy Junkies
- 24: ( 14) - Hayes Carll
- 25: ( 13) - The Redlands Palomino Company
- 26: ( 12) - Carrie Rodriguez
- 27: ( 12) - Rosanne Cash
 
- 28: ( 10) - JT and the Clouds
- 29: ( 10) - Roddy Frame
- 30: (  9) - Aztec Camera
- 31: (  9) - New Order
- 32: (  7) - Dave Rawlings Machine
- 33: (  7) - JT Nero
- 34: (  5) - Rod Picott and Amanda Shires
- 35: (  5) - School of Seven Bells
- 36: (  5) - The Besnard Lakes
- 37: (  4) - Cavern of Anti-Matter
- 38: (  4) - Emitt Rhodes
- 39: (  4) - Field Music
- 40: (  4) - Rokia Traoré
- 41: (  4) - The Rolling Creekdippers
- 42: (  3) - Aaron Neville
- 43: (  3) - Barry Adamson
- 44: (  3) - Beck & Emmylou Harris
- 45: (  3) - Billy Joel
- 46: (  3) - Chris Hillman & Steve Earle
- 47: (  3) - Cross Record
- 48: (  3) - Eleanor Friedberger
- 49: (  3) - Elvis Costello
- 50: (  3) - Evan Dando & Julianna Hatfield
- 51: (  3) - Fat White Family
- 52: (  3) - Freakwater
- 53: (  3) - Gillian Welch
- 54: (  3) - John Cale
- 55: (  3) - Lera Lynn
- 56: (  3) - Lucinda Williams
- 57: (  3) - Lucinda Williams & David Crosby
- 58: (  3) - Martin L. Gore
- 59: (  3) - Mount Moriah
- 60: (  3) - Peter Gabriel
- 61: (  3) - Rangda
- 62: (  3) - Sheryl Crow & Emmylou Harris
- 63: (  3) - Steve Mason
- 64: (  3) - Suede
- 65: (  3) - Suzanne Vega
- 66: (  3) - The Long Ryders
- 67: (  3) - The Mavericks
- 68: (  3) - The Pretenders & Emmylou Harris
- 69: (  3) - The Wilde Flowers
- 70: (  3) - This Heat
- 71: (  3) - Tindersticks [feat Lhasa De Sela]
- 72: (  3) - Tori Amos
- 73: (  3) - Trisha Yearwood
- 74: (  3) - Whiskeytown
- 75: (  3) - Wilco
- 76: (  2) - Baaba Maal
- 77: (  2) - Bono
- 78: (  2) - Cian Nugent
- 79: (  2) - Don Henley
- 80: (  2) - Elton John
- 81: (  2) - Hackensaw Boys
- 82: (  2) - Jann Arden
- 83: (  2) - Josephine Foster
- 84: (  2) - Matmos
- 85: (  2) - Prins Thomas
- 86: (  2) - Saul Williams
- 87: (  2) - Sting
- 88: (  2) - Tortoise
- 89: (  2) - Willie Nelson
- 90: (  2) - Yorkston Thorne Khan
- 91: (  1) - Faces
- 92: (  1) - Haircut 100
- 93: (  1) - The Passions
- 94: (  1) - The Turtles
+ 19: ( 29) - Hem
+ 20: ( 28) - Roxy Music
+
+ 21: ( 26) - Sarah MacDougall
+
+ 22: ( 24) - Eilen Jewell
+
+
+
+
+
+
+
+ 23: ( 16) - Shelby Lynne
+
+ 24: ( 14) - Cowboy Junkies
+ 25: ( 14) - Hayes Carll
+ 26: ( 13) - The Redlands Palomino Company
+ 27: ( 12) - Carrie Rodriguez
+ 28: ( 12) - Rosanne Cash
+
+ 29: ( 10) - JT and the Clouds
+ 30: ( 10) - Roddy Frame
+ 31: (  9) - Aztec Camera
+ 32: (  9) - New Order
+ 33: (  7) - Dave Rawlings Machine
+ 34: (  7) - JT Nero
+ 35: (  5) - Rod Picott and Amanda Shires
+ 36: (  4) - The Rolling Creekdippers
+ 37: (  3) - Aaron Neville
+ 38: (  3) - Beck & Emmylou Harris
+ 39: (  3) - Billy Joel
+ 40: (  3) - Chris Hillman & Steve Earle
+ 41: (  3) - Elvis Costello
+ 42: (  3) - Evan Dando & Julianna Hatfield
+ 43: (  3) - Gillian Welch
+ 44: (  3) - Lucinda Williams & David Crosby
+ 45: (  3) - Martin L. Gore
+ 46: (  3) - Peter Gabriel
+ 47: (  3) - Sheryl Crow & Emmylou Harris
+ 48: (  3) - Suzanne Vega
+ 49: (  3) - The Mavericks
+ 50: (  3) - The Pretenders & Emmylou Harris
+ 51: (  3) - Tori Amos
+ 52: (  3) - Trisha Yearwood
+ 53: (  3) - Whiskeytown
+ 54: (  3) - Wilco
+ 55: (  2) - Bono
+ 56: (  2) - Don Henley
+ 57: (  2) - Elton John
+ 58: (  2) - Hackensaw Boys
+ 59: (  2) - Jann Arden
+ 60: (  2) - Sting
+ 61: (  2) - Willie Nelson
+ 62: (  1) - Faces
+ 63: (  1) - Haircut 100
+ 64: (  1) - The Passions
+ 65: (  1) - The Turtles

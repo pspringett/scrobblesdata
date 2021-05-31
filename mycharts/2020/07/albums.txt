@@ -1,6 +1,6 @@
 Specified year (2020), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1286            68            72           432
+    1286            59            72           432
   1: ( 98) - On Sunset (Deluxe) - Paul Weller
   2: ( 80) - Sweet Fanny Adams - Sweet
   3: ( 72) - 2020 - Eliza Gilkyson
@@ -39,61 +39,53 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  25: ( 16) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
  26: ( 16) - Garlands - Cocteau Twins
+ 27: ( 16) * UNCUT 2016-09 - Ones From The Heart - Various
 
- 27: ( 14) - Sound Affects (Remastered Version) - The Jam
- 28: ( 14) * The Negatives - Lloyd Cole
- 29: ( 14) - When All Is Said And All Is Done - Department S
+ 28: ( 14) - Sound Affects (Remastered Version) - The Jam
+ 29: ( 14) * The Negatives - Lloyd Cole
+ 30: ( 14) - When All Is Said And All Is Done - Department S
 
- 30: ( 12) - Another View - The Velvet Underground
- 31: ( 12) - Resistor - Lera Lynn
- 32: ( 12) - The Wrong People - Furniture
+ 31: ( 12) - Another View - The Velvet Underground
+ 32: ( 12) - Resistor - Lera Lynn
+ 33: ( 12) - The Wrong People - Furniture
 
- 33: ( 10) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
- 34: (  8) - Echoes In A Shallow Bay - Cocteau Twins
- 35: (  8) - Live At The Narrows - Eilen Jewell
- 36: (  8) - Love In The 4Th Dimension - The Big Moon
- 37: (  8) * Pinky Blue - Altered Images
- 38: (  8) - Tangled Man - Green Gartside
- 39: (  8) - The '81 Demos - Weekend
- 40: (  8) - Tiny Dynamine - Cocteau Twins
- 41: (  6) - Beauty Stab - ABC
- 42: (  6) * Broken Record - Lloyd Cole
- 43: (  6) - Lullabies - Cocteau Twins
- 44: (  6) - Merry Christmas, Baby - Rod Stewart
- 45: (  6) - Peel Sessions 1981 - The Cure
- 46: (  6) * Reading, Writing & Arithmetic - The Sundays
- 47: (  6) - Rubber Soul - The Beatles
- 48: (  6) * Songs Of Leonard Cohen - Leonard Cohen
- 49: (  6) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
- 50: (  6) - Unfollow The Rules - Rufus Wainwright
- 51: (  6) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
- 52: (  4) * A Distant Shore - Tracey Thorn
- 53: (  4) - Bolan's Zip Gun - T. Rex
- 54: (  4) * Station To Station - David Bowie
- 55: (  4) - The Graduate - Simon & Garfunkel
- 56: (  4) - The Slider - T. Rex
- 57: (  2) - Ballet Of Apes - Brigid Dawson and the Mothers Network
- 58: (  2) - Chapter 4 - Chapter 4
- 59: (  2) - Crush [Explicit] - Lettuce
- 60: (  2) - Etc - Lloyd Cole
- 61: (  2) - Futuristic Dragon (Deluxe Edition) - T. Rex
- 62: (  2) - Ghosts Of West Virginia - Steve Earle
- 63: (  2) - Murder Ballads (2011 Remastered Version) - Nick Cave & the Bad Seeds
- 64: (  2) - Music From First Cow - William Tyler
- 65: (  2) - Protest Songs - Prefab Sprout
- 66: (  2) - Speaking In Tongues - Talking Heads
- 67: (  2) - Straight Songs Of Sorrow - Mark Lanegan
- 68: (  2) - Strange To Explain - Woods
- 69: (  2) - That's How Rumors Get Started - Margo Price
- 70: (  2) - The Graduate - Dave Grusin
- 71: (  2) - The Universe Inside - The Dream Syndicate
- 72: (  2) - UNCUT 2016-09 - Ones From The Heart - Cass McCombs
- 73: (  2) - UNCUT 2016-09 - Ones From The Heart - De La Soul
- 74: (  2) - UNCUT 2016-09 - Ones From The Heart - Dinosaur Jr.
- 75: (  2) - UNCUT 2016-09 - Ones From The Heart - Hans Chew
- 76: (  2) - UNCUT 2016-09 - Ones From The Heart - Lydia Loveless
- 77: (  2) - UNCUT 2016-09 - Ones From The Heart - Ryley Walker
- 78: (  2) - UNCUT 2016-09 - Ones From The Heart - Teenage Fanclub
- 79: (  2) - UNCUT 2016-09 - Ones From The Heart - Wild Beasts
- 80: (  2) - Uncut 2016-02 - What's Going On! - Fat White Family
- 81: (  2) - Uncut 2016-02 - What's Going On! - John Cale
+ 34: ( 10) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
+ 35: (  8) - Echoes In A Shallow Bay - Cocteau Twins
+ 36: (  8) - Live At The Narrows - Eilen Jewell
+ 37: (  8) - Love In The 4Th Dimension - The Big Moon
+ 38: (  8) * Pinky Blue - Altered Images
+ 39: (  8) - Tangled Man - Green Gartside
+ 40: (  8) - The '81 Demos - Weekend
+ 41: (  8) - Tiny Dynamine - Cocteau Twins
+ 42: (  6) - Beauty Stab - ABC
+ 43: (  6) * Broken Record - Lloyd Cole
+ 44: (  6) - Lullabies - Cocteau Twins
+ 45: (  6) - Merry Christmas, Baby - Rod Stewart
+ 46: (  6) - Peel Sessions 1981 - The Cure
+ 47: (  6) * Reading, Writing & Arithmetic - The Sundays
+ 48: (  6) - Rubber Soul - The Beatles
+ 49: (  6) * Songs Of Leonard Cohen - Leonard Cohen
+ 50: (  6) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
+ 51: (  6) - Unfollow The Rules - Rufus Wainwright
+ 52: (  6) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+ 53: (  4) * A Distant Shore - Tracey Thorn
+ 54: (  4) - Bolan's Zip Gun - T. Rex
+ 55: (  4) * Station To Station - David Bowie
+ 56: (  4) - The Graduate - Simon & Garfunkel
+ 57: (  4) - The Slider - T. Rex
+ 58: (  4) - UNCUT 2016-02 - Various
+ 59: (  2) - Ballet Of Apes - Brigid Dawson and the Mothers Network
+ 60: (  2) - Chapter 4 - Chapter 4
+ 61: (  2) - Crush [Explicit] - Lettuce
+ 62: (  2) - Etc - Lloyd Cole
+ 63: (  2) - Futuristic Dragon (Deluxe Edition) - T. Rex
+ 64: (  2) - Ghosts Of West Virginia - Steve Earle
+ 65: (  2) - Murder Ballads (2011 Remastered Version) - Nick Cave & the Bad Seeds
+ 66: (  2) - Music From First Cow - William Tyler
+ 67: (  2) - Protest Songs - Prefab Sprout
+ 68: (  2) - Speaking In Tongues - Talking Heads
+ 69: (  2) - Straight Songs Of Sorrow - Mark Lanegan
+ 70: (  2) - Strange To Explain - Woods
+ 71: (  2) - That's How Rumors Get Started - Margo Price
+ 72: (  2) - The Graduate - Dave Grusin
+ 73: (  2) - The Universe Inside - The Dream Syndicate

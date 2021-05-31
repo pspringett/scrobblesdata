@@ -1,6 +1,6 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1322            52            54           461
+    1322            42            54           461
   1: (200) - Bob Dylan
   2: (136) - ABC
   3: ( 84) - Gretchen Peters
@@ -48,36 +48,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  26: ( 22) - Lou Reed
  27: ( 22) - Nick Heyward
  28: ( 22) - Rodney Crowell
+ 29: ( 22) - Various
 
- 29: ( 20) - Cocteau Twins
- 30: ( 20) - Gillian Welch
-
-
-
-
-
- 31: ( 14) - Eyeless in Gaza
+ 30: ( 20) - Cocteau Twins
+ 31: ( 20) - Gillian Welch
 
 
 
- 32: ( 10) - Haircut 100
- 33: ( 10) - The Cure
- 34: (  8) - Phoebe Bridgers
- 35: (  4) - Marc Bolan
- 36: (  2) - Acid Arab
- 37: (  2) - C Duncan
- 38: (  2) - Chivalrous Amoekons
- 39: (  2) - Conor Oberst
- 40: (  2) - Fat White Family
- 41: (  2) - Goat
- 42: (  2) - Julia Jacklin
- 43: (  2) - Kristin Hersch
- 44: (  2) - Lehbanchleh
- 45: (  2) - Luke Roberts
- 46: (  2) - Mankind
- 47: (  2) - Paul Weller
- 48: (  2) - Purling Hiss
- 49: (  2) - Sugar Black
- 50: (  2) - The Men
- 51: (  2) - Tom Robinson
- 52: (  2) - Xylouris White
+
+
+ 32: ( 14) - Eyeless in Gaza
+
+
+
+ 33: ( 10) - Haircut 100
+ 34: ( 10) - The Cure
+ 35: (  8) - Phoebe Bridgers
+ 36: (  4) - Marc Bolan
+ 37: (  2) - Lehbanchleh
+ 38: (  2) - Mankind
+ 39: (  2) - Paul Weller
+ 40: (  2) - Sugar Black
+ 41: (  2) - The Men
+ 42: (  2) - Tom Robinson
