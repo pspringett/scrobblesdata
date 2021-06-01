@@ -11,11 +11,11 @@
   { "m_album": "Cleaning Out The Ashtrays Cd1 One Red Wine Glass", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
   { "m_album": "Cleaning Out The Ashtrays Cd1 - One Red Wine Glass", "n_album": "Cleaning Out The Ashtrays CD1 - One Red Wine Glass"},
   { "m_album": "Cleaning Out The Ashtrays Cd2  - Re-Make / Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},
-  { "m_album": "Cleaning Out The Ashtrays Cd2  - Re-Make Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},
+  { "m_album": "Cleaning Out The Ashtrays Cd2 Re-Make Re-Model", "n_album": "Cleaning Out The Ashtrays CD2 - Re-make/Re-model"},
   { "m_album": "Cleaning Out The Ashtrays Cd3 - Dangerous Music", "n_album": "Cleaning Out The Ashtrays CD3 - Dangerous Music" },
   { "m_album": "Cleaning Out The Ashtrays Cd3 Dangerous Music", "n_album": "Cleaning Out The Ashtrays CD3 - Dangerous Music" },
-  { "m_album": "Cleaning Out The Ashtrays Cd4 dificult pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Dificult Pieces"},
-  { "m_album": "Cleaning Out The Ashtrays Cd4 difficult pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Dificult Pieces"},
+  { "m_album": "Cleaning Out The Ashtrays Cd4 difficult pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Difficult Pieces"},
+  { "m_album": "Cleaning Out The Ashtrays Cd4 - difficult pieces", "n_album": "Cleaning Out The Ashtrays CD4 - Difficult Pieces"},
   { "m_album": "Reading Writing and Arithmetic", "n_album": "Reading, Writing & Arithmetic" },
   { "m_album": "Steve Mcqueen", "n_album": "Steve McQueen" },
   { "m_album": "Sviib", "n_album": "SVIIB" },
@@ -45,5 +45,6 @@
   { "m_album": "Sons And Fascination/Sister Feelings Call", "n_album": "Sons And Fascination/Sister Feelings Call"},
   { "m_album": "Get Happy - Bonus", "n_album": "Get Happy!! - Bonus"},
   { "m_album": "Get Happy", "n_album": "Get Happy!!"},
-  { "m_album": "Uncut 2016-06 Picture This", "n_album": "UNCUT 2016-06 - Picture This" }
+  { "m_album": "Uncut 2016-06 Picture This", "n_album": "UNCUT 2016-06 - Picture This" },
+  { "m_album": "Who By Fire", "n_album": "Who By Fire - Live Tribute To Leonard Cohen" }
 ]

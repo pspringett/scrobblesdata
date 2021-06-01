@@ -1,7 +1,8 @@
 Specified year (2021), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     211            19            23           154
-  1: ( 42) - First Aid Kit
+     211            18            22           154
+  1: ( 43) - First Aid Kit
+
 
 
   2: ( 39) - The Smiths
@@ -44,5 +45,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  15: (  3) - Gang of Four
  16: (  2) - Simple Minds
  17: (  2) - Siouxsie and the Banshees
- 18: (  1) - First Aid Kit, Annika Norlin
- 19: (  1) - Nacho Video
+ 18: (  1) - Nacho Video
