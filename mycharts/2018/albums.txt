@@ -1,12 +1,12 @@
 Specified year (2018)
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11721           456           601          4462
+   11721           456           603          4462
   1: (121) - Head Over Heels - Cocteau Twins
   2: (110) - All That Reckoning - Cowboy Junkies
   3: (110) - To The Sunset - Amanda Shires
   4: (105) - National Ransom - Elvis Costello
-  5: (100) - The Complete Matrix Tapes - The Velvet Underground
-  6: ( 98) - Are You Experienced - Jimi Hendrix
+  5: ( 98) - Are You Experienced - Jimi Hendrix
+  6: ( 97) - The Complete Matrix Tapes - The Velvet Underground
   7: ( 93) * Beyond The Leap Beyond The Law - Martin Stephenson
   8: ( 93) * Crazy Heart Soundtrack - Various
   9: ( 90) - Nashville - Josh Rouse
@@ -33,11 +33,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  30: ( 60) - Lionheart - Kate Bush
  31: ( 60) - Out Of Our Heads - The Rolling Stones
  32: ( 60) - Treasure - Cocteau Twins
- 33: ( 58) * Swoon - Prefab Sprout
- 34: ( 57) - Love In Wartime - Birds of Chicago
- 35: ( 57) - Night And Day - Joe Jackson
- 36: ( 56) - B-52's - The B-52's
- 37: ( 56) - Forgiven, Not Forgotten - The Corrs
+ 33: ( 59) - Forgiven, Not Forgotten - The Corrs
+ 34: ( 58) * Swoon - Prefab Sprout
+ 35: ( 57) - Love In Wartime - Birds of Chicago
+ 36: ( 57) - Night And Day - Joe Jackson
+ 37: ( 56) - B-52's - The B-52's
  38: ( 56) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
  39: ( 56) - Stay Gold - First Aid Kit
  40: ( 54) - Clouds - Joni Mitchell
@@ -52,12 +52,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  49: ( 51) - Mixed Up - The Cure
  50: ( 51) - Nme C81 - Various
  51: ( 51) - North Of A Miracle - Nick Heyward
- 52: ( 51) * Roxy Music - Roxy Music
- 53: ( 51) - Snap, Crackle & Bop - John Cooper Clarke
- 54: ( 50) - The Pink Opaque - Cocteau Twins
- 55: ( 49) - Bolivia - Martin Stephenson
- 56: ( 49) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
- 57: ( 49) - Original Album Series - The Corrs
+ 52: ( 51) - Present Arms - UB40
+ 53: ( 51) * Roxy Music - Roxy Music
+ 54: ( 51) - Snap, Crackle & Bop - John Cooper Clarke
+ 55: ( 50) - The Pink Opaque - Cocteau Twins
+ 56: ( 49) - Bolivia - Martin Stephenson
+ 57: ( 49) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
  58: ( 49) - The Stars, The Oceans & The Moon - Echo & the Bunnymen
  59: ( 49) * Van Lear Rose - Loretta Lynn
  60: ( 49) - Wanderer - Cara Dillon
@@ -65,33 +65,33 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  62: ( 48) - Chris - Christine and the Queens
  63: ( 48) - Nah=Poo - The Art Of Bluff - Wah!
  64: ( 48) - Our Favourite Shop (Digitally Remastered) - The Style Council
- 65: ( 48) - Present Arms - UB40
- 66: ( 48) - The Rolling Stones No.2 - The Rolling Stones
- 67: ( 48) - Tracyanne & Danny - Tracyanne & Danny
+ 65: ( 48) - The Rolling Stones No.2 - The Rolling Stones
+ 66: ( 48) - Tracyanne & Danny - Tracyanne & Danny
 
- 68: ( 46) - A New Career In A New Town (1977 - 1982) - David Bowie
- 69: ( 46) - Barton Hollow - The Civil Wars
- 70: ( 45) - Imperial Bedroom - Elvis Costello & the Attractions
- 71: ( 45) - Live Nassau Coliseum '76 - David Bowie
- 72: ( 45) * Pornography - The Cure
- 73: ( 45) - The Kick Inside - Kate Bush
- 74: ( 45) - Vu - The Velvet Underground
- 75: ( 44) * Blonde On Blonde - Bob Dylan
- 76: ( 44) - Hex Enduction Hour - The Fall
- 77: ( 44) - Peaceful, The World Lays Me Down - Noah and the Whale
- 78: ( 44) - Travelogue - The Human League
- 79: ( 44) - Undercurrent - Sarah Jarosz
- 80: ( 44) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
- 81: ( 43) - Secularia - Eliza Gilkyson
- 82: ( 43) - The Siren's Song - Kacy & Clayton
- 83: ( 42) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
- 84: ( 42) - Beatles For Sale (Remastered) - The Beatles
- 85: ( 42) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
- 86: ( 42) - Hawkwind - Hawkwind
- 87: ( 42) - In Time - The Mavericks
- 88: ( 42) - See You On The Moon - Tift Merritt
- 89: ( 42) - The Spangle Maker - Cocteau Twins
- 90: ( 42) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
+ 67: ( 46) - Barton Hollow - The Civil Wars
+ 68: ( 46) - Original Album Series - The Corrs
+ 69: ( 45) - Imperial Bedroom - Elvis Costello & the Attractions
+ 70: ( 45) - Live Nassau Coliseum '76 - David Bowie
+ 71: ( 45) * Pornography - The Cure
+ 72: ( 45) - The Kick Inside - Kate Bush
+ 73: ( 45) - Vu - The Velvet Underground
+ 74: ( 44) * Blonde On Blonde - Bob Dylan
+ 75: ( 44) - Hex Enduction Hour - The Fall
+ 76: ( 44) - Peaceful, The World Lays Me Down - Noah and the Whale
+ 77: ( 44) - Travelogue - The Human League
+ 78: ( 44) - Undercurrent - Sarah Jarosz
+ 79: ( 44) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
+ 80: ( 43) - Secularia - Eliza Gilkyson
+ 81: ( 43) - The Siren's Song - Kacy & Clayton
+ 82: ( 42) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
+ 83: ( 42) - Beatles For Sale (Remastered) - The Beatles
+ 84: ( 42) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
+ 85: ( 42) - Hawkwind - Hawkwind
+ 86: ( 42) - In Time - The Mavericks
+ 87: ( 42) - See You On The Moon - Tift Merritt
+ 88: ( 42) - The Spangle Maker - Cocteau Twins
+ 89: ( 42) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
+ 90: ( 41) - A New Career In A New Town (1977 - 1982) - David Bowie
  91: ( 41) - Loyalty - The Weather Station
  92: ( 41) - Mainstream - Lloyd Cole and the Commotions
  93: ( 41) - Staring At The Sea: The Singles - The Cure
@@ -162,23 +162,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 158: ( 30) - The Nashville Sound - Jason Isbell and the 400 Unit
 159: ( 30) * The Unforgettable Fire - U2
 160: ( 30) - Woodland Echoes - Nick Heyward
-161: ( 29) - 5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan) - UB40
-162: ( 29) - Another Green World - Brian Eno
-163: ( 29) - Autobahn - Kraftwerk
-164: ( 29) * From Langley Park To Memphis - Prefab Sprout
-165: ( 29) * Mountains/Forests - JT Nero
-166: ( 28) * Boat To Bolivia - Martin Stephenson and the Daintees
-167: ( 28) - Love - Aztec Camera
-168: ( 28) * Raising Sand - Robert Plant & Alison Krauss
-169: ( 28) * Tales Of Light And Darkness - Angie Palmer
-170: ( 28) - Tarpaper Sky - Rodney Crowell
-171: ( 28) * Various Positions - Leonard Cohen
-172: ( 27) - Live At Eddie's Attic - The Civil Wars
-173: ( 27) * Love And Circumstance - Carrie Rodriguez
-174: ( 27) * October - U2
-175: ( 27) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
-176: ( 27) - The Future - Leonard Cohen
-177: ( 27) - The Weather Station - The Weather Station
+161: ( 29) - Another Green World - Brian Eno
+162: ( 29) - Autobahn - Kraftwerk
+163: ( 29) * From Langley Park To Memphis - Prefab Sprout
+164: ( 29) * Mountains/Forests - JT Nero
+165: ( 28) * Boat To Bolivia - Martin Stephenson and the Daintees
+166: ( 28) - Love - Aztec Camera
+167: ( 28) * Raising Sand - Robert Plant & Alison Krauss
+168: ( 28) * Tales Of Light And Darkness - Angie Palmer
+169: ( 28) - Tarpaper Sky - Rodney Crowell
+170: ( 28) * Various Positions - Leonard Cohen
+171: ( 27) - Live At Eddie's Attic - The Civil Wars
+172: ( 27) * Love And Circumstance - Carrie Rodriguez
+173: ( 27) * October - U2
+174: ( 27) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
+175: ( 27) - The Future - Leonard Cohen
+176: ( 27) - The Weather Station - The Weather Station
+177: ( 26) - 5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan) - UB40
 178: ( 26) - Burnin' - The Wailers
 179: ( 26) * Celilo Falls - Rachel Harrington
 180: ( 26) - Headed For The Hills - Jim Lauderdale
@@ -339,7 +339,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 335: (  9) - American Dream - Lcd Soundsystem
 336: (  9) - For Your Pleasure - Roxy Music
 337: (  9) * Grand Canyon - Sarah MacDougall
-338: (  9) - Heroes (2017 Remastered Version) - David Bowie
+338: (  9) * Heroes - David Bowie
 339: (  9) - In Your Room - Yazoo
 340: (  9) - Journeys To Glory - Spandau Ballet
 341: (  9) * Knife - Aztec Camera
@@ -401,214 +401,216 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 397: (  5) - Hippo Lite - Drinks
 398: (  5) - It's A New Day Tonight - Michael Rault
 399: (  5) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
-400: (  5) - Longwave - Bonny Doon
-401: (  5) - No Count Sarah - Sarah Vaughan
-402: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
-403: (  5) - Pinned - A Place to Bury Strangers
-404: (  5) - Sex & Food - Unknown Mortal Orchestra
-405: (  5) - The Louder I Call, The Faster It Runs - Wye Oak
-406: (  5) - The Straight Hits! - Josh T. Pearson
-407: (  5) - Who Can I Be Now? [1974 - 1976] - David Bowie
-408: (  5) - You And Me Both - Yazoo
-409: (  4) - Acoustic Classics - Rodney Crowell
-410: (  4) - American Utopia - David Byrne
-411: (  4) * Boy - U2
-412: (  4) - Brushes With Happiness - The Wave Pictures
-413: (  4) - Careless Love - Madeleine Peyroux
-414: (  4) - Dreamland - Madeleine Peyroux
-415: (  4) - Drift - The Men
-416: (  4) - For Those In Love - Dinah Washington
-417: (  4) - Glad Rag Doll - Diana Krall
-418: (  4) - Historian - Lucy Dacus
-419: (  4) - Hormone Lemonade - Cavern of Anti-Matter
-420: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
-421: (  4) - Jazz Blues Divas - Shirley Horn
-422: (  4) - Le Kov - Gwenno
-423: (  4) - Lena Horne Greatest Hits - Lena Horne
-424: (  4) - Local Color - Mose Allison
-425: (  4) - Manhattan Moods - Mary Stallings
-426: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
-427: (  4) - Putting On Airs - Erin Rae
-428: (  4) - Rare Birds - Jonathan Wilson
-429: (  4) - Record - Tracey Thorn
-430: (  4) - Sings The Blues - Nina Simone
-431: (  4) - Space Gun - Guided By Voices
-432: (  4) - The End Of The F***Ing World (Original Songs And Score) - Graham Coxon
-433: (  4) - The Great Gentlemen Of Jazz Vocals - Arthur Prysock
-434: (  4) - The River & The Thread - Rosanne Cash
-435: (  4) - Whistle Down The Wind - Joan Baez
-436: (  3) - A Quality Of Mercy - Rvg
-437: (  3) * Beautiful World - Eliza Gilkyson
-438: (  3) - Dreaming Wide Awake - Lizz Wright
-439: (  3) - Ella Sings The Cole Porter & Rodgers And Hart Songbook - Ella Fitzgerald
-440: (  3) - Glass: Low Symphony, From The Music Of David Bowie & Brian Eno - Philip Glass
-441: (  3) - Halo - Juana Molina
-442: (  3) - Hawkwind - Dave Brock
-443: (  3) - I Need To Start A Garden - Haley Heynderickx
-444: (  3) - I'm Bad Now - Nap Eyes
-445: (  3) - John Coltrane And Johnny Hartman (Hd Remastered Edition) - John Coltrane & Johnny Hartman
-446: (  3) - Joy - White Fence
-447: (  3) - Lamp Lit Prose - Dirty Projectors
-448: (  3) - Mother - Xylouris White
-449: (  3) - Mr. Dynamite - Creep Show
-450: (  3) - Our Country: Americana Act 2 - Ray Davies
-451: (  3) - Peppermint Pig - Cocteau Twins
-452: (  3) - Radyo SiwèL - Mélissa Laveaux
-453: (  3) - Roll - Anne Mccue
-454: (  3) - Sculptor - Luluc
-455: (  3) - Sun On The Square - The Innocence Mission
-456: (  3) - The Gate - Kurt Elling
-457: (  3) - The Queen Is Dead - The Smiths
-458: (  3) - Third - Nathan Salsburg
-459: (  3) - Uniform Distortion - Jim James
-460: (  3) - You Never Were Much Of A Dancer - Gwenifer Raymond
-461: (  2) -  - Dcoops
-462: (  2) - Balsams - Chuck Johnson
-463: (  2) * Bite - Altered Images
-464: (  2) - DéJàVu - Matty
-465: (  2) - Futuristic Dragon (Deluxe Edition) - T. Rex
-466: (  2) - Greatest - Ian Dury
-467: (  2) - Half The Perfect World - Madeleine Peyroux
-468: (  2) - Hundreds Of Days - Mary Lattimore
-469: (  2) - Joan Shelley - Joan Shelley
-470: (  2) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
-471: (  2) - Meat Is Murder - The Smiths
-472: (  2) - My Generation - The Who
-473: (  2) - Once Upon A Summertime - Blossom Dearie
-474: (  2) - Passwords - Dawes
-475: (  2) - Peasant - Richard Dawson
-476: (  2) - Pelican West Plus - Haircut 100
-477: (  2) - Pure Comedy - Father John Misty
-478: (  2) - Scott 3 - Scott Walker
-479: (  2) - Shelter - Olivia Chaney
-480: (  2) - Slowdive - Slowdive
-481: (  2) - Strangeways, Here We Come - The Smiths
-482: (  2) - Sunshine On Leith - The Proclaimers
-483: (  2) - Sure - Hatchie
-484: (  2) - Tanx (The Visconti Master) - T. Rex
-485: (  2) * The Collection - Altered Images
-486: (  2) - The Lexicon Of Love (Digitally Remastered) - ABC
-487: (  2) - The Navigator - Hurray for the Riff Raff
-488: (  2) - The Pretty Things - The Pretty Things
-489: (  2) - The Roaring Silence - Manfred Mann's Earth Band
-490: (  2) - The Slider - T. Rex
-491: (  2) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
-492: (  2) - Visions Of A Life - Wolf Alice
-493: (  2) - We Are In Love - Harry Connick, Jr.
-494: (  1) -  - Literal Cry Laughing After Greg Davies' Awful Impression
-495: (  1) -  - The Thin White Duke
-496: (  1) - 7 - Beach House
-497: (  1) - 99 Luftballons - Nena
-498: (  1) - A Deeper Understanding - The War on Drugs
-499: (  1) - A Ghost In Every Bar (The Lyrics Of Fran Landesman) - Ian Shaw
-500: (  1) - A's, B's And Rarities - Suzi Quatro
-501: (  1) - Any Day - The Sea and Cake
-502: (  1) - Avalon - Roxy Music
-503: (  1) - Bang: The Bert Berns Story (Original Motion Picture Soundtrack) - Them
-504: (  1) - Be Released - Virginia Wing
-505: (  1) - Best Of - Middle of the Road
-506: (  1) - Best Of Taco - Taco
-507: (  1) - Bolan's Zip Gun - T. Rex
-508: (  1) - Boundary County - Eilen Jewell
-509: (  1) - Bramble Rose - Tift Merritt
-510: (  1) - Breathe In, Breath Out - Melodies Echo Chamber
-511: (  1) - Business As Usual - Men At Work
-512: (  1) - Can't Wake Up - Shakey Graves
-513: (  1) - Celebration - Simple Minds
-514: (  1) - Colour By Numbers - Culture Club
-515: (  1) - Combat Rock - The Clash
-516: (  1) - Complete - The Smiths
-517: (  1) - Cosmic Wink - Jess Williamson
-518: (  1) - Curse Of The I-5 Corridor - Neko Case
-519: (  1) - Dancing With Myself (Rac Remix) - Billy Idol
-520: (  1) - Dandy In The Underworld (Deluxe Edition) - T. Rex
-521: (  1) - Dare! - The Human League
-522: (  1) - Dave Brubeck's Greatest Hits - Dave Brubeck
-523: (  1) - Deafman Glance - Ryley Walker
-524: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
-525: (  1) - Die Kalten Winde Des Winters - Joy Division
-526: (  1) - Dimensional People - Mouse on Mars
-527: (  1) - Do Anything You Wanna Do: The Best Of - Eddie & the Hot Rods
-528: (  1) - Drama On 3 - Bbc Radio 3
-529: (  1) - Dream Song - Michael Rault
-530: (  1) - Early - Scritti Politti
-531: (  1) * Electric Warrior - T. Rex
-532: (  1) - Fade To Grey: The Best Of Visage - Visage
-533: (  1) - Fake - Die Nerven
-534: (  1) - Flesh + Blood - Roxy Music
-535: (  1) - Friday On My Mind - The Easybeats
-536: (  1) - Get It On: The Collection - T. Rex
-537: (  1) - Halcyon Days - Strawbs
-538: (  1) - Handful Of Stars, A - Aaron Weinstein
-539: (  1) - Hatful Of Hollow - The Smiths
-540: (  1) - Heart Full Of Soul - The Yardbirds
-541: (  1) - I'm In Love With A German Film Star - The Passions
-542: (  1) - In The Summer Time - Mungo Jerry
-543: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-544: (  1) - Just Dumb Enough To Try - Father John Misty
-545: (  1) - Kc Moan - Jimmy Dale Gilmore
-546: (  1) - Kick - Inxs
-547: (  1) - La Folie - The Stranglers
-548: (  1) - La Variete - Weekend
-549: (  1) - Look Sharp! - Joe Jackson
-550: (  1) - Love Like Before - Erin Rae
-551: (  1) - Metro Music - Martha and the Muffins
-552: (  1) - Minus - Daniel Blumberg
-553: (  1) - Music For Sixties - Manfred Mann
-554: (  1) - Nancy Wilson/Cannonball Adderley - Nancy Wilson
-555: (  1) - Narkopop - Gas
-556: (  1) - Negative Houses - Facs
-557: (  1) - New Wave Hits Of The 80S - ABC
-558: (  1) - New Wave Hits Of The 80S - Soft Cell
-559: (  1) - New Wave Hits Of The 80S - UB40
-560: (  1) - Not Even Happiness - Julie Byrne
-561: (  1) - One Way Or Another - Blondie
-562: (  1) - Ooh La La - Faces
-563: (  1) - Out Of Time (25Th Anniversary Edition) - R.E.M.
-564: (  1) - Paints A Tribute To Tony Bennett - Jack Jones
-565: (  1) - Pastorale Vassant - Jon Hassel
-566: (  1) - Perfume - Wand
-567: (  1) - Plastic Bertrand - Plastic Bertrand
-568: (  1) - Plastic Letters - Blondie
-569: (  1) - Rebound - Eleanor Friedberger
-570: (  1) - Reel To Real Cacophony - Simple Minds
-571: (  1) * Remain In Light - Talking Heads
-572: (  1) - Replicas (Remastered) - Tubeway Army
-573: (  1) - Rio (Collector's Edition) - Duran Duran
-574: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-575: (  1) - Ska Box Anthology - The Specials
-576: (  1) - Sleep - Hatchie
-577: (  1) * Snap - The Jam
-578: (  1) - Songs From The Big Chair - Tears for Fears
-579: (  1) - Stealers Wheel - Stealers Wheel
-580: (  1) * Stop Making Sense - Talking Heads
-581: (  1) - Sub-Stance - Department S
-582: (  1) - Sure (Robin Guthrie Remix) - Hatchie
-583: (  1) - Suzanne Vega - Suzanne Vega
-584: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
-585: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
-586: (  1) - Take It Or Leave It - Madness
-587: (  1) - Tell Me How You Really Feel - Courtney Barnett
-588: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
-589: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
-590: (  1) - The Burnt Match - The Wave Pictures
-591: (  1) - The Essential Yardbirds - The Yardbirds
-592: (  1) - The Esteemed Orange Juice - Haircut 100
-593: (  1) - The Gift - The Jam
-594: (  1) - The Head On The Door - The Cure
-595: (  1) - The Kink Kontroversy - The Kinks
-596: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
-597: (  1) - The Projector - Simone Felice
-598: (  1) - The Singles 1984-2004 - A-Ha
-599: (  1) - The Wrong People - Furniture
-600: (  1) - Tin Drum - Japan
-601: (  1) - Top 100 80S - New Order
-602: (  1) - Try - Hatchie
-603: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
-604: (  1) - Universalists - Yonatan Gat
-605: (  1) - Up The Junction - Squeeze
-606: (  1) - Upper West Side - Harry Allen
-607: (  1) - Violent Femmes - Violent Femmes
-608: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
-609: (  1) - When In Rome - When in Rome
-610: (  1) - Wilder - The Teardrop Explodes
+400: (  5) - Lodger (Tony Visconti 2017 Mix) - David Bowie
+401: (  5) - Longwave - Bonny Doon
+402: (  5) - No Count Sarah - Sarah Vaughan
+403: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
+404: (  5) - Pinned - A Place to Bury Strangers
+405: (  5) - Sex & Food - Unknown Mortal Orchestra
+406: (  5) - The Louder I Call, The Faster It Runs - Wye Oak
+407: (  5) - The Straight Hits! - Josh T. Pearson
+408: (  5) - Who Can I Be Now? [1974 - 1976] - David Bowie
+409: (  5) - You And Me Both - Yazoo
+410: (  4) - Acoustic Classics - Rodney Crowell
+411: (  4) - American Utopia - David Byrne
+412: (  4) * Boy - U2
+413: (  4) - Brushes With Happiness - The Wave Pictures
+414: (  4) - Careless Love - Madeleine Peyroux
+415: (  4) - Dreamland - Madeleine Peyroux
+416: (  4) - Drift - The Men
+417: (  4) - For Those In Love - Dinah Washington
+418: (  4) - Glad Rag Doll - Diana Krall
+419: (  4) - Historian - Lucy Dacus
+420: (  4) - Hormone Lemonade - Cavern of Anti-Matter
+421: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
+422: (  4) - Jazz Blues Divas - Shirley Horn
+423: (  4) - Le Kov - Gwenno
+424: (  4) - Lena Horne Greatest Hits - Lena Horne
+425: (  4) - Local Color - Mose Allison
+426: (  4) - Manhattan Moods - Mary Stallings
+427: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
+428: (  4) - Putting On Airs - Erin Rae
+429: (  4) - Rare Birds - Jonathan Wilson
+430: (  4) - Record - Tracey Thorn
+431: (  4) - Sings The Blues - Nina Simone
+432: (  4) - Space Gun - Guided By Voices
+433: (  4) - The End Of The F***Ing World (Original Songs And Score) - Graham Coxon
+434: (  4) - The Great Gentlemen Of Jazz Vocals - Arthur Prysock
+435: (  4) - The River & The Thread - Rosanne Cash
+436: (  4) - Whistle Down The Wind - Joan Baez
+437: (  3) - A Quality Of Mercy - Rvg
+438: (  3) * Beautiful World - Eliza Gilkyson
+439: (  3) - Dreaming Wide Awake - Lizz Wright
+440: (  3) - Ella Sings The Cole Porter & Rodgers And Hart Songbook - Ella Fitzgerald
+441: (  3) - Glass: Low Symphony, From The Music Of David Bowie & Brian Eno - Philip Glass
+442: (  3) - Halo - Juana Molina
+443: (  3) - Hawkwind - Dave Brock
+444: (  3) - I Need To Start A Garden - Haley Heynderickx
+445: (  3) - I'm Bad Now - Nap Eyes
+446: (  3) - John Coltrane And Johnny Hartman (Hd Remastered Edition) - John Coltrane & Johnny Hartman
+447: (  3) - Joy - White Fence
+448: (  3) - Lamp Lit Prose - Dirty Projectors
+449: (  3) - Mother - Xylouris White
+450: (  3) - Mr. Dynamite - Creep Show
+451: (  3) - Our Country: Americana Act 2 - Ray Davies
+452: (  3) - Peppermint Pig - Cocteau Twins
+453: (  3) - Radyo SiwèL - Mélissa Laveaux
+454: (  3) - Roll - Anne Mccue
+455: (  3) - Sculptor - Luluc
+456: (  3) - Sun On The Square - The Innocence Mission
+457: (  3) - The Complete Matrix Tapes #1 - The Velvet Underground
+458: (  3) - The Gate - Kurt Elling
+459: (  3) - The Queen Is Dead - The Smiths
+460: (  3) - Third - Nathan Salsburg
+461: (  3) - Uniform Distortion - Jim James
+462: (  3) - You Never Were Much Of A Dancer - Gwenifer Raymond
+463: (  2) -  - Dcoops
+464: (  2) - Balsams - Chuck Johnson
+465: (  2) * Bite - Altered Images
+466: (  2) - DéJàVu - Matty
+467: (  2) - Futuristic Dragon (Deluxe Edition) - T. Rex
+468: (  2) - Greatest - Ian Dury
+469: (  2) - Half The Perfect World - Madeleine Peyroux
+470: (  2) - Hundreds Of Days - Mary Lattimore
+471: (  2) - Joan Shelley - Joan Shelley
+472: (  2) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
+473: (  2) - Meat Is Murder - The Smiths
+474: (  2) - My Generation - The Who
+475: (  2) - Once Upon A Summertime - Blossom Dearie
+476: (  2) - Passwords - Dawes
+477: (  2) - Peasant - Richard Dawson
+478: (  2) - Pelican West Plus - Haircut 100
+479: (  2) - Pure Comedy - Father John Misty
+480: (  2) - Scott 3 - Scott Walker
+481: (  2) - Shelter - Olivia Chaney
+482: (  2) - Slowdive - Slowdive
+483: (  2) - Strangeways, Here We Come - The Smiths
+484: (  2) - Sunshine On Leith - The Proclaimers
+485: (  2) - Sure - Hatchie
+486: (  2) - Tanx (The Visconti Master) - T. Rex
+487: (  2) * The Collection - Altered Images
+488: (  2) - The Lexicon Of Love (Digitally Remastered) - ABC
+489: (  2) - The Navigator - Hurray for the Riff Raff
+490: (  2) - The Pretty Things - The Pretty Things
+491: (  2) - The Roaring Silence - Manfred Mann's Earth Band
+492: (  2) - The Slider - T. Rex
+493: (  2) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
+494: (  2) - Visions Of A Life - Wolf Alice
+495: (  2) - We Are In Love - Harry Connick, Jr.
+496: (  1) -  - Literal Cry Laughing After Greg Davies' Awful Impression
+497: (  1) -  - The Thin White Duke
+498: (  1) - 7 - Beach House
+499: (  1) - 99 Luftballons - Nena
+500: (  1) - A Deeper Understanding - The War on Drugs
+501: (  1) - A Ghost In Every Bar (The Lyrics Of Fran Landesman) - Ian Shaw
+502: (  1) - A's, B's And Rarities - Suzi Quatro
+503: (  1) - Any Day - The Sea and Cake
+504: (  1) - Avalon - Roxy Music
+505: (  1) - Bang: The Bert Berns Story (Original Motion Picture Soundtrack) - Them
+506: (  1) - Be Released - Virginia Wing
+507: (  1) - Best Of - Middle of the Road
+508: (  1) - Best Of Taco - Taco
+509: (  1) - Bolan's Zip Gun - T. Rex
+510: (  1) - Boundary County - Eilen Jewell
+511: (  1) - Bramble Rose - Tift Merritt
+512: (  1) - Breathe In, Breath Out - Melodies Echo Chamber
+513: (  1) - Business As Usual - Men At Work
+514: (  1) - Can't Wake Up - Shakey Graves
+515: (  1) - Celebration - Simple Minds
+516: (  1) - Colour By Numbers - Culture Club
+517: (  1) - Combat Rock - The Clash
+518: (  1) - Complete - The Smiths
+519: (  1) - Cosmic Wink - Jess Williamson
+520: (  1) - Curse Of The I-5 Corridor - Neko Case
+521: (  1) - Dancing With Myself (Rac Remix) - Billy Idol
+522: (  1) - Dandy In The Underworld (Deluxe Edition) - T. Rex
+523: (  1) - Dare! - The Human League
+524: (  1) - Dave Brubeck's Greatest Hits - Dave Brubeck
+525: (  1) - Deafman Glance - Ryley Walker
+526: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
+527: (  1) - Die Kalten Winde Des Winters - Joy Division
+528: (  1) - Dimensional People - Mouse on Mars
+529: (  1) - Do Anything You Wanna Do: The Best Of - Eddie & the Hot Rods
+530: (  1) - Drama On 3 - Bbc Radio 3
+531: (  1) - Dream Song - Michael Rault
+532: (  1) - Early - Scritti Politti
+533: (  1) * Electric Warrior - T. Rex
+534: (  1) - Fade To Grey: The Best Of Visage - Visage
+535: (  1) - Fake - Die Nerven
+536: (  1) - Flesh + Blood - Roxy Music
+537: (  1) - Friday On My Mind - The Easybeats
+538: (  1) - Get It On: The Collection - T. Rex
+539: (  1) - Halcyon Days - Strawbs
+540: (  1) - Handful Of Stars, A - Aaron Weinstein
+541: (  1) - Hatful Of Hollow - The Smiths
+542: (  1) - Heart Full Of Soul - The Yardbirds
+543: (  1) - I'm In Love With A German Film Star - The Passions
+544: (  1) - In The Summer Time - Mungo Jerry
+545: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+546: (  1) - Just Dumb Enough To Try - Father John Misty
+547: (  1) - Kc Moan - Jimmy Dale Gilmore
+548: (  1) - Kick - Inxs
+549: (  1) - La Folie - The Stranglers
+550: (  1) - La Variete - Weekend
+551: (  1) - Look Sharp! - Joe Jackson
+552: (  1) - Love Like Before - Erin Rae
+553: (  1) - Metro Music - Martha and the Muffins
+554: (  1) - Minus - Daniel Blumberg
+555: (  1) - Music For Sixties - Manfred Mann
+556: (  1) - Nancy Wilson/Cannonball Adderley - Nancy Wilson
+557: (  1) - Narkopop - Gas
+558: (  1) - Negative Houses - Facs
+559: (  1) - New Wave Hits Of The 80S - ABC
+560: (  1) - New Wave Hits Of The 80S - Soft Cell
+561: (  1) - New Wave Hits Of The 80S - UB40
+562: (  1) - Not Even Happiness - Julie Byrne
+563: (  1) - One Way Or Another - Blondie
+564: (  1) - Ooh La La - Faces
+565: (  1) - Out Of Time (25Th Anniversary Edition) - R.E.M.
+566: (  1) - Paints A Tribute To Tony Bennett - Jack Jones
+567: (  1) - Pastorale Vassant - Jon Hassel
+568: (  1) - Perfume - Wand
+569: (  1) - Plastic Bertrand - Plastic Bertrand
+570: (  1) - Plastic Letters - Blondie
+571: (  1) - Rebound - Eleanor Friedberger
+572: (  1) - Reel To Real Cacophony - Simple Minds
+573: (  1) * Remain In Light - Talking Heads
+574: (  1) - Replicas (Remastered) - Tubeway Army
+575: (  1) - Rio (Collector's Edition) - Duran Duran
+576: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+577: (  1) - Ska Box Anthology - The Specials
+578: (  1) - Sleep - Hatchie
+579: (  1) * Snap - The Jam
+580: (  1) - Songs From The Big Chair - Tears for Fears
+581: (  1) - Stealers Wheel - Stealers Wheel
+582: (  1) * Stop Making Sense - Talking Heads
+583: (  1) - Sub-Stance - Department S
+584: (  1) - Sure (Robin Guthrie Remix) - Hatchie
+585: (  1) - Suzanne Vega - Suzanne Vega
+586: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
+587: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
+588: (  1) - Take It Or Leave It - Madness
+589: (  1) - Tell Me How You Really Feel - Courtney Barnett
+590: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
+591: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
+592: (  1) - The Burnt Match - The Wave Pictures
+593: (  1) - The Essential Yardbirds - The Yardbirds
+594: (  1) - The Esteemed Orange Juice - Haircut 100
+595: (  1) - The Gift - The Jam
+596: (  1) - The Head On The Door - The Cure
+597: (  1) - The Kink Kontroversy - The Kinks
+598: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
+599: (  1) - The Projector - Simone Felice
+600: (  1) - The Singles 1984-2004 - A-Ha
+601: (  1) - The Wrong People - Furniture
+602: (  1) - Tin Drum - Japan
+603: (  1) - Top 100 80S - New Order
+604: (  1) - Try - Hatchie
+605: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
+606: (  1) - Universalists - Yonatan Gat
+607: (  1) - Up The Junction - Squeeze
+608: (  1) - Upper West Side - Harry Allen
+609: (  1) - Violent Femmes - Violent Femmes
+610: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
+611: (  1) - When In Rome - When in Rome
+612: (  1) - Wilder - The Teardrop Explodes

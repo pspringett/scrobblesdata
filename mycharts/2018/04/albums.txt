@@ -1,6 +1,6 @@
 Specified year (2018), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     892           108            77           524
+     892           108            78           524
   1: ( 72) - All The Roadrunning - Mark Knopfler and Emmylou Harris
   2: ( 54) - Night And Day - Joe Jackson
   3: ( 40) - Wanderer - Cara Dillon
@@ -42,16 +42,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  23: ( 11) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
  24: ( 11) * Swoon - Prefab Sprout
  25: ( 11) - Watch - Manfred Mann's Earth Band
- 26: ( 10) - A New Career In A New Town (1977 - 1982) - David Bowie
- 27: ( 10) * High Land, Hard Rain - Aztec Camera
- 28: ( 10) - Nashville - Josh Rouse
- 29: ( 10) - Revelation Road - Shelby Lynne
- 30: ( 10) * Rockers - Original Soundtrack - Various
- 31: ( 10) - Song To A Seagull - Joni Mitchell
- 32: ( 10) - Stay Gold - First Aid Kit
- 33: ( 10) * The Bootlegger's Daughter - Rachel Harrington
- 34: ( 10) - Work, Pt. 1 - Walter Salas-Humara
- 35: (  9) - A Friend Of A Friend - Dave Rawlings Machine
+ 26: ( 10) * High Land, Hard Rain - Aztec Camera
+ 27: ( 10) - Nashville - Josh Rouse
+ 28: ( 10) - Revelation Road - Shelby Lynne
+ 29: ( 10) * Rockers - Original Soundtrack - Various
+ 30: ( 10) - Song To A Seagull - Joni Mitchell
+ 31: ( 10) - Stay Gold - First Aid Kit
+ 32: ( 10) * The Bootlegger's Daughter - Rachel Harrington
+ 33: ( 10) - Work, Pt. 1 - Walter Salas-Humara
+ 34: (  9) - A Friend Of A Friend - Dave Rawlings Machine
+ 35: (  9) - A New Career In A New Town (1977 - 1982) - David Bowie
  36: (  9) - American Dream - Lcd Soundsystem
  37: (  9) - B-52's - The B-52's
  38: (  9) - Hurricane - Grace Jones
@@ -90,8 +90,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  71: (  1) - Dounia Tabolo - Boubacar Traoré
  72: (  1) - Follow Them True - Stick in the Wheel
  73: (  1) - Halfway Towards A Healing - The Lost Brothers
- 74: (  1) - Oh My - Nadine
- 75: (  1) - Shadow People - The Limiñanas
- 76: (  1) - The Guitar And Other Machines - The Durutti Column
- 77: (  1) - The Thread That Keeps Us - Calexico
- 78: (  1) - Triomphe - La Féline
+ 74: (  1) - Lodger (Tony Visconti 2017 Mix) - David Bowie
+ 75: (  1) - Oh My - Nadine
+ 76: (  1) - Shadow People - The Limiñanas
+ 77: (  1) - The Guitar And Other Machines - The Durutti Column
+ 78: (  1) - The Thread That Keeps Us - Calexico
+ 79: (  1) - Triomphe - La Féline

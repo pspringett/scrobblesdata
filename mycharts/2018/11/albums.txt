@@ -1,6 +1,6 @@
 Specified year (2018), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     848            62            74           569
+     848            62            75           569
   1: ( 78) - A Hard Day's Night (Remastered) - The Beatles
   2: ( 64) - All The Hours I Have Left To Tell You Anything - Sarah MacDougall
   3: ( 44) - True Meanings - Paul Weller
@@ -44,8 +44,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: ( 15) - Church & The... - Martin Stephenson
  23: ( 15) - Imperial Bedroom - Elvis Costello & the Attractions
  24: ( 15) - Live Orchestral - 2018-10-06 Cd2 - Orchestral Manoeuvres in the Dark
- 25: ( 14) - Original Album Series - The Corrs
- 26: ( 13) - Gathering - Josh Ritter
+
+ 25: ( 13) - Gathering - Josh Ritter
+ 26: ( 13) - Original Album Series - The Corrs
  27: ( 12) * Black Cadillac - Rosanne Cash
  28: ( 12) - John Wesley Harding - Bob Dylan
  29: ( 12) - Pin Ups - David Bowie
@@ -76,21 +77,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  54: (  1) - Early - Scritti Politti
  55: (  1) - Fade To Grey: The Best Of Visage - Visage
  56: (  1) - Flesh + Blood - Roxy Music
- 57: (  1) - Handful Of Stars, A - Aaron Weinstein
- 58: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
- 59: (  1) - Journeys To Glory - Spandau Ballet
- 60: (  1) - La Folie - The Stranglers
- 61: (  1) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
- 62: (  1) - Metro Music - Martha and the Muffins
- 63: (  1) - Nancy Wilson/Cannonball Adderley - Nancy Wilson
- 64: (  1) - Plastic Letters - Blondie
- 65: (  1) - Replicas (Remastered) - Tubeway Army
- 66: (  1) - Rip It Up - Orange Juice
- 67: (  1) - Ska Box Anthology - The Specials
- 68: (  1) * Snap - The Jam
- 69: (  1) * Stop Making Sense - Talking Heads
- 70: (  1) - Take It Or Leave It - Madness
- 71: (  1) - The Esteemed Orange Juice - Haircut 100
- 72: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
- 73: (  1) - Up The Junction - Squeeze
- 74: (  1) - Upper West Side - Harry Allen
+ 57: (  1) - Forgiven, Not Forgotten - The Corrs
+ 58: (  1) - Handful Of Stars, A - Aaron Weinstein
+ 59: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+ 60: (  1) - Journeys To Glory - Spandau Ballet
+ 61: (  1) - La Folie - The Stranglers
+ 62: (  1) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+ 63: (  1) - Metro Music - Martha and the Muffins
+ 64: (  1) - Nancy Wilson/Cannonball Adderley - Nancy Wilson
+ 65: (  1) - Plastic Letters - Blondie
+ 66: (  1) - Replicas (Remastered) - Tubeway Army
+ 67: (  1) - Rip It Up - Orange Juice
+ 68: (  1) - Ska Box Anthology - The Specials
+ 69: (  1) * Snap - The Jam
+ 70: (  1) * Stop Making Sense - Talking Heads
+ 71: (  1) - Take It Or Leave It - Madness
+ 72: (  1) - The Esteemed Orange Juice - Haircut 100
+ 73: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+ 74: (  1) - Up The Junction - Squeeze
+ 75: (  1) - Upper West Side - Harry Allen

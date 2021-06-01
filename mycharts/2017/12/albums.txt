@@ -1,12 +1,9 @@
 Specified year (2017), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     670            28            39           394
+     670            28            40           394
   1: ( 71) - Short Movie - Laura Marling
   2: ( 50) - Sinatra - Basie (Remastered) - Count Basie
-  3: ( 40) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
-
-
-
+  3: ( 37) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
   4: ( 36) - Parallel Lines: Deluxe Collector's Edition - Blondie
   5: ( 36) - Siren - Roxy Music
 
@@ -55,5 +52,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  35: (  6) - Hurricane - Grace Jones
  36: (  6) - Miles From Our Home - Cowboy Junkies
  37: (  6) - The Nashville Sound - Jason Isbell and the 400 Unit
- 38: (  2) * Don't Get Weird On Me Babe - Lloyd Cole
- 39: (  2) * Plastic Wood - Lloyd Cole
+ 38: (  3) - Smile If You Want To (In New York - Collected Recordings 1988-1996) - Lloyd Cole
+ 39: (  2) * Don't Get Weird On Me Babe - Lloyd Cole
+ 40: (  2) * Plastic Wood - Lloyd Cole

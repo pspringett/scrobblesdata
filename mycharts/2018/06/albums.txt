@@ -1,6 +1,6 @@
 Specified year (2018), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     836            46            59           516
+     836            46            60           516
   1: ( 68) - Substance - New Order
   2: ( 51) - Mixed Up - The Cure
   3: ( 38) - In Concert 1987 - New Order
@@ -43,12 +43,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  26: ( 11) * Swoon - Prefab Sprout
  27: ( 11) * Transformer - Lou Reed
  28: ( 10) - A Friend Of A Friend - Dave Rawlings Machine
- 29: ( 10) - A New Career In A New Town (1977 - 1982) - David Bowie
- 30: ( 10) - Clouds - Joni Mitchell
- 31: ( 10) * Mountains/Forests - JT Nero
- 32: ( 10) * Seventeen Seconds - The Cure
- 33: ( 10) - The Pacific Age - Orchestral Manoeuvres in the Dark
- 34: ( 10) - Treasure - Cocteau Twins
+ 29: ( 10) - Clouds - Joni Mitchell
+ 30: ( 10) * Mountains/Forests - JT Nero
+ 31: ( 10) * Seventeen Seconds - The Cure
+ 32: ( 10) - The Pacific Age - Orchestral Manoeuvres in the Dark
+ 33: ( 10) - Treasure - Cocteau Twins
+ 34: (  9) - A New Career In A New Town (1977 - 1982) - David Bowie
  35: (  9) - Hawkwind - Hawkwind
  36: (  9) * Highway 61 Revisited - Bob Dylan
  37: (  9) - Peel Sessions 1981 - The Cure
@@ -60,7 +60,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  43: (  6) * New Gold Dream (81-82-83-84) - Simple Minds
  44: (  6) * The Man Who Sold The World - David Bowie
  45: (  6) - Woodland Echoes - Nick Heyward
- 46: (  3) - Heroes (2017 Remastered Version) - David Bowie
+ 46: (  3) * Heroes - David Bowie
  47: (  2) - The Salt Doll Went To Measure The Depth Of The Sea - The Low Anthem
  48: (  1) - Bellowing Sun - Mind Over Mirrors
  49: (  1) - Chaleur Humaine - Christine and the Queens
@@ -68,9 +68,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  51: (  1) - Dungeness - Trembling Bells
  52: (  1) - Higgledypiggledy - Slug
  53: (  1) - Hippo Lite - Drinks
- 54: (  1) - Longwave - Bonny Doon
- 55: (  1) - Pinned - A Place to Bury Strangers
- 56: (  1) - Sex & Food - Unknown Mortal Orchestra
- 57: (  1) - The Lookout - Laura Veirs
- 58: (  1) - The Louder I Call, The Faster It Runs - Wye Oak
- 59: (  1) - The Straight Hits! - Josh T. Pearson
+ 54: (  1) - Lodger (Tony Visconti 2017 Mix) - David Bowie
+ 55: (  1) - Longwave - Bonny Doon
+ 56: (  1) - Pinned - A Place to Bury Strangers
+ 57: (  1) - Sex & Food - Unknown Mortal Orchestra
+ 58: (  1) - The Lookout - Laura Veirs
+ 59: (  1) - The Louder I Call, The Faster It Runs - Wye Oak
+ 60: (  1) - The Straight Hits! - Josh T. Pearson

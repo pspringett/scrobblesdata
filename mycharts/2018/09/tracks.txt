@@ -1,6 +1,6 @@
 Specified year (2018), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     894            66            84           609
+     894            66            87           609
   1: (  8) - Third Stone From The Sun - Jimi Hendrix (Are You Experienced)
   2: (  6) - Fire - Jimi Hendrix (Are You Experienced)
   3: (  6) - Hey Joe - Jimi Hendrix (Are You Experienced)
@@ -60,7 +60,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  57: (  3) - Love Like Before - Erin Rae (Putting On Airs)
  58: (  3) - One in Ten - UB40 (5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan))
  59: (  3) - Oomingmak - Cocteau Twins (Victorialand)
- 60: (  3) - Present Arms - UB40 (5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan))
+ 60: (  3) - Present Arms - UB40 (Present Arms)
  61: (  3) - Sardonicus - UB40 (5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan))
  62: (  3) - Silent Witness - UB40 (5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan))
  63: (  3) - Speed Your Love To Me (2002 Digital Remaster) - Simple Minds (Sparkle In The Rain)
@@ -213,7 +213,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 210: (  1) - Christchurch Woman - Justin Townes Earle (Harlem River Blues)
 211: (  1) - Cindy Incidentally - Faces (Ooh La La)
 212: (  1) - Close to Me - The Cure (Staring At The Sea: The Singles)
-213: (  1) - Closer - The Corrs (Original Album Series)
+213: (  1) - Closer - The Corrs (Forgiven, Not Forgotten)
 214: (  1) - Coleen - Martin Stephenson (Bolivia)
 215: (  1) - Colony - Joy Division (Closer)
 216: (  1) - Come With Us - Brian Eno & David Byrne (My Life In The Bush Of Ghosts)
@@ -258,7 +258,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 255: (  1) - Everybody Is A Number One - Aztec Camera (Love)
 256: (  1) - Everything Merges With The Night (2004 Digital Remaster) - Brian Eno (Another Green World)
 257: (  1) - Falls of Sleep - Freakwater (Scheherazade)
-258: (  1) - Fantastic Voyage (Tony Visconti 2017 Mix) - David Bowie (A New Career In A New Town (1977 - 1982))
+258: (  1) - Fantastic Voyage (Tony Visconti 2017 Mix) - David Bowie (Lodger (Tony Visconti 2017 Mix))
 259: (  1) - Feel Of The World - Tift Merritt (See You On The Moon)
 260: (  1) - Feels Like Lightning - Josh Ritter (Gathering)
 261: (  1) - Final Transmission from the Diving Umbrella - The Low Anthem (The Salt Doll Went To Measure The Depth Of The Sea)
