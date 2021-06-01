@@ -1,90 +1,92 @@
 Specified year (2017), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1381            56            72           769
+    1381            56            75           769
   1: ( 60) - Acoustic - Simple Minds
-  2: ( 57) - Who Can I Be Now? [1974 - 1976] - David Bowie
-  3: ( 48) - Song - It'S Immaterial
+  2: ( 48) - Song - It'S Immaterial
 
 
-  4: ( 45) - Cafe Bleu - The Style Council
+  3: ( 45) - Cafe Bleu - The Style Council
 
-  5: ( 43) - Midwest Farmer's Daughter - Margo Price
-  6: ( 43) - Paging Mr. Proust - The Jayhawks
-
-
-  7: ( 40) * Yogi In My House - Martin Stephenson
+  4: ( 43) - Midwest Farmer's Daughter - Margo Price
+  5: ( 43) - Paging Mr. Proust - The Jayhawks
 
 
-
-  8: ( 36) - Are You Experienced - Jimi Hendrix
-  9: ( 36) - Diamond Dogs - David Bowie
- 10: ( 35) - Introducing The Style Council - The Style Council
- 11: ( 34) * Harlem River Blues - Justin Townes Earle
- 12: ( 34) - The Things That We Are Made Of - Mary Chapin Carpenter
- 13: ( 33) - The Flame And The Pelican - Jack Harris
+  6: ( 40) * Yogi In My House - Martin Stephenson
 
 
- 14: ( 30) - Colvin & Earle - Colvin & Earle
- 15: ( 30) - Love What You Do - Hackensaw Boys
- 16: ( 30) - My Piece Of Land - Amanda Shires
- 17: ( 30) - Stitch Of The World - Tift Merritt
+
+  7: ( 36) - Are You Experienced - Jimi Hendrix
+  8: ( 36) - Diamond Dogs - David Bowie
+  9: ( 35) - Introducing The Style Council - The Style Council
+ 10: ( 34) * Harlem River Blues - Justin Townes Earle
+ 11: ( 34) - The Things That We Are Made Of - Mary Chapin Carpenter
+ 12: ( 33) - The Flame And The Pelican - Jack Harris
 
 
- 18: ( 27) - Journeys To Glory - Spandau Ballet
- 19: ( 27) - Little Seeds - Shovels & Rope
- 20: ( 26) - See You On The Moon - Tift Merritt
- 21: ( 25) * Road - Angie Palmer
- 22: ( 24) - The List - Rosanne Cash
- 23: ( 23) * The Unforgettable Fire - U2
+ 13: ( 30) - Colvin & Earle - Colvin & Earle
+ 14: ( 30) - Love What You Do - Hackensaw Boys
+ 15: ( 30) - My Piece Of Land - Amanda Shires
+ 16: ( 30) - Stitch Of The World - Tift Merritt
 
- 24: ( 21) * I Speak Because I Can - Laura Marling
- 25: ( 21) * I'm Not Following You - Edwyn Collins
- 26: ( 21) - Upstairs At Erics (Remastered) - Yazoo
- 27: ( 20) - Life's Hard And Then You Die - It'S Immaterial
- 28: ( 20) - Modern Times - Bob Dylan
- 29: ( 20) - Single Mothers - Justin Townes Earle
+
+ 17: ( 27) - Journeys To Glory - Spandau Ballet
+ 18: ( 27) - Little Seeds - Shovels & Rope
+ 19: ( 26) - See You On The Moon - Tift Merritt
+ 20: ( 25) * Road - Angie Palmer
+ 21: ( 24) - The List - Rosanne Cash
+ 22: ( 23) * The Unforgettable Fire - U2
+
+ 23: ( 21) * I Speak Because I Can - Laura Marling
+ 24: ( 21) * I'm Not Following You - Edwyn Collins
+ 25: ( 21) - Upstairs At Erics (Remastered) - Yazoo
+ 26: ( 20) - Life's Hard And Then You Die - It'S Immaterial
+ 27: ( 20) - Modern Times - Bob Dylan
+ 28: ( 20) - Single Mothers - Justin Townes Earle
+ 29: ( 20) * Young Americans - David Bowie
 
  30: ( 18) - Excellent Day - Lizanne Knott
  31: ( 18) * Remain In Light - Talking Heads
-
- 32: ( 16) - The Sin Of Pride - The Undertones
- 33: ( 15) * Beyond The Leap Beyond The Law - Martin Stephenson
- 34: ( 15) - The Prince Of Wales - Devine & Statton
- 35: ( 14) * New Gold Dream (81-82-83-84) - Simple Minds
- 36: ( 14) - Please Please Me (Remastered) - The Beatles
- 37: ( 14) - Positive Touch - The Undertones
- 38: ( 14) * Trouble In Mind - Hayes Carll
- 39: ( 13) - Headed For The Hills - Jim Lauderdale
- 40: ( 13) * High Land, Hard Rain - Aztec Camera
- 41: ( 13) - UNCUT 2016-12 The Hustle - Various
- 42: ( 12) - Evergreen - Echo & the Bunnymen
- 43: ( 12) * Love And Circumstance - Carrie Rodriguez
- 44: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
- 45: ( 12) - Scheherazade - Freakwater
- 46: ( 11) - Ashes & Fire - Ryan Adams
- 47: ( 11) - Burnin' - The Wailers
- 48: ( 11) - Revelation Road - Shelby Lynne
- 49: ( 11) - The Avenues - Lera Lynn
- 50: ( 11) - You And Me Both - Yazoo
- 51: ( 10) - Country Life - Roxy Music
- 52: ( 10) - Failer - Kathleen Edwards
- 53: ( 10) - How To Dance - Mount Moriah
- 54: ( 10) - Outlandos D'amour (Remastered) - The Police
- 55: ( 10) * Reading, Writing & Arithmetic - The Sundays
- 56: ( 10) * Roxy Music - Roxy Music
- 57: ( 10) * Seventeen Seconds - The Cure
- 58: ( 10) * Sparkle In The Rain - Simple Minds
- 59: ( 10) * The Orange Juice - Orange Juice
- 60: ( 10) - Traveling Companion - Tift Merritt
- 61: (  9) * The Man Who Sold The World - David Bowie
- 62: (  9) - The Outsider - Rodney Crowell
- 63: (  8) - Roll - Anne Mccue
- 64: (  7) * Broken Carelessly - The Redlands Palomino Company
- 65: (  6) - Penthouse And Pavement - Heaven 17
- 66: (  5) * Bite - Altered Images
- 67: (  5) - Love - Aztec Camera
- 68: (  4) * Birds Of Chicago - Birds of Chicago
- 69: (  4) - The Lexicon Of Love (Digitally Remastered) - ABC
- 70: (  2) * From Langley Park To Memphis - Prefab Sprout
- 71: (  2) * Steve McQueen - Prefab Sprout
- 72: (  1) * Jordan: The Comeback - Prefab Sprout
+ 32: ( 17) - David Live - Original Mix - David Bowie
+ 33: ( 16) - The Sin Of Pride - The Undertones
+ 34: ( 15) * Beyond The Leap Beyond The Law - Martin Stephenson
+ 35: ( 15) - The Prince Of Wales - Devine & Statton
+ 36: ( 14) * New Gold Dream (81-82-83-84) - Simple Minds
+ 37: ( 14) - Please Please Me (Remastered) - The Beatles
+ 38: ( 14) - Positive Touch - The Undertones
+ 39: ( 14) - The Gouster - David Bowie
+ 40: ( 14) * Trouble In Mind - Hayes Carll
+ 41: ( 13) - Headed For The Hills - Jim Lauderdale
+ 42: ( 13) * High Land, Hard Rain - Aztec Camera
+ 43: ( 13) - UNCUT 2016-12 The Hustle - Various
+ 44: ( 12) - Evergreen - Echo & the Bunnymen
+ 45: ( 12) * Love And Circumstance - Carrie Rodriguez
+ 46: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
+ 47: ( 12) - Scheherazade - Freakwater
+ 48: ( 11) - Ashes & Fire - Ryan Adams
+ 49: ( 11) - Burnin' - The Wailers
+ 50: ( 11) - Revelation Road - Shelby Lynne
+ 51: ( 11) - The Avenues - Lera Lynn
+ 52: ( 11) - You And Me Both - Yazoo
+ 53: ( 10) - Country Life - Roxy Music
+ 54: ( 10) - Failer - Kathleen Edwards
+ 55: ( 10) - How To Dance - Mount Moriah
+ 56: ( 10) - Outlandos D'amour (Remastered) - The Police
+ 57: ( 10) * Reading, Writing & Arithmetic - The Sundays
+ 58: ( 10) * Roxy Music - Roxy Music
+ 59: ( 10) * Seventeen Seconds - The Cure
+ 60: ( 10) * Sparkle In The Rain - Simple Minds
+ 61: ( 10) * The Orange Juice - Orange Juice
+ 62: ( 10) - Traveling Companion - Tift Merritt
+ 63: (  9) * The Man Who Sold The World - David Bowie
+ 64: (  9) - The Outsider - Rodney Crowell
+ 65: (  8) - Roll - Anne Mccue
+ 66: (  7) * Broken Carelessly - The Redlands Palomino Company
+ 67: (  6) - Penthouse And Pavement - Heaven 17
+ 68: (  6) * Station To Station - David Bowie
+ 69: (  5) * Bite - Altered Images
+ 70: (  5) - Love - Aztec Camera
+ 71: (  4) * Birds Of Chicago - Birds of Chicago
+ 72: (  4) - The Lexicon Of Love (Digitally Remastered) - ABC
+ 73: (  2) * From Langley Park To Memphis - Prefab Sprout
+ 74: (  2) * Steve McQueen - Prefab Sprout
+ 75: (  1) * Jordan: The Comeback - Prefab Sprout

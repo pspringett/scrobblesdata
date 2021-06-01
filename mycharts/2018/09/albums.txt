@@ -1,6 +1,6 @@
 Specified year (2018), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     894            66            87           609
+     894            66            84           609
   1: ( 98) - Are You Experienced - Jimi Hendrix
   2: ( 40) - Ode To Billie Joe - Bobbie Gentry
 
@@ -13,17 +13,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
   3: ( 31) * Beyond The Leap Beyond The Law - Martin Stephenson
 
+  4: ( 29) - Present Arms - UB40
 
+  5: ( 27) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan
 
-  4: ( 27) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan
-  5: ( 26) - 5 Album Set (Signing Off/Present Arms/Ub44/Labour Of Love/Geffery Morgan) - UB40
   6: ( 25) * Led Zeppelin - Led Zeppelin
   7: ( 25) - Victorialand - Cocteau Twins
   8: ( 24) - Evergreen - Echo & the Bunnymen
   9: ( 24) - Staring At The Sea: The Singles - The Cure
 
- 10: ( 22) * Sparkle In The Rain - Simple Minds
- 11: ( 21) - Original Album Series - The Corrs
+ 10: ( 22) - Forgiven, Not Forgotten - The Corrs
+ 11: ( 22) * Sparkle In The Rain - Simple Minds
+
  12: ( 20) - Stranger In The Alps - Phoebe Bridgers
 
 
@@ -65,7 +66,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: (  8) * Plastic Wood - Lloyd Cole
  48: (  8) * Power, Corruption & Lies - New Order
  49: (  8) - Things That Can't Be Undone - Corb Lund
- 50: (  5) - A New Career In A New Town (1977 - 1982) - David Bowie
+ 50: (  6) - Lodger (Tony Visconti 2017 Mix) - David Bowie
  51: (  5) - Eurovision Song Contest Lisbon 2018 - Various
  52: (  5) - Hope Downs - Rolling Blackouts Coastal Fever
  53: (  5) - I'm All Ears - Let'S Eat Grandma
@@ -80,27 +81,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  62: (  3) - Deran - Bombino
  63: (  3) - Downey To Lubbock - Jimmie Dale Gilmore
  64: (  3) - God's Favorite Customer - Father John Misty
- 65: (  3) - Present Arms - UB40
- 66: (  3) - Putting On Airs - Erin Rae
- 67: (  2) - Chris - Christine and the Queens
- 68: (  2) - It's A New Day Tonight - Michael Rault
- 69: (  1) -  - Dcoops
- 70: (  1) - Another Country - Tift Merritt
- 71: (  1) - Be Released - Virginia Wing
- 72: (  1) - Bramble Rose - Tift Merritt
- 73: (  1) - Breathe In, Breath Out - Melodies Echo Chamber
- 74: (  1) - Celebration - Simple Minds
- 75: (  1) - Curse Of The I-5 Corridor - Neko Case
- 76: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
- 77: (  1) - Dream Song - Michael Rault
- 78: (  1) - Forgiven, Not Forgotten - The Corrs
- 79: (  1) - Just Dumb Enough To Try - Father John Misty
- 80: (  1) - Kc Moan - Jimmy Dale Gilmore
- 81: (  1) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
- 82: (  1) - Lodger (Tony Visconti 2017 Mix) - David Bowie
- 83: (  1) - Love Like Before - Erin Rae
- 84: (  1) - Ooh La La - Faces
- 85: (  1) - Pastorale Vassant - Jon Hassel
- 86: (  1) - Tambourine - Tift Merritt
- 87: (  1) - The Burnt Match - The Wave Pictures
- 88: (  1) - Wilder - The Teardrop Explodes
+ 65: (  3) - Putting On Airs - Erin Rae
+ 66: (  2) - Chris - Christine and the Queens
+ 67: (  2) - It's A New Day Tonight - Michael Rault
+ 68: (  1) -  - Dcoops
+ 69: (  1) - Another Country - Tift Merritt
+ 70: (  1) - Be Released - Virginia Wing
+ 71: (  1) - Bramble Rose - Tift Merritt
+ 72: (  1) - Breathe In, Breath Out - Melodies Echo Chamber
+ 73: (  1) - Celebration - Simple Minds
+ 74: (  1) - Curse Of The I-5 Corridor - Neko Case
+ 75: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
+ 76: (  1) - Dream Song - Michael Rault
+ 77: (  1) - Just Dumb Enough To Try - Father John Misty
+ 78: (  1) - Kc Moan - Jimmy Dale Gilmore
+ 79: (  1) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
+ 80: (  1) - Love Like Before - Erin Rae
+ 81: (  1) - Ooh La La - Faces
+ 82: (  1) - Pastorale Vassant - Jon Hassel
+ 83: (  1) - Tambourine - Tift Merritt
+ 84: (  1) - The Burnt Match - The Wave Pictures
+ 85: (  1) - Wilder - The Teardrop Explodes

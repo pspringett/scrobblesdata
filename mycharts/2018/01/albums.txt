@@ -1,6 +1,6 @@
 Specified year (2018), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1128            57            77           710
+    1128            57            76           710
   1: ( 62) - Head Over Heels - Cocteau Twins
   2: ( 61) - Masseduction - St. Vincent
   3: ( 53) * No Word From Tom - Hem
@@ -9,7 +9,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  5: ( 41) - Loyalty - The Weather Station
+  5: ( 41) - Forgiven, Not Forgotten - The Corrs
+  6: ( 41) - Loyalty - The Weather Station
 
 
 
@@ -18,11 +19,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: ( 32) - Garlands - Cocteau Twins
+  7: ( 32) - Garlands - Cocteau Twins
 
-  7: ( 30) - Get Happy!! Cd2 - Elvis Costello & the Attractions
-  8: ( 30) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
-  9: ( 29) - Forgiven, Not Forgotten - The Corrs
+  8: ( 30) - Get Happy!! Cd2 - Elvis Costello & the Attractions
+  9: ( 30) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
  10: ( 29) - Grotesque (After The Gramme) (Expanded Edition) - The Fall
  11: ( 28) - Short Movie - Laura Marling
  12: ( 27) - The Weather Station - The Weather Station
@@ -52,48 +52,47 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  30: ( 12) - Chaleur Humaine - Christine and the Queens
  31: ( 12) * Love Story - Lloyd Cole
  32: ( 12) * One Moment More - Mindy Smith
- 33: ( 12) - Original Album Series - The Corrs
- 34: ( 12) * The Trinity Session - Cowboy Junkies
- 35: ( 11) * Broken Record - Lloyd Cole
- 36: ( 11) - Carry Fire - Robert Plant
- 37: ( 11) - Echo & The Bunnymen - Echo & the Bunnymen
- 38: ( 11) - Honky Chateau (Remastered) - Elton John
- 39: ( 11) * Letters From Sinners & Strangers - Eilen Jewell
- 40: ( 11) * October - U2
- 41: ( 11) - Solitude Standing - Suzanne Vega
- 42: ( 11) - Songs Of Experience - U2
- 43: ( 11) - The Houston Kid - Rodney Crowell
- 44: ( 10) * Anchors & Anvils - Amy LaVere
- 45: ( 10) - Can't Buy A Thrill - Steely Dan
- 46: ( 10) - Country Life - Roxy Music
- 47: ( 10) - Crush - Orchestral Manoeuvres in the Dark
- 48: ( 10) - Mainstream - Lloyd Cole and the Commotions
- 49: ( 10) - Modern Times - Bob Dylan
- 50: ( 10) - Not Dark Yet - Shelby Lynne
- 51: ( 10) - Other - Alison Moyet
- 52: (  9) - For Your Pleasure - Roxy Music
- 53: (  9) * Grand Canyon - Sarah MacDougall
- 54: (  9) * Little Creatures - Talking Heads
- 55: (  9) - Miles From Our Home - Cowboy Junkies
- 56: (  9) * The Man Who Sold The World - David Bowie
- 57: (  8) * Power, Corruption & Lies - New Order
- 58: (  8) * Road - Angie Palmer
- 59: (  8) - The '81 Demos - Weekend
- 60: (  7) * Across The Atlantic - Sarah MacDougall
- 61: (  7) - Shadows In The Night - Bob Dylan
- 62: (  3) - Glass: Low Symphony, From The Music Of David Bowie & Brian Eno - Philip Glass
- 63: (  3) - Halo - Juana Molina
- 64: (  3) - Peppermint Pig - Cocteau Twins
- 65: (  2) - Balsams - Chuck Johnson
- 66: (  2) - Joan Shelley - Joan Shelley
- 67: (  2) - Peasant - Richard Dawson
- 68: (  2) - Pure Comedy - Father John Misty
- 69: (  2) - Scott 3 - Scott Walker
- 70: (  2) - Slowdive - Slowdive
- 71: (  2) - The Kick Inside - Kate Bush
- 72: (  2) - The Navigator - Hurray for the Riff Raff
- 73: (  1) - A Deeper Understanding - The War on Drugs
- 74: (  1) - Another Green World - Brian Eno
- 75: (  1) - Drama On 3 - Bbc Radio 3
- 76: (  1) - Narkopop - Gas
- 77: (  1) - Not Even Happiness - Julie Byrne
+ 33: ( 12) * The Trinity Session - Cowboy Junkies
+ 34: ( 11) * Broken Record - Lloyd Cole
+ 35: ( 11) - Carry Fire - Robert Plant
+ 36: ( 11) - Echo & The Bunnymen - Echo & the Bunnymen
+ 37: ( 11) - Honky Chateau (Remastered) - Elton John
+ 38: ( 11) * Letters From Sinners & Strangers - Eilen Jewell
+ 39: ( 11) * October - U2
+ 40: ( 11) - Solitude Standing - Suzanne Vega
+ 41: ( 11) - Songs Of Experience - U2
+ 42: ( 11) - The Houston Kid - Rodney Crowell
+ 43: ( 10) * Anchors & Anvils - Amy LaVere
+ 44: ( 10) - Can't Buy A Thrill - Steely Dan
+ 45: ( 10) - Country Life - Roxy Music
+ 46: ( 10) - Crush - Orchestral Manoeuvres in the Dark
+ 47: ( 10) - Mainstream - Lloyd Cole and the Commotions
+ 48: ( 10) - Modern Times - Bob Dylan
+ 49: ( 10) - Not Dark Yet - Shelby Lynne
+ 50: ( 10) - Other - Alison Moyet
+ 51: (  9) - For Your Pleasure - Roxy Music
+ 52: (  9) * Grand Canyon - Sarah MacDougall
+ 53: (  9) * Little Creatures - Talking Heads
+ 54: (  9) - Miles From Our Home - Cowboy Junkies
+ 55: (  9) * The Man Who Sold The World - David Bowie
+ 56: (  8) * Power, Corruption & Lies - New Order
+ 57: (  8) * Road - Angie Palmer
+ 58: (  8) - The '81 Demos - Weekend
+ 59: (  7) * Across The Atlantic - Sarah MacDougall
+ 60: (  7) - Shadows In The Night - Bob Dylan
+ 61: (  3) - Glass: Low Symphony, From The Music Of David Bowie & Brian Eno - Philip Glass
+ 62: (  3) - Halo - Juana Molina
+ 63: (  3) - Peppermint Pig - Cocteau Twins
+ 64: (  2) - Balsams - Chuck Johnson
+ 65: (  2) - Joan Shelley - Joan Shelley
+ 66: (  2) - Peasant - Richard Dawson
+ 67: (  2) - Pure Comedy - Father John Misty
+ 68: (  2) - Scott 3 - Scott Walker
+ 69: (  2) - Slowdive - Slowdive
+ 70: (  2) - The Kick Inside - Kate Bush
+ 71: (  2) - The Navigator - Hurray for the Riff Raff
+ 72: (  1) - A Deeper Understanding - The War on Drugs
+ 73: (  1) - Another Green World - Brian Eno
+ 74: (  1) - Drama On 3 - Bbc Radio 3
+ 75: (  1) - Narkopop - Gas
+ 76: (  1) - Not Even Happiness - Julie Byrne

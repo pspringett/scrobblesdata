@@ -1,6 +1,6 @@
 Specified year (2018), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     951           110           124           506
+     951           110           125           506
   1: ( 56) - My Love Is Cool - Wolf Alice
   2: ( 49) - Church & The... - Martin Stephenson
   3: ( 48) - Between The Buttons (Remastered) - The Rolling Stones
@@ -20,22 +20,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  8: ( 31) - The Complete Matrix Tapes - The Velvet Underground
-  9: ( 30) - The Stars, The Oceans & The Moon - Echo & the Bunnymen
+
+  8: ( 30) - The Stars, The Oceans & The Moon - Echo & the Bunnymen
 
 
 
- 10: ( 26) - Etc - Lloyd Cole
- 11: ( 25) - Victorialand - Cocteau Twins
- 12: ( 24) - Chris - Christine and the Queens
- 13: ( 24) - Ogdens' Nut Gone Flake - Small Faces
- 14: ( 24) * Organisation - Orchestral Manoeuvres in the Dark
- 15: ( 24) - Welcome To The Blackout (Live London '78) - David Bowie
+  9: ( 26) - Etc - Lloyd Cole
+ 10: ( 25) - Victorialand - Cocteau Twins
+ 11: ( 24) - Chris - Christine and the Queens
+ 12: ( 24) - Ogdens' Nut Gone Flake - Small Faces
+ 13: ( 24) * Organisation - Orchestral Manoeuvres in the Dark
+ 14: ( 24) - Welcome To The Blackout (Live London '78) - David Bowie
 
 
 
- 16: ( 20) - National Ransom - Elvis Costello
-
+ 15: ( 20) - National Ransom - Elvis Costello
+ 16: ( 19) - The Complete Matrix Tapes #3 - The Velvet Underground
  17: ( 18) - Love - Aztec Camera
  18: ( 17) - North Of A Miracle - Nick Heyward
  19: ( 16) - Evergreen - Echo & the Bunnymen
@@ -44,105 +44,106 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: ( 13) - Cafe Bleu - The Style Council
  23: ( 13) * Old Sticks To Scare A Bird - Angie Palmer
  24: ( 12) - Tambourine - Tift Merritt
- 25: ( 11) - The Outsider - Rodney Crowell
- 26: ( 10) * The King Is Dead - The Decemberists
- 27: ( 10) - The Pacific Age - Orchestral Manoeuvres in the Dark
- 28: (  9) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
- 29: (  9) - A New World Record - Electric Light Orchestra
- 30: (  9) - Saturns Pattern - Paul Weller
- 31: (  8) - B-52's - The B-52's
- 32: (  6) * Texas Fever - Orange Juice
- 33: (  6) - The Orchard - Lizz Wright
- 34: (  5) - Chamber Music Society - Esperanza Spalding
- 35: (  5) - Ella At Duke's Place - Ella Fitzgerald
- 36: (  5) - Gershwin: 's Wonderful -Gershwin Songbook (Disc 1) - Nina Simone
- 37: (  5) - No Count Sarah - Sarah Vaughan
- 38: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
- 39: (  4) - Bon Voyage - Melody'S Echo Chamber
- 40: (  4) - Careless Love - Madeleine Peyroux
- 41: (  4) - Dreamland - Madeleine Peyroux
- 42: (  4) - For Those In Love - Dinah Washington
- 43: (  4) - Glad Rag Doll - Diana Krall
- 44: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
- 45: (  4) - Jazz Blues Divas - Shirley Horn
- 46: (  4) - Lena Horne Greatest Hits - Lena Horne
- 47: (  4) - Local Color - Mose Allison
- 48: (  4) - Manhattan Moods - Mary Stallings
- 49: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
- 50: (  4) - Sings The Blues - Nina Simone
- 51: (  4) - The Great Gentlemen Of Jazz Vocals - Arthur Prysock
- 52: (  4) - The River & The Thread - Rosanne Cash
- 53: (  3) - A Quality Of Mercy - Rvg
- 54: (  3) * Beautiful World - Eliza Gilkyson
- 55: (  3) - Dreaming Wide Awake - Lizz Wright
- 56: (  3) - Ella Sings The Cole Porter & Rodgers And Hart Songbook - Ella Fitzgerald
- 57: (  3) - I'm All Ears - Let'S Eat Grandma
- 58: (  3) - It's A New Day Tonight - Michael Rault
- 59: (  3) - John Coltrane And Johnny Hartman (Hd Remastered Edition) - John Coltrane & Johnny Hartman
- 60: (  3) - Joy - White Fence
- 61: (  3) - Lamp Lit Prose - Dirty Projectors
- 62: (  3) - Lullabies - Cocteau Twins
- 63: (  3) - Our Country: Americana Act 2 - Ray Davies
- 64: (  3) - Sculptor - Luluc
- 65: (  3) - Sun On The Square - The Innocence Mission
- 66: (  3) - The Gate - Kurt Elling
- 67: (  3) - Third - Nathan Salsburg
- 68: (  3) - Understand What Black Is - The Last Poets
- 69: (  3) - Uniform Distortion - Jim James
- 70: (  3) - You Never Were Much Of A Dancer - Gwenifer Raymond
- 71: (  2) - Deran - Bombino
- 72: (  2) - Downey To Lubbock - Jimmie Dale Gilmore
- 73: (  2) - DéJàVu - Matty
- 74: (  2) - God's Favorite Customer - Father John Misty
- 75: (  2) - Half The Perfect World - Madeleine Peyroux
- 76: (  2) - My Generation - The Who
- 77: (  2) - Once Upon A Summertime - Blossom Dearie
- 78: (  2) - Passwords - Dawes
- 79: (  2) - Shelter - Olivia Chaney
- 80: (  2) - The Future And The Past - Natalie Prass
- 81: (  2) - The Pretty Things - The Pretty Things
- 82: (  2) - Visions Of A Life - Wolf Alice
- 83: (  2) - We Are In Love - Harry Connick, Jr.
- 84: (  1) - 99 Luftballons - Nena
- 85: (  1) - Bang: The Bert Berns Story (Original Motion Picture Soundtrack) - Them
- 86: (  1) - Best Of Taco - Taco
- 87: (  1) - Brushes With Happiness - The Wave Pictures
- 88: (  1) - Business As Usual - Men At Work
- 89: (  1) - Colour By Numbers - Culture Club
- 90: (  1) - Combat Rock - The Clash
- 91: (  1) - Dancing With Myself (Rac Remix) - Billy Idol
- 92: (  1) - Dare! - The Human League
- 93: (  1) - Ecstatic Arrow - Virginia Wing
- 94: (  1) - Friday On My Mind - The Easybeats
- 95: (  1) - Hatful Of Hollow - The Smiths
- 96: (  1) - Heart Full Of Soul - The Yardbirds
- 97: (  1) - Hell-On - Neko Case
- 98: (  1) - Hope Downs - Rolling Blackouts Coastal Fever
- 99: (  1) - Kick - Inxs
-100: (  1) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
-101: (  1) - Look Sharp! - Joe Jackson
-102: (  1) - New Wave Hits Of The 80S - ABC
-103: (  1) - New Wave Hits Of The 80S - Soft Cell
-104: (  1) - New Wave Hits Of The 80S - UB40
-105: (  1) - One Way Or Another - Blondie
-106: (  1) - Out Of Time (25Th Anniversary Edition) - R.E.M.
-107: (  1) - Paints A Tribute To Tony Bennett - Jack Jones
-108: (  1) - Plastic Bertrand - Plastic Bertrand
-109: (  1) - Putting On Airs - Erin Rae
-110: (  1) * Remain In Light - Talking Heads
-111: (  1) - Rio (Collector's Edition) - Duran Duran
-112: (  1) - Songs From The Big Chair - Tears for Fears
-113: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
-114: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
-115: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
-116: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
-117: (  1) - The Essential Yardbirds - The Yardbirds
-118: (  1) - The Gift - The Jam
-119: (  1) - The Head On The Door - The Cure
-120: (  1) - The Kink Kontroversy - The Kinks
-121: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
-122: (  1) - The Singles 1984-2004 - A-Ha
-123: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
-124: (  1) - Violent Femmes - Violent Femmes
-125: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
-126: (  1) - When In Rome - When in Rome
+ 25: ( 12) - The Complete Matrix Tapes #4 - The Velvet Underground
+ 26: ( 11) - The Outsider - Rodney Crowell
+ 27: ( 10) * The King Is Dead - The Decemberists
+ 28: ( 10) - The Pacific Age - Orchestral Manoeuvres in the Dark
+ 29: (  9) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
+ 30: (  9) - A New World Record - Electric Light Orchestra
+ 31: (  9) - Saturns Pattern - Paul Weller
+ 32: (  8) - B-52's - The B-52's
+ 33: (  6) * Texas Fever - Orange Juice
+ 34: (  6) - The Orchard - Lizz Wright
+ 35: (  5) - Chamber Music Society - Esperanza Spalding
+ 36: (  5) - Ella At Duke's Place - Ella Fitzgerald
+ 37: (  5) - Gershwin: 's Wonderful -Gershwin Songbook (Disc 1) - Nina Simone
+ 38: (  5) - No Count Sarah - Sarah Vaughan
+ 39: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
+ 40: (  4) - Bon Voyage - Melody'S Echo Chamber
+ 41: (  4) - Careless Love - Madeleine Peyroux
+ 42: (  4) - Dreamland - Madeleine Peyroux
+ 43: (  4) - For Those In Love - Dinah Washington
+ 44: (  4) - Glad Rag Doll - Diana Krall
+ 45: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
+ 46: (  4) - Jazz Blues Divas - Shirley Horn
+ 47: (  4) - Lena Horne Greatest Hits - Lena Horne
+ 48: (  4) - Local Color - Mose Allison
+ 49: (  4) - Manhattan Moods - Mary Stallings
+ 50: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
+ 51: (  4) - Sings The Blues - Nina Simone
+ 52: (  4) - The Great Gentlemen Of Jazz Vocals - Arthur Prysock
+ 53: (  4) - The River & The Thread - Rosanne Cash
+ 54: (  3) - A Quality Of Mercy - Rvg
+ 55: (  3) * Beautiful World - Eliza Gilkyson
+ 56: (  3) - Dreaming Wide Awake - Lizz Wright
+ 57: (  3) - Ella Sings The Cole Porter & Rodgers And Hart Songbook - Ella Fitzgerald
+ 58: (  3) - I'm All Ears - Let'S Eat Grandma
+ 59: (  3) - It's A New Day Tonight - Michael Rault
+ 60: (  3) - John Coltrane And Johnny Hartman (Hd Remastered Edition) - John Coltrane & Johnny Hartman
+ 61: (  3) - Joy - White Fence
+ 62: (  3) - Lamp Lit Prose - Dirty Projectors
+ 63: (  3) - Lullabies - Cocteau Twins
+ 64: (  3) - Our Country: Americana Act 2 - Ray Davies
+ 65: (  3) - Sculptor - Luluc
+ 66: (  3) - Sun On The Square - The Innocence Mission
+ 67: (  3) - The Gate - Kurt Elling
+ 68: (  3) - Third - Nathan Salsburg
+ 69: (  3) - Understand What Black Is - The Last Poets
+ 70: (  3) - Uniform Distortion - Jim James
+ 71: (  3) - You Never Were Much Of A Dancer - Gwenifer Raymond
+ 72: (  2) - Deran - Bombino
+ 73: (  2) - Downey To Lubbock - Jimmie Dale Gilmore
+ 74: (  2) - DéJàVu - Matty
+ 75: (  2) - God's Favorite Customer - Father John Misty
+ 76: (  2) - Half The Perfect World - Madeleine Peyroux
+ 77: (  2) - My Generation - The Who
+ 78: (  2) - Once Upon A Summertime - Blossom Dearie
+ 79: (  2) - Passwords - Dawes
+ 80: (  2) - Shelter - Olivia Chaney
+ 81: (  2) - The Future And The Past - Natalie Prass
+ 82: (  2) - The Pretty Things - The Pretty Things
+ 83: (  2) - Visions Of A Life - Wolf Alice
+ 84: (  2) - We Are In Love - Harry Connick, Jr.
+ 85: (  1) - 99 Luftballons - Nena
+ 86: (  1) - Bang: The Bert Berns Story (Original Motion Picture Soundtrack) - Them
+ 87: (  1) - Best Of Taco - Taco
+ 88: (  1) - Brushes With Happiness - The Wave Pictures
+ 89: (  1) - Business As Usual - Men At Work
+ 90: (  1) - Colour By Numbers - Culture Club
+ 91: (  1) - Combat Rock - The Clash
+ 92: (  1) - Dancing With Myself (Rac Remix) - Billy Idol
+ 93: (  1) - Dare! - The Human League
+ 94: (  1) - Ecstatic Arrow - Virginia Wing
+ 95: (  1) - Friday On My Mind - The Easybeats
+ 96: (  1) - Hatful Of Hollow - The Smiths
+ 97: (  1) - Heart Full Of Soul - The Yardbirds
+ 98: (  1) - Hell-On - Neko Case
+ 99: (  1) - Hope Downs - Rolling Blackouts Coastal Fever
+100: (  1) - Kick - Inxs
+101: (  1) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
+102: (  1) - Look Sharp! - Joe Jackson
+103: (  1) - New Wave Hits Of The 80S - ABC
+104: (  1) - New Wave Hits Of The 80S - Soft Cell
+105: (  1) - New Wave Hits Of The 80S - UB40
+106: (  1) - One Way Or Another - Blondie
+107: (  1) - Out Of Time (25Th Anniversary Edition) - R.E.M.
+108: (  1) - Paints A Tribute To Tony Bennett - Jack Jones
+109: (  1) - Plastic Bertrand - Plastic Bertrand
+110: (  1) - Putting On Airs - Erin Rae
+111: (  1) * Remain In Light - Talking Heads
+112: (  1) - Rio (Collector's Edition) - Duran Duran
+113: (  1) - Songs From The Big Chair - Tears for Fears
+114: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
+115: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
+116: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
+117: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
+118: (  1) - The Essential Yardbirds - The Yardbirds
+119: (  1) - The Gift - The Jam
+120: (  1) - The Head On The Door - The Cure
+121: (  1) - The Kink Kontroversy - The Kinks
+122: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
+123: (  1) - The Singles 1984-2004 - A-Ha
+124: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
+125: (  1) - Violent Femmes - Violent Femmes
+126: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
+127: (  1) - When In Rome - When in Rome
