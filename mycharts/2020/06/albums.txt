@@ -1,6 +1,6 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1322            42            55           461
+    1322            42            54           461
   1: (136) - Beauty Stab - ABC
   2: ( 84) - One To The Heart, One To The Head - Gretchen Peters
   3: ( 72) - Rough And Rowdy Ways - Bob Dylan
@@ -26,25 +26,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  11: ( 28) * Architecture And Morality - Orchestral Manoeuvres in the Dark
  12: ( 28) - Shadows In The Night - Bob Dylan
- 13: ( 28) - The Clash - The Clash
- 14: ( 28) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
- 15: ( 28) - With The Beatles (Remastered) - The Beatles
+ 13: ( 28) - Smile If You Want To (In New York - Collected Recordings 1988-1996) - Lloyd Cole
+ 14: ( 28) - The Clash - The Clash
+ 15: ( 28) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
+ 16: ( 28) - With The Beatles (Remastered) - The Beatles
 
- 16: ( 26) - Bolan's Zip Gun - T. Rex
- 17: ( 26) * Celilo Falls - Rachel Harrington
- 18: ( 26) - Fear Of Music (Deluxe Version) - Talking Heads
- 19: ( 26) * Hair In My Eyes Like A Highland Steer - Corb Lund
- 20: ( 26) * High Land, Hard Rain - Aztec Camera
+ 17: ( 26) - Bolan's Zip Gun - T. Rex
+ 18: ( 26) * Celilo Falls - Rachel Harrington
+ 19: ( 26) - Fear Of Music (Deluxe Version) - Talking Heads
+ 20: ( 26) * Hair In My Eyes Like A Highland Steer - Corb Lund
+ 21: ( 26) * High Land, Hard Rain - Aztec Camera
 
- 21: ( 24) - American Kid - Patty Griffin
- 22: ( 24) - Night - Tift Merritt
- 23: ( 24) - No Way There From Here - Laura Cantrell
- 24: ( 24) * Oh My God, Charlie Darwin - The Low Anthem
- 25: ( 24) - Secularia - Eliza Gilkyson
+ 22: ( 24) - American Kid - Patty Griffin
+ 23: ( 24) - Night - Tift Merritt
+ 24: ( 24) - No Way There From Here - Laura Cantrell
+ 25: ( 24) * Oh My God, Charlie Darwin - The Low Anthem
+ 26: ( 24) - Secularia - Eliza Gilkyson
 
- 26: ( 22) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
- 27: ( 22) - Sex And Gasoline - Rodney Crowell
- 28: ( 22) - Smile If You Want To (In New York - Collected Recordings 1988-1996) - Lloyd Cole
+ 27: ( 22) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
+ 28: ( 22) - Sex And Gasoline - Rodney Crowell
  29: ( 22) * Transformer - Lou Reed
 
  30: ( 20) * Bad Vibes - Lloyd Cole
@@ -67,18 +67,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  41: (  8) - Traveling Companion - Tift Merritt
  42: (  6) - Blowin' In The Wind: A Reggae Tribute To Bob Dylan - Various
  43: (  6) - Fallen Angels - Bob Dylan
- 44: (  6) - In New York (Collected Recordings 1988-1996) - Lloyd Cole
- 45: (  6) - Speaking In Tongues - Talking Heads
- 46: (  6) - Stranger In The Alps - Phoebe Bridgers
- 47: (  4) - Head Over Heels - Cocteau Twins
- 48: (  4) * Sparkle In The Rain - Simple Minds
- 49: (  4) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
- 50: (  2) -  - Bob Dylan
- 51: (  2) * Jordan: The Comeback - Prefab Sprout
- 52: (  2) - Stranger In The Alp - Phoebe Bridgers
- 53: (  2) - Time Out Of Mind - Bob Dylan
- 54: (  2) - Time Out Of Mind - Simple Minds
- 55: (  2) - Travelogue - The Men
- 56: (  2) - True Meanings - Paul Weller
- 57: (  2) - UNCUT 2016-02 - Various
- 58: (  2) - War Baby - Hope & Glory - Tom Robinson
+ 44: (  6) - Speaking In Tongues - Talking Heads
+ 45: (  6) - Stranger In The Alps - Phoebe Bridgers
+ 46: (  4) - Head Over Heels - Cocteau Twins
+ 47: (  4) * Sparkle In The Rain - Simple Minds
+ 48: (  4) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+ 49: (  2) -  - Bob Dylan
+ 50: (  2) * Jordan: The Comeback - Prefab Sprout
+ 51: (  2) - Stranger In The Alp - Phoebe Bridgers
+ 52: (  2) - Time Out Of Mind - Bob Dylan
+ 53: (  2) - Time Out Of Mind - Simple Minds
+ 54: (  2) - Travelogue - The Men
+ 55: (  2) - True Meanings - Paul Weller
+ 56: (  2) - UNCUT 2016-02 - Various
+ 57: (  2) - War Baby - Hope & Glory - Tom Robinson
