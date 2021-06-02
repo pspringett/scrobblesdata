@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   59017          1054          1477         10189
+   59056          1054          1477         10200
    1: (1908) - David Bowie
    2: (1803) - Lloyd Cole
    3: (1635) - Bob Dylan
@@ -14,7 +14,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   11: ( 854) - Simple Minds
   12: ( 835) - Laura Marling
   13: ( 832) - Leonard Cohen
-  14: ( 705) - The Beatles
+  14: ( 719) - The Beatles
   15: ( 685) - Cowboy Junkies
   16: ( 670) - Elvis Costello & the Attractions
   17: ( 641) - The Style Council
@@ -29,7 +29,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   26: ( 592) - Scott Walker
   27: ( 590) - Emmylou Harris
   28: ( 554) - The Velvet Underground
-  29: ( 539) - Paul Weller
+  29: ( 553) - Paul Weller
   30: ( 536) - Edwyn Collins
   31: ( 535) - Rodney Crowell
   32: ( 534) - Martin Stephenson
@@ -126,12 +126,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  123: ( 105) - Furniture
  124: ( 104) - Jason Isbell and the 400 Unit
  125: ( 104) - The Chicks
- 126: ( 103) - Josef K
- 127: ( 103) - Piney Gir
- 128: ( 103) - Ray Davies
- 129: ( 102) - Chatham County Line
- 130: ( 102) - Pretenders
- 131: ( 101) - First Aid Kit
+ 126: ( 103) - First Aid Kit
+ 127: ( 103) - Josef K
+ 128: ( 103) - Piney Gir
+ 129: ( 103) - Ray Davies
+ 130: ( 102) - Chatham County Line
+ 131: ( 102) - Pretenders
  132: ( 100) - Bat for Lashes
  133: ( 100) - Japan
  134: (  98) - Count Basie
@@ -262,24 +262,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  237: (  24) - Bill Frisell
 
  238: (  22) - Darling West
- 239: (  21) - Calexico
+ 239: (  22) - Siouxsie and the Banshees
+ 240: (  21) - Calexico
 
- 240: (  19) - Field Music
+ 241: (  19) - Field Music
 
- 241: (  17) - Scritti Politti
- 242: (  16) - The Dream Syndicate
- 243: (  15) - Buffy Sainte-marie
- 244: (  14) - A Certain Ratio
- 245: (  14) - Green Gartside
- 246: (  14) - Mike Oldfield
- 247: (  14) - William Tyler
- 248: (  13) - David Byrne & St. Vincent
- 249: (  13) - John Cale
- 250: (  13) - Kristin Hersh
- 251: (  13) - Manfred Mann's Earth Band
- 252: (  13) - Miranda Lambert
- 253: (  13) - Ryan Bingham
- 254: (  13) - Siouxsie and the Banshees
+ 242: (  17) - Scritti Politti
+ 243: (  16) - The Dream Syndicate
+ 244: (  15) - Buffy Sainte-marie
+ 245: (  14) - A Certain Ratio
+ 246: (  14) - Green Gartside
+ 247: (  14) - Mike Oldfield
+ 248: (  14) - William Tyler
+ 249: (  13) - David Byrne & St. Vincent
+ 250: (  13) - John Cale
+ 251: (  13) - Kristin Hersh
+ 252: (  13) - Manfred Mann's Earth Band
+ 253: (  13) - Miranda Lambert
+ 254: (  13) - Ryan Bingham
  255: (  13) - Sparks
  256: (  13) - Tubeway Army
  257: (  12) - Belle and Sebastian
