@@ -1,9 +1,9 @@
 Specified year (2019), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
      709            49            57           464
-  1: ( 53) - 16 Lovers Lane - The Go-Betweens
-  2: ( 50) - Help! (Remastered) - The Beatles
-  3: ( 44) - Music In A Foreign Language - Lloyd Cole
+ 1: (53) - 16 Lovers Lane - The Go-Betweens
+ 2: (50) - Help! (Remastered) - The Beatles
+ 3: (44) - Music In A Foreign Language - Lloyd Cole
 
 
 
@@ -16,64 +16,64 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  4: ( 31) * Scott 2 - Scott Walker
+ 4: (31) * Scott 2 - Scott Walker
 
 
-  5: ( 28) - Back From The Rains - Eyeless in Gaza
-  6: ( 27) - Gathering - Josh Ritter
+ 5: (28) - Back From The Rains - Eyeless in Gaza
+ 6: (27) - Gathering - Josh Ritter
 
-  7: ( 25) - Masseduction - St. Vincent
-  8: ( 24) - Golden Hour - Kacey Musgraves
-  9: ( 24) - Roll - Anne Mccue
+ 7: (25) - Masseduction - St. Vincent
+ 8: (24) - Golden Hour - Kacey Musgraves
+ 9: (24) - Roll - Anne Mccue
 
- 10: ( 22) - She Remembers Everything - Rosanne Cash
- 11: ( 21) - True Meanings - Paul Weller
- 12: ( 21) - Wanderer - Cara Dillon
+10: (22) - She Remembers Everything - Rosanne Cash
+11: (21) - True Meanings - Paul Weller
+12: (21) - Wanderer - Cara Dillon
 
- 13: ( 19) - Beatles For Sale (Remastered) - The Beatles
+13: (19) - Beatles For Sale (Remastered) - The Beatles
 
- 14: ( 17) - Welcome To The Blackout (Live London '78) - David Bowie
- 15: ( 16) - Lionheart - Kate Bush
- 16: ( 15) - Fear Of Music (Deluxe Version) - Talking Heads
- 17: ( 15) - Honky Chateau (Remastered) - Elton John
+14: (17) - Welcome To The Blackout (Live London '78) - David Bowie
+15: (16) - Lionheart - Kate Bush
+16: (15) - Fear Of Music (Deluxe Version) - Talking Heads
+17: (15) - Honky Chateau (Remastered) - Elton John
 
- 18: ( 13) - Jupiter Calling - The Corrs
- 19: ( 13) - Sermon On The Rocks - Josh Ritter
- 20: ( 12) * Andromeda Heights - Prefab Sprout
- 21: ( 12) - John Wesley Harding - Bob Dylan
- 22: ( 12) - Out Past The Wires - Rod Picott
- 23: ( 12) * Remain In Light - Talking Heads
- 24: ( 12) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 25: ( 11) - All The Hours I Have Left To Tell You Anything - Sarah MacDougall
- 26: ( 11) - Let's Dance - David Bowie
- 27: ( 11) - To The Sunset - Amanda Shires
- 28: ( 11) - Traveling Alone - Tift Merritt
- 29: ( 10) - Present Arms - UB40
- 30: ( 10) - Scary Monsters (And Super Creeps) - David Bowie
- 31: ( 10) - Songs In The Key Of Life - Stevie Wonder
- 32: ( 10) - Songs To Play - Robert Forster
- 33: ( 10) - Winter Sang - Eyeless in Gaza
- 34: (  9) - Victorialand - Cocteau Twins
- 35: (  7) - Acoustic - Simple Minds
- 36: (  7) - Armed Forces - Elvis Costello & the Attractions
- 37: (  7) - In Your Room - Yazoo
- 38: (  7) - The Kick Inside - Kate Bush
- 39: (  6) - Once I Was An Eagle - Laura Marling
- 40: (  6) - Reconnected - Yazoo
- 41: (  5) - Vu - The Velvet Underground
- 42: (  4) - Works - Eberard Weber
- 43: (  3) - You Want It Darker - Leonard Cohen
- 44: (  2) - Drama On 3 - Bbc Radio 3
- 45: (  2) - Modern Blues - The Waterboys
- 46: (  1) - A Broke Moon Rises - Papa M
- 47: (  1) - All That Reckoning - Cowboy Junkies
- 48: (  1) - At Weddings - Tomberlin
- 49: (  1) - Black Rainbow Sound - Menace Beach
- 50: (  1) - Genericana - Elephant Micah
- 51: (  1) - Old Rockhounds Never Die - Odetta Hartman
- 52: (  1) - Performance - White Denim
- 53: (  1) - Semblance - Forma
- 54: (  1) - Sounds Recorded By Steve Albini - Spare Snare
- 55: (  1) - The Morning Star - Daniel Bachman
- 56: (  1) - The Underworld & You - Two Circles
- 57: (  1) - With Animals - Duke Garwood
+18: (13) - Jupiter Calling - The Corrs
+19: (13) - Sermon On The Rocks - Josh Ritter
+20: (12) * Andromeda Heights - Prefab Sprout
+21: (12) - John Wesley Harding - Bob Dylan
+22: (12) - Out Past The Wires - Rod Picott
+23: (12) * Remain In Light - Talking Heads
+24: (12) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+25: (11) - All The Hours I Have Left To Tell You Anything - Sarah MacDougall
+26: (11) - Let's Dance - David Bowie
+27: (11) - To The Sunset - Amanda Shires
+28: (11) - Traveling Alone - Tift Merritt
+29: (10) - Present Arms - UB40
+30: (10) - Scary Monsters (And Super Creeps) - David Bowie
+31: (10) - Songs In The Key Of Life - Stevie Wonder
+32: (10) - Songs To Play - Robert Forster
+33: (10) - Winter Sang - Eyeless in Gaza
+34: ( 9) - Victorialand - Cocteau Twins
+35: ( 7) - Acoustic - Simple Minds
+36: ( 7) - Armed Forces - Elvis Costello & the Attractions
+37: ( 7) - In Your Room - Yazoo
+38: ( 7) - The Kick Inside - Kate Bush
+39: ( 6) - Once I Was An Eagle - Laura Marling
+40: ( 6) - Reconnected - Yazoo
+41: ( 5) - Vu - The Velvet Underground
+42: ( 4) - Works - Eberard Weber
+43: ( 3) - You Want It Darker - Leonard Cohen
+44: ( 2) - Drama On 3 - Bbc Radio 3
+45: ( 2) - Modern Blues - The Waterboys
+46: ( 1) - A Broke Moon Rises - Papa M
+47: ( 1) - All That Reckoning - Cowboy Junkies
+48: ( 1) - At Weddings - Tomberlin
+49: ( 1) - Black Rainbow Sound - Menace Beach
+50: ( 1) - Genericana - Elephant Micah
+51: ( 1) - Old Rockhounds Never Die - Odetta Hartman
+52: ( 1) - Performance - White Denim
+53: ( 1) - Semblance - Forma
+54: ( 1) - Sounds Recorded By Steve Albini - Spare Snare
+55: ( 1) - The Morning Star - Daniel Bachman
+56: ( 1) - The Underworld & You - Two Circles
+57: ( 1) - With Animals - Duke Garwood

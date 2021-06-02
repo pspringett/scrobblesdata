@@ -1,121 +1,121 @@
 Specified year (2018), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
     1366           100           107          1001
-  1: ( 96) - Elvis Costello
-  2: ( 72) - David Bowie
-  3: ( 51) - Cocteau Twins
-  4: ( 47) - Martin Stephenson
+ 1: (96) - Elvis Costello
+ 2: (72) - David Bowie
+ 3: (51) - Cocteau Twins
+ 4: (47) - Martin Stephenson
 
 
 
 
-  5: ( 42) - The Mavericks
+ 5: (42) - The Mavericks
 
 
 
 
-  6: ( 37) - The Wailin' Jennys
+ 6: (37) - The Wailin' Jennys
 
 
-  7: ( 34) - Bob Dylan
-  8: ( 34) - Cowboy Junkies
-  9: ( 33) - Noah and the Whale
- 10: ( 33) - Orchestral Manoeuvres in the Dark
- 11: ( 33) - Wah!
- 12: ( 32) - Roddy Frame
+ 7: (34) - Bob Dylan
+ 8: (34) - Cowboy Junkies
+ 9: (33) - Noah and the Whale
+10: (33) - Orchestral Manoeuvres in the Dark
+11: (33) - Wah!
+12: (32) - Roddy Frame
 
 
 
- 13: ( 28) - Leonard Cohen
- 14: ( 27) - Scott Walker
- 15: ( 27) - The Smiths
+13: (28) - Leonard Cohen
+14: (27) - Scott Walker
+15: (27) - The Smiths
 
- 16: ( 25) - Corb Lund
- 17: ( 25) - Martin Stephenson and the Daintees
+16: (25) - Corb Lund
+17: (25) - Martin Stephenson and the Daintees
 
- 18: ( 23) - Talking Heads
- 19: ( 23) - UB40
- 20: ( 22) - The Fall
- 21: ( 21) - Stevie Wonder
+18: (23) - Talking Heads
+19: (23) - UB40
+20: (22) - The Fall
+21: (21) - Stevie Wonder
 
- 22: ( 19) - Orange Juice
- 23: ( 18) - The Mighty Wah!
- 24: ( 18) - The Waterboys
- 25: ( 18) - U2
+22: (19) - Orange Juice
+23: (18) - The Mighty Wah!
+24: (18) - The Waterboys
+25: (18) - U2
 
 
- 26: ( 15) - Blondie
- 27: ( 15) - Elvis Costello & the Attractions
- 28: ( 15) - Josh Ritter
- 29: ( 15) - The Human League
- 30: ( 14) - Amanda Shires
- 31: ( 14) - Carrie Rodriguez
- 32: ( 14) - The Beatles
- 33: ( 13) - Chuck Prophet
- 34: ( 13) - Dolly Parton
- 35: ( 13) - Jim Lauderdale
- 36: ( 13) - Laura Cantrell
- 37: ( 12) - Eilen Jewell
- 38: ( 12) - Nick Heyward
- 39: ( 12) - Patty Griffin
- 40: ( 12) - Rosanne Cash
- 41: ( 11) - Fleetwood Mac
- 42: ( 11) - JT and the Clouds
- 43: ( 11) - Sarah MacDougall
- 44: ( 11) - The Jam
- 45: ( 10) - Angie Palmer
- 46: ( 10) - Bob Marley & the Wailers
- 47: ( 10) - Joy Division
- 48: ( 10) - Prefab Sprout
- 49: ( 10) - Simple Minds
- 50: (  9) - B.E.F.
- 51: (  9) - Cara Dillon
- 52: (  9) - Natalie Prass
- 53: (  9) - Roxy Music
- 54: (  9) - The Civil Wars
- 55: (  9) - Tower of Song
- 56: (  9) - Yazoo
- 57: (  8) - New Order
- 58: (  8) - Spandau Ballet
- 59: (  7) - Artery
- 60: (  7) - Calexico
- 61: (  7) - Lloyd Cole
- 62: (  7) - Stick in the Wheel
- 63: (  7) - The Durutti Column
- 64: (  7) - The Lost Brothers
- 65: (  6) - Birds of Chicago
- 66: (  6) - Boubacar Traoré
- 67: (  6) - H.C. Mcentire
- 68: (  6) - La Féline
- 69: (  6) - Nadine
- 70: (  6) - The Limiñanas
- 71: (  6) - Tyler Childers
- 72: (  5) - Jim Ghedi
- 73: (  5) - Lankum
- 74: (  4) - Weekend
- 75: (  3) - James Blood Ulmer
- 76: (  3) - Scritti Politti
- 77: (  3) - Television Personalities
- 78: (  3) - The Massed Carnaby St John Cooper Clarkes
- 79: (  3) - Xylouris White
- 80: (  2) - Aztec Camera
- 81: (  2) - Blue Orchids
- 82: (  2) - Buzzcocks
- 83: (  2) - Cabaret Voltaire
- 84: (  2) - Deutsch Amerikanische Freundschaft
- 85: (  2) - Essential Logic
- 86: (  2) - Furious Pig
- 87: (  2) - Ian Dury
- 88: (  2) - Jan Garbarek
- 89: (  2) - Josef K
- 90: (  2) - Panther Burns
- 91: (  2) - Pere Ubu
- 92: (  2) - Robert Wyatt
- 93: (  2) - The Beat
- 94: (  2) - The Men
- 95: (  2) - The Raincoats
- 96: (  2) - The Red Krayola
- 97: (  2) - Virgin Prunes
- 98: (  2) - Wah! Heat
- 99: (  1) - Subway Sect
-100: (  1) - The Gist
+26: (15) - Blondie
+27: (15) - Elvis Costello & the Attractions
+28: (15) - Josh Ritter
+29: (15) - The Human League
+30: (14) - Amanda Shires
+31: (14) - Carrie Rodriguez
+32: (14) - The Beatles
+33: (13) - Chuck Prophet
+34: (13) - Dolly Parton
+35: (13) - Jim Lauderdale
+36: (13) - Laura Cantrell
+37: (12) - Eilen Jewell
+38: (12) - Nick Heyward
+39: (12) - Patty Griffin
+40: (12) - Rosanne Cash
+41: (11) - Fleetwood Mac
+42: (11) - JT and the Clouds
+43: (11) - Sarah MacDougall
+44: (11) - The Jam
+45: (10) - Angie Palmer
+46: (10) - Bob Marley & the Wailers
+47: (10) - Joy Division
+48: (10) - Prefab Sprout
+49: (10) - Simple Minds
+50: ( 9) - B.E.F.
+51: ( 9) - Cara Dillon
+52: ( 9) - Natalie Prass
+53: ( 9) - Roxy Music
+54: ( 9) - The Civil Wars
+55: ( 9) - Tower of Song
+56: ( 9) - Yazoo
+57: ( 8) - New Order
+58: ( 8) - Spandau Ballet
+59: ( 7) - Artery
+60: ( 7) - Calexico
+61: ( 7) - Lloyd Cole
+62: ( 7) - Stick in the Wheel
+63: ( 7) - The Durutti Column
+64: ( 7) - The Lost Brothers
+65: ( 6) - Birds of Chicago
+66: ( 6) - Boubacar Traoré
+67: ( 6) - H.C. Mcentire
+68: ( 6) - La Féline
+69: ( 6) - Nadine
+70: ( 6) - The Limiñanas
+71: ( 6) - Tyler Childers
+72: ( 5) - Jim Ghedi
+73: ( 5) - Lankum
+74: ( 4) - Weekend
+75: ( 3) - James Blood Ulmer
+76: ( 3) - Scritti Politti
+77: ( 3) - Television Personalities
+78: ( 3) - The Massed Carnaby St John Cooper Clarkes
+79: ( 3) - Xylouris White
+80: ( 2) - Aztec Camera
+81: ( 2) - Blue Orchids
+82: ( 2) - Buzzcocks
+83: ( 2) - Cabaret Voltaire
+84: ( 2) - Deutsch Amerikanische Freundschaft
+85: ( 2) - Essential Logic
+86: ( 2) - Furious Pig
+87: ( 2) - Ian Dury
+88: ( 2) - Jan Garbarek
+89: ( 2) - Josef K
+90: ( 2) - Panther Burns
+91: ( 2) - Pere Ubu
+92: ( 2) - Robert Wyatt
+93: ( 2) - The Beat
+94: ( 2) - The Men
+95: ( 2) - The Raincoats
+96: ( 2) - The Red Krayola
+97: ( 2) - Virgin Prunes
+98: ( 2) - Wah! Heat
+99: ( 1) - Subway Sect
+100: ( 1) - The Gist

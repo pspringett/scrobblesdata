@@ -1,16 +1,14 @@
 Specified year (2021), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
      244            36            37           149
-  1: ( 29) - Doves
+ 1: (29) - Doves
 
-  2: ( 27) - Martin Stephenson
-  3: ( 27) - U2
-  4: ( 26) - Bonnie Whitmore
-
-
-  5: ( 23) - Chip Taylor & Carrie Rodriguez
+ 2: (27) - Martin Stephenson
+ 3: (27) - U2
+ 4: (26) - Bonnie Whitmore
 
 
+ 5: (23) - Chip Taylor & Carrie Rodriguez
 
 
 
@@ -20,34 +18,36 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: ( 11) - The Beatles
-  7: ( 10) - Eliza Gilkyson
-  8: ( 10) - Fleet Foxes
-  9: ( 10) - Siouxsie and the Banshees
- 10: (  8) - The Weather Station
- 11: (  7) - Buffy Sainte-marie
- 12: (  7) - The Rolling Stones
- 13: (  6) - Paul Weller
- 14: (  3) - New Order
- 15: (  3) - T. Rex
- 16: (  2) - Angie Palmer
- 17: (  2) - Cocteau Twins
- 18: (  2) - Dry Cleaning
- 19: (  2) - First Aid Kit
- 20: (  2) - Miracle Legion
- 21: (  2) - Prefab Sprout
- 22: (  2) - R.E.M.
- 23: (  2) - Talking Heads
- 24: (  2) - The Church
- 25: (  2) - The Feelies
- 26: (  2) - The Go-Betweens
- 27: (  2) - The Housemartins
- 28: (  2) - The Weather Prophets
- 29: (  2) - The Wedding Present
- 30: (  2) - They Might Be Giants
- 31: (  2) - World Party
- 32: (  1) - Gang of Four
- 33: (  1) - Hüsker Dü
- 34: (  1) - Slow Hands
- 35: (  1) - The Replacements
- 36: (  1) - The Triffids
+
+
+ 6: (11) - The Beatles
+ 7: (10) - Eliza Gilkyson
+ 8: (10) - Fleet Foxes
+ 9: (10) - Siouxsie and the Banshees
+10: ( 8) - The Weather Station
+11: ( 7) - Buffy Sainte-marie
+12: ( 7) - The Rolling Stones
+13: ( 6) - Paul Weller
+14: ( 3) - New Order
+15: ( 3) - T. Rex
+16: ( 2) - Angie Palmer
+17: ( 2) - Cocteau Twins
+18: ( 2) - Dry Cleaning
+19: ( 2) - First Aid Kit
+20: ( 2) - Miracle Legion
+21: ( 2) - Prefab Sprout
+22: ( 2) - R.E.M.
+23: ( 2) - Talking Heads
+24: ( 2) - The Church
+25: ( 2) - The Feelies
+26: ( 2) - The Go-Betweens
+27: ( 2) - The Housemartins
+28: ( 2) - The Weather Prophets
+29: ( 2) - The Wedding Present
+30: ( 2) - They Might Be Giants
+31: ( 2) - World Party
+32: ( 1) - Gang of Four
+33: ( 1) - Hüsker Dü
+34: ( 1) - Slow Hands
+35: ( 1) - The Replacements
+36: ( 1) - The Triffids

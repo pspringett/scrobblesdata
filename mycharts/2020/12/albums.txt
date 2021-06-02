@@ -1,15 +1,13 @@
 Specified year (2020), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
      722            37            54           210
-  1: ( 86) - Mccartney - Paul McCartney
-  2: ( 86) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
-  3: ( 80) - You Are Here - Piney Gir
-  4: ( 54) - Achtung Baby - U2
-  5: ( 48) - Celebration - Simple Minds
+ 1: (86) - Mccartney - Paul McCartney
+ 2: (86) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
+ 3: (80) - You Are Here - Piney Gir
+ 4: (54) - Achtung Baby - U2
+ 5: (48) - Celebration - Simple Minds
 
-  6: ( 46) - The Psychedelic Scene - Various
-
-
+ 6: (46) - The Psychedelic Scene - Various
 
 
 
@@ -17,84 +15,86 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  7: ( 36) - The Wrong People - Furniture
+
+
+ 7: (36) - The Wrong People - Furniture
 
 
 
-  8: ( 32) - Gaslighter - The Chicks
-
-
-
-
-
-
-
-  9: ( 24) - Crocodiles - Echo & the Bunnymen
- 10: ( 24) - Hey Clockface - Elvis Costello
-
-
-
- 11: ( 20) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+ 8: (32) - Gaslighter - The Chicks
 
 
 
 
 
- 12: ( 14) - Armed Forces (Super Deluxe Edition) - Elvis Costello & the Attractions
- 13: ( 14) - Good Luck, Seeker - The Waterboys
 
- 14: ( 12) * Desire - Bob Dylan
- 15: ( 12) - Something On My Mind - The Pale Fountains
 
- 16: ( 10) * This Year's Model - Bonus - Elvis Costello & the Attractions
- 17: (  6) * Boy - U2
- 18: (  6) - Sorry For Laughing - Josef K
- 19: (  4) - Coals To Newcastle - Orange Juice
- 20: (  4) - Elevation Days - Edwyn Collins
- 21: (  4) - I Fix My Gaze / Don't Shy Away - Loma
- 22: (  4) - Iii - Loma
- 23: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
- 24: (  4) - Songs - Loma
- 25: (  4) - War Baby - Hope & Glory - Tom Robinson
- 26: (  2) - 2020 - Loma
- 27: (  2) - 2020 - Magik Markers
- 28: (  2) - Acr Loco - A Certain Ratio
- 29: (  2) - Acr Loco - Loma
- 30: (  2) - As Long As You Are - Loma
- 31: (  2) - Badala - Loma
- 32: (  2) - Barre - Loma
- 33: (  2) - Barre - Songhoy Blues
- 34: (  2) - Finds You Well - Loma
- 35: (  2) - Forgotten Days - Loma
- 36: (  2) - Free Humans - Hen Ogledd
- 37: (  2) - Free Humans - Loma
- 38: (  2) - Iii - Fuzz
- 39: (  2) - Love Comes In Waves - Loma
- 40: (  2) - Misfit's Jubilee - Jim White
- 41: (  2) - Misfit's Jubilee - Loma
- 42: (  2) - Nightcap At Wits' End - Garcia Peoples
- 43: (  2) - Nightcap At Wits' End - Loma
- 44: (  2) - Pacific Street - The Pale Fountains
- 45: (  2) - Pine Trees - Loma
- 46: (  2) - Silver Ladders - Loma
- 47: (  2) - Silver Ladders - Mary Lattimore
- 48: (  2) - Snap, Crackle & Bop (Expanded Edition) - John Cooper Clarke
- 49: (  2) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
- 50: (  2) - Song To A Refugee - Diana Jones
- 51: (  2) - Song To A Refugee - Loma
- 52: (  2) - Songs - Adrianne Lenker
- 53: (  2) - Soul Dance! - Loma
- 54: (  2) * Station To Station - David Bowie
- 55: (  2) - The Ascension - Loma
- 56: (  2) - The Ascension - Sufjan Stevens
- 57: (  2) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
- 58: (  2) - The View From Halfway Down - Andy Bell
- 59: (  2) - The View From Halfway Down - Loma
- 60: (  2) - Tin Drum - Japan
- 61: (  2) - Transitions 1: Spaceship Bop (1955-57) - Loma
- 62: (  2) - Trouble - Loma
- 63: (  2) - Walking On A String - Loma
- 64: (  2) - Wanderer - Cara Dillon
- 65: (  2) - Whatever It Is - Hello Forever
- 66: (  2) - Whatever It Is - Loma
- 67: (  2) - You And Me Both - Yazoo
+ 9: (24) - Crocodiles - Echo & the Bunnymen
+10: (24) - Hey Clockface - Elvis Costello
+
+
+
+11: (20) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+
+
+
+
+
+12: (14) - Armed Forces (Super Deluxe Edition) - Elvis Costello & the Attractions
+13: (14) - Good Luck, Seeker - The Waterboys
+
+14: (12) * Desire - Bob Dylan
+15: (12) - Something On My Mind - The Pale Fountains
+
+16: (10) * This Year's Model - Bonus - Elvis Costello & the Attractions
+17: ( 6) * Boy - U2
+18: ( 6) - Sorry For Laughing - Josef K
+19: ( 4) - Coals To Newcastle - Orange Juice
+20: ( 4) - Elevation Days - Edwyn Collins
+21: ( 4) - I Fix My Gaze / Don't Shy Away - Loma
+22: ( 4) - Iii - Loma
+23: ( 4) * New Gold Dream (81-82-83-84) - Simple Minds
+24: ( 4) - Songs - Loma
+25: ( 4) - War Baby - Hope & Glory - Tom Robinson
+26: ( 2) - 2020 - Loma
+27: ( 2) - 2020 - Magik Markers
+28: ( 2) - Acr Loco - A Certain Ratio
+29: ( 2) - Acr Loco - Loma
+30: ( 2) - As Long As You Are - Loma
+31: ( 2) - Badala - Loma
+32: ( 2) - Barre - Loma
+33: ( 2) - Barre - Songhoy Blues
+34: ( 2) - Finds You Well - Loma
+35: ( 2) - Forgotten Days - Loma
+36: ( 2) - Free Humans - Hen Ogledd
+37: ( 2) - Free Humans - Loma
+38: ( 2) - Iii - Fuzz
+39: ( 2) - Love Comes In Waves - Loma
+40: ( 2) - Misfit's Jubilee - Jim White
+41: ( 2) - Misfit's Jubilee - Loma
+42: ( 2) - Nightcap At Wits' End - Garcia Peoples
+43: ( 2) - Nightcap At Wits' End - Loma
+44: ( 2) - Pacific Street - The Pale Fountains
+45: ( 2) - Pine Trees - Loma
+46: ( 2) - Silver Ladders - Loma
+47: ( 2) - Silver Ladders - Mary Lattimore
+48: ( 2) - Snap, Crackle & Bop (Expanded Edition) - John Cooper Clarke
+49: ( 2) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
+50: ( 2) - Song To A Refugee - Diana Jones
+51: ( 2) - Song To A Refugee - Loma
+52: ( 2) - Songs - Adrianne Lenker
+53: ( 2) - Soul Dance! - Loma
+54: ( 2) * Station To Station - David Bowie
+55: ( 2) - The Ascension - Loma
+56: ( 2) - The Ascension - Sufjan Stevens
+57: ( 2) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+58: ( 2) - The View From Halfway Down - Andy Bell
+59: ( 2) - The View From Halfway Down - Loma
+60: ( 2) - Tin Drum - Japan
+61: ( 2) - Transitions 1: Spaceship Bop (1955-57) - Loma
+62: ( 2) - Trouble - Loma
+63: ( 2) - Walking On A String - Loma
+64: ( 2) - Wanderer - Cara Dillon
+65: ( 2) - Whatever It Is - Hello Forever
+66: ( 2) - Whatever It Is - Loma
+67: ( 2) - You And Me Both - Yazoo

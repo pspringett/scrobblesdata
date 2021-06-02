@@ -1,15 +1,11 @@
 Specified year (2021), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
      211            18            22           154
-  1: ( 43) - First Aid Kit
+ 1: (43) - First Aid Kit
 
 
 
-  2: ( 39) - The Smiths
-
-
-
-
+ 2: (39) - The Smiths
 
 
 
@@ -20,29 +16,33 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  3: ( 24) - The Rolling Stones
 
 
 
 
-  4: ( 19) - The Cure
+ 3: (24) - The Rolling Stones
 
 
 
-  5: ( 15) - Fleet Foxes
+
+ 4: (19) - The Cure
 
 
 
-  6: ( 11) - David Bowie
-  7: ( 10) - Doves
-  8: (  9) - The Style Council
-  9: (  8) - Various
- 10: (  7) - The Beatles
- 11: (  6) - Lissie
- 12: (  5) - Tift Merritt
- 13: (  4) - Leonard Cohen
- 14: (  3) - Bob Dylan
- 15: (  3) - Gang of Four
- 16: (  2) - Simple Minds
- 17: (  2) - Siouxsie and the Banshees
- 18: (  1) - Nacho Video
+ 5: (15) - Fleet Foxes
+
+
+
+ 6: (11) - David Bowie
+ 7: (10) - Doves
+ 8: ( 9) - The Style Council
+ 9: ( 8) - Various
+10: ( 7) - The Beatles
+11: ( 6) - Lissie
+12: ( 5) - Tift Merritt
+13: ( 4) - Leonard Cohen
+14: ( 3) - Bob Dylan
+15: ( 3) - Gang of Four
+16: ( 2) - Simple Minds
+17: ( 2) - Siouxsie and the Banshees
+18: ( 1) - Nacho Video

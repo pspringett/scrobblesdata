@@ -1,11 +1,11 @@
 Specified year (2015), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
      904            85           121           716
-  1: ( 66) - Hem
-  2: ( 55) - Bob Dylan
-  3: ( 50) - Allison Moorer
-  4: ( 50) - Lloyd Cole
-  5: ( 49) - Roxy Music
+ 1: (66) - Hem
+ 2: (55) - Bob Dylan
+ 3: (50) - Allison Moorer
+ 4: (50) - Lloyd Cole
+ 5: (49) - Roxy Music
 
 
 
@@ -19,94 +19,94 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: ( 35) - U2
+ 6: (35) - U2
 
-  7: ( 33) - Shelby Lynne
-  8: ( 32) - The Jam
-  9: ( 32) - Tift Merritt
+ 7: (33) - Shelby Lynne
+ 8: (32) - The Jam
+ 9: (32) - Tift Merritt
 
- 10: ( 30) - Prefab Sprout
-
-
-
- 11: ( 26) - Kacey Musgraves
-
-
- 12: ( 23) - Carrie Rodriguez
- 13: ( 23) - Orange Juice
- 14: ( 22) - Rachel Harrington
+10: (30) - Prefab Sprout
 
 
 
- 15: ( 18) - Heaven 17
- 16: ( 17) - Emmylou Harris
+11: (26) - Kacey Musgraves
 
- 17: ( 15) - Corb Lund
- 18: ( 15) - Rod Stewart
- 19: ( 14) - Dave Rawlings Machine
- 20: ( 14) - Rosanne Cash
- 21: ( 13) - UB40
- 22: ( 12) - Edwyn Collins
- 23: ( 12) - Jason Isbell
- 24: ( 12) - Laura Marling
- 25: ( 12) - Scott Walker
- 26: ( 11) - Echo & the Bunnymen
- 27: ( 11) - Miranda Lambert
- 28: ( 11) - The Cure
- 29: ( 11) - The Wailers
- 30: ( 10) - Angie Palmer
- 31: ( 10) - JT Nero
- 32: ( 10) - JT and the Clouds
- 33: ( 10) - Robert Forster
- 34: ( 10) - Simple Minds
- 35: ( 10) - Tom Tom Club
- 36: (  9) - B.E.F.
- 37: (  9) - Natalie Prass
- 38: (  9) - The Velvet Underground
- 39: (  7) - David Bowie
- 40: (  7) - Larkin Poe
- 41: (  7) - The Style Council
- 42: (  6) - Lloyd Cole and the Commotions
- 43: (  4) - Cara Luft
- 44: (  4) - Elvis Costello
- 45: (  4) - Elvis Costello & the Attractions
- 46: (  3) - Martin Stephenson and the Daintees
- 47: (  3) - Orchestral Manoeuvres in the Dark
- 48: (  3) - The Decemberists
- 49: (  2) - Bruce Springsteen
- 50: (  2) - John Cale
- 51: (  2) - Nat King Cole
- 52: (  2) - Stevie Nicks
- 53: (  2) - The Pretenders
- 54: (  2) - Travis Linville
- 55: (  2) - Wham!
- 56: (  2) - Yazoo
- 57: (  1) - Alison Moyet
- 58: (  1) - Cowboy Junkies
- 59: (  1) - Department S
- 60: (  1) - Dolly Parton
- 61: (  1) - Dwight Yoakam
- 62: (  1) - Eilen Jewell
- 63: (  1) - Frank Sinatra
- 64: (  1) - Frankie Goes to Hollywood
- 65: (  1) - George Strait
- 66: (  1) - Greg Lake
- 67: (  1) - Hayes Carll
- 68: (  1) - John Lennon
- 69: (  1) - Jona Lewie
- 70: (  1) - Joy Division
- 71: (  1) - Led Zeppelin
- 72: (  1) - Martyn Bates
- 73: (  1) - Middle of the Road
- 74: (  1) - Mindy Smith
- 75: (  1) - Patty Griffin
- 76: (  1) - Paul McCartney
- 77: (  1) - Scritti Politti
- 78: (  1) - Slade
- 79: (  1) - Stealers Wheel
- 80: (  1) - The Chameleons
- 81: (  1) - The Dust Poets
- 82: (  1) - The Low Anthem
- 83: (  1) - The Pogues
- 84: (  1) - The Smiths
- 85: (  1) - Wizzard
+
+12: (23) - Carrie Rodriguez
+13: (23) - Orange Juice
+14: (22) - Rachel Harrington
+
+
+
+15: (18) - Heaven 17
+16: (17) - Emmylou Harris
+
+17: (15) - Corb Lund
+18: (15) - Rod Stewart
+19: (14) - Dave Rawlings Machine
+20: (14) - Rosanne Cash
+21: (13) - UB40
+22: (12) - Edwyn Collins
+23: (12) - Jason Isbell
+24: (12) - Laura Marling
+25: (12) - Scott Walker
+26: (11) - Echo & the Bunnymen
+27: (11) - Miranda Lambert
+28: (11) - The Cure
+29: (11) - The Wailers
+30: (10) - Angie Palmer
+31: (10) - JT Nero
+32: (10) - JT and the Clouds
+33: (10) - Robert Forster
+34: (10) - Simple Minds
+35: (10) - Tom Tom Club
+36: ( 9) - B.E.F.
+37: ( 9) - Natalie Prass
+38: ( 9) - The Velvet Underground
+39: ( 7) - David Bowie
+40: ( 7) - Larkin Poe
+41: ( 7) - The Style Council
+42: ( 6) - Lloyd Cole and the Commotions
+43: ( 4) - Cara Luft
+44: ( 4) - Elvis Costello
+45: ( 4) - Elvis Costello & the Attractions
+46: ( 3) - Martin Stephenson and the Daintees
+47: ( 3) - Orchestral Manoeuvres in the Dark
+48: ( 3) - The Decemberists
+49: ( 2) - Bruce Springsteen
+50: ( 2) - John Cale
+51: ( 2) - Nat King Cole
+52: ( 2) - Stevie Nicks
+53: ( 2) - The Pretenders
+54: ( 2) - Travis Linville
+55: ( 2) - Wham!
+56: ( 2) - Yazoo
+57: ( 1) - Alison Moyet
+58: ( 1) - Cowboy Junkies
+59: ( 1) - Department S
+60: ( 1) - Dolly Parton
+61: ( 1) - Dwight Yoakam
+62: ( 1) - Eilen Jewell
+63: ( 1) - Frank Sinatra
+64: ( 1) - Frankie Goes to Hollywood
+65: ( 1) - George Strait
+66: ( 1) - Greg Lake
+67: ( 1) - Hayes Carll
+68: ( 1) - John Lennon
+69: ( 1) - Jona Lewie
+70: ( 1) - Joy Division
+71: ( 1) - Led Zeppelin
+72: ( 1) - Martyn Bates
+73: ( 1) - Middle of the Road
+74: ( 1) - Mindy Smith
+75: ( 1) - Patty Griffin
+76: ( 1) - Paul McCartney
+77: ( 1) - Scritti Politti
+78: ( 1) - Slade
+79: ( 1) - Stealers Wheel
+80: ( 1) - The Chameleons
+81: ( 1) - The Dust Poets
+82: ( 1) - The Low Anthem
+83: ( 1) - The Pogues
+84: ( 1) - The Smiths
+85: ( 1) - Wizzard

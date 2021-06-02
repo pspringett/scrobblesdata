@@ -1,13 +1,13 @@
 Specified year (2020), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
      722            37            54           210
-  1: (110) - Echo & the Bunnymen
-  2: ( 86) - Paul McCartney
-  3: ( 80) - Piney Gir
-  4: ( 60) - U2
-  5: ( 56) - Loma
-  6: ( 52) - Simple Minds
-  7: ( 46) - Various
+ 1: (110) - Echo & the Bunnymen
+ 2: ( 86) - Paul McCartney
+ 3: ( 80) - Piney Gir
+ 4: ( 60) - U2
+ 5: ( 56) - Loma
+ 6: ( 52) - Simple Minds
+ 7: ( 46) - Various
 
 
 
@@ -17,57 +17,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  8: ( 36) - Furniture
+ 8: ( 36) - Furniture
 
 
 
-  9: ( 32) - The Chicks
-
-
-
-
-
-
-
- 10: ( 24) - Elvis Costello
- 11: ( 24) - Elvis Costello & the Attractions
-
-
-
- 12: ( 20) - The Velvet Underground
+ 9: ( 32) - The Chicks
 
 
 
 
 
- 13: ( 14) - The Pale Fountains
- 14: ( 14) - The Waterboys
-
- 15: ( 12) - Bob Dylan
 
 
+10: ( 24) - Elvis Costello
+11: ( 24) - Elvis Costello & the Attractions
 
 
 
- 16: (  6) - Josef K
- 17: (  4) - David Bowie
- 18: (  4) - Edwyn Collins
- 19: (  4) - Orange Juice
- 20: (  4) - Tom Robinson
- 21: (  2) - A Certain Ratio
- 22: (  2) - Adrianne Lenker
- 23: (  2) - Andy Bell
- 24: (  2) - Cara Dillon
- 25: (  2) - Diana Jones
- 26: (  2) - Fuzz
- 27: (  2) - Garcia Peoples
- 28: (  2) - Hello Forever
- 29: (  2) - Hen Ogledd
- 30: (  2) - Japan
- 31: (  2) - Jim White
- 32: (  2) - John Cooper Clarke
- 33: (  2) - Magik Markers
- 34: (  2) - Mary Lattimore
- 35: (  2) - Songhoy Blues
- 36: (  2) - Sufjan Stevens
- 37: (  2) - Yazoo
+12: ( 20) - The Velvet Underground
+
+
+
+
+
+13: ( 14) - The Pale Fountains
+14: ( 14) - The Waterboys
+
+15: ( 12) - Bob Dylan
+
+
+
+
+
+16: (  6) - Josef K
+17: (  4) - David Bowie
+18: (  4) - Edwyn Collins
+19: (  4) - Orange Juice
+20: (  4) - Tom Robinson
+21: (  2) - A Certain Ratio
+22: (  2) - Adrianne Lenker
+23: (  2) - Andy Bell
+24: (  2) - Cara Dillon
+25: (  2) - Diana Jones
+26: (  2) - Fuzz
+27: (  2) - Garcia Peoples
+28: (  2) - Hello Forever
+29: (  2) - Hen Ogledd
+30: (  2) - Japan
+31: (  2) - Jim White
+32: (  2) - John Cooper Clarke
+33: (  2) - Magik Markers
+34: (  2) - Mary Lattimore
+35: (  2) - Songhoy Blues
+36: (  2) - Sufjan Stevens
+37: (  2) - Yazoo
