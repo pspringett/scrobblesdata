@@ -1,13 +1,13 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1453           115           167           859
+    1479           115           168           863
   1: (87) - The Rolling Stones
   2: (66) - The Beatles
-  3: (60) - Echo & the Bunnymen
-  4: (54) - Lissie
-  5: (52) - Catatonia
-  6: (50) - Doves
-  7: (50) - U2
+  3: (66) - U2
+  4: (60) - Echo & the Bunnymen
+  5: (54) - Lissie
+  6: (52) - Catatonia
+  7: (50) - Doves
   8: (49) - Bonnie Whitmore
   9: (49) - Orchestral Manoeuvres in the Dark
  10: (48) - Fleet Foxes
@@ -16,21 +16,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  12: (44) - Chip Taylor & Carrie Rodriguez
 
- 13: (42) - The Smiths
+ 13: (42) - Bob Dylan
+ 14: (42) - The Smiths
 
 
 
- 14: (38) - Bob Dylan
  15: (38) - David Bowie
 
  16: (36) - Simple Minds
  17: (35) - Paul Weller
+ 18: (35) - The Weather Station
 
 
- 18: (32) - The Cure
+ 19: (32) - The Cure
 
- 19: (30) - Lloyd Cole and the Commotions
- 20: (29) - The Weather Station
+ 20: (30) - Lloyd Cole and the Commotions
+
 
  21: (27) - Martin Stephenson
 
