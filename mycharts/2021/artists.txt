@@ -1,6 +1,6 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1481           115           167           862
+    1498           115           169           878
   1: (87) - The Rolling Stones
   2: (66) - The Beatles
   3: (66) - U2
@@ -39,34 +39,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  23: (23) - Piney Gir
  24: (22) - Suzanne Vega
- 25: (21) - Cocteau Twins
- 26: (21) - Siouxsie and the Banshees
+ 25: (22) - The Velvet Underground
+ 26: (21) - Cocteau Twins
+ 27: (21) - Siouxsie and the Banshees
 
 
 
- 27: (17) - Eliza Gilkyson
- 28: (16) - Roxy Music
- 29: (15) - Buffy Sainte-marie
- 30: (14) - Elvis Costello
- 31: (14) - Prefab Sprout
- 32: (14) - Scott Walker
- 33: (14) - The Style Council
- 34: (13) - Emma Swift
- 35: (12) - Laura Marling
- 36: (12) - Shelby Lynne
- 37: (12) - The Go-Betweens
- 38: (11) - The Velvet Underground
- 39: (10) - Natalie Prass
- 40: (10) - Paul McCartney
- 41: ( 9) - Josh Ritter
- 42: ( 9) - Orange Juice
- 43: ( 8) - Edwyn Collins
- 44: ( 8) - Various
- 45: ( 7) - The Associates
- 46: ( 7) - The Jam
- 47: ( 6) - Angie Palmer
- 48: ( 6) - Leonard Cohen
- 49: ( 6) - Yazoo
+ 28: (17) - Eliza Gilkyson
+ 29: (16) - Roxy Music
+ 30: (15) - Buffy Sainte-marie
+ 31: (14) - Elvis Costello
+ 32: (14) - Prefab Sprout
+ 33: (14) - Scott Walker
+ 34: (14) - The Style Council
+ 35: (13) - Emma Swift
+ 36: (12) - Laura Marling
+ 37: (12) - Shelby Lynne
+ 38: (12) - The Go-Betweens
+ 39: (12) - Yazoo
+
+ 40: (10) - Natalie Prass
+ 41: (10) - Paul McCartney
+ 42: ( 9) - Josh Ritter
+ 43: ( 9) - Orange Juice
+ 44: ( 8) - Edwyn Collins
+ 45: ( 8) - Various
+ 46: ( 7) - The Associates
+ 47: ( 7) - The Jam
+ 48: ( 6) - Angie Palmer
+ 49: ( 6) - Leonard Cohen
  50: ( 5) - Chrissie Hynde
  51: ( 5) - Nick Heyward
  52: ( 5) - Tift Merritt
