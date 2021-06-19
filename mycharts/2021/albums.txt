@@ -1,6 +1,6 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1504           115           169           878
+    1557           133           192           916
   1: (66) - Revolver - The Beatles
   2: (54) - Covered Up With Flowers - Lissie
   3: (52) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
@@ -38,161 +38,183 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  19: (22) - Days Of Open Hand - Suzanne Vega
  20: (22) * Heaven Up Here - Echo & the Bunnymen
  21: (21) - Armed Forces (Super Deluxe Edition) - Elvis Costello & the Attractions
- 22: (21) - The Scream - Siouxsie and the Banshees
+ 22: (21) - Fat Pop (Deluxe) - Paul Weller
+ 23: (21) - The Scream - Siouxsie and the Banshees
+
+ 24: (19) - Reconnected - Yazoo
 
 
-
-
- 23: (16) * Lost And Found - Eliza Gilkyson
- 24: (15) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
- 25: (15) - Illuminations - Buffy Sainte-marie
- 26: (14) - True Meanings - Paul Weller
- 27: (13) - Blonde On The Tracks - Emma Swift
- 28: (13) - Hey Clockface - Elvis Costello
- 29: (13) * Seventeen Seconds - The Cure
- 30: (12) - Identity Crisis - Shelby Lynne
- 31: (12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
- 32: (12) - Mainstream - Lloyd Cole and the Commotions
- 33: (12) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
- 34: (12) - Reconnected - Yazoo
- 35: (12) * Swoon - Prefab Sprout
- 36: (12) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 37: (12) - The Rolling Stones No.2 - The Rolling Stones
- 38: (11) - Aftermath - The Rolling Stones
- 39: (11) - Hunky Dory - David Bowie
- 40: (11) - On Sunset (Deluxe) - Paul Weller
- 41: (11) * Pornography - The Cure
- 42: (11) - Song For Our Daughter - Laura Marling
- 43: (11) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
- 44: (11) - V.U. - The Velvet Underground
- 45: (10) - Fat Pop - Paul Weller
- 46: (10) - Head Over Heels - Cocteau Twins
- 47: (10) - Manifesto - Roxy Music
- 48: (10) - Mccartney - Paul McCartney
- 49: (10) - Natalie Prass - Natalie Prass
- 50: (10) * Tallulah - The Go-Betweens
- 51: ( 9) * Bringing It All Back Home - Bob Dylan
- 52: ( 9) - Cafe Bleu - The Style Council
- 53: ( 9) - Coals To Newcastle - Orange Juice
- 54: ( 9) * Rattlesnakes - Lloyd Cole and the Commotions
- 55: ( 9) * Scott - Scott Walker
- 56: ( 9) - Sermon On The Rocks - Josh Ritter
- 57: ( 9) - Treasure - Cocteau Twins
- 58: ( 8) - Blackstar - David Bowie
- 59: ( 8) - Easy Pieces - Lloyd Cole and the Commotions
- 60: ( 8) * Faith - The Cure
- 61: ( 8) - The Psychedelic Scene - Various
- 62: ( 7) * Snap - The Jam
- 63: ( 7) - Sulk - The Associates
- 64: ( 7) - The Gouster - David Bowie
- 65: ( 7) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
- 66: ( 6) - Acoustic - Simple Minds
- 67: ( 6) * Architecture And Morality - Orchestral Manoeuvres in the Dark
- 68: ( 6) * Roxy Music - Roxy Music
- 69: ( 5) - Elevation Days - Edwyn Collins
- 70: ( 5) - Introducing The Style Council - The Style Council
- 71: ( 5) * Road - Angie Palmer
- 72: ( 5) - Stage (2017) [Live] - David Bowie
- 73: ( 5) - Standing In The Doorway: Chrissie Hynde Sings Bob Dylan - Chrissie Hynde
- 74: ( 5) - Traveling Alone - Tift Merritt
- 75: ( 5) - Woodland Echoes - Nick Heyward
- 76: ( 5) - You And Me Both - Yazoo
- 77: ( 4) -  - Philscreen
- 78: ( 4) - All The Roadrunning - Mark Knopfler & Emmylou Harris
- 79: ( 4) * Blonde On Blonde - Bob Dylan
- 80: ( 4) - Entertainment! - Gang of Four
- 81: ( 4) * Get Happy!! - Elvis Costello & the Attractions
- 82: ( 4) - Good Luck, Seeker - The Waterboys
- 83: ( 4) - Journeys To Glory - Spandau Ballet
- 84: ( 4) * Knife - Aztec Camera
- 85: ( 4) - Live At Eddie's Attic - The Civil Wars
- 86: ( 4) * Organisation - Orchestral Manoeuvres in the Dark
- 87: ( 4) - Some Cities - Doves
- 88: ( 4) - The Stars, The Oceans & The Moon - Echo & the Bunnymen
- 89: ( 4) - You Want It Darker - Leonard Cohen
- 90: ( 3) - Hold Yer Horses - The Piney Gir Country Roadshow
- 91: ( 3) * Hope And Despair - Edwyn Collins
- 92: ( 3) * I Took Up The Runes - Jan Garbarek
- 93: ( 3) - Low - David Bowie
- 94: ( 3) - Low-Life - New Order
- 95: ( 3) * New Gold Dream (81-82-83-84) - Simple Minds
- 96: ( 3) - Red Dirt Girl - Emmylou Harris
- 97: ( 3) * Scott 2 - Scott Walker
- 98: ( 3) - Surf - Roddy Frame
- 99: ( 3) - The Road To Ensenada - Lyle Lovett
-100: ( 2) - Are You Experienced - Jimi Hendrix
-101: ( 2) - Blue Skies & Free-Rides: The Best Of 1986-1989 - The Weather Prophets
-102: ( 2) * Electric Warrior - T. Rex
-103: ( 2) - Heyday - The Church
-104: ( 2) * Highway 61 Revisited - Bob Dylan
-105: ( 2) - Hypersonic Missiles - Sam Fender
-106: ( 2) - Liberty Belle And The Black Diamond Express (Remastered) - The Go-Betweens
-107: ( 2) - Lifes Rich Pageant (Deluxe Edition) - R.E.M.
-108: ( 2) - London 0 Hull 4 - The Housemartins
-109: ( 2) - New Long Leg - Dry Cleaning
-110: ( 2) - Porcupine - Echo & the Bunnymen
-111: ( 2) - Private Revolution - World Party
-112: ( 2) - Rumours - Fleetwood Mac
-113: ( 2) - Sons And Fascination/Sister Feelings Call - Simple Minds
-114: ( 2) - Surprise Surprise Surprise - Miracle Legion
-115: ( 2) - The Collection - Prefab Sprout
-116: ( 2) - The Good Earth - The Feelies
-117: ( 2) - The Moon And The Melodies - Cocteau Twins
-118: ( 2) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-119: ( 2) - They Might Be Giants - They Might Be Giants
-120: ( 2) - Tommy - The Wedding Present
-121: ( 2) - True Stories - Talking Heads
-122: ( 2) * Various Positions - Leonard Cohen
-123: ( 2) * Young Americans - David Bowie
-124: ( 1) -  - Catatonia
-125: ( 1) -  - Nacho Video
-126: ( 1) -  - Thepnutno2
-127: ( 1) - 1981-2011 - B.E.F.
-128: ( 1) - 1984 - 1989 - Lloyd Cole and the Commotions
-129: ( 1) - A Hard Rain's A-Gonna Fall - Laura Marling
-130: ( 1) - A's, B's And Rarities - Suzi Quatro
-131: ( 1) - Armed Forces (Super Deluxe Edition) - Elvis Costello
-132: ( 1) * Bite - Altered Images
-133: ( 1) - Born Sandy Devotional - The Triffids
-134: ( 1) - Brick By Brick - Iggy Pop
-135: ( 1) - Bye - Slow Hands
-136: ( 1) - Candy Apple Grey - Hüsker Dü
-137: ( 1) - Car Button Cloth - The Lemonheads
-138: ( 1) * Car Wheels On A Gravel Road - Lucinda Williams
-139: ( 1) - Colossal Youth (40Th Anniversary Edition) - Young Marble Giants
-140: ( 1) - Coney Island Baby - Lou Reed
-141: ( 1) - Crimson Tide - Destroyer
-142: ( 1) - Faraway In Time - Martha and the Muffins
-143: ( 1) - Get It On: The Collection - T. Rex
-144: ( 1) - Hard Times In Babylon - Eliza Gilkyson
-145: ( 1) - Head Above The Water - Brigid Mae Power
-146: ( 1) - Honky Chateau - Elton John
-147: ( 1) - I'm The Man - Joe Jackson
-148: ( 1) - In Your Room - Yazoo
-149: ( 1) - Initial Success - B.A. Robertson
-150: ( 1) - It Is What It Is - Thundercat
-151: ( 1) - Lindé - Afel Bocoum
-152: ( 1) - Maverick Years 80-81 - The Mighty Wah!
-153: ( 1) * Meanwhile, As Night Falls... - Angie Palmer
-154: ( 1) - Music For Sixties - Manfred Mann
-155: ( 1) - Old Flowers - Courtney Marie Andrews
-156: ( 1) - Punisher - Phoebe Bridgers
-157: ( 1) - Reunions - Jason Isbell and the 400 Unit
-158: ( 1) - Rough And Rowdy Ways - Bob Dylan
-159: ( 1) - Saint Cloud - Waxahatchee
-160: ( 1) - Scott 3 - Scott Walker
-161: ( 1) - Scott 4 - Scott Walker
-162: ( 1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-163: ( 1) * Seven Dials - Roddy Frame
-164: ( 1) - Shore - The Weather Station
-165: ( 1) * Songs To Remember - Scritti Politti
-166: ( 1) - Stealers Wheel - Stealers Wheel
-167: ( 1) - Summerlong - Rose City Band
-168: ( 1) - Sundowner - Kevin Morby
-169: ( 1) - Tempest - Bob Dylan
-170: ( 1) * The Collection - Altered Images
-171: ( 1) * The Unforgettable Fire - U2
-172: ( 1) - Tim (Expanded) - The Replacements
-173: ( 1) - Too Low For Zero - Elton John
-174: ( 1) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
-175: ( 1) - Traditional Techniques - Stephen Malkmus
+ 25: (16) * Lost And Found - Eliza Gilkyson
+ 26: (15) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
+ 27: (15) - Illuminations - Buffy Sainte-marie
+ 28: (14) - True Meanings - Paul Weller
+ 29: (13) - Blonde On The Tracks - Emma Swift
+ 30: (13) - Hey Clockface - Elvis Costello
+ 31: (13) - On Sunset (Deluxe) - Paul Weller
+ 32: (13) * Seventeen Seconds - The Cure
+ 33: (12) - Identity Crisis - Shelby Lynne
+ 34: (12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
+ 35: (12) - Mainstream - Lloyd Cole and the Commotions
+ 36: (12) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+ 37: (12) * Swoon - Prefab Sprout
+ 38: (12) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 39: (12) - The Rolling Stones No.2 - The Rolling Stones
+ 40: (11) - Aftermath - The Rolling Stones
+ 41: (11) - Hunky Dory - David Bowie
+ 42: (11) * Pornography - The Cure
+ 43: (11) - Song For Our Daughter - Laura Marling
+ 44: (11) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+ 45: (11) - V.U. - The Velvet Underground
+ 46: (10) - Fat Pop - Paul Weller
+ 47: (10) - Head Over Heels - Cocteau Twins
+ 48: (10) - Manifesto - Roxy Music
+ 49: (10) - Mccartney - Paul McCartney
+ 50: (10) - Natalie Prass - Natalie Prass
+ 51: (10) * Tallulah - The Go-Betweens
+ 52: (10) - Treasure - Cocteau Twins
+ 53: ( 9) * Bringing It All Back Home - Bob Dylan
+ 54: ( 9) - Cafe Bleu - The Style Council
+ 55: ( 9) - Coals To Newcastle - Orange Juice
+ 56: ( 9) * Rattlesnakes - Lloyd Cole and the Commotions
+ 57: ( 9) * Scott - Scott Walker
+ 58: ( 9) - Sermon On The Rocks - Josh Ritter
+ 59: ( 8) - Blackstar - David Bowie
+ 60: ( 8) - Easy Pieces - Lloyd Cole and the Commotions
+ 61: ( 8) * Faith - The Cure
+ 62: ( 8) - The Psychedelic Scene - Various
+ 63: ( 7) * Snap - The Jam
+ 64: ( 7) - Sulk - The Associates
+ 65: ( 7) - The Gouster - David Bowie
+ 66: ( 7) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
+ 67: ( 6) - Acoustic - Simple Minds
+ 68: ( 6) * Architecture And Morality - Orchestral Manoeuvres in the Dark
+ 69: ( 6) * Roxy Music - Roxy Music
+ 70: ( 5) - Elevation Days - Edwyn Collins
+ 71: ( 5) - Introducing The Style Council - The Style Council
+ 72: ( 5) * Road - Angie Palmer
+ 73: ( 5) - Stage (2017) [Live] - David Bowie
+ 74: ( 5) - Standing In The Doorway: Chrissie Hynde Sings Bob Dylan - Chrissie Hynde
+ 75: ( 5) - Traveling Alone - Tift Merritt
+ 76: ( 5) - Woodland Echoes - Nick Heyward
+ 77: ( 5) - You And Me Both - Yazoo
+ 78: ( 4) -  - Philscreen
+ 79: ( 4) - All The Roadrunning - Mark Knopfler & Emmylou Harris
+ 80: ( 4) * Blonde On Blonde - Bob Dylan
+ 81: ( 4) - Entertainment! - Gang of Four
+ 82: ( 4) * Get Happy!! - Elvis Costello & the Attractions
+ 83: ( 4) - Good Luck, Seeker - The Waterboys
+ 84: ( 4) - Journeys To Glory - Spandau Ballet
+ 85: ( 4) * Knife - Aztec Camera
+ 86: ( 4) - Live At Eddie's Attic - The Civil Wars
+ 87: ( 4) * Organisation - Orchestral Manoeuvres in the Dark
+ 88: ( 4) - Some Cities - Doves
+ 89: ( 4) - The Stars, The Oceans & The Moon - Echo & the Bunnymen
+ 90: ( 4) - You Want It Darker - Leonard Cohen
+ 91: ( 3) - Hold Yer Horses - The Piney Gir Country Roadshow
+ 92: ( 3) * Hope And Despair - Edwyn Collins
+ 93: ( 3) * I Took Up The Runes - Jan Garbarek
+ 94: ( 3) - Low - David Bowie
+ 95: ( 3) - Low-Life - New Order
+ 96: ( 3) * New Gold Dream (81-82-83-84) - Simple Minds
+ 97: ( 3) - Red Dirt Girl - Emmylou Harris
+ 98: ( 3) * Scott 2 - Scott Walker
+ 99: ( 3) - Surf - Roddy Frame
+100: ( 3) - The Road To Ensenada - Lyle Lovett
+101: ( 2) - Are You Experienced - Jimi Hendrix
+102: ( 2) - Blue Skies & Free-Rides: The Best Of 1986-1989 - The Weather Prophets
+103: ( 2) * Electric Warrior - T. Rex
+104: ( 2) - Heyday - The Church
+105: ( 2) * Highway 61 Revisited - Bob Dylan
+106: ( 2) - Hypersonic Missiles - Sam Fender
+107: ( 2) - Liberty Belle And The Black Diamond Express (Remastered) - The Go-Betweens
+108: ( 2) - Lifes Rich Pageant (Deluxe Edition) - R.E.M.
+109: ( 2) - London 0 Hull 4 - The Housemartins
+110: ( 2) - New Long Leg - Dry Cleaning
+111: ( 2) - Porcupine - Echo & the Bunnymen
+112: ( 2) - Private Revolution - World Party
+113: ( 2) - Rumours - Fleetwood Mac
+114: ( 2) - Sons And Fascination/Sister Feelings Call - Simple Minds
+115: ( 2) - Surprise Surprise Surprise - Miracle Legion
+116: ( 2) - The Collection - Prefab Sprout
+117: ( 2) - The Good Earth - The Feelies
+118: ( 2) - The Moon And The Melodies - Cocteau Twins
+119: ( 2) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+120: ( 2) - They Might Be Giants - They Might Be Giants
+121: ( 2) - Tommy - The Wedding Present
+122: ( 2) - True Stories - Talking Heads
+123: ( 2) * Various Positions - Leonard Cohen
+124: ( 2) * Young Americans - David Bowie
+125: ( 1) -  - Catatonia
+126: ( 1) -  - Nacho Video
+127: ( 1) -  - Thepnutno2
+128: ( 1) - 100% 80's (100 Classic Hits) - Sing Karaoke Sing
+129: ( 1) - 1981-2011 - B.E.F.
+130: ( 1) - 1984 - 1989 - Lloyd Cole and the Commotions
+131: ( 1) - A Hard Rain's A-Gonna Fall - Laura Marling
+132: ( 1) - A's, B's And Rarities - Suzi Quatro
+133: ( 1) - Armed Forces (Super Deluxe Edition) - Elvis Costello
+134: ( 1) * Bite - Altered Images
+135: ( 1) - Born Sandy Devotional - The Triffids
+136: ( 1) - Brick By Brick - Iggy Pop
+137: ( 1) - Bug (Remastered) - Dinosaur Jr.
+138: ( 1) - Bye - Slow Hands
+139: ( 1) - Candy Apple Grey - Hüsker Dü
+140: ( 1) - Car Button Cloth - The Lemonheads
+141: ( 1) * Car Wheels On A Gravel Road - Lucinda Williams
+142: ( 1) * Closer - Joy Division
+143: ( 1) - Colossal Youth (40Th Anniversary Edition) - Young Marble Giants
+144: ( 1) - Complete Madness - Madness
+145: ( 1) - Coney Island Baby - Lou Reed
+146: ( 1) - Crash - The Human League
+147: ( 1) - Crimson Tide - Destroyer
+148: ( 1) - Darklands (Expanded Version) - The Jesus and Mary Chain
+149: ( 1) - F.L.M. (Deluxe Edition) - Mel & Kim
+150: ( 1) - Faraway In Time - Martha and the Muffins
+151: ( 1) - Fourth Drawer Down - The Associates
+152: ( 1) - Get Close (Expanded & Remastered) - Pretenders
+153: ( 1) - Get It On: The Collection - T. Rex
+154: ( 1) - Gold Und Liebe - Deutsch Amerikanische Freundschaft
+155: ( 1) - Hard Times In Babylon - Eliza Gilkyson
+156: ( 1) - Head Above The Water - Brigid Mae Power
+157: ( 1) - Honky Chateau - Elton John
+158: ( 1) - Hounds Of Love - Kate Bush
+159: ( 1) - I Feel For You - Chaka Khan
+160: ( 1) - I'm The Man - Joe Jackson
+161: ( 1) - In Your Room - Yazoo
+162: ( 1) - Initial Success - B.A. Robertson
+163: ( 1) - It Is What It Is - Thundercat
+164: ( 1) - Lennon Bermuda - Yoko Ono
+165: ( 1) - Let's Dance (1999 Remaster) - David Bowie
+166: ( 1) - Lindé - Afel Bocoum
+167: ( 1) - Maverick Years 80-81 - The Mighty Wah!
+168: ( 1) * Meanwhile, As Night Falls... - Angie Palmer
+169: ( 1) - Music For Sixties - Manfred Mann
+170: ( 1) - Old Flowers - Courtney Marie Andrews
+171: ( 1) - Punisher - Phoebe Bridgers
+172: ( 1) - Reunions - Jason Isbell and the 400 Unit
+173: ( 1) - Rough And Rowdy Ways - Bob Dylan
+174: ( 1) - Saint Cloud - Waxahatchee
+175: ( 1) - Scott 3 - Scott Walker
+176: ( 1) - Scott 4 - Scott Walker
+177: ( 1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+178: ( 1) * Seven Dials - Roddy Frame
+179: ( 1) - Shore - The Weather Station
+180: ( 1) - Sign "O" The Times - Prince
+181: ( 1) - Singles (2016 Remaster) - New Order
+182: ( 1) - Sleep It Off - Cristina
+183: ( 1) - So (Special Edition) - Peter Gabriel
+184: ( 1) - Songs To Learn & Sing - Echo & the Bunnymen
+185: ( 1) * Songs To Remember - Scritti Politti
+186: ( 1) - Stealers Wheel - Stealers Wheel
+187: ( 1) - Summerlong - Rose City Band
+188: ( 1) - Sundowner - Kevin Morby
+189: ( 1) - Surfer Rosa (Remastered) - Pixies
+190: ( 1) - Tempest - Bob Dylan
+191: ( 1) * The Collection - Altered Images
+192: ( 1) - The Look Of Love - ABC
+193: ( 1) - The Singles 86-98 - Depeche Mode
+194: ( 1) * The Unforgettable Fire - U2
+195: ( 1) - Tim (Expanded) - The Replacements
+196: ( 1) - Too Low For Zero - Elton John
+197: ( 1) - Totale's Turns (It's Now Or Never) (Expanded Edition) - The Fall
+198: ( 1) - Traditional Techniques - Stephen Malkmus
