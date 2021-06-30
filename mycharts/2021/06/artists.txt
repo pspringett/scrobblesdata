@@ -1,7 +1,7 @@
 Specified year (2021), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     253            46            57           221
- 1: (37) - Paul Weller
+     360            65            86           278
+ 1: (49) - Paul Weller
 
 
 
@@ -18,53 +18,83 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (32) - David Bowie
 
- 2: (19) - Yazoo
 
 
- 3: (16) - U2
 
- 4: (14) - The Beatles
 
- 5: (12) - Echo & the Bunnymen
- 6: (12) - Lloyd Cole and the Commotions
- 7: (12) - Prefab Sprout
- 8: (12) - Shelby Lynne
- 9: (11) - Cocteau Twins
-10: (11) - The Velvet Underground
-11: (10) - Roxy Music
-12: (10) - The Go-Betweens
-13: ( 9) - Laura Marling
-14: ( 8) - David Bowie
-15: ( 8) - The Associates
-16: ( 7) - Edwyn Collins
-17: ( 6) - The Weather Station
-18: ( 4) - Bob Dylan
-19: ( 4) - Roddy Frame
-20: ( 3) - Jan Garbarek
-21: ( 2) - First Aid Kit
-22: ( 2) - Leonard Cohen
-23: ( 1) - ABC
-24: ( 1) - Chaka Khan
-25: ( 1) - Cristina
-26: ( 1) - Depeche Mode
-27: ( 1) - Deutsch Amerikanische Freundschaft
-28: ( 1) - Dinosaur Jr.
-29: ( 1) - Joe Jackson
-30: ( 1) - Joy Division
-31: ( 1) - Kate Bush
-32: ( 1) - Lou Reed
-33: ( 1) - Madness
-34: ( 1) - Mel & Kim
-35: ( 1) - New Order
-36: ( 1) - Peter Gabriel
-37: ( 1) - Pixies
-38: ( 1) - Pretenders
-39: ( 1) - Prince
-40: ( 1) - Scritti Politti
-41: ( 1) - Sing Karaoke Sing
-42: ( 1) - The Human League
-43: ( 1) - The Jesus and Mary Chain
-44: ( 1) - The Lemonheads
-45: ( 1) - The Mighty Wah!
-46: ( 1) - Yoko Ono
+
+
+
+
+
+
+
+ 3: (19) - Yazoo
+
+
+ 4: (16) - U2
+
+ 5: (14) - Lloyd Cole and the Commotions
+ 6: (14) - The Beatles
+
+ 7: (12) - Echo & the Bunnymen
+ 8: (12) - Prefab Sprout
+ 9: (12) - Shelby Lynne
+10: (11) - Cocteau Twins
+11: (11) - The Velvet Underground
+12: (10) - David Byrne
+13: (10) - Roxy Music
+14: (10) - The Associates
+15: (10) - The Go-Betweens
+16: ( 9) - Laura Marling
+17: ( 7) - Edwyn Collins
+18: ( 7) - Mike Oldfield
+19: ( 6) - Max Romeo
+20: ( 6) - The Weather Station
+21: ( 5) - Bob Marley & the Wailers
+22: ( 4) - Bob Dylan
+23: ( 4) - Pixies
+24: ( 4) - Roddy Frame
+25: ( 3) - Chaka Khan
+26: ( 3) - Jan Garbarek
+27: ( 3) - Madness
+28: ( 3) - New Order
+29: ( 3) - Pretenders
+30: ( 3) - Prince
+31: ( 2) - ABC
+32: ( 2) - Dawn Penn
+33: ( 2) - First Aid Kit
+34: ( 2) - Gregory Isaacs
+35: ( 2) - Leonard Cohen
+36: ( 2) - Mel & Kim
+37: ( 2) - Peter Tosh
+38: ( 2) - Siouxsie and the Banshees
+39: ( 2) - Soft Cell
+40: ( 2) - The Psychedelic Furs
+41: ( 2) - The Sugarcubes
+42: ( 2) - Toots and the Maytals
+43: ( 2) - Yoko Ono
+44: ( 1) - Bonnie Tyler
+45: ( 1) - Cristina
+46: ( 1) - David Essex
+47: ( 1) - Depeche Mode
+48: ( 1) - Deutsch Amerikanische Freundschaft
+49: ( 1) - Dinosaur Jr.
+50: ( 1) - Electric Light Orchestra
+51: ( 1) - Joe Jackson
+52: ( 1) - Joy Division
+53: ( 1) - Kate Bush
+54: ( 1) - Lou Reed
+55: ( 1) - Peter Gabriel
+56: ( 1) - Scritti Politti
+57: ( 1) - Sing Karaoke Sing
+58: ( 1) - Steve Harley
+59: ( 1) - Suzanne Vega
+60: ( 1) - The Allman Brothers Band
+61: ( 1) - The Clash
+62: ( 1) - The Human League
+63: ( 1) - The Jesus and Mary Chain
+64: ( 1) - The Lemonheads
+65: ( 1) - The Mighty Wah!
