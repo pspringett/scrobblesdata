@@ -1,7 +1,19 @@
 Specified year (2021), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     370            65            86           278
- 1: (21) - Fat Pop (Deluxe) - Paul Weller
+     370            65            85           278
+ 1: (33) - Fat Pop - Paul Weller
+
+
+
+
+
+
+
+
+
+
+
+
  2: (20) - Manifesto - Roxy Music
  3: (19) - Reconnected - Yazoo
 
@@ -12,82 +24,81 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (14) - Revolver - The Beatles
  7: (14) - True Meanings - Paul Weller
 
- 8: (12) - Fat Pop - Paul Weller
- 9: (12) - Identity Crisis - Shelby Lynne
-10: (12) - Mainstream - Lloyd Cole and the Commotions
-11: (12) * Swoon - Prefab Sprout
-12: (11) * Heaven Up Here - Echo & the Bunnymen
-13: (11) - V.U. - The Velvet Underground
-14: (10) - American Utopia - David Byrne
-15: (10) - Head Over Heels - Cocteau Twins
-16: (10) * Tallulah - The Go-Betweens
-17: ( 9) - Song For Our Daughter - Laura Marling
-18: ( 9) * The Man Who Sold The World - David Bowie
-19: ( 7) - Sulk - The Associates
-20: ( 6) - Ignorance - The Weather Station
-21: ( 6) - War Ina Babylon (Expanded Edition) - Max Romeo
-22: ( 5) - Elevation Days - Edwyn Collins
-23: ( 5) - Stage (2017) [Live] - David Bowie
-24: ( 4) - Ommadawn - Mike Oldfield
-25: ( 4) - Surfer Rosa (Remastered) - Pixies
-26: ( 3) - Complete Madness - Madness
-27: ( 3) - Fourth Drawer Down - The Associates
-28: ( 3) - Get Close (Expanded & Remastered) - Pretenders
-29: ( 3) - I Feel For You - Chaka Khan
-30: ( 3) * I Took Up The Runes - Jan Garbarek
-31: ( 3) - Sign "O" The Times - Prince
-32: ( 3) - Singles (2016 Remaster) - New Order
-33: ( 3) - Surf - Roddy Frame
-34: ( 2) - Catch A Fire - Bob Marley & the Wailers
-35: ( 2) - F.L.M. (Deluxe Edition) - Mel & Kim
-36: ( 2) * Highway 61 Revisited - Bob Dylan
-37: ( 2) * Hope And Despair - Edwyn Collins
-38: ( 2) - Hyaena (Remastered And Expanded) - Siouxsie and the Banshees
-39: ( 2) - In The Dark - Toots and the Maytals
-40: ( 2) - Lennon Bermuda - Yoko Ono
-41: ( 2) - Life's Too Good - The Sugarcubes
-42: ( 2) - Mirror Moves - The Psychedelic Furs
-43: ( 2) - No, No, No - Dawn Penn
-44: ( 2) - Non-Stop Erotic Cabaret - Soft Cell
-45: ( 2) - On Sunset (Deluxe) - Paul Weller
-46: ( 2) - Out Deh - Gregory Isaacs
-47: ( 2) - Rastaman Vibration - Bob Marley & the Wailers
-48: ( 2) * Rattlesnakes - Lloyd Cole and the Commotions
-49: ( 2) - The Look Of Love - ABC
-50: ( 2) - The Toughest - Peter Tosh
-51: ( 2) * Various Positions - Leonard Cohen
-52: ( 2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
-53: ( 2) * Young Americans - David Bowie
-54: ( 1) - 100% 80's (100 Classic Hits) - Sing Karaoke Sing
-55: ( 1) - A New World Record - Electric Light Orchestra
-56: ( 1) * Blonde On Blonde - Bob Dylan
-57: ( 1) * Bringing It All Back Home - Bob Dylan
-58: ( 1) - Bug (Remastered) - Dinosaur Jr.
-59: ( 1) - Burnin' (Deluxe Edition) - Bob Marley & the Wailers
-60: ( 1) - Car Button Cloth - The Lemonheads
-61: ( 1) * Closer - Joy Division
-62: ( 1) - Coney Island Baby - Lou Reed
-63: ( 1) - Crash - The Human League
-64: ( 1) - Darklands (Expanded Version) - The Jesus and Mary Chain
-65: ( 1) - David Essex - David Essex
-66: ( 1) - Dreams - The Allman Brothers Band
-67: ( 1) - Gold Und Liebe - Deutsch Amerikanische Freundschaft
-68: ( 1) - Hergest Ridge - Mike Oldfield
-69: ( 1) - Hounds Of Love - Kate Bush
-70: ( 1) - I'm The Man - Joe Jackson
-71: ( 1) - It's A Heartache - Bonnie Tyler
-72: ( 1) - Let's Dance (1999 Remaster) - David Bowie
-73: ( 1) - London Calling (Remastered) - The Clash
-74: ( 1) - Maverick Years 80-81 - The Mighty Wah!
-75: ( 1) * Seven Dials - Roddy Frame
-76: ( 1) - Sleep It Off - Cristina
-77: ( 1) - So (Special Edition) - Peter Gabriel
-78: ( 1) - Songs To Learn & Sing - Echo & the Bunnymen
-79: ( 1) * Songs To Remember - Scritti Politti
-80: ( 1) - Space Oddity (2019 Mix) - David Bowie
-81: ( 1) - Suzanne Vega - Suzanne Vega
-82: ( 1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
-83: ( 1) - The Singles 86-98 - Depeche Mode
-84: ( 1) - Treasure - Cocteau Twins
-85: ( 1) - Tubular Bells - Mike Oldfield
-86: ( 1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
+ 8: (12) - Identity Crisis - Shelby Lynne
+ 9: (12) - Mainstream - Lloyd Cole and the Commotions
+10: (12) * Swoon - Prefab Sprout
+11: (11) * Heaven Up Here - Echo & the Bunnymen
+12: (11) - V.U. - The Velvet Underground
+13: (10) - American Utopia - David Byrne
+14: (10) - Head Over Heels - Cocteau Twins
+15: (10) * Tallulah - The Go-Betweens
+16: ( 9) - Song For Our Daughter - Laura Marling
+17: ( 9) * The Man Who Sold The World - David Bowie
+18: ( 7) - Sulk - The Associates
+19: ( 6) - Ignorance - The Weather Station
+20: ( 6) - War Ina Babylon (Expanded Edition) - Max Romeo
+21: ( 5) - Elevation Days - Edwyn Collins
+22: ( 5) - Stage (2017) [Live] - David Bowie
+23: ( 4) - Ommadawn - Mike Oldfield
+24: ( 4) - Surfer Rosa (Remastered) - Pixies
+25: ( 3) - Complete Madness - Madness
+26: ( 3) - Fourth Drawer Down - The Associates
+27: ( 3) - Get Close (Expanded & Remastered) - Pretenders
+28: ( 3) - I Feel For You - Chaka Khan
+29: ( 3) * I Took Up The Runes - Jan Garbarek
+30: ( 3) - Sign "O" The Times - Prince
+31: ( 3) - Singles (2016 Remaster) - New Order
+32: ( 3) - Surf - Roddy Frame
+33: ( 2) - Catch A Fire - Bob Marley & the Wailers
+34: ( 2) - F.L.M. (Deluxe Edition) - Mel & Kim
+35: ( 2) * Highway 61 Revisited - Bob Dylan
+36: ( 2) * Hope And Despair - Edwyn Collins
+37: ( 2) - Hyaena (Remastered And Expanded) - Siouxsie and the Banshees
+38: ( 2) - In The Dark - Toots and the Maytals
+39: ( 2) - Lennon Bermuda - Yoko Ono
+40: ( 2) - Life's Too Good - The Sugarcubes
+41: ( 2) - Mirror Moves - The Psychedelic Furs
+42: ( 2) - No, No, No - Dawn Penn
+43: ( 2) - Non-Stop Erotic Cabaret - Soft Cell
+44: ( 2) - On Sunset (Deluxe) - Paul Weller
+45: ( 2) - Out Deh - Gregory Isaacs
+46: ( 2) - Rastaman Vibration - Bob Marley & the Wailers
+47: ( 2) * Rattlesnakes - Lloyd Cole and the Commotions
+48: ( 2) - The Look Of Love - ABC
+49: ( 2) - The Toughest - Peter Tosh
+50: ( 2) * Various Positions - Leonard Cohen
+51: ( 2) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
+52: ( 2) * Young Americans - David Bowie
+53: ( 1) - 100% 80's (100 Classic Hits) - Sing Karaoke Sing
+54: ( 1) - A New World Record - Electric Light Orchestra
+55: ( 1) * Blonde On Blonde - Bob Dylan
+56: ( 1) * Bringing It All Back Home - Bob Dylan
+57: ( 1) - Bug (Remastered) - Dinosaur Jr.
+58: ( 1) - Burnin' (Deluxe Edition) - Bob Marley & the Wailers
+59: ( 1) - Car Button Cloth - The Lemonheads
+60: ( 1) * Closer - Joy Division
+61: ( 1) - Coney Island Baby - Lou Reed
+62: ( 1) - Crash - The Human League
+63: ( 1) - Darklands (Expanded Version) - The Jesus and Mary Chain
+64: ( 1) - David Essex - David Essex
+65: ( 1) - Dreams - The Allman Brothers Band
+66: ( 1) - Gold Und Liebe - Deutsch Amerikanische Freundschaft
+67: ( 1) - Hergest Ridge - Mike Oldfield
+68: ( 1) - Hounds Of Love - Kate Bush
+69: ( 1) - I'm The Man - Joe Jackson
+70: ( 1) - It's A Heartache - Bonnie Tyler
+71: ( 1) - Let's Dance (1999 Remaster) - David Bowie
+72: ( 1) - London Calling (Remastered) - The Clash
+73: ( 1) - Maverick Years 80-81 - The Mighty Wah!
+74: ( 1) * Seven Dials - Roddy Frame
+75: ( 1) - Sleep It Off - Cristina
+76: ( 1) - So (Special Edition) - Peter Gabriel
+77: ( 1) - Songs To Learn & Sing - Echo & the Bunnymen
+78: ( 1) * Songs To Remember - Scritti Politti
+79: ( 1) - Space Oddity (2019 Mix) - David Bowie
+80: ( 1) - Suzanne Vega - Suzanne Vega
+81: ( 1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
+82: ( 1) - The Singles 86-98 - Depeche Mode
+83: ( 1) - Treasure - Cocteau Twins
+84: ( 1) - Tubular Bells - Mike Oldfield
+85: ( 1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
