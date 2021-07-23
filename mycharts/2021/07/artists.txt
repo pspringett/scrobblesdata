@@ -1,6 +1,6 @@
 Specified year (2021), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      79             8            10            79
+      94             9            11            94
 1: (48) - Lloyd Cole
 
 
@@ -37,13 +37,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+2: (12) - R.E.M.
+3: (12) - Rosanne Cash
 
 
 
-2: ( 9) - R.E.M.
-3: ( 6) - Yazoo
-4: ( 5) - Lloyd Cole and the Commotions
-5: ( 4) - Inhaler
-6: ( 4) - Tom Robinson Band
-7: ( 2) - David Bowie
-8: ( 1) - Roxy Music
+
+
+4: ( 6) - Yazoo
+5: ( 5) - Lloyd Cole and the Commotions
+6: ( 4) - Inhaler
+7: ( 4) - Tom Robinson Band
+8: ( 2) - David Bowie
+9: ( 1) - Roxy Music

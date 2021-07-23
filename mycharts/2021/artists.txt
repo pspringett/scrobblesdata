@@ -1,6 +1,6 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1753           153           223          1036
+    1768           154           224          1051
   1: (87) - The Rolling Stones
   2: (70) - Paul Weller
   3: (66) - The Beatles
@@ -54,122 +54,124 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: (15) - Buffy Sainte-marie
  33: (14) - Elvis Costello
  34: (14) - Prefab Sprout
- 35: (14) - Scott Walker
- 36: (14) - The Style Council
- 37: (13) - Emma Swift
- 38: (12) - Laura Marling
- 39: (12) - Shelby Lynne
- 40: (12) - The Go-Betweens
- 41: (11) - R.E.M.
- 42: (10) - David Byrne
- 43: (10) - Natalie Prass
- 44: (10) - Paul McCartney
- 45: (10) - The Associates
- 46: ( 9) - Josh Ritter
- 47: ( 9) - Orange Juice
- 48: ( 8) - Edwyn Collins
- 49: ( 8) - Various
- 50: ( 7) - Mike Oldfield
- 51: ( 7) - The Jam
- 52: ( 6) - Angie Palmer
- 53: ( 6) - Leonard Cohen
- 54: ( 6) - Max Romeo
- 55: ( 6) - New Order
- 56: ( 5) - Bob Marley & the Wailers
- 57: ( 5) - Chrissie Hynde
- 58: ( 5) - Nick Heyward
- 59: ( 5) - Tift Merritt
- 60: ( 4) - Aztec Camera
- 61: ( 4) - Gang of Four
- 62: ( 4) - Inhaler
- 63: ( 4) - Mark Knopfler & Emmylou Harris
- 64: ( 4) - Philscreen
- 65: ( 4) - Pixies
- 66: ( 4) - Roddy Frame
- 67: ( 4) - Spandau Ballet
- 68: ( 4) - The Civil Wars
- 69: ( 4) - The Waterboys
- 70: ( 4) - Tom Robinson Band
- 71: ( 3) - Chaka Khan
- 72: ( 3) - Emmylou Harris
- 73: ( 3) - Jan Garbarek
- 74: ( 3) - Lyle Lovett
- 75: ( 3) - Madness
- 76: ( 3) - Pretenders
- 77: ( 3) - Prince
- 78: ( 3) - T. Rex
- 79: ( 3) - The Piney Gir Country Roadshow
- 80: ( 2) - ABC
- 81: ( 2) - Altered Images
- 82: ( 2) - Dawn Penn
- 83: ( 2) - Dry Cleaning
- 84: ( 2) - Elton John
- 85: ( 2) - Fleetwood Mac
- 86: ( 2) - Gregory Isaacs
- 87: ( 2) - Jimi Hendrix
- 88: ( 2) - Mel & Kim
- 89: ( 2) - Miracle Legion
- 90: ( 2) - Peter Tosh
- 91: ( 2) - Sam Fender
- 92: ( 2) - Soft Cell
- 93: ( 2) - Talking Heads
- 94: ( 2) - The Church
- 95: ( 2) - The Feelies
- 96: ( 2) - The Housemartins
- 97: ( 2) - The Psychedelic Furs
- 98: ( 2) - The Sugarcubes
- 99: ( 2) - The Weather Prophets
-100: ( 2) - The Wedding Present
-101: ( 2) - They Might Be Giants
-102: ( 2) - Toots and the Maytals
-103: ( 2) - World Party
-104: ( 2) - Yoko Ono
-105: ( 1) - Afel Bocoum
-106: ( 1) - B.A. Robertson
-107: ( 1) - B.E.F.
-108: ( 1) - Bonnie Tyler
-109: ( 1) - Brigid Mae Power
-110: ( 1) - Courtney Marie Andrews
-111: ( 1) - Cristina
-112: ( 1) - David Essex
-113: ( 1) - Depeche Mode
-114: ( 1) - Destroyer
-115: ( 1) - Deutsch Amerikanische Freundschaft
-116: ( 1) - Dinosaur Jr.
-117: ( 1) - Electric Light Orchestra
-118: ( 1) - Hüsker Dü
-119: ( 1) - Iggy Pop
-120: ( 1) - Jason Isbell and the 400 Unit
-121: ( 1) - Joe Jackson
-122: ( 1) - Joy Division
-123: ( 1) - Kate Bush
-124: ( 1) - Kevin Morby
-125: ( 1) - Lou Reed
-126: ( 1) - Lucinda Williams
-127: ( 1) - Manfred Mann
-128: ( 1) - Martha and the Muffins
-129: ( 1) - Nacho Video
-130: ( 1) - Peter Gabriel
-131: ( 1) - Phoebe Bridgers
-132: ( 1) - Rose City Band
-133: ( 1) - Scritti Politti
-134: ( 1) - Sing Karaoke Sing
-135: ( 1) - Slow Hands
-136: ( 1) - Stealers Wheel
-137: ( 1) - Stephen Malkmus
-138: ( 1) - Steve Harley
-139: ( 1) - Suzi Quatro
-140: ( 1) - The Allman Brothers Band
-141: ( 1) - The Chameleons
-142: ( 1) - The Clash
-143: ( 1) - The Fall
-144: ( 1) - The Human League
-145: ( 1) - The Jesus and Mary Chain
-146: ( 1) - The Lemonheads
-147: ( 1) - The Mighty Wah!
-148: ( 1) - The Replacements
-149: ( 1) - The Triffids
-150: ( 1) - Thepnutno2
-151: ( 1) - Thundercat
-152: ( 1) - Waxahatchee
-153: ( 1) - Young Marble Giants
+ 35: (14) - R.E.M.
+ 36: (14) - Scott Walker
+ 37: (14) - The Style Council
+ 38: (13) - Emma Swift
+ 39: (12) - Laura Marling
+ 40: (12) - Rosanne Cash
+ 41: (12) - Shelby Lynne
+ 42: (12) - The Go-Betweens
+
+ 43: (10) - David Byrne
+ 44: (10) - Natalie Prass
+ 45: (10) - Paul McCartney
+ 46: (10) - The Associates
+ 47: ( 9) - Josh Ritter
+ 48: ( 9) - Orange Juice
+ 49: ( 8) - Edwyn Collins
+ 50: ( 8) - Various
+ 51: ( 7) - Mike Oldfield
+ 52: ( 7) - The Jam
+ 53: ( 6) - Angie Palmer
+ 54: ( 6) - Leonard Cohen
+ 55: ( 6) - Max Romeo
+ 56: ( 6) - New Order
+ 57: ( 5) - Bob Marley & the Wailers
+ 58: ( 5) - Chrissie Hynde
+ 59: ( 5) - Nick Heyward
+ 60: ( 5) - Tift Merritt
+ 61: ( 4) - Aztec Camera
+ 62: ( 4) - Gang of Four
+ 63: ( 4) - Inhaler
+ 64: ( 4) - Mark Knopfler & Emmylou Harris
+ 65: ( 4) - Philscreen
+ 66: ( 4) - Pixies
+ 67: ( 4) - Roddy Frame
+ 68: ( 4) - Spandau Ballet
+ 69: ( 4) - The Civil Wars
+ 70: ( 4) - The Waterboys
+ 71: ( 4) - Tom Robinson Band
+ 72: ( 3) - Chaka Khan
+ 73: ( 3) - Emmylou Harris
+ 74: ( 3) - Jan Garbarek
+ 75: ( 3) - Lyle Lovett
+ 76: ( 3) - Madness
+ 77: ( 3) - Pretenders
+ 78: ( 3) - Prince
+ 79: ( 3) - T. Rex
+ 80: ( 3) - The Piney Gir Country Roadshow
+ 81: ( 2) - ABC
+ 82: ( 2) - Altered Images
+ 83: ( 2) - Dawn Penn
+ 84: ( 2) - Dry Cleaning
+ 85: ( 2) - Elton John
+ 86: ( 2) - Fleetwood Mac
+ 87: ( 2) - Gregory Isaacs
+ 88: ( 2) - Jimi Hendrix
+ 89: ( 2) - Mel & Kim
+ 90: ( 2) - Miracle Legion
+ 91: ( 2) - Peter Tosh
+ 92: ( 2) - Sam Fender
+ 93: ( 2) - Soft Cell
+ 94: ( 2) - Talking Heads
+ 95: ( 2) - The Church
+ 96: ( 2) - The Feelies
+ 97: ( 2) - The Housemartins
+ 98: ( 2) - The Psychedelic Furs
+ 99: ( 2) - The Sugarcubes
+100: ( 2) - The Weather Prophets
+101: ( 2) - The Wedding Present
+102: ( 2) - They Might Be Giants
+103: ( 2) - Toots and the Maytals
+104: ( 2) - World Party
+105: ( 2) - Yoko Ono
+106: ( 1) - Afel Bocoum
+107: ( 1) - B.A. Robertson
+108: ( 1) - B.E.F.
+109: ( 1) - Bonnie Tyler
+110: ( 1) - Brigid Mae Power
+111: ( 1) - Courtney Marie Andrews
+112: ( 1) - Cristina
+113: ( 1) - David Essex
+114: ( 1) - Depeche Mode
+115: ( 1) - Destroyer
+116: ( 1) - Deutsch Amerikanische Freundschaft
+117: ( 1) - Dinosaur Jr.
+118: ( 1) - Electric Light Orchestra
+119: ( 1) - Hüsker Dü
+120: ( 1) - Iggy Pop
+121: ( 1) - Jason Isbell and the 400 Unit
+122: ( 1) - Joe Jackson
+123: ( 1) - Joy Division
+124: ( 1) - Kate Bush
+125: ( 1) - Kevin Morby
+126: ( 1) - Lou Reed
+127: ( 1) - Lucinda Williams
+128: ( 1) - Manfred Mann
+129: ( 1) - Martha and the Muffins
+130: ( 1) - Nacho Video
+131: ( 1) - Peter Gabriel
+132: ( 1) - Phoebe Bridgers
+133: ( 1) - Rose City Band
+134: ( 1) - Scritti Politti
+135: ( 1) - Sing Karaoke Sing
+136: ( 1) - Slow Hands
+137: ( 1) - Stealers Wheel
+138: ( 1) - Stephen Malkmus
+139: ( 1) - Steve Harley
+140: ( 1) - Suzi Quatro
+141: ( 1) - The Allman Brothers Band
+142: ( 1) - The Chameleons
+143: ( 1) - The Clash
+144: ( 1) - The Fall
+145: ( 1) - The Human League
+146: ( 1) - The Jesus and Mary Chain
+147: ( 1) - The Lemonheads
+148: ( 1) - The Mighty Wah!
+149: ( 1) - The Replacements
+150: ( 1) - The Triffids
+151: ( 1) - Thepnutno2
+152: ( 1) - Thundercat
+153: ( 1) - Waxahatchee
+154: ( 1) - Young Marble Giants
