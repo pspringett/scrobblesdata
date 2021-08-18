@@ -1,8 +1,7 @@
 Specified year (2021), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     151            23            31            83
- 1: (62) - Wolf Alice
- 2: (19) - The Fall
+      99            23            31            83
+ 1: (27) - Wolf Alice
 
 
 
@@ -11,23 +10,31 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: (10) - Cocteau Twins
- 4: (10) - The Weather Station
- 5: ( 8) - Haim
- 6: ( 7) - Talking Heads
+
+
+
+
+
+
+
+ 2: (11) - The Fall
+ 3: (10) - The Weather Station
+ 4: ( 8) - Haim
+ 5: ( 7) - Talking Heads
+ 6: ( 6) - Cocteau Twins
  7: ( 6) - New Order
  8: ( 5) - Max Romeo
- 9: ( 4) - Marc Almond
-10: ( 3) - ABC
-11: ( 3) - Bob Marley & the Wailers
-12: ( 2) - Lump
-13: ( 2) - Scott Walker
-14: ( 1) - Andy Bell
-15: ( 1) - Chrissie Hynde
-16: ( 1) - Dawn Penn
-17: ( 1) - Gregory Isaacs
-18: ( 1) - My Bloody Valentine
-19: ( 1) - Peter Tosh
+ 9: ( 3) - Bob Marley & the Wailers
+10: ( 2) - ABC
+11: ( 2) - Marc Almond
+12: ( 1) - Andy Bell
+13: ( 1) - Chrissie Hynde
+14: ( 1) - Dawn Penn
+15: ( 1) - Gregory Isaacs
+16: ( 1) - Lump
+17: ( 1) - My Bloody Valentine
+18: ( 1) - Peter Tosh
+19: ( 1) - Scott Walker
 20: ( 1) - The Jesus and Mary Chain
 21: ( 1) - The Waterboys
 22: ( 1) - Throwing Muses

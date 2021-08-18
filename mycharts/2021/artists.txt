@@ -1,15 +1,15 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2027           163           245          1171
+    1975           163           245          1171
   1: (97) - The Rolling Stones
-  2: (86) - Wolf Alice
-  3: (70) - Paul Weller
-  4: (66) - The Beatles
-  5: (66) - U2
-  6: (65) - David Bowie
-  7: (61) - Echo & the Bunnymen
-  8: (54) - Lissie
-  9: (52) - Catatonia
+  2: (70) - Paul Weller
+  3: (66) - The Beatles
+  4: (66) - U2
+  5: (65) - David Bowie
+  6: (61) - Echo & the Bunnymen
+  7: (54) - Lissie
+  8: (52) - Catatonia
+  9: (51) - Wolf Alice
  10: (50) - Doves
  11: (49) - Bonnie Whitmore
  12: (49) - Orchestral Manoeuvres in the Dark
@@ -31,12 +31,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 22: (32) - Cocteau Twins
- 23: (32) - The Cure
- 24: (31) - Yazoo
+ 22: (32) - The Cure
+ 23: (31) - Yazoo
 
 
-
+ 24: (28) - Cocteau Twins
  25: (27) - Martin Stephenson
  26: (27) - Roxy Music
 
@@ -48,24 +47,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  31: (22) - Talking Heads
  32: (22) - The Velvet Underground
  33: (21) - Laura Marling
- 34: (20) - The Fall
 
 
- 35: (17) - Eliza Gilkyson
- 36: (17) - Magazine
- 37: (16) - Haim
- 38: (16) - Hem
- 39: (16) - Scott Walker
- 40: (15) - Buffy Sainte-marie
- 41: (15) - Inhaler
- 42: (14) - Elvis Costello
- 43: (14) - Prefab Sprout
- 44: (14) - R.E.M.
- 45: (14) - The Style Council
- 46: (13) - Emma Swift
- 47: (12) - New Order
- 48: (12) - Rosanne Cash
- 49: (12) - Shelby Lynne
+
+ 34: (17) - Eliza Gilkyson
+ 35: (17) - Magazine
+ 36: (16) - Haim
+ 37: (16) - Hem
+ 38: (15) - Buffy Sainte-marie
+ 39: (15) - Inhaler
+ 40: (15) - Scott Walker
+ 41: (14) - Elvis Costello
+ 42: (14) - Prefab Sprout
+ 43: (14) - R.E.M.
+ 44: (14) - The Style Council
+ 45: (13) - Emma Swift
+ 46: (12) - New Order
+ 47: (12) - Rosanne Cash
+ 48: (12) - Shelby Lynne
+ 49: (12) - The Fall
  50: (12) - The Go-Betweens
  51: (11) - Max Romeo
  52: (10) - David Byrne
@@ -82,77 +82,77 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  63: ( 6) - Angie Palmer
  64: ( 6) - Chrissie Hynde
  65: ( 6) - Leonard Cohen
- 66: ( 5) - ABC
- 67: ( 5) - Nick Heyward
- 68: ( 5) - The Waterboys
- 69: ( 5) - Tift Merritt
+ 66: ( 5) - Nick Heyward
+ 67: ( 5) - The Waterboys
+ 68: ( 5) - Tift Merritt
+ 69: ( 4) - ABC
  70: ( 4) - Aztec Camera
  71: ( 4) - Gang of Four
- 72: ( 4) - Marc Almond
- 73: ( 4) - Mark Knopfler & Emmylou Harris
- 74: ( 4) - Philscreen
- 75: ( 4) - Pixies
- 76: ( 4) - Roddy Frame
- 77: ( 4) - Spandau Ballet
- 78: ( 4) - The Civil Wars
- 79: ( 4) - Tom Robinson Band
- 80: ( 3) - Chaka Khan
- 81: ( 3) - Dawn Penn
- 82: ( 3) - Emmylou Harris
- 83: ( 3) - Gregory Isaacs
- 84: ( 3) - Jan Garbarek
- 85: ( 3) - Lyle Lovett
- 86: ( 3) - Madness
- 87: ( 3) - Peter Tosh
- 88: ( 3) - Pretenders
- 89: ( 3) - Prince
- 90: ( 3) - T. Rex
- 91: ( 3) - The Piney Gir Country Roadshow
- 92: ( 3) - Toots and the Maytals
- 93: ( 2) - Altered Images
- 94: ( 2) - Dry Cleaning
- 95: ( 2) - Elton John
- 96: ( 2) - Fleetwood Mac
- 97: ( 2) - Jimi Hendrix
- 98: ( 2) - Lump
- 99: ( 2) - Mel & Kim
-100: ( 2) - Miracle Legion
-101: ( 2) - Sam Fender
-102: ( 2) - Soft Cell
-103: ( 2) - The Church
-104: ( 2) - The Feelies
-105: ( 2) - The Housemartins
-106: ( 2) - The Jesus and Mary Chain
-107: ( 2) - The Psychedelic Furs
-108: ( 2) - The Sugarcubes
-109: ( 2) - The Weather Prophets
-110: ( 2) - The Wedding Present
-111: ( 2) - They Might Be Giants
-112: ( 2) - World Party
-113: ( 2) - Yoko Ono
-114: ( 1) - Afel Bocoum
-115: ( 1) - Andy Bell
-116: ( 1) - B.A. Robertson
-117: ( 1) - B.E.F.
-118: ( 1) - Bonnie Tyler
-119: ( 1) - Brigid Mae Power
-120: ( 1) - Courtney Marie Andrews
-121: ( 1) - Cristina
-122: ( 1) - David Essex
-123: ( 1) - Depeche Mode
-124: ( 1) - Destroyer
-125: ( 1) - Deutsch Amerikanische Freundschaft
-126: ( 1) - Dinosaur Jr.
-127: ( 1) - Electric Light Orchestra
-128: ( 1) - Hüsker Dü
-129: ( 1) - Iggy Pop
-130: ( 1) - Jason Isbell and the 400 Unit
-131: ( 1) - Joe Jackson
-132: ( 1) - Joy Division
-133: ( 1) - Kate Bush
-134: ( 1) - Kevin Morby
-135: ( 1) - Lou Reed
-136: ( 1) - Lucinda Williams
+ 72: ( 4) - Mark Knopfler & Emmylou Harris
+ 73: ( 4) - Philscreen
+ 74: ( 4) - Pixies
+ 75: ( 4) - Roddy Frame
+ 76: ( 4) - Spandau Ballet
+ 77: ( 4) - The Civil Wars
+ 78: ( 4) - Tom Robinson Band
+ 79: ( 3) - Chaka Khan
+ 80: ( 3) - Dawn Penn
+ 81: ( 3) - Emmylou Harris
+ 82: ( 3) - Gregory Isaacs
+ 83: ( 3) - Jan Garbarek
+ 84: ( 3) - Lyle Lovett
+ 85: ( 3) - Madness
+ 86: ( 3) - Peter Tosh
+ 87: ( 3) - Pretenders
+ 88: ( 3) - Prince
+ 89: ( 3) - T. Rex
+ 90: ( 3) - The Piney Gir Country Roadshow
+ 91: ( 3) - Toots and the Maytals
+ 92: ( 2) - Altered Images
+ 93: ( 2) - Dry Cleaning
+ 94: ( 2) - Elton John
+ 95: ( 2) - Fleetwood Mac
+ 96: ( 2) - Jimi Hendrix
+ 97: ( 2) - Marc Almond
+ 98: ( 2) - Mel & Kim
+ 99: ( 2) - Miracle Legion
+100: ( 2) - Sam Fender
+101: ( 2) - Soft Cell
+102: ( 2) - The Church
+103: ( 2) - The Feelies
+104: ( 2) - The Housemartins
+105: ( 2) - The Jesus and Mary Chain
+106: ( 2) - The Psychedelic Furs
+107: ( 2) - The Sugarcubes
+108: ( 2) - The Weather Prophets
+109: ( 2) - The Wedding Present
+110: ( 2) - They Might Be Giants
+111: ( 2) - World Party
+112: ( 2) - Yoko Ono
+113: ( 1) - Afel Bocoum
+114: ( 1) - Andy Bell
+115: ( 1) - B.A. Robertson
+116: ( 1) - B.E.F.
+117: ( 1) - Bonnie Tyler
+118: ( 1) - Brigid Mae Power
+119: ( 1) - Courtney Marie Andrews
+120: ( 1) - Cristina
+121: ( 1) - David Essex
+122: ( 1) - Depeche Mode
+123: ( 1) - Destroyer
+124: ( 1) - Deutsch Amerikanische Freundschaft
+125: ( 1) - Dinosaur Jr.
+126: ( 1) - Electric Light Orchestra
+127: ( 1) - Hüsker Dü
+128: ( 1) - Iggy Pop
+129: ( 1) - Jason Isbell and the 400 Unit
+130: ( 1) - Joe Jackson
+131: ( 1) - Joy Division
+132: ( 1) - Kate Bush
+133: ( 1) - Kevin Morby
+134: ( 1) - Lou Reed
+135: ( 1) - Lucinda Williams
+136: ( 1) - Lump
 137: ( 1) - Manfred Mann
 138: ( 1) - Martha and the Muffins
 139: ( 1) - My Bloody Valentine
