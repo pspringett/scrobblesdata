@@ -1,10 +1,10 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2401           167           262          1298
+    2384           167           262          1298
   1: (113) - Echo & the Bunnymen
   2: (108) - New Order
   3: ( 97) - The Rolling Stones
-  4: ( 85) - Everything But the Girl
+  4: ( 73) - Everything But the Girl
   5: ( 70) - Paul Weller
   6: ( 66) - The Beatles
   7: ( 66) - U2
@@ -34,12 +34,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  24: ( 36) - Simple Minds
  25: ( 35) - The Mighty Wah!
 
- 26: ( 33) - Altered Images
- 27: ( 33) - The Velvet Underground
- 28: ( 32) - The Cure
- 29: ( 31) - Yazoo
+ 26: ( 33) - The Velvet Underground
+ 27: ( 32) - The Cure
+ 28: ( 31) - Yazoo
 
 
+ 29: ( 28) - Altered Images
  30: ( 28) - Bill Frisell
  31: ( 28) - Cocteau Twins
  32: ( 28) - Inhaler
