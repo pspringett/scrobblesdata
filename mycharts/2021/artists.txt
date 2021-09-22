@@ -1,14 +1,14 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2346           167           261          1285
+    2401           167           262          1298
   1: (113) - Echo & the Bunnymen
   2: (108) - New Order
   3: ( 97) - The Rolling Stones
-  4: ( 70) - Paul Weller
-  5: ( 66) - The Beatles
-  6: ( 66) - U2
-  7: ( 65) - David Bowie
-  8: ( 61) - Everything But the Girl
+  4: ( 85) - Everything But the Girl
+  5: ( 70) - Paul Weller
+  6: ( 66) - The Beatles
+  7: ( 66) - U2
+  8: ( 65) - David Bowie
   9: ( 56) - Wolf Alice
  10: ( 54) - Lissie
  11: ( 52) - Catatonia
@@ -34,86 +34,86 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  24: ( 36) - Simple Minds
  25: ( 35) - The Mighty Wah!
 
- 26: ( 33) - The Velvet Underground
- 27: ( 32) - The Cure
- 28: ( 31) - Yazoo
+ 26: ( 33) - Altered Images
+ 27: ( 33) - The Velvet Underground
+ 28: ( 32) - The Cure
+ 29: ( 31) - Yazoo
 
 
- 29: ( 28) - Bill Frisell
- 30: ( 28) - Cocteau Twins
- 31: ( 28) - Inhaler
- 32: ( 27) - Roxy Music
- 33: ( 27) - Talking Heads
+ 30: ( 28) - Bill Frisell
+ 31: ( 28) - Cocteau Twins
+ 32: ( 28) - Inhaler
+ 33: ( 27) - Roxy Music
+ 34: ( 27) - Talking Heads
 
- 34: ( 25) - Elvis Costello & the Attractions
+ 35: ( 25) - Elvis Costello & the Attractions
 
- 35: ( 23) - Piney Gir
- 36: ( 23) - Siouxsie and the Banshees
- 37: ( 23) - Suzanne Vega
+ 36: ( 23) - Piney Gir
+ 37: ( 23) - Siouxsie and the Banshees
+ 38: ( 23) - Suzanne Vega
 
- 38: ( 21) - Laura Marling
+ 39: ( 21) - Laura Marling
 
- 39: ( 19) - Jimi Hendrix
+ 40: ( 19) - Jimi Hendrix
 
- 40: ( 17) - Eliza Gilkyson
- 41: ( 17) - Magazine
- 42: ( 16) - Haim
- 43: ( 16) - Hem
- 44: ( 15) - Buffy Sainte-marie
- 45: ( 15) - Scott Walker
- 46: ( 15) - The Fall
- 47: ( 14) - Elvis Costello
- 48: ( 14) - Prefab Sprout
- 49: ( 14) - R.E.M.
- 50: ( 14) - The Style Council
- 51: ( 13) - Emma Swift
- 52: ( 12) - Rosanne Cash
- 53: ( 12) - Shelby Lynne
- 54: ( 12) - The Go-Betweens
- 55: ( 11) - Max Romeo
- 56: ( 10) - David Byrne
- 57: ( 10) - Natalie Prass
- 58: ( 10) - Paul McCartney
- 59: ( 10) - The Associates
- 60: (  9) - Josh Ritter
- 61: (  9) - Orange Juice
- 62: (  8) - Bob Marley & the Wailers
- 63: (  8) - Edwyn Collins
- 64: (  8) - Various
- 65: (  7) - Mike Oldfield
- 66: (  7) - The Jam
- 67: (  6) - Angie Palmer
- 68: (  6) - Chrissie Hynde
- 69: (  6) - Leonard Cohen
- 70: (  6) - Sing Karaoke Sing
- 71: (  5) - Nick Heyward
- 72: (  5) - The Waterboys
- 73: (  5) - Tift Merritt
- 74: (  4) - ABC
- 75: (  4) - Aztec Camera
- 76: (  4) - Gang of Four
- 77: (  4) - Mark Knopfler & Emmylou Harris
- 78: (  4) - Philscreen
- 79: (  4) - Pixies
- 80: (  4) - Roddy Frame
- 81: (  4) - Spandau Ballet
- 82: (  4) - The Civil Wars
- 83: (  4) - Tom Robinson Band
- 84: (  3) - Chaka Khan
- 85: (  3) - Dawn Penn
- 86: (  3) - Emmylou Harris
- 87: (  3) - Gregory Isaacs
- 88: (  3) - Jan Garbarek
- 89: (  3) - Joy Division
- 90: (  3) - Lyle Lovett
- 91: (  3) - Madness
- 92: (  3) - Peter Tosh
- 93: (  3) - Pretenders
- 94: (  3) - Prince
- 95: (  3) - T. Rex
- 96: (  3) - The Piney Gir Country Roadshow
- 97: (  3) - Toots and the Maytals
- 98: (  2) - Altered Images
+ 41: ( 17) - Eliza Gilkyson
+ 42: ( 17) - Magazine
+ 43: ( 16) - Haim
+ 44: ( 16) - Hem
+ 45: ( 15) - Buffy Sainte-marie
+ 46: ( 15) - Scott Walker
+ 47: ( 15) - The Fall
+ 48: ( 14) - Elvis Costello
+ 49: ( 14) - Prefab Sprout
+ 50: ( 14) - R.E.M.
+ 51: ( 14) - The Style Council
+ 52: ( 13) - Emma Swift
+ 53: ( 12) - Rosanne Cash
+ 54: ( 12) - Shelby Lynne
+ 55: ( 12) - The Go-Betweens
+ 56: ( 11) - Max Romeo
+ 57: ( 10) - David Byrne
+ 58: ( 10) - Natalie Prass
+ 59: ( 10) - Paul McCartney
+ 60: ( 10) - The Associates
+ 61: (  9) - Josh Ritter
+ 62: (  9) - Orange Juice
+ 63: (  8) - Bob Marley & the Wailers
+ 64: (  8) - Edwyn Collins
+ 65: (  8) - Various
+ 66: (  7) - Mike Oldfield
+ 67: (  7) - The Jam
+ 68: (  6) - Angie Palmer
+ 69: (  6) - Chrissie Hynde
+ 70: (  6) - Leonard Cohen
+ 71: (  6) - Sing Karaoke Sing
+ 72: (  5) - Nick Heyward
+ 73: (  5) - The Waterboys
+ 74: (  5) - Tift Merritt
+ 75: (  4) - ABC
+ 76: (  4) - Aztec Camera
+ 77: (  4) - Gang of Four
+ 78: (  4) - Mark Knopfler & Emmylou Harris
+ 79: (  4) - Philscreen
+ 80: (  4) - Pixies
+ 81: (  4) - Roddy Frame
+ 82: (  4) - Spandau Ballet
+ 83: (  4) - The Civil Wars
+ 84: (  4) - Tom Robinson Band
+ 85: (  3) - Chaka Khan
+ 86: (  3) - Dawn Penn
+ 87: (  3) - Emmylou Harris
+ 88: (  3) - Gregory Isaacs
+ 89: (  3) - Jan Garbarek
+ 90: (  3) - Joy Division
+ 91: (  3) - Lyle Lovett
+ 92: (  3) - Madness
+ 93: (  3) - Peter Tosh
+ 94: (  3) - Pretenders
+ 95: (  3) - Prince
+ 96: (  3) - T. Rex
+ 97: (  3) - The Piney Gir Country Roadshow
+ 98: (  3) - Toots and the Maytals
  99: (  2) - Dry Cleaning
 100: (  2) - Elton John
 101: (  2) - Fleetwood Mac
