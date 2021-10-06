@@ -1,32 +1,27 @@
 Specified year (2021), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     300            12            24           138
+     419            19            33           218
  1: (96) - New Order
  2: (73) - Everything But the Girl
- 3: (52) - Echo & the Bunnymen
- 4: (26) - Altered Images
+ 3: (65) - Echo & the Bunnymen
+ 4: (53) - Altered Images
+ 5: (21) - Talking Heads
+ 6: (20) - Led Zeppelin
 
 
+ 7: (17) - Jimi Hendrix
+
+ 8: (15) - Lloyd Cole and the Commotions
+ 9: (14) - Bob Dylan
 
 
-
-
-
-
- 5: (17) - Jimi Hendrix
-
- 6: (15) - Lloyd Cole and the Commotions
-
-
-
- 7: (11) - The Velvet Underground
-
-
-
-
-
- 8: ( 5) - Talking Heads
- 9: ( 2) - Joy Division
-10: ( 1) - The Clash
-11: ( 1) - The Stooges
-12: ( 1) - The Who
+10: (11) - Buffy Sainte-marie
+11: (11) - The Velvet Underground
+12: (10) - The Rolling Stones
+13: ( 4) - Brigid Mae Power
+14: ( 3) - Lloyd Cole
+15: ( 2) - Joy Division
+16: ( 1) - Bandsplain
+17: ( 1) - The Clash
+18: ( 1) - The Stooges
+19: ( 1) - The Who
