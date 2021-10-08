@@ -1,19 +1,19 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2608           180           279          1387
+    2697           180           282          1420
   1: (126) - Echo & the Bunnymen
   2: (108) - New Order
   3: (107) - The Rolling Stones
-  4: ( 77) - Altered Images
-  5: ( 73) - Everything But the Girl
-  6: ( 70) - Paul Weller
-  7: ( 66) - The Beatles
-  8: ( 66) - U2
-  9: ( 65) - David Bowie
- 10: ( 60) - Bob Dylan
- 11: ( 56) - Wolf Alice
- 12: ( 54) - Lissie
- 13: ( 52) - Catatonia
+  4: ( 88) - Altered Images
+  5: ( 74) - David Bowie
+  6: ( 74) - U2
+  7: ( 73) - Everything But the Girl
+  8: ( 70) - Paul Weller
+  9: ( 69) - Bob Dylan
+ 10: ( 66) - The Beatles
+ 11: ( 65) - Catatonia
+ 12: ( 56) - Wolf Alice
+ 13: ( 54) - Lissie
  14: ( 52) - Lloyd Cole and the Commotions
  15: ( 51) - Lloyd Cole
  16: ( 50) - Doves
@@ -25,41 +25,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  22: ( 45) - The Weather Station
  23: ( 44) - Chip Taylor & Carrie Rodriguez
- 24: ( 43) - Talking Heads
+ 24: ( 44) - Talking Heads
+
  25: ( 42) - The Smiths
 
 
+ 26: ( 39) - Inhaler
 
 
+ 27: ( 36) - Simple Minds
+ 28: ( 35) - Cocteau Twins
+ 29: ( 35) - The Mighty Wah!
 
- 26: ( 36) - Simple Minds
- 27: ( 35) - Cocteau Twins
- 28: ( 35) - The Mighty Wah!
-
- 29: ( 33) - The Velvet Underground
- 30: ( 32) - The Cure
- 31: ( 31) - Yazoo
+ 30: ( 33) - The Velvet Underground
+ 31: ( 32) - The Cure
+ 32: ( 31) - T. Rex
+ 33: ( 31) - Yazoo
 
 
- 32: ( 28) - Bill Frisell
- 33: ( 28) - Inhaler
- 34: ( 27) - Roxy Music
- 35: ( 26) - Buffy Sainte-marie
- 36: ( 25) - Elvis Costello & the Attractions
+ 34: ( 28) - Bill Frisell
+ 35: ( 27) - Roxy Music
+ 36: ( 26) - Buffy Sainte-marie
+ 37: ( 25) - Elvis Costello & the Attractions
 
- 37: ( 23) - Piney Gir
- 38: ( 23) - Siouxsie and the Banshees
- 39: ( 23) - Suzanne Vega
+ 38: ( 23) - Piney Gir
+ 39: ( 23) - Siouxsie and the Banshees
+ 40: ( 23) - Suzanne Vega
 
- 40: ( 21) - Laura Marling
- 41: ( 20) - Led Zeppelin
- 42: ( 19) - Jimi Hendrix
+ 41: ( 21) - Laura Marling
+ 42: ( 20) - Led Zeppelin
+ 43: ( 19) - Jimi Hendrix
 
- 43: ( 17) - Eliza Gilkyson
- 44: ( 17) - Magazine
- 45: ( 16) - Haim
- 46: ( 16) - Hem
- 47: ( 16) - T. Rex
+ 44: ( 17) - Eliza Gilkyson
+ 45: ( 17) - Magazine
+ 46: ( 16) - Haim
+ 47: ( 16) - Hem
  48: ( 15) - Scott Walker
  49: ( 15) - The Fall
  50: ( 14) - Elvis Costello
@@ -77,40 +77,40 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  62: ( 10) - Paul McCartney
  63: ( 10) - The Associates
  64: (  9) - Josh Ritter
- 65: (  9) - Orange Juice
- 66: (  8) - Bob Marley & the Wailers
- 67: (  8) - Edwyn Collins
- 68: (  8) - Various
- 69: (  7) - Kurt Vile
+ 65: (  9) - Kurt Vile
+ 66: (  9) - Orange Juice
+ 67: (  8) - Bob Marley & the Wailers
+ 68: (  8) - Edwyn Collins
+ 69: (  8) - Various
  70: (  7) - Mike Oldfield
  71: (  7) - The Jam
  72: (  6) - Angie Palmer
  73: (  6) - Chrissie Hynde
- 74: (  6) - Leonard Cohen
- 75: (  6) - Sing Karaoke Sing
- 76: (  5) - Brigid Mae Power
- 77: (  5) - Courtney Barnett
- 78: (  5) - Iggy Pop
- 79: (  5) - Michael Stipe
- 80: (  5) - Nick Heyward
- 81: (  5) - The Waterboys
- 82: (  5) - Tift Merritt
- 83: (  4) - ABC
- 84: (  4) - Andrew Bird
- 85: (  4) - Aztec Camera
- 86: (  4) - Fontaines D.c.
- 87: (  4) - Gang of Four
- 88: (  4) - King Princess
- 89: (  4) - Mark Knopfler & Emmylou Harris
- 90: (  4) - Matt Berninger
- 91: (  4) - Philscreen
- 92: (  4) - Pixies
- 93: (  4) - Roddy Frame
- 94: (  4) - Sharon Van Etten
- 95: (  4) - Spandau Ballet
- 96: (  4) - St. Vincent
- 97: (  4) - The Civil Wars
- 98: (  4) - Thurston Moore
+ 74: (  6) - Courtney Barnett
+ 75: (  6) - Iggy Pop
+ 76: (  6) - Leonard Cohen
+ 77: (  6) - Michael Stipe
+ 78: (  6) - Sing Karaoke Sing
+ 79: (  5) - Andrew Bird
+ 80: (  5) - Brigid Mae Power
+ 81: (  5) - Fontaines D.c.
+ 82: (  5) - King Princess
+ 83: (  5) - Matt Berninger
+ 84: (  5) - Nick Heyward
+ 85: (  5) - Sharon Van Etten
+ 86: (  5) - St. Vincent
+ 87: (  5) - The Waterboys
+ 88: (  5) - Thurston Moore
+ 89: (  5) - Tift Merritt
+ 90: (  4) - ABC
+ 91: (  4) - Aztec Camera
+ 92: (  4) - Gang of Four
+ 93: (  4) - Mark Knopfler & Emmylou Harris
+ 94: (  4) - Philscreen
+ 95: (  4) - Pixies
+ 96: (  4) - Roddy Frame
+ 97: (  4) - Spandau Ballet
+ 98: (  4) - The Civil Wars
  99: (  4) - Tom Robinson Band
 100: (  3) - Chaka Khan
 101: (  3) - Dawn Penn
