@@ -1,6 +1,6 @@
 Specified year (2021), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     194            22            21           110
+     207            23            22           123
  1: (33) - Altered Images
 
 
@@ -23,23 +23,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  3: (13) - Bob Dylan
  4: (13) - Catatonia
+ 5: (13) - Elvis Costello & the Attractions
 
- 5: (11) - Inhaler
+ 6: (11) - Inhaler
 
- 6: ( 9) - B.E.F.
- 7: ( 9) - David Bowie
- 8: ( 9) - Kurt Vile
- 9: ( 8) - U2
-10: ( 7) - Cocteau Twins
-11: ( 6) - Courtney Barnett
-12: ( 6) - Michael Stipe
-13: ( 5) - Andrew Bird
-14: ( 5) - Fontaines D.c.
-15: ( 5) - Iggy Pop
-16: ( 5) - King Princess
-17: ( 5) - Matt Berninger
-18: ( 5) - Sharon Van Etten
-19: ( 5) - St. Vincent
-20: ( 5) - Thurston Moore
-21: ( 1) - Talking Heads
-22: ( 1) - This Mortal Coil
+ 7: ( 9) - B.E.F.
+ 8: ( 9) - David Bowie
+ 9: ( 9) - Kurt Vile
+10: ( 8) - U2
+11: ( 7) - Cocteau Twins
+12: ( 6) - Courtney Barnett
+13: ( 6) - Michael Stipe
+14: ( 5) - Andrew Bird
+15: ( 5) - Fontaines D.c.
+16: ( 5) - Iggy Pop
+17: ( 5) - King Princess
+18: ( 5) - Matt Berninger
+19: ( 5) - Sharon Van Etten
+20: ( 5) - St. Vincent
+21: ( 5) - Thurston Moore
+22: ( 1) - Talking Heads
+23: ( 1) - This Mortal Coil
