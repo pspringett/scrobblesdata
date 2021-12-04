@@ -1,195 +1,226 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2710           180           283          1433
-  1: (126) - Echo & the Bunnymen
-  2: (108) - New Order
-  3: (107) - The Rolling Stones
-  4: ( 88) - Altered Images
-  5: ( 74) - David Bowie
-  6: ( 74) - U2
-  7: ( 73) - Everything But the Girl
-  8: ( 70) - Paul Weller
-  9: ( 69) - Bob Dylan
- 10: ( 66) - The Beatles
- 11: ( 65) - Catatonia
- 12: ( 56) - Wolf Alice
- 13: ( 54) - Lissie
- 14: ( 52) - Lloyd Cole and the Commotions
- 15: ( 51) - Lloyd Cole
- 16: ( 50) - Doves
- 17: ( 49) - Bonnie Whitmore
- 18: ( 49) - Orchestral Manoeuvres in the Dark
- 19: ( 48) - Fleet Foxes
- 20: ( 48) - Martin Stephenson
- 21: ( 47) - First Aid Kit
+    3109           212           326          1597
+  1: (144) - U2
+  2: (126) - Echo & the Bunnymen
+  3: (108) - New Order
+  4: (107) - The Rolling Stones
+  5: ( 97) - Lloyd Cole and the Commotions
+  6: ( 88) - Altered Images
+  7: ( 85) - David Bowie
+  8: ( 73) - Everything But the Girl
+  9: ( 73) - Paul Weller
+ 10: ( 70) - Bob Dylan
+ 11: ( 66) - The Beatles
+ 12: ( 65) - Catatonia
+ 13: ( 56) - Wolf Alice
+ 14: ( 54) - Lissie
+ 15: ( 54) - The Weather Station
+ 16: ( 51) - Lloyd Cole
+ 17: ( 50) - Doves
+ 18: ( 49) - Bonnie Whitmore
+ 19: ( 49) - Cocteau Twins
+ 20: ( 49) - Orchestral Manoeuvres in the Dark
+ 21: ( 48) - Fleet Foxes
+ 22: ( 48) - Martin Stephenson
+ 23: ( 47) - First Aid Kit
+ 24: ( 46) - Simple Minds
 
- 22: ( 45) - The Weather Station
- 23: ( 44) - Chip Taylor & Carrie Rodriguez
- 24: ( 44) - Talking Heads
+ 25: ( 44) - Chip Taylor & Carrie Rodriguez
+ 26: ( 44) - Talking Heads
 
- 25: ( 42) - The Smiths
+ 27: ( 42) - Robert Plant
+ 28: ( 42) - The Smiths
 
+ 29: ( 40) - Inhaler
 
- 26: ( 39) - Inhaler
- 27: ( 38) - Elvis Costello & the Attractions
-
- 28: ( 36) - Simple Minds
- 29: ( 35) - Cocteau Twins
- 30: ( 35) - The Mighty Wah!
-
- 31: ( 33) - The Velvet Underground
- 32: ( 32) - The Cure
- 33: ( 31) - T. Rex
- 34: ( 31) - Yazoo
+ 30: ( 38) - Elvis Costello & the Attractions
 
 
- 35: ( 28) - Bill Frisell
- 36: ( 27) - Roxy Music
- 37: ( 26) - Buffy Sainte-marie
+ 31: ( 35) - The Mighty Wah!
+ 32: ( 34) - T. Rex
+ 33: ( 33) - The Velvet Underground
+ 34: ( 32) - The Cure
+ 35: ( 31) - B.E.F.
+ 36: ( 31) - Yazoo
 
 
- 38: ( 23) - Piney Gir
- 39: ( 23) - Siouxsie and the Banshees
- 40: ( 23) - Suzanne Vega
+ 37: ( 28) - Bill Frisell
+ 38: ( 28) - The Felice Brothers
+ 39: ( 27) - Roxy Music
+ 40: ( 26) - Buffy Sainte-marie
 
- 41: ( 21) - Laura Marling
- 42: ( 20) - Led Zeppelin
- 43: ( 19) - Jimi Hendrix
+ 41: ( 24) - Emma Swift
+ 42: ( 23) - Piney Gir
+ 43: ( 23) - Siouxsie and the Banshees
+ 44: ( 23) - Suzanne Vega
 
- 44: ( 17) - Eliza Gilkyson
- 45: ( 17) - Magazine
- 46: ( 16) - Haim
- 47: ( 16) - Hem
- 48: ( 15) - Scott Walker
- 49: ( 15) - The Fall
- 50: ( 14) - Elvis Costello
- 51: ( 14) - Prefab Sprout
- 52: ( 14) - R.E.M.
- 53: ( 14) - The Style Council
- 54: ( 13) - Emma Swift
- 55: ( 12) - Rosanne Cash
- 56: ( 12) - Shelby Lynne
- 57: ( 12) - The Go-Betweens
- 58: ( 11) - Max Romeo
- 59: ( 10) - B.E.F.
- 60: ( 10) - David Byrne
- 61: ( 10) - Natalie Prass
- 62: ( 10) - Paul McCartney
- 63: ( 10) - The Associates
- 64: (  9) - Josh Ritter
- 65: (  9) - Kurt Vile
- 66: (  9) - Orange Juice
- 67: (  8) - Bob Marley & the Wailers
- 68: (  8) - Edwyn Collins
- 69: (  8) - Various
- 70: (  7) - Mike Oldfield
- 71: (  7) - The Jam
- 72: (  6) - Angie Palmer
- 73: (  6) - Chrissie Hynde
- 74: (  6) - Courtney Barnett
- 75: (  6) - Iggy Pop
- 76: (  6) - Leonard Cohen
- 77: (  6) - Michael Stipe
- 78: (  6) - Sing Karaoke Sing
- 79: (  5) - Andrew Bird
- 80: (  5) - Brigid Mae Power
- 81: (  5) - Fontaines D.c.
- 82: (  5) - King Princess
- 83: (  5) - Matt Berninger
- 84: (  5) - Nick Heyward
- 85: (  5) - Sharon Van Etten
- 86: (  5) - St. Vincent
- 87: (  5) - The Waterboys
- 88: (  5) - Thurston Moore
- 89: (  5) - Tift Merritt
- 90: (  4) - ABC
- 91: (  4) - Aztec Camera
- 92: (  4) - Gang of Four
- 93: (  4) - Mark Knopfler & Emmylou Harris
- 94: (  4) - Philscreen
- 95: (  4) - Pixies
- 96: (  4) - Roddy Frame
- 97: (  4) - Spandau Ballet
- 98: (  4) - The Civil Wars
- 99: (  4) - Tom Robinson Band
-100: (  3) - Chaka Khan
-101: (  3) - Dawn Penn
-102: (  3) - Emmylou Harris
-103: (  3) - Gregory Isaacs
-104: (  3) - Jan Garbarek
-105: (  3) - Joy Division
-106: (  3) - Lyle Lovett
-107: (  3) - Madness
-108: (  3) - Peter Tosh
-109: (  3) - Pretenders
-110: (  3) - Prince
-111: (  3) - The Piney Gir Country Roadshow
-112: (  3) - Toots and the Maytals
-113: (  2) - Dry Cleaning
-114: (  2) - Elton John
-115: (  2) - Fleetwood Mac
-116: (  2) - Marc Almond
-117: (  2) - Mel & Kim
-118: (  2) - Miracle Legion
-119: (  2) - Sam Fender
-120: (  2) - Soft Cell
-121: (  2) - The Church
-122: (  2) - The Clash
-123: (  2) - The Feelies
-124: (  2) - The Housemartins
-125: (  2) - The Jesus and Mary Chain
-126: (  2) - The Psychedelic Furs
-127: (  2) - The Sugarcubes
-128: (  2) - The Weather Prophets
-129: (  2) - The Wedding Present
-130: (  2) - They Might Be Giants
-131: (  2) - World Party
-132: (  2) - Yoko Ono
-133: (  1) - Afel Bocoum
-134: (  1) - Andy Bell
-135: (  1) - B.A. Robertson
-136: (  1) - Bandsplain
-137: (  1) - Bonnie Tyler
-138: (  1) - Courtney Marie Andrews
-139: (  1) - Cristina
-140: (  1) - David Essex
-141: (  1) - Depeche Mode
-142: (  1) - Destroyer
-143: (  1) - Deutsch Amerikanische Freundschaft
-144: (  1) - Dinosaur Jr.
-145: (  1) - Electric Light Orchestra
-146: (  1) - Hüsker Dü
-147: (  1) - Jason Isbell and the 400 Unit
-148: (  1) - Joe Jackson
-149: (  1) - Kate Bush
-150: (  1) - Kevin Morby
-151: (  1) - Lou Reed
-152: (  1) - Lucinda Williams
-153: (  1) - Lump
-154: (  1) - Manfred Mann
-155: (  1) - Martha and the Muffins
-156: (  1) - My Bloody Valentine
-157: (  1) - Nacho Video
-158: (  1) - Peter Gabriel
-159: (  1) - Phoebe Bridgers
-160: (  1) - Rose City Band
-161: (  1) - Scritti Politti
-162: (  1) - Slow Hands
-163: (  1) - Stealers Wheel
-164: (  1) - Stephen Malkmus
-165: (  1) - Steve Harley
-166: (  1) - Suzi Quatro
-167: (  1) - The Allman Brothers Band
-168: (  1) - The Chameleons
-169: (  1) - The Human League
-170: (  1) - The Lemonheads
-171: (  1) - The Replacements
-172: (  1) - The Stooges
-173: (  1) - The Triffids
-174: (  1) - The Who
-175: (  1) - Thepnutno2
-176: (  1) - This Mortal Coil
-177: (  1) - Throwing Muses
-178: (  1) - Thundercat
-179: (  1) - Waxahatchee
-180: (  1) - Young Marble Giants
+ 45: ( 21) - Laura Marling
+ 46: ( 20) - Led Zeppelin
+ 47: ( 19) - Jimi Hendrix
+
+ 48: ( 17) - Courtney Barnett
+ 49: ( 17) - Eliza Gilkyson
+ 50: ( 17) - Magazine
+ 51: ( 17) - Michael Stipe
+ 52: ( 17) - Nick Heyward
+ 53: ( 16) - Bauhaus
+ 54: ( 16) - Haim
+ 55: ( 16) - Hem
+ 56: ( 15) - R.E.M.
+ 57: ( 15) - Scott Walker
+ 58: ( 15) - The Fall
+ 59: ( 14) - Elvis Costello
+ 60: ( 14) - Prefab Sprout
+ 61: ( 14) - The Style Council
+ 62: ( 13) - Kurt Vile
+ 63: ( 12) - Rosanne Cash
+ 64: ( 12) - Shelby Lynne
+ 65: ( 12) - The Go-Betweens
+ 66: ( 11) - Max Romeo
+ 67: ( 11) - Mike Oldfield
+ 68: ( 10) - David Byrne
+ 69: ( 10) - Matt Berninger
+ 70: ( 10) - Natalie Prass
+ 71: ( 10) - Paul McCartney
+ 72: ( 10) - The Associates
+ 73: (  9) - Josh Ritter
+ 74: (  9) - Orange Juice
+ 75: (  8) - Andrew Bird
+ 76: (  8) - Bob Marley & the Wailers
+ 77: (  8) - Edwyn Collins
+ 78: (  8) - Sharon Van Etten
+ 79: (  8) - Various
+ 80: (  7) - Iggy Pop
+ 81: (  7) - St. Vincent
+ 82: (  7) - The Jam
+ 83: (  6) - Angie Palmer
+ 84: (  6) - Chrissie Hynde
+ 85: (  6) - Fontaines D.c.
+ 86: (  6) - King Princess
+ 87: (  6) - Leonard Cohen
+ 88: (  6) - Sing Karaoke Sing
+ 89: (  6) - Thurston Moore
+ 90: (  5) - Brigid Mae Power
+ 91: (  5) - The Waterboys
+ 92: (  5) - Tift Merritt
+ 93: (  4) - ABC
+ 94: (  4) - Aztec Camera
+ 95: (  4) - Bing Crosby
+ 96: (  4) - Elton John
+ 97: (  4) - Gang of Four
+ 98: (  4) - Mark Knopfler & Emmylou Harris
+ 99: (  4) - Philscreen
+100: (  4) - Pixies
+101: (  4) - Pretenders
+102: (  4) - Roddy Frame
+103: (  4) - Spandau Ballet
+104: (  4) - The Civil Wars
+105: (  4) - Tom Robinson Band
+106: (  3) - Carrie Underwood
+107: (  3) - Chaka Khan
+108: (  3) - Dawn Penn
+109: (  3) - Emmylou Harris
+110: (  3) - Gregory Isaacs
+111: (  3) - Jan Garbarek
+112: (  3) - Joy Division
+113: (  3) - Lyle Lovett
+114: (  3) - Madness
+115: (  3) - Peter Tosh
+116: (  3) - Prince
+117: (  3) - The Piney Gir Country Roadshow
+118: (  3) - Toots and the Maytals
+119: (  2) - Ariana Grande
+120: (  2) - Band Aid
+121: (  2) - Chris De Burgh
+122: (  2) - Dry Cleaning
+123: (  2) - Eartha Kitt
+124: (  2) - Fleetwood Mac
+125: (  2) - John Lennon
+126: (  2) - John Williams
+127: (  2) - José Feliciano
+128: (  2) - Loudon Wainwright III
+129: (  2) - Marc Almond
+130: (  2) - Mel & Kim
+131: (  2) - Miracle Legion
+132: (  2) - Mud
+133: (  2) - Mykola Dmytrovych Leontovych
+134: (  2) - Nat King Cole
+135: (  2) - Sam Fender
+136: (  2) - Sam Smith
+137: (  2) - Sia
+138: (  2) - Slade
+139: (  2) - Soft Cell
+140: (  2) - Taylor Swift
+141: (  2) - The Church
+142: (  2) - The Clash
+143: (  2) - The Feelies
+144: (  2) - The Housemartins
+145: (  2) - The Jesus and Mary Chain
+146: (  2) - The Pale Fountains
+147: (  2) - The Pogues
+148: (  2) - The Psychedelic Furs
+149: (  2) - The Sugarcubes
+150: (  2) - The Weather Prophets
+151: (  2) - The Wedding Present
+152: (  2) - They Might Be Giants
+153: (  2) - World Party
+154: (  2) - Yoko Ono
+155: (  1) - Afel Bocoum
+156: (  1) - Andy Bell
+157: (  1) - B.A. Robertson
+158: (  1) - Bandsplain
+159: (  1) - Bonnie Tyler
+160: (  1) - Booker T. & the Mg's
+161: (  1) - Brenda Lee
+162: (  1) - Clan of Xymox
+163: (  1) - Courtney Marie Andrews
+164: (  1) - Cristina
+165: (  1) - David Essex
+166: (  1) - Depeche Mode
+167: (  1) - Destroyer
+168: (  1) - Deutsch Amerikanische Freundschaft
+169: (  1) - Dinosaur Jr.
+170: (  1) - East 17
+171: (  1) - Electric Light Orchestra
+172: (  1) - Hüsker Dü
+173: (  1) - Jason Isbell and the 400 Unit
+174: (  1) - Joe Jackson
+175: (  1) - Johnny Marks
+176: (  1) - Kate Bush
+177: (  1) - Kevin Morby
+178: (  1) - Lou Reed
+179: (  1) - Lucinda Williams
+180: (  1) - Lump
+181: (  1) - Manfred Mann
+182: (  1) - Martha and the Muffins
+183: (  1) - My Bloody Valentine
+184: (  1) - Nacho Video
+185: (  1) - Peter Gabriel
+186: (  1) - Phoebe Bridgers
+187: (  1) - Robert Palmer
+188: (  1) - Rose City Band
+189: (  1) - Scritti Politti
+190: (  1) - Slow Hands
+191: (  1) - Stealers Wheel
+192: (  1) - Stephen Malkmus
+193: (  1) - Steve Harley
+194: (  1) - Suzi Quatro
+195: (  1) - The Allman Brothers Band
+196: (  1) - The Chameleons
+197: (  1) - The Cult
+198: (  1) - The Human League
+199: (  1) - The Lemonheads
+200: (  1) - The Mission
+201: (  1) - The Replacements
+202: (  1) - The Stooges
+203: (  1) - The Triffids
+204: (  1) - The Who
+205: (  1) - Thepnutno2
+206: (  1) - This Mortal Coil
+207: (  1) - Throwing Muses
+208: (  1) - Thundercat
+209: (  1) - Tones on Tail
+210: (  1) - Travis
+211: (  1) - Waxahatchee
+212: (  1) - Young Marble Giants
