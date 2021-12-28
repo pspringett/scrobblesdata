@@ -1,6 +1,6 @@
 Specified year (2021)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3279           223           350          1693
+    3301           224           352          1702
   1: (147) - U2
   2: (126) - Echo & the Bunnymen
   3: (108) - New Order
@@ -13,19 +13,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  10: ( 70) - Bob Dylan
  11: ( 68) - Courtney Barnett
  12: ( 66) - The Beatles
- 13: ( 65) - Catatonia
- 14: ( 56) - The Weather Station
+ 13: ( 66) - The Weather Station
+ 14: ( 65) - Catatonia
  15: ( 56) - Wolf Alice
  16: ( 54) - Lissie
- 17: ( 51) - Lloyd Cole
- 18: ( 50) - Doves
- 19: ( 49) - Bonnie Whitmore
- 20: ( 49) - Cocteau Twins
- 21: ( 49) - Orchestral Manoeuvres in the Dark
- 22: ( 48) - Fleet Foxes
- 23: ( 48) - Martin Stephenson
- 24: ( 47) - First Aid Kit
- 25: ( 46) - Simple Minds
+ 17: ( 53) - Simple Minds
+ 18: ( 51) - Lloyd Cole
+ 19: ( 50) - Doves
+ 20: ( 49) - Bonnie Whitmore
+ 21: ( 49) - Cocteau Twins
+ 22: ( 49) - Orchestral Manoeuvres in the Dark
+ 23: ( 48) - Fleet Foxes
+ 24: ( 48) - Martin Stephenson
+ 25: ( 47) - First Aid Kit
+
 
  26: ( 44) - Chip Taylor & Carrie Rodriguez
  27: ( 44) - Talking Heads
@@ -62,17 +63,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  49: ( 20) - Led Zeppelin
  50: ( 19) - Edwyn Collins
  51: ( 19) - Jimi Hendrix
+ 52: ( 19) - The Fall
 
- 52: ( 17) - Eliza Gilkyson
- 53: ( 17) - Magazine
- 54: ( 17) - Michael Stipe
- 55: ( 17) - Nick Heyward
- 56: ( 16) - Bauhaus
- 57: ( 16) - Haim
- 58: ( 16) - Hem
- 59: ( 16) - R.E.M.
- 60: ( 15) - Scott Walker
- 61: ( 15) - The Fall
+ 53: ( 17) - Eliza Gilkyson
+ 54: ( 17) - Magazine
+ 55: ( 17) - Michael Stipe
+ 56: ( 17) - Nick Heyward
+ 57: ( 16) - Bauhaus
+ 58: ( 16) - Haim
+ 59: ( 16) - Hem
+ 60: ( 16) - R.E.M.
+ 61: ( 15) - Scott Walker
  62: ( 14) - Elvis Costello
  63: ( 14) - Emmylou Harris
  64: ( 14) - The Style Council
@@ -212,26 +213,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 198: (  1) - Rose City Band
 199: (  1) - Scritti Politti
 200: (  1) - Slow Hands
-201: (  1) - Stealers Wheel
-202: (  1) - Stephen Malkmus
-203: (  1) - Steve Harley
-204: (  1) - Suzi Quatro
-205: (  1) - The Allman Brothers Band
-206: (  1) - The Chameleons
-207: (  1) - The Cult
-208: (  1) - The Human League
-209: (  1) - The Lemonheads
-210: (  1) - The Mission
-211: (  1) - The Replacements
-212: (  1) - The Stooges
-213: (  1) - The Triffids
-214: (  1) - The Who
-215: (  1) - Thepnutno2
-216: (  1) - This Mortal Coil
-217: (  1) - Throwing Muses
-218: (  1) - Thundercat
-219: (  1) - Tom Robinson
-220: (  1) - Tones on Tail
-221: (  1) - Travis
-222: (  1) - Waxahatchee
-223: (  1) - Young Marble Giants
+201: (  1) - Sparks
+202: (  1) - Stealers Wheel
+203: (  1) - Stephen Malkmus
+204: (  1) - Steve Harley
+205: (  1) - Suzi Quatro
+206: (  1) - The Allman Brothers Band
+207: (  1) - The Chameleons
+208: (  1) - The Cult
+209: (  1) - The Human League
+210: (  1) - The Lemonheads
+211: (  1) - The Mission
+212: (  1) - The Replacements
+213: (  1) - The Stooges
+214: (  1) - The Triffids
+215: (  1) - The Who
+216: (  1) - Thepnutno2
+217: (  1) - This Mortal Coil
+218: (  1) - Throwing Muses
+219: (  1) - Thundercat
+220: (  1) - Tom Robinson
+221: (  1) - Tones on Tail
+222: (  1) - Travis
+223: (  1) - Waxahatchee
+224: (  1) - Young Marble Giants

@@ -1,6 +1,6 @@
 Specified year (2021), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     271            57            63           186
+     293            59            66           205
  1: (61) - Courtney Barnett
  2: (23) - U2
  3: (22) - The Pale Fountains
@@ -12,59 +12,59 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (13) - Simple Minds
+ 6: (12) - The Weather Station
+ 7: (11) - Edwyn Collins
+ 8: (11) - Emmylou Harris
+ 9: (11) - Robert Plant
 
-
- 5: (11) - Edwyn Collins
- 6: (11) - Emmylou Harris
- 7: (11) - Robert Plant
-
- 8: ( 9) - The Clash
- 9: ( 9) - The Cure
-10: ( 8) - Lloyd Cole and the Commotions
-11: ( 6) - Simple Minds
-12: ( 4) - Bing Crosby
-13: ( 4) - Mike Oldfield
-14: ( 4) - Tift Merritt
-15: ( 3) - Carrie Underwood
-16: ( 3) - David Bowie
-17: ( 2) - Ariana Grande
-18: ( 2) - Band Aid
-19: ( 2) - Caroline Rose
-20: ( 2) - Chris De Burgh
-21: ( 2) - Eartha Kitt
-22: ( 2) - Elton John
-23: ( 2) - Goat Girl
-24: ( 2) - John Lennon
-25: ( 2) - John Williams
-26: ( 2) - José Feliciano
-27: ( 2) - Loudon Wainwright III
-28: ( 2) - Mud
-29: ( 2) - Mykola Dmytrovych Leontovych
-30: ( 2) - Nat King Cole
-31: ( 2) - R.E.M.
-32: ( 2) - Roxy Music
-33: ( 2) - Sam Smith
-34: ( 2) - Sia
-35: ( 2) - Slade
-36: ( 2) - Taylor Swift
-37: ( 2) - The Pogues
-38: ( 2) - The Weather Station
-39: ( 1) - Angel Olsen
-40: ( 1) - Big Thief
-41: ( 1) - Bob Dylan
-42: ( 1) - Brenda Lee
-43: ( 1) - Deerhunter
-44: ( 1) - East 17
-45: ( 1) - Jazzateers
-46: ( 1) - Johnny Marks
-47: ( 1) - Lucy Dacus
-48: ( 1) - Porridge Radio
-49: ( 1) - Pretenders
-50: ( 1) - Queen
-51: ( 1) - Robert Palmer
-52: ( 1) - Rod Stewart
-53: ( 1) - Sharon Van Etten
-54: ( 1) - The Cult
-55: ( 1) - The Felice Brothers
-56: ( 1) - Tom Robinson
-57: ( 1) - Travis
+10: ( 9) - The Clash
+11: ( 9) - The Cure
+12: ( 8) - Lloyd Cole and the Commotions
+13: ( 4) - Bing Crosby
+14: ( 4) - Mike Oldfield
+15: ( 4) - The Fall
+16: ( 4) - Tift Merritt
+17: ( 3) - Carrie Underwood
+18: ( 3) - David Bowie
+19: ( 2) - Ariana Grande
+20: ( 2) - Band Aid
+21: ( 2) - Caroline Rose
+22: ( 2) - Chris De Burgh
+23: ( 2) - Eartha Kitt
+24: ( 2) - Elton John
+25: ( 2) - Goat Girl
+26: ( 2) - John Lennon
+27: ( 2) - John Williams
+28: ( 2) - José Feliciano
+29: ( 2) - Loudon Wainwright III
+30: ( 2) - Mud
+31: ( 2) - Mykola Dmytrovych Leontovych
+32: ( 2) - Nat King Cole
+33: ( 2) - R.E.M.
+34: ( 2) - Roxy Music
+35: ( 2) - Sam Smith
+36: ( 2) - Sia
+37: ( 2) - Slade
+38: ( 2) - Taylor Swift
+39: ( 2) - The Pogues
+40: ( 1) - Angel Olsen
+41: ( 1) - Big Thief
+42: ( 1) - Bob Dylan
+43: ( 1) - Brenda Lee
+44: ( 1) - Deerhunter
+45: ( 1) - East 17
+46: ( 1) - Jazzateers
+47: ( 1) - Johnny Marks
+48: ( 1) - Lucy Dacus
+49: ( 1) - Porridge Radio
+50: ( 1) - Pretenders
+51: ( 1) - Queen
+52: ( 1) - Robert Palmer
+53: ( 1) - Rod Stewart
+54: ( 1) - Sharon Van Etten
+55: ( 1) - Sparks
+56: ( 1) - The Cult
+57: ( 1) - The Felice Brothers
+58: ( 1) - Tom Robinson
+59: ( 1) - Travis
