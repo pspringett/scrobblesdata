@@ -1,6 +1,6 @@
 Specified year (2021), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     293            59            66           205
+     326            62            71           227
  1: (59) - Things Take Time, Take Time - Courtney Barnett
  2: (19) * Jordan: The Comeback - Prefab Sprout
 
@@ -9,67 +9,72 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  4: (15) - Pacific Street - The Pale Fountains
 
 
- 5: (12) - Ignorance - The Weather Station
- 6: (11) * Hellbent On Compromise - Edwyn Collins
- 7: (11) - Raise The Roof (Deluxe Edition) - Robert Plant
- 8: (11) * Stumble Into Grace - Emmylou Harris
+ 5: (12) - High Land, Hard Rain (Expanded) - Aztec Camera
+ 6: (12) - Ignorance - The Weather Station
+ 7: (12) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 8: (11) * Hellbent On Compromise - Edwyn Collins
+ 9: (11) - Raise The Roof (Deluxe Edition) - Robert Plant
+10: (11) * Stumble Into Grace - Emmylou Harris
 
- 9: ( 9) - The Clash (Remastered) - The Clash
-10: ( 8) - Easy Pieces - Lloyd Cole and the Commotions
-11: ( 7) - Kiss Me, Kiss Me, Kiss Me - The Cure
-12: ( 7) - Something On My Mind - The Pale Fountains
-13: ( 7) - Sons And Fascination/Sister Feelings Call - Simple Minds
-14: ( 6) * Sparkle In The Rain - Simple Minds
-15: ( 5) - Under A Blood Red Sky (Remastered) - U2
-16: ( 4) - Grotesque (After The Gramme) [Expanded Edition] - The Fall
-17: ( 4) - Tambourine - Tift Merritt
-18: ( 4) - The Mike Oldfield Collection - Mike Oldfield
-19: ( 4) - White Christmas - Bing Crosby
-20: ( 3) * Station To Station - David Bowie
-21: ( 3) - Stretchy Pants - Carrie Underwood
-22: ( 2) - Avalon - Roxy Music
-23: ( 2) - Caribou (Remastered) - Elton John
-24: ( 2) - Christmas Jukebox - Slade
-25: ( 2) - Christmas Tree Farm - Taylor Swift
-26: ( 2) - Christmas With Nat, Dean And Bing - Nat King Cole
-27: ( 2) - Disintegration - The Cure
-28: ( 2) - Do They Know Its Christmas? - Band Aid
-29: ( 2) - Document (R.E.M. No. 5) - R.E.M.
-30: ( 2) - Everyday Is Christmas - Sia
-31: ( 2) - Feliz Navidad - José Feliciano
-32: ( 2) - Have Yourself A Merry Little Christmas - Sam Smith
-33: ( 2) - Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition] - Mykola Dmytrovych Leontovych
-34: ( 2) - Home Alone - Soundtrack - John Williams
-35: ( 2) - Icon - A Very Special Christmas - John Lennon
-36: ( 2) - If I Should Fall From Grace With God (Expanded Edition) - The Pogues
-37: ( 2) - Loner - Caroline Rose
-38: ( 2) - Missing You - The Collection - Chris De Burgh
-39: ( 2) - On All Fours - Goat Girl
-40: ( 2) - Santa Baby - Eartha Kitt
-41: ( 2) - Santa Tell Me - Ariana Grande
-42: ( 2) - Social Studies - Loudon Wainwright III
-43: ( 2) - The Very Best Of Mud - Mud
-44: ( 1) - 7 Seconds - Porridge Radio
-45: ( 1) - A Kind Of Magic (2011 Remaster) - Queen
-46: ( 1) - Certainty - Big Thief
-47: ( 1) - Christmas In The Heart - Bob Dylan
-48: ( 1) - Clues - Robert Palmer
-49: ( 1) - Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981-82 - Jazzateers
-50: ( 1) - Essential Christmas - Brenda Lee
-51: ( 1) - Essential Christmas - Johnny Marks
-52: ( 1) - From Dreams To Dust - The Felice Brothers
-53: ( 1) - Halcyon Digest - Deerhunter
-54: ( 1) - Kimono My House - Sparks
-55: ( 1) - Learning To Crawl (Expanded & Remastered) - Pretenders
-56: ( 1) - Love - The Cult
-57: ( 1) - No Burden - Lucy Dacus
-58: ( 1) - Rattle And Hum - U2
-59: ( 1) - Some Guys Have All The Luck - Rod Stewart
-60: ( 1) - Steam - East 17
-61: ( 1) - Strange Cacti - Angel Olsen
-62: ( 1) - Tell Me How You Really Feel - Courtney Barnett
-63: ( 1) - The Double Ep: A Sea Of Split Peas - Courtney Barnett
-64: ( 1) - The Man Who - Travis
-65: ( 1) - The Unforgettable Fire (Deluxe Edition Remastered) - U2
-66: ( 1) - Tramp - Sharon Van Etten
-67: ( 1) - War Baby - Hope & Glory - Tom Robinson
+11: ( 9) - The Clash (Remastered) - The Clash
+12: ( 8) - Easy Pieces - Lloyd Cole and the Commotions
+13: ( 8) - Serious Moonlight (Live '83, 2018 Remaster) - David Bowie
+14: ( 7) - Kiss Me, Kiss Me, Kiss Me - The Cure
+15: ( 7) - Something On My Mind - The Pale Fountains
+16: ( 6) * Sparkle In The Rain - Simple Minds
+17: ( 5) - Under A Blood Red Sky (Remastered) - U2
+18: ( 4) - Grotesque (After The Gramme) [Expanded Edition] - The Fall
+19: ( 4) - Tambourine - Tift Merritt
+20: ( 4) - The Mike Oldfield Collection - Mike Oldfield
+21: ( 4) - White Christmas - Bing Crosby
+22: ( 4) * Young Americans - David Bowie
+23: ( 3) * Station To Station - David Bowie
+24: ( 3) - Stretchy Pants - Carrie Underwood
+25: ( 2) - Avalon - Roxy Music
+26: ( 2) - Caribou (Remastered) - Elton John
+27: ( 2) - Christmas Jukebox - Slade
+28: ( 2) - Christmas Tree Farm - Taylor Swift
+29: ( 2) - Christmas With Nat, Dean And Bing - Nat King Cole
+30: ( 2) - Disintegration - The Cure
+31: ( 2) - Do They Know Its Christmas? - Band Aid
+32: ( 2) - Document (R.E.M. No. 5) - R.E.M.
+33: ( 2) - Everyday Is Christmas - Sia
+34: ( 2) - Feliz Navidad - José Feliciano
+35: ( 2) - Have Yourself A Merry Little Christmas - Sam Smith
+36: ( 2) - Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition] - Mykola Dmytrovych Leontovych
+37: ( 2) - Home Alone - Soundtrack - John Williams
+38: ( 2) - Icon - A Very Special Christmas - John Lennon
+39: ( 2) - If I Should Fall From Grace With God (Expanded Edition) - The Pogues
+40: ( 2) - Loner - Caroline Rose
+41: ( 2) - Missing You - The Collection - Chris De Burgh
+42: ( 2) - On All Fours - Goat Girl
+43: ( 2) - Santa Baby - Eartha Kitt
+44: ( 2) - Santa Tell Me - Ariana Grande
+45: ( 2) - Social Studies - Loudon Wainwright III
+46: ( 2) - The Very Best Of Mud - Mud
+47: ( 2) - True Love Stories - Jilted John
+48: ( 2) - ÇA Plane Pour Moi - Plastic Bertrand
+49: ( 1) - 7 Seconds - Porridge Radio
+50: ( 1) - A Kind Of Magic (2011 Remaster) - Queen
+51: ( 1) - Certainty - Big Thief
+52: ( 1) - Christmas In The Heart - Bob Dylan
+53: ( 1) - Clues - Robert Palmer
+54: ( 1) - Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981-82 - Jazzateers
+55: ( 1) - Essential Christmas - Brenda Lee
+56: ( 1) - Essential Christmas - Johnny Marks
+57: ( 1) - From Dreams To Dust - The Felice Brothers
+58: ( 1) - Halcyon Digest - Deerhunter
+59: ( 1) - Kimono My House - Sparks
+60: ( 1) - Learning To Crawl (Expanded & Remastered) - Pretenders
+61: ( 1) - Love - The Cult
+62: ( 1) - No Burden - Lucy Dacus
+63: ( 1) - Rattle And Hum - U2
+64: ( 1) - Some Guys Have All The Luck - Rod Stewart
+65: ( 1) - Steam - East 17
+66: ( 1) - Strange Cacti - Angel Olsen
+67: ( 1) - Tell Me How You Really Feel - Courtney Barnett
+68: ( 1) - The Double Ep: A Sea Of Split Peas - Courtney Barnett
+69: ( 1) - The Man Who - Travis
+70: ( 1) - The Unforgettable Fire (Deluxe Edition Remastered) - U2
+71: ( 1) - Tramp - Sharon Van Etten
+72: ( 1) - War Baby - Hope & Glory - Tom Robinson
