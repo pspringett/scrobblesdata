@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   61251          1119          1614         10763
+   61302          1119          1615         10770
    1: (1977) - David Bowie
    2: (1854) - Lloyd Cole
    3: (1667) - Bob Dylan
@@ -11,7 +11,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    8: (1003) - U2
    9: ( 984) - Tift Merritt
   10: ( 913) - Roxy Music
-  11: ( 876) - Simple Minds
+  11: ( 881) - Simple Minds
   12: ( 853) - Laura Marling
   13: ( 834) - Leonard Cohen
   14: ( 742) - New Order
@@ -30,11 +30,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   27: ( 593) - Scott Walker
   28: ( 591) - Paul Weller
   29: ( 576) - The Velvet Underground
-  30: ( 555) - Martin Stephenson
-  31: ( 554) - Edwyn Collins
-  32: ( 535) - Nick Heyward
-  33: ( 535) - Rodney Crowell
-  34: ( 532) - The Rolling Stones
+  30: ( 555) - Edwyn Collins
+  31: ( 555) - Martin Stephenson
+  32: ( 543) - The Rolling Stones
+  33: ( 535) - Nick Heyward
+  34: ( 535) - Rodney Crowell
   35: ( 530) - Shelby Lynne
   36: ( 518) - Josh Ritter
   37: ( 510) - Corb Lund
@@ -51,8 +51,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   48: ( 359) - ABC
   49: ( 357) - Hayes Carll
   50: ( 352) - The Undertones
-  51: ( 329) - Aztec Camera
-  52: ( 327) - Lloyd Cole and the Commotions
+  51: ( 341) - Lloyd Cole and the Commotions
+  52: ( 329) - Aztec Camera
   53: ( 324) - Altered Images
   54: ( 312) - Rod Stewart
   55: ( 310) - Gretchen Peters
@@ -86,9 +86,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   83: ( 199) - Jason Isbell
   84: ( 192) - The Corrs
   85: ( 189) - Bryan Ferry
-  86: ( 186) - The Jam
-  87: ( 185) - The Beach Boys
-  88: ( 176) - Robert Plant
+  86: ( 188) - Robert Plant
+  87: ( 186) - The Jam
+  88: ( 185) - The Beach Boys
   89: ( 175) - Mary Chapin Carpenter
   90: ( 175) - Spandau Ballet
   91: ( 171) - JT and the Clouds
@@ -113,9 +113,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  110: ( 130) - Emma Swift
  111: ( 130) - Gillian Welch
  112: ( 129) - Joy Division
- 113: ( 129) - The Civil Wars
- 114: ( 127) - Kacy & Clayton
- 115: ( 126) - St. Vincent
+ 113: ( 129) - St. Vincent
+ 114: ( 129) - The Civil Wars
+ 115: ( 127) - Kacy & Clayton
  116: ( 126) - Wolf Alice
  117: ( 125) - Bob Marley & the Wailers
  118: ( 124) - Simon & Garfunkel
@@ -262,18 +262,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  242: (  26) - Buffy Sainte-marie
  243: (  25) - Mike Oldfield
- 244: (  24) - Siouxsie and the Banshees
+ 244: (  24) - Margo Cilker
+ 245: (  24) - Siouxsie and the Banshees
 
- 245: (  22) - Darling West
- 246: (  21) - Calexico
- 247: (  20) - Magazine
- 248: (  20) - Margo Cilker
+ 246: (  22) - Darling West
+ 247: (  21) - Calexico
+ 248: (  20) - Magazine
  249: (  20) - Scritti Politti
  250: (  19) - Field Music
- 251: (  18) - Paul Haig
- 252: (  18) - Sharon Van Etten
- 253: (  18) - The Blue Nile
- 254: (  17) - Bruce Springsteen
+ 251: (  18) - Bruce Springsteen
+ 252: (  18) - Paul Haig
+ 253: (  18) - Sharon Van Etten
+ 254: (  18) - The Blue Nile
  255: (  17) - Kurt Vile
  256: (  17) - Michael Stipe
  257: (  17) - R.E.M.
