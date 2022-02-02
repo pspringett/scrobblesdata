@@ -1,9 +1,19 @@
 Specified year (2022), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     246            34            12           113
- 1: (38) - The Rolling Stones
- 2: (37) - Robert Plant
- 3: (36) - St. Vincent
+     279            35            13           122
+ 1: (48) - St. Vincent
+
+
+
+
+
+
+
+ 2: (40) - The Rolling Stones
+
+
+ 3: (37) - Robert Plant
+
 
 
 
@@ -21,39 +31,40 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 5: (18) - The Blue Nile
+ 5: (18) - Bruce Springsteen
+ 6: (18) - The Blue Nile
 
- 6: (16) - Paul Haig
-
- 7: (14) - Lloyd Cole and the Commotions
-
-
+ 7: (16) - Paul Haig
+ 8: (15) - Lloyd Cole and the Commotions
 
 
- 8: ( 9) - Bruce Springsteen
- 9: ( 5) - Simple Minds
-10: ( 2) - Aztec Camera
-11: ( 2) - Blue Orchids
-12: ( 2) - Buzzcocks
-13: ( 2) - Cabaret Voltaire
-14: ( 2) - Deutsch Amerikanische Freundschaft
-15: ( 2) - Essential Logic
-16: ( 2) - Furious Pig
-17: ( 2) - Ian Dury
-18: ( 2) - James Blood Ulmer
-19: ( 2) - Josef K
-20: ( 2) - Orange Juice
-21: ( 2) - Panther Burns
-22: ( 2) - Pere Ubu
-23: ( 2) - Red Crayola
-24: ( 2) - Robert Wyatt
-25: ( 2) - Scritti Politti
-26: ( 2) - Subway Sect
-27: ( 2) - Television Personalities
-28: ( 2) - The Beat
-29: ( 2) - The Gist
-30: ( 2) - The Masses Carnaby St. John Co
-31: ( 2) - The Raincoats
-32: ( 2) - Virgin Prunes
-33: ( 2) - Wah! Heat
-34: ( 1) - Edwyn Collins
+
+
+
+ 9: ( 9) - Lloyd Cole
+10: ( 5) - Simple Minds
+11: ( 2) - Aztec Camera
+12: ( 2) - Blue Orchids
+13: ( 2) - Buzzcocks
+14: ( 2) - Cabaret Voltaire
+15: ( 2) - Deutsch Amerikanische Freundschaft
+16: ( 2) - Essential Logic
+17: ( 2) - Furious Pig
+18: ( 2) - Ian Dury
+19: ( 2) - James Blood Ulmer
+20: ( 2) - Josef K
+21: ( 2) - Orange Juice
+22: ( 2) - Panther Burns
+23: ( 2) - Pere Ubu
+24: ( 2) - Red Crayola
+25: ( 2) - Robert Wyatt
+26: ( 2) - Scritti Politti
+27: ( 2) - Subway Sect
+28: ( 2) - Television Personalities
+29: ( 2) - The Beat
+30: ( 2) - The Gist
+31: ( 2) - The Masses Carnaby St. John Co
+32: ( 2) - The Raincoats
+33: ( 2) - Virgin Prunes
+34: ( 2) - Wah! Heat
+35: ( 1) - Edwyn Collins

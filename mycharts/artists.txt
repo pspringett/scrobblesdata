@@ -1,8 +1,8 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   61302          1119          1615         10770
+   61409          1119          1615         10777
    1: (1977) - David Bowie
-   2: (1854) - Lloyd Cole
+   2: (1916) - Lloyd Cole
    3: (1667) - Bob Dylan
    4: (1283) - Orchestral Manoeuvres in the Dark
    5: (1044) - Various
@@ -20,9 +20,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   17: ( 685) - Cowboy Junkies
   18: ( 659) - Prefab Sprout
   19: ( 656) - Hem
-  20: ( 650) - Rosanne Cash
-  21: ( 641) - The Style Council
-  22: ( 633) - Orange Juice
+  20: ( 651) - Orange Juice
+  21: ( 650) - Rosanne Cash
+  22: ( 641) - The Style Council
   23: ( 628) - T. Rex
   24: ( 624) - The Cure
   25: ( 606) - Eilen Jewell
@@ -32,7 +32,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   29: ( 576) - The Velvet Underground
   30: ( 555) - Edwyn Collins
   31: ( 555) - Martin Stephenson
-  32: ( 543) - The Rolling Stones
+  32: ( 545) - The Rolling Stones
   33: ( 535) - Nick Heyward
   34: ( 535) - Rodney Crowell
   35: ( 530) - Shelby Lynne
@@ -51,7 +51,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   48: ( 359) - ABC
   49: ( 357) - Hayes Carll
   50: ( 352) - The Undertones
-  51: ( 341) - Lloyd Cole and the Commotions
+  51: ( 342) - Lloyd Cole and the Commotions
   52: ( 329) - Aztec Camera
   53: ( 324) - Altered Images
   54: ( 312) - Rod Stewart
@@ -100,20 +100,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   97: ( 147) - Lizanne Knott
   98: ( 146) - Margo Price
   99: ( 145) - Freakwater
- 100: ( 141) - Julia Holter
- 101: ( 141) - The Low Anthem
- 102: ( 135) - Eyeless in Gaza
- 103: ( 134) - The Pale Fountains
- 104: ( 134) - Weekend
- 105: ( 133) - Alison Moyet
- 106: ( 133) - Jack Harris
- 107: ( 133) - Rachel Harrington
- 108: ( 132) - Hawkwind
- 109: ( 130) - Chip Taylor & Carrie Rodriguez
- 110: ( 130) - Emma Swift
- 111: ( 130) - Gillian Welch
- 112: ( 129) - Joy Division
- 113: ( 129) - St. Vincent
+ 100: ( 144) - St. Vincent
+ 101: ( 141) - Julia Holter
+ 102: ( 141) - The Low Anthem
+ 103: ( 135) - Eyeless in Gaza
+ 104: ( 134) - The Pale Fountains
+ 105: ( 134) - Weekend
+ 106: ( 133) - Alison Moyet
+ 107: ( 133) - Jack Harris
+ 108: ( 133) - Rachel Harrington
+ 109: ( 132) - Hawkwind
+ 110: ( 130) - Chip Taylor & Carrie Rodriguez
+ 111: ( 130) - Emma Swift
+ 112: ( 130) - Gillian Welch
+ 113: ( 129) - Joy Division
  114: ( 129) - The Civil Wars
  115: ( 127) - Kacy & Clayton
  116: ( 126) - Wolf Alice
@@ -259,18 +259,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  241: (  29) - The Felice Brothers
 
+ 242: (  27) - Bruce Springsteen
+ 243: (  26) - Buffy Sainte-marie
+ 244: (  25) - Mike Oldfield
+ 245: (  24) - Margo Cilker
+ 246: (  24) - Siouxsie and the Banshees
 
- 242: (  26) - Buffy Sainte-marie
- 243: (  25) - Mike Oldfield
- 244: (  24) - Margo Cilker
- 245: (  24) - Siouxsie and the Banshees
-
- 246: (  22) - Darling West
- 247: (  21) - Calexico
- 248: (  20) - Magazine
- 249: (  20) - Scritti Politti
- 250: (  19) - Field Music
- 251: (  18) - Bruce Springsteen
+ 247: (  22) - Darling West
+ 248: (  21) - Calexico
+ 249: (  20) - Magazine
+ 250: (  20) - Scritti Politti
+ 251: (  19) - Field Music
  252: (  18) - Paul Haig
  253: (  18) - Sharon Van Etten
  254: (  18) - The Blue Nile
