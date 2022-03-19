@@ -1,8 +1,8 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   61797          1123          1623         10858
-   1: (1977) - David Bowie
-   2: (1974) - Lloyd Cole
+   61884          1123          1623         10867
+   1: (1984) - Lloyd Cole
+   2: (1977) - David Bowie
    3: (1667) - Bob Dylan
    4: (1283) - Orchestral Manoeuvres in the Dark
    5: (1044) - Various
@@ -14,10 +14,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   11: ( 881) - Simple Minds
   12: ( 863) - Laura Marling
   13: ( 834) - Leonard Cohen
-  14: ( 742) - New Order
+  14: ( 745) - New Order
   15: ( 719) - The Beatles
   16: ( 703) - Elvis Costello & the Attractions
-  17: ( 693) - Orange Juice
+  17: ( 698) - Orange Juice
   18: ( 685) - Cowboy Junkies
   19: ( 659) - Prefab Sprout
   20: ( 656) - Hem
@@ -60,10 +60,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   57: ( 300) - The Weather Station
   58: ( 295) - Amanda Shires
   59: ( 286) - The Waterboys
-  60: ( 284) - The Fall
-  61: ( 271) - Carrie Rodriguez
-  62: ( 265) - Angie Palmer
-  63: ( 259) - Kate Bush
+  60: ( 285) - Kate Bush
+  61: ( 284) - The Fall
+  62: ( 271) - Carrie Rodriguez
+  63: ( 265) - Angie Palmer
   64: ( 257) - UB40
   65: ( 252) - Jimi Hendrix
   66: ( 249) - The Jayhawks
@@ -244,90 +244,89 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 240: (  43) - Johnny Marr
+
+
+ 241: (  40) - Inhaler
+
+
+ 242: (  37) - Jeff Bridges
 
 
 
- 240: (  40) - Inhaler
+
+ 243: (  32) - Manfred Mann's Earth Band
+
+ 244: (  30) - A Certain Ratio
+ 245: (  29) - The Felice Brothers
 
 
- 241: (  37) - Jeff Bridges
+ 246: (  26) - Buffy Sainte-marie
+ 247: (  25) - Mike Oldfield
+ 248: (  24) - Margo Cilker
+ 249: (  24) - Sea Power
+ 250: (  24) - Siouxsie and the Banshees
 
-
-
-
- 242: (  32) - Manfred Mann's Earth Band
-
- 243: (  30) - A Certain Ratio
- 244: (  29) - The Felice Brothers
-
-
- 245: (  26) - Buffy Sainte-marie
- 246: (  25) - Mike Oldfield
- 247: (  24) - Margo Cilker
- 248: (  24) - Siouxsie and the Banshees
-
- 249: (  22) - Darling West
- 250: (  21) - Calexico
- 251: (  20) - Magazine
- 252: (  20) - Scritti Politti
- 253: (  19) - Field Music
- 254: (  18) - Johnny Marr
- 255: (  18) - Paul Haig
- 256: (  18) - Sharon Van Etten
- 257: (  18) - The Blue Nile
- 258: (  17) - Kurt Vile
- 259: (  17) - Michael Stipe
- 260: (  17) - R.E.M.
- 261: (  16) - The Dream Syndicate
- 262: (  15) - The Fire Engines
- 263: (  14) - David Byrne
- 264: (  14) - Fontaines D.c.
- 265: (  14) - Green Gartside
- 266: (  14) - Sparks
- 267: (  14) - William Tyler
- 268: (  13) - David Byrne & St. Vincent
- 269: (  13) - John Cale
- 270: (  13) - Kristin Hersh
- 271: (  13) - Miranda Lambert
- 272: (  13) - Ryan Bingham
- 273: (  13) - Tubeway Army
- 274: (  12) - Belle and Sebastian
- 275: (  12) - Callaghan
- 276: (  12) - Duran Duran
- 277: (  12) - Goldfrapp
- 278: (  12) - Jim Croce
- 279: (  12) - John Foxx
- 280: (  12) - Max Romeo
- 281: (  12) - Myrtle Park's Fishing Club
- 282: (  12) - Sea Power
- 283: (  12) - The Jimi Hendrix Experience
- 284: (  12) - The Men
- 285: (  11) - Colin Farrell
- 286: (  11) - Elizabeth Cook
- 287: (  11) - Françoise Hardy
- 288: (  11) - Grace Petrie
- 289: (  11) - Guy Clark
- 290: (  11) - Hatchie
- 291: (  11) - Jessica Pratt
- 292: (  11) - Peel.Rocks Magazine
- 293: (  11) - Rolling Blackouts Coastal Fever
- 294: (  11) - The Associates
- 295: (  11) - Travis Linville
- 296: (  10) - Cara Luft
- 297: (  10) - Dinah Washington
- 298: (  10) - Easy Star All-stars
- 299: (  10) - Elastica
- 300: (  10) - Gregory Isaacs
- 301: (  10) - Joan Shelley
- 302: (  10) - Just the Faqs
- 303: (  10) - Kathleen Edwards
- 304: (  10) - Madeleine Peyroux
- 305: (  10) - Martha and the Muffins
- 306: (  10) - Matt Berninger
- 307: (  10) - Mount Moriah
- 308: (  10) - Nico
- 309: (  10) - Nina Simone
- 310: (  10) - Patti Smith
+ 251: (  22) - Darling West
+ 252: (  21) - Calexico
+ 253: (  20) - Magazine
+ 254: (  20) - Scritti Politti
+ 255: (  19) - Field Music
+ 256: (  18) - Paul Haig
+ 257: (  18) - Sharon Van Etten
+ 258: (  18) - The Blue Nile
+ 259: (  17) - Kurt Vile
+ 260: (  17) - Michael Stipe
+ 261: (  17) - R.E.M.
+ 262: (  16) - Patti Smith
+ 263: (  16) - The Dream Syndicate
+ 264: (  15) - The Fire Engines
+ 265: (  14) - David Byrne
+ 266: (  14) - Fontaines D.c.
+ 267: (  14) - Green Gartside
+ 268: (  14) - Sparks
+ 269: (  14) - William Tyler
+ 270: (  13) - David Byrne & St. Vincent
+ 271: (  13) - John Cale
+ 272: (  13) - Kristin Hersh
+ 273: (  13) - Miranda Lambert
+ 274: (  13) - Ryan Bingham
+ 275: (  13) - Tubeway Army
+ 276: (  12) - Belle and Sebastian
+ 277: (  12) - Callaghan
+ 278: (  12) - Duran Duran
+ 279: (  12) - Goldfrapp
+ 280: (  12) - Jim Croce
+ 281: (  12) - John Foxx
+ 282: (  12) - Max Romeo
+ 283: (  12) - Myrtle Park's Fishing Club
+ 284: (  12) - The Jimi Hendrix Experience
+ 285: (  12) - The Men
+ 286: (  11) - Colin Farrell
+ 287: (  11) - Elizabeth Cook
+ 288: (  11) - Françoise Hardy
+ 289: (  11) - Grace Petrie
+ 290: (  11) - Guy Clark
+ 291: (  11) - Hatchie
+ 292: (  11) - Jessica Pratt
+ 293: (  11) - Peel.Rocks Magazine
+ 294: (  11) - Rolling Blackouts Coastal Fever
+ 295: (  11) - The Associates
+ 296: (  11) - Travis Linville
+ 297: (  10) - Cara Luft
+ 298: (  10) - Dinah Washington
+ 299: (  10) - Easy Star All-stars
+ 300: (  10) - Elastica
+ 301: (  10) - Gregory Isaacs
+ 302: (  10) - Joan Shelley
+ 303: (  10) - Just the Faqs
+ 304: (  10) - Kathleen Edwards
+ 305: (  10) - Madeleine Peyroux
+ 306: (  10) - Martha and the Muffins
+ 307: (  10) - Matt Berninger
+ 308: (  10) - Mount Moriah
+ 309: (  10) - Nico
+ 310: (  10) - Nina Simone
  311: (  10) - Samantha Crain
  312: (  10) - The Twilight Sad
  313: (  10) - Tim Buckley

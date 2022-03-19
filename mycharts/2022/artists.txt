@@ -1,20 +1,18 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     741            51            39           365
- 1: (120) - Lloyd Cole
- 2: ( 62) - Orange Juice
+     828            53            42           401
+ 1: (130) - Lloyd Cole
+ 2: ( 67) - Orange Juice
  3: ( 56) - Lloyd Cole and the Commotions
  4: ( 55) - St. Vincent
  5: ( 52) - Altered Images
- 6: ( 42) - Bruce Springsteen
+ 6: ( 43) - Johnny Marr
+ 7: ( 42) - Bruce Springsteen
 
- 7: ( 40) - The Rolling Stones
-
-
- 8: ( 37) - Robert Plant
+ 8: ( 40) - The Rolling Stones
 
 
-
+ 9: ( 37) - Robert Plant
 
 
 
@@ -24,52 +22,56 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 9: ( 24) - Margo Cilker
-10: ( 24) - Talking Heads
+
+10: ( 26) - Kate Bush
+
+11: ( 24) - Margo Cilker
+12: ( 24) - Sea Power
+13: ( 24) - Talking Heads
 
 
 
 
-11: ( 19) - Manfred Mann's Earth Band
-12: ( 18) - Johnny Marr
-13: ( 18) - The Blue Nile
+14: ( 19) - Manfred Mann's Earth Band
+15: ( 18) - The Blue Nile
 
-14: ( 16) - A Certain Ratio
-15: ( 16) - Paul Haig
+16: ( 16) - A Certain Ratio
+17: ( 16) - Patti Smith
+18: ( 16) - Paul Haig
 
-16: ( 14) - The Fire Engines
-17: ( 13) - B.E.F.
-18: ( 12) - Sea Power
-19: ( 11) - Josh Ritter
-20: ( 10) - Laura Marling
-21: ( 10) - Patti Smith
-22: (  7) - Edwyn Collins
-23: (  6) - U2
-24: (  5) - Simple Minds
-25: (  5) - T. Rex
-26: (  2) - Aztec Camera
-27: (  2) - Blue Orchids
-28: (  2) - Buzzcocks
-29: (  2) - Cabaret Voltaire
-30: (  2) - Deutsch Amerikanische Freundschaft
-31: (  2) - Essential Logic
-32: (  2) - Furious Pig
-33: (  2) - Ian Dury
-34: (  2) - James Blood Ulmer
-35: (  2) - Josef K
-36: (  2) - Panther Burns
-37: (  2) - Pere Ubu
-38: (  2) - Red Crayola
-39: (  2) - Robert Wyatt
-40: (  2) - Scritti Politti
-41: (  2) - Subway Sect
-42: (  2) - Television Personalities
-43: (  2) - The Beat
-44: (  2) - The Gist
-45: (  2) - The Masses Carnaby St. John Co
-46: (  2) - The Raincoats
-47: (  2) - Virgin Prunes
-48: (  2) - Wah! Heat
-49: (  1) - Bastille
-50: (  1) - The Black Keys
-51: (  1) - The War on Drugs
+19: ( 14) - The Fire Engines
+20: ( 13) - B.E.F.
+
+21: ( 11) - Josh Ritter
+22: ( 10) - Laura Marling
+23: (  7) - Edwyn Collins
+24: (  6) - U2
+25: (  5) - Simple Minds
+26: (  5) - T. Rex
+27: (  3) - New Order
+28: (  2) - Aztec Camera
+29: (  2) - Blue Orchids
+30: (  2) - Buzzcocks
+31: (  2) - Cabaret Voltaire
+32: (  2) - Deutsch Amerikanische Freundschaft
+33: (  2) - Essential Logic
+34: (  2) - Furious Pig
+35: (  2) - Ian Dury
+36: (  2) - James Blood Ulmer
+37: (  2) - Josef K
+38: (  2) - Panther Burns
+39: (  2) - Pere Ubu
+40: (  2) - Red Crayola
+41: (  2) - Robert Wyatt
+42: (  2) - Scritti Politti
+43: (  2) - Subway Sect
+44: (  2) - Television Personalities
+45: (  2) - The Beat
+46: (  2) - The Gist
+47: (  2) - The Masses Carnaby St. John Co
+48: (  2) - The Raincoats
+49: (  2) - Virgin Prunes
+50: (  2) - Wah! Heat
+51: (  1) - Bastille
+52: (  1) - The Black Keys
+53: (  1) - The War on Drugs
