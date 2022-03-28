@@ -1,13 +1,24 @@
 Specified year (2022), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     280            13            18           186
- 1: (52) - Altered Images
- 2: (37) - Lloyd Cole
+     365            19            25           239
+ 1: (60) - Altered Images
+ 2: (48) - Johnny Marr
 
 
 
 
- 3: (32) - Johnny Marr
+
+
+
+
+
+
+ 3: (37) - Lloyd Cole
+
+
+
+
+
 
 
 
@@ -19,24 +30,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 7: (22) - Cowboy Junkies
 
+ 8: (20) - Sea Power
+ 9: (19) - Manfred Mann's Earth Band
 
-
- 7: (19) - Manfred Mann's Earth Band
-
- 8: (17) - Lloyd Cole and the Commotions
- 9: (16) - Patti Smith
-
-
-10: (13) - Cowboy Junkies
-11: (12) - Sea Power
+10: (17) - Lloyd Cole and the Commotions
+11: (16) - Patti Smith
 
 
 
 
 
-
-
-
-12: ( 3) - New Order
-13: ( 1) - Bruce Springsteen
+12: (10) - The Rolling Stones
+13: ( 9) - A Certain Ratio
+14: ( 9) - Roxy Music
+15: ( 9) - Simple Minds
+16: ( 6) - The Pale Fountains
+17: ( 3) - New Order
+18: ( 1) - Bruce Springsteen
+19: ( 1) - Music is Win
