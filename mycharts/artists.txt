@@ -1,9 +1,9 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   62107          1124          1625         10908
-   1: (2021) - Lloyd Cole
+   62218          1125          1627         10934
+   1: (2033) - Lloyd Cole
    2: (1977) - David Bowie
-   3: (1667) - Bob Dylan
+   3: (1677) - Bob Dylan
    4: (1283) - Orchestral Manoeuvres in the Dark
    5: (1044) - Various
    6: (1032) - Echo & the Bunnymen
@@ -19,13 +19,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   16: ( 719) - The Beatles
   17: ( 703) - Elvis Costello & the Attractions
   18: ( 698) - Orange Juice
-  19: ( 659) - Prefab Sprout
+  19: ( 667) - Prefab Sprout
   20: ( 656) - Hem
   21: ( 650) - Rosanne Cash
-  22: ( 641) - The Style Council
-  23: ( 633) - T. Rex
-  24: ( 625) - Scott Walker
-  25: ( 624) - The Cure
+  22: ( 649) - Scott Walker
+  23: ( 641) - The Style Council
+  24: ( 640) - The Cure
+  25: ( 633) - T. Rex
   26: ( 606) - Eilen Jewell
   27: ( 601) - Emmylou Harris
   28: ( 591) - Paul Weller
@@ -58,9 +58,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   55: ( 310) - Gretchen Peters
   56: ( 306) - Heaven 17
   57: ( 300) - The Weather Station
-  58: ( 295) - Amanda Shires
-  59: ( 286) - The Waterboys
-  60: ( 285) - Kate Bush
+  58: ( 298) - Kate Bush
+  59: ( 295) - Amanda Shires
+  60: ( 286) - The Waterboys
   61: ( 284) - The Fall
   62: ( 271) - Carrie Rodriguez
   63: ( 265) - Angie Palmer
@@ -159,64 +159,64 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  156: (  84) - Sara Watkins
  157: (  84) - The Clash
  158: (  82) - Jean Toussaint
- 159: (  80) - Focus
- 160: (  80) - Nick Cave & the Bad Seeds
- 161: (  80) - The Human League
- 162: (  80) - Tom Tom Club
- 163: (  79) - Brian Eno & David Byrne
- 164: (  78) - H.C. Mcentire
- 165: (  77) - Marc Bolan
- 166: (  77) - Mark Knopfler and Emmylou Harris
- 167: (  77) - Mindy Smith
- 168: (  77) - Young Marble Giants
- 169: (  76) - Anne Mccue
- 170: (  75) - Laura Veirs
- 171: (  75) - Van Morrison
- 172: (  74) - Rod Picott
- 173: (  74) - Rod Picott and Amanda Shires
- 174: (  74) - Ryan Adams
- 175: (  73) - Everything But the Girl
- 176: (  73) - London Grammar
- 177: (  73) - Tower of Song
- 178: (  72) - Electric Light Orchestra
- 179: (  72) - Laura Cantrell
- 180: (  72) - Natalie Prass
- 181: (  71) - Colvin & Earle
- 182: (  71) - Dire Straits
- 183: (  71) - Stevie Parker
- 184: (  70) - Kraftwerk
- 185: (  69) - Courtney Barnett
- 186: (  69) - Dolly Parton
- 187: (  69) - Father John Misty
- 188: (  69) - Lou Reed
- 189: (  69) - Noah and the Whale
- 190: (  68) - Laura Gibson
- 191: (  67) - The Mavericks
- 192: (  67) - Wah!
- 193: (  66) - Sarah Jarosz
- 194: (  66) - She Drew the Gun
- 195: (  65) - Catatonia
- 196: (  65) - Small Faces
- 197: (  65) - The Doors
- 198: (  65) - The Sundays
- 199: (  64) - Margaret Glaspy
- 200: (  64) - Steely Dan
- 201: (  64) - Striking Matches
- 202: (  63) - Haley Bonar
- 203: (  63) - Ian McCulloch
- 204: (  63) - Lcd Soundsystem
- 205: (  63) - Phoebe Bridgers
- 206: (  62) - Chuck Prophet
- 207: (  62) - Robert Plant & Alison Krauss
- 208: (  62) - Willie Nelson & Asleep At the Wheel
- 209: (  61) - Dave Rawlings Machine
- 210: (  61) - Loretta Lynn
- 211: (  61) - Tracey Thorn
- 212: (  60) - Grace Jones
- 213: (  60) - Walter Salas-Humara
- 214: (  59) - Fleet Foxes
- 215: (  59) - Joe Jackson
- 216: (  59) - Johnny Marr
+ 159: (  80) - Father John Misty
+ 160: (  80) - Focus
+ 161: (  80) - Nick Cave & the Bad Seeds
+ 162: (  80) - The Human League
+ 163: (  80) - Tom Tom Club
+ 164: (  79) - Brian Eno & David Byrne
+ 165: (  78) - H.C. Mcentire
+ 166: (  77) - Marc Bolan
+ 167: (  77) - Mark Knopfler and Emmylou Harris
+ 168: (  77) - Mindy Smith
+ 169: (  77) - Young Marble Giants
+ 170: (  76) - Anne Mccue
+ 171: (  75) - Johnny Marr
+ 172: (  75) - Laura Veirs
+ 173: (  75) - Van Morrison
+ 174: (  74) - Rod Picott
+ 175: (  74) - Rod Picott and Amanda Shires
+ 176: (  74) - Ryan Adams
+ 177: (  73) - Everything But the Girl
+ 178: (  73) - London Grammar
+ 179: (  73) - Tower of Song
+ 180: (  72) - Electric Light Orchestra
+ 181: (  72) - Laura Cantrell
+ 182: (  72) - Natalie Prass
+ 183: (  71) - Colvin & Earle
+ 184: (  71) - Dire Straits
+ 185: (  71) - Stevie Parker
+ 186: (  70) - Kraftwerk
+ 187: (  69) - Courtney Barnett
+ 188: (  69) - Dolly Parton
+ 189: (  69) - Lou Reed
+ 190: (  69) - Noah and the Whale
+ 191: (  68) - Laura Gibson
+ 192: (  67) - The Mavericks
+ 193: (  67) - Wah!
+ 194: (  66) - Sarah Jarosz
+ 195: (  66) - She Drew the Gun
+ 196: (  65) - Catatonia
+ 197: (  65) - Small Faces
+ 198: (  65) - The Doors
+ 199: (  65) - The Sundays
+ 200: (  64) - Margaret Glaspy
+ 201: (  64) - Steely Dan
+ 202: (  64) - Striking Matches
+ 203: (  63) - Haley Bonar
+ 204: (  63) - Ian McCulloch
+ 205: (  63) - Lcd Soundsystem
+ 206: (  63) - Phoebe Bridgers
+ 207: (  62) - Chuck Prophet
+ 208: (  62) - Robert Plant & Alison Krauss
+ 209: (  62) - Willie Nelson & Asleep At the Wheel
+ 210: (  61) - Dave Rawlings Machine
+ 211: (  61) - Loretta Lynn
+ 212: (  61) - Tracey Thorn
+ 213: (  60) - Grace Jones
+ 214: (  60) - Walter Salas-Humara
+ 215: (  59) - Fleet Foxes
+ 216: (  59) - Joe Jackson
  217: (  59) - Stevie Wonder
  218: (  58) - Andrew Combs
  219: (  58) - Bobbie Gentry
@@ -1136,9 +1136,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1116: (   1) - Wand
 1117: (   1) - Waxahatchee
 1118: (   1) - When in Rome
-1119: (   1) - Winston Francis
-1120: (   1) - Winston Samuels
-1121: (   1) - Winston Wright
-1122: (   1) - Yonatan Gat
-1123: (   1) - Zibbz
-1124: (   1) - the FRIGHTNRS
+1119: (   1) - Windows Insider Program
+1120: (   1) - Winston Francis
+1121: (   1) - Winston Samuels
+1122: (   1) - Winston Wright
+1123: (   1) - Yonatan Gat
+1124: (   1) - Zibbz
+1125: (   1) - the FRIGHTNRS

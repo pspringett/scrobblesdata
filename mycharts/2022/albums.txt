@@ -1,9 +1,10 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1051            59            56           523
- 1: (59) - Fever Dreams Pts 1 - 4 - Johnny Marr
+    1162            64            62           594
+ 1: (75) - Fever Dreams Pts 1 - 4 - Johnny Marr
  2: (55) - Daddy's Home - St. Vincent
- 3: (48) - Nme C81 - Various
+ 3: (49) * The Negatives - Lloyd Cole
+ 4: (48) - Nme C81 - Various
 
 
 
@@ -11,13 +12,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 4: (40) * Bad Vibes - Lloyd Cole
- 5: (40) - Let It Bleed - The Rolling Stones
- 6: (39) - Born To Run - Bruce Springsteen
- 7: (39) - Coals To Newcastle - Orange Juice
+ 5: (40) * Bad Vibes - Lloyd Cole
+ 6: (40) - Let It Bleed - The Rolling Stones
+ 7: (39) - Born To Run - Bruce Springsteen
+ 8: (39) - Coals To Newcastle - Orange Juice
 
- 8: (37) - Raise The Roof (Deluxe Edition) - Robert Plant
- 9: (37) * The Negatives - Lloyd Cole
+ 9: (37) - Raise The Roof (Deluxe Edition) - Robert Plant
 
 
 
@@ -35,46 +35,52 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 17: (25) - Sextet - A Certain Ratio
 18: (24) * Little Creatures - Talking Heads
 19: (24) - Pohorylle - Margo Cilker
-20: (23) * Lay It Down - Cowboy Junkies
-21: (23) * Rattlesnakes - Lloyd Cole and the Commotions
+20: (24) * Scott 2 - Scott Walker
+21: (23) * Lay It Down - Cowboy Junkies
+22: (23) * Rattlesnakes - Lloyd Cole and the Commotions
 
 
-22: (20) - A Walk Across The Rooftops - The Blue Nile
-23: (19) - The Roaring Silence - Manfred Mann's Earth Band
+23: (20) - A Walk Across The Rooftops - The Blue Nile
+24: (19) - The Roaring Silence - Manfred Mann's Earth Band
+25: (18) * Scott - Scott Walker
 
+26: (16) * Bite - Altered Images
+27: (16) * Happy Birthday - Altered Images
+28: (16) - Horses - Patti Smith
+29: (16) - Reflected Images - The Best Of Altered Images - Altered Images
+30: (16) - Swing In 82 - Paul Haig
 
-24: (16) * Bite - Altered Images
-25: (16) * Happy Birthday - Altered Images
-26: (16) - Horses - Patti Smith
-27: (16) - Reflected Images - The Best Of Altered Images - Altered Images
-28: (16) - Swing In 82 - Paul Haig
-
-29: (14) - Codex Teenage Premonition - The Fire Engines
-30: (14) - Talk On Corners - The Corrs
-31: (13) - 1981-2011 - B.E.F.
-32: (13) * Antidepressant - Lloyd Cole
-33: (12) - Forgiven, Not Forgotten - The Corrs
-34: (12) * Pinky Blue - Altered Images
-35: (12) * Scott 2 - Scott Walker
-36: (11) - Sermon On The Rocks - Josh Ritter
-37: (10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
-38: (10) - Mainstream - Lloyd Cole
-39: (10) - Song For Our Daughter - Laura Marling
-40: ( 9) * New Gold Dream (81-82-83-84) - Simple Minds
-41: ( 9) - Siren - Roxy Music
-42: ( 8) * Don't Get Weird On Me Babe - Lloyd Cole
-43: ( 7) - Elevation Days - Edwyn Collins
-44: ( 7) - Scott 3 - Scott Walker
-45: ( 7) - Scott 4 - Scott Walker
-46: ( 6) - Boy (Remastered) - U2
-47: ( 6) * Scott - Scott Walker
-48: ( 6) - Something On My Mind - The Pale Fountains
-49: ( 5) * Electric Warrior - T. Rex
-50: ( 5) - Sons And Fascination/Sister Feelings Call - Simple Minds
-51: ( 3) - Substance - New Order
-52: ( 2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
-53: ( 1) -  - Music is Win
-54: ( 1) - Born In The U.S.A. - Bruce Springsteen
-55: ( 1) - Delta Kream - The Black Keys
-56: ( 1) - Give Me The Future - Bastille
-57: ( 1) - I Don’T Live Here Anymore - The War on Drugs
+31: (14) - Codex Teenage Premonition - The Fire Engines
+32: (14) - Talk On Corners - The Corrs
+33: (13) - 1981-2011 - B.E.F.
+34: (13) * Antidepressant - Lloyd Cole
+35: (13) - The Kick Inside (2018 Remaster) - Kate Bush
+36: (12) - Forgiven, Not Forgotten - The Corrs
+37: (12) * Pinky Blue - Altered Images
+38: (11) - Chloë And The Next 20Th Century - Father John Misty
+39: (11) - Sermon On The Rocks - Josh Ritter
+40: (10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
+41: (10) - Mainstream - Lloyd Cole
+42: (10) - Rough And Rowdy Ways - Bob Dylan
+43: (10) - Song For Our Daughter - Laura Marling
+44: ( 9) * New Gold Dream (81-82-83-84) - Simple Minds
+45: ( 9) - Siren - Roxy Music
+46: ( 8) * Don't Get Weird On Me Babe - Lloyd Cole
+47: ( 8) * Faith - The Cure
+48: ( 8) * Jordan: The Comeback - Prefab Sprout
+49: ( 8) * Seventeen Seconds - The Cure
+50: ( 7) - Elevation Days - Edwyn Collins
+51: ( 7) - Scott 3 - Scott Walker
+52: ( 7) - Scott 4 - Scott Walker
+53: ( 6) - Boy (Remastered) - U2
+54: ( 6) - Something On My Mind - The Pale Fountains
+55: ( 5) * Electric Warrior - T. Rex
+56: ( 5) - Sons And Fascination/Sister Feelings Call - Simple Minds
+57: ( 3) - Substance - New Order
+58: ( 2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
+59: ( 1) -  - Music is Win
+60: ( 1) -  - Windows Insider Program
+61: ( 1) - Born In The U.S.A. - Bruce Springsteen
+62: ( 1) - Delta Kream - The Black Keys
+63: ( 1) - Give Me The Future - Bastille
+64: ( 1) - I Don’T Live Here Anymore - The War on Drugs

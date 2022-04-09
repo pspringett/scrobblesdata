@@ -1,32 +1,31 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1051            59            56           523
- 1: (167) - Lloyd Cole
- 2: ( 67) - Orange Juice
- 3: ( 60) - Altered Images
- 4: ( 59) - Johnny Marr
+    1162            64            62           594
+ 1: (179) - Lloyd Cole
+ 2: ( 75) - Johnny Marr
+ 3: ( 67) - Orange Juice
+ 4: ( 60) - Altered Images
  5: ( 56) - Lloyd Cole and the Commotions
- 6: ( 55) - St. Vincent
- 7: ( 50) - Cowboy Junkies
- 8: ( 50) - The Rolling Stones
- 9: ( 42) - Bruce Springsteen
+ 6: ( 56) - Scott Walker
+ 7: ( 55) - St. Vincent
+ 8: ( 50) - Cowboy Junkies
+ 9: ( 50) - The Rolling Stones
+10: ( 42) - Bruce Springsteen
+
+
+11: ( 39) - Kate Bush
+
+12: ( 37) - Robert Plant
 
 
 
 
-10: ( 37) - Robert Plant
-
-
-
-
-11: ( 32) - Scott Walker
-12: ( 32) - Sea Power
+13: ( 32) - Sea Power
 
 
 
 
 
-13: ( 26) - Kate Bush
 14: ( 26) - The Corrs
 15: ( 25) - A Certain Ratio
 16: ( 24) - Margo Cilker
@@ -40,43 +39,48 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 20: ( 16) - Patti Smith
 21: ( 16) - Paul Haig
+22: ( 16) - The Cure
 
-22: ( 14) - Simple Minds
-23: ( 14) - The Fire Engines
-24: ( 13) - B.E.F.
+23: ( 14) - Simple Minds
+24: ( 14) - The Fire Engines
+25: ( 13) - B.E.F.
 
-25: ( 11) - Josh Ritter
-26: ( 10) - Laura Marling
-27: (  9) - Roxy Music
-28: (  7) - Edwyn Collins
-29: (  6) - The Pale Fountains
-30: (  6) - U2
-31: (  5) - T. Rex
-32: (  3) - New Order
-33: (  2) - Aztec Camera
-34: (  2) - Blue Orchids
-35: (  2) - Buzzcocks
-36: (  2) - Cabaret Voltaire
-37: (  2) - Deutsch Amerikanische Freundschaft
-38: (  2) - Essential Logic
-39: (  2) - Furious Pig
-40: (  2) - Ian Dury
-41: (  2) - James Blood Ulmer
-42: (  2) - Josef K
-43: (  2) - Panther Burns
-44: (  2) - Pere Ubu
-45: (  2) - Red Crayola
-46: (  2) - Robert Wyatt
-47: (  2) - Scritti Politti
-48: (  2) - Subway Sect
-49: (  2) - Television Personalities
-50: (  2) - The Beat
-51: (  2) - The Gist
-52: (  2) - The Masses Carnaby St. John Co
-53: (  2) - The Raincoats
-54: (  2) - Virgin Prunes
-55: (  2) - Wah! Heat
-56: (  1) - Bastille
-57: (  1) - Music is Win
-58: (  1) - The Black Keys
-59: (  1) - The War on Drugs
+26: ( 11) - Father John Misty
+27: ( 11) - Josh Ritter
+28: ( 10) - Bob Dylan
+29: ( 10) - Laura Marling
+30: (  9) - Roxy Music
+31: (  8) - Prefab Sprout
+32: (  7) - Edwyn Collins
+33: (  6) - The Pale Fountains
+34: (  6) - U2
+35: (  5) - T. Rex
+36: (  3) - New Order
+37: (  2) - Aztec Camera
+38: (  2) - Blue Orchids
+39: (  2) - Buzzcocks
+40: (  2) - Cabaret Voltaire
+41: (  2) - Deutsch Amerikanische Freundschaft
+42: (  2) - Essential Logic
+43: (  2) - Furious Pig
+44: (  2) - Ian Dury
+45: (  2) - James Blood Ulmer
+46: (  2) - Josef K
+47: (  2) - Panther Burns
+48: (  2) - Pere Ubu
+49: (  2) - Red Crayola
+50: (  2) - Robert Wyatt
+51: (  2) - Scritti Politti
+52: (  2) - Subway Sect
+53: (  2) - Television Personalities
+54: (  2) - The Beat
+55: (  2) - The Gist
+56: (  2) - The Masses Carnaby St. John Co
+57: (  2) - The Raincoats
+58: (  2) - Virgin Prunes
+59: (  2) - Wah! Heat
+60: (  1) - Bastille
+61: (  1) - Music is Win
+62: (  1) - The Black Keys
+63: (  1) - The War on Drugs
+64: (  1) - Windows Insider Program
