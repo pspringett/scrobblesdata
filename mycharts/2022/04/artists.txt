@@ -1,6 +1,6 @@
 Specified year (2022), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     244            16            19           171
+     240            12            18           167
  1: (46) - Scott Walker
 
 
@@ -39,8 +39,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (11) - Father John Misty
 10: (11) - Wet Leg
 11: (10) - Bob Dylan
-12: ( 8) - Prefab Sprout
-13: ( 2) - Ulysses - James Joyce
-14: ( 1) - Eop Live
-15: ( 1) - Michael Harris
-16: ( 1) - Windows Insider Program
+12: ( 9) - Prefab Sprout

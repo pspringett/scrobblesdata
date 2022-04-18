@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1235            70            66           630
+    1230            65            65           625
  1: (179) - Lloyd Cole
  2: ( 75) - Johnny Marr
  3: ( 67) - Orange Juice
@@ -51,8 +51,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 30: ( 11) - Wet Leg
 31: ( 10) - Bob Dylan
 32: ( 10) - Laura Marling
-33: (  9) - Roxy Music
-34: (  8) - Prefab Sprout
+33: (  9) - Prefab Sprout
+34: (  9) - Roxy Music
 35: (  7) - Edwyn Collins
 36: (  6) - The Pale Fountains
 37: (  6) - U2
@@ -79,13 +79,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 58: (  2) - The Gist
 59: (  2) - The Masses Carnaby St. John Co
 60: (  2) - The Raincoats
-61: (  2) - Ulysses - James Joyce
-62: (  2) - Virgin Prunes
-63: (  2) - Wah! Heat
-64: (  1) - Bastille
-65: (  1) - Eop Live
-66: (  1) - Michael Harris
-67: (  1) - Music is Win
-68: (  1) - The Black Keys
-69: (  1) - The War on Drugs
-70: (  1) - Windows Insider Program
+61: (  2) - Virgin Prunes
+62: (  2) - Wah! Heat
+63: (  1) - Bastille
+64: (  1) - The Black Keys
+65: (  1) - The War on Drugs
