@@ -1,14 +1,14 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1230            65            65           625
- 1: (179) - Lloyd Cole
- 2: ( 75) - Johnny Marr
- 3: ( 67) - Orange Juice
- 4: ( 60) - Altered Images
- 5: ( 56) - Lloyd Cole and the Commotions
- 6: ( 56) - Scott Walker
- 7: ( 55) - St. Vincent
- 8: ( 50) - Cowboy Junkies
+    1415            70            74           698
+ 1: (191) - Lloyd Cole
+ 2: ( 85) - Lloyd Cole and the Commotions
+ 3: ( 75) - Johnny Marr
+ 4: ( 72) - Altered Images
+ 5: ( 67) - Orange Juice
+ 6: ( 63) - Scott Walker
+ 7: ( 59) - Cowboy Junkies
+ 8: ( 55) - St. Vincent
  9: ( 50) - The Rolling Stones
 10: ( 42) - Bruce Springsteen
 
@@ -17,70 +17,72 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 12: ( 37) - Robert Plant
 
+13: ( 35) - Wet Leg
+
+14: ( 33) - Father John Misty
+15: ( 33) - Talking Heads
+16: ( 32) - Sea Power
+
+17: ( 30) - The Fall
+18: ( 30) - The Linda Lindas
 
 
 
-13: ( 32) - Sea Power
-
-14: ( 30) - The Fall
-
-
-
-15: ( 26) - The Corrs
-16: ( 25) - A Certain Ratio
-17: ( 24) - Margo Cilker
-18: ( 24) - Talking Heads
-19: ( 24) - The Cure
+19: ( 26) - The Corrs
+20: ( 25) - A Certain Ratio
+21: ( 24) - Margo Cilker
+22: ( 24) - The Cure
 
 
 
-20: ( 20) - The Blue Nile
-21: ( 20) - The Linda Lindas
-22: ( 19) - Manfred Mann's Earth Band
+23: ( 20) - The Blue Nile
+24: ( 19) - Bob Dylan
+25: ( 19) - Manfred Mann's Earth Band
 
 
-23: ( 16) - Patti Smith
-24: ( 16) - Paul Haig
+26: ( 16) - Patti Smith
+27: ( 16) - Paul Haig
 
-25: ( 14) - Simple Minds
-26: ( 14) - The Fire Engines
-27: ( 13) - B.E.F.
-
-28: ( 11) - Father John Misty
-29: ( 11) - Josh Ritter
-30: ( 11) - Wet Leg
-31: ( 10) - Bob Dylan
-32: ( 10) - Laura Marling
-33: (  9) - Prefab Sprout
-34: (  9) - Roxy Music
-35: (  7) - Edwyn Collins
-36: (  6) - The Pale Fountains
-37: (  6) - U2
-38: (  5) - T. Rex
-39: (  3) - New Order
-40: (  2) - Aztec Camera
-41: (  2) - Blue Orchids
-42: (  2) - Buzzcocks
-43: (  2) - Cabaret Voltaire
-44: (  2) - Deutsch Amerikanische Freundschaft
-45: (  2) - Essential Logic
-46: (  2) - Furious Pig
-47: (  2) - Ian Dury
-48: (  2) - James Blood Ulmer
-49: (  2) - Josef K
-50: (  2) - Panther Burns
-51: (  2) - Pere Ubu
-52: (  2) - Red Crayola
-53: (  2) - Robert Wyatt
-54: (  2) - Scritti Politti
-55: (  2) - Subway Sect
-56: (  2) - Television Personalities
-57: (  2) - The Beat
-58: (  2) - The Gist
-59: (  2) - The Masses Carnaby St. John Co
-60: (  2) - The Raincoats
-61: (  2) - Virgin Prunes
-62: (  2) - Wah! Heat
-63: (  1) - Bastille
-64: (  1) - The Black Keys
-65: (  1) - The War on Drugs
+28: ( 14) - Simple Minds
+29: ( 14) - The Fire Engines
+30: ( 13) - B.E.F.
+31: ( 13) - Roxy Music
+32: ( 12) - The Pale Fountains
+33: ( 11) - Global News Podcast
+34: ( 11) - Josh Ritter
+35: ( 10) - Laura Marling
+36: ( 10) - The Church
+37: (  9) - Prefab Sprout
+38: (  7) - Edwyn Collins
+39: (  6) - Eilen Jewell
+40: (  6) - U2
+41: (  5) - T. Rex
+42: (  3) - In Our Time
+43: (  3) - New Order
+44: (  2) - Aztec Camera
+45: (  2) - Blue Orchids
+46: (  2) - Buzzcocks
+47: (  2) - Cabaret Voltaire
+48: (  2) - Deutsch Amerikanische Freundschaft
+49: (  2) - Essential Logic
+50: (  2) - Furious Pig
+51: (  2) - Ian Dury
+52: (  2) - James Blood Ulmer
+53: (  2) - Josef K
+54: (  2) - Michael Head & the Red Elastic Band
+55: (  2) - Panther Burns
+56: (  2) - Pere Ubu
+57: (  2) - Red Crayola
+58: (  2) - Robert Wyatt
+59: (  2) - Scritti Politti
+60: (  2) - Subway Sect
+61: (  2) - Television Personalities
+62: (  2) - The Beat
+63: (  2) - The Gist
+64: (  2) - The Masses Carnaby St. John Co
+65: (  2) - The Raincoats
+66: (  2) - Virgin Prunes
+67: (  2) - Wah! Heat
+68: (  1) - Bastille
+69: (  1) - The Black Keys
+70: (  1) - The War on Drugs
