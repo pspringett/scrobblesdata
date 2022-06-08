@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   62498          1130          1639         11014
+   62511          1130          1640         11019
    1: (2045) - Lloyd Cole
    2: (1977) - David Bowie
    3: (1686) - Bob Dylan
@@ -16,7 +16,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   13: ( 834) - Leonard Cohen
   14: ( 745) - New Order
   15: ( 744) - Cowboy Junkies
-  16: ( 719) - The Beatles
+  16: ( 720) - The Beatles
   17: ( 703) - Elvis Costello & the Attractions
   18: ( 698) - Orange Juice
   19: ( 668) - Prefab Sprout
@@ -247,12 +247,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 241: (  41) - Siouxsie and the Banshees
+ 242: (  40) - Inhaler
+ 243: (  39) - A Certain Ratio
 
- 241: (  40) - Inhaler
- 242: (  39) - A Certain Ratio
+ 244: (  37) - Jeff Bridges
 
- 243: (  37) - Jeff Bridges
- 244: (  36) - Siouxsie and the Banshees
  245: (  35) - Wet Leg
 
 
@@ -286,93 +286,93 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  269: (  14) - Green Gartside
  270: (  14) - Sparks
  271: (  14) - William Tyler
- 272: (  13) - David Byrne & St. Vincent
- 273: (  13) - John Cale
- 274: (  13) - Kristin Hersh
- 275: (  13) - Miranda Lambert
- 276: (  13) - Ryan Bingham
- 277: (  13) - Tubeway Army
- 278: (  12) - Belle and Sebastian
- 279: (  12) - Callaghan
- 280: (  12) - Duran Duran
- 281: (  12) - Goldfrapp
- 282: (  12) - Jim Croce
- 283: (  12) - John Foxx
- 284: (  12) - Max Romeo
- 285: (  12) - Myrtle Park's Fishing Club
- 286: (  12) - The Church
- 287: (  12) - The Jimi Hendrix Experience
- 288: (  12) - The Men
- 289: (  11) - Arcade Fire
- 290: (  11) - Colin Farrell
- 291: (  11) - Elizabeth Cook
- 292: (  11) - Françoise Hardy
- 293: (  11) - Global News Podcast
- 294: (  11) - Grace Petrie
- 295: (  11) - Guy Clark
- 296: (  11) - Hatchie
- 297: (  11) - Jessica Pratt
- 298: (  11) - Joan Shelley
- 299: (  11) - Peel.Rocks Magazine
- 300: (  11) - Rolling Blackouts Coastal Fever
- 301: (  11) - The Associates
- 302: (  11) - Travis Linville
- 303: (  10) - Cara Luft
- 304: (  10) - Dinah Washington
- 305: (  10) - Easy Star All-stars
- 306: (  10) - Elastica
- 307: (  10) - Gregory Isaacs
- 308: (  10) - Just the Faqs
- 309: (  10) - Kathleen Edwards
- 310: (  10) - Madeleine Peyroux
- 311: (  10) - Martha and the Muffins
- 312: (  10) - Matt Berninger
- 313: (  10) - Mount Moriah
- 314: (  10) - Nico
- 315: (  10) - Nina Simone
- 316: (  10) - Samantha Crain
- 317: (  10) - The Twilight Sad
- 318: (  10) - Tim Buckley
- 319: (   9) - Big Thief
- 320: (   9) - Bryan Adams
- 321: (   9) - Daniel Bachman
- 322: (   9) - Hawkwind Zoo
- 323: (   9) - Ian Dury
- 324: (   9) - Lizz Wright
- 325: (   9) - Low
- 326: (   9) - Mark Lanegan
- 327: (   9) - Romi Mayes
- 328: (   9) - Stevie Nicks
- 329: (   9) - Sugar Black
- 330: (   9) - Tyler Childers
- 331: (   8) - Aldous Harding
- 332: (   8) - Andrew Bird
- 333: (   8) - Bill Callahan
- 334: (   8) - Bob Marley
- 335: (   8) - Bon Iver
- 336: (   8) - Brigid Dawson and the Mothers Network
- 337: (   8) - Caleb Landry Jones
- 338: (   8) - Cate le Bon
- 339: (   8) - Ella Fitzgerald
- 340: (   8) - Forma
- 341: (   8) - Julia Jacklin
- 342: (   8) - Larkin Poe
- 343: (   8) - Let'S Eat Grandma
- 344: (   8) - Mankind
- 345: (   8) - Modern Nature
- 346: (   8) - Peter Tosh
- 347: (   8) - Purple Mountains
- 348: (   8) - Rhiannon Giddens
- 349: (   8) - Richard Dawson
- 350: (   8) - Spizz Energi
- 351: (   8) - Steve Earle
- 352: (   8) - Stick in the Wheel
- 353: (   8) - The Durutti Column
- 354: (   8) - The Lost Brothers
- 355: (   8) - Weyes Blood
- 356: (   8) - White Fence
- 357: (   8) - Woods
- 358: (   8) - Yo La Tengo
+ 272: (  13) - Arcade Fire
+ 273: (  13) - David Byrne & St. Vincent
+ 274: (  13) - John Cale
+ 275: (  13) - Kristin Hersh
+ 276: (  13) - Miranda Lambert
+ 277: (  13) - Ryan Bingham
+ 278: (  13) - Tubeway Army
+ 279: (  13) - Yo La Tengo
+ 280: (  12) - Belle and Sebastian
+ 281: (  12) - Callaghan
+ 282: (  12) - Duran Duran
+ 283: (  12) - Goldfrapp
+ 284: (  12) - Jim Croce
+ 285: (  12) - John Foxx
+ 286: (  12) - Max Romeo
+ 287: (  12) - Myrtle Park's Fishing Club
+ 288: (  12) - The Church
+ 289: (  12) - The Jimi Hendrix Experience
+ 290: (  12) - The Men
+ 291: (  11) - Colin Farrell
+ 292: (  11) - Elizabeth Cook
+ 293: (  11) - Françoise Hardy
+ 294: (  11) - Global News Podcast
+ 295: (  11) - Grace Petrie
+ 296: (  11) - Guy Clark
+ 297: (  11) - Hatchie
+ 298: (  11) - Jessica Pratt
+ 299: (  11) - Joan Shelley
+ 300: (  11) - Peel.Rocks Magazine
+ 301: (  11) - Rolling Blackouts Coastal Fever
+ 302: (  11) - The Associates
+ 303: (  11) - Travis Linville
+ 304: (  10) - Cara Luft
+ 305: (  10) - Dinah Washington
+ 306: (  10) - Easy Star All-stars
+ 307: (  10) - Elastica
+ 308: (  10) - Gregory Isaacs
+ 309: (  10) - Just the Faqs
+ 310: (  10) - Kathleen Edwards
+ 311: (  10) - Madeleine Peyroux
+ 312: (  10) - Martha and the Muffins
+ 313: (  10) - Matt Berninger
+ 314: (  10) - Mount Moriah
+ 315: (  10) - Nico
+ 316: (  10) - Nina Simone
+ 317: (  10) - Samantha Crain
+ 318: (  10) - The Twilight Sad
+ 319: (  10) - Tim Buckley
+ 320: (   9) - Big Thief
+ 321: (   9) - Bryan Adams
+ 322: (   9) - Daniel Bachman
+ 323: (   9) - Hawkwind Zoo
+ 324: (   9) - Ian Dury
+ 325: (   9) - Lizz Wright
+ 326: (   9) - Low
+ 327: (   9) - Mark Lanegan
+ 328: (   9) - Romi Mayes
+ 329: (   9) - Stevie Nicks
+ 330: (   9) - Sugar Black
+ 331: (   9) - Tyler Childers
+ 332: (   8) - Aldous Harding
+ 333: (   8) - Andrew Bird
+ 334: (   8) - Bill Callahan
+ 335: (   8) - Bob Marley
+ 336: (   8) - Bon Iver
+ 337: (   8) - Brigid Dawson and the Mothers Network
+ 338: (   8) - Caleb Landry Jones
+ 339: (   8) - Cate le Bon
+ 340: (   8) - Ella Fitzgerald
+ 341: (   8) - Forma
+ 342: (   8) - Julia Jacklin
+ 343: (   8) - Larkin Poe
+ 344: (   8) - Let'S Eat Grandma
+ 345: (   8) - Mankind
+ 346: (   8) - Modern Nature
+ 347: (   8) - Peter Tosh
+ 348: (   8) - Purple Mountains
+ 349: (   8) - Rhiannon Giddens
+ 350: (   8) - Richard Dawson
+ 351: (   8) - Spizz Energi
+ 352: (   8) - Steve Earle
+ 353: (   8) - Stick in the Wheel
+ 354: (   8) - The Durutti Column
+ 355: (   8) - The Lost Brothers
+ 356: (   8) - Weyes Blood
+ 357: (   8) - White Fence
+ 358: (   8) - Woods
  359: (   7) - Billy Joel
  360: (   7) - Black Marble
  361: (   7) - Boubacar Traoré
