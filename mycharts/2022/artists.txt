@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1455            76            80           729
+    1490            76            81           745
  1: (191) - Lloyd Cole
  2: ( 85) - Lloyd Cole and the Commotions
  3: ( 75) - Johnny Marr
@@ -10,14 +10,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: ( 59) - Cowboy Junkies
  8: ( 55) - St. Vincent
  9: ( 50) - The Rolling Stones
-10: ( 42) - Bruce Springsteen
+10: ( 47) - Wet Leg
 
 
-11: ( 39) - Kate Bush
 
-12: ( 37) - Robert Plant
 
-13: ( 35) - Wet Leg
+11: ( 42) - Bruce Springsteen
+
+
+12: ( 39) - Kate Bush
+
+13: ( 37) - Robert Plant
+
+
 
 14: ( 33) - Father John Misty
 15: ( 33) - Talking Heads
@@ -32,46 +37,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 20: ( 25) - A Certain Ratio
 21: ( 24) - Margo Cilker
 22: ( 24) - The Cure
+23: ( 23) - Yo La Tengo
 
 
+24: ( 20) - The Blue Nile
+25: ( 19) - Bob Dylan
+26: ( 19) - Manfred Mann's Earth Band
 
-23: ( 20) - The Blue Nile
-24: ( 19) - Bob Dylan
-25: ( 19) - Manfred Mann's Earth Band
+27: ( 17) - Siouxsie and the Banshees
+28: ( 16) - Patti Smith
+29: ( 16) - Paul Haig
 
-26: ( 17) - Siouxsie and the Banshees
-27: ( 16) - Patti Smith
-28: ( 16) - Paul Haig
-
-29: ( 14) - Simple Minds
-30: ( 14) - The Fire Engines
-31: ( 13) - Arcade Fire
-32: ( 13) - B.E.F.
-33: ( 13) - Roxy Music
-34: ( 12) - The Pale Fountains
-35: ( 11) - Global News Podcast
-36: ( 11) - Josh Ritter
-37: ( 10) - Laura Marling
-38: ( 10) - The Church
-39: (  9) - Prefab Sprout
-40: (  7) - Edwyn Collins
-41: (  7) - Yo La Tengo
+30: ( 14) - Simple Minds
+31: ( 14) - The Fire Engines
+32: ( 13) - Arcade Fire
+33: ( 13) - B.E.F.
+34: ( 13) - Roxy Music
+35: ( 12) - The Pale Fountains
+36: ( 11) - Global News Podcast
+37: ( 11) - Josh Ritter
+38: ( 10) - Laura Marling
+39: ( 10) - The Church
+40: (  9) - Prefab Sprout
+41: (  7) - Edwyn Collins
 42: (  6) - Eilen Jewell
-43: (  6) - U2
-44: (  5) - T. Rex
-45: (  3) - In Our Time
-46: (  3) - New Order
-47: (  2) - Aztec Camera
-48: (  2) - Blue Orchids
-49: (  2) - Buzzcocks
-50: (  2) - Cabaret Voltaire
-51: (  2) - Deutsch Amerikanische Freundschaft
-52: (  2) - Essential Logic
-53: (  2) - Furious Pig
-54: (  2) - Ian Dury
-55: (  2) - James Blood Ulmer
-56: (  2) - Josef K
-57: (  2) - Michael Head & the Red Elastic Band
+43: (  6) - Josef K
+44: (  6) - U2
+45: (  5) - Michael Head & the Red Elastic Band
+46: (  5) - T. Rex
+47: (  3) - In Our Time
+48: (  3) - New Order
+49: (  2) - Aztec Camera
+50: (  2) - Blue Orchids
+51: (  2) - Buzzcocks
+52: (  2) - Cabaret Voltaire
+53: (  2) - Deutsch Amerikanische Freundschaft
+54: (  2) - Essential Logic
+55: (  2) - Furious Pig
+56: (  2) - Ian Dury
+57: (  2) - James Blood Ulmer
 58: (  2) - Panther Burns
 59: (  2) - Pere Ubu
 60: (  2) - Red Crayola
