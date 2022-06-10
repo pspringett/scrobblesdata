@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1490            76            81           745
+    1514            77            82           766
  1: (191) - Lloyd Cole
  2: ( 85) - Lloyd Cole and the Commotions
  3: ( 75) - Johnny Marr
@@ -44,54 +44,55 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 25: ( 19) - Bob Dylan
 26: ( 19) - Manfred Mann's Earth Band
 
-27: ( 17) - Siouxsie and the Banshees
-28: ( 16) - Patti Smith
-29: ( 16) - Paul Haig
+27: ( 17) - Michael Head & the Red Elastic Band
+28: ( 17) - Siouxsie and the Banshees
+29: ( 16) - Patti Smith
+30: ( 16) - Paul Haig
 
-30: ( 14) - Simple Minds
-31: ( 14) - The Fire Engines
-32: ( 13) - Arcade Fire
-33: ( 13) - B.E.F.
-34: ( 13) - Roxy Music
-35: ( 12) - The Pale Fountains
-36: ( 11) - Global News Podcast
-37: ( 11) - Josh Ritter
-38: ( 10) - Laura Marling
-39: ( 10) - The Church
-40: (  9) - Prefab Sprout
-41: (  7) - Edwyn Collins
-42: (  6) - Eilen Jewell
-43: (  6) - Josef K
-44: (  6) - U2
-45: (  5) - Michael Head & the Red Elastic Band
-46: (  5) - T. Rex
-47: (  3) - In Our Time
-48: (  3) - New Order
-49: (  2) - Aztec Camera
-50: (  2) - Blue Orchids
-51: (  2) - Buzzcocks
-52: (  2) - Cabaret Voltaire
-53: (  2) - Deutsch Amerikanische Freundschaft
-54: (  2) - Essential Logic
-55: (  2) - Furious Pig
-56: (  2) - Ian Dury
-57: (  2) - James Blood Ulmer
-58: (  2) - Panther Burns
-59: (  2) - Pere Ubu
-60: (  2) - Red Crayola
-61: (  2) - Robert Wyatt
-62: (  2) - Scritti Politti
-63: (  2) - Subway Sect
-64: (  2) - Television Personalities
-65: (  2) - The Beat
-66: (  2) - The Gist
-67: (  2) - The Masses Carnaby St. John Co
-68: (  2) - The Raincoats
-69: (  2) - Virgin Prunes
-70: (  2) - Wah! Heat
-71: (  1) - Bastille
-72: (  1) - Joan Shelley
-73: (  1) - Nancy Sinatra, Lee Hazlewood
-74: (  1) - The Beatles
-75: (  1) - The Black Keys
-76: (  1) - The War on Drugs
+31: ( 14) - Simple Minds
+32: ( 14) - The Fire Engines
+33: ( 13) - Arcade Fire
+34: ( 13) - B.E.F.
+35: ( 13) - Roxy Music
+36: ( 12) - The Pale Fountains
+37: ( 12) - The Waterboys
+38: ( 11) - Global News Podcast
+39: ( 11) - Josh Ritter
+40: ( 10) - Laura Marling
+41: ( 10) - The Church
+42: (  9) - Prefab Sprout
+43: (  7) - Edwyn Collins
+44: (  6) - Eilen Jewell
+45: (  6) - Josef K
+46: (  6) - U2
+47: (  5) - T. Rex
+48: (  3) - In Our Time
+49: (  3) - New Order
+50: (  2) - Aztec Camera
+51: (  2) - Blue Orchids
+52: (  2) - Buzzcocks
+53: (  2) - Cabaret Voltaire
+54: (  2) - Deutsch Amerikanische Freundschaft
+55: (  2) - Essential Logic
+56: (  2) - Furious Pig
+57: (  2) - Ian Dury
+58: (  2) - James Blood Ulmer
+59: (  2) - Panther Burns
+60: (  2) - Pere Ubu
+61: (  2) - Red Crayola
+62: (  2) - Robert Wyatt
+63: (  2) - Scritti Politti
+64: (  2) - Subway Sect
+65: (  2) - Television Personalities
+66: (  2) - The Beat
+67: (  2) - The Gist
+68: (  2) - The Masses Carnaby St. John Co
+69: (  2) - The Raincoats
+70: (  2) - Virgin Prunes
+71: (  2) - Wah! Heat
+72: (  1) - Bastille
+73: (  1) - Joan Shelley
+74: (  1) - Nancy Sinatra, Lee Hazlewood
+75: (  1) - The Beatles
+76: (  1) - The Black Keys
+77: (  1) - The War on Drugs
