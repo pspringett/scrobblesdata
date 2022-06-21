@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   62587          1130          1642         11054
+   62620          1130          1642         11056
    1: (2045) - Lloyd Cole
    2: (1977) - David Bowie
    3: (1686) - Bob Dylan
@@ -11,7 +11,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    8: (1009) - U2
    9: ( 984) - Tift Merritt
   10: ( 926) - Roxy Music
-  11: ( 890) - Simple Minds
+  11: ( 899) - Simple Minds
   12: ( 863) - Laura Marling
   13: ( 834) - Leonard Cohen
   14: ( 745) - New Order
@@ -54,11 +54,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   51: ( 357) - Hayes Carll
   52: ( 352) - The Undertones
   53: ( 329) - Aztec Camera
-  54: ( 314) - The Fall
-  55: ( 312) - Rod Stewart
-  56: ( 310) - Gretchen Peters
-  57: ( 306) - Heaven 17
-  58: ( 303) - The Waterboys
+  54: ( 317) - The Waterboys
+  55: ( 314) - The Fall
+  56: ( 312) - Rod Stewart
+  57: ( 310) - Gretchen Peters
+  58: ( 306) - Heaven 17
   59: ( 300) - The Weather Station
   60: ( 298) - Kate Bush
   61: ( 295) - Amanda Shires
@@ -258,19 +258,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  247: (  32) - Manfred Mann's Earth Band
  248: (  32) - Sea Power
+ 249: (  31) - Michael Head & the Red Elastic Band
+
+ 250: (  29) - The Felice Brothers
+ 251: (  29) - Yo La Tengo
 
 
- 249: (  29) - The Felice Brothers
- 250: (  29) - Yo La Tengo
+ 252: (  26) - Buffy Sainte-marie
+ 253: (  25) - Mike Oldfield
+ 254: (  24) - Margo Cilker
 
-
- 251: (  26) - Buffy Sainte-marie
- 252: (  25) - Mike Oldfield
- 253: (  24) - Margo Cilker
-
- 254: (  22) - Darling West
- 255: (  21) - Calexico
- 256: (  21) - Michael Head & the Red Elastic Band
+ 255: (  22) - Darling West
+ 256: (  21) - Calexico
  257: (  20) - Magazine
  258: (  20) - Scritti Politti
  259: (  20) - The Blue Nile
