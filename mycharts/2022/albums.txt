@@ -1,12 +1,13 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1564            77            82           768
+    1675            81            89           834
  1: (75) - Fever Dreams Pts 1 - 4 - Johnny Marr
  2: (61) * The Negatives - Lloyd Cole
- 3: (55) - Daddy's Home - St. Vincent
- 4: (52) * Rattlesnakes - Lloyd Cole and the Commotions
- 5: (48) - Nme C81 - Various
- 6: (47) - Wet Leg - Wet Leg
+ 3: (56) - Wet Leg - Wet Leg
+ 4: (55) - Daddy's Home - St. Vincent
+ 5: (52) * Rattlesnakes - Lloyd Cole and the Commotions
+ 6: (48) - Nme C81 - Various
+
 
 
 
@@ -34,66 +35,74 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 21: (27) - Collected Recordings 1983-1989 - Lloyd Cole
 22: (26) - The Kick Inside - Kate Bush
 23: (26) - You Can't Hide Your Love Forever - Orange Juice
-24: (25) - Sextet - A Certain Ratio
-25: (24) * Little Creatures - Talking Heads
-26: (24) - Pohorylle - Margo Cilker
-27: (24) * Scott 2 - Scott Walker
-28: (23) - I Can Hear The Heart Beating As One - Yo La Tengo
-29: (23) * Lay It Down - Cowboy Junkies
-30: (23) * Pinky Blue - Altered Images
+24: (25) - Everything Now - Arcade Fire
+25: (25) - Sextet - A Certain Ratio
+26: (24) * Little Creatures - Talking Heads
+27: (24) - Pohorylle - Margo Cilker
+28: (24) * Scott 2 - Scott Walker
+29: (23) - I Can Hear The Heart Beating As One - Yo La Tengo
+30: (23) * Lay It Down - Cowboy Junkies
+31: (23) - Marry Me - St. Vincent
+32: (23) * Pinky Blue - Altered Images
 
 
-31: (20) - A Walk Across The Rooftops - The Blue Nile
-32: (19) - The Roaring Silence - Manfred Mann's Earth Band
-33: (18) * New Gold Dream (81-82-83-84) - Simple Minds
-34: (18) * Scott - Scott Walker
-35: (17) - The Scream - Siouxsie and the Banshees
-36: (16) * Bite - Altered Images
-37: (16) * Faith - The Cure
-38: (16) * Happy Birthday - Altered Images
-39: (16) - Horses - Patti Smith
-40: (16) - Reflected Images - The Best Of Altered Images - Altered Images
-41: (16) - Swing In 82 - Paul Haig
+33: (20) - A Walk Across The Rooftops - The Blue Nile
+34: (19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
+35: (19) - Strange Mercy - St. Vincent
+36: (19) - The Roaring Silence - Manfred Mann's Earth Band
+37: (18) * New Gold Dream (81-82-83-84) - Simple Minds
+38: (18) * Scott - Scott Walker
+39: (17) - The Scream - Siouxsie and the Banshees
+40: (16) * Bite - Altered Images
+41: (16) * Faith - The Cure
+42: (16) * Happy Birthday - Altered Images
+43: (16) - Horses - Patti Smith
+44: (16) - Reflected Images - The Best Of Altered Images - Altered Images
+45: (16) - Swing In 82 - Paul Haig
 
-42: (14) - Codex Teenage Premonition - The Fire Engines
-43: (14) - Scott 3 - Scott Walker
-44: (14) - Talk On Corners - The Corrs
-45: (13) - 1981-2011 - B.E.F.
-46: (13) * Antidepressant - Lloyd Cole
-47: (13) - Everything Now - Arcade Fire
-48: (13) - The Kick Inside (2018 Remaster) - Kate Bush
-49: (12) - Forgiven, Not Forgotten - The Corrs
-50: (12) - Something On My Mind - The Pale Fountains
-51: (11) - Global News Podcast - Global News Podcast
-52: (11) - Sermon On The Rocks - Josh Ritter
-53: (10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
-54: (10) - Mainstream - Lloyd Cole
-55: (10) - Rough And Rowdy Ways - Bob Dylan
-56: (10) - Song For Our Daughter - Laura Marling
-57: (10) - Starfish - The Church
-58: ( 9) * Desire - Bob Dylan
-59: ( 9) - Siren - Roxy Music
-60: ( 9) - Speaking In Tongues - Talking Heads
-61: ( 8) * Don't Get Weird On Me Babe - Lloyd Cole
-62: ( 8) * Jordan: The Comeback - Prefab Sprout
-63: ( 8) * Seventeen Seconds - The Cure
-64: ( 7) - Elevation Days - Edwyn Collins
-65: ( 7) - Scott 4 - Scott Walker
-66: ( 6) - Boy (Remastered) - U2
-67: ( 6) * Sea Of Tears - Eilen Jewell
-68: ( 5) * Electric Warrior - T. Rex
-69: ( 5) - Sons And Fascination/Sister Feelings Call - Simple Minds
-70: ( 4) - For Your Pleasure - Roxy Music
-71: ( 4) - The Only Fun In Town - Josef K
-72: ( 3) - In Our Time - In Our Time
-73: ( 3) - Substance - New Order
-74: ( 2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
-75: ( 1) - Born In The U.S.A. - Bruce Springsteen
-76: ( 1) - Delta Kream - The Black Keys
-77: ( 1) - Give Me The Future - Bastille
-78: ( 1) - I Don’T Live Here Anymore - The War on Drugs
-79: ( 1) - Mascara Streakz - Altered Images
-80: ( 1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
-81: ( 1) - The Beatles (Remastered) - The Beatles
-82: ( 1) - The Spur - Joan Shelley
-83: ( 1) - Youtube - Prefab Sprout
+46: (14) - Codex Teenage Premonition - The Fire Engines
+47: (14) - Scott 3 - Scott Walker
+48: (14) - Talk On Corners - The Corrs
+49: (13) - 1981-2011 - B.E.F.
+50: (13) * Antidepressant - Lloyd Cole
+51: (13) - The Kick Inside (2018 Remaster) - Kate Bush
+52: (12) - Forgiven, Not Forgotten - The Corrs
+53: (12) - Mccartney - Paul McCartney
+54: (12) - Something On My Mind - The Pale Fountains
+55: (11) - Actor - St. Vincent
+56: (11) - Global News Podcast - Global News Podcast
+57: (11) - Sermon On The Rocks - Josh Ritter
+58: (10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
+59: (10) - Mainstream - Lloyd Cole
+60: (10) - Rough And Rowdy Ways - Bob Dylan
+61: (10) - Song For Our Daughter - Laura Marling
+62: (10) - Starfish - The Church
+63: ( 9) * Desire - Bob Dylan
+64: ( 9) - Siren - Roxy Music
+65: ( 9) - Speaking In Tongues - Talking Heads
+66: ( 8) * Don't Get Weird On Me Babe - Lloyd Cole
+67: ( 8) * Jordan: The Comeback - Prefab Sprout
+68: ( 8) * Seventeen Seconds - The Cure
+69: ( 7) - Elevation Days - Edwyn Collins
+70: ( 7) - Scott 4 - Scott Walker
+71: ( 6) - Boy (Remastered) - U2
+72: ( 6) * Sea Of Tears - Eilen Jewell
+73: ( 5) * Electric Warrior - T. Rex
+74: ( 5) - Sons And Fascination/Sister Feelings Call - Simple Minds
+75: ( 4) - For Your Pleasure - Roxy Music
+76: ( 4) - The Only Fun In Town - Josef K
+77: ( 4) - Where The Action Is - The Waterboys
+78: ( 3) - In Our Time - In Our Time
+79: ( 3) - Substance - New Order
+80: ( 2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
+81: ( 1) -  - Leonardcohenvevo
+82: ( 1) -  - Www.Independent.Co.Uk
+83: ( 1) - Born In The U.S.A. - Bruce Springsteen
+84: ( 1) - Delta Kream - The Black Keys
+85: ( 1) - Give Me The Future - Bastille
+86: ( 1) - I Don’T Live Here Anymore - The War on Drugs
+87: ( 1) - Mascara Streakz - Altered Images
+88: ( 1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
+89: ( 1) - The Beatles (Remastered) - The Beatles
+90: ( 1) - The Spur - Joan Shelley
+91: ( 1) - Youtube - Prefab Sprout

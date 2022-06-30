@@ -1,20 +1,16 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1564            77            82           768
+    1675            81            89           834
  1: (191) - Lloyd Cole
- 2: ( 85) - Lloyd Cole and the Commotions
- 3: ( 75) - Johnny Marr
- 4: ( 72) - Altered Images
- 5: ( 67) - Orange Juice
- 6: ( 63) - Scott Walker
- 7: ( 59) - Cowboy Junkies
- 8: ( 55) - St. Vincent
- 9: ( 50) - The Rolling Stones
-10: ( 47) - Wet Leg
-
-
-
-
+ 2: (108) - St. Vincent
+ 3: ( 85) - Lloyd Cole and the Commotions
+ 4: ( 75) - Johnny Marr
+ 5: ( 72) - Altered Images
+ 6: ( 67) - Orange Juice
+ 7: ( 63) - Scott Walker
+ 8: ( 59) - Cowboy Junkies
+ 9: ( 56) - Wet Leg
+10: ( 50) - The Rolling Stones
 11: ( 42) - Bruce Springsteen
 
 
@@ -23,74 +19,77 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 37) - Father John Misty
 14: ( 37) - Robert Plant
 
-
-15: ( 34) - The Linda Lindas
-16: ( 33) - Talking Heads
-17: ( 32) - Sea Power
-18: ( 31) - Michael Head & the Red Elastic Band
-19: ( 31) - The Waterboys
+15: ( 35) - The Waterboys
+16: ( 34) - The Linda Lindas
+17: ( 33) - Talking Heads
+18: ( 32) - Sea Power
+19: ( 31) - Michael Head & the Red Elastic Band
 20: ( 30) - The Fall
 
 
 
 21: ( 26) - The Corrs
 22: ( 25) - A Certain Ratio
-23: ( 24) - Margo Cilker
-24: ( 24) - The Cure
-25: ( 23) - Simple Minds
-26: ( 23) - Yo La Tengo
+23: ( 25) - Arcade Fire
+24: ( 24) - Margo Cilker
+25: ( 24) - The Cure
+26: ( 23) - Simple Minds
+27: ( 23) - Yo La Tengo
 
 
-27: ( 20) - The Blue Nile
-28: ( 19) - Bob Dylan
-29: ( 19) - Manfred Mann's Earth Band
+28: ( 20) - The Blue Nile
+29: ( 19) - Bob Dylan
+30: ( 19) - Manfred Mann's Earth Band
+31: ( 19) - Paul & Linda Mccartney
 
-30: ( 17) - Siouxsie and the Banshees
-31: ( 16) - Patti Smith
-32: ( 16) - Paul Haig
+32: ( 17) - Siouxsie and the Banshees
+33: ( 16) - Patti Smith
+34: ( 16) - Paul Haig
 
-33: ( 14) - The Fire Engines
-34: ( 13) - Arcade Fire
-35: ( 13) - B.E.F.
-36: ( 13) - Roxy Music
-37: ( 12) - The Pale Fountains
-38: ( 11) - Global News Podcast
-39: ( 11) - Josh Ritter
-40: ( 10) - Laura Marling
-41: ( 10) - The Church
-42: (  9) - Prefab Sprout
-43: (  7) - Edwyn Collins
-44: (  6) - Eilen Jewell
-45: (  6) - Josef K
-46: (  6) - U2
-47: (  5) - T. Rex
-48: (  3) - In Our Time
-49: (  3) - New Order
-50: (  2) - Aztec Camera
-51: (  2) - Blue Orchids
-52: (  2) - Buzzcocks
-53: (  2) - Cabaret Voltaire
-54: (  2) - Deutsch Amerikanische Freundschaft
-55: (  2) - Essential Logic
-56: (  2) - Furious Pig
-57: (  2) - Ian Dury
-58: (  2) - James Blood Ulmer
-59: (  2) - Panther Burns
-60: (  2) - Pere Ubu
-61: (  2) - Red Crayola
-62: (  2) - Robert Wyatt
-63: (  2) - Scritti Politti
-64: (  2) - Subway Sect
-65: (  2) - Television Personalities
-66: (  2) - The Beat
-67: (  2) - The Gist
-68: (  2) - The Masses Carnaby St. John Co
-69: (  2) - The Raincoats
-70: (  2) - Virgin Prunes
-71: (  2) - Wah! Heat
-72: (  1) - Bastille
-73: (  1) - Joan Shelley
-74: (  1) - Nancy Sinatra, Lee Hazlewood
-75: (  1) - The Beatles
-76: (  1) - The Black Keys
-77: (  1) - The War on Drugs
+35: ( 14) - The Fire Engines
+36: ( 13) - B.E.F.
+37: ( 13) - Roxy Music
+38: ( 12) - Paul McCartney
+39: ( 12) - The Pale Fountains
+40: ( 11) - Global News Podcast
+41: ( 11) - Josh Ritter
+42: ( 10) - Laura Marling
+43: ( 10) - The Church
+44: (  9) - Prefab Sprout
+45: (  7) - Edwyn Collins
+46: (  6) - Eilen Jewell
+47: (  6) - Josef K
+48: (  6) - U2
+49: (  5) - T. Rex
+50: (  3) - In Our Time
+51: (  3) - New Order
+52: (  2) - Aztec Camera
+53: (  2) - Blue Orchids
+54: (  2) - Buzzcocks
+55: (  2) - Cabaret Voltaire
+56: (  2) - Deutsch Amerikanische Freundschaft
+57: (  2) - Essential Logic
+58: (  2) - Furious Pig
+59: (  2) - Ian Dury
+60: (  2) - James Blood Ulmer
+61: (  2) - Panther Burns
+62: (  2) - Pere Ubu
+63: (  2) - Red Crayola
+64: (  2) - Robert Wyatt
+65: (  2) - Scritti Politti
+66: (  2) - Subway Sect
+67: (  2) - Television Personalities
+68: (  2) - The Beat
+69: (  2) - The Gist
+70: (  2) - The Masses Carnaby St. John Co
+71: (  2) - The Raincoats
+72: (  2) - Virgin Prunes
+73: (  2) - Wah! Heat
+74: (  1) - Bastille
+75: (  1) - Joan Shelley
+76: (  1) - Leonardcohenvevo
+77: (  1) - Nancy Sinatra, Lee Hazlewood
+78: (  1) - The Beatles
+79: (  1) - The Black Keys
+80: (  1) - The War on Drugs
+81: (  1) - Www.Independent.Co.Uk
