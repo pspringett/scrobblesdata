@@ -1,96 +1,113 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1687            82            90           841
- 1: (191) - Lloyd Cole
- 2: (115) - St. Vincent
+    1948            93           101           909
+ 1: (193) - St. Vincent
+ 2: (191) - Lloyd Cole
  3: ( 85) - Lloyd Cole and the Commotions
  4: ( 75) - Johnny Marr
  5: ( 72) - Altered Images
  6: ( 67) - Orange Juice
  7: ( 63) - Scott Walker
- 8: ( 59) - Cowboy Junkies
- 9: ( 56) - Wet Leg
-10: ( 50) - The Rolling Stones
-11: ( 42) - Bruce Springsteen
-
-
-12: ( 39) - Kate Bush
-
-13: ( 37) - Father John Misty
-14: ( 37) - Robert Plant
-
-15: ( 35) - The Waterboys
-16: ( 34) - The Linda Lindas
-17: ( 33) - Talking Heads
-18: ( 32) - Sea Power
-19: ( 31) - Michael Head & the Red Elastic Band
-20: ( 30) - The Fall
+ 8: ( 61) - Wet Leg
+ 9: ( 59) - Cowboy Junkies
+10: ( 53) - The Rolling Stones
+11: ( 52) - The Waterboys
+12: ( 48) - Beabadoobee
+13: ( 48) - Paul McCartney
 
 
 
-21: ( 26) - The Corrs
-22: ( 25) - A Certain Ratio
-23: ( 25) - Arcade Fire
-24: ( 24) - Margo Cilker
-25: ( 24) - The Cure
-26: ( 23) - Simple Minds
-27: ( 23) - Yo La Tengo
 
 
-28: ( 20) - The Blue Nile
-29: ( 19) - Bob Dylan
-30: ( 19) - Manfred Mann's Earth Band
-31: ( 19) - Paul & Linda Mccartney
+14: ( 42) - Bruce Springsteen
 
-32: ( 17) - Siouxsie and the Banshees
-33: ( 16) - Patti Smith
-34: ( 16) - Paul Haig
 
-35: ( 14) - The Fire Engines
-36: ( 13) - B.E.F.
-37: ( 13) - Roxy Music
-38: ( 12) - Paul McCartney
-39: ( 12) - The Pale Fountains
-40: ( 11) - Global News Podcast
-41: ( 11) - Josh Ritter
-42: ( 10) - Laura Marling
-43: ( 10) - The Church
-44: (  9) - Prefab Sprout
-45: (  7) - Edwyn Collins
-46: (  7) - New Order
-47: (  6) - Eilen Jewell
-48: (  6) - Josef K
-49: (  6) - U2
-50: (  5) - T. Rex
-51: (  3) - In Our Time
-52: (  2) - Aztec Camera
-53: (  2) - Blue Orchids
-54: (  2) - Buzzcocks
-55: (  2) - Cabaret Voltaire
-56: (  2) - Deutsch Amerikanische Freundschaft
-57: (  2) - Essential Logic
-58: (  2) - Furious Pig
-59: (  2) - Ian Dury
-60: (  2) - James Blood Ulmer
-61: (  2) - Panther Burns
-62: (  2) - Pere Ubu
-63: (  2) - Red Crayola
-64: (  2) - Robert Wyatt
-65: (  2) - Scritti Politti
-66: (  2) - Subway Sect
-67: (  2) - Television Personalities
-68: (  2) - The Beat
-69: (  2) - The Gist
-70: (  2) - The Masses Carnaby St. John Co
-71: (  2) - The Raincoats
-72: (  2) - Virgin Prunes
-73: (  2) - Wah! Heat
-74: (  1) - Bastille
-75: (  1) - Joan Shelley
-76: (  1) - Leonardcohenvevo
-77: (  1) - Nancy Sinatra, Lee Hazlewood
-78: (  1) - Rjciccone
-79: (  1) - The Beatles
-80: (  1) - The Black Keys
-81: (  1) - The War on Drugs
-82: (  1) - Www.Independent.Co.Uk
+15: ( 39) - Kate Bush
+
+16: ( 37) - Father John Misty
+17: ( 37) - Robert Plant
+
+
+18: ( 34) - The Linda Lindas
+19: ( 33) - Talking Heads
+20: ( 32) - Sea Power
+21: ( 31) - Michael Head & the Red Elastic Band
+22: ( 30) - The Fall
+
+
+
+23: ( 26) - The Corrs
+24: ( 25) - A Certain Ratio
+25: ( 25) - Arcade Fire
+26: ( 24) - Margo Cilker
+27: ( 24) - The Cure
+28: ( 23) - Simple Minds
+29: ( 23) - Yo La Tengo
+
+
+30: ( 20) - The Blue Nile
+31: ( 19) - Bob Dylan
+32: ( 19) - Manfred Mann's Earth Band
+33: ( 19) - Paul & Linda Mccartney
+34: ( 19) - Suzanne Vega
+
+35: ( 17) - Siouxsie and the Banshees
+36: ( 16) - Leonard Cohen
+37: ( 16) - Patti Smith
+38: ( 16) - Paul Haig
+
+39: ( 14) - The Fire Engines
+40: ( 13) - B.E.F.
+41: ( 13) - Roxy Music
+42: ( 12) - The Associates
+43: ( 12) - The Pale Fountains
+44: ( 11) - Global News Podcast
+45: ( 11) - Josh Ritter
+46: ( 10) - Laura Marling
+47: ( 10) - The Church
+48: (  9) - David Bowie
+49: (  9) - Echo & the Bunnymen
+50: (  9) - Prefab Sprout
+51: (  7) - Edwyn Collins
+52: (  7) - New Order
+53: (  6) - Eilen Jewell
+54: (  6) - Josef K
+55: (  6) - U2
+56: (  5) - T. Rex
+57: (  3) - Beabadoobee, Pinkpantheress
+58: (  3) - In Our Time
+59: (  2) - Aztec Camera
+60: (  2) - Blue Orchids
+61: (  2) - Buzzcocks
+62: (  2) - Cabaret Voltaire
+63: (  2) - Deutsch Amerikanische Freundschaft
+64: (  2) - Essential Logic
+65: (  2) - Furious Pig
+66: (  2) - Ian Dury
+67: (  2) - Inhaler
+68: (  2) - James Blood Ulmer
+69: (  2) - Panther Burns
+70: (  2) - Pere Ubu
+71: (  2) - Red Crayola
+72: (  2) - Robert Wyatt
+73: (  2) - Scritti Politti
+74: (  2) - Subway Sect
+75: (  2) - Television Personalities
+76: (  2) - The Beat
+77: (  2) - The Gist
+78: (  2) - The Masses Carnaby St. John Co
+79: (  2) - The Raincoats
+80: (  2) - Virgin Prunes
+81: (  2) - Wah! Heat
+82: (  2) - Www.Independent.Co.Uk
+83: (  1) - Bastille
+84: (  1) - Feist
+85: (  1) - Howard Jones
+86: (  1) - Human League
+87: (  1) - Joan Shelley
+88: (  1) - Leonardcohenvevo
+89: (  1) - Nancy Sinatra, Lee Hazlewood
+90: (  1) - Rjciccone
+91: (  1) - The Beatles
+92: (  1) - The Black Keys
+93: (  1) - The War on Drugs
