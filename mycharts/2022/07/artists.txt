@@ -1,19 +1,8 @@
 Specified year (2022), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     268            17            17           122
- 1: (85) - St. Vincent
- 2: (48) - Beabadoobee
-
-
-
-
-
-
-
-
-
-
-
+     284            17            17           122
+ 1: (87) - St. Vincent
+ 2: (61) - Beabadoobee
  3: (36) - Paul McCartney
 
 
@@ -44,7 +33,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: ( 9) - David Bowie
  9: ( 9) - Echo & the Bunnymen
 10: ( 5) - Wet Leg
-11: ( 3) - Beabadoobee, Pinkpantheress
+11: ( 4) - Beabadoobee, Pinkpantheress
 12: ( 3) - The Rolling Stones
 13: ( 2) - Inhaler
 14: ( 1) - Feist

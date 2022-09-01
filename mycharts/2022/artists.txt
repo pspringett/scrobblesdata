@@ -1,113 +1,120 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1948            93           101           909
- 1: (193) - St. Vincent
- 2: (191) - Lloyd Cole
- 3: ( 85) - Lloyd Cole and the Commotions
- 4: ( 75) - Johnny Marr
- 5: ( 72) - Altered Images
- 6: ( 67) - Orange Juice
- 7: ( 63) - Scott Walker
- 8: ( 61) - Wet Leg
- 9: ( 59) - Cowboy Junkies
-10: ( 53) - The Rolling Stones
-11: ( 52) - The Waterboys
-12: ( 48) - Beabadoobee
-13: ( 48) - Paul McCartney
+    2221           108           116          1022
+  1: (229) - Lloyd Cole
+  2: (195) - St. Vincent
+  3: (115) - Altered Images
+  4: ( 85) - Lloyd Cole and the Commotions
+  5: ( 75) - Beabadoobee
+  6: ( 75) - Johnny Marr
+  7: ( 70) - Orange Juice
+  8: ( 63) - Paul McCartney
+  9: ( 63) - Scott Walker
+ 10: ( 62) - Cowboy Junkies
+ 11: ( 62) - The Waterboys
+ 12: ( 61) - Wet Leg
+ 13: ( 53) - The Rolling Stones
+ 14: ( 42) - Bruce Springsteen
+
+ 15: ( 40) - Prefab Sprout
+ 16: ( 39) - Kate Bush
+
+ 17: ( 37) - Father John Misty
+ 18: ( 37) - Robert Plant
 
 
+ 19: ( 34) - The Linda Lindas
+ 20: ( 33) - Talking Heads
+ 21: ( 32) - Sea Power
+ 22: ( 31) - Michael Head & the Red Elastic Band
+ 23: ( 30) - Amanda Shires
+ 24: ( 30) - The Fall
+
+ 25: ( 28) - Simple Minds
+
+ 26: ( 26) - That Petrol Emotion
+ 27: ( 26) - The Corrs
+ 28: ( 25) - A Certain Ratio
+ 29: ( 25) - Arcade Fire
+ 30: ( 24) - Margo Cilker
+ 31: ( 24) - The Cure
+ 32: ( 23) - Yo La Tengo
 
 
+ 33: ( 20) - The Blue Nile
+ 34: ( 19) - Bob Dylan
+ 35: ( 19) - Manfred Mann's Earth Band
+ 36: ( 19) - Paul & Linda Mccartney
+ 37: ( 19) - Suzanne Vega
 
-14: ( 42) - Bruce Springsteen
-
-
-15: ( 39) - Kate Bush
-
-16: ( 37) - Father John Misty
-17: ( 37) - Robert Plant
-
-
-18: ( 34) - The Linda Lindas
-19: ( 33) - Talking Heads
-20: ( 32) - Sea Power
-21: ( 31) - Michael Head & the Red Elastic Band
-22: ( 30) - The Fall
-
-
-
-23: ( 26) - The Corrs
-24: ( 25) - A Certain Ratio
-25: ( 25) - Arcade Fire
-26: ( 24) - Margo Cilker
-27: ( 24) - The Cure
-28: ( 23) - Simple Minds
-29: ( 23) - Yo La Tengo
-
-
-30: ( 20) - The Blue Nile
-31: ( 19) - Bob Dylan
-32: ( 19) - Manfred Mann's Earth Band
-33: ( 19) - Paul & Linda Mccartney
-34: ( 19) - Suzanne Vega
-
-35: ( 17) - Siouxsie and the Banshees
-36: ( 16) - Leonard Cohen
-37: ( 16) - Patti Smith
-38: ( 16) - Paul Haig
-
-39: ( 14) - The Fire Engines
-40: ( 13) - B.E.F.
-41: ( 13) - Roxy Music
-42: ( 12) - The Associates
-43: ( 12) - The Pale Fountains
-44: ( 11) - Global News Podcast
-45: ( 11) - Josh Ritter
-46: ( 10) - Laura Marling
-47: ( 10) - The Church
-48: (  9) - David Bowie
-49: (  9) - Echo & the Bunnymen
-50: (  9) - Prefab Sprout
-51: (  7) - Edwyn Collins
-52: (  7) - New Order
-53: (  6) - Eilen Jewell
-54: (  6) - Josef K
-55: (  6) - U2
-56: (  5) - T. Rex
-57: (  3) - Beabadoobee, Pinkpantheress
-58: (  3) - In Our Time
-59: (  2) - Aztec Camera
-60: (  2) - Blue Orchids
-61: (  2) - Buzzcocks
-62: (  2) - Cabaret Voltaire
-63: (  2) - Deutsch Amerikanische Freundschaft
-64: (  2) - Essential Logic
-65: (  2) - Furious Pig
-66: (  2) - Ian Dury
-67: (  2) - Inhaler
-68: (  2) - James Blood Ulmer
-69: (  2) - Panther Burns
-70: (  2) - Pere Ubu
-71: (  2) - Red Crayola
-72: (  2) - Robert Wyatt
-73: (  2) - Scritti Politti
-74: (  2) - Subway Sect
-75: (  2) - Television Personalities
-76: (  2) - The Beat
-77: (  2) - The Gist
-78: (  2) - The Masses Carnaby St. John Co
-79: (  2) - The Raincoats
-80: (  2) - Virgin Prunes
-81: (  2) - Wah! Heat
-82: (  2) - Www.Independent.Co.Uk
-83: (  1) - Bastille
-84: (  1) - Feist
-85: (  1) - Howard Jones
-86: (  1) - Human League
-87: (  1) - Joan Shelley
-88: (  1) - Leonardcohenvevo
-89: (  1) - Nancy Sinatra, Lee Hazlewood
-90: (  1) - Rjciccone
-91: (  1) - The Beatles
-92: (  1) - The Black Keys
-93: (  1) - The War on Drugs
+ 38: ( 17) - Siouxsie and the Banshees
+ 39: ( 16) - Leonard Cohen
+ 40: ( 16) - Patti Smith
+ 41: ( 16) - Paul Haig
+ 42: ( 15) - Blondie
+ 43: ( 14) - The Fire Engines
+ 44: ( 13) - B.E.F.
+ 45: ( 13) - Roxy Music
+ 46: ( 12) - The Associates
+ 47: ( 12) - The Pale Fountains
+ 48: ( 11) - Global News Podcast
+ 49: ( 11) - Josh Ritter
+ 50: ( 10) - Laura Marling
+ 51: ( 10) - The Church
+ 52: (  9) - David Bowie
+ 53: (  9) - Echo & the Bunnymen
+ 54: (  7) - Della Mae
+ 55: (  7) - Edwyn Collins
+ 56: (  7) - New Order
+ 57: (  6) - Eilen Jewell
+ 58: (  6) - Josef K
+ 59: (  6) - U2
+ 60: (  5) - T. Rex
+ 61: (  4) - Beabadoobee, Pinkpantheress
+ 62: (  4) - The Undertones
+ 63: (  3) - In Our Time
+ 64: (  3) - The News Agents
+ 65: (  2) - Aztec Camera
+ 66: (  2) - Blue Orchids
+ 67: (  2) - Buzzcocks
+ 68: (  2) - Cabaret Voltaire
+ 69: (  2) - Deutsch Amerikanische Freundschaft
+ 70: (  2) - Essential Logic
+ 71: (  2) - Furious Pig
+ 72: (  2) - Ian Dury
+ 73: (  2) - Inhaler
+ 74: (  2) - James Blood Ulmer
+ 75: (  2) - Panther Burns
+ 76: (  2) - Pere Ubu
+ 77: (  2) - Red Crayola
+ 78: (  2) - Robert Wyatt
+ 79: (  2) - Scritti Politti
+ 80: (  2) - Subway Sect
+ 81: (  2) - Television Personalities
+ 82: (  2) - The Beat
+ 83: (  2) - The Gist
+ 84: (  2) - The Masses Carnaby St. John Co
+ 85: (  2) - The Raincoats
+ 86: (  2) - Virgin Prunes
+ 87: (  2) - Wah! Heat
+ 88: (  2) - Waylon Jennings
+ 89: (  2) - Www.Independent.Co.Uk
+ 90: (  1) - Andrew Bird, Lucius
+ 91: (  1) - Bastille
+ 92: (  1) - Feist
+ 93: (  1) - Findaclip
+ 94: (  1) - Howard Jones
+ 95: (  1) - Human League
+ 96: (  1) - Japan
+ 97: (  1) - Joan Shelley
+ 98: (  1) - Leonardcohenvevo
+ 99: (  1) - Matt Berninger
+100: (  1) - Michael Stipe
+101: (  1) - Nancy Sinatra, Lee Hazlewood
+102: (  1) - Nick Cave
+103: (  1) - Rjciccone
+104: (  1) - Series 12
+105: (  1) - Sharon Van Etten
+106: (  1) - The Beatles
+107: (  1) - The Black Keys
+108: (  1) - The War on Drugs
