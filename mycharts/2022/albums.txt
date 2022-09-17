@@ -1,17 +1,18 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2221           108           116          1022
-  1: (82) - Strange Mercy - St. Vincent
-  2: (79) - Daddy's Home - St. Vincent
-  3: (75) - Beatopia - Beabadoobee
-  4: (75) - Fever Dreams Pts 1 - 4 - Johnny Marr
-  5: (73) * The Negatives - Lloyd Cole
-  6: (63) - Mccartney - Paul McCartney
-  7: (61) - Wet Leg - Wet Leg
-  8: (52) * Rattlesnakes - Lloyd Cole and the Commotions
-  9: (51) * Bad Vibes - Lloyd Cole
- 10: (48) - An Appointment With Mr Yeats - The Waterboys
- 11: (48) - Nme C81 - Various
+    2396           123           138          1116
+  1: (91) - Mascara Streakz - Altered Images
+  2: (82) - Strange Mercy - St. Vincent
+  3: (79) - Daddy's Home - St. Vincent
+  4: (78) - Beatopia - Beabadoobee
+  5: (75) - Fever Dreams Pts 1 - 4 - Johnny Marr
+  6: (73) * The Negatives - Lloyd Cole
+  7: (63) - Mccartney - Paul McCartney
+  8: (61) - Wet Leg - Wet Leg
+  9: (52) * Rattlesnakes - Lloyd Cole and the Commotions
+ 10: (51) * Bad Vibes - Lloyd Cole
+ 11: (48) - An Appointment With Mr Yeats - The Waterboys
+ 12: (48) - Nme C81 - Various
 
 
 
@@ -19,23 +20,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 12: (40) - Let It Bleed - The Rolling Stones
- 13: (39) - Born To Run - Bruce Springsteen
- 14: (39) - Coals To Newcastle - Orange Juice
- 15: (39) * Jordan: The Comeback - Prefab Sprout
+ 13: (40) - Let It Bleed - The Rolling Stones
+ 14: (39) - Born To Run - Bruce Springsteen
+ 15: (39) - Coals To Newcastle - Orange Juice
+ 16: (39) * Jordan: The Comeback - Prefab Sprout
+ 17: (38) - Chloë And The Next 20Th Century - Father John Misty
+ 18: (37) - Raise The Roof (Deluxe Edition) - Robert Plant
+ 19: (37) - Songs Of The Recollection - Cowboy Junkies
 
- 16: (37) - Chloë And The Next 20Th Century - Father John Misty
- 17: (37) - Raise The Roof (Deluxe Edition) - Robert Plant
- 18: (37) - Songs Of The Recollection - Cowboy Junkies
 
- 19: (35) - Mascara Streakz - Altered Images
  20: (34) - Growing Up - The Linda Lindas
  21: (33) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
  22: (32) - Everything Was Forever - Sea Power
  23: (32) - Music In A Foreign Language - Lloyd Cole
  24: (31) - Dear Scott - Michael Head & the Red Elastic Band
- 25: (30) - Hex Enduction Hour (Expanded Deluxe Edition) - The Fall
- 26: (30) - Take It Like A Man - Amanda Shires
+ 25: (31) - Take It Like A Man - Amanda Shires
+ 26: (30) - Hex Enduction Hour (Expanded Deluxe Edition) - The Fall
 
 
  27: (27) - Collected Recordings 1983-1989 - Lloyd Cole
@@ -55,85 +55,113 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  41: (23) * New Gold Dream (81-82-83-84) - Simple Minds
  42: (23) * Pinky Blue - Altered Images
 
+ 43: (21) - Bad Vibes Demos - Lloyd Cole
+ 44: (20) - A Walk Across The Rooftops - The Blue Nile
+ 45: (19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
+ 46: (19) - Solitude Standing - Suzanne Vega
+ 47: (19) - The Roaring Silence - Manfred Mann's Earth Band
+ 48: (18) * Scott - Scott Walker
+ 49: (17) - The Scream - Siouxsie and the Banshees
+ 50: (16) * Faith - The Cure
+ 51: (16) * Happy Birthday - Altered Images
+ 52: (16) - Horses - Patti Smith
+ 53: (16) * I'm Your Man - Leonard Cohen
+ 54: (16) - Reflected Images - The Best Of Altered Images - Altered Images
+ 55: (16) - Swing In 82 - Paul Haig
 
- 43: (20) - A Walk Across The Rooftops - The Blue Nile
- 44: (19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
- 45: (19) - Solitude Standing - Suzanne Vega
- 46: (19) - The Roaring Silence - Manfred Mann's Earth Band
- 47: (18) * Scott - Scott Walker
- 48: (17) - The Scream - Siouxsie and the Banshees
- 49: (16) * Faith - The Cure
- 50: (16) * Happy Birthday - Altered Images
- 51: (16) - Horses - Patti Smith
- 52: (16) * I'm Your Man - Leonard Cohen
- 53: (16) - Reflected Images - The Best Of Altered Images - Altered Images
- 54: (16) - Swing In 82 - Paul Haig
-
- 55: (14) - Codex Teenage Premonition - The Fire Engines
- 56: (14) - Scott 3 - Scott Walker
- 57: (14) - Talk On Corners - The Corrs
- 58: (14) - Where The Action Is - The Waterboys
- 59: (13) - 1981-2011 - B.E.F.
- 60: (13) - The Kick Inside (2018 Remaster) - Kate Bush
- 61: (12) - Forgiven, Not Forgotten - The Corrs
- 62: (12) - Fourth Drawer Down - The Associates
- 63: (12) - Something On My Mind - The Pale Fountains
- 64: (11) - Actor - St. Vincent
- 65: (11) - Global News Podcast - Global News Podcast
- 66: (11) - Parallel Lines: Deluxe Collector's Edition - Blondie
- 67: (11) - Sermon On The Rocks - Josh Ritter
- 68: (10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
- 69: (10) - Mainstream - Lloyd Cole
- 70: (10) - Rough And Rowdy Ways - Bob Dylan
- 71: (10) - Song For Our Daughter - Laura Marling
- 72: (10) - Starfish - The Church
- 73: ( 9) * Desire - Bob Dylan
- 74: ( 9) - Low (2017 Remaster) - David Bowie
- 75: ( 9) - Siren - Roxy Music
- 76: ( 9) - Speaking In Tongues - Talking Heads
- 77: ( 9) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
- 78: ( 8) * Don't Get Weird On Me Babe - Lloyd Cole
- 79: ( 8) * Seventeen Seconds - The Cure
- 80: ( 7) - Elevation Days - Edwyn Collins
- 81: ( 7) - Family Reunion - Della Mae
- 82: ( 7) - Scott 4 - Scott Walker
- 83: ( 6) - Boy (Remastered) - U2
- 84: ( 6) * Sea Of Tears - Eilen Jewell
- 85: ( 5) * Electric Warrior - T. Rex
- 86: ( 5) * Love Story - Lloyd Cole
- 87: ( 5) - Sons And Fascination/Sister Feelings Call - Simple Minds
- 88: ( 4) - Beatopia - Beabadoobee, Pinkpantheress
- 89: ( 4) - For Your Pleasure - Roxy Music
- 90: ( 4) - I’Ll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Various
- 91: ( 4) - Plastic Letters - Blondie
- 92: ( 4) - Power Corruption And Lies - New Order
- 93: ( 4) - The Only Fun In Town - Josef K
- 94: ( 4) - The Sin Of Pride - The Undertones
- 95: ( 3) - In Our Time - In Our Time
- 96: ( 3) - Let It Bleed (50Th Anniversary Edition / Remastered 2019) - The Rolling Stones
- 97: ( 3) - Substance - New Order
- 98: ( 3) - The News Agents - The News Agents
- 99: ( 2) -  - Www.Independent.Co.Uk
-100: ( 2) - Dreaming My Dreams - Waylon Jennings
-101: ( 2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
-102: ( 2) - It Won't Always Be Like This - Inhaler
-103: ( 2) * Texas Fever - Orange Juice
-104: ( 2) * The Trinity Session - Cowboy Junkies
-105: ( 1) -  - Findaclip
-106: ( 1) -  - Leonardcohenvevo
-107: ( 1) -  - Rjciccone
-108: ( 1) -  - Series 12
-109: ( 1) - Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex - Nick Cave
-110: ( 1) - Born In The U.S.A. - Bruce Springsteen
-111: ( 1) - Delta Kream - The Black Keys
-112: ( 1) - Dream Into Action - Howard Jones
-113: ( 1) - Give Me The Future - Bastille
-114: ( 1) - I Don’T Live Here Anymore - The War on Drugs
-115: ( 1) - Metals - Feist
-116: ( 1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
-117: ( 1) - The Beatles (Remastered) - The Beatles
-118: ( 1) * The Orange Juice - Orange Juice
-119: ( 1) - The Spur - Joan Shelley
-120: ( 1) - Tin Drum - Japan
-121: ( 1) - Travelogue - Human League
-122: ( 1) - Youtube - Prefab Sprout
+ 56: (14) - Codex Teenage Premonition - The Fire Engines
+ 57: (14) - Scott 3 - Scott Walker
+ 58: (14) - Talk On Corners - The Corrs
+ 59: (14) - Where The Action Is - The Waterboys
+ 60: (13) - 1981-2011 - B.E.F.
+ 61: (13) - The Kick Inside (2018 Remaster) - Kate Bush
+ 62: (12) - Forgiven, Not Forgotten - The Corrs
+ 63: (12) - Fourth Drawer Down - The Associates
+ 64: (12) - Garbage Island - The Burning Hell
+ 65: (12) - Something On My Mind - The Pale Fountains
+ 66: (11) - Actor - St. Vincent
+ 67: (11) - Global News Podcast - Global News Podcast
+ 68: (11) - Parallel Lines: Deluxe Collector's Edition - Blondie
+ 69: (11) - Rough And Rowdy Ways - Bob Dylan
+ 70: (11) - Sermon On The Rocks - Josh Ritter
+ 71: (11) * Standards - Lloyd Cole
+ 72: (10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
+ 73: (10) * Cleaning Out The Ashtrays CD2 - Re-make/Re-model - Lloyd Cole
+ 74: (10) - Mainstream - Lloyd Cole
+ 75: (10) - Song For Our Daughter - Laura Marling
+ 76: (10) - Starfish - The Church
+ 77: ( 9) * Desire - Bob Dylan
+ 78: ( 9) - Low (2017 Remaster) - David Bowie
+ 79: ( 9) - Siren - Roxy Music
+ 80: ( 9) - Speaking In Tongues - Talking Heads
+ 81: ( 9) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
+ 82: ( 8) * Don't Get Weird On Me Babe - Lloyd Cole
+ 83: ( 8) * Electric Warrior - T. Rex
+ 84: ( 8) * Seventeen Seconds - The Cure
+ 85: ( 7) - Elevation Days - Edwyn Collins
+ 86: ( 7) - Family Reunion - Della Mae
+ 87: ( 7) - Scott 4 - Scott Walker
+ 88: ( 7) - Singles 1965-1967 - The Rolling Stones
+ 89: ( 7) - The News Agents - The News Agents
+ 90: ( 6) - Boy (Remastered) - U2
+ 91: ( 6) * Sea Of Tears - Eilen Jewell
+ 92: ( 5) - Beatopia - Beabadoobee, Pinkpantheress
+ 93: ( 5) * Love Story - Lloyd Cole
+ 94: ( 5) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 95: ( 5) - Stranded - Roxy Music
+ 96: ( 4) - For Your Pleasure - Roxy Music
+ 97: ( 4) - I’Ll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Various
+ 98: ( 4) - On Sunset (Deluxe) - Paul Weller
+ 99: ( 4) - Plastic Letters - Blondie
+100: ( 4) - Power Corruption And Lies - New Order
+101: ( 4) - The Only Fun In Town - Josef K
+102: ( 4) - The Sin Of Pride - The Undertones
+103: ( 3) - 40 Years - The Greatest Hits - Spandau Ballet
+104: ( 3) - Blonde On The Tracks - Emma Swift
+105: ( 3) - Empires And Dance - Simple Minds
+106: ( 3) - In Our Time - In Our Time
+107: ( 3) - Let It Bleed (50Th Anniversary Edition / Remastered 2019) - The Rolling Stones
+108: ( 3) - Substance - New Order
+109: ( 3) - Tanx (The Visconti Master) - T. Rex
+110: ( 3) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+111: ( 2) -  - Www.Independent.Co.Uk
+112: ( 2) - Bolan's Zip Gun - T. Rex
+113: ( 2) - Dreaming My Dreams - Waylon Jennings
+114: ( 2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
+115: ( 2) - It Won't Always Be Like This - Inhaler
+116: ( 2) - Old Hands - Yonder Mountain String Band
+117: ( 2) * Texas Fever - Orange Juice
+118: ( 2) * The Trinity Session - Cowboy Junkies
+119: ( 2) - True (Special Edition) - Spandau Ballet
+120: ( 1) -  - Findaclip
+121: ( 1) -  - Leonardcohenvevo
+122: ( 1) -  - Rjciccone
+123: ( 1) -  - Series 12
+124: ( 1) -  - T. Rex
+125: ( 1) -  - T.Rex
+126: ( 1) - 80S Mixtape - Bon Jovi
+127: ( 1) - 80S Mixtape - Human League
+128: ( 1) - 80S Mixtape - Simple Minds
+129: ( 1) - 80S Mixtape - Soft Cell
+130: ( 1) - 80S Mixtape - Tears for Fears
+131: ( 1) - 80S Mixtape - UB40
+132: ( 1) - Americast - Americast
+133: ( 1) - Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex - Nick Cave
+134: ( 1) - Blooms & Barnacles - Blooms & Barnacles
+135: ( 1) - Born In The U.S.A. - Bruce Springsteen
+136: ( 1) - Delta Kream - The Black Keys
+137: ( 1) - Dream Into Action - Howard Jones
+138: ( 1) - Futuristic Dragon (Deluxe Edition) - T. Rex
+139: ( 1) - Get It On: The Collection - T. Rex
+140: ( 1) - Give Me The Future - Bastille
+141: ( 1) - I Don’T Live Here Anymore - The War on Drugs
+142: ( 1) - Metals - Feist
+143: ( 1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
+144: ( 1) - Revelators - Revelators Sound System
+145: ( 1) - Shout - Placebo
+146: ( 1) - The Beatles (Remastered) - The Beatles
+147: ( 1) * The Orange Juice - Orange Juice
+148: ( 1) - The Spur - Joan Shelley
+149: ( 1) - Tin Drum - Japan
+150: ( 1) - Travelogue - Human League
+151: ( 1) - Youtube - Prefab Sprout

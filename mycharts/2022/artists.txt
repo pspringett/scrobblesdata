@@ -1,11 +1,11 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2221           108           116          1022
-  1: (229) - Lloyd Cole
+    2396           123           138          1116
+  1: (271) - Lloyd Cole
   2: (195) - St. Vincent
-  3: (115) - Altered Images
+  3: (171) - Altered Images
   4: ( 85) - Lloyd Cole and the Commotions
-  5: ( 75) - Beabadoobee
+  5: ( 78) - Beabadoobee
   6: ( 75) - Johnny Marr
   7: ( 70) - Orange Juice
   8: ( 63) - Paul McCartney
@@ -13,24 +13,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  10: ( 62) - Cowboy Junkies
  11: ( 62) - The Waterboys
  12: ( 61) - Wet Leg
- 13: ( 53) - The Rolling Stones
+ 13: ( 60) - The Rolling Stones
  14: ( 42) - Bruce Springsteen
 
  15: ( 40) - Prefab Sprout
  16: ( 39) - Kate Bush
-
- 17: ( 37) - Father John Misty
+ 17: ( 38) - Father John Misty
  18: ( 37) - Robert Plant
 
 
  19: ( 34) - The Linda Lindas
  20: ( 33) - Talking Heads
  21: ( 32) - Sea Power
- 22: ( 31) - Michael Head & the Red Elastic Band
- 23: ( 30) - Amanda Shires
- 24: ( 30) - The Fall
+ 22: ( 32) - Simple Minds
+ 23: ( 31) - Amanda Shires
+ 24: ( 31) - Michael Head & the Red Elastic Band
+ 25: ( 30) - The Fall
 
- 25: ( 28) - Simple Minds
+
 
  26: ( 26) - That Petrol Emotion
  27: ( 26) - The Corrs
@@ -41,80 +41,94 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 23) - Yo La Tengo
 
 
- 33: ( 20) - The Blue Nile
- 34: ( 19) - Bob Dylan
+ 33: ( 20) - Bob Dylan
+ 34: ( 20) - The Blue Nile
  35: ( 19) - Manfred Mann's Earth Band
  36: ( 19) - Paul & Linda Mccartney
  37: ( 19) - Suzanne Vega
-
- 38: ( 17) - Siouxsie and the Banshees
- 39: ( 16) - Leonard Cohen
- 40: ( 16) - Patti Smith
- 41: ( 16) - Paul Haig
- 42: ( 15) - Blondie
- 43: ( 14) - The Fire Engines
- 44: ( 13) - B.E.F.
- 45: ( 13) - Roxy Music
- 46: ( 12) - The Associates
- 47: ( 12) - The Pale Fountains
- 48: ( 11) - Global News Podcast
- 49: ( 11) - Josh Ritter
- 50: ( 10) - Laura Marling
- 51: ( 10) - The Church
- 52: (  9) - David Bowie
- 53: (  9) - Echo & the Bunnymen
- 54: (  7) - Della Mae
- 55: (  7) - Edwyn Collins
- 56: (  7) - New Order
- 57: (  6) - Eilen Jewell
- 58: (  6) - Josef K
- 59: (  6) - U2
- 60: (  5) - T. Rex
- 61: (  4) - Beabadoobee, Pinkpantheress
- 62: (  4) - The Undertones
- 63: (  3) - In Our Time
- 64: (  3) - The News Agents
- 65: (  2) - Aztec Camera
- 66: (  2) - Blue Orchids
- 67: (  2) - Buzzcocks
- 68: (  2) - Cabaret Voltaire
- 69: (  2) - Deutsch Amerikanische Freundschaft
- 70: (  2) - Essential Logic
- 71: (  2) - Furious Pig
- 72: (  2) - Ian Dury
- 73: (  2) - Inhaler
- 74: (  2) - James Blood Ulmer
- 75: (  2) - Panther Burns
- 76: (  2) - Pere Ubu
- 77: (  2) - Red Crayola
- 78: (  2) - Robert Wyatt
- 79: (  2) - Scritti Politti
- 80: (  2) - Subway Sect
- 81: (  2) - Television Personalities
- 82: (  2) - The Beat
- 83: (  2) - The Gist
- 84: (  2) - The Masses Carnaby St. John Co
- 85: (  2) - The Raincoats
- 86: (  2) - Virgin Prunes
- 87: (  2) - Wah! Heat
- 88: (  2) - Waylon Jennings
- 89: (  2) - Www.Independent.Co.Uk
- 90: (  1) - Andrew Bird, Lucius
- 91: (  1) - Bastille
- 92: (  1) - Feist
- 93: (  1) - Findaclip
- 94: (  1) - Howard Jones
- 95: (  1) - Human League
- 96: (  1) - Japan
- 97: (  1) - Joan Shelley
- 98: (  1) - Leonardcohenvevo
- 99: (  1) - Matt Berninger
-100: (  1) - Michael Stipe
-101: (  1) - Nancy Sinatra, Lee Hazlewood
-102: (  1) - Nick Cave
-103: (  1) - Rjciccone
-104: (  1) - Series 12
-105: (  1) - Sharon Van Etten
-106: (  1) - The Beatles
-107: (  1) - The Black Keys
-108: (  1) - The War on Drugs
+ 38: ( 18) - Roxy Music
+ 39: ( 17) - Siouxsie and the Banshees
+ 40: ( 16) - Leonard Cohen
+ 41: ( 16) - Patti Smith
+ 42: ( 16) - Paul Haig
+ 43: ( 16) - T. Rex
+ 44: ( 15) - Blondie
+ 45: ( 14) - The Fire Engines
+ 46: ( 13) - B.E.F.
+ 47: ( 12) - The Associates
+ 48: ( 12) - The Burning Hell
+ 49: ( 12) - The Pale Fountains
+ 50: ( 11) - Global News Podcast
+ 51: ( 11) - Josh Ritter
+ 52: ( 10) - Laura Marling
+ 53: ( 10) - The Church
+ 54: (  9) - David Bowie
+ 55: (  9) - Echo & the Bunnymen
+ 56: (  7) - Della Mae
+ 57: (  7) - Edwyn Collins
+ 58: (  7) - New Order
+ 59: (  7) - The News Agents
+ 60: (  6) - Eilen Jewell
+ 61: (  6) - Josef K
+ 62: (  6) - U2
+ 63: (  5) - Beabadoobee, Pinkpantheress
+ 64: (  5) - Spandau Ballet
+ 65: (  4) - Paul Weller
+ 66: (  4) - The Undertones
+ 67: (  3) - Emma Swift
+ 68: (  3) - In Our Time
+ 69: (  3) - Marc Bolan
+ 70: (  2) - Aztec Camera
+ 71: (  2) - Blue Orchids
+ 72: (  2) - Buzzcocks
+ 73: (  2) - Cabaret Voltaire
+ 74: (  2) - Deutsch Amerikanische Freundschaft
+ 75: (  2) - Essential Logic
+ 76: (  2) - Furious Pig
+ 77: (  2) - Human League
+ 78: (  2) - Ian Dury
+ 79: (  2) - Inhaler
+ 80: (  2) - James Blood Ulmer
+ 81: (  2) - Panther Burns
+ 82: (  2) - Pere Ubu
+ 83: (  2) - Red Crayola
+ 84: (  2) - Robert Wyatt
+ 85: (  2) - Scritti Politti
+ 86: (  2) - Subway Sect
+ 87: (  2) - Television Personalities
+ 88: (  2) - The Beat
+ 89: (  2) - The Gist
+ 90: (  2) - The Masses Carnaby St. John Co
+ 91: (  2) - The Raincoats
+ 92: (  2) - Virgin Prunes
+ 93: (  2) - Wah! Heat
+ 94: (  2) - Waylon Jennings
+ 95: (  2) - Www.Independent.Co.Uk
+ 96: (  2) - Yonder Mountain String Band
+ 97: (  1) - Americast
+ 98: (  1) - Andrew Bird, Lucius
+ 99: (  1) - Bastille
+100: (  1) - Blooms & Barnacles
+101: (  1) - Bon Jovi
+102: (  1) - Feist
+103: (  1) - Findaclip
+104: (  1) - Howard Jones
+105: (  1) - Japan
+106: (  1) - Joan Shelley
+107: (  1) - Leonardcohenvevo
+108: (  1) - Matt Berninger
+109: (  1) - Michael Stipe
+110: (  1) - Nancy Sinatra, Lee Hazlewood
+111: (  1) - Nick Cave
+112: (  1) - Placebo
+113: (  1) - Revelators Sound System
+114: (  1) - Rjciccone
+115: (  1) - Series 12
+116: (  1) - Sharon Van Etten
+117: (  1) - Soft Cell
+118: (  1) - T.Rex
+119: (  1) - Tears for Fears
+120: (  1) - The Beatles
+121: (  1) - The Black Keys
+122: (  1) - The War on Drugs
+123: (  1) - UB40
