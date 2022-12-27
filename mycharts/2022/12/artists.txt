@@ -1,11 +1,9 @@
 Specified year (2022), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     305            34            41           267
- 1: (44) - Cowboy Junkies
-
- 2: (42) - Altered Images
-
-
+     387            39            50           323
+ 1: (50) - Altered Images
+ 2: (44) - Cowboy Junkies
+ 3: (44) - Lloyd Cole
 
 
 
@@ -14,50 +12,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: (31) - Lloyd Cole
+
+
+
+
+
  4: (30) - The Cure
 
 
 
+ 5: (26) - Martin Stephenson and the Daintees
 
 
 
 
 
+ 6: (20) - Bob Dylan
 
- 5: (20) - Bob Dylan
+ 7: (18) - The Corrs
+
+ 8: (16) - The Rolling Stones
 
 
+ 9: (13) - David Bowie
+10: (13) - Echo & the Bunnymen
+11: (13) - U2
 
- 6: (16) - The Rolling Stones
-
-
- 7: (13) - Echo & the Bunnymen
-
- 8: (11) - Siouxsie and the Banshees
- 9: (11) - The Corrs
-10: (10) - Michael Head & the Red Elastic Band
-11: (10) - Steely Dan
-12: (10) - The Cool Greenhouse
-13: ( 8) - Bob Marley & the Wailers
-14: ( 7) - David Bowie
-15: ( 7) - Simple Minds
-16: ( 6) - Heaven 17
-17: ( 5) - Aswad
-18: ( 4) - U2
-19: ( 2) - Cowboy Junkies, John Prine
-20: ( 2) - It'S Immaterial
-21: ( 2) - Martin Stephenson and the Daintees
-22: ( 2) - The Waterboys
-23: ( 1) - Cloudbusting - the Music of Kate Bush
-24: ( 1) - Emma Swift
-25: ( 1) - Fiona Apple
-26: ( 1) - Instagram.Com
-27: ( 1) - Nasa'S Kennedy Space Center
-28: ( 1) - Porridge Radio
-29: ( 1) - Science in Action
-30: ( 1) - The Cool Greenhouse, the Shifters
-31: ( 1) - The News Agents
-32: ( 1) - Thenational.Scot
-33: ( 1) - Torben Skaaning
-34: ( 1) - Waxahatchee
+12: (11) - Siouxsie and the Banshees
+13: (10) - Michael Head & the Red Elastic Band
+14: (10) - Steely Dan
+15: (10) - The Cool Greenhouse
+16: ( 8) - Bob Marley & the Wailers
+17: ( 8) - Simple Minds
+18: ( 6) - Heaven 17
+19: ( 5) - Aswad
+20: ( 5) - Martin Stephenson, John Perry
+21: ( 3) - Emma Swift
+22: ( 3) - Instagram.Com
+23: ( 3) - It'S Immaterial
+24: ( 2) - Cowboy Junkies, John Prine
+25: ( 2) - The Waterboys
+26: ( 1) - Bbc.Co.Uk
+27: ( 1) - Cloudbusting - the Music of Kate Bush
+28: ( 1) - Fiona Apple
+29: ( 1) - Nasa'S Kennedy Space Center
+30: ( 1) - New Order
+31: ( 1) - Porridge Radio
+32: ( 1) - Science in Action
+33: ( 1) - Simple Minds, Kt Tunstall
+34: ( 1) - The Cool Greenhouse, the Shifters
+35: ( 1) - The News Agents
+36: ( 1) - Thenational.Scot
+37: ( 1) - Torben Skaaning
+38: ( 1) - Waxahatchee
+39: ( 1) - Www-Ndtv-Com.Cdn.Ampproject.Org
