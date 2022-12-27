@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3458           190           230          1718
+    3369           159           219          1632
   1: (340) - Lloyd Cole
   2: (294) - Altered Images
   3: (206) - St. Vincent
@@ -17,7 +17,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  14: ( 64) - The Waterboys
  15: ( 63) - Paul McCartney
  16: ( 63) - Scott Walker
- 17: ( 51) - Simple Minds
+ 17: ( 50) - Simple Minds
  18: ( 48) - Talking Heads
 
 
@@ -38,166 +38,136 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  30: ( 34) - The Linda Lindas
 
  31: ( 32) - Sea Power
- 32: ( 32) - The News Agents
- 33: ( 31) - Amanda Shires
+ 32: ( 31) - Amanda Shires
+ 33: ( 31) - T. Rex
  34: ( 31) - Yo La Tengo
- 35: ( 30) - T. Rex
-
- 36: ( 28) - Siouxsie and the Banshees
-
- 37: ( 26) - That Petrol Emotion
- 38: ( 25) - A Certain Ratio
- 39: ( 25) - Arcade Fire
- 40: ( 25) - Chip Taylor & Carrie Rodriguez
- 41: ( 24) - Margo Cilker
- 42: ( 23) - David Bowie
 
 
- 43: ( 20) - The Blue Nile
- 44: ( 19) - Manfred Mann's Earth Band
- 45: ( 19) - Paul & Linda Mccartney
- 46: ( 19) - Suzanne Vega
- 47: ( 19) - The Burning Hell
- 48: ( 19) - U2
- 49: ( 18) - Roxy Music
- 50: ( 17) - Lou Reed
- 51: ( 17) - The Cool Greenhouse
- 52: ( 16) - Leonard Cohen
- 53: ( 16) - Patti Smith
- 54: ( 16) - Paul Haig
- 55: ( 16) - The Undertones
- 56: ( 15) - Aswad
- 57: ( 14) - Emma Swift
- 58: ( 14) - The Fire Engines
- 59: ( 13) - B.E.F.
- 60: ( 12) - It'S Immaterial
- 61: ( 12) - The Associates
- 62: ( 12) - The Pale Fountains
- 63: ( 11) - Global News Podcast
- 64: ( 11) - Josh Ritter
- 65: ( 10) - Edwyn Collins
- 66: ( 10) - Laura Marling
- 67: ( 10) - Love
- 68: ( 10) - Steely Dan
- 69: ( 10) - The Church
- 70: (  9) - Dry Cleaning
- 71: (  8) - Bob Marley & the Wailers
- 72: (  8) - New Order
- 73: (  7) - Della Mae
- 74: (  7) - Orchestral Manoeuvres in the Dark (omd)
- 75: (  7) - Ulysses - James Joyce
- 76: (  6) - Eilen Jewell
- 77: (  6) - Hawkwind
- 78: (  6) - Heaven 17
- 79: (  6) - Josef K
- 80: (  5) - Beabadoobee, Pinkpantheress
- 81: (  5) - Martin Stephenson, John Perry
- 82: (  5) - Scritti Politti
- 83: (  5) - Spandau Ballet
- 84: (  4) - In Our Time
- 85: (  4) - Instagram.Com
- 86: (  4) - Paul Weller
- 87: (  4) - Queen
- 88: (  3) - Aztec Camera
- 89: (  3) - Cara Dillon
- 90: (  3) - Marc Bolan
- 91: (  3) - More Or Less: Behind the Stats
- 92: (  3) - Tift Merritt
- 93: (  2) - Aoife Nessa Frances
- 94: (  2) - Beth Orton
- 95: (  2) - Blancmange
- 96: (  2) - Blue Orchids
- 97: (  2) - Buzzcocks
- 98: (  2) - Børns
- 99: (  2) - Cabaret Voltaire
-100: (  2) - Cass McCombs
-101: (  2) - Cowboy Junkies, John Prine
-102: (  2) - Deutsch Amerikanische Freundschaft
-103: (  2) - Devendra Banhart
-104: (  2) - Essential Logic
-105: (  2) - Fun Boy Three
-106: (  2) - Furious Pig
-107: (  2) - Gaby Moreno
-108: (  2) - Human League
-109: (  2) - Ian Dury
-110: (  2) - Inhaler
-111: (  2) - James Blood Ulmer
-112: (  2) - Joan Jett
-113: (  2) - King Khan
-114: (  2) - Lucinda Williams
-115: (  2) - Nick Cave
-116: (  2) - Panther Burns
-117: (  2) - Peaches
-118: (  2) - Pere Ubu
-119: (  2) - Red Crayola
-120: (  2) - Robert Wyatt
-121: (  2) - Subway Sect
-122: (  2) - Television Personalities
-123: (  2) - The Beat
-124: (  2) - The Beatles
-125: (  2) - The Gist
-126: (  2) - The Masses Carnaby St. John Co
-127: (  2) - The Raincoats
-128: (  2) - Virgin Prunes
-129: (  2) - Wah! Heat
-130: (  2) - Waylon Jennings
-131: (  2) - Www.Independent.Co.Uk
-132: (  2) - Yonder Mountain String Band
-133: (  1) - Adam & the Ants
-134: (  1) - Americast
-135: (  1) - Andrew Bird, Lucius
-136: (  1) - Bastille
-137: (  1) - Bbc.Co.Uk
-138: (  1) - Blooms & Barnacles
-139: (  1) - Bon Jovi
-140: (  1) - Cloudbusting - the Music of Kate Bush
-141: (  1) - Cnn Business
-142: (  1) - Dr Feelgood
-143: (  1) - Elysian Fields
-144: (  1) - Emily Haines
-145: (  1) - Feist
-146: (  1) - Findaclip
-147: (  1) - Fiona Apple
-148: (  1) - Furniture
-149: (  1) - Gavin Friday
-150: (  1) - Howard Jones
-151: (  1) - Japan
-152: (  1) - Jimi Hendrix
-153: (  1) - Joan Shelley
-154: (  1) - John Cameron Mitchell
-155: (  1) - Kesha
-156: (  1) - Kim Carnes
-157: (  1) - Leonardcohenvevo
-158: (  1) - Marc Almond
-159: (  1) - Matt Berninger
-160: (  1) - Michael Stipe
-161: (  1) - Nancy Sinatra, Lee Hazlewood
-162: (  1) - Nasa'S Kennedy Space Center
-163: (  1) - Nation.Cymru
-164: (  1) - Nena
-165: (  1) - News-Sky-Com.Cdn.Ampproject.Org
-166: (  1) - Nikola
-167: (  1) - Perry Farrell
-168: (  1) - Phoenix
-169: (  1) - Placebo
-170: (  1) - Porridge Radio
-171: (  1) - Revelators Sound System
-172: (  1) - Rjciccone
-173: (  1) - Science in Action
-174: (  1) - Series 12
-175: (  1) - Sharon Van Etten
-176: (  1) - Simple Minds, Kt Tunstall
-177: (  1) - Soft Cell
-178: (  1) - T.Rex
-179: (  1) - Tears for Fears
-180: (  1) - The Black Keys
-181: (  1) - The Cool Greenhouse, the Shifters
-182: (  1) - The Doors
-183: (  1) - The Long View
-184: (  1) - The New Wave Music Podcast
-185: (  1) - The War on Drugs
-186: (  1) - Thenational.Scot
-187: (  1) - Torben Skaaning
-188: (  1) - UB40
-189: (  1) - Waxahatchee
-190: (  1) - Www-Ndtv-Com.Cdn.Ampproject.Org
+ 35: ( 28) - Siouxsie and the Banshees
+
+ 36: ( 26) - That Petrol Emotion
+ 37: ( 25) - A Certain Ratio
+ 38: ( 25) - Arcade Fire
+ 39: ( 25) - Chip Taylor & Carrie Rodriguez
+ 40: ( 24) - Margo Cilker
+ 41: ( 23) - David Bowie
+
+
+ 42: ( 20) - The Blue Nile
+ 43: ( 19) - Manfred Mann's Earth Band
+ 44: ( 19) - Paul & Linda Mccartney
+ 45: ( 19) - Suzanne Vega
+ 46: ( 19) - The Burning Hell
+ 47: ( 19) - U2
+ 48: ( 18) - Roxy Music
+ 49: ( 17) - Lou Reed
+ 50: ( 17) - The Cool Greenhouse
+ 51: ( 16) - Leonard Cohen
+ 52: ( 16) - Patti Smith
+ 53: ( 16) - Paul Haig
+ 54: ( 16) - The Undertones
+ 55: ( 15) - Aswad
+ 56: ( 14) - Emma Swift
+ 57: ( 14) - The Fire Engines
+ 58: ( 13) - B.E.F.
+ 59: ( 12) - It'S Immaterial
+ 60: ( 12) - The Associates
+ 61: ( 12) - The Pale Fountains
+ 62: ( 11) - Josh Ritter
+ 63: ( 10) - Edwyn Collins
+ 64: ( 10) - Laura Marling
+ 65: ( 10) - Love
+ 66: ( 10) - Steely Dan
+ 67: ( 10) - The Church
+ 68: (  9) - Dry Cleaning
+ 69: (  8) - Bob Marley & the Wailers
+ 70: (  7) - Della Mae
+ 71: (  7) - New Order
+ 72: (  7) - Orchestral Manoeuvres in the Dark (omd)
+ 73: (  6) - Eilen Jewell
+ 74: (  6) - Hawkwind
+ 75: (  6) - Heaven 17
+ 76: (  6) - Josef K
+ 77: (  5) - Beabadoobee, Pinkpantheress
+ 78: (  5) - Martin Stephenson, John Perry
+ 79: (  5) - Scritti Politti
+ 80: (  5) - Spandau Ballet
+ 81: (  4) - Paul Weller
+ 82: (  4) - Queen
+ 83: (  3) - Aztec Camera
+ 84: (  3) - Cara Dillon
+ 85: (  3) - Marc Bolan
+ 86: (  3) - Tift Merritt
+ 87: (  2) - Aoife Nessa Frances
+ 88: (  2) - Beth Orton
+ 89: (  2) - Blancmange
+ 90: (  2) - Blue Orchids
+ 91: (  2) - Buzzcocks
+ 92: (  2) - Børns
+ 93: (  2) - Cabaret Voltaire
+ 94: (  2) - Cass McCombs
+ 95: (  2) - Cowboy Junkies, John Prine
+ 96: (  2) - Deutsch Amerikanische Freundschaft
+ 97: (  2) - Devendra Banhart
+ 98: (  2) - Essential Logic
+ 99: (  2) - Fun Boy Three
+100: (  2) - Furious Pig
+101: (  2) - Gaby Moreno
+102: (  2) - Ian Dury
+103: (  2) - Inhaler
+104: (  2) - James Blood Ulmer
+105: (  2) - Joan Jett
+106: (  2) - King Khan
+107: (  2) - Lucinda Williams
+108: (  2) - Nick Cave
+109: (  2) - Panther Burns
+110: (  2) - Peaches
+111: (  2) - Pere Ubu
+112: (  2) - Red Crayola
+113: (  2) - Robert Wyatt
+114: (  2) - Subway Sect
+115: (  2) - Television Personalities
+116: (  2) - The Beat
+117: (  2) - The Beatles
+118: (  2) - The Gist
+119: (  2) - The Masses Carnaby St. John Co
+120: (  2) - The Raincoats
+121: (  2) - Virgin Prunes
+122: (  2) - Wah! Heat
+123: (  2) - Waylon Jennings
+124: (  2) - Yonder Mountain String Band
+125: (  1) - Andrew Bird, Lucius
+126: (  1) - Bastille
+127: (  1) - Blooms & Barnacles
+128: (  1) - Elysian Fields
+129: (  1) - Emily Haines
+130: (  1) - Feist
+131: (  1) - Fiona Apple
+132: (  1) - Furniture
+133: (  1) - Gavin Friday
+134: (  1) - Howard Jones
+135: (  1) - Human League
+136: (  1) - Japan
+137: (  1) - Jimi Hendrix
+138: (  1) - Joan Shelley
+139: (  1) - John Cameron Mitchell
+140: (  1) - Kesha
+141: (  1) - Kim Carnes
+142: (  1) - Marc Almond
+143: (  1) - Matt Berninger
+144: (  1) - Michael Stipe
+145: (  1) - Nancy Sinatra, Lee Hazlewood
+146: (  1) - Nena
+147: (  1) - Perry Farrell
+148: (  1) - Phoenix
+149: (  1) - Placebo
+150: (  1) - Porridge Radio
+151: (  1) - Revelators Sound System
+152: (  1) - Sharon Van Etten
+153: (  1) - Simple Minds, Kt Tunstall
+154: (  1) - The Black Keys
+155: (  1) - The Cool Greenhouse, the Shifters
+156: (  1) - The Doors
+157: (  1) - The New Wave Music Podcast
+158: (  1) - The War on Drugs
+159: (  1) - Waxahatchee
