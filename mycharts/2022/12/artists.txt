@@ -1,6 +1,6 @@
 Specified year (2022), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     432            32            58           353
+     444            32            59           364
  1: (50) - Altered Images
  2: (45) - Cowboy Junkies
  3: (44) - Lloyd Cole
@@ -30,18 +30,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: (20) - Bob Dylan
 
 
+ 8: (17) - Simple Minds
+ 9: (16) - Eliza Gilkyson
+10: (16) - The Rolling Stones
+11: (15) - Martin Stephenson, John Perry
+12: (14) - Siouxsie and the Banshees
+13: (13) - David Bowie
+14: (13) - Echo & the Bunnymen
+15: (13) - U2
 
- 8: (16) - The Rolling Stones
- 9: (15) - Martin Stephenson, John Perry
-10: (14) - Siouxsie and the Banshees
-11: (13) - David Bowie
-12: (13) - Echo & the Bunnymen
-13: (13) - U2
-14: (12) - Eliza Gilkyson
-15: (11) - The Cool Greenhouse
-16: (10) - Michael Head & the Red Elastic Band
-17: (10) - Steely Dan
-18: ( 9) - Simple Minds
+16: (11) - The Cool Greenhouse
+17: (10) - Michael Head & the Red Elastic Band
+18: (10) - Steely Dan
 19: ( 8) - Bob Marley & the Wailers
 20: ( 7) - Duke Garwood
 21: ( 6) - Heaven 17
