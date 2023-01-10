@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64559          1170          1720         11583
+   64577          1170          1720         11583
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -10,7 +10,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    7: (1028) - Cocteau Twins
    8: (1022) - U2
    9: ( 987) - Tift Merritt
-  10: ( 943) - Simple Minds
+  10: ( 945) - Simple Minds
   11: ( 931) - Roxy Music
   12: ( 863) - Laura Marling
   13: ( 850) - Leonard Cohen
@@ -26,8 +26,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   23: ( 656) - Scott Walker
   24: ( 650) - Rosanne Cash
   25: ( 641) - The Style Council
-  26: ( 638) - The Rolling Stones
-  27: ( 630) - Altered Images
+  26: ( 638) - Altered Images
+  27: ( 638) - The Rolling Stones
   28: ( 620) - Martin Stephenson
   29: ( 612) - Eilen Jewell
   30: ( 601) - Emmylou Harris
@@ -271,13 +271,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  255: (  26) - That Petrol Emotion
  256: (  25) - Arcade Fire
  257: (  25) - Duke Garwood
- 258: (  25) - Mike Oldfield
- 259: (  24) - Margo Cilker
- 260: (  24) - Sharon Van Etten
- 261: (  23) - Scritti Politti
- 262: (  23) - The Associates
- 263: (  22) - Darling West
- 264: (  22) - Love
+ 258: (  25) - Love
+ 259: (  25) - Mike Oldfield
+ 260: (  24) - Margo Cilker
+ 261: (  24) - Sharon Van Etten
+ 262: (  23) - Scritti Politti
+ 263: (  23) - The Associates
+ 264: (  22) - Darling West
  265: (  21) - Calexico
  266: (  20) - Magazine
  267: (  20) - The Blue Nile
@@ -328,126 +328,126 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  312: (  11) - Matt Berninger
  313: (  11) - Peel.Rocks Magazine
  314: (  11) - Rolling Blackouts Coastal Fever
- 315: (  11) - Travis Linville
- 316: (  10) - Cara Luft
- 317: (  10) - Dinah Washington
- 318: (  10) - Easy Star All-stars
- 319: (  10) - Elastica
- 320: (  10) - Gregory Isaacs
- 321: (  10) - Just the Faqs
- 322: (  10) - Kathleen Edwards
- 323: (  10) - Madeleine Peyroux
- 324: (  10) - Martha and the Muffins
- 325: (  10) - Mount Moriah
- 326: (  10) - Nico
- 327: (  10) - Nina Simone
- 328: (  10) - Samantha Crain
- 329: (  10) - The Twilight Sad
- 330: (  10) - Tim Buckley
- 331: (   9) - Big Thief
- 332: (   9) - Bryan Adams
- 333: (   9) - Daniel Bachman
- 334: (   9) - Hawkwind Zoo
- 335: (   9) - Ian Dury
- 336: (   9) - Lizz Wright
- 337: (   9) - Low
- 338: (   9) - Mark Lanegan
- 339: (   9) - Romi Mayes
- 340: (   9) - Stevie Nicks
- 341: (   9) - Sugar Black
- 342: (   9) - Tyler Childers
- 343: (   9) - Waylon Jennings
- 344: (   8) - Aldous Harding
- 345: (   8) - Andrew Bird
- 346: (   8) - Bill Callahan
- 347: (   8) - Bob Marley
- 348: (   8) - Bon Iver
- 349: (   8) - Brigid Dawson and the Mothers Network
- 350: (   8) - Caleb Landry Jones
- 351: (   8) - Cate le Bon
- 352: (   8) - Ella Fitzgerald
- 353: (   8) - Forma
- 354: (   8) - Julia Jacklin
- 355: (   8) - Larkin Poe
- 356: (   8) - Let'S Eat Grandma
- 357: (   8) - Mankind
- 358: (   8) - Modern Nature
- 359: (   8) - Peter Tosh
- 360: (   8) - Purple Mountains
- 361: (   8) - Rhiannon Giddens
- 362: (   8) - Richard Dawson
- 363: (   8) - Spizz Energi
- 364: (   8) - Steve Earle
- 365: (   8) - Stick in the Wheel
- 366: (   8) - The Durutti Column
- 367: (   8) - The Lost Brothers
- 368: (   8) - Weyes Blood
- 369: (   8) - White Fence
- 370: (   8) - Woods
- 371: (   7) - Billy Joel
- 372: (   7) - Black Marble
- 373: (   7) - Boubacar Traoré
- 374: (   7) - Buck Owens
- 375: (   7) - Buzzcocks
- 376: (   7) - Chris Eckman
- 377: (   7) - Chris Hillman & Steve Earle
- 378: (   7) - Della Mae
- 379: (   7) - Elephant Micah
- 380: (   7) - Iggy Pop
- 381: (   7) - La Féline
- 382: (   7) - Lightnin' Hopkins
- 383: (   7) - Lucinda Williams & David Crosby
- 384: (   7) - Martyn Bates
- 385: (   7) - Mello
- 386: (   7) - Melody'S Echo Chamber
- 387: (   7) - Nadine
- 388: (   7) - Nat King Cole
- 389: (   7) - Odetta Hartman
- 390: (   7) - Orchestral Manoeuvres in the Dark (omd)
- 391: (   7) - Sam Phillips
- 392: (   7) - The Heptones
- 393: (   7) - The Last Poets
- 394: (   7) - The Limiñanas
- 395: (   7) - The Louvin Brothers
- 396: (   7) - The Mighty Diamonds
- 397: (   7) - The Pretenders & Emmylou Harris
- 398: (   7) - Tom Robinson
- 399: (   7) - Townes Van Zandt
- 400: (   7) - White Denim
- 401: (   6) - 13Th Floor Elevators
- 402: (   6) - Aoife Nessa Frances
- 403: (   6) - Bill Fay
- 404: (   6) - Bombino
- 405: (   6) - Bradley Brown
- 406: (   6) - Caroline Herring
- 407: (   6) - Cat Power
- 408: (   6) - Chalice
- 409: (   6) - Chrissie Hynde
- 410: (   6) - Don Letts and Turtle Bay Present Reggae 45
- 411: (   6) - Eddie Vedder
- 412: (   6) - Fourth Street Sisters
- 413: (   6) - Jeff Wayne
- 414: (   6) - Jim Ghedi
- 415: (   6) - John Doe
- 416: (   6) - John Lennon
- 417: (   6) - Judy Mowatt
- 418: (   6) - Juliana Hatfield
- 419: (   6) - Kaia Kater
- 420: (   6) - Kathryn Joseph
- 421: (   6) - King Princess
- 422: (   6) - Lorelle Meets the Obsolete
- 423: (   6) - Loudon Wainwright III
- 424: (   6) - Menace Beach
- 425: (   6) - Michael Rault
- 426: (   6) - Neko Case
- 427: (   6) - Papa M
- 428: (   6) - Peter Gabriel
- 429: (   6) - Richie Havens
- 430: (   6) - Robert Duvall
- 431: (   6) - Rufus Wainwright
- 432: (   6) - Sampa the Great
- 433: (   6) - Scott Mckenzie
- 434: (   6) - Shelby Lynne, Allison Moorer
+ 315: (  11) - Shelby Lynne, Allison Moorer
+ 316: (  11) - Travis Linville
+ 317: (  10) - Cara Luft
+ 318: (  10) - Dinah Washington
+ 319: (  10) - Easy Star All-stars
+ 320: (  10) - Elastica
+ 321: (  10) - Gregory Isaacs
+ 322: (  10) - Just the Faqs
+ 323: (  10) - Kathleen Edwards
+ 324: (  10) - Madeleine Peyroux
+ 325: (  10) - Martha and the Muffins
+ 326: (  10) - Mount Moriah
+ 327: (  10) - Nico
+ 328: (  10) - Nina Simone
+ 329: (  10) - Samantha Crain
+ 330: (  10) - The Twilight Sad
+ 331: (  10) - Tim Buckley
+ 332: (   9) - Big Thief
+ 333: (   9) - Bryan Adams
+ 334: (   9) - Daniel Bachman
+ 335: (   9) - Hawkwind Zoo
+ 336: (   9) - Ian Dury
+ 337: (   9) - Lizz Wright
+ 338: (   9) - Low
+ 339: (   9) - Mark Lanegan
+ 340: (   9) - Romi Mayes
+ 341: (   9) - Stevie Nicks
+ 342: (   9) - Sugar Black
+ 343: (   9) - Tyler Childers
+ 344: (   9) - Waylon Jennings
+ 345: (   8) - Aldous Harding
+ 346: (   8) - Andrew Bird
+ 347: (   8) - Bill Callahan
+ 348: (   8) - Bob Marley
+ 349: (   8) - Bon Iver
+ 350: (   8) - Brigid Dawson and the Mothers Network
+ 351: (   8) - Caleb Landry Jones
+ 352: (   8) - Cate le Bon
+ 353: (   8) - Ella Fitzgerald
+ 354: (   8) - Forma
+ 355: (   8) - Julia Jacklin
+ 356: (   8) - Larkin Poe
+ 357: (   8) - Let'S Eat Grandma
+ 358: (   8) - Mankind
+ 359: (   8) - Modern Nature
+ 360: (   8) - Peter Tosh
+ 361: (   8) - Purple Mountains
+ 362: (   8) - Rhiannon Giddens
+ 363: (   8) - Richard Dawson
+ 364: (   8) - Spizz Energi
+ 365: (   8) - Steve Earle
+ 366: (   8) - Stick in the Wheel
+ 367: (   8) - The Durutti Column
+ 368: (   8) - The Lost Brothers
+ 369: (   8) - Weyes Blood
+ 370: (   8) - White Fence
+ 371: (   8) - Woods
+ 372: (   7) - Billy Joel
+ 373: (   7) - Black Marble
+ 374: (   7) - Boubacar Traoré
+ 375: (   7) - Buck Owens
+ 376: (   7) - Buzzcocks
+ 377: (   7) - Chris Eckman
+ 378: (   7) - Chris Hillman & Steve Earle
+ 379: (   7) - Della Mae
+ 380: (   7) - Elephant Micah
+ 381: (   7) - Iggy Pop
+ 382: (   7) - La Féline
+ 383: (   7) - Lightnin' Hopkins
+ 384: (   7) - Lucinda Williams & David Crosby
+ 385: (   7) - Martyn Bates
+ 386: (   7) - Mello
+ 387: (   7) - Melody'S Echo Chamber
+ 388: (   7) - Nadine
+ 389: (   7) - Nat King Cole
+ 390: (   7) - Odetta Hartman
+ 391: (   7) - Orchestral Manoeuvres in the Dark (omd)
+ 392: (   7) - Sam Phillips
+ 393: (   7) - The Heptones
+ 394: (   7) - The Last Poets
+ 395: (   7) - The Limiñanas
+ 396: (   7) - The Louvin Brothers
+ 397: (   7) - The Mighty Diamonds
+ 398: (   7) - The Pretenders & Emmylou Harris
+ 399: (   7) - Tom Robinson
+ 400: (   7) - Townes Van Zandt
+ 401: (   7) - White Denim
+ 402: (   6) - 13Th Floor Elevators
+ 403: (   6) - Aoife Nessa Frances
+ 404: (   6) - Bill Fay
+ 405: (   6) - Bombino
+ 406: (   6) - Bradley Brown
+ 407: (   6) - Caroline Herring
+ 408: (   6) - Cat Power
+ 409: (   6) - Chalice
+ 410: (   6) - Chrissie Hynde
+ 411: (   6) - Don Letts and Turtle Bay Present Reggae 45
+ 412: (   6) - Eddie Vedder
+ 413: (   6) - Fourth Street Sisters
+ 414: (   6) - Jeff Wayne
+ 415: (   6) - Jim Ghedi
+ 416: (   6) - John Doe
+ 417: (   6) - John Lennon
+ 418: (   6) - Judy Mowatt
+ 419: (   6) - Juliana Hatfield
+ 420: (   6) - Kaia Kater
+ 421: (   6) - Kathryn Joseph
+ 422: (   6) - King Princess
+ 423: (   6) - Lorelle Meets the Obsolete
+ 424: (   6) - Loudon Wainwright III
+ 425: (   6) - Menace Beach
+ 426: (   6) - Michael Rault
+ 427: (   6) - Neko Case
+ 428: (   6) - Papa M
+ 429: (   6) - Peter Gabriel
+ 430: (   6) - Richie Havens
+ 431: (   6) - Robert Duvall
+ 432: (   6) - Rufus Wainwright
+ 433: (   6) - Sampa the Great
+ 434: (   6) - Scott Mckenzie
  435: (   6) - Sing Karaoke Sing
  436: (   6) - Slade
  437: (   6) - Sonic Youth
