@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64596          1170          1721         11589
+   64603          1170          1721         11589
    1: (324) - Cafe Bleu - The Style Council
    2: (292) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -675,15 +675,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  670: ( 23) - Marry Me - St. Vincent
  671: ( 22) - Clara Libre - Altered Images
  672: ( 22) - While I Was Asleep - Darling West
- 673: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
- 674: ( 21) - The Corrs Unplugged - The Corrs
- 675: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
- 676: ( 20) - A Walk Across The Rooftops - The Blue Nile
- 677: ( 20) - Da Capo - Love
- 678: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
- 679: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
- 680: ( 19) - Slates - The Fall
- 681: ( 18) - Rogues Gospel - Duke Garwood
+ 673: ( 21) - Rogues Gospel - Duke Garwood
+ 674: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
+ 675: ( 21) - The Corrs Unplugged - The Corrs
+ 676: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
+ 677: ( 20) - A Walk Across The Rooftops - The Blue Nile
+ 678: ( 20) - Da Capo - Love
+ 679: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
+ 680: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
+ 681: ( 19) - Slates - The Fall
  682: ( 18) - Swing In 82 - Paul Haig
  683: ( 18) - The Cool Greenhouse - The Cool Greenhouse
  684: ( 17) - Collective Force - Martin Stephenson
@@ -694,48 +694,48 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  689: ( 15) - Codex Teenage Premonition - The Fire Engines
  690: ( 15) - Fourth Drawer Down - The Associates
  691: ( 15) - New Wave Connection - Martin Stephenson, John Perry
- 692: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
- 693: ( 14) - American Utopia - David Byrne
- 694: ( 14) - Changesnowbowie - David Bowie
- 695: ( 14) - Document (R.E.M. No. 5) - R.E.M.
- 696: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
- 697: ( 14) - In The Flat Field - Bauhaus
- 698: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
- 699: ( 14) - Raising Sand - Robert Plant
- 700: ( 14) * Songs To Remember - Scritti Politti
- 701: ( 14) - Talk On Corners - The Corrs
- 702: ( 14) - Tangled Man - Green Gartside
- 703: ( 14) - The Boy's Heart - Martin Stephenson and the Daintees
- 704: ( 13) - Evermore - Taylor Swift
- 705: ( 13) - Hippopotamus - Sparks
- 706: ( 13) - Love This Giant - David Byrne & St. Vincent
- 707: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
- 708: ( 13) - Platinum - Miranda Lambert
- 709: ( 13) - Strange Angels - Kristin Hersh
- 710: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
- 711: ( 13) - Tubular Bells - Mike Oldfield
- 712: ( 12) - A History Of Now - Callaghan
- 713: ( 12) - Badbea - Edwyn Collins
- 714: ( 12) - Electric Ladyland - The Jimi Hendrix Experience
- 715: ( 12) - Girls In Peacetime Want To Dance - Belle and Sebastian
- 716: ( 12) - Greatest - Jim Croce
- 717: ( 12) - High Land, Hard Rain (Expanded) - Aztec Camera
- 718: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
- 719: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
- 720: ( 12) - Substance (2 Of 2) - New Order
- 721: ( 12) - Tubeway Army - Tubeway Army
- 722: ( 11) -  - Peel.Rocks Magazine
- 723: ( 11) - Actor - St. Vincent
- 724: ( 11) - Duran Duran - Duran Duran
- 725: ( 11) - Exodus Of Venus - Elizabeth Cook
- 726: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
- 727: ( 11) - Helplessness Blues - Fleet Foxes
- 728: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
- 729: ( 11) - Jessica Pratt - Jessica Pratt
- 730: ( 11) - La Question - Françoise Hardy
- 731: ( 11) - My Favorite Picture Of You - Guy Clark
- 732: ( 11) - Mysterio - Ian McCulloch
- 733: ( 11) - Not Dark Yet - Shelby Lynne, Allison Moorer
+ 692: ( 15) - Not Dark Yet - Shelby Lynne, Allison Moorer
+ 693: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
+ 694: ( 14) - American Utopia - David Byrne
+ 695: ( 14) - Changesnowbowie - David Bowie
+ 696: ( 14) - Document (R.E.M. No. 5) - R.E.M.
+ 697: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
+ 698: ( 14) - In The Flat Field - Bauhaus
+ 699: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
+ 700: ( 14) - Raising Sand - Robert Plant
+ 701: ( 14) * Songs To Remember - Scritti Politti
+ 702: ( 14) - Talk On Corners - The Corrs
+ 703: ( 14) - Tangled Man - Green Gartside
+ 704: ( 14) - The Boy's Heart - Martin Stephenson and the Daintees
+ 705: ( 13) - Evermore - Taylor Swift
+ 706: ( 13) - Hippopotamus - Sparks
+ 707: ( 13) - Love This Giant - David Byrne & St. Vincent
+ 708: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
+ 709: ( 13) - Platinum - Miranda Lambert
+ 710: ( 13) - Strange Angels - Kristin Hersh
+ 711: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
+ 712: ( 13) - Tubular Bells - Mike Oldfield
+ 713: ( 12) - A History Of Now - Callaghan
+ 714: ( 12) - Badbea - Edwyn Collins
+ 715: ( 12) - Electric Ladyland - The Jimi Hendrix Experience
+ 716: ( 12) - Girls In Peacetime Want To Dance - Belle and Sebastian
+ 717: ( 12) - Greatest - Jim Croce
+ 718: ( 12) - High Land, Hard Rain (Expanded) - Aztec Camera
+ 719: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
+ 720: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
+ 721: ( 12) - Substance (2 Of 2) - New Order
+ 722: ( 12) - Tubeway Army - Tubeway Army
+ 723: ( 11) -  - Peel.Rocks Magazine
+ 724: ( 11) - Actor - St. Vincent
+ 725: ( 11) - Duran Duran - Duran Duran
+ 726: ( 11) - Exodus Of Venus - Elizabeth Cook
+ 727: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
+ 728: ( 11) - Helplessness Blues - Fleet Foxes
+ 729: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
+ 730: ( 11) - Jessica Pratt - Jessica Pratt
+ 731: ( 11) - La Question - Françoise Hardy
+ 732: ( 11) - My Favorite Picture Of You - Guy Clark
+ 733: ( 11) - Mysterio - Ian McCulloch
  734: ( 11) - Open Here - Field Music
  735: ( 11) - Pollinator - Blondie
  736: ( 11) - Queer As Folk - Grace Petrie
