@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64622          1171          1722         11596
+   64633          1171          1722         11599
    1: (324) - Cafe Bleu - The Style Council
    2: (292) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -21,9 +21,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   18: (201) - Traveling Alone - Tift Merritt
   19: (199) - Something More Than Free - Jason Isbell
   20: (198) - The Lexicon Of Love (Digitally Remastered) - ABC
-  21: (196) - Stitch Of The World - Tift Merritt
-  22: (194) - Chaleur Humaine - Christine and the Queens
-  23: (194) - Mascara Streakz - Altered Images
+  21: (196) - Mascara Streakz - Altered Images
+  22: (196) - Stitch Of The World - Tift Merritt
+  23: (194) - Chaleur Humaine - Christine and the Queens
   24: (192) - Country Life - Roxy Music
   25: (190) - Once I Was An Eagle - Laura Marling
   26: (190) - Red Dirt Girl - Emmylou Harris
@@ -491,52 +491,52 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  488: ( 62) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
  489: ( 62) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
  490: ( 62) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
- 491: ( 61) * Dazzle Ships (Remastered) - Orchestral Manoeuvres in the Dark
- 492: ( 61) - Diamond Dogs - David Bowie
- 493: ( 61) * From Langley Park To Memphis - Prefab Sprout
- 494: ( 61) - Jupiter Calling - The Corrs
- 495: ( 61) - Lullabies - Cocteau Twins
- 496: ( 61) - Maverick Years 80-81 - The Mighty Wah!
- 497: ( 61) * Movement [Collector's Edition] - New Order
- 498: ( 61) * Remain In Light - Talking Heads
- 499: ( 61) - Rip It Up - Orange Juice
- 500: ( 61) * Seven Angels On A Bicycle - Carrie Rodriguez
- 501: ( 61) - Song To A Seagull - Joni Mitchell
- 502: ( 61) * Tales Of Light And Darkness - Angie Palmer
- 503: ( 61) - Tarpaper Sky - Rodney Crowell
- 504: ( 61) - The Siren's Song - Kacy & Clayton
- 505: ( 61) - V.U. - The Velvet Underground
- 506: ( 61) * Van Lear Rose - Loretta Lynn
- 507: ( 61) - You Want It Darker - Leonard Cohen
- 508: ( 60) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
- 509: ( 60) * Across The Atlantic - Sarah MacDougall
- 510: ( 60) - American Flowers - Birds of Chicago
- 511: ( 60) - Golden Hour - Kacey Musgraves
- 512: ( 60) - Have You In My Wilderness - Julia Holter
- 513: ( 60) - Hurricane - Grace Jones
- 514: ( 60) - In Concert 1987 - New Order
- 515: ( 60) - Kids In The Street - Justin Townes Earle
- 516: ( 60) - Live At Eddie's Attic - The Civil Wars
- 517: ( 60) - Out Of Our Heads - The Rolling Stones
- 518: ( 60) - Revival - Gillian Welch
- 519: ( 60) - Single Mothers - Justin Townes Earle
- 520: ( 60) - Stranger In The Alps - Phoebe Bridgers
- 521: ( 60) - The Rolling Stones No.2 - The Rolling Stones
- 522: ( 60) - Work, Pt. 1 - Walter Salas-Humara
- 523: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
- 524: ( 59) * Anchors & Anvils - Amy LaVere
- 525: ( 59) * California Star - Martin Stephenson and the Daintees
- 526: ( 59) - I Can't Imagine - Shelby Lynne
- 527: ( 59) - I Love You, Honeybear - Father John Misty
- 528: ( 59) - Other - Alison Moyet
- 529: ( 59) - Sound Affects (Remastered Version) - The Jam
- 530: ( 59) - Suzanne Vega - Suzanne Vega
- 531: ( 59) * The King Is Dead - The Decemberists
- 532: ( 59) - Things Take Time, Take Time - Courtney Barnett
- 533: ( 59) - This Is The Sea (Deluxe Version) - The Waterboys
- 534: ( 58) * A Word To The Wise Guy - The Mighty Wah!
- 535: ( 58) - All These Dreams - Andrew Combs
- 536: ( 58) - B-52's - The B-52's
+ 491: ( 61) - B-52's - The B-52's
+ 492: ( 61) * Dazzle Ships (Remastered) - Orchestral Manoeuvres in the Dark
+ 493: ( 61) - Diamond Dogs - David Bowie
+ 494: ( 61) * From Langley Park To Memphis - Prefab Sprout
+ 495: ( 61) - Jupiter Calling - The Corrs
+ 496: ( 61) - Lullabies - Cocteau Twins
+ 497: ( 61) - Maverick Years 80-81 - The Mighty Wah!
+ 498: ( 61) * Movement [Collector's Edition] - New Order
+ 499: ( 61) * Remain In Light - Talking Heads
+ 500: ( 61) - Rip It Up - Orange Juice
+ 501: ( 61) * Seven Angels On A Bicycle - Carrie Rodriguez
+ 502: ( 61) - Song To A Seagull - Joni Mitchell
+ 503: ( 61) * Tales Of Light And Darkness - Angie Palmer
+ 504: ( 61) - Tarpaper Sky - Rodney Crowell
+ 505: ( 61) - The Siren's Song - Kacy & Clayton
+ 506: ( 61) - V.U. - The Velvet Underground
+ 507: ( 61) * Van Lear Rose - Loretta Lynn
+ 508: ( 61) - You Want It Darker - Leonard Cohen
+ 509: ( 60) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
+ 510: ( 60) * Across The Atlantic - Sarah MacDougall
+ 511: ( 60) - American Flowers - Birds of Chicago
+ 512: ( 60) - Golden Hour - Kacey Musgraves
+ 513: ( 60) - Have You In My Wilderness - Julia Holter
+ 514: ( 60) - Hurricane - Grace Jones
+ 515: ( 60) - In Concert 1987 - New Order
+ 516: ( 60) - Kids In The Street - Justin Townes Earle
+ 517: ( 60) - Live At Eddie's Attic - The Civil Wars
+ 518: ( 60) - Out Of Our Heads - The Rolling Stones
+ 519: ( 60) - Revival - Gillian Welch
+ 520: ( 60) - Single Mothers - Justin Townes Earle
+ 521: ( 60) - Stranger In The Alps - Phoebe Bridgers
+ 522: ( 60) - The Rolling Stones No.2 - The Rolling Stones
+ 523: ( 60) - Work, Pt. 1 - Walter Salas-Humara
+ 524: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
+ 525: ( 59) * Anchors & Anvils - Amy LaVere
+ 526: ( 59) * California Star - Martin Stephenson and the Daintees
+ 527: ( 59) - I Can't Imagine - Shelby Lynne
+ 528: ( 59) - I Love You, Honeybear - Father John Misty
+ 529: ( 59) - Other - Alison Moyet
+ 530: ( 59) - Sound Affects (Remastered Version) - The Jam
+ 531: ( 59) - Suzanne Vega - Suzanne Vega
+ 532: ( 59) * The King Is Dead - The Decemberists
+ 533: ( 59) - Things Take Time, Take Time - Courtney Barnett
+ 534: ( 59) - This Is The Sea (Deluxe Version) - The Waterboys
+ 535: ( 58) * A Word To The Wise Guy - The Mighty Wah!
+ 536: ( 58) - All These Dreams - Andrew Combs
  537: ( 58) - Back From The Rains - Eyeless in Gaza
  538: ( 58) * Heroes - David Bowie
  539: ( 58) - In Time - The Mavericks
@@ -671,16 +671,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  666: ( 25) - Everything Now - Arcade Fire
  667: ( 25) - Folksinger Vol 5 - Reims 2022 - Lloyd Cole
  668: ( 25) - Self Portrait - Bob Dylan
- 669: ( 24) - Pohorylle - Margo Cilker
- 670: ( 23) - Marry Me - St. Vincent
- 671: ( 22) - Clara Libre - Altered Images
- 672: ( 22) - While I Was Asleep - Darling West
- 673: ( 21) - Rogues Gospel - Duke Garwood
- 674: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
- 675: ( 21) - The Corrs Unplugged - The Corrs
- 676: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
- 677: ( 20) - A Walk Across The Rooftops - The Blue Nile
- 678: ( 20) - Da Capo - Love
+ 669: ( 24) - Da Capo - Love
+ 670: ( 24) - Pohorylle - Margo Cilker
+ 671: ( 23) - Marry Me - St. Vincent
+ 672: ( 22) - Clara Libre - Altered Images
+ 673: ( 22) - While I Was Asleep - Darling West
+ 674: ( 21) - Rogues Gospel - Duke Garwood
+ 675: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
+ 676: ( 21) - The Corrs Unplugged - The Corrs
+ 677: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
+ 678: ( 20) - A Walk Across The Rooftops - The Blue Nile
  679: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
  680: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
  681: ( 19) - Slates - The Fall
@@ -889,132 +889,132 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  884: (  6) - London Southern - Jim Lauderdale
  885: (  6) - Music Complete - New Order
  886: (  6) - Out Of Our Idiot - Elvis Costello
- 887: (  6) - Remind Me Tomorrow - Sharon Van Etten
- 888: (  6) - San Francisco - Scott Mckenzie
- 889: (  6) - Singles - New Order
- 890: (  6) - Songs Of Innocence - U2
- 891: (  6) - Sounds Recorded By Steve Albini - Spare Snare
- 892: (  6) - Spike - Elvis Costello
- 893: (  6) - Springsteen On Broadway - Bruce Springsteen
- 894: (  6) - Standing In The Doorway: Chrissie Hynde Sings Bob Dylan - Chrissie Hynde
- 895: (  6) - Stealers Wheel - Stealers Wheel
- 896: (  6) - Sugar & Spice - Hatchie
- 897: (  6) - The Bela Session - Bauhaus
- 898: (  6) - The Best Of - Joy Division
- 899: (  6) * The Collection - Altered Images
- 900: (  6) * The Light Fantastic - Cara Luft
- 901: (  6) - The Orchard - Lizz Wright
- 902: (  6) - The Return - Sampa the Great
- 903: (  6) - The Underworld & You - Two Circles
- 904: (  6) - The Unseen In Between - Steve Gunn
- 905: (  6) - The War Of The Worlds - Jeff Wayne
- 906: (  6) - Unfollow The Rules - Rufus Wainwright
- 907: (  6) - We Are All Cowards Now - Elvis Costello
- 908: (  6) - Weird - Juliana Hatfield
- 909: (  5) - A Light For Attracting Attention - The Smile
- 910: (  5) - Beatopia - Beabadoobee, Pinkpantheress
- 911: (  5) - Bellowing Sun - Mind Over Mirrors
- 912: (  5) - Between The Earth And Sky - Lankum
- 913: (  5) - Chamber Music Society - Esperanza Spalding
- 914: (  5) - Chemistry Lessons Volume 1 - Chris Carter
- 915: (  5) * City Of Refuge - Rachel Harrington
- 916: (  5) - Deran - Bombino
- 917: (  5) - Downey To Lubbock - Jimmie Dale Gilmore
- 918: (  5) - Dragnet - The Fall
- 919: (  5) - Dungeness - Trembling Bells
- 920: (  5) - Ecstatic Arrow - Virginia Wing
- 921: (  5) - Ella At Duke's Place - Ella Fitzgerald
- 922: (  5) - Empire - Sarah MacDougall
- 923: (  5) - Foreign Parts - You Tell Me
- 924: (  5) - Gershwin: 's Wonderful -Gershwin Songbook (Disc 1) - Nina Simone
- 925: (  5) - Hell-On - Neko Case
- 926: (  5) - Higgledypiggledy - Slug
- 927: (  5) - Hippo Lite - Drinks
- 928: (  5) - I Have To Feed Larry's Hawk - White Fence
- 929: (  5) - I'm In Love With A German Film Star - The Passions
- 930: (  5) - It's A New Day Tonight - Michael Rault
- 931: (  5) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
- 932: (  5) - Live From Austin, Tx - Eliza Gilkyson
- 933: (  5) - Longwave - Bonny Doon
- 934: (  5) - No Count Sarah - Sarah Vaughan
- 935: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
- 936: (  5) - Parallel Lines (Remastered) - Blondie
- 937: (  5) - Peace At Last - EP - Hem
- 938: (  5) - Pinned - A Place to Bury Strangers
- 939: (  5) - Rat’S Spit - Julian Lynch
- 940: (  5) * Saved - Bob Dylan
- 941: (  5) - Sculptor - Luluc
- 942: (  5) - Serious Moonlight - David Bowie
- 943: (  5) - Sex & Food - Unknown Mortal Orchestra
- 944: (  5) * Sweet Somethin' Steady - Romi Mayes
- 945: (  5) - Temporal - Julia Kent
- 946: (  5) - The Imperial - The Delines
- 947: (  5) - The Louder I Call, The Faster It Runs - Wye Oak
- 948: (  5) - The Magic 0F Christmas - Nat King Cole
- 949: (  5) - The Straight Hits! - Josh T. Pearson
- 950: (  5) - Total - Joy Division
- 951: (  5) - We've Been Going About This All Wrong - Sharon Van Etten
- 952: (  4) -  - Philscreen
- 953: (  4) - 13 Rivers - Richard Thompson
- 954: (  4) - >>> - Beak>
- 955: (  4) * Achin In Yer Bones - Romi Mayes
- 956: (  4) - Acoustic Classics - Rodney Crowell
- 957: (  4) - All The Roadrunning - Mark Knopfler & Emmylou Harris
- 958: (  4) - Blondie (Remastered) - Blondie
- 959: (  4) * Blood On The Tracks - Bob Dylan
- 960: (  4) - Bottle It In - Kurt Vile
- 961: (  4) - Brushes With Happiness - The Wave Pictures
- 962: (  4) - Cactused - Wire
- 963: (  4) - Calling From A Country Phone (Bonus Tracks) - Robert Forster
- 964: (  4) - Careless Love - Madeleine Peyroux
- 965: (  4) - Chapter 4 - Chapter 4
- 966: (  4) - Crocodiles (Expanded) [2007 Remaster] - Echo & the Bunnymen
- 967: (  4) - Debris - Keeley Forsyth
- 968: (  4) - Disraeli Gears (Remastered) - Cream
- 969: (  4) - Dreamland - Madeleine Peyroux
- 970: (  4) - Drift - The Men
- 971: (  4) - Early - Scritti Politti
- 972: (  4) - Entertainment! - Gang of Four
- 973: (  4) - For Those In Love - Dinah Washington
- 974: (  4) - Garage Band Classics - The Chocolate Watch Band
- 975: (  4) - Giant Steps - John Coltrane
- 976: (  4) - Glad Rag Doll - Diana Krall
- 977: (  4) - Good As I Been To You - Bob Dylan
- 978: (  4) - Greatest Hits (Remastered) - Queen
- 979: (  4) - Grotesque (After The Gramme) [Expanded Edition] - The Fall
- 980: (  4) - Historian - Lucy Dacus
- 981: (  4) - Hormone Lemonade - Cavern of Anti-Matter
- 982: (  4) - Hush - Tracy Bryant
- 983: (  4) - I Fix My Gaze / Don't Shy Away - Loma
- 984: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
- 985: (  4) - Iii - Loma
- 986: (  4) - In Case You're In Love - Sonny & Cher
- 987: (  4) * Infidels (Remastered 2003) - Bob Dylan
- 988: (  4) - Innovations In British Psychedelia - Small Faces
- 989: (  4) - Jazz Blues Divas - Shirley Horn
- 990: (  4) - Just Like Moby Dick - The Panhandle Mystery Band
- 991: (  4) - Le Kov - Gwenno
- 992: (  4) - Learning To Crawl - The Pretenders
- 993: (  4) - Lena Horne Greatest Hits - Lena Horne
- 994: (  4) - Liberty Belle And The Black Diamond Express - The Go-Betweens
- 995: (  4) - Lilac Tree - Martin Stephenson
- 996: (  4) - Live With The Royal Liverpool Philharmonic Orchestra - 06/10/18 - Orchestral Manoeuvres in the Dark
- 997: (  4) - Loaded: Re-Loaded 45Th Anniversary Edition - The Velvet Underground
- 998: (  4) - Local Color - Mose Allison
- 999: (  4) - Manhattan Moods - Mary Stallings
-1000: (  4) - Mighty Like A Rose - Elvis Costello
-1001: (  4) - Mono - The Mavericks
-1002: (  4) - Mr. Fantasy - Traffic
-1003: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
-1004: (  4) - Ocean Rain Live 2008 - Echo & the Bunnymen
-1005: (  4) - Ommadawn - Mike Oldfield
-1006: (  4) - Peppermint Pig - Cocteau Twins
-1007: (  4) - Power Corruption And Lies (Definitive) - New Order
-1008: (  4) - Power In The Darkness - Tom Robinson Band
-1009: (  4) - Power To The People: The Hits - John Lennon
-1010: (  4) - Putting On Airs - Erin Rae
-1011: (  4) - Quickies - The Magnetic Fields
-1012: (  4) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+ 887: (  6) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+ 888: (  6) - Remind Me Tomorrow - Sharon Van Etten
+ 889: (  6) - San Francisco - Scott Mckenzie
+ 890: (  6) - Singles - New Order
+ 891: (  6) - Songs Of Innocence - U2
+ 892: (  6) - Sounds Recorded By Steve Albini - Spare Snare
+ 893: (  6) - Spike - Elvis Costello
+ 894: (  6) - Springsteen On Broadway - Bruce Springsteen
+ 895: (  6) - Standing In The Doorway: Chrissie Hynde Sings Bob Dylan - Chrissie Hynde
+ 896: (  6) - Stealers Wheel - Stealers Wheel
+ 897: (  6) - Sugar & Spice - Hatchie
+ 898: (  6) - The Bela Session - Bauhaus
+ 899: (  6) - The Best Of - Joy Division
+ 900: (  6) * The Collection - Altered Images
+ 901: (  6) * The Light Fantastic - Cara Luft
+ 902: (  6) - The Orchard - Lizz Wright
+ 903: (  6) - The Return - Sampa the Great
+ 904: (  6) - The Underworld & You - Two Circles
+ 905: (  6) - The Unseen In Between - Steve Gunn
+ 906: (  6) - The War Of The Worlds - Jeff Wayne
+ 907: (  6) - Unfollow The Rules - Rufus Wainwright
+ 908: (  6) - We Are All Cowards Now - Elvis Costello
+ 909: (  6) - Weird - Juliana Hatfield
+ 910: (  5) - A Light For Attracting Attention - The Smile
+ 911: (  5) - Beatopia - Beabadoobee, Pinkpantheress
+ 912: (  5) - Bellowing Sun - Mind Over Mirrors
+ 913: (  5) - Between The Earth And Sky - Lankum
+ 914: (  5) - Chamber Music Society - Esperanza Spalding
+ 915: (  5) - Chemistry Lessons Volume 1 - Chris Carter
+ 916: (  5) * City Of Refuge - Rachel Harrington
+ 917: (  5) - Deran - Bombino
+ 918: (  5) - Downey To Lubbock - Jimmie Dale Gilmore
+ 919: (  5) - Dragnet - The Fall
+ 920: (  5) - Dungeness - Trembling Bells
+ 921: (  5) - Ecstatic Arrow - Virginia Wing
+ 922: (  5) - Ella At Duke's Place - Ella Fitzgerald
+ 923: (  5) - Empire - Sarah MacDougall
+ 924: (  5) - Foreign Parts - You Tell Me
+ 925: (  5) - Gershwin: 's Wonderful -Gershwin Songbook (Disc 1) - Nina Simone
+ 926: (  5) - Hell-On - Neko Case
+ 927: (  5) - Higgledypiggledy - Slug
+ 928: (  5) - Hippo Lite - Drinks
+ 929: (  5) - I Have To Feed Larry's Hawk - White Fence
+ 930: (  5) - I'm In Love With A German Film Star - The Passions
+ 931: (  5) - It's A New Day Tonight - Michael Rault
+ 932: (  5) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
+ 933: (  5) - Live From Austin, Tx - Eliza Gilkyson
+ 934: (  5) - Longwave - Bonny Doon
+ 935: (  5) - No Count Sarah - Sarah Vaughan
+ 936: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
+ 937: (  5) - Parallel Lines (Remastered) - Blondie
+ 938: (  5) - Peace At Last - EP - Hem
+ 939: (  5) - Pinned - A Place to Bury Strangers
+ 940: (  5) - Rat’S Spit - Julian Lynch
+ 941: (  5) * Saved - Bob Dylan
+ 942: (  5) - Sculptor - Luluc
+ 943: (  5) - Serious Moonlight - David Bowie
+ 944: (  5) - Sex & Food - Unknown Mortal Orchestra
+ 945: (  5) * Sweet Somethin' Steady - Romi Mayes
+ 946: (  5) - Temporal - Julia Kent
+ 947: (  5) - The Imperial - The Delines
+ 948: (  5) - The Louder I Call, The Faster It Runs - Wye Oak
+ 949: (  5) - The Magic 0F Christmas - Nat King Cole
+ 950: (  5) - The Straight Hits! - Josh T. Pearson
+ 951: (  5) - Total - Joy Division
+ 952: (  5) - We've Been Going About This All Wrong - Sharon Van Etten
+ 953: (  4) -  - Philscreen
+ 954: (  4) - 13 Rivers - Richard Thompson
+ 955: (  4) - >>> - Beak>
+ 956: (  4) * Achin In Yer Bones - Romi Mayes
+ 957: (  4) - Acoustic Classics - Rodney Crowell
+ 958: (  4) - All The Roadrunning - Mark Knopfler & Emmylou Harris
+ 959: (  4) - Blondie (Remastered) - Blondie
+ 960: (  4) * Blood On The Tracks - Bob Dylan
+ 961: (  4) - Bottle It In - Kurt Vile
+ 962: (  4) - Brushes With Happiness - The Wave Pictures
+ 963: (  4) - Cactused - Wire
+ 964: (  4) - Calling From A Country Phone (Bonus Tracks) - Robert Forster
+ 965: (  4) - Careless Love - Madeleine Peyroux
+ 966: (  4) - Chapter 4 - Chapter 4
+ 967: (  4) - Crocodiles (Expanded) [2007 Remaster] - Echo & the Bunnymen
+ 968: (  4) - Debris - Keeley Forsyth
+ 969: (  4) - Disraeli Gears (Remastered) - Cream
+ 970: (  4) - Dreamland - Madeleine Peyroux
+ 971: (  4) - Drift - The Men
+ 972: (  4) - Early - Scritti Politti
+ 973: (  4) - Entertainment! - Gang of Four
+ 974: (  4) - For Those In Love - Dinah Washington
+ 975: (  4) - Garage Band Classics - The Chocolate Watch Band
+ 976: (  4) - Giant Steps - John Coltrane
+ 977: (  4) - Glad Rag Doll - Diana Krall
+ 978: (  4) - Good As I Been To You - Bob Dylan
+ 979: (  4) - Greatest Hits (Remastered) - Queen
+ 980: (  4) - Grotesque (After The Gramme) [Expanded Edition] - The Fall
+ 981: (  4) - Historian - Lucy Dacus
+ 982: (  4) - Hormone Lemonade - Cavern of Anti-Matter
+ 983: (  4) - Hush - Tracy Bryant
+ 984: (  4) - I Fix My Gaze / Don't Shy Away - Loma
+ 985: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
+ 986: (  4) - Iii - Loma
+ 987: (  4) - In Case You're In Love - Sonny & Cher
+ 988: (  4) * Infidels (Remastered 2003) - Bob Dylan
+ 989: (  4) - Innovations In British Psychedelia - Small Faces
+ 990: (  4) - Jazz Blues Divas - Shirley Horn
+ 991: (  4) - Just Like Moby Dick - The Panhandle Mystery Band
+ 992: (  4) - Le Kov - Gwenno
+ 993: (  4) - Learning To Crawl - The Pretenders
+ 994: (  4) - Lena Horne Greatest Hits - Lena Horne
+ 995: (  4) - Liberty Belle And The Black Diamond Express - The Go-Betweens
+ 996: (  4) - Lilac Tree - Martin Stephenson
+ 997: (  4) - Live With The Royal Liverpool Philharmonic Orchestra - 06/10/18 - Orchestral Manoeuvres in the Dark
+ 998: (  4) - Loaded: Re-Loaded 45Th Anniversary Edition - The Velvet Underground
+ 999: (  4) - Local Color - Mose Allison
+1000: (  4) - Manhattan Moods - Mary Stallings
+1001: (  4) - Mighty Like A Rose - Elvis Costello
+1002: (  4) - Mono - The Mavericks
+1003: (  4) - Mr. Fantasy - Traffic
+1004: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
+1005: (  4) - Ocean Rain Live 2008 - Echo & the Bunnymen
+1006: (  4) - Ommadawn - Mike Oldfield
+1007: (  4) - Peppermint Pig - Cocteau Twins
+1008: (  4) - Power Corruption And Lies (Definitive) - New Order
+1009: (  4) - Power In The Darkness - Tom Robinson Band
+1010: (  4) - Power To The People: The Hits - John Lennon
+1011: (  4) - Putting On Airs - Erin Rae
+1012: (  4) - Quickies - The Magnetic Fields
 1013: (  4) - Rare Birds - Jonathan Wilson
 1014: (  4) - Record - Tracey Thorn
 1015: (  4) - Resonator - Kathryn Williams, Anthony Kerr
