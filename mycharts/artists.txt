@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64633          1171          1722         11599
+   64640          1171          1722         11601
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -55,7 +55,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   52: ( 357) - Hayes Carll
   53: ( 350) - The Waterboys
   54: ( 330) - Aztec Camera
-  55: ( 328) - Rod Stewart
+  55: ( 330) - Rod Stewart
   56: ( 326) - Amanda Shires
   57: ( 322) - The Fall
   58: ( 312) - Heaven 17
@@ -205,16 +205,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  202: (  65) - The Sundays
  203: (  64) - Margaret Glaspy
  204: (  64) - Striking Matches
- 205: (  63) - Haley Bonar
- 206: (  63) - Ian McCulloch
- 207: (  63) - Lcd Soundsystem
- 208: (  63) - Phoebe Bridgers
- 209: (  62) - Chuck Prophet
- 210: (  62) - Robert Plant & Alison Krauss
- 211: (  62) - Willie Nelson & Asleep At the Wheel
- 212: (  61) - Dave Rawlings Machine
- 213: (  61) - Loretta Lynn
- 214: (  61) - The B-52's
+ 205: (  64) - The B-52's
+ 206: (  63) - Haley Bonar
+ 207: (  63) - Ian McCulloch
+ 208: (  63) - Lcd Soundsystem
+ 209: (  63) - Phoebe Bridgers
+ 210: (  62) - Chuck Prophet
+ 211: (  62) - Robert Plant & Alison Krauss
+ 212: (  62) - Willie Nelson & Asleep At the Wheel
+ 213: (  61) - Dave Rawlings Machine
+ 214: (  61) - Loretta Lynn
  215: (  61) - Tracey Thorn
  216: (  60) - Grace Jones
  217: (  60) - Walter Salas-Humara
@@ -360,64 +360,64 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  345: (   8) - Aldous Harding
  346: (   8) - Andrew Bird
  347: (   8) - Bill Callahan
- 348: (   8) - Bob Marley
- 349: (   8) - Bon Iver
- 350: (   8) - Brigid Dawson and the Mothers Network
- 351: (   8) - Caleb Landry Jones
- 352: (   8) - Cate le Bon
- 353: (   8) - Ella Fitzgerald
- 354: (   8) - Forma
- 355: (   8) - Julia Jacklin
- 356: (   8) - Larkin Poe
- 357: (   8) - Let'S Eat Grandma
- 358: (   8) - Mankind
- 359: (   8) - Modern Nature
- 360: (   8) - Peter Tosh
- 361: (   8) - Purple Mountains
- 362: (   8) - Rhiannon Giddens
- 363: (   8) - Richard Dawson
- 364: (   8) - Spizz Energi
- 365: (   8) - Steve Earle
- 366: (   8) - Stick in the Wheel
- 367: (   8) - The Durutti Column
- 368: (   8) - The Lost Brothers
- 369: (   8) - Weyes Blood
- 370: (   8) - White Fence
- 371: (   8) - Woods
- 372: (   7) - Billy Joel
- 373: (   7) - Black Marble
- 374: (   7) - Boubacar Traoré
- 375: (   7) - Buck Owens
- 376: (   7) - Buzzcocks
- 377: (   7) - Chris Eckman
- 378: (   7) - Chris Hillman & Steve Earle
- 379: (   7) - Della Mae
- 380: (   7) - Elephant Micah
- 381: (   7) - Iggy Pop
- 382: (   7) - La Féline
- 383: (   7) - Lightnin' Hopkins
- 384: (   7) - Lucinda Williams & David Crosby
- 385: (   7) - Martyn Bates
- 386: (   7) - Mello
- 387: (   7) - Melody'S Echo Chamber
- 388: (   7) - Nadine
- 389: (   7) - Nat King Cole
- 390: (   7) - Odetta Hartman
- 391: (   7) - Orchestral Manoeuvres in the Dark (omd)
- 392: (   7) - Sam Phillips
- 393: (   7) - The Heptones
- 394: (   7) - The Last Poets
- 395: (   7) - The Limiñanas
- 396: (   7) - The Louvin Brothers
- 397: (   7) - The Mighty Diamonds
- 398: (   7) - The Pretenders & Emmylou Harris
- 399: (   7) - Tom Robinson
- 400: (   7) - Townes Van Zandt
- 401: (   7) - White Denim
- 402: (   6) - 13Th Floor Elevators
- 403: (   6) - Aoife Nessa Frances
- 404: (   6) - Bill Fay
- 405: (   6) - Bill Nelson
+ 348: (   8) - Bill Nelson
+ 349: (   8) - Bob Marley
+ 350: (   8) - Bon Iver
+ 351: (   8) - Brigid Dawson and the Mothers Network
+ 352: (   8) - Caleb Landry Jones
+ 353: (   8) - Cate le Bon
+ 354: (   8) - Ella Fitzgerald
+ 355: (   8) - Forma
+ 356: (   8) - Julia Jacklin
+ 357: (   8) - Larkin Poe
+ 358: (   8) - Let'S Eat Grandma
+ 359: (   8) - Mankind
+ 360: (   8) - Modern Nature
+ 361: (   8) - Peter Tosh
+ 362: (   8) - Purple Mountains
+ 363: (   8) - Rhiannon Giddens
+ 364: (   8) - Richard Dawson
+ 365: (   8) - Spizz Energi
+ 366: (   8) - Steve Earle
+ 367: (   8) - Stick in the Wheel
+ 368: (   8) - The Durutti Column
+ 369: (   8) - The Lost Brothers
+ 370: (   8) - Weyes Blood
+ 371: (   8) - White Fence
+ 372: (   8) - Woods
+ 373: (   7) - Billy Joel
+ 374: (   7) - Black Marble
+ 375: (   7) - Boubacar Traoré
+ 376: (   7) - Buck Owens
+ 377: (   7) - Buzzcocks
+ 378: (   7) - Chris Eckman
+ 379: (   7) - Chris Hillman & Steve Earle
+ 380: (   7) - Della Mae
+ 381: (   7) - Elephant Micah
+ 382: (   7) - Iggy Pop
+ 383: (   7) - La Féline
+ 384: (   7) - Lightnin' Hopkins
+ 385: (   7) - Lucinda Williams & David Crosby
+ 386: (   7) - Martyn Bates
+ 387: (   7) - Mello
+ 388: (   7) - Melody'S Echo Chamber
+ 389: (   7) - Nadine
+ 390: (   7) - Nat King Cole
+ 391: (   7) - Odetta Hartman
+ 392: (   7) - Orchestral Manoeuvres in the Dark (omd)
+ 393: (   7) - Sam Phillips
+ 394: (   7) - The Heptones
+ 395: (   7) - The Last Poets
+ 396: (   7) - The Limiñanas
+ 397: (   7) - The Louvin Brothers
+ 398: (   7) - The Mighty Diamonds
+ 399: (   7) - The Pretenders & Emmylou Harris
+ 400: (   7) - Tom Robinson
+ 401: (   7) - Townes Van Zandt
+ 402: (   7) - White Denim
+ 403: (   6) - 13Th Floor Elevators
+ 404: (   6) - Aoife Nessa Frances
+ 405: (   6) - Bill Fay
  406: (   6) - Bombino
  407: (   6) - Bradley Brown
  408: (   6) - Caroline Herring
