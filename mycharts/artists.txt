@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64645          1171          1722         11601
+   64658          1171          1723         11604
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -10,7 +10,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    7: (1028) - Cocteau Twins
    8: (1022) - U2
    9: ( 987) - Tift Merritt
-  10: ( 949) - Simple Minds
+  10: ( 951) - Simple Minds
   11: ( 931) - Roxy Music
   12: ( 863) - Laura Marling
   13: ( 850) - Leonard Cohen
@@ -25,7 +25,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   22: ( 656) - Hem
   23: ( 656) - Scott Walker
   24: ( 650) - Rosanne Cash
-  25: ( 641) - Altered Images
+  25: ( 643) - Altered Images
   26: ( 641) - The Style Council
   27: ( 638) - The Rolling Stones
   28: ( 620) - Martin Stephenson
@@ -100,9 +100,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   97: ( 159) - Robert Forster
   98: ( 156) - Amy LaVere
   99: ( 155) - Chip Taylor & Carrie Rodriguez
- 100: ( 147) - JT Nero
- 101: ( 147) - Lizanne Knott
- 102: ( 146) - Margo Price
+ 100: ( 148) - Margo Price
+ 101: ( 147) - JT Nero
+ 102: ( 147) - Lizanne Knott
  103: ( 146) - The Pale Fountains
  104: ( 145) - Freakwater
  105: ( 144) - Emma Swift
@@ -193,13 +193,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  190: (  69) - Courtney Barnett
  191: (  69) - Dolly Parton
  192: (  69) - Noah and the Whale
- 193: (  68) - Laura Gibson
- 194: (  68) - Wet Leg
- 195: (  67) - The Mavericks
- 196: (  67) - Wah!
- 197: (  66) - Sarah Jarosz
- 198: (  66) - She Drew the Gun
- 199: (  66) - The B-52's
+ 193: (  69) - The B-52's
+ 194: (  68) - Laura Gibson
+ 195: (  68) - Wet Leg
+ 196: (  67) - The Mavericks
+ 197: (  67) - Wah!
+ 198: (  66) - Sarah Jarosz
+ 199: (  66) - She Drew the Gun
  200: (  66) - The Doors
  201: (  65) - Catatonia
  202: (  65) - Small Faces
@@ -285,14 +285,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  270: (  19) - Taylor Swift
  271: (  18) - Michael Stipe
  272: (  18) - Paul Haig
- 273: (  18) - The Cool Greenhouse
- 274: (  17) - Aswad
- 275: (  17) - Kurt Vile
- 276: (  17) - R.E.M.
- 277: (  16) - Patti Smith
- 278: (  16) - The Dream Syndicate
- 279: (  15) - Martin Stephenson, John Perry
- 280: (  15) - Shelby Lynne, Allison Moorer
+ 273: (  18) - Shelby Lynne, Allison Moorer
+ 274: (  18) - The Cool Greenhouse
+ 275: (  17) - Aswad
+ 276: (  17) - Kurt Vile
+ 277: (  17) - R.E.M.
+ 278: (  16) - Patti Smith
+ 279: (  16) - The Dream Syndicate
+ 280: (  15) - Martin Stephenson, John Perry
  281: (  15) - The Fire Engines
  282: (  14) - David Byrne
  283: (  14) - Fontaines D.c.
@@ -345,22 +345,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  330: (  10) - The Twilight Sad
  331: (  10) - Tim Buckley
  332: (   9) - Big Thief
- 333: (   9) - Bryan Adams
- 334: (   9) - Daniel Bachman
- 335: (   9) - Hawkwind Zoo
- 336: (   9) - Ian Dury
- 337: (   9) - Lizz Wright
- 338: (   9) - Low
- 339: (   9) - Mark Lanegan
- 340: (   9) - Romi Mayes
- 341: (   9) - Stevie Nicks
- 342: (   9) - Sugar Black
- 343: (   9) - Tyler Childers
- 344: (   9) - Waylon Jennings
- 345: (   8) - Aldous Harding
- 346: (   8) - Andrew Bird
- 347: (   8) - Bill Callahan
- 348: (   8) - Bill Nelson
+ 333: (   9) - Bill Nelson
+ 334: (   9) - Bryan Adams
+ 335: (   9) - Daniel Bachman
+ 336: (   9) - Hawkwind Zoo
+ 337: (   9) - Ian Dury
+ 338: (   9) - Lizz Wright
+ 339: (   9) - Low
+ 340: (   9) - Mark Lanegan
+ 341: (   9) - Romi Mayes
+ 342: (   9) - Stevie Nicks
+ 343: (   9) - Sugar Black
+ 344: (   9) - Tyler Childers
+ 345: (   9) - Waylon Jennings
+ 346: (   8) - Aldous Harding
+ 347: (   8) - Andrew Bird
+ 348: (   8) - Bill Callahan
  349: (   8) - Bob Marley
  350: (   8) - Bon Iver
  351: (   8) - Brigid Dawson and the Mothers Network
