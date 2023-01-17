@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64658          1171          1723         11604
+   64672          1171          1723         11607
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -100,7 +100,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   97: ( 159) - Robert Forster
   98: ( 156) - Amy LaVere
   99: ( 155) - Chip Taylor & Carrie Rodriguez
- 100: ( 148) - Margo Price
+ 100: ( 151) - Margo Price
  101: ( 147) - JT Nero
  102: ( 147) - Lizanne Knott
  103: ( 146) - The Pale Fountains
@@ -186,14 +186,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  183: (  72) - Electric Light Orchestra
  184: (  72) - Laura Cantrell
  185: (  72) - Natalie Prass
- 186: (  71) - Colvin & Earle
- 187: (  71) - Dire Straits
- 188: (  71) - Stevie Parker
- 189: (  70) - Kraftwerk
- 190: (  69) - Courtney Barnett
- 191: (  69) - Dolly Parton
- 192: (  69) - Noah and the Whale
- 193: (  69) - The B-52's
+ 186: (  72) - The B-52's
+ 187: (  71) - Colvin & Earle
+ 188: (  71) - Dire Straits
+ 189: (  71) - Stevie Parker
+ 190: (  70) - Kraftwerk
+ 191: (  69) - Courtney Barnett
+ 192: (  69) - Dolly Parton
+ 193: (  69) - Noah and the Whale
  194: (  68) - Laura Gibson
  195: (  68) - Wet Leg
  196: (  67) - The Mavericks
@@ -251,19 +251,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  245: (  42) - Inhaler
 
+ 246: (  40) - The Burning Hell
+ 247: (  39) - A Certain Ratio
 
- 246: (  39) - A Certain Ratio
+ 248: (  37) - Jeff Bridges
+ 249: (  37) - Yo La Tengo
 
- 247: (  37) - Jeff Bridges
- 248: (  37) - Yo La Tengo
 
- 249: (  35) - The Burning Hell
  250: (  34) - The Linda Lindas
 
- 251: (  32) - Manfred Mann's Earth Band
- 252: (  32) - Sea Power
+ 251: (  32) - Duke Garwood
+ 252: (  32) - Manfred Mann's Earth Band
+ 253: (  32) - Sea Power
 
- 253: (  30) - Duke Garwood
+
  254: (  29) - Love
  255: (  29) - The Felice Brothers
 
@@ -329,23 +330,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  314: (  11) - Peel.Rocks Magazine
  315: (  11) - Rolling Blackouts Coastal Fever
  316: (  11) - Travis Linville
- 317: (  10) - Cara Luft
- 318: (  10) - Dinah Washington
- 319: (  10) - Easy Star All-stars
- 320: (  10) - Elastica
- 321: (  10) - Gregory Isaacs
- 322: (  10) - Just the Faqs
- 323: (  10) - Kathleen Edwards
- 324: (  10) - Madeleine Peyroux
- 325: (  10) - Martha and the Muffins
- 326: (  10) - Mount Moriah
- 327: (  10) - Nico
- 328: (  10) - Nina Simone
- 329: (  10) - Samantha Crain
- 330: (  10) - The Twilight Sad
- 331: (  10) - Tim Buckley
- 332: (   9) - Big Thief
- 333: (   9) - Bill Nelson
+ 317: (  10) - Bill Nelson
+ 318: (  10) - Cara Luft
+ 319: (  10) - Dinah Washington
+ 320: (  10) - Easy Star All-stars
+ 321: (  10) - Elastica
+ 322: (  10) - Gregory Isaacs
+ 323: (  10) - Just the Faqs
+ 324: (  10) - Kathleen Edwards
+ 325: (  10) - Madeleine Peyroux
+ 326: (  10) - Martha and the Muffins
+ 327: (  10) - Mount Moriah
+ 328: (  10) - Nico
+ 329: (  10) - Nina Simone
+ 330: (  10) - Samantha Crain
+ 331: (  10) - The Twilight Sad
+ 332: (  10) - Tim Buckley
+ 333: (   9) - Big Thief
  334: (   9) - Bryan Adams
  335: (   9) - Daniel Bachman
  336: (   9) - Hawkwind Zoo
