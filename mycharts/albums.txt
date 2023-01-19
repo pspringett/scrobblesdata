@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64692          1171          1723         11609
+   64707          1171          1723         11612
    1: (324) - Cafe Bleu - The Style Council
    2: (292) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -17,8 +17,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   14: (211) * Harlem River Blues - Justin Townes Earle
   15: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
   16: (202) - Burnin' - The Wailers
-  17: (201) - Case/Lang/Veirs - case/lang/veirs
-  18: (201) - Mascara Streakz - Altered Images
+  17: (202) - Mascara Streakz - Altered Images
+  18: (201) - Case/Lang/Veirs - case/lang/veirs
   19: (201) - Traveling Alone - Tift Merritt
   20: (199) - Something More Than Free - Jason Isbell
   21: (198) - The Lexicon Of Love (Digitally Remastered) - ABC
@@ -282,15 +282,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  279: ( 85) * Cleaning Out The Ashtrays CD1 - One Red Wine Glass - Lloyd Cole
  280: ( 85) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
  281: ( 85) - Futuristic Dragon (Deluxe Edition) - T. Rex
- 282: ( 85) * Organisation - Orchestral Manoeuvres in the Dark
- 283: ( 85) * Road - Angie Palmer
- 284: ( 84) - Bauhaus - 1979-1983 Volume One - Bauhaus
- 285: ( 84) - Cracked Actor - Live Los Angeles '74 - David Bowie
- 286: ( 84) - Etc - Lloyd Cole
- 287: ( 84) - I'll Be Your Girl - The Decemberists
- 288: ( 84) - She Remembers Everything - Rosanne Cash
- 289: ( 84) - Young In All The Wrong Ways - Sara Watkins
- 290: ( 83) - Once Upon A Time - Simple Minds
+ 282: ( 85) - Once Upon A Time - Simple Minds
+ 283: ( 85) * Organisation - Orchestral Manoeuvres in the Dark
+ 284: ( 85) * Road - Angie Palmer
+ 285: ( 84) - Bauhaus - 1979-1983 Volume One - Bauhaus
+ 286: ( 84) - Cracked Actor - Live Los Angeles '74 - David Bowie
+ 287: ( 84) - Etc - Lloyd Cole
+ 288: ( 84) - I'll Be Your Girl - The Decemberists
+ 289: ( 84) - She Remembers Everything - Rosanne Cash
+ 290: ( 84) - Young In All The Wrong Ways - Sara Watkins
  291: ( 83) * Stop Making Sense - Talking Heads
  292: ( 83) * Transformer - Lou Reed
  293: ( 82) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
@@ -643,8 +643,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  640: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
  641: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
  642: ( 43) - Fat Pop - Paul Weller
- 643: ( 43) - Reconnected - Yazoo
- 644: ( 42) - Garbage Island - The Burning Hell
+ 643: ( 43) - Garbage Island - The Burning Hell
+ 644: ( 43) - Reconnected - Yazoo
  645: ( 42) - It Won't Always Be Like This - Inhaler
  646: ( 41) - Being Brave - Amanda Shires
  647: ( 41) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
@@ -678,19 +678,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  672: ( 23) - Marry Me - St. Vincent
  673: ( 22) - Clara Libre - Altered Images
  674: ( 22) - While I Was Asleep - Darling West
- 675: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
- 676: ( 21) - The Corrs Unplugged - The Corrs
- 677: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
- 678: ( 20) - A Walk Across The Rooftops - The Blue Nile
- 679: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
- 680: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
- 681: ( 19) - Slates - The Fall
- 682: ( 18) - Never A Dull Moment - Rod Stewart
- 683: ( 18) - Not Dark Yet - Shelby Lynne, Allison Moorer
- 684: ( 18) - Swing In 82 - Paul Haig
- 685: ( 18) - The Cool Greenhouse - The Cool Greenhouse
- 686: ( 17) - Collective Force - Martin Stephenson
- 687: ( 17) - Evermore - Taylor Swift
+ 675: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+ 676: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
+ 677: ( 21) - The Corrs Unplugged - The Corrs
+ 678: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
+ 679: ( 20) - A Walk Across The Rooftops - The Blue Nile
+ 680: ( 20) - Evermore - Taylor Swift
+ 681: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
+ 682: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
+ 683: ( 19) - Slates - The Fall
+ 684: ( 18) - Never A Dull Moment - Rod Stewart
+ 685: ( 18) - Swing In 82 - Paul Haig
+ 686: ( 18) - The Cool Greenhouse - The Cool Greenhouse
+ 687: ( 17) - Collective Force - Martin Stephenson
  688: ( 17) - Live And Intermittent - Magazine
  689: ( 16) - Horses - Patti Smith
  690: ( 16) - Talking Heads '77 (Deluxe Version) - Talking Heads
@@ -705,66 +705,66 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  699: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
  700: ( 14) - In The Flat Field - Bauhaus
  701: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
- 702: ( 14) - Raising Sand - Robert Plant
- 703: ( 14) * Songs To Remember - Scritti Politti
- 704: ( 14) - Talk On Corners - The Corrs
- 705: ( 14) - Tangled Man - Green Gartside
- 706: ( 14) - The Boy's Heart - Martin Stephenson and the Daintees
- 707: ( 13) - Hippopotamus - Sparks
- 708: ( 13) - Love This Giant - David Byrne & St. Vincent
- 709: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
- 710: ( 13) - Platinum - Miranda Lambert
- 711: ( 13) - Strange Angels - Kristin Hersh
- 712: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
- 713: ( 13) - Tubular Bells - Mike Oldfield
- 714: ( 12) - A History Of Now - Callaghan
- 715: ( 12) - Badbea - Edwyn Collins
- 716: ( 12) - Electric Ladyland - The Jimi Hendrix Experience
- 717: ( 12) - Girls In Peacetime Want To Dance - Belle and Sebastian
- 718: ( 12) - Greatest - Jim Croce
- 719: ( 12) - High Land, Hard Rain (Expanded) - Aztec Camera
- 720: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
- 721: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
- 722: ( 12) - Quit Dreaming (And Get On The Beam) - Bill Nelson
- 723: ( 12) - Substance (2 Of 2) - New Order
- 724: ( 12) - Tubeway Army - Tubeway Army
- 725: ( 11) -  - Peel.Rocks Magazine
- 726: ( 11) - Actor - St. Vincent
- 727: ( 11) - Duran Duran - Duran Duran
- 728: ( 11) - Exodus Of Venus - Elizabeth Cook
- 729: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
- 730: ( 11) - Helplessness Blues - Fleet Foxes
- 731: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
- 732: ( 11) - Jessica Pratt - Jessica Pratt
- 733: ( 11) - La Question - Françoise Hardy
- 734: ( 11) - My Favorite Picture Of You - Guy Clark
- 735: ( 11) - Mysterio - Ian McCulloch
- 736: ( 11) - Open Here - Field Music
- 737: ( 11) - Pollinator - Blondie
- 738: ( 11) - Queer As Folk - Grace Petrie
- 739: ( 11) * See You Around - Travis Linville
- 740: ( 11) - Songs Of Experience - U2
- 741: ( 11) - Texas - Rodney Crowell
- 742: ( 11) - The Wide Afternoon - Jack Harris
- 743: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
- 744: ( 11) - Watch - Manfred Mann's Earth Band
- 745: ( 10) - * Naked As Advertised – Versions 08 - Heaven 17
- 746: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
- 747: ( 10) - Chelsea Girl - Nico
- 748: ( 10) - Dub Side Of The Moon - Easy Star All-stars
- 749: ( 10) - Elastica - Elastica
- 750: ( 10) - Failer - Kathleen Edwards
- 751: ( 10) - Gannett Syndication Service - Just the Faqs
- 752: ( 10) - Get It On: The Collection - T. Rex
- 753: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
- 754: ( 10) - How To Dance - Mount Moriah
- 755: ( 10) - Mainstream - Lloyd Cole
- 756: ( 10) - Metamatic - John Foxx
- 757: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
- 758: ( 10) - Sharon - Cowboy Junkies
- 759: ( 10) - Starfish - The Church
- 760: ( 10) - Starsailor - Tim Buckley
- 761: ( 10) - Strays - Margo Price
+ 702: ( 14) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+ 703: ( 14) - Raising Sand - Robert Plant
+ 704: ( 14) * Songs To Remember - Scritti Politti
+ 705: ( 14) - Talk On Corners - The Corrs
+ 706: ( 14) - Tangled Man - Green Gartside
+ 707: ( 14) - The Boy's Heart - Martin Stephenson and the Daintees
+ 708: ( 13) - Hippopotamus - Sparks
+ 709: ( 13) - Love This Giant - David Byrne & St. Vincent
+ 710: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
+ 711: ( 13) - Platinum - Miranda Lambert
+ 712: ( 13) - Strange Angels - Kristin Hersh
+ 713: ( 13) - Strays - Margo Price
+ 714: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
+ 715: ( 13) - Tubular Bells - Mike Oldfield
+ 716: ( 12) - A History Of Now - Callaghan
+ 717: ( 12) - Badbea - Edwyn Collins
+ 718: ( 12) - Electric Ladyland - The Jimi Hendrix Experience
+ 719: ( 12) - Girls In Peacetime Want To Dance - Belle and Sebastian
+ 720: ( 12) - Greatest - Jim Croce
+ 721: ( 12) - High Land, Hard Rain (Expanded) - Aztec Camera
+ 722: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
+ 723: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
+ 724: ( 12) - Substance (2 Of 2) - New Order
+ 725: ( 12) - Tubeway Army - Tubeway Army
+ 726: ( 11) -  - Peel.Rocks Magazine
+ 727: ( 11) - Actor - St. Vincent
+ 728: ( 11) - Duran Duran - Duran Duran
+ 729: ( 11) - Exodus Of Venus - Elizabeth Cook
+ 730: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
+ 731: ( 11) - Helplessness Blues - Fleet Foxes
+ 732: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
+ 733: ( 11) - Jessica Pratt - Jessica Pratt
+ 734: ( 11) - La Question - Françoise Hardy
+ 735: ( 11) - My Favorite Picture Of You - Guy Clark
+ 736: ( 11) - Mysterio - Ian McCulloch
+ 737: ( 11) - Open Here - Field Music
+ 738: ( 11) - Pollinator - Blondie
+ 739: ( 11) - Queer As Folk - Grace Petrie
+ 740: ( 11) * See You Around - Travis Linville
+ 741: ( 11) - Songs Of Experience - U2
+ 742: ( 11) - Texas - Rodney Crowell
+ 743: ( 11) - The Wide Afternoon - Jack Harris
+ 744: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
+ 745: ( 11) - Watch - Manfred Mann's Earth Band
+ 746: ( 10) - * Naked As Advertised – Versions 08 - Heaven 17
+ 747: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
+ 748: ( 10) - Chelsea Girl - Nico
+ 749: ( 10) - Dub Side Of The Moon - Easy Star All-stars
+ 750: ( 10) - Elastica - Elastica
+ 751: ( 10) - Failer - Kathleen Edwards
+ 752: ( 10) - Gannett Syndication Service - Just the Faqs
+ 753: ( 10) - Get It On: The Collection - T. Rex
+ 754: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
+ 755: ( 10) - How To Dance - Mount Moriah
+ 756: ( 10) - Mainstream - Lloyd Cole
+ 757: ( 10) - Metamatic - John Foxx
+ 758: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
+ 759: ( 10) - Sharon - Cowboy Junkies
+ 760: ( 10) - Starfish - The Church
+ 761: ( 10) - Starsailor - Tim Buckley
  762: ( 10) - Tales From The Realm Of The Queen Of Pentacles - Suzanne Vega
  763: ( 10) - The Universe Inside - The Dream Syndicate
  764: ( 10) - Themes - Volume 2 - Simple Minds

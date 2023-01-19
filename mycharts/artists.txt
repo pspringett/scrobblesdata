@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64692          1171          1723         11609
+   64707          1171          1723         11612
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -10,7 +10,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    7: (1028) - Cocteau Twins
    8: (1022) - U2
    9: ( 987) - Tift Merritt
-  10: ( 953) - Simple Minds
+  10: ( 955) - Simple Minds
   11: ( 931) - Roxy Music
   12: ( 863) - Laura Marling
   13: ( 850) - Leonard Cohen
@@ -25,7 +25,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   22: ( 656) - Hem
   23: ( 656) - Scott Walker
   24: ( 650) - Rosanne Cash
-  25: ( 645) - Altered Images
+  25: ( 646) - Altered Images
   26: ( 641) - The Style Council
   27: ( 638) - The Rolling Stones
   28: ( 620) - Martin Stephenson
@@ -97,9 +97,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   94: ( 161) - Blondie
   95: ( 161) - Paul McCartney
   96: ( 159) - Brigid Mae Power
-  97: ( 159) - Robert Forster
-  98: ( 156) - Amy LaVere
-  99: ( 156) - Margo Price
+  97: ( 159) - Margo Price
+  98: ( 159) - Robert Forster
+  99: ( 156) - Amy LaVere
  100: ( 155) - Chip Taylor & Carrie Rodriguez
  101: ( 147) - JT Nero
  102: ( 147) - Lizanne Knott
@@ -248,9 +248,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  244: (  45) - Michael Head & the Red Elastic Band
 
-
- 245: (  42) - Inhaler
- 246: (  42) - The Burning Hell
+ 245: (  43) - The Burning Hell
+ 246: (  42) - Inhaler
 
 
  247: (  39) - A Certain Ratio
@@ -279,15 +278,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  262: (  23) - Scritti Politti
  263: (  23) - The Associates
  264: (  22) - Darling West
- 265: (  21) - Calexico
- 266: (  20) - Magazine
- 267: (  20) - The Blue Nile
- 268: (  19) - Field Music
- 269: (  19) - Paul & Linda Mccartney
- 270: (  19) - Taylor Swift
- 271: (  18) - Michael Stipe
- 272: (  18) - Paul Haig
- 273: (  18) - Shelby Lynne, Allison Moorer
+ 265: (  22) - Taylor Swift
+ 266: (  21) - Calexico
+ 267: (  21) - Shelby Lynne, Allison Moorer
+ 268: (  20) - Magazine
+ 269: (  20) - The Blue Nile
+ 270: (  19) - Field Music
+ 271: (  19) - Paul & Linda Mccartney
+ 272: (  18) - Michael Stipe
+ 273: (  18) - Paul Haig
  274: (  18) - The Cool Greenhouse
  275: (  17) - Aswad
  276: (  17) - Kurt Vile
@@ -296,19 +295,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  279: (  16) - The Dream Syndicate
  280: (  15) - Martin Stephenson, John Perry
  281: (  15) - The Fire Engines
- 282: (  14) - David Byrne
- 283: (  14) - Fontaines D.c.
- 284: (  14) - Green Gartside
- 285: (  14) - Sparks
- 286: (  14) - William Tyler
- 287: (  13) - David Byrne & St. Vincent
- 288: (  13) - John Cale
- 289: (  13) - Kristin Hersh
- 290: (  13) - Miranda Lambert
- 291: (  13) - Ryan Bingham
- 292: (  13) - Tubeway Army
- 293: (  12) - Belle and Sebastian
- 294: (  12) - Bill Nelson
+ 282: (  14) - Bill Nelson
+ 283: (  14) - David Byrne
+ 284: (  14) - Fontaines D.c.
+ 285: (  14) - Green Gartside
+ 286: (  14) - Sparks
+ 287: (  14) - William Tyler
+ 288: (  13) - David Byrne & St. Vincent
+ 289: (  13) - John Cale
+ 290: (  13) - Kristin Hersh
+ 291: (  13) - Miranda Lambert
+ 292: (  13) - Ryan Bingham
+ 293: (  13) - Tubeway Army
+ 294: (  12) - Belle and Sebastian
  295: (  12) - Callaghan
  296: (  12) - Duran Duran
  297: (  12) - Goldfrapp
