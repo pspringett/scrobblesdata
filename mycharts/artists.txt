@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64719          1171          1722         11612
+   64735          1171          1722         11617
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -24,8 +24,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   21: ( 659) - T. Rex
   22: ( 656) - Hem
   23: ( 656) - Scott Walker
-  24: ( 650) - Rosanne Cash
-  25: ( 648) - Altered Images
+  24: ( 650) - Altered Images
+  25: ( 650) - Rosanne Cash
   26: ( 641) - The Style Council
   27: ( 638) - The Rolling Stones
   28: ( 620) - Martin Stephenson
@@ -94,7 +94,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   91: ( 175) - Mary Chapin Carpenter
   92: ( 171) - JT and the Clouds
   93: ( 170) - Joni Mitchell
-  94: ( 163) - Margo Price
+  94: ( 167) - Margo Price
   95: ( 161) - Blondie
   96: ( 161) - Paul McCartney
   97: ( 159) - Brigid Mae Power
@@ -167,13 +167,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  164: (  80) - The Human League
  165: (  80) - Tom Tom Club
  166: (  79) - Brian Eno & David Byrne
- 167: (  78) - Beabadoobee
- 168: (  78) - H.C. Mcentire
- 169: (  77) - Mark Knopfler and Emmylou Harris
- 170: (  77) - Mindy Smith
- 171: (  77) - Young Marble Giants
- 172: (  76) - Anne Mccue
- 173: (  76) - The B-52's
+ 167: (  79) - The B-52's
+ 168: (  78) - Beabadoobee
+ 169: (  78) - H.C. Mcentire
+ 170: (  77) - Mark Knopfler and Emmylou Harris
+ 171: (  77) - Mindy Smith
+ 172: (  77) - Young Marble Giants
+ 173: (  76) - Anne Mccue
  174: (  75) - Johnny Marr
  175: (  75) - Laura Veirs
  176: (  75) - Van Morrison
@@ -244,10 +244,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  241: (  48) - Artery
  242: (  48) - Brian Eno
  243: (  48) - Tracyanne & Danny
+ 244: (  47) - The Burning Hell
 
-
- 244: (  45) - Michael Head & the Red Elastic Band
- 245: (  45) - The Burning Hell
+ 245: (  45) - Michael Head & the Red Elastic Band
 
 
  246: (  42) - Inhaler
@@ -274,12 +273,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  257: (  26) - That Petrol Emotion
  258: (  25) - Arcade Fire
  259: (  25) - Mike Oldfield
- 260: (  24) - Margo Cilker
- 261: (  24) - Sharon Van Etten
- 262: (  23) - Scritti Politti
- 263: (  23) - The Associates
- 264: (  22) - Darling West
- 265: (  22) - Taylor Swift
+ 260: (  25) - Taylor Swift
+ 261: (  24) - Margo Cilker
+ 262: (  24) - Sharon Van Etten
+ 263: (  23) - Scritti Politti
+ 264: (  23) - The Associates
+ 265: (  22) - Darling West
  266: (  21) - Calexico
  267: (  21) - Shelby Lynne, Allison Moorer
  268: (  20) - Magazine
@@ -290,11 +289,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  273: (  18) - Paul Haig
  274: (  18) - The Cool Greenhouse
  275: (  17) - Aswad
- 276: (  17) - Kurt Vile
- 277: (  17) - R.E.M.
- 278: (  16) - Patti Smith
- 279: (  16) - The Dream Syndicate
- 280: (  15) - Bill Nelson
+ 276: (  17) - Bill Nelson
+ 277: (  17) - Kurt Vile
+ 278: (  17) - R.E.M.
+ 279: (  16) - Patti Smith
+ 280: (  16) - The Dream Syndicate
  281: (  15) - Martin Stephenson, John Perry
  282: (  15) - The Fire Engines
  283: (  14) - David Byrne
