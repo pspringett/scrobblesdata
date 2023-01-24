@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64707          1171          1723         11612
+   64719          1171          1723         11612
    1: (324) - Cafe Bleu - The Style Council
    2: (292) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -15,9 +15,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   12: (219) - The Joshua Tree - U2
   13: (214) - Acoustic - Simple Minds
   14: (211) * Harlem River Blues - Justin Townes Earle
-  15: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
-  16: (202) - Burnin' - The Wailers
-  17: (202) - Mascara Streakz - Altered Images
+  15: (204) - Mascara Streakz - Altered Images
+  16: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
+  17: (202) - Burnin' - The Wailers
   18: (201) - Case/Lang/Veirs - case/lang/veirs
   19: (201) - Traveling Alone - Tift Merritt
   20: (199) - Something More Than Free - Jason Isbell
@@ -641,9 +641,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  638: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
  639: ( 46) - The Last Broadcast - Doves
  640: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
- 641: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
- 642: ( 43) - Fat Pop - Paul Weller
- 643: ( 43) - Garbage Island - The Burning Hell
+ 641: ( 45) - Garbage Island - The Burning Hell
+ 642: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
+ 643: ( 43) - Fat Pop - Paul Weller
  644: ( 43) - Reconnected - Yazoo
  645: ( 42) - It Won't Always Be Like This - Inhaler
  646: ( 41) - Being Brave - Amanda Shires
@@ -678,45 +678,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  672: ( 23) - Marry Me - St. Vincent
  673: ( 22) - Clara Libre - Altered Images
  674: ( 22) - While I Was Asleep - Darling West
- 675: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
- 676: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
- 677: ( 21) - The Corrs Unplugged - The Corrs
- 678: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
- 679: ( 20) - A Walk Across The Rooftops - The Blue Nile
- 680: ( 20) - Evermore - Taylor Swift
- 681: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
- 682: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
- 683: ( 19) - Slates - The Fall
- 684: ( 18) - Never A Dull Moment - Rod Stewart
+ 675: ( 21) - Never A Dull Moment - Rod Stewart
+ 676: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+ 677: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
+ 678: ( 21) - The Corrs Unplugged - The Corrs
+ 679: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
+ 680: ( 20) - A Walk Across The Rooftops - The Blue Nile
+ 681: ( 20) - Evermore - Taylor Swift
+ 682: ( 20) - Reflected Images - The Best Of Altered Images - Altered Images
+ 683: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
+ 684: ( 19) - Slates - The Fall
  685: ( 18) - Swing In 82 - Paul Haig
  686: ( 18) - The Cool Greenhouse - The Cool Greenhouse
  687: ( 17) - Collective Force - Martin Stephenson
  688: ( 17) - Live And Intermittent - Magazine
- 689: ( 16) - Horses - Patti Smith
- 690: ( 16) - Talking Heads '77 (Deluxe Version) - Talking Heads
- 691: ( 15) - Aswad - Aswad
- 692: ( 15) - Codex Teenage Premonition - The Fire Engines
- 693: ( 15) - Fourth Drawer Down - The Associates
- 694: ( 15) - New Wave Connection - Martin Stephenson, John Perry
- 695: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
- 696: ( 14) - American Utopia - David Byrne
- 697: ( 14) - Changesnowbowie - David Bowie
- 698: ( 14) - Document (R.E.M. No. 5) - R.E.M.
- 699: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
- 700: ( 14) - In The Flat Field - Bauhaus
- 701: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
- 702: ( 14) - Quit Dreaming (And Get On The Beam) - Bill Nelson
- 703: ( 14) - Raising Sand - Robert Plant
- 704: ( 14) * Songs To Remember - Scritti Politti
- 705: ( 14) - Talk On Corners - The Corrs
- 706: ( 14) - Tangled Man - Green Gartside
- 707: ( 14) - The Boy's Heart - Martin Stephenson and the Daintees
- 708: ( 13) - Hippopotamus - Sparks
- 709: ( 13) - Love This Giant - David Byrne & St. Vincent
- 710: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
- 711: ( 13) - Platinum - Miranda Lambert
- 712: ( 13) - Strange Angels - Kristin Hersh
- 713: ( 13) - Strays - Margo Price
+ 689: ( 17) - Strays - Margo Price
+ 690: ( 16) - Horses - Patti Smith
+ 691: ( 16) - Talking Heads '77 (Deluxe Version) - Talking Heads
+ 692: ( 15) - Aswad - Aswad
+ 693: ( 15) - Codex Teenage Premonition - The Fire Engines
+ 694: ( 15) - Fourth Drawer Down - The Associates
+ 695: ( 15) - New Wave Connection - Martin Stephenson, John Perry
+ 696: ( 15) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+ 697: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
+ 698: ( 14) - American Utopia - David Byrne
+ 699: ( 14) - Changesnowbowie - David Bowie
+ 700: ( 14) - Document (R.E.M. No. 5) - R.E.M.
+ 701: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
+ 702: ( 14) - In The Flat Field - Bauhaus
+ 703: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
+ 704: ( 14) - Raising Sand - Robert Plant
+ 705: ( 14) * Songs To Remember - Scritti Politti
+ 706: ( 14) - Talk On Corners - The Corrs
+ 707: ( 14) - Tangled Man - Green Gartside
+ 708: ( 14) - The Boy's Heart - Martin Stephenson and the Daintees
+ 709: ( 13) - Hippopotamus - Sparks
+ 710: ( 13) - Love This Giant - David Byrne & St. Vincent
+ 711: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
+ 712: ( 13) - Platinum - Miranda Lambert
+ 713: ( 13) - Strange Angels - Kristin Hersh
  714: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
  715: ( 13) - Tubular Bells - Mike Oldfield
  716: ( 12) - A History Of Now - Callaghan
