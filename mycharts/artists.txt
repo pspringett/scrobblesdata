@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64744          1171          1722         11619
+   64759          1171          1723         11623
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -8,7 +8,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    5: (1073) - Echo & the Bunnymen
    6: (1044) - Various
    7: (1028) - Cocteau Twins
-   8: (1022) - U2
+   8: (1028) - U2
    9: ( 987) - Tift Merritt
   10: ( 958) - Simple Minds
   11: ( 931) - Roxy Music
@@ -36,8 +36,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   33: ( 564) - Edwyn Collins
   34: ( 535) - Nick Heyward
   35: ( 535) - Rodney Crowell
-  36: ( 530) - Shelby Lynne
-  37: ( 529) - Josh Ritter
+  36: ( 530) - Josh Ritter
+  37: ( 530) - Shelby Lynne
   38: ( 510) - Corb Lund
   39: ( 472) - Talking Heads
   40: ( 461) - Martin Stephenson and the Daintees
@@ -54,7 +54,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   51: ( 359) - ABC
   52: ( 357) - Hayes Carll
   53: ( 350) - The Waterboys
-  54: ( 335) - Rod Stewart
+  54: ( 337) - Rod Stewart
   55: ( 330) - Aztec Camera
   56: ( 326) - Amanda Shires
   57: ( 322) - The Fall
@@ -70,8 +70,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   67: ( 253) - Jimi Hendrix
   68: ( 250) - It'S Immaterial
   69: ( 250) - The Corrs
-  70: ( 249) - The Jayhawks
-  71: ( 249) - The Smiths
+  70: ( 250) - The Smiths
+  71: ( 249) - The Jayhawks
   72: ( 246) - Allison Moorer
   73: ( 245) - Christine and the Queens
   74: ( 238) - Haircut 100
@@ -92,9 +92,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   89: ( 185) - The Beach Boys
   90: ( 180) - Spandau Ballet
   91: ( 175) - Mary Chapin Carpenter
-  92: ( 171) - JT and the Clouds
-  93: ( 170) - Joni Mitchell
-  94: ( 170) - Margo Price
+  92: ( 173) - Margo Price
+  93: ( 171) - JT and the Clouds
+  94: ( 170) - Joni Mitchell
   95: ( 161) - Blondie
   96: ( 161) - Paul McCartney
   97: ( 159) - Brigid Mae Power
@@ -241,10 +241,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  238: (  51) - Doves
  239: (  50) - The Piney Gir Country Roadshow
  240: (  49) - Bonnie Whitmore
- 241: (  48) - Artery
- 242: (  48) - Brian Eno
- 243: (  48) - Tracyanne & Danny
- 244: (  47) - The Burning Hell
+ 241: (  49) - The Burning Hell
+ 242: (  48) - Artery
+ 243: (  48) - Brian Eno
+ 244: (  48) - Tracyanne & Danny
+
 
  245: (  45) - Michael Head & the Red Elastic Band
 
