@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64759          1171          1723         11623
+   64765          1171          1723         11624
    1: (2194) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1750) - Bob Dylan
@@ -10,7 +10,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    7: (1028) - Cocteau Twins
    8: (1028) - U2
    9: ( 987) - Tift Merritt
-  10: ( 958) - Simple Minds
+  10: ( 961) - Simple Minds
   11: ( 931) - Roxy Music
   12: ( 863) - Laura Marling
   13: ( 850) - Leonard Cohen
@@ -54,7 +54,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   51: ( 359) - ABC
   52: ( 357) - Hayes Carll
   53: ( 350) - The Waterboys
-  54: ( 337) - Rod Stewart
+  54: ( 338) - Rod Stewart
   55: ( 330) - Aztec Camera
   56: ( 326) - Amanda Shires
   57: ( 322) - The Fall
@@ -269,12 +269,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  255: (  29) - The Felice Brothers
 
-
- 256: (  26) - Buffy Sainte-marie
- 257: (  26) - That Petrol Emotion
- 258: (  25) - Arcade Fire
- 259: (  25) - Mike Oldfield
- 260: (  25) - Taylor Swift
+ 256: (  27) - Taylor Swift
+ 257: (  26) - Buffy Sainte-marie
+ 258: (  26) - That Petrol Emotion
+ 259: (  25) - Arcade Fire
+ 260: (  25) - Mike Oldfield
  261: (  24) - Margo Cilker
  262: (  24) - Sharon Van Etten
  263: (  23) - Scritti Politti
