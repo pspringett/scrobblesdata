@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64783          1172          1725         11630
+   64788          1172          1727         11632
    1: (324) - Cafe Bleu - The Style Council
    2: (292) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -203,22 +203,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  200: (100) * I'm Your Man - Leonard Cohen
  201: (100) - Sex And Gasoline - Rodney Crowell
  202: (100) - Strange Fascination - Chatham County Line
- 203: (100) - Tin Drum - Japan
- 204: ( 99) - Mainstream - Lloyd Cole and the Commotions
- 205: ( 99) - Nme C81 - Various
- 206: ( 99) - Their Satanic Majesties Request - The Rolling Stones
- 207: ( 98) - Another Time, Another Place - Bryan Ferry
- 208: ( 98) - Easy Pieces - Lloyd Cole and the Commotions
- 209: ( 98) - Folksinger Vol 1 - Bremen Radio 2003 - Lloyd Cole
- 210: ( 98) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 211: ( 98) - I’Ll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Various
- 212: ( 98) - Montreal 1983: Cd2 - David Bowie
- 213: ( 98) - One To The Heart, One To The Head - Gretchen Peters
- 214: ( 98) - Sorry For Laughing - Josef K
- 215: ( 98) - Speaking In Tongues - Talking Heads
- 216: ( 98) - The Graduate - Dave Grusin
- 217: ( 98) - The Haunted Man - Bat for Lashes
- 218: ( 98) - Time Out Of Mind - Bob Dylan
+ 203: (100) - Time Out Of Mind - Bob Dylan
+ 204: (100) - Tin Drum - Japan
+ 205: ( 99) - Mainstream - Lloyd Cole and the Commotions
+ 206: ( 99) - Nme C81 - Various
+ 207: ( 99) - Their Satanic Majesties Request - The Rolling Stones
+ 208: ( 98) - Another Time, Another Place - Bryan Ferry
+ 209: ( 98) - Easy Pieces - Lloyd Cole and the Commotions
+ 210: ( 98) - Folksinger Vol 1 - Bremen Radio 2003 - Lloyd Cole
+ 211: ( 98) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 212: ( 98) - I’Ll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Various
+ 213: ( 98) - Montreal 1983: Cd2 - David Bowie
+ 214: ( 98) - One To The Heart, One To The Head - Gretchen Peters
+ 215: ( 98) - Sorry For Laughing - Josef K
+ 216: ( 98) - Speaking In Tongues - Talking Heads
+ 217: ( 98) - The Graduate - Dave Grusin
+ 218: ( 98) - The Haunted Man - Bat for Lashes
  219: ( 97) - Carry Fire - Robert Plant
  220: ( 97) * Gorgeous George - Edwyn Collins
  221: ( 97) - Sound And Vision - David Bowie
@@ -513,21 +513,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  510: ( 60) * Across The Atlantic - Sarah MacDougall
  511: ( 60) - American Flowers - Birds of Chicago
  512: ( 60) - Golden Hour - Kacey Musgraves
- 513: ( 60) - Have You In My Wilderness - Julia Holter
- 514: ( 60) - Hurricane - Grace Jones
- 515: ( 60) - In Concert 1987 - New Order
- 516: ( 60) - Kids In The Street - Justin Townes Earle
- 517: ( 60) - Live At Eddie's Attic - The Civil Wars
- 518: ( 60) - Out Of Our Heads - The Rolling Stones
- 519: ( 60) - Revival - Gillian Welch
- 520: ( 60) - Single Mothers - Justin Townes Earle
- 521: ( 60) - Stranger In The Alps - Phoebe Bridgers
- 522: ( 60) - The Rolling Stones No.2 - The Rolling Stones
- 523: ( 60) - Work, Pt. 1 - Walter Salas-Humara
- 524: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
- 525: ( 59) * Anchors & Anvils - Amy LaVere
- 526: ( 59) * California Star - Martin Stephenson and the Daintees
- 527: ( 59) - Guesswork - Lloyd Cole
+ 513: ( 60) - Guesswork - Lloyd Cole
+ 514: ( 60) - Have You In My Wilderness - Julia Holter
+ 515: ( 60) - Hurricane - Grace Jones
+ 516: ( 60) - In Concert 1987 - New Order
+ 517: ( 60) - Kids In The Street - Justin Townes Earle
+ 518: ( 60) - Live At Eddie's Attic - The Civil Wars
+ 519: ( 60) - Out Of Our Heads - The Rolling Stones
+ 520: ( 60) - Revival - Gillian Welch
+ 521: ( 60) - Single Mothers - Justin Townes Earle
+ 522: ( 60) - Stranger In The Alps - Phoebe Bridgers
+ 523: ( 60) - The Rolling Stones No.2 - The Rolling Stones
+ 524: ( 60) - Work, Pt. 1 - Walter Salas-Humara
+ 525: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
+ 526: ( 59) * Anchors & Anvils - Amy LaVere
+ 527: ( 59) * California Star - Martin Stephenson and the Daintees
  528: ( 59) - I Can't Imagine - Shelby Lynne
  529: ( 59) - I Love You, Honeybear - Father John Misty
  530: ( 59) - Other - Alison Moyet
@@ -1565,267 +1565,269 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1559: (  1) - Darling Arithmetic (Deluxe Version) - Villagers
 1560: (  1) - Dave Brubeck's Greatest Hits - Dave Brubeck
 1561: (  1) - David Essex - David Essex
-1562: (  1) - Deafman Glance - Ryley Walker
-1563: (  1) - Delta Kream - The Black Keys
-1564: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
-1565: (  1) - Diamonds (Deluxe) - Elton John
-1566: (  1) - Die Kalten Winde Des Winters - Joy Division
-1567: (  1) - Dig Yourself Deep - The Undertones
-1568: (  1) - Dimensional People - Mouse on Mars
-1569: (  1) - Direction Of The Heart - Simple Minds
-1570: (  1) - Divine Madness - Madness
-1571: (  1) - Divine Symmetry - David Bowie
-1572: (  1) - Do Anything You Wanna Do: The Best Of - Eddie & the Hot Rods
-1573: (  1) - Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981-82 - Jazzateers
-1574: (  1) - Dream Into Action - Howard Jones
-1575: (  1) - Dream Song - Michael Rault
-1576: (  1) - Dreamboats & Miniskirts - Those Were The Days - Dusty Springfield
-1577: (  1) - Dreams - The Allman Brothers Band
-1578: (  1) - Drumming The Beating Heart - Eyeless in Gaza
-1579: (  1) - Electric Ladyland - Jimi Hendrix
-1580: (  1) - Epic Recordings - Shelby Lynne
-1581: (  1) - Essential Christmas - Brenda Lee
-1582: (  1) - Essential Christmas - Johnny Marks
-1583: (  1) - Essential Reggae - 20 Reggae Classics - Sugar Minott
-1584: (  1) - Eurovision Song Contest Tel Aviv 2019 - Tamara Todevska
-1585: (  1) - Every Bad (Expanded Edition) - Porridge Radio
-1586: (  1) - Everything! - Tones on Tail
-1587: (  1) - Extricate (Expanded Edition) - The Fall
-1588: (  1) - Fade To Grey: The Best Of Visage - Visage
-1589: (  1) - Fake - Die Nerven
-1590: (  1) - Faraway In Time - Martha and the Muffins
-1591: (  1) - Felt Mountain - Goldfrapp
-1592: (  1) - Fetch The Bolt Cutters - Fiona Apple
-1593: (  1) - Flesh + Blood - Roxy Music
-1594: (  1) - Fly - Dixie Chicks
-1595: (  1) - For Your Soul - Josh Ritter
-1596: (  1) - Forever Changes (2015 Remaster) - Love
-1597: (  1) - Fossils - Aoife O'Donovan
-1598: (  1) - Friday On My Mind - The Easybeats
-1599: (  1) - Fun Boy Three - Fun Boy Three
-1600: (  1) - Get What You Need - The Undertones
-1601: (  1) - Girls (3 Cd Boxset) - Dana
-1602: (  1) - Give Me The Future - Bastille
-1603: (  1) - Gods Own Medicine - The Mission
-1604: (  1) - Gold Und Liebe - Deutsch Amerikanische Freundschaft
-1605: (  1) - Greatest Hits (International Version) - Shania Twain
-1606: (  1) - Greatest Hits - The Jackson 5
-1607: (  1) - Greatest Hits: Brotherhood Of Man - Brotherhood of Man
-1608: (  1) - Green Onions - Booker T. & the Mg's
-1609: (  1) - Halcyon Days - Strawbs
-1610: (  1) - Halcyon Digest - Deerhunter
-1611: (  1) - Handful Of Stars, A - Aaron Weinstein
-1612: (  1) - Happy Birthday (Cuban Version) - Altered Images
-1613: (  1) - Happy Together - The Turtles
-1614: (  1) - Heart Full Of Soul - The Yardbirds
-1615: (  1) - Heartbeat - Rudy Thomas
-1616: (  1) - Heaven Or Las Vegas (Remastered) - Cocteau Twins
-1617: (  1) - Hergest Ridge - Mike Oldfield
-1618: (  1) - Honky Chateau - Elton John
-1619: (  1) - Hounds Of Love - Kate Bush
-1620: (  1) - Hypnotised (2016 Remastered) - The Undertones
-1621: (  1) - I Believe In Father Christmas - Greg Lake
-1622: (  1) - I Don’T Live Here Anymore - The War on Drugs
-1623: (  1) - I Heard It Through The Grapevine / In The Groove (Stereo) - Marvin Gaye
-1624: (  1) - I'd Rather Go Blind - Single - the FRIGHTNRS
-1625: (  1) - I'm The Man - Joe Jackson
-1626: (  1) - Imagine - Joan Baez
-1627: (  1) * Impossible Dream - Patty Griffin
-1628: (  1) - In The Heat Of The Night - Imagination
-1629: (  1) - In The Summer Time - Mungo Jerry
-1630: (  1) - In The Summertime - Remastered - Mungo Jerry
-1631: (  1) - Initial Success - B.A. Robertson
-1632: (  1) - It Is What It Is - Thundercat
-1633: (  1) - It's A Heartache - Bonnie Tyler
-1634: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-1635: (  1) - Just A Little Lovin' - Shelby Lynne
-1636: (  1) - Just Dumb Enough To Try - Father John Misty
-1637: (  1) - Kc Moan - Jimmy Dale Gilmore
-1638: (  1) - Kick - Inxs
-1639: (  1) - Kimono My House - Sparks
-1640: (  1) - La Folie - The Stranglers
-1641: (  1) - Land Of Milk And Honey - Eliza Gilkyson
-1642: (  1) - Learning To Crawl (Expanded & Remastered) - Pretenders
-1643: (  1) - Let's Dance (1999 Remaster) - David Bowie
-1644: (  1) - Lindé - Afel Bocoum
-1645: (  1) - Little Neon Limelight - Houndmouth
-1646: (  1) - Live At Blue Rock - Mary Gauthier
-1647: (  1) - London Calling (Remastered) - The Clash
-1648: (  1) - Look Sharp! - Joe Jackson
-1649: (  1) - Lost On The River (Deluxe Edition) - The New Basement Tapes
-1650: (  1) - Love - The Cult
-1651: (  1) - Love Comes In Waves - Andy Bell
-1652: (  1) - Love It When I Feel Like This (Uk Comm Cd Album) - The Twang
-1653: (  1) - Love Like Before - Erin Rae
-1654: (  1) - Love's Easy Tears - Cocteau Twins
-1655: (  1) - Loveless - My Bloody Valentine
-1656: (  1) - Mange Tout (Extended Version) - Blancmange
-1657: (  1) - Marcus Garvey: The Best Of Burning Spear - Burning Spear
-1658: (  1) - Memorial Album - Don Drummond & the Skatalites
-1659: (  1) - Metals - Feist
-1660: (  1) - Miami Lighthouse For The Blind Presents: Instrumental Magic - Stevie Wonder
-1661: (  1) - Minus - Daniel Blumberg
-1662: (  1) - Mistaken Identity - Kim Carnes
-1663: (  1) - Moaning - Moaning
-1664: (  1) - More Than Somewhat: The Very Best Of - Steve Harley & Cockney Rebel
-1665: (  1) - More Than This: The Best Of Bryan Ferry + Roxy Music - Roxy Music
-1666: (  1) - Music - Delacey
-1667: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
-1668: (  1) - Nancy Wilson/Cannonball Adderley - Nancy Wilson
-1669: (  1) - Narkopop - Gas
-1670: (  1) - Negative Houses - Facs
-1671: (  1) - New Skin For The Old Ceremony - Leonard Cohen
-1672: (  1) - New Wave Hits Of The 80S - ABC
-1673: (  1) - New Wave Hits Of The 80S - Soft Cell
-1674: (  1) - New Wave Hits Of The 80S - UB40
-1675: (  1) - No Burden - Lucy Dacus
-1676: (  1) - No Regrets: The Best Of Scott Walker & The Walker Brothers - The Walker Brothers
-1677: (  1) - Noel Inoubliable - Frank Sinatra
-1678: (  1) - Nostos - Jean-Michel Blais
-1679: (  1) - Not Even Happiness - Julie Byrne
-1680: (  1) - NoëL Inoubliable - Frank Sinatra
-1681: (  1) - Old Flowers - Courtney Marie Andrews
-1682: (  1) - On My Heart - School of Seven Bells
-1683: (  1) - One Soul Now - Cowboy Junkies
-1684: (  1) - One Way Or Another - Blondie
-1685: (  1) - Open Your Eyes - School of Seven Bells
-1686: (  1) - Out Of Time (25Th Anniversary Edition) - R.E.M.
-1687: (  1) - Paint Your Wagon - Lee Marvin
-1688: (  1) - Paints A Tribute To Tony Bennett - Jack Jones
-1689: (  1) - Pastorale Vassant - Jon Hassel
-1690: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
-1691: (  1) - Perfume - Wand
-1692: (  1) - Plastic Bertrand - Plastic Bertrand
-1693: (  1) * Popera: The Singles Collection - The Associates
-1694: (  1) * Postcard Singles - Josef K
-1695: (  1) - Punisher - Phoebe Bridgers
-1696: (  1) - Pure... Christmas - Greg Lake
-1697: (  1) - Quite A Feelin' - Barna Howard
-1698: (  1) - Rain Dogs - Tom Waits
-1699: (  1) - Rebound - Eleanor Friedberger
-1700: (  1) - Reel To Real Cacophony - Simple Minds
-1701: (  1) - Replicas (Remastered) - Tubeway Army
-1702: (  1) - Reunions - Jason Isbell and the 400 Unit
-1703: (  1) - Revelators - Revelators Sound System
-1704: (  1) - Revolver (Remastered) - The Beatles
-1705: (  1) - Rio (Collector's Edition) - Duran Duran
-1706: (  1) - Rock Your Baby: The Best Of George Mccrae - George McCrae
-1707: (  1) - Sail Away (Expanded & Remastered) - Randy Newman
-1708: (  1) - Sam The Sham & The Pharoahs, Vol. 1 - Sam the Sham & the Pharaohs
-1709: (  1) - Second Flight - Pilot
-1710: (  1) - Second Helpings - Blancmange
-1711: (  1) * Second Sight - Corinne West
-1712: (  1) * Seventeen Seconds (Remastered Version) - The Cure
-1713: (  1) - Shore - The Weather Station
-1714: (  1) - Shout - Placebo
-1715: (  1) - Ska Box Anthology - The Specials
-1716: (  1) - Sleep - Hatchie
-1717: (  1) - Sleep It Off - Cristina
-1718: (  1) - Slow Gum - Fraser A. Gorman
-1719: (  1) - Small Change - Tom Waits
-1720: (  1) - Smote Reverser - Oh Sees
-1721: (  1) - So (Special Edition) - Peter Gabriel
-1722: (  1) - Some Guys Have All The Luck - Rod Stewart
-1723: (  1) - Songs - John Fullbright
-1724: (  1) - Songs From The Big Chair - Tears for Fears
-1725: (  1) - Songs To Learn & Sing - Echo & the Bunnymen
-1726: (  1) - Songs To Learn And Sing - Echo & the Bunnymen
-1727: (  1) * Southside - Texas
-1728: (  1) - Space Oddity (2019 Mix) - David Bowie
-1729: (  1) - Spirit In The Sky "The Definitive Anthology" - Norman Greenbaum
-1730: (  1) - Springtime - Freakwater
-1731: (  1) - Stage - David Bowie
-1732: (  1) - Steam - East 17
-1733: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
-1734: (  1) - Strange Cacti - Angel Olsen
-1735: (  1) - Substance 1987 - New Order
-1736: (  1) - Sugar, Sugar - The Archies
-1737: (  1) - Summerlong - Rose City Band
-1738: (  1) - Sundowner - Kevin Morby
-1739: (  1) - Sure (Robin Guthrie Remix) - Hatchie
-1740: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
-1741: (  1) - T. Rex (Deluxe Edition) - T. Rex
-1742: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
-1743: (  1) - Take It Or Leave It - Madness
-1744: (  1) - Tambourine / Bramble Rose (Special Edition) - Tift Merritt
-1745: (  1) - Tears, Lies And Alibis - Shelby Lynne
-1746: (  1) - Tenement Symphony - Marc Almond
-1747: (  1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
-1748: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
-1749: (  1) - The 70's Studio Album Collection - Emmylou Harris
-1750: (  1) * The BBC Sessions - Loudon Wainwright III
-1751: (  1) - The Beatles (Remastered) - The Beatles
-1752: (  1) - The Best Of - The Staple Singers
-1753: (  1) - The Best Of David Bowie, '69-'74 - David Bowie
-1754: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
-1755: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
-1756: (  1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
-1757: (  1) - The Boatman's Call - Nick Cave & the Bad Seeds
-1758: (  1) - The Burnt Match - The Wave Pictures
-1759: (  1) * The Church And The Minidisc - Martin Stephenson
-1760: (  1) - The Cream Of Clapton - Derek and the Dominos
-1761: (  1) - The Doors (50Th Anniversary Deluxe Edition) - The Doors
-1762: (  1) - The Double Ep: A Sea Of Split Peas - Courtney Barnett
-1763: (  1) - The Electric Prunes - The Electric Prunes
-1764: (  1) - The Essential Yardbirds - The Yardbirds
-1765: (  1) - The Esteemed Orange Juice - Haircut 100
-1766: (  1) - The Esteemed Orange Juice - Japan
-1767: (  1) - The Gift - The Jam
-1768: (  1) - The Head On The Door - The Cure
-1769: (  1) - The Kink Kontroversy - The Kinks
-1770: (  1) - The Lexicon Of Love (Deluxe Edition) - ABC
-1771: (  1) - The Lexicon Of Love - ABC
-1772: (  1) - The Man Who - Travis
-1773: (  1) * The Monkees Collection - The Monkees
-1774: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
-1775: (  1) - The Places Between : The Best Of Doves - Doves
-1776: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
-1777: (  1) - The Projector - Simone Felice
-1778: (  1) - The Real Ramona - Throwing Muses
-1779: (  1) - The Singles - Soft Cell
-1780: (  1) - The Singles 1984-2004 - A-Ha
-1781: (  1) - The Singles 86-98 - Depeche Mode
-1782: (  1) - The Spur - Joan Shelley
-1783: (  1) - The Stars We Are - Marc Almond
-1784: (  1) - The Stooges - The Stooges
-1785: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
-1786: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
-1787: (  1) - The Works - Chris Rea
-1788: (  1) - The Youngbloods - The Youngbloods
-1789: (  1) - There Goes Concorde Again - Native Hipsters
-1790: (  1) - This Year's Model (Deluxe Edition) - Elvis Costello
-1791: (  1) - Tim (Expanded) - The Replacements
-1792: (  1) - Too Low For Zero - Elton John
-1793: (  1) - Town & Country - The Vagaband
-1794: (  1) - Traditional Techniques - Stephen Malkmus
-1795: (  1) - Tramp - Sharon Van Etten
-1796: (  1) - Travelogue - Human League
-1797: (  1) - Trinity Revisited - Cowboy Junkies
-1798: (  1) - Try - Hatchie
-1799: (  1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
-1800: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
-1801: (  1) - UNCUT 2016-02 What's Going On The Sound Of 2016 - Various
-1802: (  1) - UNCUT 2016-12 - Various
-1803: (  1) - UNCUT 2017-11 Stereotypes - Various
-1804: (  1) - Ultimate Collection - Billy Ocean
-1805: (  1) - Ultimate Collection - Small Faces
-1806: (  1) - Ultimate Waylon Jennings - Waylon Jennings
-1807: (  1) - Universalists - Yonatan Gat
-1808: (  1) - Up The Junction - Squeeze
-1809: (  1) - Upper West Side - Harry Allen
-1810: (  1) - Utah - Jamestown Revival
-1811: (  1) - Vh1 Storytellers - David Bowie
-1812: (  1) - Violent Femmes - Violent Femmes
-1813: (  1) - Waiting - Fun Boy Three
-1814: (  1) - Wallflower (The Complete Sessions) - Diana Krall
-1815: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
-1816: (  1) - When In Rome - When in Rome
-1817: (  1) - Where The Action Is (Deluxe) - The Waterboys
-1818: (  1) - Wishful Thinking: The Very Best Of China Crisis - China Crisis
-1819: (  1) - Word Of Mouth - Toni Basil
-1820: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
-1821: (  1) - Wouldn't You Like It - Bay City Rollers
-1822: (  1) - Yellow River - Christie
-1823: (  1) - Your Town Tonight - Eliza Gilkyson
-1824: (  1) - Youtube - Prefab Sprout
-1825: (  1) - [Unknown Album] - David Bowie
+1562: (  1) - Dazzle Ships - Orchestral Manoeuvres in the Dark (omd)
+1563: (  1) - Deafman Glance - Ryley Walker
+1564: (  1) - Delta Kream - The Black Keys
+1565: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
+1566: (  1) - Diamonds (Deluxe) - Elton John
+1567: (  1) - Die Kalten Winde Des Winters - Joy Division
+1568: (  1) - Dig Yourself Deep - The Undertones
+1569: (  1) - Dimensional People - Mouse on Mars
+1570: (  1) - Direction Of The Heart - Simple Minds
+1571: (  1) - Divine Madness - Madness
+1572: (  1) - Divine Symmetry - David Bowie
+1573: (  1) - Do Anything You Wanna Do: The Best Of - Eddie & the Hot Rods
+1574: (  1) - Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981-82 - Jazzateers
+1575: (  1) - Dream Into Action - Howard Jones
+1576: (  1) - Dream Song - Michael Rault
+1577: (  1) - Dreamboats & Miniskirts - Those Were The Days - Dusty Springfield
+1578: (  1) - Dreams - The Allman Brothers Band
+1579: (  1) - Drumming The Beating Heart - Eyeless in Gaza
+1580: (  1) - Electric Ladyland - Jimi Hendrix
+1581: (  1) - Epic Recordings - Shelby Lynne
+1582: (  1) - Essential Christmas - Brenda Lee
+1583: (  1) - Essential Christmas - Johnny Marks
+1584: (  1) - Essential Reggae - 20 Reggae Classics - Sugar Minott
+1585: (  1) - Eurovision Song Contest Tel Aviv 2019 - Tamara Todevska
+1586: (  1) - Every Bad (Expanded Edition) - Porridge Radio
+1587: (  1) - Everything! - Tones on Tail
+1588: (  1) - Extricate (Expanded Edition) - The Fall
+1589: (  1) - Fade To Grey: The Best Of Visage - Visage
+1590: (  1) - Fake - Die Nerven
+1591: (  1) - Faraway In Time - Martha and the Muffins
+1592: (  1) - Felt Mountain - Goldfrapp
+1593: (  1) - Fetch The Bolt Cutters - Fiona Apple
+1594: (  1) - Flesh + Blood - Roxy Music
+1595: (  1) - Fly - Dixie Chicks
+1596: (  1) - For Your Soul - Josh Ritter
+1597: (  1) - Forever Changes (2015 Remaster) - Love
+1598: (  1) - Fossils - Aoife O'Donovan
+1599: (  1) - Friday On My Mind - The Easybeats
+1600: (  1) - Fun Boy Three - Fun Boy Three
+1601: (  1) - Get What You Need - The Undertones
+1602: (  1) - Girls (3 Cd Boxset) - Dana
+1603: (  1) - Give Me The Future - Bastille
+1604: (  1) - Gods Own Medicine - The Mission
+1605: (  1) - Gold Und Liebe - Deutsch Amerikanische Freundschaft
+1606: (  1) - Greatest Hits (International Version) - Shania Twain
+1607: (  1) - Greatest Hits - The Jackson 5
+1608: (  1) - Greatest Hits: Brotherhood Of Man - Brotherhood of Man
+1609: (  1) - Green Onions - Booker T. & the Mg's
+1610: (  1) - Halcyon Days - Strawbs
+1611: (  1) - Halcyon Digest - Deerhunter
+1612: (  1) - Handful Of Stars, A - Aaron Weinstein
+1613: (  1) - Happy Birthday (Cuban Version) - Altered Images
+1614: (  1) - Happy Together - The Turtles
+1615: (  1) - Heart Full Of Soul - The Yardbirds
+1616: (  1) - Heartbeat - Rudy Thomas
+1617: (  1) - Heaven Or Las Vegas (Remastered) - Cocteau Twins
+1618: (  1) - Hergest Ridge - Mike Oldfield
+1619: (  1) - Honky Chateau - Elton John
+1620: (  1) - Hounds Of Love - Kate Bush
+1621: (  1) - Hypnotised (2016 Remastered) - The Undertones
+1622: (  1) - I Believe In Father Christmas - Greg Lake
+1623: (  1) - I Don’T Live Here Anymore - The War on Drugs
+1624: (  1) - I Heard It Through The Grapevine / In The Groove (Stereo) - Marvin Gaye
+1625: (  1) - I'd Rather Go Blind - Single - the FRIGHTNRS
+1626: (  1) - I'm The Man - Joe Jackson
+1627: (  1) - Imagine - Joan Baez
+1628: (  1) * Impossible Dream - Patty Griffin
+1629: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark (omd)
+1630: (  1) - In The Heat Of The Night - Imagination
+1631: (  1) - In The Summer Time - Mungo Jerry
+1632: (  1) - In The Summertime - Remastered - Mungo Jerry
+1633: (  1) - Initial Success - B.A. Robertson
+1634: (  1) - It Is What It Is - Thundercat
+1635: (  1) - It's A Heartache - Bonnie Tyler
+1636: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+1637: (  1) - Just A Little Lovin' - Shelby Lynne
+1638: (  1) - Just Dumb Enough To Try - Father John Misty
+1639: (  1) - Kc Moan - Jimmy Dale Gilmore
+1640: (  1) - Kick - Inxs
+1641: (  1) - Kimono My House - Sparks
+1642: (  1) - La Folie - The Stranglers
+1643: (  1) - Land Of Milk And Honey - Eliza Gilkyson
+1644: (  1) - Learning To Crawl (Expanded & Remastered) - Pretenders
+1645: (  1) - Let's Dance (1999 Remaster) - David Bowie
+1646: (  1) - Lindé - Afel Bocoum
+1647: (  1) - Little Neon Limelight - Houndmouth
+1648: (  1) - Live At Blue Rock - Mary Gauthier
+1649: (  1) - London Calling (Remastered) - The Clash
+1650: (  1) - Look Sharp! - Joe Jackson
+1651: (  1) - Lost On The River (Deluxe Edition) - The New Basement Tapes
+1652: (  1) - Love - The Cult
+1653: (  1) - Love Comes In Waves - Andy Bell
+1654: (  1) - Love It When I Feel Like This (Uk Comm Cd Album) - The Twang
+1655: (  1) - Love Like Before - Erin Rae
+1656: (  1) - Love's Easy Tears - Cocteau Twins
+1657: (  1) - Loveless - My Bloody Valentine
+1658: (  1) - Mange Tout (Extended Version) - Blancmange
+1659: (  1) - Marcus Garvey: The Best Of Burning Spear - Burning Spear
+1660: (  1) - Memorial Album - Don Drummond & the Skatalites
+1661: (  1) - Metals - Feist
+1662: (  1) - Miami Lighthouse For The Blind Presents: Instrumental Magic - Stevie Wonder
+1663: (  1) - Minus - Daniel Blumberg
+1664: (  1) - Mistaken Identity - Kim Carnes
+1665: (  1) - Moaning - Moaning
+1666: (  1) - More Than Somewhat: The Very Best Of - Steve Harley & Cockney Rebel
+1667: (  1) - More Than This: The Best Of Bryan Ferry + Roxy Music - Roxy Music
+1668: (  1) - Music - Delacey
+1669: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
+1670: (  1) - Nancy Wilson/Cannonball Adderley - Nancy Wilson
+1671: (  1) - Narkopop - Gas
+1672: (  1) - Negative Houses - Facs
+1673: (  1) - New Skin For The Old Ceremony - Leonard Cohen
+1674: (  1) - New Wave Hits Of The 80S - ABC
+1675: (  1) - New Wave Hits Of The 80S - Soft Cell
+1676: (  1) - New Wave Hits Of The 80S - UB40
+1677: (  1) - No Burden - Lucy Dacus
+1678: (  1) - No Regrets: The Best Of Scott Walker & The Walker Brothers - The Walker Brothers
+1679: (  1) - Noel Inoubliable - Frank Sinatra
+1680: (  1) - Nostos - Jean-Michel Blais
+1681: (  1) - Not Even Happiness - Julie Byrne
+1682: (  1) - NoëL Inoubliable - Frank Sinatra
+1683: (  1) - Old Flowers - Courtney Marie Andrews
+1684: (  1) - On My Heart - School of Seven Bells
+1685: (  1) - One Soul Now - Cowboy Junkies
+1686: (  1) - One Way Or Another - Blondie
+1687: (  1) - Open Your Eyes - School of Seven Bells
+1688: (  1) - Out Of Time (25Th Anniversary Edition) - R.E.M.
+1689: (  1) - Paint Your Wagon - Lee Marvin
+1690: (  1) - Paints A Tribute To Tony Bennett - Jack Jones
+1691: (  1) - Pastorale Vassant - Jon Hassel
+1692: (  1) - Pat Garrett & Billy The Kid [Soundtrack] - Bob Dylan
+1693: (  1) - Perfume - Wand
+1694: (  1) - Plastic Bertrand - Plastic Bertrand
+1695: (  1) * Popera: The Singles Collection - The Associates
+1696: (  1) * Postcard Singles - Josef K
+1697: (  1) - Punisher - Phoebe Bridgers
+1698: (  1) - Pure... Christmas - Greg Lake
+1699: (  1) - Quite A Feelin' - Barna Howard
+1700: (  1) - Rain Dogs - Tom Waits
+1701: (  1) - Rebound - Eleanor Friedberger
+1702: (  1) - Reel To Real Cacophony - Simple Minds
+1703: (  1) - Replicas (Remastered) - Tubeway Army
+1704: (  1) - Reunions - Jason Isbell and the 400 Unit
+1705: (  1) - Revelators - Revelators Sound System
+1706: (  1) - Revolver (Remastered) - The Beatles
+1707: (  1) - Rio (Collector's Edition) - Duran Duran
+1708: (  1) - Rock Your Baby: The Best Of George Mccrae - George McCrae
+1709: (  1) - Sail Away (Expanded & Remastered) - Randy Newman
+1710: (  1) - Sam The Sham & The Pharoahs, Vol. 1 - Sam the Sham & the Pharaohs
+1711: (  1) - Second Flight - Pilot
+1712: (  1) - Second Helpings - Blancmange
+1713: (  1) * Second Sight - Corinne West
+1714: (  1) * Seventeen Seconds (Remastered Version) - The Cure
+1715: (  1) - Shore - The Weather Station
+1716: (  1) - Shout - Placebo
+1717: (  1) - Ska Box Anthology - The Specials
+1718: (  1) - Sleep - Hatchie
+1719: (  1) - Sleep It Off - Cristina
+1720: (  1) - Slow Gum - Fraser A. Gorman
+1721: (  1) - Small Change - Tom Waits
+1722: (  1) - Smote Reverser - Oh Sees
+1723: (  1) - So (Special Edition) - Peter Gabriel
+1724: (  1) - Some Guys Have All The Luck - Rod Stewart
+1725: (  1) - Songs - John Fullbright
+1726: (  1) - Songs From The Big Chair - Tears for Fears
+1727: (  1) - Songs To Learn & Sing - Echo & the Bunnymen
+1728: (  1) - Songs To Learn And Sing - Echo & the Bunnymen
+1729: (  1) * Southside - Texas
+1730: (  1) - Space Oddity (2019 Mix) - David Bowie
+1731: (  1) - Spirit In The Sky "The Definitive Anthology" - Norman Greenbaum
+1732: (  1) - Springtime - Freakwater
+1733: (  1) - Stage - David Bowie
+1734: (  1) - Steam - East 17
+1735: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
+1736: (  1) - Strange Cacti - Angel Olsen
+1737: (  1) - Substance 1987 - New Order
+1738: (  1) - Sugar, Sugar - The Archies
+1739: (  1) - Summerlong - Rose City Band
+1740: (  1) - Sundowner - Kevin Morby
+1741: (  1) - Sure (Robin Guthrie Remix) - Hatchie
+1742: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
+1743: (  1) - T. Rex (Deluxe Edition) - T. Rex
+1744: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
+1745: (  1) - Take It Or Leave It - Madness
+1746: (  1) - Tambourine / Bramble Rose (Special Edition) - Tift Merritt
+1747: (  1) - Tears, Lies And Alibis - Shelby Lynne
+1748: (  1) - Tenement Symphony - Marc Almond
+1749: (  1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
+1750: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
+1751: (  1) - The 70's Studio Album Collection - Emmylou Harris
+1752: (  1) * The BBC Sessions - Loudon Wainwright III
+1753: (  1) - The Beatles (Remastered) - The Beatles
+1754: (  1) - The Best Of - The Staple Singers
+1755: (  1) - The Best Of David Bowie, '69-'74 - David Bowie
+1756: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
+1757: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
+1758: (  1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
+1759: (  1) - The Boatman's Call - Nick Cave & the Bad Seeds
+1760: (  1) - The Burnt Match - The Wave Pictures
+1761: (  1) * The Church And The Minidisc - Martin Stephenson
+1762: (  1) - The Cream Of Clapton - Derek and the Dominos
+1763: (  1) - The Doors (50Th Anniversary Deluxe Edition) - The Doors
+1764: (  1) - The Double Ep: A Sea Of Split Peas - Courtney Barnett
+1765: (  1) - The Electric Prunes - The Electric Prunes
+1766: (  1) - The Essential Yardbirds - The Yardbirds
+1767: (  1) - The Esteemed Orange Juice - Haircut 100
+1768: (  1) - The Esteemed Orange Juice - Japan
+1769: (  1) - The Gift - The Jam
+1770: (  1) - The Head On The Door - The Cure
+1771: (  1) - The Kink Kontroversy - The Kinks
+1772: (  1) - The Lexicon Of Love (Deluxe Edition) - ABC
+1773: (  1) - The Lexicon Of Love - ABC
+1774: (  1) - The Man Who - Travis
+1775: (  1) * The Monkees Collection - The Monkees
+1776: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
+1777: (  1) - The Places Between : The Best Of Doves - Doves
+1778: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
+1779: (  1) - The Projector - Simone Felice
+1780: (  1) - The Real Ramona - Throwing Muses
+1781: (  1) - The Singles - Soft Cell
+1782: (  1) - The Singles 1984-2004 - A-Ha
+1783: (  1) - The Singles 86-98 - Depeche Mode
+1784: (  1) - The Spur - Joan Shelley
+1785: (  1) - The Stars We Are - Marc Almond
+1786: (  1) - The Stooges - The Stooges
+1787: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
+1788: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
+1789: (  1) - The Works - Chris Rea
+1790: (  1) - The Youngbloods - The Youngbloods
+1791: (  1) - There Goes Concorde Again - Native Hipsters
+1792: (  1) - This Year's Model (Deluxe Edition) - Elvis Costello
+1793: (  1) - Tim (Expanded) - The Replacements
+1794: (  1) - Too Low For Zero - Elton John
+1795: (  1) - Town & Country - The Vagaband
+1796: (  1) - Traditional Techniques - Stephen Malkmus
+1797: (  1) - Tramp - Sharon Van Etten
+1798: (  1) - Travelogue - Human League
+1799: (  1) - Trinity Revisited - Cowboy Junkies
+1800: (  1) - Try - Hatchie
+1801: (  1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
+1802: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
+1803: (  1) - UNCUT 2016-02 What's Going On The Sound Of 2016 - Various
+1804: (  1) - UNCUT 2016-12 - Various
+1805: (  1) - UNCUT 2017-11 Stereotypes - Various
+1806: (  1) - Ultimate Collection - Billy Ocean
+1807: (  1) - Ultimate Collection - Small Faces
+1808: (  1) - Ultimate Waylon Jennings - Waylon Jennings
+1809: (  1) - Universalists - Yonatan Gat
+1810: (  1) - Up The Junction - Squeeze
+1811: (  1) - Upper West Side - Harry Allen
+1812: (  1) - Utah - Jamestown Revival
+1813: (  1) - Vh1 Storytellers - David Bowie
+1814: (  1) - Violent Femmes - Violent Femmes
+1815: (  1) - Waiting - Fun Boy Three
+1816: (  1) - Wallflower (The Complete Sessions) - Diana Krall
+1817: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
+1818: (  1) - When In Rome - When in Rome
+1819: (  1) - Where The Action Is (Deluxe) - The Waterboys
+1820: (  1) - Wishful Thinking: The Very Best Of China Crisis - China Crisis
+1821: (  1) - Word Of Mouth - Toni Basil
+1822: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
+1823: (  1) - Wouldn't You Like It - Bay City Rollers
+1824: (  1) - Yellow River - Christie
+1825: (  1) - Your Town Tonight - Eliza Gilkyson
+1826: (  1) - Youtube - Prefab Sprout
+1827: (  1) - [Unknown Album] - David Bowie
