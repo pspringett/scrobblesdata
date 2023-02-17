@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64897          1174          1729         11660
+   64903          1174          1729         11660
    1: (2205) - Lloyd Cole
    2: (2000) - David Bowie
    3: (1762) - Bob Dylan
@@ -22,9 +22,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   19: ( 699) - Prefab Sprout
   20: ( 689) - The Cure
   21: ( 659) - T. Rex
-  22: ( 656) - Hem
-  23: ( 656) - Scott Walker
-  24: ( 654) - Altered Images
+  22: ( 656) - Altered Images
+  23: ( 656) - Hem
+  24: ( 656) - Scott Walker
   25: ( 650) - Rosanne Cash
   26: ( 641) - The Style Council
   27: ( 638) - The Rolling Stones
@@ -54,7 +54,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   51: ( 359) - ABC
   52: ( 357) - Hayes Carll
   53: ( 350) - The Waterboys
-  54: ( 338) - Rod Stewart
+  54: ( 339) - Rod Stewart
   55: ( 330) - Aztec Camera
   56: ( 326) - Amanda Shires
   57: ( 322) - The Fall
@@ -86,8 +86,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   83: ( 201) - case/lang/veirs
   84: ( 200) - Sweet
   85: ( 199) - Jason Isbell
-  86: ( 189) - Bryan Ferry
-  87: ( 188) - Margo Price
+  86: ( 190) - Margo Price
+  87: ( 189) - Bryan Ferry
   88: ( 188) - Robert Plant
   89: ( 186) - The Jam
   90: ( 185) - The Beach Boys
@@ -232,8 +232,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  229: (  55) - Siouxsie and the Banshees
  230: (  55) - The Comsat Angels
  231: (  54) - Lissie
- 232: (  53) - Martha Wainwright
- 233: (  53) - The Burning Hell
+ 232: (  54) - The Burning Hell
+ 233: (  53) - Martha Wainwright
  234: (  52) - Bill Frisell
  235: (  52) - Jan Garbarek
  236: (  52) - The French Impressionists
