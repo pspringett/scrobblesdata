@@ -1,20 +1,24 @@
 Specified year (2023), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     114             9            10            68
-1: (20) - The Zephyrs
-2: (19) - Weyes Blood
+     123            11            12            73
+ 1: (20) - The Zephyrs
+ 2: (19) - Weyes Blood
 
-3: (17) - Paramore
-
-
-
-
-4: (12) - Bob Dylan
-5: (11) - Lloyd Cole
-6: (11) - Orchestral Manoeuvres in the Dark
-7: (11) - Television
+ 3: (17) - Paramore
 
 
 
-8: ( 7) - Margo Price
-9: ( 6) - U2
+
+ 4: (12) - Bob Dylan
+ 5: (11) - Lloyd Cole
+ 6: (11) - Orchestral Manoeuvres in the Dark
+ 7: (11) - Television
+ 8: (10) - Margo Price
+
+
+
+ 9: ( 6) - U2
+
+
+10: ( 3) - Altered Images
+11: ( 3) - The Burning Hell
