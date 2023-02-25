@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   64903          1174          1729         11660
+   64927          1174          1729         11661
    1: (324) - Cafe Bleu - The Style Council
    2: (292) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -12,9 +12,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    9: (233) - The Smiths - The Smiths
   10: (232) - The River & The Thread - Rosanne Cash
   11: (230) * Grand Canyon - Sarah MacDougall
-  12: (219) - The Joshua Tree - U2
-  13: (214) - Acoustic - Simple Minds
-  14: (214) - Mascara Streakz - Altered Images
+  12: (222) - Mascara Streakz - Altered Images
+  13: (219) - The Joshua Tree - U2
+  14: (214) - Acoustic - Simple Minds
   15: (211) * Harlem River Blues - Justin Townes Earle
   16: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
   17: (202) - Burnin' - The Wailers
@@ -153,10 +153,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  150: (111) * Pinky Blue - Altered Images
  151: (111) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
  152: (111) * Seventeen Seconds - The Cure
- 153: (110) - Elevation Days - Edwyn Collins
- 154: (110) - Let's Dance - David Bowie
- 155: (110) * The Orange Juice - Orange Juice
- 156: (110) - Time Out Of Mind - Bob Dylan
+ 153: (111) - Time Out Of Mind - Bob Dylan
+ 154: (110) - Elevation Days - Edwyn Collins
+ 155: (110) - Let's Dance - David Bowie
+ 156: (110) * The Orange Juice - Orange Juice
  157: (109) - 16 Lovers Lane - The Go-Betweens
  158: (109) - Low - David Bowie
  159: (108) - Beyond The Pale - Jarv Is...
@@ -528,56 +528,56 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  525: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
  526: ( 59) * Anchors & Anvils - Amy LaVere
  527: ( 59) * California Star - Martin Stephenson and the Daintees
- 528: ( 59) - I Can't Imagine - Shelby Lynne
- 529: ( 59) - I Love You, Honeybear - Father John Misty
- 530: ( 59) - Other - Alison Moyet
- 531: ( 59) - Sound Affects (Remastered Version) - The Jam
- 532: ( 59) - Suzanne Vega - Suzanne Vega
- 533: ( 59) * The King Is Dead - The Decemberists
- 534: ( 59) - Things Take Time, Take Time - Courtney Barnett
- 535: ( 59) - This Is The Sea (Deluxe Version) - The Waterboys
- 536: ( 58) * A Word To The Wise Guy - The Mighty Wah!
- 537: ( 58) - All These Dreams - Andrew Combs
- 538: ( 58) - Back From The Rains - Eyeless in Gaza
- 539: ( 58) * Heroes - David Bowie
- 540: ( 58) - In Time - The Mavericks
- 541: ( 58) - Ode To Billie Joe - Bobbie Gentry
- 542: ( 58) - Ogdens' Nut Gone Flake - Small Faces
- 543: ( 58) - Resistor - Lera Lynn
- 544: ( 58) - Songs In The Key Of Life - Stevie Wonder
- 545: ( 58) - Take Me Home - The Redlands Palomino Company
- 546: ( 58) * The Bootlegger's Daughter - Rachel Harrington
- 547: ( 58) - The Road To Ensenada - Lyle Lovett
- 548: ( 57) * A Distant Shore - Tracey Thorn
- 549: ( 57) - Gypsy - Eilen Jewell
- 550: ( 57) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
- 551: ( 57) - Love In The 4Th Dimension - The Big Moon
- 552: ( 57) - Love In Wartime - Birds of Chicago
- 553: ( 57) - Night And Day - Joe Jackson
- 554: ( 57) * The City's Hot Yeah The City's Hot - JT and the Clouds
- 555: ( 57) - The Pink Opaque - Cocteau Twins
- 556: ( 57) * This Year's Model - Bonus - Elvis Costello & the Attractions
- 557: ( 56) - Blackstar - David Bowie
- 558: ( 56) - Blue Weekend - Wolf Alice
- 559: ( 56) - Brigid Mae Power - Brigid Mae Power
- 560: ( 56) * Demons/Demons - JT Nero
- 561: ( 56) - Down Hearted Blues - Eilen Jewell
- 562: ( 56) * Highway 61 Revisited - Bob Dylan
- 563: ( 56) - Movement (Definitive) [2019 Remaster] - New Order
- 564: ( 56) - Stay Gold - First Aid Kit
- 565: ( 56) - Things That Can't Be Undone - Corb Lund
- 566: ( 56) - What It Is - Hayes Carll
- 567: ( 55) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
- 568: ( 55) - All The Roadrunning - Mark Knopfler
- 569: ( 55) - Blue - Joni Mitchell
- 570: ( 55) - David Live - Original Mix - David Bowie
- 571: ( 55) - Tower Of Song - The Songs Of Leonard Cohen - Various
- 572: ( 55) - Waiting For A Miracle - The Comsat Angels
- 573: ( 54) * 40 Days - The Wailin' Jennys
- 574: ( 54) - A Friend Of A Friend - Dave Rawlings Machine
- 575: ( 54) - Clouds - Joni Mitchell
- 576: ( 54) - Covered Up With Flowers - Lissie
- 577: ( 54) - Garbage Island - The Burning Hell
+ 528: ( 59) - Garbage Island - The Burning Hell
+ 529: ( 59) - I Can't Imagine - Shelby Lynne
+ 530: ( 59) - I Love You, Honeybear - Father John Misty
+ 531: ( 59) - Other - Alison Moyet
+ 532: ( 59) - Sound Affects (Remastered Version) - The Jam
+ 533: ( 59) - Suzanne Vega - Suzanne Vega
+ 534: ( 59) * The King Is Dead - The Decemberists
+ 535: ( 59) - Things Take Time, Take Time - Courtney Barnett
+ 536: ( 59) - This Is The Sea (Deluxe Version) - The Waterboys
+ 537: ( 58) * A Word To The Wise Guy - The Mighty Wah!
+ 538: ( 58) - All These Dreams - Andrew Combs
+ 539: ( 58) - Back From The Rains - Eyeless in Gaza
+ 540: ( 58) * Heroes - David Bowie
+ 541: ( 58) - In Time - The Mavericks
+ 542: ( 58) - Ode To Billie Joe - Bobbie Gentry
+ 543: ( 58) - Ogdens' Nut Gone Flake - Small Faces
+ 544: ( 58) - Resistor - Lera Lynn
+ 545: ( 58) - Songs In The Key Of Life - Stevie Wonder
+ 546: ( 58) - Take Me Home - The Redlands Palomino Company
+ 547: ( 58) * The Bootlegger's Daughter - Rachel Harrington
+ 548: ( 58) - The Road To Ensenada - Lyle Lovett
+ 549: ( 57) * A Distant Shore - Tracey Thorn
+ 550: ( 57) - Gypsy - Eilen Jewell
+ 551: ( 57) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+ 552: ( 57) - Love In The 4Th Dimension - The Big Moon
+ 553: ( 57) - Love In Wartime - Birds of Chicago
+ 554: ( 57) - Night And Day - Joe Jackson
+ 555: ( 57) * The City's Hot Yeah The City's Hot - JT and the Clouds
+ 556: ( 57) - The Pink Opaque - Cocteau Twins
+ 557: ( 57) * This Year's Model - Bonus - Elvis Costello & the Attractions
+ 558: ( 56) - Blackstar - David Bowie
+ 559: ( 56) - Blue Weekend - Wolf Alice
+ 560: ( 56) - Brigid Mae Power - Brigid Mae Power
+ 561: ( 56) * Demons/Demons - JT Nero
+ 562: ( 56) - Down Hearted Blues - Eilen Jewell
+ 563: ( 56) * Highway 61 Revisited - Bob Dylan
+ 564: ( 56) - Movement (Definitive) [2019 Remaster] - New Order
+ 565: ( 56) - Stay Gold - First Aid Kit
+ 566: ( 56) - Things That Can't Be Undone - Corb Lund
+ 567: ( 56) - What It Is - Hayes Carll
+ 568: ( 55) - 1969: The Velvet Underground With Lou Reed Live -- Volume 2 - The Velvet Underground
+ 569: ( 55) - All The Roadrunning - Mark Knopfler
+ 570: ( 55) - Blue - Joni Mitchell
+ 571: ( 55) - David Live - Original Mix - David Bowie
+ 572: ( 55) - Tower Of Song - The Songs Of Leonard Cohen - Various
+ 573: ( 55) - Waiting For A Miracle - The Comsat Angels
+ 574: ( 54) * 40 Days - The Wailin' Jennys
+ 575: ( 54) - A Friend Of A Friend - Dave Rawlings Machine
+ 576: ( 54) - Clouds - Joni Mitchell
+ 577: ( 54) - Covered Up With Flowers - Lissie
  578: ( 54) - Inferno - Robert Forster
  579: ( 54) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan
  580: ( 54) - Live From Space - Birds of Chicago
@@ -625,25 +625,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  622: ( 49) - Armed Forces - Elvis Costello & the Attractions
  623: ( 49) - Hawkwind - Hawkwind
  624: ( 49) - Last Will & Testament - Bonnie Whitmore
- 625: ( 48) - Another Green World - Brian Eno
- 626: ( 48) - Counterfeit Blues - Corb Lund
- 627: ( 48) - From Another World - Jim Lauderdale
- 628: ( 48) - Live @ Glasgow Pavilion - Martin Stephenson
- 629: ( 48) - Nothing's Gonna Change The Way You Feel About Me Now - Justin Townes Earle
- 630: ( 48) - Oceans - Artery
- 631: ( 48) - Shore - Fleet Foxes
- 632: ( 48) - The Count - Count Basie
- 633: ( 48) - Tracyanne & Danny - Tracyanne & Danny
- 634: ( 47) - Carrying Lightning - Amanda Shires
- 635: ( 47) * Kmag Yoyo (& Other American Stories) - Hayes Carll
- 636: ( 47) - Sgt. Pepper's Lonely Hearts Club Band - The Beatles
- 637: ( 47) - UNCUT 2017-05 - Dreams - Various
- 638: ( 47) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
- 639: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
- 640: ( 46) - The Last Broadcast - Doves
- 641: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
- 642: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
- 643: ( 44) - Strays - Margo Price
+ 625: ( 49) - Strays - Margo Price
+ 626: ( 48) - Another Green World - Brian Eno
+ 627: ( 48) - Counterfeit Blues - Corb Lund
+ 628: ( 48) - From Another World - Jim Lauderdale
+ 629: ( 48) - Live @ Glasgow Pavilion - Martin Stephenson
+ 630: ( 48) - Nothing's Gonna Change The Way You Feel About Me Now - Justin Townes Earle
+ 631: ( 48) - Oceans - Artery
+ 632: ( 48) - Shore - Fleet Foxes
+ 633: ( 48) - The Count - Count Basie
+ 634: ( 48) - Tracyanne & Danny - Tracyanne & Danny
+ 635: ( 47) - Carrying Lightning - Amanda Shires
+ 636: ( 47) * Kmag Yoyo (& Other American Stories) - Hayes Carll
+ 637: ( 47) - Sgt. Pepper's Lonely Hearts Club Band - The Beatles
+ 638: ( 47) - UNCUT 2017-05 - Dreams - Various
+ 639: ( 47) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
+ 640: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
+ 641: ( 46) - The Last Broadcast - Doves
+ 642: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
+ 643: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
  644: ( 43) - Fat Pop - Paul Weller
  645: ( 43) - Reconnected - Yazoo
  646: ( 42) - It Won't Always Be Like This - Inhaler
@@ -661,15 +661,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  657: ( 34) - Hex Enduction Hour (Expanded Deluxe Edition) - The Fall
 
  658: ( 32) - Everything Was Forever - Sea Power
- 659: ( 31) - I Can Hear The Heart Beating As One - Yo La Tengo
- 660: ( 31) - Take It Like A Man - Amanda Shires
+ 659: ( 32) - Never A Dull Moment - Rod Stewart
+ 660: ( 31) - I Can Hear The Heart Beating As One - Yo La Tengo
+ 661: ( 31) - Take It Like A Man - Amanda Shires
 
- 661: ( 29) - From Dreams To Dust - The Felice Brothers
- 662: ( 28) - Sextet - A Certain Ratio
- 663: ( 27) - Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex - Various
- 664: ( 27) - Collected Recordings 1983-1989 - Lloyd Cole
- 665: ( 27) - Da Capo - Love
- 666: ( 27) - Never A Dull Moment - Rod Stewart
+ 662: ( 29) - From Dreams To Dust - The Felice Brothers
+ 663: ( 28) - Sextet - A Certain Ratio
+ 664: ( 27) - Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex - Various
+ 665: ( 27) - Collected Recordings 1983-1989 - Lloyd Cole
+ 666: ( 27) - Da Capo - Love
  667: ( 26) - Babble - That Petrol Emotion
  668: ( 26) - Illuminations - Buffy Sainte-marie
  669: ( 25) - Evermore - Taylor Swift
