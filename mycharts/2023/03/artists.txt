@@ -1,8 +1,10 @@
 Specified year (2023), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      11             4             4            11
-1: (5) - The Zephyrs
+      22             5             5            20
+1: (7) - Paramore
 
-2: (3) - Robert Forster
-3: (2) - Weyes Blood
-4: (1) - Paramore
+2: (5) - The Zephyrs
+3: (5) - Weyes Blood
+
+4: (3) - Robert Forster
+5: (2) - Brix Smith

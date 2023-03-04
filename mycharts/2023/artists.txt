@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     489            22            24           197
+     500            23            25           200
  1: (55) - Altered Images
  2: (54) - Margo Price
  3: (53) - The Burning Hell
@@ -27,16 +27,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  5: (26) - Simple Minds
- 6: (25) - Taylor Swift
- 7: (25) - The Zephyrs
- 8: (24) - The B-52's
+ 6: (25) - Paramore
+ 7: (25) - Taylor Swift
+ 8: (25) - The Zephyrs
+ 9: (24) - The B-52's
+10: (24) - Weyes Blood
 
 
- 9: (21) - Shelby Lynne, Allison Moorer
-10: (21) - Weyes Blood
+11: (21) - Shelby Lynne, Allison Moorer
 
-11: (19) - Love
-12: (19) - Paramore
+12: (19) - Love
 13: (18) - Duke Garwood
 14: (17) - Bill Nelson
 
@@ -55,6 +55,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 20: ( 3) - Robert Forster
-
-21: ( 1) - Josh Ritter
-22: ( 1) - The Smiths
+21: ( 2) - Brix Smith
+22: ( 1) - Josh Ritter
+23: ( 1) - The Smiths
