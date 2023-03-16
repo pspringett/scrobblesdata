@@ -1,13 +1,13 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   65002          1175          1731         11667
+   65093          1174          1732         11677
    1: (2205) - Lloyd Cole
    2: (2000) - David Bowie
-   3: (1764) - Bob Dylan
-   4: (1294) - Orchestral Manoeuvres in the Dark
+   3: (1779) - Bob Dylan
+   4: (1319) - Orchestral Manoeuvres in the Dark
    5: (1073) - Echo & the Bunnymen
-   6: (1044) - Various
-   7: (1034) - U2
+   6: (1060) - U2
+   7: (1044) - Various
    8: (1028) - Cocteau Twins
    9: ( 987) - Tift Merritt
   10: ( 961) - Simple Minds
@@ -63,13 +63,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   60: ( 300) - The Weather Station
   61: ( 299) - St. Vincent
   62: ( 298) - Kate Bush
-  63: ( 271) - Carrie Rodriguez
-  64: ( 265) - Angie Palmer
-  65: ( 260) - Suzanne Vega
-  66: ( 257) - UB40
-  67: ( 253) - Jimi Hendrix
-  68: ( 250) - It'S Immaterial
-  69: ( 250) - The Corrs
+  63: ( 272) - The Corrs
+  64: ( 271) - Carrie Rodriguez
+  65: ( 265) - Angie Palmer
+  66: ( 260) - Suzanne Vega
+  67: ( 257) - UB40
+  68: ( 253) - Jimi Hendrix
+  69: ( 250) - It'S Immaterial
   70: ( 250) - The Smiths
   71: ( 249) - The Jayhawks
   72: ( 246) - Allison Moorer
@@ -257,8 +257,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  248: (  37) - Jeff Bridges
  249: (  37) - Yo La Tengo
+ 250: (  36) - Weyes Blood
 
- 250: (  35) - Weyes Blood
  251: (  34) - The Linda Lindas
 
  252: (  32) - Duke Garwood
@@ -266,15 +266,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  254: (  32) - Manfred Mann's Earth Band
  255: (  32) - Sea Power
 
-
- 256: (  29) - The Felice Brothers
- 257: (  28) - The Zephyrs
- 258: (  27) - Taylor Swift
- 259: (  26) - Buffy Sainte-marie
- 260: (  26) - That Petrol Emotion
- 261: (  25) - Arcade Fire
- 262: (  25) - Mike Oldfield
- 263: (  25) - Paramore
+ 256: (  30) - Paramore
+ 257: (  29) - The Felice Brothers
+ 258: (  28) - The Zephyrs
+ 259: (  27) - Taylor Swift
+ 260: (  26) - Buffy Sainte-marie
+ 261: (  26) - That Petrol Emotion
+ 262: (  25) - Arcade Fire
+ 263: (  25) - Mike Oldfield
  264: (  24) - Margo Cilker
  265: (  24) - Sharon Van Etten
  266: (  23) - Scritti Politti
@@ -406,118 +405,118 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  392: (   7) - Nadine
  393: (   7) - Nat King Cole
  394: (   7) - Odetta Hartman
- 395: (   7) - Orchestral Manoeuvres In The Dark
- 396: (   7) - Sam Phillips
- 397: (   7) - The Heptones
- 398: (   7) - The Last Poets
- 399: (   7) - The Limiñanas
- 400: (   7) - The Louvin Brothers
- 401: (   7) - The Mighty Diamonds
- 402: (   7) - The Pretenders & Emmylou Harris
- 403: (   7) - Tom Robinson
- 404: (   7) - Townes Van Zandt
- 405: (   7) - White Denim
- 406: (   6) - 13Th Floor Elevators
- 407: (   6) - Aoife Nessa Frances
- 408: (   6) - Bill Fay
- 409: (   6) - Bombino
- 410: (   6) - Bradley Brown
- 411: (   6) - Caroline Herring
- 412: (   6) - Cat Power
- 413: (   6) - Chalice
- 414: (   6) - Chrissie Hynde
- 415: (   6) - Don Letts and Turtle Bay Present Reggae 45
- 416: (   6) - Eddie Vedder
- 417: (   6) - Fourth Street Sisters
- 418: (   6) - Jeff Wayne
- 419: (   6) - Jim Ghedi
- 420: (   6) - John Doe
- 421: (   6) - John Lennon
- 422: (   6) - Judy Mowatt
- 423: (   6) - Juliana Hatfield
- 424: (   6) - Kaia Kater
- 425: (   6) - Kathryn Joseph
- 426: (   6) - King Princess
- 427: (   6) - Lorelle Meets the Obsolete
- 428: (   6) - Loudon Wainwright III
- 429: (   6) - Menace Beach
- 430: (   6) - Michael Rault
- 431: (   6) - Neko Case
- 432: (   6) - Papa M
- 433: (   6) - Peter Gabriel
- 434: (   6) - Richie Havens
- 435: (   6) - Robert Duvall
- 436: (   6) - Rufus Wainwright
- 437: (   6) - Sampa the Great
- 438: (   6) - Scott Mckenzie
- 439: (   6) - Sing Karaoke Sing
- 440: (   6) - Slade
- 441: (   6) - Sonic Youth
- 442: (   6) - Spare Snare
- 443: (   6) - Stealers Wheel
- 444: (   6) - Stephen Malkmus
- 445: (   6) - Steve Gunn
- 446: (   6) - The Abyssinians
- 447: (   6) - The Chameleons
- 448: (   6) - The Kinks
- 449: (   6) - The Pretty Things
- 450: (   6) - The Rolling Creekdippers
- 451: (   6) - Thurston Moore
- 452: (   6) - Tomberlin
- 453: (   6) - Two Circles
- 454: (   6) - Ultravox
- 455: (   6) - Virginia Wing
- 456: (   6) - Wham!
- 457: (   5) - A Place to Bury Strangers
- 458: (   5) - Aaron Neville
- 459: (   5) - Aretha Franklin
- 460: (   5) - Beabadoobee, Pinkpantheress
- 461: (   5) - Beck & Emmylou Harris
- 462: (   5) - Bonny Doon
- 463: (   5) - Buffalo Springfield
- 464: (   5) - Bunny Wailer
- 465: (   5) - Burning Spear
- 466: (   5) - Chris Carter
- 467: (   5) - Deutsch Amerikanische Freundschaft
- 468: (   5) - Diana Krall
- 469: (   5) - Drinks
- 470: (   5) - Erin Rae
- 471: (   5) - Esperanza Spalding
- 472: (   5) - Evan Dando & Julianna Hatfield
- 473: (   5) - Inner Circle
- 474: (   5) - Jacob Miller
- 475: (   5) - James Blood Ulmer
- 476: (   5) - Jimmie Dale Gilmore
- 477: (   5) - Joan Baez
- 478: (   5) - Jon Hassell
- 479: (   5) - Jonathan Richman and the Modern Lovers
- 480: (   5) - Josh T. Pearson
- 481: (   5) - Julia Kent
- 482: (   5) - Julian Lynch
- 483: (   5) - Junior Byles
- 484: (   5) - Junior Murvin
- 485: (   5) - Lankum
- 486: (   5) - Lucinda Williams
- 487: (   5) - Lucy Dacus
- 488: (   5) - Luluc
- 489: (   5) - Madness
- 490: (   5) - Maytones
- 491: (   5) - Mind Over Mirrors
- 492: (   5) - Mott the Hoople
- 493: (   5) - Nap Eyes
- 494: (   5) - Queen
- 495: (   5) - Sarah Vaughan
- 496: (   5) - Sheryl Crow & Emmylou Harris
- 497: (   5) - Slug
- 498: (   5) - Soft Cell
- 499: (   5) - Swamp Dogg
- 500: (   5) - Television Personalities
- 501: (   5) - The Byrds
- 502: (   5) - The Delines
- 503: (   5) - The Monkees
- 504: (   5) - The Move
- 505: (   5) - The Passions
- 506: (   5) - The Smile
+ 395: (   7) - Sam Phillips
+ 396: (   7) - The Heptones
+ 397: (   7) - The Last Poets
+ 398: (   7) - The Limiñanas
+ 399: (   7) - The Louvin Brothers
+ 400: (   7) - The Mighty Diamonds
+ 401: (   7) - The Pretenders & Emmylou Harris
+ 402: (   7) - Tom Robinson
+ 403: (   7) - Townes Van Zandt
+ 404: (   7) - White Denim
+ 405: (   6) - 13Th Floor Elevators
+ 406: (   6) - Aoife Nessa Frances
+ 407: (   6) - Bill Fay
+ 408: (   6) - Bombino
+ 409: (   6) - Bradley Brown
+ 410: (   6) - Caroline Herring
+ 411: (   6) - Cat Power
+ 412: (   6) - Chalice
+ 413: (   6) - Chrissie Hynde
+ 414: (   6) - Don Letts and Turtle Bay Present Reggae 45
+ 415: (   6) - Eddie Vedder
+ 416: (   6) - Fourth Street Sisters
+ 417: (   6) - Jeff Wayne
+ 418: (   6) - Jim Ghedi
+ 419: (   6) - John Doe
+ 420: (   6) - John Lennon
+ 421: (   6) - Judy Mowatt
+ 422: (   6) - Juliana Hatfield
+ 423: (   6) - Kaia Kater
+ 424: (   6) - Kathryn Joseph
+ 425: (   6) - King Princess
+ 426: (   6) - Lorelle Meets the Obsolete
+ 427: (   6) - Loudon Wainwright III
+ 428: (   6) - Menace Beach
+ 429: (   6) - Michael Rault
+ 430: (   6) - Neko Case
+ 431: (   6) - Papa M
+ 432: (   6) - Peter Gabriel
+ 433: (   6) - Richie Havens
+ 434: (   6) - Robert Duvall
+ 435: (   6) - Rufus Wainwright
+ 436: (   6) - Sampa the Great
+ 437: (   6) - Scott Mckenzie
+ 438: (   6) - Sing Karaoke Sing
+ 439: (   6) - Slade
+ 440: (   6) - Sonic Youth
+ 441: (   6) - Spare Snare
+ 442: (   6) - Stealers Wheel
+ 443: (   6) - Stephen Malkmus
+ 444: (   6) - Steve Gunn
+ 445: (   6) - The Abyssinians
+ 446: (   6) - The Chameleons
+ 447: (   6) - The Kinks
+ 448: (   6) - The Pretty Things
+ 449: (   6) - The Rolling Creekdippers
+ 450: (   6) - Thurston Moore
+ 451: (   6) - Tomberlin
+ 452: (   6) - Two Circles
+ 453: (   6) - Ultravox
+ 454: (   6) - Virginia Wing
+ 455: (   6) - Wham!
+ 456: (   5) - A Place to Bury Strangers
+ 457: (   5) - Aaron Neville
+ 458: (   5) - Aretha Franklin
+ 459: (   5) - Beabadoobee, Pinkpantheress
+ 460: (   5) - Beck & Emmylou Harris
+ 461: (   5) - Bonny Doon
+ 462: (   5) - Buffalo Springfield
+ 463: (   5) - Bunny Wailer
+ 464: (   5) - Burning Spear
+ 465: (   5) - Chris Carter
+ 466: (   5) - Deutsch Amerikanische Freundschaft
+ 467: (   5) - Diana Krall
+ 468: (   5) - Drinks
+ 469: (   5) - Erin Rae
+ 470: (   5) - Esperanza Spalding
+ 471: (   5) - Evan Dando & Julianna Hatfield
+ 472: (   5) - Inner Circle
+ 473: (   5) - Jacob Miller
+ 474: (   5) - James Blood Ulmer
+ 475: (   5) - Jimmie Dale Gilmore
+ 476: (   5) - Joan Baez
+ 477: (   5) - Jon Hassell
+ 478: (   5) - Jonathan Richman and the Modern Lovers
+ 479: (   5) - Josh T. Pearson
+ 480: (   5) - Julia Kent
+ 481: (   5) - Julian Lynch
+ 482: (   5) - Junior Byles
+ 483: (   5) - Junior Murvin
+ 484: (   5) - Lankum
+ 485: (   5) - Lucinda Williams
+ 486: (   5) - Lucy Dacus
+ 487: (   5) - Luluc
+ 488: (   5) - Madness
+ 489: (   5) - Maytones
+ 490: (   5) - Mind Over Mirrors
+ 491: (   5) - Mott the Hoople
+ 492: (   5) - Nap Eyes
+ 493: (   5) - Queen
+ 494: (   5) - Sarah Vaughan
+ 495: (   5) - Sheryl Crow & Emmylou Harris
+ 496: (   5) - Slug
+ 497: (   5) - Soft Cell
+ 498: (   5) - Swamp Dogg
+ 499: (   5) - Television Personalities
+ 500: (   5) - The Byrds
+ 501: (   5) - The Delines
+ 502: (   5) - The Monkees
+ 503: (   5) - The Move
+ 504: (   5) - The Passions
+ 505: (   5) - The Smile
+ 506: (   5) - The Specials
  507: (   5) - The Upsetters
  508: (   5) - The Wave Pictures
  509: (   5) - The Who
@@ -1147,43 +1146,42 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1133: (   1) - The Scaffold
 1134: (   1) - The Sea and Cake
 1135: (   1) - The Soul Syndicate
-1136: (   1) - The Specials
-1137: (   1) - The Staple Singers
-1138: (   1) - The Stooges
-1139: (   1) - The Temper Trap
-1140: (   1) - The Thin White Duke
-1141: (   1) - The Triffids
-1142: (   1) - The Turtles
-1143: (   1) - The Twang
-1144: (   1) - The Vagaband
-1145: (   1) - The Vapors
-1146: (   1) - The Viceroys
-1147: (   1) - The Viceroys with Hubcap & the Wheels
-1148: (   1) - The Walker Brothers
-1149: (   1) - The Youngbloods
-1150: (   1) - Theatre of Hate
-1151: (   1) - Them
-1152: (   1) - Thepnutno2
-1153: (   1) - Throwing Muses
-1154: (   1) - Thundercat
-1155: (   1) - Tommy McCook
-1156: (   1) - Tommy Shakespeare
-1157: (   1) - Tones on Tail
-1158: (   1) - Toni Basil
-1159: (   1) - Tony Tribe
-1160: (   1) - Travis
-1161: (   1) - Trevor Brown
-1162: (   1) - Uriah Heep
-1163: (   1) - Vibracobra23 Dulosis
-1164: (   1) - Villagers
-1165: (   1) - Violent Femmes
-1166: (   1) - Visage
-1167: (   1) - Visagevevo
-1168: (   1) - Wand
-1169: (   1) - When in Rome
-1170: (   1) - Winston Francis
-1171: (   1) - Winston Samuels
-1172: (   1) - Winston Wright
-1173: (   1) - Yonatan Gat
-1174: (   1) - Zibbz
-1175: (   1) - the FRIGHTNRS
+1136: (   1) - The Staple Singers
+1137: (   1) - The Stooges
+1138: (   1) - The Temper Trap
+1139: (   1) - The Thin White Duke
+1140: (   1) - The Triffids
+1141: (   1) - The Turtles
+1142: (   1) - The Twang
+1143: (   1) - The Vagaband
+1144: (   1) - The Vapors
+1145: (   1) - The Viceroys
+1146: (   1) - The Viceroys with Hubcap & the Wheels
+1147: (   1) - The Walker Brothers
+1148: (   1) - The Youngbloods
+1149: (   1) - Theatre of Hate
+1150: (   1) - Them
+1151: (   1) - Thepnutno2
+1152: (   1) - Throwing Muses
+1153: (   1) - Thundercat
+1154: (   1) - Tommy McCook
+1155: (   1) - Tommy Shakespeare
+1156: (   1) - Tones on Tail
+1157: (   1) - Toni Basil
+1158: (   1) - Tony Tribe
+1159: (   1) - Travis
+1160: (   1) - Trevor Brown
+1161: (   1) - Uriah Heep
+1162: (   1) - Vibracobra23 Dulosis
+1163: (   1) - Villagers
+1164: (   1) - Violent Femmes
+1165: (   1) - Visage
+1166: (   1) - Visagevevo
+1167: (   1) - Wand
+1168: (   1) - When in Rome
+1169: (   1) - Winston Francis
+1170: (   1) - Winston Samuels
+1171: (   1) - Winston Wright
+1172: (   1) - Yonatan Gat
+1173: (   1) - Zibbz
+1174: (   1) - the FRIGHTNRS
