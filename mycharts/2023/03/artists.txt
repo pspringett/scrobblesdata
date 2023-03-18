@@ -1,7 +1,16 @@
 Specified year (2023), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     121            10            11            87
- 1: (26) - U2
+     140            10            12           104
+ 1: (35) - U2
+
+
+
+
+
+
+
+
+
 
 
 
@@ -19,10 +28,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: ( 9) - Weyes Blood
- 7: ( 8) - The Zephyrs
-
-
-
- 8: ( 4) - Robert Forster
- 9: ( 4) - The Specials
-10: ( 3) - Brix Smith
+ 7: ( 8) - Robert Forster
+ 8: ( 8) - The Zephyrs
+ 9: ( 7) - The Specials
+10: ( 6) - Brix Smith
