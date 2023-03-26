@@ -1,35 +1,14 @@
 Specified year (2023), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     182            10            12           122
- 1: (45) - U2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     194            10            12           125
+ 1: (50) - U2
  2: (22) - Orchestral Manoeuvres in the Dark
- 3: (22) - The Corrs
+ 3: (22) - Robert Forster
+ 4: (22) - The Corrs
 
 
 
- 4: (18) - Robert Forster
+
 
  5: (16) - The Specials
  6: (15) - Bob Dylan
@@ -37,7 +16,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  8: (12) - Paramore
+ 9: (12) - Weyes Blood
 
 
- 9: ( 9) - Weyes Blood
+
 10: ( 8) - The Zephyrs
