@@ -1,7 +1,7 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     680            27            30           282
- 1: (62) - U2
+     691            30            32           287
+ 1: (64) - U2
  2: (55) - Altered Images
  3: (54) - Margo Price
  4: (53) - The Burning Hell
@@ -27,11 +27,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (29) - Bob Dylan
 10: (28) - The Zephyrs
 
-11: (26) - Simple Minds
-12: (25) - Taylor Swift
-13: (24) - The B-52's
+11: (26) - Robert Forster
+12: (26) - Simple Minds
+13: (25) - Taylor Swift
+14: (24) - The B-52's
 
-14: (22) - Robert Forster
 15: (22) - The Corrs
 16: (21) - Shelby Lynne, Allison Moorer
 
@@ -53,6 +53,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-25: ( 2) - Martin Stephenson
-26: ( 1) - Josh Ritter
-27: ( 1) - The Smiths
+25: ( 2) - Jana Horn
+26: ( 2) - Martin Stephenson
+27: ( 2) - Steve Mason
+28: ( 1) - Josh Ritter
+29: ( 1) - Steve Mason, Javed Bashir
+30: ( 1) - The Smiths
