@@ -1,8 +1,10 @@
 Specified year (2023), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      55             5             5            37
-1: (12) - Robert Forster
-2: (12) - Steve Mason
-3: (11) - A Certain Ratio
-4: (10) - Jana Horn
-5: (10) - U2
+      70             5             5            45
+1: (16) - A Certain Ratio
+2: (16) - Steve Mason
+
+
+3: (13) - Jana Horn
+4: (13) - U2
+5: (12) - Robert Forster
