@@ -1,16 +1,13 @@
 Specified year (2023), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     118             9             9            73
-1: (22) - 1982 - A Certain Ratio
+     132            10            11            78
+ 1: (22) - 1982 - A Certain Ratio
+ 2: (22) - The Window Is The Dream - Jana Horn
 
-
-2: (19) - Songs Of Surrender - U2
-3: (19) - The Window Is The Dream - Jana Horn
-4: (18) - Brothers & Sisters - Steve Mason
-
-5: (16) - The Candle And The Flame - Robert Forster
-
-6: (14) - The Very Best Of Curtis Mayfield - Curtis Mayfield
+ 3: (20) - Songs Of Surrender - U2
+ 4: (19) - The Candle And The Flame - Robert Forster
+ 5: (18) - Brothers & Sisters - Steve Mason
+ 6: (17) - The Very Best Of Curtis Mayfield - Curtis Mayfield
 
 
 
@@ -20,6 +17,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-7: ( 4) - Strays - Margo Price
-8: ( 3) - Garbage Island - The Burning Hell
-9: ( 3) - Mascara Streakz - Altered Images
+
+
+
+ 7: ( 4) - Strays - Margo Price
+ 8: ( 3) - Garbage Island - The Burning Hell
+ 9: ( 3) - Mascara Streakz - Altered Images
+10: ( 2) - Clara Libre - Altered Images
+11: ( 2) - Wolves (P)Remixes - Lloyd Cole

@@ -1,16 +1,13 @@
 Specified year (2023), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     118             9             9            73
-1: (22) - A Certain Ratio
+     132            10            11            78
+ 1: (22) - A Certain Ratio
+ 2: (22) - Jana Horn
 
-
-2: (19) - Jana Horn
-3: (19) - U2
-4: (18) - Steve Mason
-
-5: (16) - Robert Forster
-
-6: (14) - Curtis Mayfield
+ 3: (20) - U2
+ 4: (19) - Robert Forster
+ 5: (18) - Steve Mason
+ 6: (17) - Curtis Mayfield
 
 
 
@@ -20,6 +17,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-7: ( 4) - Margo Price
-8: ( 3) - Altered Images
-9: ( 3) - The Burning Hell
+
+
+ 7: ( 5) - Altered Images
+ 8: ( 4) - Margo Price
+ 9: ( 3) - The Burning Hell
+10: ( 2) - Lloyd Cole
