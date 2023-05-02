@@ -1,8 +1,8 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     901            37            43           364
+     915            37            43           371
  1: (96) - U2
- 2: (75) - Altered Images
+ 2: (77) - Altered Images
  3: (58) - Margo Price
  4: (58) - The Burning Hell
  5: (48) - Rod Stewart
@@ -18,10 +18,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 7: (35) - A Certain Ratio
 
+ 8: (33) - Orchestral Manoeuvres in the Dark
 
- 7: (33) - Orchestral Manoeuvres in the Dark
- 8: (32) - A Certain Ratio
  9: (31) - Weyes Blood
 10: (30) - Paramore
 11: (29) - Bob Dylan
@@ -51,14 +51,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+29: ( 7) - The Bluebells
+30: ( 6) - Martin Stephenson and the Daintees
+31: ( 6) - The National
 
-29: ( 6) - Martin Stephenson and the Daintees
-
-30: ( 4) - The Bluebells
-31: ( 3) - Wednesday
-32: ( 2) - Emma Tricca
-33: ( 2) - Laurel Canyon
-34: ( 2) - Martin Stephenson
-35: ( 2) - The National
+32: ( 4) - Laurel Canyon
+33: ( 3) - Wednesday
+34: ( 2) - Emma Tricca
+35: ( 2) - Martin Stephenson
 36: ( 1) - Josh Ritter
 37: ( 1) - The Smiths
