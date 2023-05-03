@@ -1,9 +1,10 @@
 Specified year (2023), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      29             6             6            26
+      33             6             6            30
 1: (7) - The Bluebells
-2: (6) - The National
-3: (5) - A Certain Ratio
-4: (4) - Altered Images
-5: (4) - Laurel Canyon
-6: (3) - Wednesday
+2: (6) - A Certain Ratio
+3: (6) - The National
+4: (6) - Wednesday
+
+5: (4) - Altered Images
+6: (4) - Laurel Canyon

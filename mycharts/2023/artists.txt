@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     915            37            43           371
+     919            37            43           374
  1: (96) - U2
  2: (77) - Altered Images
  3: (58) - Margo Price
@@ -17,8 +17,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 7: (36) - A Certain Ratio
 
- 7: (35) - A Certain Ratio
 
  8: (33) - Orchestral Manoeuvres in the Dark
 
@@ -54,9 +54,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 29: ( 7) - The Bluebells
 30: ( 6) - Martin Stephenson and the Daintees
 31: ( 6) - The National
+32: ( 6) - Wednesday
 
-32: ( 4) - Laurel Canyon
-33: ( 3) - Wednesday
+33: ( 4) - Laurel Canyon
+
 34: ( 2) - Emma Tricca
 35: ( 2) - Martin Stephenson
 36: ( 1) - Josh Ritter
