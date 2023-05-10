@@ -1,24 +1,25 @@
 Specified year (2023), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     118            11            11            71
- 1: (18) - The Bluebells
- 2: (17) - Altered Images
- 3: (16) - A Certain Ratio
- 4: (16) - The National
+     140            12            12            86
+ 1: (20) - The National
+
+ 2: (18) - The Bluebells
+ 3: (17) - Altered Images
+ 4: (16) - A Certain Ratio
+
+ 5: (14) - Eilen Jewell
+ 6: (14) - Josh Ritter
+
+
+ 7: (11) - Laurel Canyon
+ 8: (10) - David Bowie
+ 9: (10) - Wednesday
 
 
 
 
- 5: (11) - Laurel Canyon
- 6: (10) - Eilen Jewell
- 7: (10) - Josh Ritter
- 8: (10) - Wednesday
 
+10: ( 4) - Rod Stewart
+11: ( 4) - U2
 
-
-
-
- 9: ( 4) - Rod Stewart
-10: ( 4) - U2
-
-11: ( 2) - Robert Forster
+12: ( 2) - Robert Forster
