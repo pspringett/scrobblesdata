@@ -1,15 +1,17 @@
 Specified year (2023), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      65             8             9            59
-1: (11) - In The 21St Century - The Bluebells
-2: (10) - Songs Of Surrender - U2
-3: (10) - Such Ferocious Beauty - Cowboy Junkies
-4: (10) - The Boy's Heart - Martin Stephenson and the Daintees
+      77             8             9            65
+1: (14) - Such Ferocious Beauty - Cowboy Junkies
 
-5: ( 8) - Spectral Lines - Josh Ritter
+2: (12) - Spectral Lines - Josh Ritter
+3: (11) - In The 21St Century - The Bluebells
+4: (10) - Songs Of Surrender - U2
+5: (10) - The Boy's Heart - Martin Stephenson and the Daintees
+6: ( 9) - Shadow Kingdom - Bob Dylan
 
-6: ( 6) - The Candle And The Flame - Robert Forster
-7: ( 5) - Shadow Kingdom - Bob Dylan
+
+7: ( 6) - The Candle And The Flame - Robert Forster
+
 
 8: ( 3) - 1982 - A Certain Ratio
 9: ( 2) * Boy - U2
