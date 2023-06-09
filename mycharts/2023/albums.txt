@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1220            41            53           498
+    1230            41            53           499
  1: (65) - Garbage Island - The Burning Hell
  2: (63) - Mascara Streakz - Altered Images
  3: (62) - Songs Of Surrender - U2
@@ -24,14 +24,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  8: (33) - In The 21St Century - The Bluebells
- 9: (32) - Dazzle Ships - Orchestral Manoeuvres in the Dark
-10: (31) - And In The Darkness, Hearts Aglow - Weyes Blood
-11: (31) * Boy - U2
-12: (31) - Clara Libre - Altered Images
-13: (30) - This Is Why - Paramore
-14: (29) - Time Out Of Mind - Bob Dylan
-15: (28) - For Sapphire Needle - The Zephyrs
-16: (27) - Spectral Lines - Josh Ritter
+ 9: (33) - Spectral Lines - Josh Ritter
+10: (32) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+11: (31) - And In The Darkness, Hearts Aglow - Weyes Blood
+12: (31) * Boy - U2
+13: (31) - Clara Libre - Altered Images
+14: (30) - This Is Why - Paramore
+15: (29) - Time Out Of Mind - Bob Dylan
+16: (28) - For Sapphire Needle - The Zephyrs
 17: (27) - The Corrs Unplugged - The Corrs
 18: (26) - Once Upon A Time - Simple Minds
 19: (25) - Aladdin Sane (2013 Remaster) - David Bowie
@@ -57,13 +57,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 38: (13) * Lay It Down - Cowboy Junkies
 39: (12) * Black Eyed Man - Cowboy Junkies
 40: (11) - Guesswork - Lloyd Cole
-41: (11) - Laurel Canyon - Laurel Canyon
-42: (11) - Marquee Moon - Television
-43: (10) - Rat Saw God - Wednesday
-44: ( 9) - Singles 1965-1967 - The Rolling Stones
-45: ( 9) - Siren - Roxy Music
+41: (11) * Highway 61 Revisited - Bob Dylan
+42: (11) - Laurel Canyon - Laurel Canyon
+43: (11) - Marquee Moon - Television
+44: (10) - Rat Saw God - Wednesday
+45: ( 9) - Singles 1965-1967 - The Rolling Stones
+46: ( 9) - Siren - Roxy Music
 
-46: ( 7) * Highway 61 Revisited - Bob Dylan
+
 47: ( 6) * Don't Get Weird On Me Babe - Lloyd Cole
 
 48: ( 4) - Wolves (P)Remixes - Lloyd Cole
