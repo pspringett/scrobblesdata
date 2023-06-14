@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   65741          1182          1748         11838
+   65748          1182          1748         11838
    1: (2215) - Lloyd Cole
    2: (2026) - David Bowie
    3: (1813) - Bob Dylan
@@ -39,7 +39,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   36: ( 535) - Rodney Crowell
   37: ( 530) - Shelby Lynne
   38: ( 510) - Corb Lund
-  39: ( 489) - Martin Stephenson and the Daintees
+  39: ( 490) - Martin Stephenson and the Daintees
   40: ( 472) - Talking Heads
   41: ( 461) - Sarah MacDougall
   42: ( 442) - The Redlands Palomino Company
@@ -254,14 +254,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  247: (  42) - Inhaler
 
 
- 248: (  39) - Weyes Blood
+ 248: (  39) - The Bluebells
+ 249: (  39) - Weyes Blood
 
- 249: (  37) - Jeff Bridges
- 250: (  37) - Yo La Tengo
+ 250: (  37) - Jeff Bridges
+ 251: (  37) - Yo La Tengo
 
 
- 251: (  34) - The Linda Lindas
- 252: (  33) - The Bluebells
+ 252: (  34) - The Linda Lindas
+
  253: (  32) - Duke Garwood
  254: (  32) - Love
  255: (  32) - Manfred Mann's Earth Band
