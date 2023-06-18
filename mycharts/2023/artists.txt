@@ -1,15 +1,22 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1257            41            53           502
+    1367            43            55           519
  1: (112) - U2
- 2: ( 94) - Altered Images
- 3: ( 67) - Cowboy Junkies
- 4: ( 65) - The Burning Hell
- 5: ( 63) - Bob Dylan
- 6: ( 62) - Margo Price
- 7: ( 55) - Robert Forster
- 8: ( 55) - Rod Stewart
- 9: ( 49) - A Certain Ratio
+ 2: ( 98) - Altered Images
+ 3: ( 89) - Cowboy Junkies
+ 4: ( 71) - The Bluebells
+ 5: ( 65) - The Burning Hell
+ 6: ( 63) - Bob Dylan
+ 7: ( 62) - Margo Price
+ 8: ( 55) - Robert Forster
+ 9: ( 55) - Rod Stewart
+10: ( 49) - A Certain Ratio
+
+
+
+11: ( 45) - Orchestral Manoeuvres in the Dark
+
+12: ( 43) - Josh Ritter
 
 
 
@@ -19,14 +26,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-10: ( 39) - The Bluebells
 
-
-
-
-
-11: ( 33) - Josh Ritter
-12: ( 33) - Orchestral Manoeuvres in the Dark
 
 13: ( 31) - Weyes Blood
 14: ( 30) - Paramore
@@ -35,35 +35,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 17: ( 27) - The Corrs
 18: ( 26) - David Bowie
 19: ( 26) - Simple Minds
-20: ( 25) - Taylor Swift
-21: ( 24) - The B-52's
+20: ( 25) - Eilen Jewell
+21: ( 25) - Taylor Swift
+22: ( 24) - The B-52's
 
-22: ( 22) - Curtis Mayfield
-23: ( 22) - Jana Horn
-24: ( 22) - Steve Mason
-25: ( 21) - Lloyd Cole
-26: ( 21) - Shelby Lynne, Allison Moorer
-27: ( 20) - The National
-28: ( 19) - Love
-29: ( 18) - Duke Garwood
-30: ( 17) - Bill Nelson
-31: ( 17) - Brix Smith
-32: ( 16) - The Specials
-
-33: ( 14) - Eilen Jewell
-
-
-34: ( 11) - Laurel Canyon
-35: ( 11) - Television
-36: ( 10) - Wednesday
-37: (  9) - Roxy Music
-38: (  9) - The Rolling Stones
+23: ( 22) - Curtis Mayfield
+24: ( 22) - Jana Horn
+25: ( 22) - Steve Mason
+26: ( 21) - Lloyd Cole
+27: ( 21) - Shelby Lynne, Allison Moorer
+28: ( 20) - The National
+29: ( 19) - Love
+30: ( 18) - Duke Garwood
+31: ( 18) - Orange Juice
+32: ( 17) - Bill Nelson
+33: ( 17) - Brix Smith
+34: ( 16) - The Specials
 
 
 
 
+35: ( 11) - Laurel Canyon
+36: ( 11) - Television
+37: ( 10) - Wednesday
+38: (  9) - Roxy Music
+39: (  9) - The Rolling Stones
 
 
-39: (  2) - Emma Tricca
-40: (  2) - Martin Stephenson
-41: (  1) - The Smiths
+
+
+
+
+40: (  2) - Emma Tricca
+41: (  2) - Martin Stephenson
+42: (  1) - Patreon.Com
+43: (  1) - The Smiths

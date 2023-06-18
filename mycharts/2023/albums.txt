@@ -1,13 +1,21 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1257            41            53           502
- 1: (65) - Garbage Island - The Burning Hell
- 2: (63) - Mascara Streakz - Altered Images
- 3: (62) - Songs Of Surrender - U2
- 4: (62) - Strays - Margo Price
- 5: (55) - Never A Dull Moment - Rod Stewart
- 6: (55) - The Candle And The Flame - Robert Forster
- 7: (49) - 1982 - A Certain Ratio
+    1367            43            55           519
+ 1: (71) - In The 21St Century - The Bluebells
+ 2: (65) - Garbage Island - The Burning Hell
+ 3: (63) - Mascara Streakz - Altered Images
+ 4: (62) - Songs Of Surrender - U2
+ 5: (62) - Strays - Margo Price
+ 6: (55) - Never A Dull Moment - Rod Stewart
+ 7: (55) - The Candle And The Flame - Robert Forster
+ 8: (49) - 1982 - A Certain Ratio
+
+
+
+
+ 9: (44) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+10: (43) - Spectral Lines - Josh Ritter
+11: (43) - Such Ferocious Beauty - Cowboy Junkies
 
 
 
@@ -15,61 +23,56 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
- 8: (39) - In The 21St Century - The Bluebells
-
+12: (35) - Clara Libre - Altered Images
 
 
 
-
- 9: (33) - Spectral Lines - Josh Ritter
-10: (32) - Dazzle Ships - Orchestral Manoeuvres in the Dark
-11: (31) - And In The Darkness, Hearts Aglow - Weyes Blood
-12: (31) * Boy - U2
-13: (31) - Clara Libre - Altered Images
-14: (30) - This Is Why - Paramore
-15: (29) - The Boy's Heart - Martin Stephenson and the Daintees
-16: (29) - Time Out Of Mind - Bob Dylan
-17: (28) - For Sapphire Needle - The Zephyrs
-18: (27) - The Corrs Unplugged - The Corrs
-19: (26) - Once Upon A Time - Simple Minds
-20: (25) - Aladdin Sane (2013 Remaster) - David Bowie
-21: (25) - Evermore - Taylor Swift
-22: (24) - B-52's - The B-52's
-23: (23) - Shadow Kingdom - Bob Dylan
-24: (22) - Brothers & Sisters - Steve Mason
-25: (22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
-26: (22) - The Window Is The Dream - Jana Horn
-27: (21) - Not Dark Yet - Shelby Lynne, Allison Moorer
-28: (21) - Such Ferocious Beauty - Cowboy Junkies
-29: (21) * The Caution Horses - Cowboy Junkies
-30: (20) - First Two Pages Of Frankenstein - The National
-31: (19) - Da Capo - Love
-32: (19) * The Unforgettable Fire - U2
-33: (18) - Rogues Gospel - Duke Garwood
-34: (17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
-35: (17) - Valley Of The Dolls - Brix Smith
-36: (16) - The Specials - The Specials
-
-37: (14) - Get Behind The Wheel - Eilen Jewell
-38: (13) * Lay It Down - Cowboy Junkies
-39: (12) * Black Eyed Man - Cowboy Junkies
-40: (11) - Guesswork - Lloyd Cole
-41: (11) * Highway 61 Revisited - Bob Dylan
-42: (11) - Laurel Canyon - Laurel Canyon
-43: (11) - Marquee Moon - Television
-44: (10) - Rat Saw God - Wednesday
-45: ( 9) - Singles 1965-1967 - The Rolling Stones
-46: ( 9) - Siren - Roxy Music
+13: (31) - And In The Darkness, Hearts Aglow - Weyes Blood
+14: (31) * Boy - U2
+15: (30) - This Is Why - Paramore
+16: (29) - The Boy's Heart - Martin Stephenson and the Daintees
+17: (29) - Time Out Of Mind - Bob Dylan
+18: (28) - For Sapphire Needle - The Zephyrs
+19: (27) - The Corrs Unplugged - The Corrs
+20: (26) - Once Upon A Time - Simple Minds
+21: (25) - Aladdin Sane (2013 Remaster) - David Bowie
+22: (25) - Evermore - Taylor Swift
+23: (25) - Get Behind The Wheel - Eilen Jewell
+24: (24) - B-52's - The B-52's
+25: (23) - Shadow Kingdom - Bob Dylan
+26: (22) - Brothers & Sisters - Steve Mason
+27: (22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
+28: (22) - The Window Is The Dream - Jana Horn
+29: (21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+30: (21) * The Caution Horses - Cowboy Junkies
+31: (20) - First Two Pages Of Frankenstein - The National
+32: (19) - Da Capo - Love
+33: (19) * The Unforgettable Fire - U2
+34: (18) - Rogues Gospel - Duke Garwood
+35: (18) - You Can't Hide Your Love Forever - Orange Juice
+36: (17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+37: (17) - Valley Of The Dolls - Brix Smith
+38: (16) - The Specials - The Specials
 
 
-47: ( 6) * Don't Get Weird On Me Babe - Lloyd Cole
+39: (13) * Lay It Down - Cowboy Junkies
+40: (12) * Black Eyed Man - Cowboy Junkies
+41: (11) - Guesswork - Lloyd Cole
+42: (11) * Highway 61 Revisited - Bob Dylan
+43: (11) - Laurel Canyon - Laurel Canyon
+44: (11) - Marquee Moon - Television
+45: (10) - Rat Saw God - Wednesday
+46: ( 9) - Singles 1965-1967 - The Rolling Stones
+47: ( 9) - Siren - Roxy Music
 
-48: ( 4) - Wolves (P)Remixes - Lloyd Cole
 
-49: ( 2) - Aspirin Sun - Emma Tricca
-50: ( 2) - Sweet Misdemeanour - Martin Stephenson
-51: ( 1) - Hatful Of Hollow - The Smiths
-52: ( 1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-53: ( 1) - London Boy - David Bowie
+48: ( 6) * Don't Get Weird On Me Babe - Lloyd Cole
+
+49: ( 4) - Wolves (P)Remixes - Lloyd Cole
+
+50: ( 2) - Aspirin Sun - Emma Tricca
+51: ( 2) - Sweet Misdemeanour - Martin Stephenson
+52: ( 1) -  - Patreon.Com
+53: ( 1) - Hatful Of Hollow - The Smiths
+54: ( 1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+55: ( 1) - London Boy - David Bowie
