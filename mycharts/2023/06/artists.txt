@@ -1,33 +1,34 @@
 Specified year (2023), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     248            13            15           120
+     279            14            16           128
  1: (53) - The Bluebells
  2: (43) - Cowboy Junkies
 
 
 
+ 3: (39) - Martin Stephenson and the Daintees
+
+
+
+
+ 4: (34) - Bob Dylan
 
 
 
 
 
- 3: (34) - Bob Dylan
+ 5: (28) - Josh Ritter
+ 6: (28) - Orange Juice
 
 
 
 
 
- 4: (28) - Josh Ritter
 
 
 
 
- 5: (23) - Martin Stephenson and the Daintees
 
-
-
-
- 6: (18) - Orange Juice
 
 
 
@@ -41,8 +42,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 10: ( 6) - Robert Forster
+11: ( 5) - Lloyd Cole
+12: ( 4) - Altered Images
+13: ( 3) - A Certain Ratio
 
-11: ( 4) - Altered Images
-12: ( 3) - A Certain Ratio
-
-13: ( 1) - Patreon.Com
+14: ( 1) - Patreon.Com
