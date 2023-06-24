@@ -1,6 +1,6 @@
 Specified year (2023), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     279            14            16           128
+     318            15            19           151
  1: (53) - The Bluebells
  2: (43) - Cowboy Junkies
 
@@ -12,20 +12,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  4: (34) - Bob Dylan
+ 5: (34) - Lloyd Cole
 
 
 
 
 
- 5: (28) - Josh Ritter
- 6: (28) - Orange Juice
-
-
-
-
-
-
-
+ 6: (28) - Josh Ritter
+ 7: (28) - Orange Juice
 
 
 
@@ -34,16 +28,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 7: (12) - Orchestral Manoeuvres in the Dark
- 8: (12) - U2
- 9: (11) - Eilen Jewell
 
 
 
 
-10: ( 6) - Robert Forster
-11: ( 5) - Lloyd Cole
-12: ( 4) - Altered Images
-13: ( 3) - A Certain Ratio
 
-14: ( 1) - Patreon.Com
+
+
+ 8: (12) - Orchestral Manoeuvres in the Dark
+ 9: (12) - U2
+10: (11) - Eilen Jewell
+
+
+
+
+11: ( 6) - Robert Forster
+12: ( 6) - The Burning Hell
+13: ( 5) - Nightbus
+14: ( 4) - Altered Images
+15: ( 3) - A Certain Ratio
