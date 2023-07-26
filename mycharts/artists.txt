@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   66048          1184          1753         11887
+   66060          1184          1753         11889
    1: (2284) - Lloyd Cole
    2: (2042) - David Bowie
    3: (1813) - Bob Dylan
@@ -32,7 +32,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   29: ( 622) - Martin Stephenson
   30: ( 601) - Emmylou Harris
   31: ( 595) - Paul Weller
-  32: ( 579) - Josh Ritter
+  32: ( 582) - Josh Ritter
   33: ( 576) - The Velvet Underground
   34: ( 564) - Edwyn Collins
   35: ( 535) - Nick Heyward
@@ -79,10 +79,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   76: ( 218) - The Go-Betweens
   77: ( 217) - Elton John
   78: ( 214) - Robert Forster
-  79: ( 210) - Kacey Musgraves
-  80: ( 210) - Lera Lynn
-  81: ( 209) - The Decemberists
-  82: ( 208) - Margo Price
+  79: ( 211) - Margo Price
+  80: ( 210) - Kacey Musgraves
+  81: ( 210) - Lera Lynn
+  82: ( 209) - The Decemberists
   83: ( 207) - Patty Griffin
   84: ( 202) - The Wailers
   85: ( 201) - case/lang/veirs
@@ -165,14 +165,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  162: (  82) - Jean Toussaint
  163: (  82) - The B-52's
  164: (  80) - Focus
- 165: (  80) - Marc Bolan
- 166: (  80) - Nick Cave & the Bad Seeds
- 167: (  80) - The Human League
- 168: (  80) - Tom Tom Club
- 169: (  79) - Brian Eno & David Byrne
- 170: (  78) - Beabadoobee
- 171: (  78) - H.C. Mcentire
- 172: (  77) - Laura Cantrell
+ 165: (  80) - Laura Cantrell
+ 166: (  80) - Marc Bolan
+ 167: (  80) - Nick Cave & the Bad Seeds
+ 168: (  80) - The Human League
+ 169: (  80) - Tom Tom Club
+ 170: (  79) - Brian Eno & David Byrne
+ 171: (  78) - Beabadoobee
+ 172: (  78) - H.C. Mcentire
  173: (  77) - Mark Knopfler and Emmylou Harris
  174: (  77) - Mindy Smith
  175: (  77) - Young Marble Giants
@@ -263,13 +263,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  252: (  34) - The Linda Lindas
 
- 253: (  32) - Duke Garwood
- 254: (  32) - Love
- 255: (  32) - Manfred Mann's Earth Band
- 256: (  32) - Sea Power
+ 253: (  32) - Body Type
+ 254: (  32) - Duke Garwood
+ 255: (  32) - Love
+ 256: (  32) - Manfred Mann's Earth Band
+ 257: (  32) - Sea Power
 
- 257: (  30) - Paramore
- 258: (  29) - Body Type
+ 258: (  30) - Paramore
  259: (  29) - The Felice Brothers
  260: (  28) - The Zephyrs
  261: (  27) - Taylor Swift
