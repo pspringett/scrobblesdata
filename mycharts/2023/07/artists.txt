@@ -1,6 +1,6 @@
 Specified year (2023), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     119            10            10            65
+     128            12            12            74
  1: (32) - Body Type
 
 
@@ -28,9 +28,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: ( 8) - Laura Cantrell
 
 
-
-
- 7: ( 3) - Jason Isbell and the 400 Unit
- 8: ( 3) - Margo Price
- 9: ( 3) - The Style Council
-10: ( 2) - Nightbus
+ 7: ( 5) - Martin Stephenson and the Daintees
+ 8: ( 4) - Robert Forster
+ 9: ( 3) - Jason Isbell and the 400 Unit
+10: ( 3) - Margo Price
+11: ( 3) - The Style Council
+12: ( 2) - Nightbus
