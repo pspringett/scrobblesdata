@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1594            47            63           588
+    1605            47            63           590
  1: (112) - U2
  2: (103) - Cowboy Junkies
  3: (101) - Altered Images
@@ -9,7 +9,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: ( 71) - The Burning Hell
  7: ( 65) - Margo Price
  8: ( 63) - Bob Dylan
- 9: ( 59) - Robert Forster
+ 9: ( 61) - Robert Forster
 10: ( 56) - Martin Stephenson and the Daintees
 11: ( 55) - Rod Stewart
 12: ( 53) - Josh Ritter
@@ -24,13 +24,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+16: ( 38) - Body Type
 
 
 
 
 
 
-16: ( 32) - Body Type
 17: ( 31) - Weyes Blood
 18: ( 30) - Paramore
 
@@ -56,12 +56,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 36: ( 13) - The Style Council
 
-37: ( 11) - Laurel Canyon
-38: ( 11) - Television
-39: ( 10) - Wednesday
-40: (  9) - Roxy Music
-41: (  9) - The Rolling Stones
-42: (  8) - Laura Cantrell
+37: ( 11) - Laura Cantrell
+38: ( 11) - Laurel Canyon
+39: ( 11) - Television
+40: ( 10) - Wednesday
+41: (  9) - Roxy Music
+42: (  9) - The Rolling Stones
+
 43: (  7) - Nightbus
 
 
