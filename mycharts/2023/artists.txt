@@ -1,19 +1,19 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1691            51            67           627
+    1698            51            67           627
  1: (112) - U2
  2: (103) - Cowboy Junkies
  3: (101) - Altered Images
  4: ( 96) - Lloyd Cole
  5: ( 71) - The Bluebells
  6: ( 71) - The Burning Hell
- 7: ( 65) - Margo Price
+ 7: ( 69) - Margo Price
  8: ( 63) - Bob Dylan
  9: ( 61) - Robert Forster
 10: ( 56) - Martin Stephenson and the Daintees
-11: ( 55) - Orchestral Manoeuvres in the Dark
-12: ( 55) - Rod Stewart
-13: ( 53) - Body Type
+11: ( 55) - Body Type
+12: ( 55) - Orchestral Manoeuvres in the Dark
+13: ( 55) - Rod Stewart
 14: ( 53) - Josh Ritter
 15: ( 49) - A Certain Ratio
 
@@ -63,8 +63,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 41: ( 11) - Laura Cantrell
 42: ( 11) - Laurel Canyon
 43: ( 11) - Television
-44: ( 10) - Wednesday
-45: (  9) - Nightbus
+44: ( 10) - Nightbus
+45: ( 10) - Wednesday
 46: (  9) - Roxy Music
 47: (  9) - The Rolling Stones
 
@@ -75,5 +75,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 48: (  2) - Emma Tricca
 49: (  2) - Martin Stephenson
-50: (  1) - M.Belfasttelegraph.Co.Uk
+50: (  1) - Echo & the Bunnymen
 51: (  1) - The Smiths
