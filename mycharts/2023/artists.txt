@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1698            51            67           627
+    1709            51            67           633
  1: (112) - U2
  2: (103) - Cowboy Junkies
  3: (101) - Altered Images
@@ -53,11 +53,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 32: ( 18) - Duke Garwood
 33: ( 17) - Bill Nelson
 34: ( 17) - Brix Smith
-35: ( 16) - Pj Harvey
-36: ( 16) - The Specials
-37: ( 15) - Jason Isbell and the 400 Unit
-38: ( 14) - Bdrmm
-39: ( 13) - Suede
+35: ( 17) - Jason Isbell and the 400 Unit
+36: ( 17) - Suede
+37: ( 16) - Pj Harvey
+38: ( 16) - The Specials
+
+39: ( 14) - Bdrmm
 40: ( 13) - The Style Council
 
 41: ( 11) - Laura Cantrell
@@ -69,11 +70,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 47: (  9) - The Rolling Stones
 
 
+48: (  6) - Echo & the Bunnymen
 
 
 
-
-48: (  2) - Emma Tricca
-49: (  2) - Martin Stephenson
-50: (  1) - Echo & the Bunnymen
+49: (  2) - Emma Tricca
+50: (  2) - Martin Stephenson
 51: (  1) - The Smiths
