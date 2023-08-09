@@ -1,20 +1,19 @@
 Specified year (2023), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     103             9             9            73
-1: (17) - Suede
-2: (16) - Bdrmm
-3: (16) - Pj Harvey
-4: (15) - Jason Isbell and the 400 Unit
+     111            10            10            80
+ 1: (17) - Suede
+ 2: (16) - Bdrmm
+ 3: (16) - Pj Harvey
+ 4: (15) - Jason Isbell and the 400 Unit
+ 5: (14) - Body Type
 
 
-
-5: (11) - Body Type
-6: (11) - Echo & the Bunnymen
-7: (10) - Orchestral Manoeuvres in the Dark
-
+ 6: (11) - Echo & the Bunnymen
+ 7: (10) - Orchestral Manoeuvres in the Dark
 
 
 
 
-8: ( 4) - Margo Price
-9: ( 3) - Nightbus
+ 8: ( 5) - Lloyd Cole
+ 9: ( 4) - Margo Price
+10: ( 3) - Nightbus
