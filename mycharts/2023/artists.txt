@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1739            52            68           652
+    1757            53            69           656
  1: (112) - U2
  2: (105) - Altered Images
  3: (103) - Cowboy Junkies
@@ -8,13 +8,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: ( 71) - The Bluebells
  6: ( 71) - The Burning Hell
  7: ( 69) - Margo Price
- 8: ( 63) - Bob Dylan
- 9: ( 61) - Robert Forster
+ 8: ( 65) - Robert Forster
+ 9: ( 63) - Bob Dylan
 10: ( 58) - Body Type
-11: ( 56) - Martin Stephenson and the Daintees
-12: ( 55) - Orchestral Manoeuvres in the Dark
-13: ( 55) - Rod Stewart
-14: ( 53) - Josh Ritter
+11: ( 56) - Josh Ritter
+12: ( 56) - Martin Stephenson and the Daintees
+13: ( 55) - Orchestral Manoeuvres in the Dark
+14: ( 55) - Rod Stewart
 15: ( 49) - A Certain Ratio
 
 
@@ -47,15 +47,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 26: ( 22) - Curtis Mayfield
 27: ( 22) - Jana Horn
 28: ( 22) - Steve Mason
-29: ( 21) - Shelby Lynne, Allison Moorer
-30: ( 20) - The National
-31: ( 19) - Love
-32: ( 18) - Duke Garwood
-33: ( 18) - Echo & the Bunnymen
-34: ( 18) - Jason Isbell and the 400 Unit
-35: ( 17) - Bill Nelson
-36: ( 17) - Brix Smith
-37: ( 17) - Suede
+29: ( 21) - Jason Isbell and the 400 Unit
+30: ( 21) - Shelby Lynne, Allison Moorer
+31: ( 21) - Suede
+32: ( 20) - The National
+33: ( 19) - Love
+34: ( 18) - Duke Garwood
+35: ( 18) - Echo & the Bunnymen
+36: ( 17) - Bill Nelson
+37: ( 17) - Brix Smith
 38: ( 16) - Bdrmm
 39: ( 16) - Pj Harvey
 40: ( 16) - The Specials
@@ -74,8 +74,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-49: (  3) - Elvis Costello & the Attractions
-50: (  2) - Emma Tricca
-51: (  2) - Martin Stephenson
-52: (  1) - The Smiths
+49: (  4) - Alaska Reid
+50: (  3) - Elvis Costello & the Attractions
+51: (  2) - Emma Tricca
+52: (  2) - Martin Stephenson
+53: (  1) - The Smiths
