@@ -1,16 +1,16 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1757            53            69           656
+    1774            53            69           661
  1: (71) - Garbage Island - The Burning Hell
  2: (71) - In The 21St Century - The Bluebells
  3: (69) - Strays - Margo Price
  4: (66) - Mascara Streakz - Altered Images
  5: (65) - The Candle And The Flame - Robert Forster
  6: (62) - Songs Of Surrender - U2
- 7: (60) - On Pain - Lloyd Cole
- 8: (58) - Expired Candy - Body Type
- 9: (57) - Such Ferocious Beauty - Cowboy Junkies
-10: (56) - Spectral Lines - Josh Ritter
+ 7: (62) - Spectral Lines - Josh Ritter
+ 8: (60) - On Pain - Lloyd Cole
+ 9: (58) - Expired Candy - Body Type
+10: (57) - Such Ferocious Beauty - Cowboy Junkies
 11: (56) - The Boy's Heart - Martin Stephenson and the Daintees
 12: (55) - Never A Dull Moment - Rod Stewart
 13: (54) - Dazzle Ships - Orchestral Manoeuvres in the Dark
@@ -54,13 +54,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 35: (21) - Weathervanes - Jason Isbell and the 400 Unit
 36: (20) - First Two Pages Of Frankenstein - The National
 37: (19) - Da Capo - Love
-38: (19) * The Unforgettable Fire - U2
-39: (18) - Live At The Royal Albert Hall - Echo & the Bunnymen
-40: (18) - Rogues Gospel - Duke Garwood
-41: (17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
-42: (17) - Valley Of The Dolls - Brix Smith
-43: (16) - I Don't Know - Bdrmm
-44: (16) - I Inside The Old Year Dying - Pj Harvey
+38: (19) - I Don't Know - Bdrmm
+39: (19) * The Unforgettable Fire - U2
+40: (18) - I Inside The Old Year Dying - Pj Harvey
+41: (18) - Live At The Royal Albert Hall - Echo & the Bunnymen
+42: (18) - Rogues Gospel - Duke Garwood
+43: (17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+44: (17) - Valley Of The Dolls - Brix Smith
 45: (16) - Metrobolist (Aka The Man Who Sold The World) [2020 Mix] - David Bowie
 46: (16) - The Specials - The Specials
 
@@ -75,15 +75,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 54: (11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
 55: (11) - Laurel Canyon - Laurel Canyon
 56: (11) - Marquee Moon - Television
-57: (10) - Mirrors - Nightbus
-58: (10) - Rat Saw God - Wednesday
-59: ( 9) - Singles 1965-1967 - The Rolling Stones
-60: ( 9) - Siren - Roxy Music
+57: (10) - Disenchanter - Alaska Reid
+58: (10) - Mirrors - Nightbus
+59: (10) - Rat Saw God - Wednesday
+60: ( 9) - Singles 1965-1967 - The Rolling Stones
+61: ( 9) - Siren - Roxy Music
 
 
-61: ( 6) * Don't Get Weird On Me Babe - Lloyd Cole
+62: ( 6) * Don't Get Weird On Me Babe - Lloyd Cole
 
-62: ( 4) - Disenchanter - Alaska Reid
+
 63: ( 3) - Imperial Bedroom - Elvis Costello & the Attractions
 64: ( 2) - Aspirin Sun - Emma Tricca
 65: ( 2) - Sweet Misdemeanour - Martin Stephenson

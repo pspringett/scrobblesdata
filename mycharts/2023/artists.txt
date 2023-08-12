@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1757            53            69           656
+    1774            53            69           661
  1: (112) - U2
  2: (105) - Altered Images
  3: (103) - Cowboy Junkies
@@ -10,8 +10,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: ( 69) - Margo Price
  8: ( 65) - Robert Forster
  9: ( 63) - Bob Dylan
-10: ( 58) - Body Type
-11: ( 56) - Josh Ritter
+10: ( 62) - Josh Ritter
+11: ( 58) - Body Type
 12: ( 56) - Martin Stephenson and the Daintees
 13: ( 55) - Orchestral Manoeuvres in the Dark
 14: ( 55) - Rod Stewart
@@ -51,13 +51,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 30: ( 21) - Shelby Lynne, Allison Moorer
 31: ( 21) - Suede
 32: ( 20) - The National
-33: ( 19) - Love
-34: ( 18) - Duke Garwood
-35: ( 18) - Echo & the Bunnymen
-36: ( 17) - Bill Nelson
-37: ( 17) - Brix Smith
-38: ( 16) - Bdrmm
-39: ( 16) - Pj Harvey
+33: ( 19) - Bdrmm
+34: ( 19) - Love
+35: ( 18) - Duke Garwood
+36: ( 18) - Echo & the Bunnymen
+37: ( 18) - Pj Harvey
+38: ( 17) - Bill Nelson
+39: ( 17) - Brix Smith
 40: ( 16) - The Specials
 
 
@@ -66,15 +66,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 42: ( 11) - Laura Cantrell
 43: ( 11) - Laurel Canyon
 44: ( 11) - Television
-45: ( 10) - Nightbus
-46: ( 10) - Wednesday
-47: (  9) - Roxy Music
-48: (  9) - The Rolling Stones
+45: ( 10) - Alaska Reid
+46: ( 10) - Nightbus
+47: ( 10) - Wednesday
+48: (  9) - Roxy Music
+49: (  9) - The Rolling Stones
 
 
 
 
-49: (  4) - Alaska Reid
+
 50: (  3) - Elvis Costello & the Attractions
 51: (  2) - Emma Tricca
 52: (  2) - Martin Stephenson
