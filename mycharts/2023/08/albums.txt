@@ -1,14 +1,14 @@
 Specified year (2023), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     207            15            15           121
+     215            15            15           123
  1: (26) - Live At The Royal Albert Hall - Echo & the Bunnymen
  2: (25) - Suede - Suede
 
  3: (23) - Weathervanes - Jason Isbell and the 400 Unit
+ 4: (22) - Disenchanter - Alaska Reid
+ 5: (22) - I Don't Know - Bdrmm
+ 6: (21) - I Inside The Old Year Dying - Pj Harvey
 
- 4: (21) - I Inside The Old Year Dying - Pj Harvey
- 5: (20) - Disenchanter - Alaska Reid
- 6: (19) - I Don't Know - Bdrmm
  7: (19) - Spectral Lines - Josh Ritter
 
 
@@ -17,11 +17,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: (14) - Expired Candy - Body Type
 
 
+ 9: (11) - On Pain - Lloyd Cole
+10: (10) - Dazzle Ships - Orchestral Manoeuvres in the Dark
 
- 9: (10) - Dazzle Ships - Orchestral Manoeuvres in the Dark
-
-10: ( 8) - Clara Libre - Altered Images
-11: ( 8) - On Pain - Lloyd Cole
+11: ( 8) - Clara Libre - Altered Images
 
 
 
