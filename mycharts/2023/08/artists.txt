@@ -1,14 +1,15 @@
 Specified year (2023), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     238            15            15           124
+     247            15            15           124
  1: (29) - Bdrmm
- 2: (29) - Pj Harvey
- 3: (28) - Alaska Reid
+ 2: (29) - Echo & the Bunnymen
+ 3: (29) - Pj Harvey
+ 4: (28) - Alaska Reid
+ 5: (27) - Jason Isbell and the 400 Unit
 
- 4: (26) - Echo & the Bunnymen
- 5: (25) - Suede
+ 6: (25) - Suede
 
- 6: (23) - Jason Isbell and the 400 Unit
+
 
 
 
@@ -26,8 +27,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 11: ( 8) - Altered Images
 
 
-
-12: ( 4) - Margo Price
-13: ( 4) - Robert Forster
-14: ( 3) - Elvis Costello & the Attractions
-15: ( 3) - Nightbus
+12: ( 5) - Nightbus
+13: ( 4) - Margo Price
+14: ( 4) - Robert Forster
+15: ( 3) - Elvis Costello & the Attractions
