@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1912            53            69           658
+    1924            53            69           659
  1: (112) - Lloyd Cole
  2: (112) - U2
 
@@ -38,12 +38,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: ( 76) - Margo Price
 
 
 
-
- 5: ( 72) - Josh Ritter
- 6: ( 71) - Margo Price
+ 6: ( 72) - Josh Ritter
  7: ( 71) - Robert Forster
  8: ( 71) - The Bluebells
  9: ( 71) - The Burning Hell
@@ -52,11 +51,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+11: ( 65) - Body Type
+
+12: ( 63) - Bob Dylan
 
 
-11: ( 63) - Bob Dylan
-
-12: ( 61) - Body Type
 
 
 
@@ -83,14 +82,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-17: ( 35) - Echo & the Bunnymen
+
+17: ( 34) - Echo & the Bunnymen
 18: ( 34) - Jason Isbell and the 400 Unit
-19: ( 33) - Pj Harvey
-20: ( 32) - Alaska Reid
-21: ( 31) - Weyes Blood
-22: ( 30) - Paramore
-23: ( 30) - Suede
-24: ( 29) - Bdrmm
+19: ( 33) - Bdrmm
+20: ( 33) - Pj Harvey
+21: ( 32) - Alaska Reid
+22: ( 31) - Weyes Blood
+23: ( 30) - Paramore
+24: ( 30) - Suede
+
 25: ( 28) - Orange Juice
 26: ( 28) - The Zephyrs
 27: ( 27) - The Corrs
