@@ -1,12 +1,14 @@
 Specified year (2023), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     315            16            16           142
- 1: (34) - Live At The Royal Albert Hall - Echo & the Bunnymen
- 2: (34) - Suede - Suede
- 3: (33) - I Don't Know - Bdrmm
- 4: (33) - I Inside The Old Year Dying - Pj Harvey
- 5: (32) - Disenchanter - Alaska Reid
- 6: (31) - Weathervanes - Jason Isbell and the 400 Unit
+     326            16            16           142
+ 1: (36) - Disenchanter - Alaska Reid
+ 2: (35) - Weathervanes - Jason Isbell and the 400 Unit
+ 3: (34) - Live At The Royal Albert Hall - Echo & the Bunnymen
+ 4: (34) - Suede - Suede
+ 5: (33) - I Don't Know - Bdrmm
+ 6: (33) - I Inside The Old Year Dying - Pj Harvey
+
+
 
 
 
@@ -24,11 +26,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 10: (14) - The Boy's Heart - Martin Stephenson and the Daintees
+11: (13) - The Candle And The Flame - Robert Forster
 
-
-11: (11) - Strays - Margo Price
-12: (10) - Dazzle Ships - Orchestral Manoeuvres in the Dark
-13: (10) - The Candle And The Flame - Robert Forster
+12: (11) - Strays - Margo Price
+13: (10) - Dazzle Ships - Orchestral Manoeuvres in the Dark
 
 14: ( 8) - Clara Libre - Altered Images
 

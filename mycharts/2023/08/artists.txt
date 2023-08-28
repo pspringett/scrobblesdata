@@ -1,12 +1,14 @@
 Specified year (2023), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     315            16            16           142
- 1: (34) - Echo & the Bunnymen
- 2: (34) - Suede
- 3: (33) - Bdrmm
- 4: (33) - Pj Harvey
- 5: (32) - Alaska Reid
- 6: (31) - Jason Isbell and the 400 Unit
+     326            16            16           142
+ 1: (36) - Alaska Reid
+ 2: (35) - Jason Isbell and the 400 Unit
+ 3: (34) - Echo & the Bunnymen
+ 4: (34) - Suede
+ 5: (33) - Bdrmm
+ 6: (33) - Pj Harvey
+
+
 
 
 
@@ -24,11 +26,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 10: (14) - Martin Stephenson and the Daintees
+11: (13) - Robert Forster
 
-
-11: (11) - Margo Price
-12: (10) - Orchestral Manoeuvres in the Dark
-13: (10) - Robert Forster
+12: (11) - Margo Price
+13: (10) - Orchestral Manoeuvres in the Dark
 
 14: ( 8) - Altered Images
 
