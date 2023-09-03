@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   66469          1188          1756         11959
+   66545          1188          1756         11959
    1: (2310) - Lloyd Cole
    2: (2042) - David Bowie
    3: (1813) - Bob Dylan
@@ -22,13 +22,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   19: ( 706) - Elvis Costello & the Attractions
   20: ( 699) - Prefab Sprout
   21: ( 689) - The Cure
-  22: ( 659) - T. Rex
-  23: ( 656) - Hem
-  24: ( 656) - Scott Walker
-  25: ( 654) - The Style Council
-  26: ( 650) - Rosanne Cash
-  27: ( 647) - The Rolling Stones
-  28: ( 637) - Eilen Jewell
+  22: ( 659) - Eilen Jewell
+  23: ( 659) - T. Rex
+  24: ( 656) - Hem
+  25: ( 656) - Scott Walker
+  26: ( 654) - The Style Council
+  27: ( 650) - Rosanne Cash
+  28: ( 647) - The Rolling Stones
   29: ( 622) - Martin Stephenson
   30: ( 601) - Emmylou Harris
   31: ( 601) - Josh Ritter
@@ -140,61 +140,61 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  137: ( 103) - Piney Gir
  138: ( 103) - Ray Davies
  139: ( 102) - Chatham County Line
- 140: ( 101) - Japan
- 141: ( 100) - Bat for Lashes
- 142: (  98) - Count Basie
- 143: (  98) - Dave Grusin
- 144: (  97) - Cara Dillon
- 145: (  95) - The Proclaimers
- 146: (  94) - The Jesus and Mary Chain
- 147: (  93) - Department S
- 148: (  93) - Marine Girls
- 149: (  91) - Billy Bragg
- 150: (  91) - Felt
- 151: (  90) - Josh Rouse
- 152: (  90) - The Burning Hell
- 153: (  89) - Modern English
- 154: (  88) - A Certain Ratio
- 155: (  87) - Eberard Weber
- 156: (  87) - Shovels & Rope
- 157: (  86) - Led Zeppelin
- 158: (  86) - Lou Reed
- 159: (  86) - Peter Hammill
- 160: (  84) - Sara Watkins
- 161: (  84) - The Clash
- 162: (  83) - Laura Cantrell
- 163: (  82) - Jean Toussaint
- 164: (  82) - The B-52's
- 165: (  80) - Focus
- 166: (  80) - Marc Bolan
- 167: (  80) - Nick Cave & the Bad Seeds
- 168: (  80) - The Human League
- 169: (  80) - Tom Tom Club
- 170: (  79) - Brian Eno & David Byrne
- 171: (  78) - Beabadoobee
- 172: (  78) - H.C. Mcentire
- 173: (  77) - Mark Knopfler and Emmylou Harris
- 174: (  77) - Mindy Smith
- 175: (  77) - Young Marble Giants
- 176: (  76) - Anne Mccue
- 177: (  75) - Johnny Marr
- 178: (  75) - Laura Veirs
- 179: (  75) - Van Morrison
- 180: (  74) - Rod Picott
- 181: (  74) - Rod Picott and Amanda Shires
- 182: (  74) - Ryan Adams
- 183: (  74) - Steely Dan
- 184: (  73) - Everything But the Girl
- 185: (  73) - London Grammar
- 186: (  73) - Tower of Song
- 187: (  72) - Electric Light Orchestra
- 188: (  72) - Natalie Prass
- 189: (  71) - Colvin & Earle
- 190: (  71) - Dire Straits
- 191: (  71) - Stevie Parker
- 192: (  71) - The Bluebells
- 193: (  70) - Kraftwerk
- 194: (  69) - Body Type
+ 140: ( 102) - The Burning Hell
+ 141: ( 101) - Japan
+ 142: ( 100) - Bat for Lashes
+ 143: (  98) - Count Basie
+ 144: (  98) - Dave Grusin
+ 145: (  97) - Cara Dillon
+ 146: (  95) - Body Type
+ 147: (  95) - The Proclaimers
+ 148: (  94) - The Jesus and Mary Chain
+ 149: (  93) - Department S
+ 150: (  93) - Marine Girls
+ 151: (  91) - Billy Bragg
+ 152: (  91) - Felt
+ 153: (  90) - Josh Rouse
+ 154: (  89) - Modern English
+ 155: (  88) - A Certain Ratio
+ 156: (  87) - Eberard Weber
+ 157: (  87) - Shovels & Rope
+ 158: (  86) - Led Zeppelin
+ 159: (  86) - Lou Reed
+ 160: (  86) - Peter Hammill
+ 161: (  84) - Sara Watkins
+ 162: (  84) - The Clash
+ 163: (  83) - Laura Cantrell
+ 164: (  82) - Jean Toussaint
+ 165: (  82) - The B-52's
+ 166: (  80) - Focus
+ 167: (  80) - Marc Bolan
+ 168: (  80) - Nick Cave & the Bad Seeds
+ 169: (  80) - The Human League
+ 170: (  80) - Tom Tom Club
+ 171: (  79) - Brian Eno & David Byrne
+ 172: (  78) - Beabadoobee
+ 173: (  78) - H.C. Mcentire
+ 174: (  77) - Mark Knopfler and Emmylou Harris
+ 175: (  77) - Mindy Smith
+ 176: (  77) - Young Marble Giants
+ 177: (  76) - Anne Mccue
+ 178: (  75) - Johnny Marr
+ 179: (  75) - Laura Veirs
+ 180: (  75) - Van Morrison
+ 181: (  74) - Rod Picott
+ 182: (  74) - Rod Picott and Amanda Shires
+ 183: (  74) - Ryan Adams
+ 184: (  74) - Steely Dan
+ 185: (  73) - Everything But the Girl
+ 186: (  73) - London Grammar
+ 187: (  73) - Tower of Song
+ 188: (  72) - Electric Light Orchestra
+ 189: (  72) - Natalie Prass
+ 190: (  71) - Colvin & Earle
+ 191: (  71) - Dire Straits
+ 192: (  71) - Stevie Parker
+ 193: (  71) - The Bluebells
+ 194: (  70) - Kraftwerk
  195: (  69) - Courtney Barnett
  196: (  69) - Dolly Parton
  197: (  69) - Noah and the Whale
@@ -236,24 +236,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  233: (  55) - Siouxsie and the Banshees
  234: (  55) - The Comsat Angels
  235: (  54) - Lissie
- 236: (  53) - Martha Wainwright
- 237: (  52) - Bill Frisell
- 238: (  52) - Jan Garbarek
- 239: (  52) - The French Impressionists
- 240: (  52) - The Police
- 241: (  51) - Bruce Springsteen
- 242: (  51) - Doves
- 243: (  50) - The Piney Gir Country Roadshow
- 244: (  49) - Bonnie Whitmore
- 245: (  48) - Artery
- 246: (  48) - Brian Eno
- 247: (  48) - Tracyanne & Danny
- 248: (  45) - Michael Head & the Red Elastic Band
- 249: (  42) - Inhaler
- 250: (  40) - Alaska Reid
- 251: (  39) - Weyes Blood
- 252: (  38) - Suede
- 253: (  37) - Bdrmm
+ 236: (  53) - Bdrmm
+ 237: (  53) - Martha Wainwright
+ 238: (  52) - Bill Frisell
+ 239: (  52) - Jan Garbarek
+ 240: (  52) - The French Impressionists
+ 241: (  52) - The Police
+ 242: (  51) - Bruce Springsteen
+ 243: (  51) - Doves
+ 244: (  50) - The Piney Gir Country Roadshow
+ 245: (  49) - Bonnie Whitmore
+ 246: (  48) - Artery
+ 247: (  48) - Brian Eno
+ 248: (  48) - Tracyanne & Danny
+ 249: (  45) - Michael Head & the Red Elastic Band
+ 250: (  42) - Inhaler
+ 251: (  40) - Alaska Reid
+ 252: (  39) - Weyes Blood
+ 253: (  38) - Suede
  254: (  37) - Jeff Bridges
  255: (  37) - Pj Harvey
  256: (  37) - Yo La Tengo
