@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2124            55            71           681
+    2134            55            71           681
  1: (123) - Lloyd Cole
 
 
@@ -41,7 +41,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: ( 85) - Margo Price
 
- 7: ( 83) - The Burning Hell
+ 7: ( 83) - Robert Forster
+ 8: ( 83) - The Burning Hell
 
 
 
@@ -50,7 +51,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 8: ( 74) - Robert Forster
+
 
  9: ( 72) - Josh Ritter
 10: ( 71) - The Bluebells
@@ -103,8 +104,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 27: ( 28) - The Zephyrs
 28: ( 27) - The Corrs
 29: ( 26) - Simple Minds
-30: ( 25) - Taylor Swift
-31: ( 24) - Slowdive
+30: ( 25) - Slowdive
+31: ( 25) - Taylor Swift
 32: ( 24) - The B-52's
 33: ( 23) - Be Your Own Pet
 34: ( 22) - Curtis Mayfield
