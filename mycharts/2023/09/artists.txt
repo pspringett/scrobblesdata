@@ -1,8 +1,17 @@
 Specified year (2023), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     159            10            10            98
- 1: (26) - Body Type
- 2: (25) - Slowdive
+     179            11            11           108
+ 1: (35) - Slowdive
+
+
+
+
+
+
+
+
+ 2: (26) - Body Type
+
 
  3: (23) - Be Your Own Pet
  4: (22) - Eilen Jewell
@@ -18,7 +27,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (12) - The Burning Hell
 
  7: (10) - Alaska Reid
- 8: ( 9) - Margo Price
- 9: ( 9) - Robert Forster
+ 8: (10) - Josh Ritter
+ 9: ( 9) - Margo Price
+10: ( 9) - Robert Forster
 
-10: ( 7) - Lloyd Cole
+11: ( 7) - Lloyd Cole

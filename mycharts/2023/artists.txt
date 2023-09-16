@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2134            55            71           681
+    2154            55            71           681
  1: (123) - Lloyd Cole
 
 
@@ -43,6 +43,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  7: ( 83) - Robert Forster
  8: ( 83) - The Burning Hell
+ 9: ( 82) - Josh Ritter
 
 
 
@@ -53,7 +54,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 9: ( 72) - Josh Ritter
 10: ( 71) - The Bluebells
 11: ( 70) - Martin Stephenson and the Daintees
 
@@ -93,18 +93,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 22: ( 38) - Suede
 23: ( 37) - Pj Harvey
 
+24: ( 35) - Slowdive
 
 
 
+25: ( 31) - Weyes Blood
+26: ( 30) - Paramore
 
-24: ( 31) - Weyes Blood
-25: ( 30) - Paramore
-
-26: ( 28) - Orange Juice
-27: ( 28) - The Zephyrs
-28: ( 27) - The Corrs
-29: ( 26) - Simple Minds
-30: ( 25) - Slowdive
+27: ( 28) - Orange Juice
+28: ( 28) - The Zephyrs
+29: ( 27) - The Corrs
+30: ( 26) - Simple Minds
 31: ( 25) - Taylor Swift
 32: ( 24) - The B-52's
 33: ( 23) - Be Your Own Pet
