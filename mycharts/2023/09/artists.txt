@@ -1,7 +1,7 @@
 Specified year (2023), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     179            11            11           108
- 1: (35) - Slowdive
+     204            12            12           117
+ 1: (40) - Slowdive
 
 
 
@@ -10,11 +10,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (26) - Body Type
 
 
- 3: (23) - Be Your Own Pet
- 4: (22) - Eilen Jewell
+ 2: (29) - Be Your Own Pet
+
+ 3: (27) - Eilen Jewell
+ 4: (26) - Body Type
+
+
+
+
 
 
 
@@ -28,7 +33,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  7: (10) - Alaska Reid
  8: (10) - Josh Ritter
- 9: ( 9) - Margo Price
-10: ( 9) - Robert Forster
+ 9: ( 9) - Cut Worms
+10: ( 9) - Margo Price
+11: ( 9) - Robert Forster
 
-11: ( 7) - Lloyd Cole
+12: ( 7) - Lloyd Cole

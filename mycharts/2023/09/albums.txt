@@ -1,7 +1,7 @@
 Specified year (2023), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     179            11            11           108
- 1: (35) - Everything Is Alive - Slowdive
+     204            12            12           117
+ 1: (40) - Everything Is Alive - Slowdive
 
 
 
@@ -10,11 +10,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (26) - Expired Candy - Body Type
 
 
- 3: (23) - Mommy - Be Your Own Pet
- 4: (22) - Get Behind The Wheel - Eilen Jewell
+ 2: (29) - Mommy - Be Your Own Pet
+
+ 3: (27) - Get Behind The Wheel - Eilen Jewell
+ 4: (26) - Expired Candy - Body Type
+
+
+
+
 
 
 
@@ -28,7 +33,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  7: (10) - Disenchanter - Alaska Reid
  8: (10) - Spectral Lines - Josh Ritter
- 9: ( 9) - Strays - Margo Price
-10: ( 9) - The Candle And The Flame - Robert Forster
+ 9: ( 9) - Cut Worms - Cut Worms
+10: ( 9) - Strays - Margo Price
+11: ( 9) - The Candle And The Flame - Robert Forster
 
-11: ( 7) - On Pain - Lloyd Cole
+12: ( 7) - On Pain - Lloyd Cole
