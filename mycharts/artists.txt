@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   66698          1190          1759         11987
+   66716          1190          1759         11987
    1: (2317) - Lloyd Cole
    2: (2042) - David Bowie
    3: (1813) - Bob Dylan
@@ -22,7 +22,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   19: ( 706) - Elvis Costello & the Attractions
   20: ( 699) - Prefab Sprout
   21: ( 689) - The Cure
-  22: ( 669) - Eilen Jewell
+  22: ( 674) - Eilen Jewell
   23: ( 659) - T. Rex
   24: ( 656) - Hem
   25: ( 656) - Scott Walker
@@ -250,9 +250,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  247: (  48) - Artery
  248: (  48) - Brian Eno
  249: (  48) - Tracyanne & Danny
- 250: (  45) - Michael Head & the Red Elastic Band
- 251: (  42) - Inhaler
- 252: (  42) - Slowdive
+ 250: (  46) - Slowdive
+ 251: (  45) - Michael Head & the Red Elastic Band
+ 252: (  42) - Inhaler
  253: (  39) - Weyes Blood
  254: (  38) - Suede
  255: (  37) - Jeff Bridges
@@ -287,76 +287,76 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  284: (  20) - The National
  285: (  19) - Field Music
  286: (  19) - Paul & Linda Mccartney
- 287: (  18) - Michael Stipe
- 288: (  18) - Paul Haig
- 289: (  18) - The Cool Greenhouse
- 290: (  17) - Aswad
- 291: (  17) - Bill Nelson
- 292: (  17) - Brix Smith
- 293: (  17) - Kurt Vile
- 294: (  17) - R.E.M.
- 295: (  17) - The Specials
- 296: (  16) - Patti Smith
- 297: (  16) - The Dream Syndicate
- 298: (  15) - Martin Stephenson, John Perry
- 299: (  15) - The Fire Engines
- 300: (  14) - David Byrne
- 301: (  14) - Fontaines D.c.
- 302: (  14) - Green Gartside
- 303: (  14) - Sparks
- 304: (  14) - William Tyler
- 305: (  13) - David Byrne & St. Vincent
- 306: (  13) - John Cale
- 307: (  13) - Kristin Hersh
- 308: (  13) - Miranda Lambert
- 309: (  13) - Ryan Bingham
- 310: (  13) - Tubeway Army
- 311: (  12) - Belle and Sebastian
- 312: (  12) - Callaghan
- 313: (  12) - Duran Duran
- 314: (  12) - Goldfrapp
- 315: (  12) - Jim Croce
- 316: (  12) - John Foxx
- 317: (  12) - Max Romeo
- 318: (  12) - Myrtle Park's Fishing Club
- 319: (  12) - Nightbus
- 320: (  12) - The Church
- 321: (  12) - The Jimi Hendrix Experience
- 322: (  12) - The Men
- 323: (  11) - Colin Farrell
- 324: (  11) - Dry Cleaning
- 325: (  11) - Elizabeth Cook
- 326: (  11) - Françoise Hardy
- 327: (  11) - Grace Petrie
- 328: (  11) - Guy Clark
- 329: (  11) - Hatchie
- 330: (  11) - Jessica Pratt
- 331: (  11) - Joan Shelley
- 332: (  11) - Laurel Canyon
- 333: (  11) - Matt Berninger
- 334: (  11) - Peel.Rocks Magazine
- 335: (  11) - Rolling Blackouts Coastal Fever
- 336: (  11) - Television
- 337: (  11) - Travis Linville
- 338: (  10) - Cara Luft
- 339: (  10) - Dinah Washington
- 340: (  10) - Easy Star All-stars
- 341: (  10) - Elastica
- 342: (  10) - Gregory Isaacs
- 343: (  10) - Just the Faqs
- 344: (  10) - Kathleen Edwards
- 345: (  10) - Madeleine Peyroux
- 346: (  10) - Martha and the Muffins
- 347: (  10) - Mount Moriah
- 348: (  10) - Nico
- 349: (  10) - Nina Simone
- 350: (  10) - Samantha Crain
- 351: (  10) - The Twilight Sad
- 352: (  10) - Tim Buckley
- 353: (  10) - Wednesday
- 354: (   9) - Big Thief
- 355: (   9) - Bryan Adams
- 356: (   9) - Cut Worms
+ 287: (  18) - Cut Worms
+ 288: (  18) - Michael Stipe
+ 289: (  18) - Paul Haig
+ 290: (  18) - The Cool Greenhouse
+ 291: (  17) - Aswad
+ 292: (  17) - Bill Nelson
+ 293: (  17) - Brix Smith
+ 294: (  17) - Kurt Vile
+ 295: (  17) - R.E.M.
+ 296: (  17) - The Specials
+ 297: (  16) - Patti Smith
+ 298: (  16) - The Dream Syndicate
+ 299: (  15) - Martin Stephenson, John Perry
+ 300: (  15) - The Fire Engines
+ 301: (  14) - David Byrne
+ 302: (  14) - Fontaines D.c.
+ 303: (  14) - Green Gartside
+ 304: (  14) - Sparks
+ 305: (  14) - William Tyler
+ 306: (  13) - David Byrne & St. Vincent
+ 307: (  13) - John Cale
+ 308: (  13) - Kristin Hersh
+ 309: (  13) - Miranda Lambert
+ 310: (  13) - Ryan Bingham
+ 311: (  13) - Tubeway Army
+ 312: (  12) - Belle and Sebastian
+ 313: (  12) - Callaghan
+ 314: (  12) - Duran Duran
+ 315: (  12) - Goldfrapp
+ 316: (  12) - Jim Croce
+ 317: (  12) - John Foxx
+ 318: (  12) - Max Romeo
+ 319: (  12) - Myrtle Park's Fishing Club
+ 320: (  12) - Nightbus
+ 321: (  12) - The Church
+ 322: (  12) - The Jimi Hendrix Experience
+ 323: (  12) - The Men
+ 324: (  11) - Colin Farrell
+ 325: (  11) - Dry Cleaning
+ 326: (  11) - Elizabeth Cook
+ 327: (  11) - Françoise Hardy
+ 328: (  11) - Grace Petrie
+ 329: (  11) - Guy Clark
+ 330: (  11) - Hatchie
+ 331: (  11) - Jessica Pratt
+ 332: (  11) - Joan Shelley
+ 333: (  11) - Laurel Canyon
+ 334: (  11) - Matt Berninger
+ 335: (  11) - Peel.Rocks Magazine
+ 336: (  11) - Rolling Blackouts Coastal Fever
+ 337: (  11) - Television
+ 338: (  11) - Travis Linville
+ 339: (  10) - Cara Luft
+ 340: (  10) - Dinah Washington
+ 341: (  10) - Easy Star All-stars
+ 342: (  10) - Elastica
+ 343: (  10) - Gregory Isaacs
+ 344: (  10) - Just the Faqs
+ 345: (  10) - Kathleen Edwards
+ 346: (  10) - Madeleine Peyroux
+ 347: (  10) - Martha and the Muffins
+ 348: (  10) - Mount Moriah
+ 349: (  10) - Nico
+ 350: (  10) - Nina Simone
+ 351: (  10) - Samantha Crain
+ 352: (  10) - The Twilight Sad
+ 353: (  10) - Tim Buckley
+ 354: (  10) - Wednesday
+ 355: (   9) - Big Thief
+ 356: (   9) - Bryan Adams
  357: (   9) - Daniel Bachman
  358: (   9) - Hawkwind Zoo
  359: (   9) - Ian Dury
