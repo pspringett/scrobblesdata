@@ -1,7 +1,16 @@
 Specified year (2023), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     315            15            15           136
- 1: (53) - Slowdive
+     344            15            15           137
+ 1: (54) - Slowdive
+
+
+
+
+
+
+ 2: (47) - My Bloody Valentine
+
+ 3: (45) - Eilen Jewell
 
 
 
@@ -9,7 +18,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (45) - Eilen Jewell
 
 
 
@@ -18,26 +26,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-
-
-
-
- 3: (29) - Be Your Own Pet
- 4: (29) - My Bloody Valentine
+ 4: (29) - Be Your Own Pet
 
 
  5: (26) - Body Type
+ 6: (25) - Robert Forster
+ 7: (24) - Josh Ritter
 
 
-
-
- 6: (21) - Cut Worms
- 7: (20) - Alaska Reid
- 8: (20) - Josh Ritter
- 9: (20) - Robert Forster
+ 8: (21) - Cut Worms
+ 9: (20) - Alaska Reid
 
 
 
@@ -53,5 +51,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 7) - Lloyd Cole
 
 14: ( 5) - Echo & the Bunnymen
-
-15: ( 3) - Martin Stephenson and the Daintees
+15: ( 4) - Martin Stephenson and the Daintees
