@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   66910          1190          1760         12007
+   66953          1190          1763         12025
    1: (2317) - Lloyd Cole
    2: (2042) - David Bowie
    3: (1813) - Bob Dylan
@@ -16,20 +16,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   13: ( 863) - Laura Marling
   14: ( 850) - Leonard Cohen
   15: ( 770) - Orange Juice
-  16: ( 749) - New Order
-  17: ( 727) - Altered Images
+  16: ( 752) - New Order
+  17: ( 728) - Altered Images
   18: ( 721) - The Beatles
   19: ( 706) - Elvis Costello & the Attractions
-  20: ( 699) - Prefab Sprout
-  21: ( 689) - The Cure
+  20: ( 700) - The Cure
+  21: ( 699) - Prefab Sprout
   22: ( 682) - Eilen Jewell
   23: ( 659) - T. Rex
   24: ( 656) - Hem
   25: ( 656) - Scott Walker
-  26: ( 654) - The Style Council
+  26: ( 655) - The Style Council
   27: ( 650) - Rosanne Cash
   28: ( 647) - The Rolling Stones
-  29: ( 625) - Josh Ritter
+  29: ( 631) - Josh Ritter
   30: ( 622) - Martin Stephenson
   31: ( 601) - Emmylou Harris
   32: ( 595) - Paul Weller
@@ -46,8 +46,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   43: ( 436) - Elvis Costello
   44: ( 423) - Birds of Chicago
   45: ( 412) - Lloyd Cole and the Commotions
-  46: ( 407) - Roddy Frame
-  47: ( 406) - Yazoo
+  46: ( 411) - Yazoo
+  47: ( 407) - Roddy Frame
   48: ( 386) - Eliza Gilkyson
   49: ( 379) - Justin Townes Earle
   50: ( 368) - The Undertones
@@ -57,7 +57,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   54: ( 350) - The Waterboys
   55: ( 330) - Aztec Camera
   56: ( 326) - Amanda Shires
-  57: ( 322) - The Fall
+  57: ( 325) - The Fall
   58: ( 312) - Heaven 17
   59: ( 310) - Gretchen Peters
   60: ( 300) - The Weather Station
@@ -109,15 +109,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  106: ( 144) - Emma Swift
  107: ( 141) - Julia Holter
  108: ( 141) - The Low Anthem
- 109: ( 138) - Hawkwind
- 110: ( 135) - Eyeless in Gaza
- 111: ( 134) - Weekend
- 112: ( 133) - Alison Moyet
- 113: ( 133) - Bob Marley & the Wailers
- 114: ( 133) - Jack Harris
- 115: ( 133) - Rachel Harrington
- 116: ( 130) - Gillian Welch
- 117: ( 129) - Joy Division
+ 109: ( 140) - Weekend
+ 110: ( 138) - Hawkwind
+ 111: ( 135) - Eyeless in Gaza
+ 112: ( 134) - Joy Division
+ 113: ( 133) - Alison Moyet
+ 114: ( 133) - Bob Marley & the Wailers
+ 115: ( 133) - Jack Harris
+ 116: ( 133) - Rachel Harrington
+ 117: ( 130) - Gillian Welch
  118: ( 129) - The Civil Wars
  119: ( 127) - Kacy & Clayton
  120: ( 126) - Wolf Alice
@@ -273,9 +273,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  270: (  26) - That Petrol Emotion
  271: (  25) - Arcade Fire
  272: (  25) - Mike Oldfield
- 273: (  24) - Margo Cilker
- 274: (  24) - Sharon Van Etten
- 275: (  23) - Scritti Politti
+ 273: (  25) - Scritti Politti
+ 274: (  24) - Margo Cilker
+ 275: (  24) - Sharon Van Etten
  276: (  23) - The Associates
  277: (  22) - Curtis Mayfield
  278: (  22) - Darling West
