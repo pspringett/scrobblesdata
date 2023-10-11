@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2459            66            87           764
+    2478            66            87           770
  1: (123) - Lloyd Cole
 
 
@@ -35,11 +35,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 8: ( 89) - Margo Price
 
 
 
 
- 8: ( 85) - Margo Price
 
  9: ( 83) - The Burning Hell
 
@@ -63,12 +63,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 14: ( 64) - Echo & the Bunnymen
 15: ( 63) - Bob Dylan
-16: ( 62) - Slowdive
+16: ( 62) - My Bloody Valentine
+17: ( 62) - Slowdive
 
 
 
 
-17: ( 57) - My Bloody Valentine
+
 
 18: ( 55) - Orchestral Manoeuvres in the Dark
 19: ( 55) - Rod Stewart
@@ -105,15 +106,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 32: ( 26) - Simple Minds
 33: ( 25) - Taylor Swift
 34: ( 24) - The B-52's
-
-35: ( 22) - Curtis Mayfield
-36: ( 22) - Inhaler
-37: ( 22) - Jana Horn
-38: ( 22) - Steve Mason
-39: ( 21) - Cut Worms
-40: ( 21) - Shelby Lynne, Allison Moorer
-41: ( 20) - The National
-42: ( 20) - The Sundays
+35: ( 23) - The Sundays
+36: ( 22) - Curtis Mayfield
+37: ( 22) - Inhaler
+38: ( 22) - Jana Horn
+39: ( 22) - Steve Mason
+40: ( 21) - Cut Worms
+41: ( 21) - Shelby Lynne, Allison Moorer
+42: ( 20) - The National
 43: ( 19) - Love
 44: ( 18) - Duke Garwood
 45: ( 17) - Bill Nelson
@@ -121,18 +121,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 47: ( 16) - The Specials
 
 48: ( 14) - The Style Council
+49: ( 13) - Weekend
+50: ( 12) - Nightbus
+51: ( 11) - Laura Cantrell
+52: ( 11) - Laurel Canyon
+53: ( 11) - Television
+54: ( 11) - The Cure
+55: ( 10) - Wednesday
+56: (  9) - Roxy Music
+57: (  9) - The Rolling Stones
 
-49: ( 12) - Nightbus
-50: ( 11) - Laura Cantrell
-51: ( 11) - Laurel Canyon
-52: ( 11) - Television
-53: ( 11) - The Cure
-54: ( 10) - Wednesday
-55: (  9) - Roxy Music
-56: (  9) - The Rolling Stones
 
 
-57: (  6) - Weekend
 58: (  5) - Joy Division
 59: (  5) - Yazoo
 
