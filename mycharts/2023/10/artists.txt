@@ -1,31 +1,40 @@
 Specified year (2023), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     190            18            21           134
- 1: (24) - Echo & the Bunnymen
- 2: (23) - The Sundays
+     229            19            23           153
+ 1: (32) - The Sundays
+
+
+
+
+
+
+
+ 2: (24) - Echo & the Bunnymen
+
  3: (22) - Inhaler
- 4: (21) - Weekend
+ 4: (22) - The Smiths
+ 5: (21) - Weekend
 
- 5: (19) - My Bloody Valentine
-
-
- 6: (16) - Slowdive
+ 6: (19) - My Bloody Valentine
 
 
+ 7: (16) - Slowdive
 
 
- 7: (11) - The Cure
- 8: (10) - Alaska Reid
- 9: (10) - Cowboy Junkies
 
-10: ( 8) - Margo Price
 
-11: ( 6) - Josh Ritter
-12: ( 5) - Joy Division
-13: ( 5) - Yazoo
+ 8: (11) - New Order
+ 9: (11) - The Cure
+10: (10) - Alaska Reid
+11: (10) - Cowboy Junkies
 
-14: ( 3) - New Order
-15: ( 3) - The Fall
-16: ( 2) - Scritti Politti
-17: ( 1) - Altered Images
-18: ( 1) - The Style Council
+12: ( 8) - Margo Price
+
+13: ( 6) - Josh Ritter
+14: ( 5) - Joy Division
+15: ( 5) - Yazoo
+
+16: ( 3) - The Fall
+17: ( 2) - Scritti Politti
+18: ( 1) - Altered Images
+19: ( 1) - The Style Council

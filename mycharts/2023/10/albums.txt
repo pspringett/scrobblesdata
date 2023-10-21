@@ -1,34 +1,44 @@
 Specified year (2023), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     190            18            21           134
- 1: (24) - Live At The Royal Albert Hall - Echo & the Bunnymen
- 2: (23) * Reading, Writing & Arithmetic - The Sundays
+     229            19            23           153
+ 1: (32) * Reading, Writing & Arithmetic - The Sundays
+
+
+
+
+
+
+
+ 2: (24) - Live At The Royal Albert Hall - Echo & the Bunnymen
+
  3: (22) - Cuts & Bruises - Inhaler
- 4: (21) - La Variete - Weekend
+ 4: (22) - Hatful Of Hollow - The Smiths
+ 5: (21) - La Variete - Weekend
 
- 5: (19) - Loveless - My Bloody Valentine
-
-
- 6: (16) - Everything Is Alive - Slowdive
+ 6: (19) - Loveless - My Bloody Valentine
 
 
+ 7: (16) - Everything Is Alive - Slowdive
 
 
- 7: (11) * Faith - The Cure
- 8: (10) - Disenchanter - Alaska Reid
- 9: (10) - Such Ferocious Beauty - Cowboy Junkies
 
-10: ( 8) - Strays - Margo Price
 
-11: ( 6) - Sermon On The Rocks - Josh Ritter
+ 8: (11) * Faith - The Cure
+ 9: (10) - Disenchanter - Alaska Reid
+10: (10) - Such Ferocious Beauty - Cowboy Junkies
 
-12: ( 4) * Closer - Joy Division
-13: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
-14: ( 3) - Upstairs at Erics - Yazoo
-15: ( 2) - Early - Scritti Politti
-16: ( 2) - Totale's Turns (It's Now Or Never) - The Fall
-17: ( 2) - You And Me Both - Yazoo
-18: ( 1) - Dragnet - The Fall
-19: ( 1) - Introducing The Style Council - The Style Council
-20: ( 1) - The Best Of - Joy Division
-21: ( 1) * The Collection - Altered Images
+11: ( 8) - Strays - Margo Price
+12: ( 8) - Substance - New Order
+
+13: ( 6) - Sermon On The Rocks - Josh Ritter
+
+14: ( 4) * Closer - Joy Division
+15: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
+16: ( 3) - Upstairs at Erics - Yazoo
+17: ( 2) - Early - Scritti Politti
+18: ( 2) - Totale's Turns (It's Now Or Never) - The Fall
+19: ( 2) - You And Me Both - Yazoo
+20: ( 1) - Dragnet - The Fall
+21: ( 1) - Introducing The Style Council - The Style Council
+22: ( 1) - The Best Of - Joy Division
+23: ( 1) * The Collection - Altered Images
