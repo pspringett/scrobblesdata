@@ -1,13 +1,13 @@
 Specified year (2023), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     255            21            27           167
+     255            21            25           167
   1: (6) - Here's Where the Story Ends - The Sundays (Reading, Writing & Arithmetic)
   2: (6) - Skin & Bones - The Sundays (Reading, Writing & Arithmetic)
 
   3: (4) - Can't Be Sure - The Sundays (Reading, Writing & Arithmetic)
   4: (4) - Hideous Towns - The Sundays (Reading, Writing & Arithmetic)
   5: (4) - When You Sleep - My Bloody Valentine (Loveless)
-  6: (3) - Exposed to Some Light - Nightbus (Exposed To Some Light)
+  6: (3) - Exposed to Some Light - Nightbus (Nightbus Singles)
   7: (3) - Loomer - My Bloody Valentine (Loveless)
   8: (3) - You're Not the Only One I Know - The Sundays (Reading, Writing & Arithmetic)
   9: (3) - alife - Slowdive (Everything Is Alive)
@@ -38,7 +38,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  34: (2) - Life in The Day of... (Part 1) - Weekend (La Variete)
  35: (2) - Life in The Day of... (Part 2) - Weekend (La Variete)
  36: (2) - Love Will Get You There - Inhaler (Cuts & Bruises)
- 37: (2) - Mirrors - Nightbus (Mirrors)
+ 37: (2) - Mirrors - Nightbus (Nightbus Singles)
  38: (2) - My Finest Hour - The Sundays (Reading, Writing & Arithmetic)
  39: (2) - Now You Got Me - Inhaler (Cuts & Bruises)
  40: (2) - Ode To Boy - Yazoo (You And Me Both)
@@ -58,7 +58,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  54: (2) - Touched - My Bloody Valentine (Loveless)
  55: (2) - Valentine - Inhaler (Cuts & Bruises)
  56: (2) - Villiers Terrace (live at Royal Albert Hall 1984) - Echo & the Bunnymen (Live At The Royal Albert Hall)
- 57: (2) - Way Past Three - Nightbus (Way Past Three)
+ 57: (2) - Way Past Three - Nightbus (Nightbus Singles)
  58: (2) - Weekend Stroll - Weekend (La Variete)
  59: (2) - What Difference Does It Make? (John Peel session 18/05/83) - The Smiths (Hatful Of Hollow)
  60: (2) - What You Want - My Bloody Valentine (Loveless)
