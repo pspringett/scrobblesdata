@@ -1,6 +1,6 @@
 Specified year (2023), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     229            19            23           153
+     255            21            27           167
  1: (32) * Reading, Writing & Arithmetic - The Sundays
 
 
@@ -9,36 +9,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (24) - Live At The Royal Albert Hall - Echo & the Bunnymen
+ 2: (24) - Everything Is Alive - Slowdive
+ 3: (24) - Live At The Royal Albert Hall - Echo & the Bunnymen
 
- 3: (22) - Cuts & Bruises - Inhaler
- 4: (22) - Hatful Of Hollow - The Smiths
- 5: (21) - La Variete - Weekend
+ 4: (22) - Cuts & Bruises - Inhaler
+ 5: (22) - Hatful Of Hollow - The Smiths
+ 6: (21) - La Variete - Weekend
 
- 6: (19) - Loveless - My Bloody Valentine
+ 7: (19) - Loveless - My Bloody Valentine
 
 
- 7: (16) - Everything Is Alive - Slowdive
+
 
 
 
 
  8: (11) * Faith - The Cure
- 9: (10) - Disenchanter - Alaska Reid
-10: (10) - Such Ferocious Beauty - Cowboy Junkies
+ 9: (11) - Somersault - Beach Fossils
+10: (10) - Disenchanter - Alaska Reid
+11: (10) - Such Ferocious Beauty - Cowboy Junkies
 
-11: ( 8) - Strays - Margo Price
-12: ( 8) - Substance - New Order
+12: ( 8) - Strays - Margo Price
+13: ( 8) - Substance - New Order
 
-13: ( 6) - Sermon On The Rocks - Josh Ritter
+14: ( 6) - Sermon On The Rocks - Josh Ritter
 
-14: ( 4) * Closer - Joy Division
-15: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
-16: ( 3) - Upstairs at Erics - Yazoo
-17: ( 2) - Early - Scritti Politti
-18: ( 2) - Totale's Turns (It's Now Or Never) - The Fall
-19: ( 2) - You And Me Both - Yazoo
-20: ( 1) - Dragnet - The Fall
-21: ( 1) - Introducing The Style Council - The Style Council
-22: ( 1) - The Best Of - Joy Division
-23: ( 1) * The Collection - Altered Images
+15: ( 4) * Closer - Joy Division
+16: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
+17: ( 3) - Exposed To Some Light - Nightbus
+18: ( 3) - Upstairs at Erics - Yazoo
+19: ( 2) - Early - Scritti Politti
+20: ( 2) - Mirrors - Nightbus
+21: ( 2) - Totale's Turns (It's Now Or Never) - The Fall
+22: ( 2) - Way Past Three - Nightbus
+23: ( 2) - You And Me Both - Yazoo
+24: ( 1) - Dragnet - The Fall
+25: ( 1) - Introducing The Style Council - The Style Council
+26: ( 1) - The Best Of - Joy Division
+27: ( 1) * The Collection - Altered Images
