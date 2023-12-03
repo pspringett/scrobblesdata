@@ -1,13 +1,13 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2794            69            95           876
+    2806            69            95           879
  1: (123) - Lloyd Cole
 
+ 2: (121) - Slowdive
 
 
 
 
- 2: (117) - Slowdive
 
  3: (115) - Bob Dylan
 
@@ -46,13 +46,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+12: ( 78) - My Bloody Valentine
 
 
 
-
-12: ( 74) - Bdrmm
-13: ( 74) - Martin Stephenson and the Daintees
-14: ( 74) - My Bloody Valentine
+13: ( 74) - Bdrmm
+14: ( 74) - Martin Stephenson and the Daintees
 
 
 15: ( 71) - Echo & the Bunnymen
@@ -106,11 +105,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 32: ( 28) - Orange Juice
 33: ( 28) - The Smiths
 34: ( 28) - The Zephyrs
-35: ( 27) - The Corrs
-36: ( 26) - Simple Minds
-37: ( 25) - Taylor Swift
-38: ( 24) - The B-52's
-39: ( 23) - Ride
+35: ( 27) - Ride
+36: ( 27) - The Corrs
+37: ( 26) - Simple Minds
+38: ( 25) - Taylor Swift
+39: ( 24) - The B-52's
+
 40: ( 22) - Curtis Mayfield
 41: ( 22) - Inhaler
 42: ( 22) - Jana Horn
