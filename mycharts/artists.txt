@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   67307          1193          1766         12121
+   67358          1193          1767         12135
    1: (2317) - Lloyd Cole
    2: (2042) - David Bowie
    3: (1865) - Bob Dylan
@@ -8,7 +8,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    5: (1144) - Echo & the Bunnymen
    6: (1134) - U2
    7: (1044) - Various
-   8: (1028) - Cocteau Twins
+   8: (1031) - Cocteau Twins
    9: ( 987) - Tift Merritt
   10: ( 961) - Simple Minds
   11: ( 940) - Roxy Music
@@ -93,10 +93,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   90: ( 186) - The Jam
   91: ( 185) - The Beach Boys
   92: ( 180) - Spandau Ballet
-  93: ( 175) - Mary Chapin Carpenter
-  94: ( 171) - JT and the Clouds
-  95: ( 170) - Joni Mitchell
-  96: ( 163) - Weekend
+  93: ( 178) - Weekend
+  94: ( 175) - Mary Chapin Carpenter
+  95: ( 171) - JT and the Clouds
+  96: ( 170) - Joni Mitchell
   97: ( 161) - Blondie
   98: ( 161) - Paul McCartney
   99: ( 159) - Brigid Mae Power
@@ -118,9 +118,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  115: ( 133) - Jack Harris
  116: ( 133) - Rachel Harrington
  117: ( 130) - Gillian Welch
- 118: ( 129) - The Civil Wars
- 119: ( 127) - Kacy & Clayton
- 120: ( 126) - Slowdive
+ 118: ( 129) - Slowdive
+ 119: ( 129) - The Civil Wars
+ 120: ( 127) - Kacy & Clayton
  121: ( 126) - Wolf Alice
  122: ( 124) - Simon & Garfunkel
  123: ( 122) - The Wailin' Jennys
@@ -131,23 +131,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  128: ( 109) - Josef K
  129: ( 108) - Father John Misty
  130: ( 108) - Jarv Is...
- 131: ( 106) - Furniture
- 132: ( 106) - Jim Lauderdale
- 133: ( 106) - Pretenders
- 134: ( 104) - B.E.F.
- 135: ( 104) - Bauhaus
- 136: ( 104) - The Chicks
- 137: ( 103) - First Aid Kit
- 138: ( 103) - Piney Gir
- 139: ( 103) - Ray Davies
- 140: ( 102) - Chatham County Line
- 141: ( 102) - The Burning Hell
- 142: ( 101) - Japan
- 143: ( 100) - Bat for Lashes
- 144: (  98) - Count Basie
- 145: (  98) - Dave Grusin
- 146: (  97) - Cara Dillon
- 147: (  97) - The Sundays
+ 131: ( 107) - The Sundays
+ 132: ( 106) - Furniture
+ 133: ( 106) - Jim Lauderdale
+ 134: ( 106) - Pretenders
+ 135: ( 104) - B.E.F.
+ 136: ( 104) - Bauhaus
+ 137: ( 104) - The Chicks
+ 138: ( 103) - First Aid Kit
+ 139: ( 103) - Piney Gir
+ 140: ( 103) - Ray Davies
+ 141: ( 102) - Chatham County Line
+ 142: ( 102) - The Burning Hell
+ 143: ( 101) - Japan
+ 144: ( 100) - Bat for Lashes
+ 145: (  98) - Count Basie
+ 146: (  98) - Dave Grusin
+ 147: (  97) - Cara Dillon
  148: (  95) - Body Type
  149: (  95) - The Proclaimers
  150: (  94) - The Jesus and Mary Chain
@@ -162,42 +162,42 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  159: (  87) - Shovels & Rope
  160: (  86) - Led Zeppelin
  161: (  86) - Lou Reed
- 162: (  86) - Peter Hammill
- 163: (  84) - Sara Watkins
- 164: (  84) - The Clash
- 165: (  83) - Laura Cantrell
- 166: (  82) - Jean Toussaint
- 167: (  82) - The B-52's
- 168: (  80) - Focus
- 169: (  80) - Marc Bolan
- 170: (  80) - Nick Cave & the Bad Seeds
- 171: (  80) - The Human League
- 172: (  80) - Tom Tom Club
- 173: (  79) - Brian Eno & David Byrne
- 174: (  79) - My Bloody Valentine
- 175: (  78) - Beabadoobee
- 176: (  78) - H.C. Mcentire
- 177: (  77) - Mark Knopfler and Emmylou Harris
- 178: (  77) - Mindy Smith
- 179: (  77) - Young Marble Giants
- 180: (  76) - Anne Mccue
- 181: (  75) - Johnny Marr
- 182: (  75) - Laura Veirs
- 183: (  75) - Van Morrison
- 184: (  74) - Bdrmm
- 185: (  74) - Rod Picott
- 186: (  74) - Rod Picott and Amanda Shires
- 187: (  74) - Ryan Adams
- 188: (  74) - Steely Dan
- 189: (  73) - Everything But the Girl
- 190: (  73) - London Grammar
- 191: (  73) - Tower of Song
- 192: (  72) - Electric Light Orchestra
- 193: (  72) - Natalie Prass
- 194: (  71) - Colvin & Earle
- 195: (  71) - Dire Straits
- 196: (  71) - Stevie Parker
- 197: (  71) - The Bluebells
+ 162: (  86) - My Bloody Valentine
+ 163: (  86) - Peter Hammill
+ 164: (  84) - Sara Watkins
+ 165: (  84) - The Bluebells
+ 166: (  84) - The Clash
+ 167: (  83) - Laura Cantrell
+ 168: (  82) - Jean Toussaint
+ 169: (  82) - The B-52's
+ 170: (  80) - Focus
+ 171: (  80) - Marc Bolan
+ 172: (  80) - Nick Cave & the Bad Seeds
+ 173: (  80) - The Human League
+ 174: (  80) - Tom Tom Club
+ 175: (  79) - Brian Eno & David Byrne
+ 176: (  78) - Beabadoobee
+ 177: (  78) - H.C. Mcentire
+ 178: (  77) - Mark Knopfler and Emmylou Harris
+ 179: (  77) - Mindy Smith
+ 180: (  77) - Young Marble Giants
+ 181: (  76) - Anne Mccue
+ 182: (  75) - Johnny Marr
+ 183: (  75) - Laura Veirs
+ 184: (  75) - Van Morrison
+ 185: (  74) - Bdrmm
+ 186: (  74) - Rod Picott
+ 187: (  74) - Rod Picott and Amanda Shires
+ 188: (  74) - Ryan Adams
+ 189: (  74) - Steely Dan
+ 190: (  73) - Everything But the Girl
+ 191: (  73) - London Grammar
+ 192: (  73) - Tower of Song
+ 193: (  72) - Electric Light Orchestra
+ 194: (  72) - Natalie Prass
+ 195: (  71) - Colvin & Earle
+ 196: (  71) - Dire Straits
+ 197: (  71) - Stevie Parker
  198: (  70) - Alaska Reid
  199: (  70) - Kraftwerk
  200: (  69) - Courtney Barnett

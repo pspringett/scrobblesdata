@@ -1,7 +1,10 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2813            69            95           880
- 1: (124) - Slowdive
+    2864            70            97           898
+ 1: (127) - Slowdive
+
+
+
  2: (123) - Lloyd Cole
 
 
@@ -40,23 +43,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-11: ( 83) - The Burning Hell
-
-
-
-
-12: ( 78) - My Bloody Valentine
+11: ( 85) - My Bloody Valentine
+12: ( 84) - The Bluebells
+13: ( 83) - The Burning Hell
 
 
 
-13: ( 74) - Bdrmm
-14: ( 74) - Martin Stephenson and the Daintees
 
 
-15: ( 71) - Echo & the Bunnymen
-16: ( 71) - The Bluebells
+
+
+
+14: ( 74) - Bdrmm
+15: ( 74) - Martin Stephenson and the Daintees
+
+
+16: ( 71) - Echo & the Bunnymen
 17: ( 70) - Alaska Reid
 18: ( 70) - Eilen Jewell
 
@@ -86,24 +88,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 22: ( 44) - Beach Fossils
+23: ( 44) - Weekend
 
-23: ( 42) - David Bowie
-24: ( 42) - Jason Isbell and the 400 Unit
-
-
-
-25: ( 38) - Suede
-26: ( 37) - Pj Harvey
+24: ( 42) - David Bowie
+25: ( 42) - Jason Isbell and the 400 Unit
+26: ( 42) - The Sundays
 
 
 
+27: ( 38) - Suede
+28: ( 37) - Pj Harvey
 
-27: ( 32) - The Sundays
-28: ( 31) - Ride
-29: ( 31) - Weyes Blood
-30: ( 30) - Paramore
-31: ( 29) - Be Your Own Pet
-32: ( 29) - Weekend
+
+
+
+
+29: ( 31) - Ride
+30: ( 31) - Weyes Blood
+31: ( 30) - Paramore
+32: ( 29) - Be Your Own Pet
 33: ( 28) - Orange Juice
 34: ( 28) - The Smiths
 35: ( 28) - The Zephyrs
@@ -143,8 +146,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 63: (  5) - Joy Division
 64: (  5) - Yazoo
 
-65: (  3) - Elvis Costello & the Attractions
-66: (  3) - The Fall
-67: (  2) - Emma Tricca
-68: (  2) - Martin Stephenson
-69: (  2) - Scritti Politti
+65: (  3) - Cocteau Twins
+66: (  3) - Elvis Costello & the Attractions
+67: (  3) - The Fall
+68: (  2) - Emma Tricca
+69: (  2) - Martin Stephenson
+70: (  2) - Scritti Politti
