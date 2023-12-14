@@ -1,6 +1,6 @@
 Specified year (2023), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     132            12            12           107
+     155            14            14           128
  1: (20) - David Bowie
 
 
@@ -11,16 +11,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  4: (13) - The Bluebells
  5: (12) - Ride
-
- 6: (10) - Cowboy Junkies
- 7: (10) - Josh Ritter
- 8: (10) - Robert Forster
- 9: (10) - Slowdive
-10: (10) - The Sundays
-
-
-
+ 6: (12) - The Burning Hell
+ 7: (11) - Margo Price
+ 8: (10) - Cowboy Junkies
+ 9: (10) - Josh Ritter
+10: (10) - Robert Forster
+11: (10) - Slowdive
+12: (10) - The Sundays
 
 
-11: ( 4) - New Order
-12: ( 3) - Cocteau Twins
+
+
+
+13: ( 4) - New Order
+14: ( 3) - Cocteau Twins
