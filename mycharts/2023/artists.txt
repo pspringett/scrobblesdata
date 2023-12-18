@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2949            70            98           911
+    2975            71           100           929
  1: (135) - Slowdive
 
 
@@ -57,6 +57,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 12: ( 85) - My Bloody Valentine
 13: ( 84) - The Bluebells
 
+14: ( 82) - Bdrmm
 
 
 
@@ -64,8 +65,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-14: ( 74) - Bdrmm
 15: ( 74) - Martin Stephenson and the Daintees
 
 
@@ -109,19 +108,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 27: ( 38) - Suede
 28: ( 37) - Pj Harvey
 
+29: ( 35) - Simple Minds
 
 
 
+30: ( 31) - Ride
+31: ( 31) - Weyes Blood
+32: ( 30) - Paramore
+33: ( 29) - Be Your Own Pet
+34: ( 28) - Orange Juice
+35: ( 28) - The Smiths
+36: ( 28) - The Zephyrs
+37: ( 27) - The Corrs
 
-29: ( 31) - Ride
-30: ( 31) - Weyes Blood
-31: ( 30) - Paramore
-32: ( 29) - Be Your Own Pet
-33: ( 28) - Orange Juice
-34: ( 28) - The Smiths
-35: ( 28) - The Zephyrs
-36: ( 27) - The Corrs
-37: ( 26) - Simple Minds
 38: ( 25) - Taylor Swift
 39: ( 24) - The B-52's
 
@@ -148,17 +147,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 58: ( 11) - Laurel Canyon
 59: ( 11) - Television
 60: ( 10) - Wednesday
-61: (  9) - Roxy Music
-62: (  9) - The Rolling Stones
+61: (  9) - Brian Eno & David Byrne
+62: (  9) - Roxy Music
+63: (  9) - The Rolling Stones
 
 
 
-63: (  5) - Joy Division
-64: (  5) - Yazoo
+64: (  5) - Joy Division
+65: (  5) - Yazoo
 
-65: (  3) - Cocteau Twins
-66: (  3) - Elvis Costello & the Attractions
-67: (  3) - The Fall
-68: (  2) - Emma Tricca
-69: (  2) - Martin Stephenson
-70: (  2) - Scritti Politti
+66: (  3) - Cocteau Twins
+67: (  3) - Elvis Costello & the Attractions
+68: (  3) - The Fall
+69: (  2) - Emma Tricca
+70: (  2) - Martin Stephenson
+71: (  2) - Scritti Politti
