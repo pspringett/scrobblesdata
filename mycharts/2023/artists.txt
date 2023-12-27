@@ -1,7 +1,19 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2975            71           100           929
- 1: (135) - Slowdive
+    3075            76           106           983
+ 1: (147) - Slowdive
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -19,13 +31,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 4: (118) - Josh Ritter
 
 
+ 5: (115) - Bob Dylan
 
- 4: (115) - Bob Dylan
 
-
- 5: (112) - Josh Ritter
  6: (112) - U2
 
  7: (110) - Altered Images
@@ -75,40 +86,40 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+19: ( 65) - The Sundays
 
 
-
-19: ( 62) - David Bowie
-
-
-
-
-
-
-20: ( 55) - Orchestral Manoeuvres in the Dark
-21: ( 55) - Rod Stewart
+20: ( 62) - David Bowie
 
 
 
 
 
-22: ( 49) - A Certain Ratio
+
+21: ( 55) - Orchestral Manoeuvres in the Dark
+22: ( 55) - Rod Stewart
+23: ( 55) - Simple Minds
 
 
 
 
-23: ( 44) - Beach Fossils
-24: ( 44) - Weekend
 
-25: ( 42) - Jason Isbell and the 400 Unit
-26: ( 42) - The Sundays
+24: ( 49) - A Certain Ratio
 
 
 
-27: ( 38) - Suede
-28: ( 37) - Pj Harvey
 
-29: ( 35) - Simple Minds
+25: ( 44) - Beach Fossils
+26: ( 44) - Weekend
+
+27: ( 42) - Jason Isbell and the 400 Unit
+
+
+
+28: ( 38) - Suede
+29: ( 37) - Pj Harvey
+
+
 
 
 
@@ -139,26 +150,29 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 52: ( 17) - Bill Nelson
 53: ( 17) - Brix Smith
 54: ( 16) - The Specials
-55: ( 15) - The Cure
-56: ( 14) - The Style Council
+55: ( 16) - Yazoo
+56: ( 15) - The Cure
+57: ( 14) - The Style Council
 
 
-57: ( 11) - Laura Cantrell
-58: ( 11) - Laurel Canyon
-59: ( 11) - Television
-60: ( 10) - Wednesday
-61: (  9) - Brian Eno & David Byrne
-62: (  9) - Roxy Music
-63: (  9) - The Rolling Stones
+58: ( 11) - ABC
+59: ( 11) - Laura Cantrell
+60: ( 11) - Laurel Canyon
+61: ( 11) - Television
+62: ( 10) - Wednesday
+63: (  9) - Brian Eno & David Byrne
+64: (  9) - Roxy Music
+65: (  9) - The Rolling Stones
+66: (  8) - Edwyn Collins
+67: (  7) - Scott Walker
 
+68: (  5) - Joy Division
 
-
-64: (  5) - Joy Division
-65: (  5) - Yazoo
-
-66: (  3) - Cocteau Twins
-67: (  3) - Elvis Costello & the Attractions
-68: (  3) - The Fall
-69: (  2) - Emma Tricca
-70: (  2) - Martin Stephenson
-71: (  2) - Scritti Politti
+69: (  3) - Cocteau Twins
+70: (  3) - Elvis Costello & the Attractions
+71: (  3) - The Fall
+72: (  2) - Emma Tricca
+73: (  2) - Martin Stephenson
+74: (  2) - Scritti Politti
+75: (  1) - Nick Lowe
+76: (  1) - Simple Minds, Kt Tunstall

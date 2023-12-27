@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   67469          1193          1767         12143
+   67569          1194          1768         12149
    1: (2317) - Lloyd Cole
    2: (2062) - David Bowie
    3: (1865) - Bob Dylan
@@ -9,8 +9,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    6: (1134) - U2
    7: (1044) - Various
    8: (1031) - Cocteau Twins
-   9: ( 987) - Tift Merritt
-  10: ( 970) - Simple Minds
+   9: ( 990) - Simple Minds
+  10: ( 987) - Tift Merritt
   11: ( 940) - Roxy Music
   12: ( 915) - Cowboy Junkies
   13: ( 863) - Laura Marling
@@ -23,18 +23,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   20: ( 704) - The Cure
   21: ( 699) - Prefab Sprout
   22: ( 682) - Eilen Jewell
-  23: ( 659) - T. Rex
-  24: ( 656) - Hem
-  25: ( 656) - Scott Walker
+  23: ( 663) - Scott Walker
+  24: ( 659) - T. Rex
+  25: ( 656) - Hem
   26: ( 655) - The Style Council
   27: ( 650) - Rosanne Cash
-  28: ( 647) - The Rolling Stones
-  29: ( 641) - Josh Ritter
+  28: ( 647) - Josh Ritter
+  29: ( 647) - The Rolling Stones
   30: ( 622) - Martin Stephenson
   31: ( 601) - Emmylou Harris
   32: ( 595) - Paul Weller
   33: ( 576) - The Velvet Underground
-  34: ( 564) - Edwyn Collins
+  34: ( 572) - Edwyn Collins
   35: ( 535) - Martin Stephenson and the Daintees
   36: ( 535) - Nick Heyward
   37: ( 535) - Rodney Crowell
@@ -45,14 +45,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   42: ( 442) - The Redlands Palomino Company
   43: ( 436) - Elvis Costello
   44: ( 423) - Birds of Chicago
-  45: ( 412) - Lloyd Cole and the Commotions
-  46: ( 411) - Yazoo
+  45: ( 422) - Yazoo
+  46: ( 412) - Lloyd Cole and the Commotions
   47: ( 407) - Roddy Frame
   48: ( 386) - Eliza Gilkyson
   49: ( 379) - Justin Townes Earle
-  50: ( 368) - The Undertones
-  51: ( 367) - Rod Stewart
-  52: ( 359) - ABC
+  50: ( 370) - ABC
+  51: ( 368) - The Undertones
+  52: ( 367) - Rod Stewart
   53: ( 357) - Hayes Carll
   54: ( 350) - The Waterboys
   55: ( 330) - Aztec Camera
@@ -102,16 +102,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   99: ( 159) - Brigid Mae Power
  100: ( 156) - Amy LaVere
  101: ( 155) - Chip Taylor & Carrie Rodriguez
- 102: ( 147) - JT Nero
- 103: ( 147) - Lizanne Knott
- 104: ( 146) - Jason Isbell and the 400 Unit
- 105: ( 146) - The Pale Fountains
- 106: ( 145) - Freakwater
- 107: ( 144) - Emma Swift
- 108: ( 141) - Julia Holter
- 109: ( 141) - The Low Anthem
- 110: ( 138) - Hawkwind
- 111: ( 137) - Slowdive
+ 102: ( 149) - Slowdive
+ 103: ( 147) - JT Nero
+ 104: ( 147) - Lizanne Knott
+ 105: ( 146) - Jason Isbell and the 400 Unit
+ 106: ( 146) - The Pale Fountains
+ 107: ( 145) - Freakwater
+ 108: ( 144) - Emma Swift
+ 109: ( 141) - Julia Holter
+ 110: ( 141) - The Low Anthem
+ 111: ( 138) - Hawkwind
  112: ( 135) - Eyeless in Gaza
  113: ( 134) - Joy Division
  114: ( 133) - Alison Moyet
@@ -119,20 +119,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  116: ( 133) - Jack Harris
  117: ( 133) - Rachel Harrington
  118: ( 130) - Gillian Welch
- 119: ( 129) - The Civil Wars
- 120: ( 127) - Kacy & Clayton
- 121: ( 126) - Wolf Alice
- 122: ( 124) - Simon & Garfunkel
- 123: ( 122) - The Wailin' Jennys
- 124: ( 119) - Fleetwood Mac
- 125: ( 119) - The Mighty Wah!
- 126: ( 114) - Haim
- 127: ( 114) - The Burning Hell
- 128: ( 113) - Hackensaw Boys
- 129: ( 109) - Josef K
- 130: ( 108) - Father John Misty
- 131: ( 108) - Jarv Is...
- 132: ( 107) - The Sundays
+ 119: ( 130) - The Sundays
+ 120: ( 129) - The Civil Wars
+ 121: ( 127) - Kacy & Clayton
+ 122: ( 126) - Wolf Alice
+ 123: ( 124) - Simon & Garfunkel
+ 124: ( 122) - The Wailin' Jennys
+ 125: ( 119) - Fleetwood Mac
+ 126: ( 119) - The Mighty Wah!
+ 127: ( 114) - Haim
+ 128: ( 114) - The Burning Hell
+ 129: ( 113) - Hackensaw Boys
+ 130: ( 109) - Josef K
+ 131: ( 108) - Father John Misty
+ 132: ( 108) - Jarv Is...
  133: ( 106) - Furniture
  134: ( 106) - Jim Lauderdale
  135: ( 106) - Pretenders
@@ -841,241 +841,241 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  838: (   2) - Nadia Reid
  839: (   2) - Nena
  840: (   2) - Nick Cave
- 841: (   2) - Nicolas Godin
- 842: (   2) - Olivia Chaney
- 843: (   2) - Ooioo
- 844: (   2) - Peaches
- 845: (   2) - Porridge Radio
- 846: (   2) - Red Crayola
- 847: (   2) - Rex Garvin & the Mighty Cravers
- 848: (   2) - Rhyton
- 849: (   2) - Rick Astley
- 850: (   2) - Roky Erickson
- 851: (   2) - Sam Fender
- 852: (   2) - Sam Smith
- 853: (   2) - Sanja Ilić & Balkanika
- 854: (   2) - Sevak Khanagyan
- 855: (   2) - Shakey Graves
- 856: (   2) - Sheryl Crow
- 857: (   2) - Shin Joong Hyun & the Men
- 858: (   2) - Sia
- 859: (   2) - Sky News
- 860: (   2) - Sleater-Kinney
- 861: (   2) - Songhoy Blues
- 862: (   2) - Squirrel Flower
- 863: (   2) - Status Quo
- 864: (   2) - Steve Winwood
- 865: (   2) - Steve Wynn
- 866: (   2) - Supreme Jubilees
- 867: (   2) - Tamikrest
- 868: (   2) - The Action
- 869: (   2) - The Afghan Whigs
- 870: (   2) - The Association
- 871: (   2) - The Black Keys
- 872: (   2) - The Feelies
- 873: (   2) - The Hippy Boys
- 874: (   2) - The Housemartins
- 875: (   2) - The J. Geils Band
- 876: (   2) - The Masses Carnaby St. John Co
- 877: (   2) - The Mellstock Band
- 878: (   2) - The Melodians
- 879: (   2) - The Moving Sidewalks
- 880: (   2) - The Psychedelic Furs
- 881: (   2) - The Red Krayola
- 882: (   2) - The Searchers
- 883: (   2) - The Shadows of Knight
- 884: (   2) - The Spencer Davis Group
- 885: (   2) - The Stranglers
- 886: (   2) - The Sugarcubes
- 887: (   2) - The Third Bardo
- 888: (   2) - The War on Drugs
- 889: (   2) - The Weather Prophets
- 890: (   2) - The Wedding Present
- 891: (   2) - The Yardbirds
- 892: (   2) - They Might Be Giants
- 893: (   2) - This Mortal Coil
- 894: (   2) - Tin Machine
- 895: (   2) - Tom Baird
- 896: (   2) - Twinkle Brothers
- 897: (   2) - U.S. Girls
- 898: (   2) - Val Bennett
- 899: (   2) - Vanja Radovanović
- 900: (   2) - Waxahatchee
- 901: (   2) - Waylon
- 902: (   2) - Wizzard
- 903: (   2) - World Party
- 904: (   2) - Yin Yin
- 905: (   2) - Yoko Ono
- 906: (   2) - Yonder Mountain String Band
- 907: (   2) - Yorkston/Thorne/Khan
- 908: (   2) - Yuno
- 909: (   1) - A-Ha
- 910: (   1) - Aaron Weinstein
- 911: (   1) - Afel Bocoum
- 912: (   1) - Al Barry & the Aces
- 913: (   1) - Ananda Shankar
- 914: (   1) - Andrew Bird, Lucius
- 915: (   1) - Angel Olsen
- 916: (   1) - Annetta Jackson
- 917: (   1) - Anonymously Yours
- 918: (   1) - Ansel Collins
- 919: (   1) - Aoife O'Donovan
- 920: (   1) - Augustus Pablo
- 921: (   1) - Austin Faithful
- 922: (   1) - B.A. Robertson
- 923: (   1) - Bandsplain
- 924: (   1) - Barna Howard
- 925: (   1) - Barry & the Affections
- 926: (   1) - Bastille
- 927: (   1) - Bay City Rollers
- 928: (   1) - Bbc
- 929: (   1) - Beach House
- 930: (   1) - Benjamin Ingrosso
- 931: (   1) - Big Brother & the Holding Company
- 932: (   1) - Big Youth
- 933: (   1) - Billy Dyce
- 934: (   1) - Billy Idol
- 935: (   1) - Billy Ocean
- 936: (   1) - Bingy Bunny
- 937: (   1) - Blooms & Barnacles
- 938: (   1) - Bob Andy
- 939: (   1) - Bonnie Tyler
- 940: (   1) - Booker T. & the Mg's
- 941: (   1) - Books and Authors
- 942: (   1) - Boris Gardiner
- 943: (   1) - Boy Friday
- 944: (   1) - Brenda Lee
- 945: (   1) - Brent Dowe
- 946: (   1) - Brotherhood of Man
- 947: (   1) - Carlton Brown
- 948: (   1) - Cbc Music
- 949: (   1) - Chris Rea
- 950: (   1) - Christabelle
- 951: (   1) - Christian D. Berg
- 952: (   1) - Clan of Xymox
- 953: (   1) - Cliff Richard
- 954: (   1) - Corinne West
- 955: (   1) - Courtney Marie Andrews
- 956: (   1) - Cowboy Junkiese
- 957: (   1) - Cristina
- 958: (   1) - Culture Club
- 959: (   1) - Dana
- 960: (   1) - Dandy
- 961: (   1) - Dandy Livingstone
- 962: (   1) - Daniel Blumberg
- 963: (   1) - Dave & Ansel Collins
- 964: (   1) - Dave Brubeck
- 965: (   1) - Dead Or Alive
- 966: (   1) - Deerhunter
- 967: (   1) - Delacey
- 968: (   1) - Delroy Wilson
- 969: (   1) - Depeche Mode
- 970: (   1) - Derek and the Dominos
- 971: (   1) - Desmond Dekker
- 972: (   1) - Destroyer
- 973: (   1) - Dice the Boss
- 974: (   1) - Die Nerven
- 975: (   1) - Dinosaur Jr.
- 976: (   1) - Dixie Chicks
- 977: (   1) - Doctor Who
- 978: (   1) - Dollybono
- 979: (   1) - Don Drummond & the Skatalites
- 980: (   1) - Dusty Springfield
- 981: (   1) - East 17
- 982: (   1) - Eddie & the Hot Rods
- 983: (   1) - Eleanor Friedberger
- 984: (   1) - Eliza Gilkyson, Darryl Purpose
- 985: (   1) - Elvis Presley
- 986: (   1) - Elysian Fields
- 987: (   1) - Emily Haines
- 988: (   1) - Ermal Meta & Fabrizio Moro
- 989: (   1) - Ethno - Jazz Band Iriao
- 990: (   1) - Eugent Bushpepa
- 991: (   1) - Eurythmics
- 992: (   1) - Exclusivevids1000
- 993: (   1) - Eye Cue
- 994: (   1) - Facs
- 995: (   1) - Feist
- 996: (   1) - Fiona Apple
- 997: (   1) - Flick Wilson
- 998: (   1) - Foster the People
- 999: (   1) - Franka
-1000: (   1) - Fraser A. Gorman
-1001: (   1) - Gas
-1002: (   1) - Gavin Friday
-1003: (   1) - Gene Rondo
-1004: (   1) - George McCrae
-1005: (   1) - Glen Hansard
-1006: (   1) - Greyhound
-1007: (   1) - Harry Allen
-1008: (   1) - Harry J Allstars
-1009: (   1) - Hazel O'connor
-1010: (   1) - Hot Rod All Stars
-1011: (   1) - Houndmouth
-1012: (   1) - Howard Jones
-1013: (   1) - Hubert Lee
-1014: (   1) - Hugh Hendricks & the Buccaneers
-1015: (   1) - Human League
-1016: (   1) - Ian Dury and the Blockheads
-1017: (   1) - Ian Shaw
-1018: (   1) - Ike Bennett
-1019: (   1) - Imagination
-1020: (   1) - Inshreds66
-1021: (   1) - Inxs
-1022: (   1) - Jack Johnson
-1023: (   1) - Jack Jones
-1024: (   1) - Jackie Edwards
-1025: (   1) - Jah Lloyd
-1026: (   1) - Jamestown Revival
-1027: (   1) - Jazzateers
-1028: (   1) - Jcpenney
-1029: (   1) - Jean-Michel Blais
-1030: (   1) - Jeff Tweedy
-1031: (   1) - Jess Williamson
-1032: (   1) - Jessika
-1033: (   1) - Jimmy Dale Gilmore
-1034: (   1) - Joe White
-1035: (   1) - John Cameron Mitchell
-1036: (   1) - John Denver
-1037: (   1) - John Fullbright
-1038: (   1) - John Kongos
-1039: (   1) - Johnny Marks
-1040: (   1) - Jon Hassel
-1041: (   1) - Julie Byrne
-1042: (   1) - Keith & Tex
-1043: (   1) - Kesha
-1044: (   1) - Kevin Morby
-1045: (   1) - Kim Carnes
-1046: (   1) - Lee "Scratch" Perry
-1047: (   1) - Lee Marvin
-1048: (   1) - Lee Ranaldo
-1049: (   1) - Lester Sterling
-1050: (   1) - Lisa Stansfield
-1051: (   1) - Literal Cry Laughing After Greg Davies' Awful Impression
-1052: (   1) - Lloyd Charmers
-1053: (   1) - Los Lobos
-1054: (   1) - Louisa Mark
-1055: (   1) - Lump
-1056: (   1) - Madame Monsieur
-1057: (   1) - Marcia Aitken
-1058: (   1) - Marcia Griffiths
-1059: (   1) - Marvin Gaye
-1060: (   1) - Mary Gauthier
-1061: (   1) - Mary Lee's Corvette
-1062: (   1) - Mason Jennings
-1063: (   1) - Melodies Echo Chamber
-1064: (   1) - Melovin
-1065: (   1) - Michael Schulte
-1066: (   1) - Mikolas Josef
-1067: (   1) - Mira Billotte
-1068: (   1) - Moaning
-1069: (   1) - Mouse on Mars
-1070: (   1) - Nacho Video
-1071: (   1) - Nancy Sinatra, Lee Hazlewood
-1072: (   1) - Nancy Wilson
-1073: (   1) - Native Hipsters
-1074: (   1) - Netta
-1075: (   1) - Nick Lowe
+ 841: (   2) - Nick Lowe
+ 842: (   2) - Nicolas Godin
+ 843: (   2) - Olivia Chaney
+ 844: (   2) - Ooioo
+ 845: (   2) - Peaches
+ 846: (   2) - Porridge Radio
+ 847: (   2) - Red Crayola
+ 848: (   2) - Rex Garvin & the Mighty Cravers
+ 849: (   2) - Rhyton
+ 850: (   2) - Rick Astley
+ 851: (   2) - Roky Erickson
+ 852: (   2) - Sam Fender
+ 853: (   2) - Sam Smith
+ 854: (   2) - Sanja Ilić & Balkanika
+ 855: (   2) - Sevak Khanagyan
+ 856: (   2) - Shakey Graves
+ 857: (   2) - Sheryl Crow
+ 858: (   2) - Shin Joong Hyun & the Men
+ 859: (   2) - Sia
+ 860: (   2) - Sky News
+ 861: (   2) - Sleater-Kinney
+ 862: (   2) - Songhoy Blues
+ 863: (   2) - Squirrel Flower
+ 864: (   2) - Status Quo
+ 865: (   2) - Steve Winwood
+ 866: (   2) - Steve Wynn
+ 867: (   2) - Supreme Jubilees
+ 868: (   2) - Tamikrest
+ 869: (   2) - The Action
+ 870: (   2) - The Afghan Whigs
+ 871: (   2) - The Association
+ 872: (   2) - The Black Keys
+ 873: (   2) - The Feelies
+ 874: (   2) - The Hippy Boys
+ 875: (   2) - The Housemartins
+ 876: (   2) - The J. Geils Band
+ 877: (   2) - The Masses Carnaby St. John Co
+ 878: (   2) - The Mellstock Band
+ 879: (   2) - The Melodians
+ 880: (   2) - The Moving Sidewalks
+ 881: (   2) - The Psychedelic Furs
+ 882: (   2) - The Red Krayola
+ 883: (   2) - The Searchers
+ 884: (   2) - The Shadows of Knight
+ 885: (   2) - The Spencer Davis Group
+ 886: (   2) - The Stranglers
+ 887: (   2) - The Sugarcubes
+ 888: (   2) - The Third Bardo
+ 889: (   2) - The War on Drugs
+ 890: (   2) - The Weather Prophets
+ 891: (   2) - The Wedding Present
+ 892: (   2) - The Yardbirds
+ 893: (   2) - They Might Be Giants
+ 894: (   2) - This Mortal Coil
+ 895: (   2) - Tin Machine
+ 896: (   2) - Tom Baird
+ 897: (   2) - Twinkle Brothers
+ 898: (   2) - U.S. Girls
+ 899: (   2) - Val Bennett
+ 900: (   2) - Vanja Radovanović
+ 901: (   2) - Waxahatchee
+ 902: (   2) - Waylon
+ 903: (   2) - Wizzard
+ 904: (   2) - World Party
+ 905: (   2) - Yin Yin
+ 906: (   2) - Yoko Ono
+ 907: (   2) - Yonder Mountain String Band
+ 908: (   2) - Yorkston/Thorne/Khan
+ 909: (   2) - Yuno
+ 910: (   1) - A-Ha
+ 911: (   1) - Aaron Weinstein
+ 912: (   1) - Afel Bocoum
+ 913: (   1) - Al Barry & the Aces
+ 914: (   1) - Ananda Shankar
+ 915: (   1) - Andrew Bird, Lucius
+ 916: (   1) - Angel Olsen
+ 917: (   1) - Annetta Jackson
+ 918: (   1) - Anonymously Yours
+ 919: (   1) - Ansel Collins
+ 920: (   1) - Aoife O'Donovan
+ 921: (   1) - Augustus Pablo
+ 922: (   1) - Austin Faithful
+ 923: (   1) - B.A. Robertson
+ 924: (   1) - Bandsplain
+ 925: (   1) - Barna Howard
+ 926: (   1) - Barry & the Affections
+ 927: (   1) - Bastille
+ 928: (   1) - Bay City Rollers
+ 929: (   1) - Bbc
+ 930: (   1) - Beach House
+ 931: (   1) - Benjamin Ingrosso
+ 932: (   1) - Big Brother & the Holding Company
+ 933: (   1) - Big Youth
+ 934: (   1) - Billy Dyce
+ 935: (   1) - Billy Idol
+ 936: (   1) - Billy Ocean
+ 937: (   1) - Bingy Bunny
+ 938: (   1) - Blooms & Barnacles
+ 939: (   1) - Bob Andy
+ 940: (   1) - Bonnie Tyler
+ 941: (   1) - Booker T. & the Mg's
+ 942: (   1) - Books and Authors
+ 943: (   1) - Boris Gardiner
+ 944: (   1) - Boy Friday
+ 945: (   1) - Brenda Lee
+ 946: (   1) - Brent Dowe
+ 947: (   1) - Brotherhood of Man
+ 948: (   1) - Carlton Brown
+ 949: (   1) - Cbc Music
+ 950: (   1) - Chris Rea
+ 951: (   1) - Christabelle
+ 952: (   1) - Christian D. Berg
+ 953: (   1) - Clan of Xymox
+ 954: (   1) - Cliff Richard
+ 955: (   1) - Corinne West
+ 956: (   1) - Courtney Marie Andrews
+ 957: (   1) - Cowboy Junkiese
+ 958: (   1) - Cristina
+ 959: (   1) - Culture Club
+ 960: (   1) - Dana
+ 961: (   1) - Dandy
+ 962: (   1) - Dandy Livingstone
+ 963: (   1) - Daniel Blumberg
+ 964: (   1) - Dave & Ansel Collins
+ 965: (   1) - Dave Brubeck
+ 966: (   1) - Dead Or Alive
+ 967: (   1) - Deerhunter
+ 968: (   1) - Delacey
+ 969: (   1) - Delroy Wilson
+ 970: (   1) - Depeche Mode
+ 971: (   1) - Derek and the Dominos
+ 972: (   1) - Desmond Dekker
+ 973: (   1) - Destroyer
+ 974: (   1) - Dice the Boss
+ 975: (   1) - Die Nerven
+ 976: (   1) - Dinosaur Jr.
+ 977: (   1) - Dixie Chicks
+ 978: (   1) - Doctor Who
+ 979: (   1) - Dollybono
+ 980: (   1) - Don Drummond & the Skatalites
+ 981: (   1) - Dusty Springfield
+ 982: (   1) - East 17
+ 983: (   1) - Eddie & the Hot Rods
+ 984: (   1) - Eleanor Friedberger
+ 985: (   1) - Eliza Gilkyson, Darryl Purpose
+ 986: (   1) - Elvis Presley
+ 987: (   1) - Elysian Fields
+ 988: (   1) - Emily Haines
+ 989: (   1) - Ermal Meta & Fabrizio Moro
+ 990: (   1) - Ethno - Jazz Band Iriao
+ 991: (   1) - Eugent Bushpepa
+ 992: (   1) - Eurythmics
+ 993: (   1) - Exclusivevids1000
+ 994: (   1) - Eye Cue
+ 995: (   1) - Facs
+ 996: (   1) - Feist
+ 997: (   1) - Fiona Apple
+ 998: (   1) - Flick Wilson
+ 999: (   1) - Foster the People
+1000: (   1) - Franka
+1001: (   1) - Fraser A. Gorman
+1002: (   1) - Gas
+1003: (   1) - Gavin Friday
+1004: (   1) - Gene Rondo
+1005: (   1) - George McCrae
+1006: (   1) - Glen Hansard
+1007: (   1) - Greyhound
+1008: (   1) - Harry Allen
+1009: (   1) - Harry J Allstars
+1010: (   1) - Hazel O'connor
+1011: (   1) - Hot Rod All Stars
+1012: (   1) - Houndmouth
+1013: (   1) - Howard Jones
+1014: (   1) - Hubert Lee
+1015: (   1) - Hugh Hendricks & the Buccaneers
+1016: (   1) - Human League
+1017: (   1) - Ian Dury and the Blockheads
+1018: (   1) - Ian Shaw
+1019: (   1) - Ike Bennett
+1020: (   1) - Imagination
+1021: (   1) - Inshreds66
+1022: (   1) - Inxs
+1023: (   1) - Jack Johnson
+1024: (   1) - Jack Jones
+1025: (   1) - Jackie Edwards
+1026: (   1) - Jah Lloyd
+1027: (   1) - Jamestown Revival
+1028: (   1) - Jazzateers
+1029: (   1) - Jcpenney
+1030: (   1) - Jean-Michel Blais
+1031: (   1) - Jeff Tweedy
+1032: (   1) - Jess Williamson
+1033: (   1) - Jessika
+1034: (   1) - Jimmy Dale Gilmore
+1035: (   1) - Joe White
+1036: (   1) - John Cameron Mitchell
+1037: (   1) - John Denver
+1038: (   1) - John Fullbright
+1039: (   1) - John Kongos
+1040: (   1) - Johnny Marks
+1041: (   1) - Jon Hassel
+1042: (   1) - Julie Byrne
+1043: (   1) - Keith & Tex
+1044: (   1) - Kesha
+1045: (   1) - Kevin Morby
+1046: (   1) - Kim Carnes
+1047: (   1) - Lee "Scratch" Perry
+1048: (   1) - Lee Marvin
+1049: (   1) - Lee Ranaldo
+1050: (   1) - Lester Sterling
+1051: (   1) - Lisa Stansfield
+1052: (   1) - Literal Cry Laughing After Greg Davies' Awful Impression
+1053: (   1) - Lloyd Charmers
+1054: (   1) - Los Lobos
+1055: (   1) - Louisa Mark
+1056: (   1) - Lump
+1057: (   1) - Madame Monsieur
+1058: (   1) - Marcia Aitken
+1059: (   1) - Marcia Griffiths
+1060: (   1) - Marvin Gaye
+1061: (   1) - Mary Gauthier
+1062: (   1) - Mary Lee's Corvette
+1063: (   1) - Mason Jennings
+1064: (   1) - Melodies Echo Chamber
+1065: (   1) - Melovin
+1066: (   1) - Michael Schulte
+1067: (   1) - Mikolas Josef
+1068: (   1) - Mira Billotte
+1069: (   1) - Moaning
+1070: (   1) - Mouse on Mars
+1071: (   1) - Nacho Video
+1072: (   1) - Nancy Sinatra, Lee Hazlewood
+1073: (   1) - Nancy Wilson
+1074: (   1) - Native Hipsters
+1075: (   1) - Netta
 1076: (   1) - Nicky Thomas
 1077: (   1) - Niney
 1078: (   1) - Nora Dean
@@ -1107,90 +1107,91 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1104: (   1) - Sam the Sham & the Pharaohs
 1105: (   1) - Shania Twain
 1106: (   1) - Simone Felice
-1107: (   1) - Sir Collins
-1108: (   1) - Sir Lord Comic
-1109: (   1) - Ska Campbell
-1110: (   1) - Slim Smith
-1111: (   1) - Slow Hands
-1112: (   1) - Softladification
-1113: (   1) - Sotonpressarchive
-1114: (   1) - Squeeze
-1115: (   1) - Steve Harley & Cockney Rebel
-1116: (   1) - Strawbs
-1117: (   1) - Sugar Minott
-1118: (   1) - Taco
-1119: (   1) - Tamara Todevska
-1120: (   1) - Tears for Fears
-1121: (   1) - Texas
-1122: (   1) - The Adverts
-1123: (   1) - The Allman Brothers Band
-1124: (   1) - The Archies
-1125: (   1) - The Cables
-1126: (   1) - The Church of Leeds Parish Choir
-1127: (   1) - The Coolers
-1128: (   1) - The Cult
-1129: (   1) - The Damned
-1130: (   1) - The Dynamites
-1131: (   1) - The Easybeats
-1132: (   1) - The Electric Prunes
-1133: (   1) - The Ethiopians
-1134: (   1) - The Hold Steady
-1135: (   1) - The Humans
-1136: (   1) - The Immortals
-1137: (   1) - The Jackson 5
-1138: (   1) - The Jokers
-1139: (   1) - The Late Late Show With James Corden
-1140: (   1) - The Lemonheads
-1141: (   1) - The Lyrics
-1142: (   1) - The Maytals
-1143: (   1) - The Medetators
-1144: (   1) - The Members
-1145: (   1) - The Million Dollar Bashers
-1146: (   1) - The Mission
-1147: (   1) - The New Basement Tapes
-1148: (   1) - The New Wave Music Podcast
-1149: (   1) - The News 247
-1150: (   1) - The Replacements
-1151: (   1) - The Rhythm Rulers
-1152: (   1) - The Scaffold
-1153: (   1) - The Sea and Cake
-1154: (   1) - The Soul Syndicate
-1155: (   1) - The Staple Singers
-1156: (   1) - The Stooges
-1157: (   1) - The Temper Trap
-1158: (   1) - The Thin White Duke
-1159: (   1) - The Triffids
-1160: (   1) - The Turtles
-1161: (   1) - The Twang
-1162: (   1) - The Vagaband
-1163: (   1) - The Vapors
-1164: (   1) - The Viceroys
-1165: (   1) - The Viceroys with Hubcap & the Wheels
-1166: (   1) - The Walker Brothers
-1167: (   1) - The Youngbloods
-1168: (   1) - Theatre of Hate
-1169: (   1) - Them
-1170: (   1) - Thepnutno2
-1171: (   1) - Throwing Muses
-1172: (   1) - Thundercat
-1173: (   1) - Tommy McCook
-1174: (   1) - Tommy Shakespeare
-1175: (   1) - Tones on Tail
-1176: (   1) - Toni Basil
-1177: (   1) - Tony Tribe
-1178: (   1) - Travis
-1179: (   1) - Trevor Brown
-1180: (   1) - Uriah Heep
-1181: (   1) - Vibracobra23 Dulosis
-1182: (   1) - Villagers
-1183: (   1) - Violent Femmes
-1184: (   1) - Visage
-1185: (   1) - Visagevevo
-1186: (   1) - Wand
-1187: (   1) - When in Rome
-1188: (   1) - Winston Francis
-1189: (   1) - Winston Samuels
-1190: (   1) - Winston Wright
-1191: (   1) - Yonatan Gat
-1192: (   1) - Zibbz
-1193: (   1) - the FRIGHTNRS
+1107: (   1) - Simple Minds, Kt Tunstall
+1108: (   1) - Sir Collins
+1109: (   1) - Sir Lord Comic
+1110: (   1) - Ska Campbell
+1111: (   1) - Slim Smith
+1112: (   1) - Slow Hands
+1113: (   1) - Softladification
+1114: (   1) - Sotonpressarchive
+1115: (   1) - Squeeze
+1116: (   1) - Steve Harley & Cockney Rebel
+1117: (   1) - Strawbs
+1118: (   1) - Sugar Minott
+1119: (   1) - Taco
+1120: (   1) - Tamara Todevska
+1121: (   1) - Tears for Fears
+1122: (   1) - Texas
+1123: (   1) - The Adverts
+1124: (   1) - The Allman Brothers Band
+1125: (   1) - The Archies
+1126: (   1) - The Cables
+1127: (   1) - The Church of Leeds Parish Choir
+1128: (   1) - The Coolers
+1129: (   1) - The Cult
+1130: (   1) - The Damned
+1131: (   1) - The Dynamites
+1132: (   1) - The Easybeats
+1133: (   1) - The Electric Prunes
+1134: (   1) - The Ethiopians
+1135: (   1) - The Hold Steady
+1136: (   1) - The Humans
+1137: (   1) - The Immortals
+1138: (   1) - The Jackson 5
+1139: (   1) - The Jokers
+1140: (   1) - The Late Late Show With James Corden
+1141: (   1) - The Lemonheads
+1142: (   1) - The Lyrics
+1143: (   1) - The Maytals
+1144: (   1) - The Medetators
+1145: (   1) - The Members
+1146: (   1) - The Million Dollar Bashers
+1147: (   1) - The Mission
+1148: (   1) - The New Basement Tapes
+1149: (   1) - The New Wave Music Podcast
+1150: (   1) - The News 247
+1151: (   1) - The Replacements
+1152: (   1) - The Rhythm Rulers
+1153: (   1) - The Scaffold
+1154: (   1) - The Sea and Cake
+1155: (   1) - The Soul Syndicate
+1156: (   1) - The Staple Singers
+1157: (   1) - The Stooges
+1158: (   1) - The Temper Trap
+1159: (   1) - The Thin White Duke
+1160: (   1) - The Triffids
+1161: (   1) - The Turtles
+1162: (   1) - The Twang
+1163: (   1) - The Vagaband
+1164: (   1) - The Vapors
+1165: (   1) - The Viceroys
+1166: (   1) - The Viceroys with Hubcap & the Wheels
+1167: (   1) - The Walker Brothers
+1168: (   1) - The Youngbloods
+1169: (   1) - Theatre of Hate
+1170: (   1) - Them
+1171: (   1) - Thepnutno2
+1172: (   1) - Throwing Muses
+1173: (   1) - Thundercat
+1174: (   1) - Tommy McCook
+1175: (   1) - Tommy Shakespeare
+1176: (   1) - Tones on Tail
+1177: (   1) - Toni Basil
+1178: (   1) - Tony Tribe
+1179: (   1) - Travis
+1180: (   1) - Trevor Brown
+1181: (   1) - Uriah Heep
+1182: (   1) - Vibracobra23 Dulosis
+1183: (   1) - Villagers
+1184: (   1) - Violent Femmes
+1185: (   1) - Visage
+1186: (   1) - Visagevevo
+1187: (   1) - Wand
+1188: (   1) - When in Rome
+1189: (   1) - Winston Francis
+1190: (   1) - Winston Samuels
+1191: (   1) - Winston Wright
+1192: (   1) - Yonatan Gat
+1193: (   1) - Zibbz
+1194: (   1) - the FRIGHTNRS
