@@ -1,6 +1,6 @@
 Specified year (2023), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     289            23            25           218
+     305            29            32           223
  1: (33) - The Sundays
 
 
@@ -15,16 +15,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  4: (20) - David Bowie
+ 5: (20) - The Burning Hell
 
 
 
- 5: (16) - Josh Ritter
- 6: (15) - My Bloody Valentine
- 7: (15) - Weekend
+ 6: (16) - Josh Ritter
+ 7: (15) - My Bloody Valentine
+ 8: (15) - Weekend
 
- 8: (13) - The Bluebells
- 9: (12) - Ride
-10: (12) - The Burning Hell
+ 9: (13) - The Bluebells
+10: (12) - Ride
 11: (11) - ABC
 12: (11) - Margo Price
 13: (11) - Yazoo
@@ -33,11 +33,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 16: ( 9) - Brian Eno & David Byrne
 17: ( 8) - Bdrmm
 18: ( 8) - Edwyn Collins
-19: ( 7) - Scott Walker
+19: ( 8) - Scott Walker
+
 
 
 20: ( 4) - New Order
 21: ( 3) - Cocteau Twins
-
-22: ( 1) - Nick Lowe
-23: ( 1) - Simple Minds, Kt Tunstall
+22: ( 2) - The Wailers
+23: ( 1) - Eric Clapton
+24: ( 1) - Lloyd Cole
+25: ( 1) - Musical Youth
+26: ( 1) - Nick Lowe
+27: ( 1) - Orange Juice
+28: ( 1) - Simple Minds, Kt Tunstall
+29: ( 1) - The Temper Trap

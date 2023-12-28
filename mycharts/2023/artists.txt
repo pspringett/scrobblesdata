@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3075            76           106           983
+    3091            80           111           987
  1: (147) - Slowdive
 
 
@@ -24,9 +24,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
- 2: (123) - Cowboy Junkies
- 3: (123) - Lloyd Cole
+ 2: (124) - Lloyd Cole
+ 3: (123) - Cowboy Junkies
 
 
 
@@ -46,6 +45,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  9: (104) - Margo Price
+10: (103) - The Burning Hell
 
 
 
@@ -53,9 +53,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-10: ( 95) - Body Type
-11: ( 95) - The Burning Hell
+11: ( 95) - Body Type
 
 
 
@@ -127,7 +125,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 31: ( 31) - Weyes Blood
 32: ( 30) - Paramore
 33: ( 29) - Be Your Own Pet
-34: ( 28) - Orange Juice
+34: ( 29) - Orange Juice
 35: ( 28) - The Smiths
 36: ( 28) - The Zephyrs
 37: ( 27) - The Corrs
@@ -164,7 +162,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 64: (  9) - Roxy Music
 65: (  9) - The Rolling Stones
 66: (  8) - Edwyn Collins
-67: (  7) - Scott Walker
+67: (  8) - Scott Walker
+
 
 68: (  5) - Joy Division
 
@@ -174,5 +173,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 72: (  2) - Emma Tricca
 73: (  2) - Martin Stephenson
 74: (  2) - Scritti Politti
-75: (  1) - Nick Lowe
-76: (  1) - Simple Minds, Kt Tunstall
+75: (  2) - The Wailers
+76: (  1) - Eric Clapton
+77: (  1) - Musical Youth
+78: (  1) - Nick Lowe
+79: (  1) - Simple Minds, Kt Tunstall
+80: (  1) - The Temper Trap
