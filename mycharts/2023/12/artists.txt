@@ -1,11 +1,12 @@
 Specified year (2023), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     305            29            32           223
+     310            28            32           229
  1: (33) - The Sundays
 
 
- 2: (30) - Slowdive
- 3: (29) - Simple Minds
+ 2: (30) - Simple Minds
+ 3: (30) - Slowdive
+
 
 
 
@@ -35,15 +36,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 18: ( 8) - Edwyn Collins
 19: ( 8) - Scott Walker
 
+20: ( 6) - Body Type
 
-
-20: ( 4) - New Order
-21: ( 3) - Cocteau Twins
-22: ( 2) - The Wailers
-23: ( 1) - Eric Clapton
-24: ( 1) - Lloyd Cole
-25: ( 1) - Musical Youth
+21: ( 4) - New Order
+22: ( 3) - Cocteau Twins
+23: ( 2) - The Wailers
+24: ( 1) - Eric Clapton
+25: ( 1) - Lloyd Cole
 26: ( 1) - Nick Lowe
 27: ( 1) - Orange Juice
-28: ( 1) - Simple Minds, Kt Tunstall
-29: ( 1) - The Temper Trap
+28: ( 1) - The Temper Trap

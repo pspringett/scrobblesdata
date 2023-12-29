@@ -1,6 +1,6 @@
 Specified year (2023)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3091            80           111           987
+    3096            78           110           987
  1: (147) - Slowdive
 
 
@@ -47,13 +47,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (104) - Margo Price
 10: (103) - The Burning Hell
 
+11: (101) - Body Type
 
 
 
 
 
 
-11: ( 95) - Body Type
 
 
 
@@ -93,10 +93,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-21: ( 55) - Orchestral Manoeuvres in the Dark
-22: ( 55) - Rod Stewart
-23: ( 55) - Simple Minds
+21: ( 56) - Simple Minds
+22: ( 55) - Orchestral Manoeuvres in the Dark
+23: ( 55) - Rod Stewart
 
 
 
@@ -175,7 +174,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 74: (  2) - Scritti Politti
 75: (  2) - The Wailers
 76: (  1) - Eric Clapton
-77: (  1) - Musical Youth
-78: (  1) - Nick Lowe
-79: (  1) - Simple Minds, Kt Tunstall
-80: (  1) - The Temper Trap
+77: (  1) - Nick Lowe
+78: (  1) - The Temper Trap
