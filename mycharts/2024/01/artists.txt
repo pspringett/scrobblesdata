@@ -1,20 +1,24 @@
 Specified year (2024), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      89             9             9            82
-1: (15) - Orchestral Manoeuvres in the Dark
+     125            13            13           104
+ 1: (18) - My Bloody Valentine
+ 2: (17) - Slowdive
+
+ 3: (15) - Orchestral Manoeuvres in the Dark
 
 
-2: (12) - My Bloody Valentine
-3: (12) - Shack
-4: (12) - Slowdive
+ 4: (12) - Shack
+ 5: (11) - Weekend
 
-
-5: ( 9) - Bob Dylan
-6: ( 9) - Margo Price
-7: ( 9) - Robert Forster
-8: ( 8) - Bdrmm
-
+ 6: ( 9) - Bob Dylan
+ 7: ( 9) - Margo Price
+ 8: ( 9) - Robert Forster
+ 9: ( 9) - Talking Heads
+10: ( 8) - Bdrmm
 
 
 
-9: ( 3) - Nightbus
+11: ( 4) - Orange Juice
+12: ( 3) - Nightbus
+
+13: ( 1) - David Bowie
