@@ -1,6 +1,6 @@
 Specified year (2024), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     208            15            17           133
+     218            15            17           133
  1: (35) - Slowdive
 
 
@@ -24,16 +24,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (15) - Margo Price
 
 
+ 7: (12) - Bdrmm
+ 8: (12) - Newdad
 
 
+ 9: ( 9) - Bob Dylan
+10: ( 9) - Robert Forster
+11: ( 9) - Talking Heads
 
- 7: ( 9) - Bob Dylan
- 8: ( 9) - Robert Forster
- 9: ( 9) - Talking Heads
-10: ( 8) - Bdrmm
-11: ( 7) - David Bowie
-12: ( 6) - Body Type
-13: ( 6) - Newdad
+12: ( 7) - David Bowie
+13: ( 6) - Body Type
 
 14: ( 4) - Orange Juice
 15: ( 3) - Nightbus
