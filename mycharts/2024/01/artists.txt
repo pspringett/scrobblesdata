@@ -1,18 +1,29 @@
 Specified year (2024), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     218            15            17           133
- 1: (35) - Slowdive
+     247            16            18           137
+ 1: (45) - Slowdive
 
 
 
 
- 2: (30) - My Bloody Valentine
+
+
+
+
+
+
+
+ 2: (33) - My Bloody Valentine
+
+
+
 
 
  3: (27) - Orchestral Manoeuvres in the Dark
 
 
- 4: (24) - Shack
+ 4: (24) - Newdad
+ 5: (24) - Shack
 
 
 
@@ -20,12 +31,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 5: (16) - Weekend
- 6: (15) - Margo Price
+ 6: (16) - Weekend
+ 7: (15) - Margo Price
 
 
- 7: (12) - Bdrmm
- 8: (12) - Newdad
+ 8: (12) - Bdrmm
 
 
  9: ( 9) - Bob Dylan
@@ -36,4 +46,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 6) - Body Type
 
 14: ( 4) - Orange Juice
-15: ( 3) - Nightbus
+15: ( 4) - The Burning Hell
+16: ( 3) - Nightbus

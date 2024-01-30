@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   67836          1196          1775         12187
+   67865          1196          1775         12187
    1: (2318) - Lloyd Cole
    2: (2069) - David Bowie
    3: (1874) - Bob Dylan
@@ -88,12 +88,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   85: ( 201) - case/lang/veirs
   86: ( 200) - Sweet
   87: ( 199) - Jason Isbell
-  88: ( 194) - Weekend
-  89: ( 189) - Bryan Ferry
-  90: ( 188) - Robert Plant
-  91: ( 186) - The Jam
-  92: ( 185) - The Beach Boys
-  93: ( 184) - Slowdive
+  88: ( 194) - Slowdive
+  89: ( 194) - Weekend
+  90: ( 189) - Bryan Ferry
+  91: ( 188) - Robert Plant
+  92: ( 186) - The Jam
+  93: ( 185) - The Beach Boys
   94: ( 180) - Spandau Ballet
   95: ( 175) - Mary Chapin Carpenter
   96: ( 171) - JT and the Clouds
@@ -122,13 +122,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  119: ( 130) - The Sundays
  120: ( 129) - The Civil Wars
  121: ( 127) - Kacy & Clayton
- 122: ( 126) - Wolf Alice
- 123: ( 124) - Simon & Garfunkel
- 124: ( 122) - The Burning Hell
+ 122: ( 126) - The Burning Hell
+ 123: ( 126) - Wolf Alice
+ 124: ( 124) - Simon & Garfunkel
  125: ( 122) - The Wailin' Jennys
  126: ( 119) - Fleetwood Mac
- 127: ( 119) - The Mighty Wah!
- 128: ( 116) - My Bloody Valentine
+ 127: ( 119) - My Bloody Valentine
+ 128: ( 119) - The Mighty Wah!
  129: ( 114) - Body Type
  130: ( 114) - Haim
  131: ( 113) - Hackensaw Boys
@@ -278,55 +278,55 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  275: (  25) - Nightbus
  276: (  25) - Scritti Politti
  277: (  24) - Margo Cilker
- 278: (  24) - Shack
- 279: (  24) - Sharon Van Etten
- 280: (  23) - The Associates
- 281: (  22) - Curtis Mayfield
- 282: (  22) - Darling West
- 283: (  22) - Jana Horn
- 284: (  22) - Steve Mason
- 285: (  21) - Calexico
- 286: (  21) - Cut Worms
- 287: (  21) - Drop Nineteens
- 288: (  21) - Shelby Lynne, Allison Moorer
- 289: (  20) - Magazine
- 290: (  20) - The Blue Nile
- 291: (  20) - The National
- 292: (  19) - Field Music
- 293: (  19) - Paul & Linda Mccartney
- 294: (  18) - Michael Stipe
- 295: (  18) - Paul Haig
- 296: (  18) - The Cool Greenhouse
- 297: (  17) - Aswad
- 298: (  17) - Bill Nelson
- 299: (  17) - Brix Smith
- 300: (  17) - Kurt Vile
- 301: (  17) - R.E.M.
- 302: (  17) - The Specials
- 303: (  16) - Patti Smith
- 304: (  16) - The Dream Syndicate
- 305: (  15) - Martin Stephenson, John Perry
- 306: (  15) - The Fire Engines
- 307: (  14) - David Byrne
- 308: (  14) - Fontaines D.c.
- 309: (  14) - Green Gartside
- 310: (  14) - Sparks
- 311: (  14) - William Tyler
- 312: (  13) - David Byrne & St. Vincent
- 313: (  13) - John Cale
- 314: (  13) - Kristin Hersh
- 315: (  13) - Miranda Lambert
- 316: (  13) - Ryan Bingham
- 317: (  13) - Tubeway Army
- 318: (  12) - Belle and Sebastian
- 319: (  12) - Callaghan
- 320: (  12) - Duran Duran
- 321: (  12) - Goldfrapp
- 322: (  12) - Jim Croce
- 323: (  12) - John Foxx
- 324: (  12) - Max Romeo
- 325: (  12) - Myrtle Park's Fishing Club
- 326: (  12) - Newdad
+ 278: (  24) - Newdad
+ 279: (  24) - Shack
+ 280: (  24) - Sharon Van Etten
+ 281: (  23) - The Associates
+ 282: (  22) - Curtis Mayfield
+ 283: (  22) - Darling West
+ 284: (  22) - Jana Horn
+ 285: (  22) - Steve Mason
+ 286: (  21) - Calexico
+ 287: (  21) - Cut Worms
+ 288: (  21) - Drop Nineteens
+ 289: (  21) - Shelby Lynne, Allison Moorer
+ 290: (  20) - Magazine
+ 291: (  20) - The Blue Nile
+ 292: (  20) - The National
+ 293: (  19) - Field Music
+ 294: (  19) - Paul & Linda Mccartney
+ 295: (  18) - Michael Stipe
+ 296: (  18) - Paul Haig
+ 297: (  18) - The Cool Greenhouse
+ 298: (  17) - Aswad
+ 299: (  17) - Bill Nelson
+ 300: (  17) - Brix Smith
+ 301: (  17) - Kurt Vile
+ 302: (  17) - R.E.M.
+ 303: (  17) - The Specials
+ 304: (  16) - Patti Smith
+ 305: (  16) - The Dream Syndicate
+ 306: (  15) - Martin Stephenson, John Perry
+ 307: (  15) - The Fire Engines
+ 308: (  14) - David Byrne
+ 309: (  14) - Fontaines D.c.
+ 310: (  14) - Green Gartside
+ 311: (  14) - Sparks
+ 312: (  14) - William Tyler
+ 313: (  13) - David Byrne & St. Vincent
+ 314: (  13) - John Cale
+ 315: (  13) - Kristin Hersh
+ 316: (  13) - Miranda Lambert
+ 317: (  13) - Ryan Bingham
+ 318: (  13) - Tubeway Army
+ 319: (  12) - Belle and Sebastian
+ 320: (  12) - Callaghan
+ 321: (  12) - Duran Duran
+ 322: (  12) - Goldfrapp
+ 323: (  12) - Jim Croce
+ 324: (  12) - John Foxx
+ 325: (  12) - Max Romeo
+ 326: (  12) - Myrtle Park's Fishing Club
  327: (  12) - The Church
  328: (  12) - The Jimi Hendrix Experience
  329: (  12) - The Men
