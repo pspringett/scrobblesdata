@@ -1,7 +1,7 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3413            81           117          1045
- 1: (192) - Slowdive
+    3460            82           118          1050
+ 1: (200) - Slowdive
 
 
 
@@ -69,15 +69,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (124) - Bob Dylan
- 3: (124) - Lloyd Cole
- 4: (123) - Cowboy Junkies
 
- 5: (121) - My Bloody Valentine
 
- 6: (119) - Body Type
- 7: (119) - Margo Price
- 8: (118) - Josh Ritter
+
+
+
+
+
+ 2: (125) - My Bloody Valentine
+ 3: (124) - Bob Dylan
+ 4: (124) - Lloyd Cole
+ 5: (123) - Cowboy Junkies
+ 6: (122) - Josh Ritter
+
+
+ 7: (119) - Body Type
+ 8: (119) - Margo Price
  9: (118) - Robert Forster
 
 
@@ -87,12 +94,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 10: (112) - U2
 
 11: (110) - Altered Images
+12: (109) - The Bluebells
 
+13: (107) - The Burning Hell
 
-12: (107) - The Burning Hell
-
-13: (105) - Orchestral Manoeuvres in the Dark
-14: (105) - The Bluebells
+14: (105) - Orchestral Manoeuvres in the Dark
 
 
 
@@ -126,10 +132,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 17: ( 74) - Martin Stephenson and the Daintees
 
 
+18: ( 71) - David Bowie
+19: ( 70) - Alaska Reid
+20: ( 70) - Eilen Jewell
 
-18: ( 70) - Alaska Reid
-19: ( 70) - Eilen Jewell
-20: ( 69) - David Bowie
 
 
 
@@ -162,23 +168,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 28: ( 38) - Suede
 29: ( 37) - Pj Harvey
+30: ( 36) - Newdad
+31: ( 36) - Shack
 
 
+32: ( 33) - Orange Juice
 
-30: ( 33) - Orange Juice
+33: ( 31) - Ride
+34: ( 31) - Weyes Blood
+35: ( 30) - Paramore
+36: ( 29) - Be Your Own Pet
+37: ( 28) - The Smiths
+38: ( 28) - The Zephyrs
+39: ( 27) - The Corrs
 
-31: ( 31) - Ride
-32: ( 31) - Weyes Blood
-33: ( 30) - Newdad
-34: ( 30) - Paramore
-35: ( 29) - Be Your Own Pet
-36: ( 28) - The Smiths
-37: ( 28) - The Zephyrs
-38: ( 27) - The Corrs
-
-39: ( 25) - Nightbus
-40: ( 25) - Taylor Swift
-41: ( 24) - Shack
+40: ( 25) - Nightbus
+41: ( 25) - Taylor Swift
 42: ( 24) - The B-52's
 
 43: ( 22) - Curtis Mayfield
@@ -211,17 +216,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 68: (  9) - The Rolling Stones
 69: (  8) - Edwyn Collins
 70: (  8) - Scott Walker
+71: (  7) - The Last Dinner Party
 
+72: (  5) - Joy Division
 
-71: (  5) - Joy Division
-
-72: (  3) - Cocteau Twins
-73: (  3) - Elvis Costello & the Attractions
-74: (  3) - The Fall
-75: (  2) - Emma Tricca
-76: (  2) - Martin Stephenson
-77: (  2) - Scritti Politti
-78: (  2) - The Wailers
-79: (  1) - Eric Clapton
-80: (  1) - Nick Lowe
-81: (  1) - The Temper Trap
+73: (  3) - Cocteau Twins
+74: (  3) - Elvis Costello & the Attractions
+75: (  3) - The Fall
+76: (  2) - Emma Tricca
+77: (  2) - Martin Stephenson
+78: (  2) - Scritti Politti
+79: (  2) - The Wailers
+80: (  1) - Eric Clapton
+81: (  1) - Nick Lowe
+82: (  1) - The Temper Trap
