@@ -1,18 +1,23 @@
 Specified year (2024), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      74            11            11            62
- 1: (12) - ...Here's Tom With The Weather - Shack
- 2: (12) - Waves - Newdad
- 3: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+      99            13            13            82
+ 1: (15) - Prelude To Ecstasy - The Last Dinner Party
 
 
- 4: ( 8) - Just For A Day - Slowdive
- 5: ( 7) - Isn’T Anything - My Bloody Valentine
- 6: ( 7) - Prelude To Ecstasy - The Last Dinner Party
+ 2: (12) - ...Here's Tom With The Weather - Shack
+ 3: (12) - The Boy's Heart - Martin Stephenson and the Daintees
+ 4: (12) - Waves - Newdad
+ 5: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 6: (11) - Just For A Day - Slowdive
 
- 7: ( 5) - Expired Candy - Body Type
- 8: ( 4) - In The 21St Century - The Bluebells
- 9: ( 4) - Spectral Lines - Josh Ritter
 
-10: ( 2) - Aladdin Sane - David Bowie
-11: ( 2) - Live At The Royal Albert Hall - Echo & the Bunnymen
+
+ 7: ( 7) - Isn’T Anything - My Bloody Valentine
+
+ 8: ( 5) - Expired Candy - Body Type
+ 9: ( 4) - In The 21St Century - The Bluebells
+10: ( 4) - Spectral Lines - Josh Ritter
+
+11: ( 2) - Aladdin Sane - David Bowie
+12: ( 2) - Live At The Royal Albert Hall - Echo & the Bunnymen
+13: ( 2) * Road - Angie Palmer

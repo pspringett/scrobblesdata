@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   67954          1197          1776         12192
+   67979          1197          1776         12198
    1: (2318) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1874) - Bob Dylan
@@ -35,7 +35,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   32: ( 595) - Paul Weller
   33: ( 576) - The Velvet Underground
   34: ( 572) - Edwyn Collins
-  35: ( 535) - Martin Stephenson and the Daintees
+  35: ( 547) - Martin Stephenson and the Daintees
   36: ( 535) - Nick Heyward
   37: ( 535) - Rodney Crowell
   38: ( 530) - Shelby Lynne
@@ -67,7 +67,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   64: ( 277) - The Corrs
   65: ( 277) - The Smiths
   66: ( 271) - Carrie Rodriguez
-  67: ( 265) - Angie Palmer
+  67: ( 267) - Angie Palmer
   68: ( 265) - Margo Price
   69: ( 260) - Suzanne Vega
   70: ( 257) - UB40
@@ -84,8 +84,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   81: ( 210) - Lera Lynn
   82: ( 209) - The Decemberists
   83: ( 207) - Patty Griffin
-  84: ( 204) - The Wailers
-  85: ( 202) - Slowdive
+  84: ( 205) - Slowdive
+  85: ( 204) - The Wailers
   86: ( 201) - case/lang/veirs
   87: ( 200) - Sweet
   88: ( 199) - Jason Isbell
@@ -308,120 +308,120 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  305: (  16) - The Dream Syndicate
  306: (  15) - Martin Stephenson, John Perry
  307: (  15) - The Fire Engines
- 308: (  14) - David Byrne
- 309: (  14) - Fontaines D.c.
- 310: (  14) - Green Gartside
- 311: (  14) - Sparks
- 312: (  14) - William Tyler
- 313: (  13) - David Byrne & St. Vincent
- 314: (  13) - John Cale
- 315: (  13) - Kristin Hersh
- 316: (  13) - Miranda Lambert
- 317: (  13) - Ryan Bingham
- 318: (  13) - Tubeway Army
- 319: (  12) - Belle and Sebastian
- 320: (  12) - Callaghan
- 321: (  12) - Duran Duran
- 322: (  12) - Goldfrapp
- 323: (  12) - Jim Croce
- 324: (  12) - John Foxx
- 325: (  12) - Max Romeo
- 326: (  12) - Myrtle Park's Fishing Club
- 327: (  12) - The Church
- 328: (  12) - The Jimi Hendrix Experience
- 329: (  12) - The Men
- 330: (  11) - Colin Farrell
- 331: (  11) - Dry Cleaning
- 332: (  11) - Elizabeth Cook
- 333: (  11) - Françoise Hardy
- 334: (  11) - Grace Petrie
- 335: (  11) - Guy Clark
- 336: (  11) - Hatchie
- 337: (  11) - Jessica Pratt
- 338: (  11) - Joan Shelley
- 339: (  11) - Laurel Canyon
- 340: (  11) - Matt Berninger
- 341: (  11) - Peel.Rocks Magazine
- 342: (  11) - Rolling Blackouts Coastal Fever
- 343: (  11) - Television
- 344: (  11) - Travis Linville
- 345: (  10) - Cara Luft
- 346: (  10) - Dinah Washington
- 347: (  10) - Easy Star All-stars
- 348: (  10) - Elastica
- 349: (  10) - Gregory Isaacs
- 350: (  10) - Just the Faqs
- 351: (  10) - Kathleen Edwards
- 352: (  10) - Madeleine Peyroux
- 353: (  10) - Martha and the Muffins
- 354: (  10) - Mount Moriah
- 355: (  10) - Nico
- 356: (  10) - Nina Simone
- 357: (  10) - Samantha Crain
- 358: (  10) - The Twilight Sad
- 359: (  10) - Tim Buckley
- 360: (  10) - Wednesday
- 361: (   9) - Big Thief
- 362: (   9) - Bryan Adams
- 363: (   9) - Daniel Bachman
- 364: (   9) - Hawkwind Zoo
- 365: (   9) - Ian Dury
- 366: (   9) - Lizz Wright
- 367: (   9) - Low
- 368: (   9) - Mark Lanegan
- 369: (   9) - Romi Mayes
- 370: (   9) - Stevie Nicks
- 371: (   9) - Sugar Black
- 372: (   9) - Tyler Childers
- 373: (   9) - Waylon Jennings
- 374: (   8) - Aldous Harding
- 375: (   8) - Andrew Bird
- 376: (   8) - Bill Callahan
- 377: (   8) - Bob Marley
- 378: (   8) - Bon Iver
- 379: (   8) - Brigid Dawson and the Mothers Network
- 380: (   8) - Caleb Landry Jones
- 381: (   8) - Cate le Bon
- 382: (   8) - Ella Fitzgerald
- 383: (   8) - Forma
- 384: (   8) - Julia Jacklin
- 385: (   8) - Larkin Poe
- 386: (   8) - Let'S Eat Grandma
- 387: (   8) - Mankind
- 388: (   8) - Modern Nature
- 389: (   8) - Peter Tosh
- 390: (   8) - Purple Mountains
- 391: (   8) - Rhiannon Giddens
- 392: (   8) - Richard Dawson
- 393: (   8) - Spizz Energi
- 394: (   8) - Steve Earle
- 395: (   8) - Stick in the Wheel
- 396: (   8) - The Durutti Column
- 397: (   8) - The Lost Brothers
- 398: (   8) - White Fence
- 399: (   8) - Woods
- 400: (   7) - Billy Joel
- 401: (   7) - Black Marble
- 402: (   7) - Boubacar Traoré
- 403: (   7) - Buck Owens
- 404: (   7) - Buzzcocks
- 405: (   7) - Chris Eckman
- 406: (   7) - Chris Hillman & Steve Earle
- 407: (   7) - Della Mae
- 408: (   7) - Elephant Micah
- 409: (   7) - Iggy Pop
- 410: (   7) - La Féline
- 411: (   7) - Lightnin' Hopkins
- 412: (   7) - Lucinda Williams & David Crosby
- 413: (   7) - Martyn Bates
- 414: (   7) - Mello
- 415: (   7) - Melody'S Echo Chamber
- 416: (   7) - Nadine
- 417: (   7) - Nat King Cole
- 418: (   7) - Odetta Hartman
- 419: (   7) - Sam Phillips
- 420: (   7) - The Heptones
- 421: (   7) - The Last Dinner Party
+ 308: (  15) - The Last Dinner Party
+ 309: (  14) - David Byrne
+ 310: (  14) - Fontaines D.c.
+ 311: (  14) - Green Gartside
+ 312: (  14) - Sparks
+ 313: (  14) - William Tyler
+ 314: (  13) - David Byrne & St. Vincent
+ 315: (  13) - John Cale
+ 316: (  13) - Kristin Hersh
+ 317: (  13) - Miranda Lambert
+ 318: (  13) - Ryan Bingham
+ 319: (  13) - Tubeway Army
+ 320: (  12) - Belle and Sebastian
+ 321: (  12) - Callaghan
+ 322: (  12) - Duran Duran
+ 323: (  12) - Goldfrapp
+ 324: (  12) - Jim Croce
+ 325: (  12) - John Foxx
+ 326: (  12) - Max Romeo
+ 327: (  12) - Myrtle Park's Fishing Club
+ 328: (  12) - The Church
+ 329: (  12) - The Jimi Hendrix Experience
+ 330: (  12) - The Men
+ 331: (  11) - Colin Farrell
+ 332: (  11) - Dry Cleaning
+ 333: (  11) - Elizabeth Cook
+ 334: (  11) - Françoise Hardy
+ 335: (  11) - Grace Petrie
+ 336: (  11) - Guy Clark
+ 337: (  11) - Hatchie
+ 338: (  11) - Jessica Pratt
+ 339: (  11) - Joan Shelley
+ 340: (  11) - Laurel Canyon
+ 341: (  11) - Matt Berninger
+ 342: (  11) - Peel.Rocks Magazine
+ 343: (  11) - Rolling Blackouts Coastal Fever
+ 344: (  11) - Television
+ 345: (  11) - Travis Linville
+ 346: (  10) - Cara Luft
+ 347: (  10) - Dinah Washington
+ 348: (  10) - Easy Star All-stars
+ 349: (  10) - Elastica
+ 350: (  10) - Gregory Isaacs
+ 351: (  10) - Just the Faqs
+ 352: (  10) - Kathleen Edwards
+ 353: (  10) - Madeleine Peyroux
+ 354: (  10) - Martha and the Muffins
+ 355: (  10) - Mount Moriah
+ 356: (  10) - Nico
+ 357: (  10) - Nina Simone
+ 358: (  10) - Samantha Crain
+ 359: (  10) - The Twilight Sad
+ 360: (  10) - Tim Buckley
+ 361: (  10) - Wednesday
+ 362: (   9) - Big Thief
+ 363: (   9) - Bryan Adams
+ 364: (   9) - Daniel Bachman
+ 365: (   9) - Hawkwind Zoo
+ 366: (   9) - Ian Dury
+ 367: (   9) - Lizz Wright
+ 368: (   9) - Low
+ 369: (   9) - Mark Lanegan
+ 370: (   9) - Romi Mayes
+ 371: (   9) - Stevie Nicks
+ 372: (   9) - Sugar Black
+ 373: (   9) - Tyler Childers
+ 374: (   9) - Waylon Jennings
+ 375: (   8) - Aldous Harding
+ 376: (   8) - Andrew Bird
+ 377: (   8) - Bill Callahan
+ 378: (   8) - Bob Marley
+ 379: (   8) - Bon Iver
+ 380: (   8) - Brigid Dawson and the Mothers Network
+ 381: (   8) - Caleb Landry Jones
+ 382: (   8) - Cate le Bon
+ 383: (   8) - Ella Fitzgerald
+ 384: (   8) - Forma
+ 385: (   8) - Julia Jacklin
+ 386: (   8) - Larkin Poe
+ 387: (   8) - Let'S Eat Grandma
+ 388: (   8) - Mankind
+ 389: (   8) - Modern Nature
+ 390: (   8) - Peter Tosh
+ 391: (   8) - Purple Mountains
+ 392: (   8) - Rhiannon Giddens
+ 393: (   8) - Richard Dawson
+ 394: (   8) - Spizz Energi
+ 395: (   8) - Steve Earle
+ 396: (   8) - Stick in the Wheel
+ 397: (   8) - The Durutti Column
+ 398: (   8) - The Lost Brothers
+ 399: (   8) - White Fence
+ 400: (   8) - Woods
+ 401: (   7) - Billy Joel
+ 402: (   7) - Black Marble
+ 403: (   7) - Boubacar Traoré
+ 404: (   7) - Buck Owens
+ 405: (   7) - Buzzcocks
+ 406: (   7) - Chris Eckman
+ 407: (   7) - Chris Hillman & Steve Earle
+ 408: (   7) - Della Mae
+ 409: (   7) - Elephant Micah
+ 410: (   7) - Iggy Pop
+ 411: (   7) - La Féline
+ 412: (   7) - Lightnin' Hopkins
+ 413: (   7) - Lucinda Williams & David Crosby
+ 414: (   7) - Martyn Bates
+ 415: (   7) - Mello
+ 416: (   7) - Melody'S Echo Chamber
+ 417: (   7) - Nadine
+ 418: (   7) - Nat King Cole
+ 419: (   7) - Odetta Hartman
+ 420: (   7) - Sam Phillips
+ 421: (   7) - The Heptones
  422: (   7) - The Last Poets
  423: (   7) - The Limiñanas
  424: (   7) - The Louvin Brothers
