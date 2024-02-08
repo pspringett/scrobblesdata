@@ -1,7 +1,15 @@
 Specified year (2024), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      99            13            13            82
- 1: (15) - Prelude To Ecstasy - The Last Dinner Party
+     115            14            14            91
+ 1: (23) - Prelude To Ecstasy - The Last Dinner Party
+
+
+
+
+
+
+
+
 
 
  2: (12) - ...Here's Tom With The Weather - Shack
@@ -15,9 +23,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: ( 7) - Isn’T Anything - My Bloody Valentine
 
  8: ( 5) - Expired Candy - Body Type
- 9: ( 4) - In The 21St Century - The Bluebells
-10: ( 4) - Spectral Lines - Josh Ritter
+ 9: ( 5) * Road - Angie Palmer
+10: ( 5) - Strays Ii - Margo Price
+11: ( 4) - In The 21St Century - The Bluebells
+12: ( 4) - Spectral Lines - Josh Ritter
 
-11: ( 2) - Aladdin Sane - David Bowie
-12: ( 2) - Live At The Royal Albert Hall - Echo & the Bunnymen
-13: ( 2) * Road - Angie Palmer
+13: ( 2) - Aladdin Sane - David Bowie
+14: ( 2) - Live At The Royal Albert Hall - Echo & the Bunnymen

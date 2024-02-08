@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3485            83           119          1058
+    3501            83           119          1065
  1: (203) - Slowdive
 
 
@@ -82,12 +82,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  2: (125) - My Bloody Valentine
  3: (124) - Bob Dylan
  4: (124) - Lloyd Cole
- 5: (123) - Cowboy Junkies
- 6: (122) - Josh Ritter
+ 5: (124) - Margo Price
+ 6: (123) - Cowboy Junkies
+ 7: (122) - Josh Ritter
 
 
- 7: (119) - Body Type
- 8: (119) - Margo Price
+ 8: (119) - Body Type
  9: (118) - Robert Forster
 
 
@@ -188,24 +188,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 40: ( 25) - Nightbus
 41: ( 25) - Taylor Swift
 42: ( 24) - The B-52's
-
-43: ( 22) - Curtis Mayfield
-44: ( 22) - Inhaler
-45: ( 22) - Jana Horn
-46: ( 22) - Steve Mason
-47: ( 21) - Cut Worms
-48: ( 21) - Drop Nineteens
-49: ( 21) - Shelby Lynne, Allison Moorer
-50: ( 20) - The National
-51: ( 19) - Love
-52: ( 18) - Duke Garwood
-53: ( 18) - New Order
-54: ( 17) - Bill Nelson
-55: ( 17) - Brix Smith
-56: ( 16) - The Specials
-57: ( 16) - Yazoo
-58: ( 15) - The Cure
-59: ( 15) - The Last Dinner Party
+43: ( 23) - The Last Dinner Party
+44: ( 22) - Curtis Mayfield
+45: ( 22) - Inhaler
+46: ( 22) - Jana Horn
+47: ( 22) - Steve Mason
+48: ( 21) - Cut Worms
+49: ( 21) - Drop Nineteens
+50: ( 21) - Shelby Lynne, Allison Moorer
+51: ( 20) - The National
+52: ( 19) - Love
+53: ( 18) - Duke Garwood
+54: ( 18) - New Order
+55: ( 17) - Bill Nelson
+56: ( 17) - Brix Smith
+57: ( 16) - The Specials
+58: ( 16) - Yazoo
+59: ( 15) - The Cure
 60: ( 14) - The Style Council
 
 
@@ -222,12 +221,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 71: (  8) - Scott Walker
 
 
-72: (  5) - Joy Division
+72: (  5) - Angie Palmer
+73: (  5) - Joy Division
 
-73: (  3) - Cocteau Twins
-74: (  3) - Elvis Costello & the Attractions
-75: (  3) - The Fall
-76: (  2) - Angie Palmer
+74: (  3) - Cocteau Twins
+75: (  3) - Elvis Costello & the Attractions
+76: (  3) - The Fall
 77: (  2) - Emma Tricca
 78: (  2) - Martin Stephenson
 79: (  2) - Scritti Politti
