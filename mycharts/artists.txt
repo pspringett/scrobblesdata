@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   67995          1197          1776         12201
+   68021          1197          1776         12201
    1: (2318) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1874) - Bob Dylan
@@ -63,12 +63,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   60: ( 300) - The Weather Station
   61: ( 299) - St. Vincent
   62: ( 298) - Kate Bush
-  63: ( 277) - Robert Forster
-  64: ( 277) - The Corrs
-  65: ( 277) - The Smiths
-  66: ( 271) - Carrie Rodriguez
-  67: ( 270) - Angie Palmer
-  68: ( 270) - Margo Price
+  63: ( 280) - Margo Price
+  64: ( 277) - Robert Forster
+  65: ( 277) - The Corrs
+  66: ( 277) - The Smiths
+  67: ( 271) - Carrie Rodriguez
+  68: ( 270) - Angie Palmer
   69: ( 260) - Suzanne Vega
   70: ( 257) - UB40
   71: ( 253) - Jimi Hendrix
@@ -119,10 +119,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  116: ( 133) - Jack Harris
  117: ( 133) - Rachel Harrington
  118: ( 130) - Gillian Welch
- 119: ( 130) - The Sundays
- 120: ( 129) - The Civil Wars
- 121: ( 127) - Kacy & Clayton
- 122: ( 126) - My Bloody Valentine
+ 119: ( 130) - My Bloody Valentine
+ 120: ( 130) - The Sundays
+ 121: ( 129) - The Civil Wars
+ 122: ( 127) - Kacy & Clayton
  123: ( 126) - The Burning Hell
  124: ( 126) - Wolf Alice
  125: ( 124) - Simon & Garfunkel
@@ -142,17 +142,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  139: ( 104) - B.E.F.
  140: ( 104) - Bauhaus
  141: ( 104) - The Chicks
- 142: ( 103) - First Aid Kit
- 143: ( 103) - Piney Gir
- 144: ( 103) - Ray Davies
- 145: ( 102) - Chatham County Line
- 146: ( 101) - Japan
- 147: ( 100) - Bat for Lashes
- 148: (  98) - Count Basie
- 149: (  98) - Dave Grusin
- 150: (  97) - Cara Dillon
- 151: (  95) - The Proclaimers
- 152: (  94) - Bdrmm
+ 142: ( 103) - Bdrmm
+ 143: ( 103) - First Aid Kit
+ 144: ( 103) - Piney Gir
+ 145: ( 103) - Ray Davies
+ 146: ( 102) - Chatham County Line
+ 147: ( 101) - Japan
+ 148: ( 100) - Bat for Lashes
+ 149: (  98) - Count Basie
+ 150: (  98) - Dave Grusin
+ 151: (  97) - Cara Dillon
+ 152: (  95) - The Proclaimers
  153: (  94) - The Jesus and Mary Chain
  154: (  93) - Department S
  155: (  93) - Marine Girls
@@ -255,12 +255,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  252: (  48) - Tracyanne & Danny
  253: (  45) - Michael Head & the Red Elastic Band
  254: (  44) - Beach Fossils
- 255: (  39) - Weyes Blood
- 256: (  38) - Suede
- 257: (  37) - Jeff Bridges
- 258: (  37) - Pj Harvey
- 259: (  37) - Yo La Tengo
- 260: (  36) - Newdad
+ 255: (  39) - Newdad
+ 256: (  39) - Weyes Blood
+ 257: (  38) - Suede
+ 258: (  37) - Jeff Bridges
+ 259: (  37) - Pj Harvey
+ 260: (  37) - Yo La Tengo
  261: (  36) - Shack
  262: (  34) - The Linda Lindas
  263: (  32) - Duke Garwood
