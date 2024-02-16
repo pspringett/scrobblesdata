@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   68021          1197          1776         12201
+   68047          1197          1776         12201
    1: (2318) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1874) - Bob Dylan
@@ -15,7 +15,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   12: ( 915) - Cowboy Junkies
   13: ( 863) - Laura Marling
   14: ( 850) - Leonard Cohen
-  15: ( 775) - Orange Juice
+  15: ( 794) - Orange Juice
   16: ( 767) - New Order
   17: ( 728) - Altered Images
   18: ( 721) - The Beatles
@@ -67,8 +67,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   64: ( 277) - Robert Forster
   65: ( 277) - The Corrs
   66: ( 277) - The Smiths
-  67: ( 271) - Carrie Rodriguez
-  68: ( 270) - Angie Palmer
+  67: ( 273) - Angie Palmer
+  68: ( 271) - Carrie Rodriguez
   69: ( 260) - Suzanne Vega
   70: ( 257) - UB40
   71: ( 253) - Jimi Hendrix
@@ -82,9 +82,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   79: ( 217) - Elton John
   80: ( 210) - Kacey Musgraves
   81: ( 210) - Lera Lynn
-  82: ( 209) - The Decemberists
-  83: ( 207) - Patty Griffin
-  84: ( 205) - Slowdive
+  82: ( 209) - Slowdive
+  83: ( 209) - The Decemberists
+  84: ( 207) - Patty Griffin
   85: ( 204) - The Wailers
   86: ( 201) - case/lang/veirs
   87: ( 200) - Sweet

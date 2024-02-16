@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3527            83           119          1065
+    3553            83           120          1073
   1: (119) - Expired Candy - Body Type
   2: (118) - Everything Is Alive - Slowdive
   3: (118) - The Candle And The Flame - Robert Forster
@@ -32,11 +32,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  9: ( 89) - Just For A Day - Slowdive
 
 
+ 10: ( 86) - The Boy's Heart - Martin Stephenson and the Daintees
 
-  9: ( 86) - The Boy's Heart - Martin Stephenson and the Daintees
- 10: ( 85) - Just For A Day - Slowdive
 
 
  11: ( 82) - On Pain - Lloyd Cole
@@ -82,26 +82,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  26: ( 44) - Somersault - Beach Fossils
  27: ( 43) - Clara Libre - Altered Images
  28: ( 42) - Weathervanes - Jason Isbell and the 400 Unit
+ 29: ( 42) - You Can't Hide Your Love Forever - Orange Juice
 
 
- 29: ( 39) - Waves - Newdad
- 30: ( 38) - Suede - Suede
- 31: ( 37) - I Inside The Old Year Dying - Pj Harvey
- 32: ( 36) - ...Here's Tom With The Weather - Shack
+ 30: ( 39) - Waves - Newdad
+ 31: ( 38) - Suede - Suede
+ 32: ( 37) - I Inside The Old Year Dying - Pj Harvey
+ 33: ( 36) - ...Here's Tom With The Weather - Shack
 
 
 
 
- 33: ( 31) - And In The Darkness, Hearts Aglow - Weyes Blood
- 34: ( 31) * Boy - U2
- 35: ( 31) - Live At Ronnie Scotts - Weekend
- 36: ( 31) - Nowhere - Ride
- 37: ( 31) * The Caution Horses - Cowboy Junkies
- 38: ( 30) - This Is Why - Paramore
- 39: ( 29) - La Variete - Weekend
- 40: ( 29) - Mommy - Be Your Own Pet
- 41: ( 29) - Time Out Of Mind - Bob Dylan
- 42: ( 29) - You Can't Hide Your Love Forever - Orange Juice
+ 34: ( 31) - And In The Darkness, Hearts Aglow - Weyes Blood
+ 35: ( 31) * Boy - U2
+ 36: ( 31) - Live At Ronnie Scotts - Weekend
+ 37: ( 31) - Nowhere - Ride
+ 38: ( 31) * The Caution Horses - Cowboy Junkies
+ 39: ( 30) - This Is Why - Paramore
+ 40: ( 29) - La Variete - Weekend
+ 41: ( 29) - Mommy - Be Your Own Pet
+ 42: ( 29) - Time Out Of Mind - Bob Dylan
  43: ( 28) - Aladdin Sane - David Bowie
  44: ( 28) - For Sapphire Needle - The Zephyrs
  45: ( 28) - Hatful Of Hollow - The Smiths
@@ -153,30 +153,32 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  90: (  9) - Siren - Roxy Music
  91: (  9) - Speaking In Tongues - Talking Heads
  92: (  8) - Elevation Days - Edwyn Collins
- 93: (  7) * Scott - Scott Walker
- 94: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
- 95: (  6) - Sermon On The Rocks - Josh Ritter
- 96: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
- 97: (  5) * Road - Angie Palmer
- 98: (  4) * Closer - Joy Division
- 99: (  4) - Coals To Newcastle - Orange Juice
-100: (  4) * Pornography - The Cure
-101: (  3) - Everything's Gone Green (2019 Remaster) - New Order
-102: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
-103: (  3) - Treasure - Cocteau Twins
-104: (  3) - Upstairs at Erics - Yazoo
-105: (  2) - Aspirin Sun - Emma Tricca
-106: (  2) - Early - Scritti Politti
-107: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-108: (  2) - Sweet Misdemeanour - Martin Stephenson
-109: (  2) - Totale's Turns (It's Now Or Never) - The Fall
-110: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-111: (  1) - Conditions - The Temper Trap
-112: (  1) - Dragnet - The Fall
-113: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-114: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-115: (  1) - London Boy - David Bowie
-116: (  1) * Scott 2 - Scott Walker
-117: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
-118: (  1) - The Best Of - Joy Division
-119: (  1) * The Collection - Altered Images
+ 93: (  8) * Road - Angie Palmer
+ 94: (  7) * Scott - Scott Walker
+ 95: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
+ 96: (  6) - Sermon On The Rocks - Josh Ritter
+ 97: (  6) * Texas Fever - Orange Juice
+ 98: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+
+ 99: (  4) * Closer - Joy Division
+100: (  4) - Coals To Newcastle - Orange Juice
+101: (  4) * Pornography - The Cure
+102: (  3) - Everything's Gone Green (2019 Remaster) - New Order
+103: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
+104: (  3) - Treasure - Cocteau Twins
+105: (  3) - Upstairs at Erics - Yazoo
+106: (  2) - Aspirin Sun - Emma Tricca
+107: (  2) - Early - Scritti Politti
+108: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
+109: (  2) - Sweet Misdemeanour - Martin Stephenson
+110: (  2) - Totale's Turns (It's Now Or Never) - The Fall
+111: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+112: (  1) - Conditions - The Temper Trap
+113: (  1) - Dragnet - The Fall
+114: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+115: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+116: (  1) - London Boy - David Bowie
+117: (  1) * Scott 2 - Scott Walker
+118: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
+119: (  1) - The Best Of - Joy Division
+120: (  1) * The Collection - Altered Images
