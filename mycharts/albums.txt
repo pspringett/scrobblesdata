@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   68047          1197          1776         12201
+   68069          1198          1776         12201
    1: (324) - Cafe Bleu - The Style Council
    2: (298) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -16,17 +16,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   13: (226) - Acoustic - Simple Minds
   14: (219) - The Joshua Tree - U2
   15: (211) * Harlem River Blues - Justin Townes Earle
-  16: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
-  17: (202) - Burnin' - The Wailers
-  18: (201) - Case/Lang/Veirs - case/lang/veirs
-  19: (201) - Traveling Alone - Tift Merritt
-  20: (199) - Something More Than Free - Jason Isbell
-  21: (198) - The Lexicon Of Love (Digitally Remastered) - ABC
-  22: (197) * The Unforgettable Fire - U2
-  23: (196) - Stitch Of The World - Tift Merritt
-  24: (194) - Chaleur Humaine - Christine and the Queens
-  25: (192) - Country Life - Roxy Music
-  26: (191) - You Can't Hide Your Love Forever - Orange Juice
+  16: (204) - You Can't Hide Your Love Forever - Orange Juice
+  17: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
+  18: (202) - Burnin' - The Wailers
+  19: (201) - Case/Lang/Veirs - case/lang/veirs
+  20: (201) - Traveling Alone - Tift Merritt
+  21: (199) - Something More Than Free - Jason Isbell
+  22: (198) - The Lexicon Of Love (Digitally Remastered) - ABC
+  23: (197) * The Unforgettable Fire - U2
+  24: (196) - Stitch Of The World - Tift Merritt
+  25: (194) - Chaleur Humaine - Christine and the Queens
+  26: (192) - Country Life - Roxy Music
   27: (190) - Once I Was An Eagle - Laura Marling
   28: (190) - Red Dirt Girl - Emmylou Harris
   29: (190) - Tambourine - Tift Merritt
@@ -665,18 +665,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  662: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
  663: ( 46) - The Last Broadcast - Doves
  664: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
- 665: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
- 666: ( 44) - Somersault - Beach Fossils
- 667: ( 43) - Fat Pop - Paul Weller
- 668: ( 43) - Reconnected - Yazoo
- 669: ( 42) - It Won't Always Be Like This - Inhaler
- 670: ( 42) - Weathervanes - Jason Isbell and the 400 Unit
- 671: ( 41) - Being Brave - Amanda Shires
- 672: ( 41) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
- 673: ( 40) - Let It Bleed - The Rolling Stones
- 674: ( 39) - Born To Run - Bruce Springsteen
- 675: ( 39) - The Freewheelin' Bob Dylan - Bob Dylan
- 676: ( 39) - Waves - Newdad
+ 665: ( 45) - Waves - Newdad
+ 666: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
+ 667: ( 44) - Somersault - Beach Fossils
+ 668: ( 43) - Fat Pop - Paul Weller
+ 669: ( 43) - Reconnected - Yazoo
+ 670: ( 42) - It Won't Always Be Like This - Inhaler
+ 671: ( 42) - Weathervanes - Jason Isbell and the 400 Unit
+ 672: ( 41) - Being Brave - Amanda Shires
+ 673: ( 41) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
+ 674: ( 40) - Let It Bleed - The Rolling Stones
+ 675: ( 39) - Born To Run - Bruce Springsteen
+ 676: ( 39) - The Freewheelin' Bob Dylan - Bob Dylan
  677: ( 38) - Chloë And The Next 20Th Century - Father John Misty
  678: ( 38) - Suede - Suede
  679: ( 38) - The Scream - Siouxsie and the Banshees
@@ -714,16 +714,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  711: ( 23) - Marry Me - St. Vincent
  712: ( 23) - Prelude To Ecstasy - The Last Dinner Party
  713: ( 23) - Shadow Kingdom - Bob Dylan
- 714: ( 22) - Brothers & Sisters - Steve Mason
- 715: ( 22) - Cuts & Bruises - Inhaler
- 716: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
- 717: ( 22) - The Window Is The Dream - Jana Horn
- 718: ( 22) - While I Was Asleep - Darling West
- 719: ( 21) - Cut Worms - Cut Worms
- 720: ( 21) - Hard Light - Drop Nineteens
- 721: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
- 722: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
- 723: ( 21) - Strays Ii - Margo Price
+ 714: ( 23) - Strays Ii - Margo Price
+ 715: ( 22) - Brothers & Sisters - Steve Mason
+ 716: ( 22) - Cuts & Bruises - Inhaler
+ 717: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
+ 718: ( 22) - The Window Is The Dream - Jana Horn
+ 719: ( 22) - While I Was Asleep - Darling West
+ 720: ( 21) - Cut Worms - Cut Worms
+ 721: ( 21) - Hard Light - Drop Nineteens
+ 722: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+ 723: ( 21) - Scary Monsters (And Super Creeps) - David Bowie
  724: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
  725: ( 20) - A Walk Across The Rooftops - The Blue Nile
  726: ( 20) - First Two Pages Of Frankenstein - The National
@@ -1787,93 +1787,94 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1784: (  1) - Steam - East 17
 1785: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
 1786: (  1) - Strange Cacti - Angel Olsen
-1787: (  1) - Substance 1987 - New Order
-1788: (  1) - Sugar, Sugar - The Archies
-1789: (  1) - Summerlong - Rose City Band
-1790: (  1) - Sundowner - Kevin Morby
-1791: (  1) - Sure (Robin Guthrie Remix) - Hatchie
-1792: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
-1793: (  1) - T. Rex (Deluxe Edition) - T. Rex
-1794: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
-1795: (  1) - Take It Or Leave It - Madness
-1796: (  1) - Tambourine / Bramble Rose (Special Edition) - Tift Merritt
-1797: (  1) - Tears, Lies And Alibis - Shelby Lynne
-1798: (  1) - Tenement Symphony - Marc Almond
-1799: (  1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
-1800: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
-1801: (  1) - The 70's Studio Album Collection - Emmylou Harris
-1802: (  1) * The BBC Sessions - Loudon Wainwright III
-1803: (  1) - The Beatles (Remastered) - The Beatles
-1804: (  1) - The Best Of - The Staple Singers
-1805: (  1) - The Best Of David Bowie, '69-'74 - David Bowie
-1806: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
-1807: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
-1808: (  1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
-1809: (  1) - The Boatman's Call - Nick Cave & the Bad Seeds
-1810: (  1) - The Burnt Match - The Wave Pictures
-1811: (  1) * The Church And The Minidisc - Martin Stephenson
-1812: (  1) - The Cream Of Clapton - Derek and the Dominos
-1813: (  1) - The Doors (50Th Anniversary Deluxe Edition) - The Doors
-1814: (  1) - The Double Ep: A Sea Of Split Peas - Courtney Barnett
-1815: (  1) - The Electric Prunes - The Electric Prunes
-1816: (  1) - The Essential Yardbirds - The Yardbirds
-1817: (  1) - The Esteemed Orange Juice - Haircut 100
-1818: (  1) - The Esteemed Orange Juice - Japan
-1819: (  1) - The Gift - The Jam
-1820: (  1) - The Head On The Door - The Cure
-1821: (  1) - The Kink Kontroversy - The Kinks
-1822: (  1) - The Lexicon Of Love (Deluxe Edition) - ABC
-1823: (  1) - The Man Who - Travis
-1824: (  1) * The Monkees Collection - The Monkees
-1825: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
-1826: (  1) - The Places Between : The Best Of Doves - Doves
-1827: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
-1828: (  1) - The Projector - Simone Felice
-1829: (  1) - The Real Ramona - Throwing Muses
-1830: (  1) - The Singles - Soft Cell
-1831: (  1) - The Singles 1984-2004 - A-Ha
-1832: (  1) - The Singles 86-98 - Depeche Mode
-1833: (  1) - The Spur - Joan Shelley
-1834: (  1) - The Stars We Are - Marc Almond
-1835: (  1) - The Stooges - The Stooges
-1836: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
-1837: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
-1838: (  1) - The Works - Chris Rea
-1839: (  1) - The Youngbloods - The Youngbloods
-1840: (  1) - There Goes Concorde Again - Native Hipsters
-1841: (  1) - This Year's Model (Deluxe Edition) - Elvis Costello
-1842: (  1) - Tim (Expanded) - The Replacements
-1843: (  1) - Too Low For Zero - Elton John
-1844: (  1) - Town & Country - The Vagaband
-1845: (  1) - Traditional Techniques - Stephen Malkmus
-1846: (  1) - Tramp - Sharon Van Etten
-1847: (  1) - Travelogue - Human League
-1848: (  1) - Trinity Revisited - Cowboy Junkies
-1849: (  1) - Try - Hatchie
-1850: (  1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
-1851: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
-1852: (  1) - UNCUT 2016-02 What's Going On The Sound Of 2016 - Various
-1853: (  1) - UNCUT 2016-12 - Various
-1854: (  1) - UNCUT 2017-11 Stereotypes - Various
-1855: (  1) - Ultimate Collection - Billy Ocean
-1856: (  1) - Ultimate Collection - Small Faces
-1857: (  1) - Ultimate Waylon Jennings - Waylon Jennings
-1858: (  1) - Universalists - Yonatan Gat
-1859: (  1) - Up The Junction - Squeeze
-1860: (  1) - Upper West Side - Harry Allen
-1861: (  1) - Utah - Jamestown Revival
-1862: (  1) - Vh1 Storytellers - David Bowie
-1863: (  1) - Violent Femmes - Violent Femmes
-1864: (  1) - Waiting - Fun Boy Three
-1865: (  1) - Wallflower (The Complete Sessions) - Diana Krall
-1866: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
-1867: (  1) - When In Rome - When in Rome
-1868: (  1) - Where The Action Is (Deluxe) - The Waterboys
-1869: (  1) - Wishful Thinking: The Very Best Of China Crisis - China Crisis
-1870: (  1) - Word Of Mouth - Toni Basil
-1871: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
-1872: (  1) - Wouldn't You Like It - Bay City Rollers
-1873: (  1) - Yellow River - Christie
-1874: (  1) - Your Town Tonight - Eliza Gilkyson
-1875: (  1) - Youtube - Prefab Sprout
-1876: (  1) - [Unknown Album] - David Bowie
+1787: (  1) - Strays Ii - Margo Price, Jonathan Wilson
+1788: (  1) - Substance 1987 - New Order
+1789: (  1) - Sugar, Sugar - The Archies
+1790: (  1) - Summerlong - Rose City Band
+1791: (  1) - Sundowner - Kevin Morby
+1792: (  1) - Sure (Robin Guthrie Remix) - Hatchie
+1793: (  1) - Sweet Dreams (Are Made Of This) - Eurythmics
+1794: (  1) - T. Rex (Deluxe Edition) - T. Rex
+1795: (  1) - Tainted Love (Re-Recorded / Remastered) - Soft Cell
+1796: (  1) - Take It Or Leave It - Madness
+1797: (  1) - Tambourine / Bramble Rose (Special Edition) - Tift Merritt
+1798: (  1) - Tears, Lies And Alibis - Shelby Lynne
+1799: (  1) - Tenement Symphony - Marc Almond
+1800: (  1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
+1801: (  1) - That's The Way I Like It: The Best Of Dead Or Alive - Dead Or Alive
+1802: (  1) - The 70's Studio Album Collection - Emmylou Harris
+1803: (  1) * The BBC Sessions - Loudon Wainwright III
+1804: (  1) - The Beatles (Remastered) - The Beatles
+1805: (  1) - The Best Of - The Staple Singers
+1806: (  1) - The Best Of David Bowie, '69-'74 - David Bowie
+1807: (  1) - The Best Of Pink Floyd (A Foot In The Door) - Pink Floyd
+1808: (  1) - The Best Of Siouxsie And The Banshees - Siouxsie and the Banshees
+1809: (  1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
+1810: (  1) - The Boatman's Call - Nick Cave & the Bad Seeds
+1811: (  1) - The Burnt Match - The Wave Pictures
+1812: (  1) * The Church And The Minidisc - Martin Stephenson
+1813: (  1) - The Cream Of Clapton - Derek and the Dominos
+1814: (  1) - The Doors (50Th Anniversary Deluxe Edition) - The Doors
+1815: (  1) - The Double Ep: A Sea Of Split Peas - Courtney Barnett
+1816: (  1) - The Electric Prunes - The Electric Prunes
+1817: (  1) - The Essential Yardbirds - The Yardbirds
+1818: (  1) - The Esteemed Orange Juice - Haircut 100
+1819: (  1) - The Esteemed Orange Juice - Japan
+1820: (  1) - The Gift - The Jam
+1821: (  1) - The Head On The Door - The Cure
+1822: (  1) - The Kink Kontroversy - The Kinks
+1823: (  1) - The Lexicon Of Love (Deluxe Edition) - ABC
+1824: (  1) - The Man Who - Travis
+1825: (  1) * The Monkees Collection - The Monkees
+1826: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
+1827: (  1) - The Places Between : The Best Of Doves - Doves
+1828: (  1) - The Pleasure Principle (Expanded Edition) - Gary Numan
+1829: (  1) - The Projector - Simone Felice
+1830: (  1) - The Real Ramona - Throwing Muses
+1831: (  1) - The Singles - Soft Cell
+1832: (  1) - The Singles 1984-2004 - A-Ha
+1833: (  1) - The Singles 86-98 - Depeche Mode
+1834: (  1) - The Spur - Joan Shelley
+1835: (  1) - The Stars We Are - Marc Almond
+1836: (  1) - The Stooges - The Stooges
+1837: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
+1838: (  1) - The Trojan: Rocksteady Collection - Alton Ellis
+1839: (  1) - The Works - Chris Rea
+1840: (  1) - The Youngbloods - The Youngbloods
+1841: (  1) - There Goes Concorde Again - Native Hipsters
+1842: (  1) - This Year's Model (Deluxe Edition) - Elvis Costello
+1843: (  1) - Tim (Expanded) - The Replacements
+1844: (  1) - Too Low For Zero - Elton John
+1845: (  1) - Town & Country - The Vagaband
+1846: (  1) - Traditional Techniques - Stephen Malkmus
+1847: (  1) - Tramp - Sharon Van Etten
+1848: (  1) - Travelogue - Human League
+1849: (  1) - Trinity Revisited - Cowboy Junkies
+1850: (  1) - Try - Hatchie
+1851: (  1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
+1852: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
+1853: (  1) - UNCUT 2016-02 What's Going On The Sound Of 2016 - Various
+1854: (  1) - UNCUT 2016-12 - Various
+1855: (  1) - UNCUT 2017-11 Stereotypes - Various
+1856: (  1) - Ultimate Collection - Billy Ocean
+1857: (  1) - Ultimate Collection - Small Faces
+1858: (  1) - Ultimate Waylon Jennings - Waylon Jennings
+1859: (  1) - Universalists - Yonatan Gat
+1860: (  1) - Up The Junction - Squeeze
+1861: (  1) - Upper West Side - Harry Allen
+1862: (  1) - Utah - Jamestown Revival
+1863: (  1) - Vh1 Storytellers - David Bowie
+1864: (  1) - Violent Femmes - Violent Femmes
+1865: (  1) - Waiting - Fun Boy Three
+1866: (  1) - Wallflower (The Complete Sessions) - Diana Krall
+1867: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
+1868: (  1) - When In Rome - When in Rome
+1869: (  1) - Where The Action Is (Deluxe) - The Waterboys
+1870: (  1) - Wishful Thinking: The Very Best Of China Crisis - China Crisis
+1871: (  1) - Word Of Mouth - Toni Basil
+1872: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
+1873: (  1) - Wouldn't You Like It - Bay City Rollers
+1874: (  1) - Yellow River - Christie
+1875: (  1) - Your Town Tonight - Eliza Gilkyson
+1876: (  1) - Youtube - Prefab Sprout
+1877: (  1) - [Unknown Album] - David Bowie
