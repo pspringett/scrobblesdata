@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   68069          1198          1776         12201
+   68103          1198          1776         12205
    1: (324) - Cafe Bleu - The Style Council
    2: (298) - Sermon On The Rocks - Josh Ritter
    3: (281) - Head Over Heels - Cocteau Twins
@@ -42,14 +42,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   39: (181) - Penthouse And Pavement - Heaven 17
   40: (180) - Not Dark Yet - Shelby Lynne
   41: (179) * Beyond The Leap Beyond The Law - Martin Stephenson
-  42: (175) * I Speak Because I Can - Laura Marling
-  43: (175) - Journeys To Glory - Spandau Ballet
-  44: (175) - Old Yellow Moon - Emmylou Harris
-  45: (175) - Sundown Over Ghost Town - Eilen Jewell
-  46: (175) - The Things That We Are Made Of - Mary Chapin Carpenter
-  47: (171) * Roxy Music - Roxy Music
-  48: (171) - The Weather Station - The Weather Station
-  49: (170) - You And Me Both - Yazoo
+  42: (179) - You And Me Both - Yazoo
+  43: (175) * I Speak Because I Can - Laura Marling
+  44: (175) - Journeys To Glory - Spandau Ballet
+  45: (175) - Old Yellow Moon - Emmylou Harris
+  46: (175) - Sundown Over Ghost Town - Eilen Jewell
+  47: (175) - The Things That We Are Made Of - Mary Chapin Carpenter
+  48: (171) * Roxy Music - Roxy Music
+  49: (171) - The Weather Station - The Weather Station
   50: (169) - Rough And Rowdy Ways - Bob Dylan
   51: (169) - Saturns Pattern - Paul Weller
   52: (169) - The Kick Inside - Kate Bush
@@ -68,20 +68,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   65: (160) - The Prince Of Wales - Devine & Statton
   66: (159) - Mccartney - Paul McCartney
   67: (158) * Wrecking Ball - Emmylou Harris
-  68: (156) * Seven Dials - Roddy Frame
-  69: (156) * Various Positions - Leonard Cohen
-  70: (155) - Beauty Stab - ABC
-  71: (155) - Manifesto - Roxy Music
-  72: (154) - Forgiven, Not Forgotten - The Corrs
-  73: (152) * Standards - Lloyd Cole
-  74: (152) - The Avenues - Lera Lynn
-  75: (150) - Love And Theft - Bob Dylan
-  76: (150) * Scott 2 - Scott Walker
-  77: (149) * Signing Off - UB40
-  78: (148) - Substance - New Order
-  79: (147) - Crush - Orchestral Manoeuvres in the Dark
-  80: (147) - Excellent Day - Lizanne Knott
-  81: (146) - Coals To Newcastle - Orange Juice
+  68: (156) - Coals To Newcastle - Orange Juice
+  69: (156) * Seven Dials - Roddy Frame
+  70: (156) * Various Positions - Leonard Cohen
+  71: (155) - Beauty Stab - ABC
+  72: (155) - Manifesto - Roxy Music
+  73: (154) - Forgiven, Not Forgotten - The Corrs
+  74: (152) * Standards - Lloyd Cole
+  75: (152) - The Avenues - Lera Lynn
+  76: (150) - Love And Theft - Bob Dylan
+  77: (150) * Scott 2 - Scott Walker
+  78: (149) * Signing Off - UB40
+  79: (148) - Substance - New Order
+  80: (147) - Crush - Orchestral Manoeuvres in the Dark
+  81: (147) - Excellent Day - Lizanne Knott
   82: (146) * Happy Birthday - Altered Images
   83: (146) - Pelican West Plus - Haircut 100
   84: (145) - Paging Mr. Proust - The Jayhawks
@@ -341,17 +341,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  338: ( 78) - Beatopia - Beabadoobee
  339: ( 78) * Departure And Farewell - Hem
  340: ( 78) - Lionheart - H.C. Mcentire
- 341: ( 78) * She Ain't Me - Carrie Rodriguez
- 342: ( 78) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
- 343: ( 78) - Travelogue - The Human League
- 344: ( 77) - Aladdin Sane - David Bowie
- 345: ( 77) - All The Roadrunning - Mark Knopfler and Emmylou Harris
- 346: ( 77) * Stumble Into Grace - Emmylou Harris
- 347: ( 76) - Celebration - Simple Minds
- 348: ( 76) - Colossal Youth - Young Marble Giants
- 349: ( 76) * High Land, Hard Rain - Aztec Camera
- 350: ( 76) * Highway 61 Revisited - Bob Dylan
- 351: ( 76) - Live At The Royal Albert Hall - Echo & the Bunnymen
+ 341: ( 78) - Live At The Royal Albert Hall - Echo & the Bunnymen
+ 342: ( 78) * She Ain't Me - Carrie Rodriguez
+ 343: ( 78) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
+ 344: ( 78) - Travelogue - The Human League
+ 345: ( 77) - Aladdin Sane - David Bowie
+ 346: ( 77) - All The Roadrunning - Mark Knopfler and Emmylou Harris
+ 347: ( 77) * Stumble Into Grace - Emmylou Harris
+ 348: ( 76) - Celebration - Simple Minds
+ 349: ( 76) - Colossal Youth - Young Marble Giants
+ 350: ( 76) * High Land, Hard Rain - Aztec Camera
+ 351: ( 76) * Highway 61 Revisited - Bob Dylan
  352: ( 76) - Shadows In The Night - Bob Dylan
  353: ( 76) * UNCUT 2016-09 - Ones From The Heart - Various
  354: ( 76) * Unplugged... And Seated - Rod Stewart
@@ -498,59 +498,59 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  495: ( 63) - A Kind Revolution (Deluxe) - Paul Weller
  496: ( 63) - American Dream - Lcd Soundsystem
  497: ( 63) - Impossible Dream - Haley Bonar
- 498: ( 63) * Live In Louisville - Carrie Rodriguez
- 499: ( 63) - Loyalty - The Weather Station
- 500: ( 63) - Natalie Prass - Natalie Prass
- 501: ( 63) - The Undertones - The Undertones
- 502: ( 63) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
- 503: ( 62) - Bobby Fuller Died For Your Sins - Chuck Prophet
- 504: ( 62) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
- 505: ( 62) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
- 506: ( 62) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
- 507: ( 62) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
- 508: ( 62) * Raising Sand - Robert Plant & Alison Krauss
- 509: ( 62) * Slow Train Coming - Bob Dylan
- 510: ( 62) - Songs Of Surrender - U2
- 511: ( 62) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
- 512: ( 62) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
- 513: ( 62) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
- 514: ( 61) - Diamond Dogs - David Bowie
- 515: ( 61) * From Langley Park To Memphis - Prefab Sprout
- 516: ( 61) - Jupiter Calling - The Corrs
- 517: ( 61) - Lullabies - Cocteau Twins
- 518: ( 61) - Maverick Years 80-81 - The Mighty Wah!
- 519: ( 61) * Movement [Collector's Edition] - New Order
- 520: ( 61) * Remain In Light - Talking Heads
- 521: ( 61) - Rip It Up - Orange Juice
- 522: ( 61) * Seven Angels On A Bicycle - Carrie Rodriguez
- 523: ( 61) - Song To A Seagull - Joni Mitchell
- 524: ( 61) * Tales Of Light And Darkness - Angie Palmer
- 525: ( 61) - Tarpaper Sky - Rodney Crowell
- 526: ( 61) - The Siren's Song - Kacy & Clayton
- 527: ( 61) - V.U. - The Velvet Underground
- 528: ( 61) * Van Lear Rose - Loretta Lynn
- 529: ( 61) - You Want It Darker - Leonard Cohen
- 530: ( 60) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
- 531: ( 60) * Across The Atlantic - Sarah MacDougall
- 532: ( 60) - American Flowers - Birds of Chicago
- 533: ( 60) - Golden Hour - Kacey Musgraves
- 534: ( 60) - Have You In My Wilderness - Julia Holter
- 535: ( 60) - Hurricane - Grace Jones
- 536: ( 60) - In Concert 1987 - New Order
- 537: ( 60) - Kids In The Street - Justin Townes Earle
- 538: ( 60) - Live At Eddie's Attic - The Civil Wars
- 539: ( 60) - Out Of Our Heads - The Rolling Stones
- 540: ( 60) - Revival - Gillian Welch
- 541: ( 60) - Single Mothers - Justin Townes Earle
- 542: ( 60) - Stranger In The Alps - Phoebe Bridgers
- 543: ( 60) - The Rolling Stones No.2 - The Rolling Stones
- 544: ( 60) - Work, Pt. 1 - Walter Salas-Humara
- 545: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
- 546: ( 59) * Anchors & Anvils - Amy LaVere
- 547: ( 59) * California Star - Martin Stephenson and the Daintees
- 548: ( 59) - I Can't Imagine - Shelby Lynne
- 549: ( 59) - I Love You, Honeybear - Father John Misty
- 550: ( 59) - Isn’T Anything - My Bloody Valentine
+ 498: ( 63) - Isn’T Anything - My Bloody Valentine
+ 499: ( 63) * Live In Louisville - Carrie Rodriguez
+ 500: ( 63) - Loyalty - The Weather Station
+ 501: ( 63) - Natalie Prass - Natalie Prass
+ 502: ( 63) - The Undertones - The Undertones
+ 503: ( 63) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+ 504: ( 62) - Bobby Fuller Died For Your Sins - Chuck Prophet
+ 505: ( 62) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
+ 506: ( 62) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
+ 507: ( 62) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
+ 508: ( 62) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
+ 509: ( 62) * Raising Sand - Robert Plant & Alison Krauss
+ 510: ( 62) * Slow Train Coming - Bob Dylan
+ 511: ( 62) - Songs Of Surrender - U2
+ 512: ( 62) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
+ 513: ( 62) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
+ 514: ( 62) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
+ 515: ( 61) - Diamond Dogs - David Bowie
+ 516: ( 61) * From Langley Park To Memphis - Prefab Sprout
+ 517: ( 61) - Jupiter Calling - The Corrs
+ 518: ( 61) - Lullabies - Cocteau Twins
+ 519: ( 61) - Maverick Years 80-81 - The Mighty Wah!
+ 520: ( 61) * Movement [Collector's Edition] - New Order
+ 521: ( 61) * Remain In Light - Talking Heads
+ 522: ( 61) - Rip It Up - Orange Juice
+ 523: ( 61) * Seven Angels On A Bicycle - Carrie Rodriguez
+ 524: ( 61) - Song To A Seagull - Joni Mitchell
+ 525: ( 61) * Tales Of Light And Darkness - Angie Palmer
+ 526: ( 61) - Tarpaper Sky - Rodney Crowell
+ 527: ( 61) - The Siren's Song - Kacy & Clayton
+ 528: ( 61) - V.U. - The Velvet Underground
+ 529: ( 61) * Van Lear Rose - Loretta Lynn
+ 530: ( 61) - You Want It Darker - Leonard Cohen
+ 531: ( 60) - 1969: The Velvet Underground Live With Lou Reed -- Volume 1 - The Velvet Underground
+ 532: ( 60) * Across The Atlantic - Sarah MacDougall
+ 533: ( 60) - American Flowers - Birds of Chicago
+ 534: ( 60) - Golden Hour - Kacey Musgraves
+ 535: ( 60) - Have You In My Wilderness - Julia Holter
+ 536: ( 60) - Hurricane - Grace Jones
+ 537: ( 60) - In Concert 1987 - New Order
+ 538: ( 60) - Kids In The Street - Justin Townes Earle
+ 539: ( 60) - Live At Eddie's Attic - The Civil Wars
+ 540: ( 60) - Out Of Our Heads - The Rolling Stones
+ 541: ( 60) - Revival - Gillian Welch
+ 542: ( 60) - Single Mothers - Justin Townes Earle
+ 543: ( 60) - Stranger In The Alps - Phoebe Bridgers
+ 544: ( 60) - The Rolling Stones No.2 - The Rolling Stones
+ 545: ( 60) - Work, Pt. 1 - Walter Salas-Humara
+ 546: ( 60) - World Gone Wrong (Remastered) - Bob Dylan
+ 547: ( 59) * Anchors & Anvils - Amy LaVere
+ 548: ( 59) * California Star - Martin Stephenson and the Daintees
+ 549: ( 59) - I Can't Imagine - Shelby Lynne
+ 550: ( 59) - I Love You, Honeybear - Father John Misty
  551: ( 59) - Other - Alison Moyet
  552: ( 59) - Sound Affects (Remastered Version) - The Jam
  553: ( 59) - Suzanne Vega - Suzanne Vega
@@ -631,41 +631,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  628: ( 51) - Miles From Our Home - Cowboy Junkies
  629: ( 51) - Mixed Up - The Cure
  630: ( 51) - North Of A Miracle - Nick Heyward
- 631: ( 50) - An Appointment With Mr Yeats - The Waterboys
- 632: ( 50) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
- 633: ( 50) - Crows - Allison Moorer
- 634: ( 50) - Hold Yer Horses - The Piney Gir Country Roadshow
- 635: ( 50) - Honky Chateau (Remastered) - Elton John
- 636: ( 50) - Miscellaneous Early - Martin Stephenson and the Daintees
- 637: ( 50) - Outlandos D'amour (Remastered) - The Police
- 638: ( 50) * Power, Corruption & Lies - New Order
- 639: ( 50) - Rattle And Hum - U2
- 640: ( 50) - Sinatra - Basie (Remastered) - Count Basie
- 641: ( 50) - The Complete Matrix Tapes #4 - The Velvet Underground
- 642: ( 50) * Unknown Pleasures - Joy Division
- 643: ( 49) - 1982 - A Certain Ratio
- 644: ( 49) - Armed Forces - Elvis Costello & the Attractions
- 645: ( 49) - Hawkwind - Hawkwind
- 646: ( 49) - Last Will & Testament - Bonnie Whitmore
- 647: ( 48) - Another Green World - Brian Eno
- 648: ( 48) - Counterfeit Blues - Corb Lund
- 649: ( 48) - From Another World - Jim Lauderdale
- 650: ( 48) - Live @ Glasgow Pavilion - Martin Stephenson
- 651: ( 48) - Nothing's Gonna Change The Way You Feel About Me Now - Justin Townes Earle
- 652: ( 48) - Oceans - Artery
- 653: ( 48) - Shore - Fleet Foxes
- 654: ( 48) - The Corrs Unplugged - The Corrs
- 655: ( 48) - The Count - Count Basie
- 656: ( 48) - Tracyanne & Danny - Tracyanne & Danny
- 657: ( 47) - Carrying Lightning - Amanda Shires
- 658: ( 47) * Kmag Yoyo (& Other American Stories) - Hayes Carll
- 659: ( 47) - Sgt. Pepper's Lonely Hearts Club Band - The Beatles
- 660: ( 47) - UNCUT 2017-05 - Dreams - Various
- 661: ( 47) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
- 662: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
- 663: ( 46) - The Last Broadcast - Doves
- 664: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
- 665: ( 45) - Waves - Newdad
+ 631: ( 51) - Waves - Newdad
+ 632: ( 50) - An Appointment With Mr Yeats - The Waterboys
+ 633: ( 50) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 634: ( 50) - Crows - Allison Moorer
+ 635: ( 50) - Hold Yer Horses - The Piney Gir Country Roadshow
+ 636: ( 50) - Honky Chateau (Remastered) - Elton John
+ 637: ( 50) - Miscellaneous Early - Martin Stephenson and the Daintees
+ 638: ( 50) - Outlandos D'amour (Remastered) - The Police
+ 639: ( 50) * Power, Corruption & Lies - New Order
+ 640: ( 50) - Rattle And Hum - U2
+ 641: ( 50) - Sinatra - Basie (Remastered) - Count Basie
+ 642: ( 50) - The Complete Matrix Tapes #4 - The Velvet Underground
+ 643: ( 50) * Unknown Pleasures - Joy Division
+ 644: ( 49) - 1982 - A Certain Ratio
+ 645: ( 49) - Armed Forces - Elvis Costello & the Attractions
+ 646: ( 49) - Hawkwind - Hawkwind
+ 647: ( 49) - Last Will & Testament - Bonnie Whitmore
+ 648: ( 48) - Another Green World - Brian Eno
+ 649: ( 48) - Counterfeit Blues - Corb Lund
+ 650: ( 48) - From Another World - Jim Lauderdale
+ 651: ( 48) - Live @ Glasgow Pavilion - Martin Stephenson
+ 652: ( 48) - Nothing's Gonna Change The Way You Feel About Me Now - Justin Townes Earle
+ 653: ( 48) - Oceans - Artery
+ 654: ( 48) - Shore - Fleet Foxes
+ 655: ( 48) - The Corrs Unplugged - The Corrs
+ 656: ( 48) - The Count - Count Basie
+ 657: ( 48) - Tracyanne & Danny - Tracyanne & Danny
+ 658: ( 47) - Carrying Lightning - Amanda Shires
+ 659: ( 47) * Kmag Yoyo (& Other American Stories) - Hayes Carll
+ 660: ( 47) - Sgt. Pepper's Lonely Hearts Club Band - The Beatles
+ 661: ( 47) - UNCUT 2017-05 - Dreams - Various
+ 662: ( 47) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
+ 663: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
+ 664: ( 46) - The Last Broadcast - Doves
+ 665: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
  666: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
  667: ( 44) - Somersault - Beach Fossils
  668: ( 43) - Fat Pop - Paul Weller
@@ -675,14 +675,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  672: ( 41) - Being Brave - Amanda Shires
  673: ( 41) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
  674: ( 40) - Let It Bleed - The Rolling Stones
- 675: ( 39) - Born To Run - Bruce Springsteen
- 676: ( 39) - The Freewheelin' Bob Dylan - Bob Dylan
- 677: ( 38) - Chloë And The Next 20Th Century - Father John Misty
- 678: ( 38) - Suede - Suede
- 679: ( 38) - The Scream - Siouxsie and the Banshees
- 680: ( 37) - I Inside The Old Year Dying - Pj Harvey
- 681: ( 37) - Songs Of The Recollection - Cowboy Junkies
- 682: ( 36) - ...Here's Tom With The Weather - Shack
+ 675: ( 39) - ...Here's Tom With The Weather - Shack
+ 676: ( 39) - Born To Run - Bruce Springsteen
+ 677: ( 39) - The Freewheelin' Bob Dylan - Bob Dylan
+ 678: ( 38) - Chloë And The Next 20Th Century - Father John Misty
+ 679: ( 38) - Suede - Suede
+ 680: ( 38) - The Scream - Siouxsie and the Banshees
+ 681: ( 37) - I Inside The Old Year Dying - Pj Harvey
+ 682: ( 37) - Songs Of The Recollection - Cowboy Junkies
  683: ( 36) - Bad Vibes Demos - Lloyd Cole
  684: ( 34) - Growing Up - The Linda Lindas
  685: ( 34) - Hex Enduction Hour (Expanded Deluxe Edition) - The Fall

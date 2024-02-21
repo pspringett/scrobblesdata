@@ -1,11 +1,11 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   68069          1198          1776         12201
+   68103          1198          1776         12205
    1: (2318) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1874) - Bob Dylan
    4: (1395) - Orchestral Manoeuvres in the Dark
-   5: (1149) - Echo & the Bunnymen
+   5: (1151) - Echo & the Bunnymen
    6: (1134) - U2
    7: (1044) - Various
    8: (1031) - Cocteau Twins
@@ -15,7 +15,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   12: ( 915) - Cowboy Junkies
   13: ( 863) - Laura Marling
   14: ( 850) - Leonard Cohen
-  15: ( 807) - Orange Juice
+  15: ( 817) - Orange Juice
   16: ( 767) - New Order
   17: ( 728) - Altered Images
   18: ( 721) - The Beatles
@@ -44,8 +44,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   41: ( 461) - Sarah MacDougall
   42: ( 442) - The Redlands Palomino Company
   43: ( 436) - Elvis Costello
-  44: ( 423) - Birds of Chicago
-  45: ( 422) - Yazoo
+  44: ( 431) - Yazoo
+  45: ( 423) - Birds of Chicago
   46: ( 412) - Lloyd Cole and the Commotions
   47: ( 407) - Roddy Frame
   48: ( 386) - Eliza Gilkyson
@@ -114,12 +114,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  111: ( 138) - Hawkwind
  112: ( 135) - Eyeless in Gaza
  113: ( 134) - Joy Division
- 114: ( 133) - Alison Moyet
- 115: ( 133) - Bob Marley & the Wailers
- 116: ( 133) - Jack Harris
- 117: ( 133) - Rachel Harrington
- 118: ( 130) - Gillian Welch
- 119: ( 130) - My Bloody Valentine
+ 114: ( 134) - My Bloody Valentine
+ 115: ( 133) - Alison Moyet
+ 116: ( 133) - Bob Marley & the Wailers
+ 117: ( 133) - Jack Harris
+ 118: ( 133) - Rachel Harrington
+ 119: ( 130) - Gillian Welch
  120: ( 130) - The Sundays
  121: ( 129) - The Civil Wars
  122: ( 127) - Kacy & Clayton
@@ -248,20 +248,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  245: (  52) - The Police
  246: (  51) - Bruce Springsteen
  247: (  51) - Doves
- 248: (  50) - The Piney Gir Country Roadshow
- 249: (  49) - Bonnie Whitmore
- 250: (  48) - Artery
- 251: (  48) - Brian Eno
- 252: (  48) - Tracyanne & Danny
- 253: (  45) - Michael Head & the Red Elastic Band
- 254: (  45) - Newdad
+ 248: (  51) - Newdad
+ 249: (  50) - The Piney Gir Country Roadshow
+ 250: (  49) - Bonnie Whitmore
+ 251: (  48) - Artery
+ 252: (  48) - Brian Eno
+ 253: (  48) - Tracyanne & Danny
+ 254: (  45) - Michael Head & the Red Elastic Band
  255: (  44) - Beach Fossils
- 256: (  39) - Weyes Blood
- 257: (  38) - Suede
- 258: (  37) - Jeff Bridges
- 259: (  37) - Pj Harvey
- 260: (  37) - Yo La Tengo
- 261: (  36) - Shack
+ 256: (  39) - Shack
+ 257: (  39) - Weyes Blood
+ 258: (  38) - Suede
+ 259: (  37) - Jeff Bridges
+ 260: (  37) - Pj Harvey
+ 261: (  37) - Yo La Tengo
  262: (  34) - The Linda Lindas
  263: (  32) - Duke Garwood
  264: (  32) - Love
