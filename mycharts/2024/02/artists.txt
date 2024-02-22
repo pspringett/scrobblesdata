@@ -1,6 +1,6 @@
 Specified year (2024), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     223            18            19           146
+     241            21            19           151
  1: (42) - Orange Juice
 
 
@@ -21,16 +21,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  3: (23) - The Last Dinner Party
+ 4: (22) - Slowdive
+
+ 5: (20) - Margo Price
 
 
 
 
-
- 4: (17) - Margo Price
-
- 5: (15) - My Bloody Valentine
- 6: (15) - Shack
- 7: (15) - Slowdive
+ 6: (15) - My Bloody Valentine
+ 7: (15) - Shack
 
 
  8: (12) - Martin Stephenson and the Daintees
@@ -39,12 +38,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 10: ( 9) - Bdrmm
 11: ( 9) - Yazoo
 12: ( 8) - Angie Palmer
+13: ( 8) - Echo & the Bunnymen
 
 
-13: ( 5) - Body Type
-14: ( 4) - Echo & the Bunnymen
+14: ( 5) - Body Type
 15: ( 4) - Josh Ritter
 16: ( 4) - The Bluebells
 
 17: ( 2) - David Bowie
-18: ( 1) - Margo Price, Jonathan Wilson
+18: ( 2) - Margo Price, Jonathan Wilson
+19: ( 1) - Margo Price, Jonathan Wilson, Buck Meek
+20: ( 1) - Margo Price, Mike Campbell
+21: ( 1) - Margo Price, Ny Oh
