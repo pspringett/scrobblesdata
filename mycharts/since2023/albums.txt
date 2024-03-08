@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3650            84           121          1101
+    3690            88           122          1110
   1: (119) - Expired Candy - Body Type
   2: (118) - Everything Is Alive - Slowdive
   3: (118) - The Candle And The Flame - Robert Forster
@@ -17,15 +17,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   7: (107) - Garbage Island - The Burning Hell
 
 
-
-  8: (103) - I Don't Know - Bdrmm
-
-
-
-
-
-
-  9: ( 96) - Just For A Day - Slowdive
+  8: (104) - Just For A Day - Slowdive
+  9: (103) - I Don't Know - Bdrmm
 
 
 
@@ -33,7 +26,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 10: ( 88) - Live At The Royal Albert Hall - Echo & the Bunnymen
+
+
+
+ 10: ( 92) - Live At The Royal Albert Hall - Echo & the Bunnymen
+
+
+
+
 
  11: ( 86) - The Boy's Heart - Martin Stephenson and the Daintees
 
@@ -55,10 +55,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  14: ( 70) - Get Behind The Wheel - Eilen Jewell
  15: ( 70) - Loveless - My Bloody Valentine
 
+ 16: ( 68) * Reading, Writing & Arithmetic - The Sundays
+ 17: ( 67) - Such Ferocious Beauty - Cowboy Junkies
+ 18: ( 66) - Mascara Streakz - Altered Images
 
- 16: ( 67) - Such Ferocious Beauty - Cowboy Junkies
- 17: ( 66) - Mascara Streakz - Altered Images
- 18: ( 65) * Reading, Writing & Arithmetic - The Sundays
 
  19: ( 63) - Isn’T Anything - My Bloody Valentine
  20: ( 62) - Songs Of Surrender - U2
@@ -89,15 +89,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 38) - Suede - Suede
  33: ( 37) - I Inside The Old Year Dying - Pj Harvey
 
+ 34: ( 35) - Strays Ii - Margo Price
 
 
 
-
- 34: ( 31) - And In The Darkness, Hearts Aglow - Weyes Blood
- 35: ( 31) * Boy - U2
- 36: ( 31) - Live At Ronnie Scotts - Weekend
- 37: ( 31) - Nowhere - Ride
- 38: ( 31) - Strays Ii - Margo Price
+ 35: ( 31) - And In The Darkness, Hearts Aglow - Weyes Blood
+ 36: ( 31) * Boy - U2
+ 37: ( 31) - Live At Ronnie Scotts - Weekend
+ 38: ( 31) - Nowhere - Ride
  39: ( 31) * The Caution Horses - Cowboy Junkies
  40: ( 30) - This Is Why - Paramore
  41: ( 29) - La Variete - Weekend
@@ -129,56 +128,61 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  67: ( 18) - Rogues Gospel - Duke Garwood
  68: ( 17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
  69: ( 17) - Valley Of The Dolls - Brix Smith
- 70: ( 16) - Metrobolist (Aka The Man Who Sold The World) [2020 Mix] - David Bowie
- 71: ( 16) - The Specials - The Specials
- 72: ( 15) - Substance - New Order
- 73: ( 14) - Coals To Newcastle - Orange Juice
- 74: ( 13) - Introducing The Style Council - The Style Council
- 75: ( 13) * Lay It Down - Cowboy Junkies
- 76: ( 13) * Love Story - Lloyd Cole
- 77: ( 12) - Acoustic - Simple Minds
- 78: ( 12) * Black Eyed Man - Cowboy Junkies
- 79: ( 12) - Love Story Demos - Lloyd Cole
- 80: ( 11) * Faith - The Cure
- 81: ( 11) - Guesswork - Lloyd Cole
- 82: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
- 83: ( 11) - Laurel Canyon - Laurel Canyon
- 84: ( 11) - Marquee Moon - Television
- 85: ( 11) - Rumours - Fleetwood Mac
- 86: ( 11) - The Lexicon Of Love - ABC
- 87: ( 10) - Rat Saw God - Wednesday
- 88: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
- 89: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
- 90: (  9) - Reel To Real Cacophony - Simple Minds
- 91: (  9) - Singles 1965-1967 - The Rolling Stones
- 92: (  9) - Siren - Roxy Music
- 93: (  9) - Speaking In Tongues - Talking Heads
- 94: (  8) - Elevation Days - Edwyn Collins
- 95: (  8) * Road - Angie Palmer
- 96: (  7) * Scott - Scott Walker
- 97: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
- 98: (  6) - Sermon On The Rocks - Josh Ritter
- 99: (  6) * Texas Fever - Orange Juice
-100: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+ 70: ( 17) - Victorialand - Cocteau Twins
+ 71: ( 16) - Metrobolist (Aka The Man Who Sold The World) [2020 Mix] - David Bowie
+ 72: ( 16) - The Specials - The Specials
+ 73: ( 15) - Substance - New Order
+ 74: ( 14) - Coals To Newcastle - Orange Juice
+ 75: ( 13) - Introducing The Style Council - The Style Council
+ 76: ( 13) * Lay It Down - Cowboy Junkies
+ 77: ( 13) * Love Story - Lloyd Cole
+ 78: ( 12) - Acoustic - Simple Minds
+ 79: ( 12) * Black Eyed Man - Cowboy Junkies
+ 80: ( 12) - Love Story Demos - Lloyd Cole
+ 81: ( 11) * Faith - The Cure
+ 82: ( 11) - Guesswork - Lloyd Cole
+ 83: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+ 84: ( 11) - Laurel Canyon - Laurel Canyon
+ 85: ( 11) - Marquee Moon - Television
+ 86: ( 11) - Rumours - Fleetwood Mac
+ 87: ( 11) - The Lexicon Of Love - ABC
+ 88: ( 10) - Rat Saw God - Wednesday
+ 89: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+ 90: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
+ 91: (  9) - Reel To Real Cacophony - Simple Minds
+ 92: (  9) - Singles 1965-1967 - The Rolling Stones
+ 93: (  9) - Siren - Roxy Music
+ 94: (  9) - Speaking In Tongues - Talking Heads
+ 95: (  8) - Elevation Days - Edwyn Collins
+ 96: (  8) * Road - Angie Palmer
+ 97: (  7) * Scott - Scott Walker
+ 98: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
+ 99: (  6) - Sermon On The Rocks - Josh Ritter
+100: (  6) * Texas Fever - Orange Juice
+101: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
 
-101: (  4) * Closer - Joy Division
-102: (  4) * Pornography - The Cure
-103: (  3) - Everything's Gone Green (2019 Remaster) - New Order
-104: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
-105: (  3) - Treasure - Cocteau Twins
-106: (  3) - Upstairs at Erics - Yazoo
-107: (  2) - Aspirin Sun - Emma Tricca
-108: (  2) - Early - Scritti Politti
-109: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-110: (  2) - Sweet Misdemeanour - Martin Stephenson
-111: (  2) - Totale's Turns (It's Now Or Never) - The Fall
-112: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-113: (  1) - Conditions - The Temper Trap
-114: (  1) - Dragnet - The Fall
-115: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-116: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-117: (  1) - London Boy - David Bowie
-118: (  1) * Scott 2 - Scott Walker
-119: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
-120: (  1) - The Best Of - Joy Division
-121: (  1) * The Collection - Altered Images
+102: (  4) * Closer - Joy Division
+103: (  4) * Pornography - The Cure
+104: (  3) - Everything's Gone Green (2019 Remaster) - New Order
+105: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
+106: (  3) - Treasure - Cocteau Twins
+107: (  3) - Upstairs at Erics - Yazoo
+108: (  2) - Aspirin Sun - Emma Tricca
+109: (  2) - Early - Scritti Politti
+110: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
+111: (  2) - Sweet Misdemeanour - Martin Stephenson
+112: (  2) - Totale's Turns (It's Now Or Never) - The Fall
+113: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+114: (  1) - Conditions - The Temper Trap
+115: (  1) - Dragnet - The Fall
+116: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+117: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+118: (  1) - London Boy - David Bowie
+119: (  1) * Scott 2 - Scott Walker
+120: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
+121: (  1) - Strays Ii - Margo Price, Jonathan Wilson
+122: (  1) - Strays Ii - Margo Price, Jonathan Wilson, Buck Meek
+123: (  1) - Strays Ii - Margo Price, Mike Campbell
+124: (  1) - Strays Ii - Margo Price, Ny Oh
+125: (  1) - The Best Of - Joy Division
+126: (  1) * The Collection - Altered Images
