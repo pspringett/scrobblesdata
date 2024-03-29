@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3820            90           126          1146
+    3895            91           130          1156
  1: (244) - Slowdive
 
 
@@ -124,23 +124,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (124) - Lloyd Cole
  7: (123) - Cowboy Junkies
 
+ 8: (121) - Robert Forster
 
-
- 8: (119) - Body Type
- 9: (118) - Robert Forster
-
-
+ 9: (119) - Body Type
 
 
 
-10: (112) - U2
 
-11: (110) - Altered Images
-12: (109) - The Bluebells
 
-13: (107) - The Burning Hell
+10: (113) - Orchestral Manoeuvres in the Dark
+11: (112) - U2
 
-14: (105) - Orchestral Manoeuvres in the Dark
+12: (110) - Altered Images
+13: (109) - The Bluebells
+
+14: (107) - The Burning Hell
+
+
 
 15: (103) - Bdrmm
 
@@ -160,6 +160,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 17: ( 86) - Martin Stephenson and the Daintees
+18: ( 86) - Ride
+
+19: ( 84) - Orange Juice
 
 
 
@@ -170,26 +173,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-18: ( 75) - Orange Juice
+20: ( 73) - Newdad
 
+21: ( 71) - David Bowie
+22: ( 70) - Alaska Reid
+23: ( 70) - Eilen Jewell
 
-
-19: ( 71) - David Bowie
-20: ( 70) - Alaska Reid
-21: ( 70) - Eilen Jewell
-
-22: ( 68) - The Sundays
-
-
-23: ( 65) - Newdad
+24: ( 68) - The Sundays
 
 
 
 
-24: ( 60) - Weekend
 
 
-25: ( 57) - Ride
+
+25: ( 60) - Weekend
+
+
+
 26: ( 56) - Simple Minds
 27: ( 55) - Rod Stewart
 
@@ -215,26 +216,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 34: ( 32) - Nightbus
-35: ( 31) - Weyes Blood
-36: ( 30) - Edwyn Collins
-37: ( 30) - Paramore
-38: ( 29) - Be Your Own Pet
-39: ( 28) - The Smiths
-40: ( 28) - The Zephyrs
-41: ( 27) - The Corrs
-42: ( 27) - Yazoo
+35: ( 31) - Cocteau Twins
+36: ( 31) - Weyes Blood
+37: ( 30) - Edwyn Collins
+38: ( 30) - Paramore
+39: ( 29) - Be Your Own Pet
+40: ( 28) - The Last Dinner Party
+41: ( 28) - The Smiths
+42: ( 28) - The Zephyrs
+43: ( 27) - The Corrs
+44: ( 27) - Yazoo
 
-43: ( 25) - Taylor Swift
-44: ( 24) - The B-52's
-45: ( 23) - The Last Dinner Party
-46: ( 22) - Curtis Mayfield
-47: ( 22) - Inhaler
-48: ( 22) - Jana Horn
-49: ( 22) - Steve Mason
-50: ( 21) - Cut Worms
-51: ( 21) - Drop Nineteens
-52: ( 21) - Shelby Lynne, Allison Moorer
-53: ( 20) - Cocteau Twins
+45: ( 25) - Taylor Swift
+46: ( 24) - The B-52's
+
+47: ( 22) - Curtis Mayfield
+48: ( 22) - Inhaler
+49: ( 22) - Jana Horn
+50: ( 22) - Steve Mason
+51: ( 21) - Cut Worms
+52: ( 21) - Drop Nineteens
+53: ( 21) - Shelby Lynne, Allison Moorer
 54: ( 20) - The National
 55: ( 19) - Love
 56: ( 18) - Duke Garwood
@@ -266,14 +268,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 78: (  3) - Elvis Costello & the Attractions
 79: (  3) - The Fall
-80: (  2) - Emma Tricca
-81: (  2) - Martin Stephenson
-82: (  2) - Scritti Politti
-83: (  2) - The Wailers
-84: (  1) - Eric Clapton
-85: (  1) - Margo Price, Jonathan Wilson
-86: (  1) - Margo Price, Jonathan Wilson, Buck Meek
-87: (  1) - Margo Price, Mike Campbell
-88: (  1) - Margo Price, Ny Oh
-89: (  1) - Nick Lowe
-90: (  1) - The Temper Trap
+80: (  2) - Blue Bendy
+81: (  2) - Emma Tricca
+82: (  2) - Martin Stephenson
+83: (  2) - Scritti Politti
+84: (  2) - The Wailers
+85: (  1) - Eric Clapton
+86: (  1) - Margo Price, Jonathan Wilson
+87: (  1) - Margo Price, Jonathan Wilson, Buck Meek
+88: (  1) - Margo Price, Mike Campbell
+89: (  1) - Margo Price, Ny Oh
+90: (  1) - Nick Lowe
+91: (  1) - The Temper Trap
