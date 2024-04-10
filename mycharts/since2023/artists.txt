@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3905            91           131          1156
+    3981            94           137          1201
  1: (244) - Slowdive
 
 
@@ -105,34 +105,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 3: (140) - Bob Dylan
+
+
+
+ 4: (136) - Josh Ritter
+
+
+ 5: (133) - My Bloody Valentine
 
 
 
 
- 3: (136) - Josh Ritter
 
-
- 4: (133) - My Bloody Valentine
-
-
-
- 5: (129) - Bob Dylan
+ 6: (127) - Lloyd Cole
 
 
 
-
- 6: (124) - Lloyd Cole
  7: (123) - Cowboy Junkies
 
  8: (121) - Robert Forster
 
  9: (119) - Body Type
 
+10: (117) - Orchestral Manoeuvres in the Dark
 
 
 
 
-10: (113) - Orchestral Manoeuvres in the Dark
 11: (112) - U2
 
 12: (110) - Altered Images
@@ -140,10 +140,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 14: (107) - The Burning Hell
 
-
-
-15: (103) - Bdrmm
-
+15: (105) - Bdrmm
 
 
 
@@ -153,21 +150,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-16: ( 92) - Echo & the Bunnymen
+16: ( 95) - Newdad
+
+
+17: ( 92) - Echo & the Bunnymen
+18: ( 92) - Ride
+
+
+
+
+19: ( 87) - Martin Stephenson and the Daintees
+
+
+20: ( 84) - Orange Juice
 
 
 
 
 
-17: ( 86) - Martin Stephenson and the Daintees
-18: ( 86) - Ride
-
-19: ( 84) - Orange Juice
-
-
-
-
-20: ( 79) - Newdad
 
 
 
@@ -216,8 +216,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-34: ( 32) - Nightbus
-35: ( 31) - Cocteau Twins
+34: ( 32) - Cocteau Twins
+35: ( 32) - Nightbus
 36: ( 31) - Weyes Blood
 37: ( 30) - Edwyn Collins
 38: ( 30) - Paramore
@@ -245,39 +245,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 58: ( 17) - Bill Nelson
 59: ( 17) - Brix Smith
 60: ( 16) - The Specials
-61: ( 15) - The Cure
-62: ( 14) - Angie Palmer
-63: ( 14) - The Style Council
+61: ( 15) - Devine & Statton
+62: ( 15) - The Cure
+63: ( 14) - Angie Palmer
+64: ( 14) - The Style Council
 
 
-64: ( 11) - ABC
-65: ( 11) - Fleetwood Mac
-66: ( 11) - Laura Cantrell
-67: ( 11) - Laurel Canyon
-68: ( 11) - Television
-69: ( 10) - The Velvet Underground
-70: ( 10) - Wednesday
-71: (  9) - Brian Eno & David Byrne
-72: (  9) - Roxy Music
-73: (  9) - Talking Heads
-74: (  9) - The Rolling Stones
-75: (  8) - Scott Walker
-76: (  8) - The Feelies
+65: ( 11) - ABC
+66: ( 11) - Fleetwood Mac
+67: ( 11) - Laura Cantrell
+68: ( 11) - Laurel Canyon
+69: ( 11) - Television
+70: ( 10) - The Jam
+71: ( 10) - The Velvet Underground
+72: ( 10) - Wednesday
+73: (  9) - Brian Eno & David Byrne
+74: (  9) - Roxy Music
+75: (  9) - Talking Heads
+76: (  9) - The Rolling Stones
+77: (  8) - Scott Walker
+78: (  8) - The Feelies
+79: (  7) - Mint Mile
 
+80: (  5) - Joy Division
 
-77: (  5) - Joy Division
-
-78: (  3) - Elvis Costello & the Attractions
-79: (  3) - The Fall
-80: (  2) - Blue Bendy
-81: (  2) - Emma Tricca
-82: (  2) - Martin Stephenson
-83: (  2) - Scritti Politti
-84: (  2) - The Wailers
-85: (  1) - Eric Clapton
-86: (  1) - Margo Price, Jonathan Wilson
-87: (  1) - Margo Price, Jonathan Wilson, Buck Meek
-88: (  1) - Margo Price, Mike Campbell
-89: (  1) - Margo Price, Ny Oh
-90: (  1) - Nick Lowe
-91: (  1) - The Temper Trap
+81: (  3) - Elvis Costello & the Attractions
+82: (  3) - The Fall
+83: (  2) - Blue Bendy
+84: (  2) - Emma Tricca
+85: (  2) - Martin Stephenson
+86: (  2) - Scritti Politti
+87: (  2) - The Wailers
+88: (  1) - Eric Clapton
+89: (  1) - Margo Price, Jonathan Wilson
+90: (  1) - Margo Price, Jonathan Wilson, Buck Meek
+91: (  1) - Margo Price, Mike Campbell
+92: (  1) - Margo Price, Ny Oh
+93: (  1) - Nick Lowe
+94: (  1) - The Temper Trap
