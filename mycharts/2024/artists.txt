@@ -1,7 +1,13 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     999            40            56           459
- 1: (122) - Newdad
+    1032            41            58           473
+ 1: (128) - Newdad
+
+
+
+
+
+
 
 
 
@@ -54,9 +60,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
- 3: ( 67) - Ride
+ 3: ( 69) - Ride
 
 
 
@@ -65,7 +69,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 4: ( 58) - Orchestral Manoeuvres in the Dark
+ 4: ( 60) - Orchestral Manoeuvres in the Dark
+
+
 
 
  5: ( 55) - Orange Juice
@@ -90,20 +96,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 9: ( 34) - English Teacher
+
+10: ( 32) - Martin Stephenson and the Daintees
 
 
- 9: ( 32) - Martin Stephenson and the Daintees
-
-
-10: ( 29) - Bob Dylan
-11: ( 29) - Cocteau Twins
-12: ( 28) - English Teacher
+11: ( 29) - Bob Dylan
+12: ( 29) - Cocteau Twins
 13: ( 28) - The Last Dinner Party
 
 
-
-14: ( 24) - Mint Mile
-15: ( 23) - Bdrmm
+14: ( 25) - Bdrmm
+15: ( 24) - Mint Mile
 16: ( 23) - Echo & the Bunnymen
 17: ( 22) - Edwyn Collins
 
@@ -115,24 +119,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 20: ( 16) - Weekend
 21: ( 15) - Lloyd Cole
 22: ( 14) - Angie Palmer
-23: ( 13) - Martin Stephenson
-24: ( 13) - The Fall
-25: ( 12) - Robert Forster
-26: ( 11) - Body Type
-27: ( 11) - Fleetwood Mac
-28: ( 11) - Yazoo
-29: ( 10) - Nightbus
-30: ( 10) - The Jam
-31: ( 10) - The Velvet Underground
-32: (  9) - David Bowie
-33: (  9) - Talking Heads
-34: (  8) - The Feelies
+23: ( 14) - Simple Minds
+24: ( 13) - Martin Stephenson
+25: ( 13) - The Fall
+26: ( 12) - Robert Forster
+27: ( 11) - Body Type
+28: ( 11) - Fleetwood Mac
+29: ( 11) - Yazoo
+30: ( 10) - Nightbus
+31: ( 10) - The Jam
+32: ( 10) - The Velvet Underground
+33: (  9) - David Bowie
+34: (  9) - Talking Heads
+35: (  8) - The Feelies
 
 
-
-35: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-36: (  4) - Simple Minds
-37: (  4) - The Bluebells
-38: (  4) - The Burning Hell
-39: (  3) - The Sundays
-40: (  2) - Blue Bendy
+36: (  5) - The Cure
+37: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+38: (  4) - The Bluebells
+39: (  4) - The Burning Hell
+40: (  3) - The Sundays
+41: (  2) - Blue Bendy

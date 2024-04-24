@@ -1,7 +1,7 @@
 Specified year (2024), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     224            15            21           147
- 1: (49) - Newdad
+     257            18            24           164
+ 1: (55) - Newdad
 
 
 
@@ -22,7 +22,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (28) - English Teacher
+ 2: (34) - English Teacher
+
+
+
+
+
+
 
 
 
@@ -37,19 +43,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (16) - Devine & Statton
  6: (15) - Bob Dylan
  7: (15) - Lloyd Cole
-
- 8: (13) - Martin Stephenson
- 9: (13) - The Fall
-10: (12) - Ride
-
-11: (10) - The Jam
+ 8: (14) - Ride
+ 9: (13) - Martin Stephenson
+10: (13) - The Fall
 
 
+11: (10) - Simple Minds
+12: (10) - The Jam
 
 
 
-12: ( 4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
 
-13: ( 2) - Bdrmm
-14: ( 2) - Echo & the Bunnymen
-15: ( 1) - Cocteau Twins
+13: ( 5) - The Cure
+14: ( 4) - Bdrmm
+15: ( 4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+
+16: ( 2) - Echo & the Bunnymen
+17: ( 2) - Orchestral Manoeuvres in the Dark
+18: ( 1) - Cocteau Twins
