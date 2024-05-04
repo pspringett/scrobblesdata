@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   68746          1202          1791         12306
+   68784          1202          1791         12306
    1: (2340) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1894) - Bob Dylan
@@ -58,9 +58,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   55: ( 338) - The Fall
   56: ( 330) - Aztec Camera
   57: ( 326) - Amanda Shires
-  58: ( 312) - Heaven 17
-  59: ( 310) - Gretchen Peters
-  60: ( 309) - St. Vincent
+  58: ( 319) - St. Vincent
+  59: ( 312) - Heaven 17
+  60: ( 310) - Gretchen Peters
   61: ( 300) - The Weather Station
   62: ( 298) - Kate Bush
   63: ( 298) - Margo Price
@@ -98,12 +98,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   95: ( 175) - Mary Chapin Carpenter
   96: ( 171) - JT and the Clouds
   97: ( 170) - Joni Mitchell
-  98: ( 161) - Blondie
-  99: ( 161) - Paul McCartney
- 100: ( 159) - Brigid Mae Power
- 101: ( 156) - Amy LaVere
- 102: ( 155) - Chip Taylor & Carrie Rodriguez
- 103: ( 153) - Newdad
+  98: ( 164) - Newdad
+  99: ( 161) - Blondie
+ 100: ( 161) - Paul McCartney
+ 101: ( 159) - Brigid Mae Power
+ 102: ( 156) - Amy LaVere
+ 103: ( 155) - Chip Taylor & Carrie Rodriguez
  104: ( 147) - JT Nero
  105: ( 147) - Lizanne Knott
  106: ( 146) - Jason Isbell and the 400 Unit
@@ -201,23 +201,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  198: (  71) - Dire Straits
  199: (  71) - Stevie Parker
  200: (  70) - Alaska Reid
- 201: (  70) - Kraftwerk
- 202: (  69) - Courtney Barnett
- 203: (  69) - Dolly Parton
- 204: (  69) - Noah and the Whale
- 205: (  68) - Laura Gibson
- 206: (  68) - Wet Leg
- 207: (  67) - The Mavericks
- 208: (  67) - Wah!
- 209: (  66) - Sarah Jarosz
- 210: (  66) - She Drew the Gun
- 211: (  66) - The Doors
- 212: (  65) - Catatonia
- 213: (  65) - Small Faces
- 214: (  64) - Inhaler
- 215: (  64) - Margaret Glaspy
- 216: (  64) - Striking Matches
- 217: (  63) - English Teacher
+ 201: (  70) - English Teacher
+ 202: (  70) - Kraftwerk
+ 203: (  69) - Courtney Barnett
+ 204: (  69) - Dolly Parton
+ 205: (  69) - Noah and the Whale
+ 206: (  68) - Laura Gibson
+ 207: (  68) - Wet Leg
+ 208: (  67) - The Mavericks
+ 209: (  67) - Wah!
+ 210: (  66) - Sarah Jarosz
+ 211: (  66) - She Drew the Gun
+ 212: (  66) - The Doors
+ 213: (  65) - Catatonia
+ 214: (  65) - Small Faces
+ 215: (  64) - Inhaler
+ 216: (  64) - Margaret Glaspy
+ 217: (  64) - Striking Matches
  218: (  63) - Haley Bonar
  219: (  63) - Ian McCulloch
  220: (  63) - Lcd Soundsystem
@@ -293,63 +293,63 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  290: (  21) - Cut Worms
  291: (  21) - Drop Nineteens
  292: (  21) - Shelby Lynne, Allison Moorer
- 293: (  20) - Magazine
- 294: (  20) - The Blue Nile
- 295: (  20) - The National
- 296: (  19) - Field Music
- 297: (  19) - Paul & Linda Mccartney
- 298: (  18) - Michael Stipe
- 299: (  18) - Paul Haig
- 300: (  18) - The Cool Greenhouse
- 301: (  17) - Aswad
- 302: (  17) - Bill Nelson
- 303: (  17) - Brix Smith
- 304: (  17) - Kurt Vile
- 305: (  17) - R.E.M.
- 306: (  17) - The Specials
- 307: (  16) - Patti Smith
- 308: (  16) - The Dream Syndicate
- 309: (  15) - Martin Stephenson, John Perry
- 310: (  15) - The Fire Engines
- 311: (  14) - David Byrne
- 312: (  14) - Fontaines D.c.
- 313: (  14) - Green Gartside
- 314: (  14) - Sparks
- 315: (  14) - William Tyler
- 316: (  13) - David Byrne & St. Vincent
- 317: (  13) - John Cale
- 318: (  13) - Kristin Hersh
- 319: (  13) - Miranda Lambert
- 320: (  13) - Ryan Bingham
- 321: (  13) - Tubeway Army
- 322: (  12) - Belle and Sebastian
- 323: (  12) - Callaghan
- 324: (  12) - Duran Duran
- 325: (  12) - Goldfrapp
- 326: (  12) - Jim Croce
- 327: (  12) - John Foxx
- 328: (  12) - Max Romeo
- 329: (  12) - Myrtle Park's Fishing Club
- 330: (  12) - The Church
- 331: (  12) - The Jimi Hendrix Experience
- 332: (  12) - The Men
- 333: (  11) - Colin Farrell
- 334: (  11) - Dry Cleaning
- 335: (  11) - Elizabeth Cook
- 336: (  11) - Françoise Hardy
- 337: (  11) - Grace Petrie
- 338: (  11) - Guy Clark
- 339: (  11) - Hatchie
- 340: (  11) - Jessica Pratt
- 341: (  11) - Joan Shelley
- 342: (  11) - Laurel Canyon
- 343: (  11) - Matt Berninger
- 344: (  11) - Peel.Rocks Magazine
- 345: (  11) - Rolling Blackouts Coastal Fever
- 346: (  11) - Television
- 347: (  11) - Travis Linville
- 348: (  10) - Cara Luft
- 349: (  10) - Coach Party
+ 293: (  20) - Coach Party
+ 294: (  20) - Magazine
+ 295: (  20) - The Blue Nile
+ 296: (  20) - The National
+ 297: (  19) - Field Music
+ 298: (  19) - Paul & Linda Mccartney
+ 299: (  18) - Michael Stipe
+ 300: (  18) - Paul Haig
+ 301: (  18) - The Cool Greenhouse
+ 302: (  17) - Aswad
+ 303: (  17) - Bill Nelson
+ 304: (  17) - Brix Smith
+ 305: (  17) - Kurt Vile
+ 306: (  17) - R.E.M.
+ 307: (  17) - The Specials
+ 308: (  16) - Patti Smith
+ 309: (  16) - The Dream Syndicate
+ 310: (  15) - Martin Stephenson, John Perry
+ 311: (  15) - The Fire Engines
+ 312: (  14) - David Byrne
+ 313: (  14) - Fontaines D.c.
+ 314: (  14) - Green Gartside
+ 315: (  14) - Sparks
+ 316: (  14) - William Tyler
+ 317: (  13) - David Byrne & St. Vincent
+ 318: (  13) - John Cale
+ 319: (  13) - Kristin Hersh
+ 320: (  13) - Miranda Lambert
+ 321: (  13) - Ryan Bingham
+ 322: (  13) - Tubeway Army
+ 323: (  12) - Belle and Sebastian
+ 324: (  12) - Callaghan
+ 325: (  12) - Duran Duran
+ 326: (  12) - Goldfrapp
+ 327: (  12) - Jim Croce
+ 328: (  12) - John Foxx
+ 329: (  12) - Max Romeo
+ 330: (  12) - Myrtle Park's Fishing Club
+ 331: (  12) - The Church
+ 332: (  12) - The Jimi Hendrix Experience
+ 333: (  12) - The Men
+ 334: (  11) - Colin Farrell
+ 335: (  11) - Dry Cleaning
+ 336: (  11) - Elizabeth Cook
+ 337: (  11) - Françoise Hardy
+ 338: (  11) - Grace Petrie
+ 339: (  11) - Guy Clark
+ 340: (  11) - Hatchie
+ 341: (  11) - Jessica Pratt
+ 342: (  11) - Joan Shelley
+ 343: (  11) - Laurel Canyon
+ 344: (  11) - Matt Berninger
+ 345: (  11) - Peel.Rocks Magazine
+ 346: (  11) - Rolling Blackouts Coastal Fever
+ 347: (  11) - Television
+ 348: (  11) - Travis Linville
+ 349: (  10) - Cara Luft
  350: (  10) - Dinah Washington
  351: (  10) - Easy Star All-stars
  352: (  10) - Elastica
