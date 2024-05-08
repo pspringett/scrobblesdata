@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   68831          1203          1792         12309
+   68845          1203          1793         12315
    1: (2340) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1894) - Bob Dylan
@@ -94,9 +94,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   91: ( 189) - Bryan Ferry
   92: ( 188) - Robert Plant
   93: ( 185) - The Beach Boys
-  94: ( 180) - Spandau Ballet
-  95: ( 175) - Mary Chapin Carpenter
-  96: ( 175) - Newdad
+  94: ( 180) - Newdad
+  95: ( 180) - Spandau Ballet
+  96: ( 175) - Mary Chapin Carpenter
   97: ( 171) - JT and the Clouds
   98: ( 170) - Joni Mitchell
   99: ( 161) - Blondie
@@ -169,10 +169,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  166: (  86) - Led Zeppelin
  167: (  86) - Lou Reed
  168: (  86) - Peter Hammill
- 169: (  84) - Sara Watkins
- 170: (  84) - The Clash
- 171: (  83) - Laura Cantrell
- 172: (  82) - English Teacher
+ 169: (  85) - English Teacher
+ 170: (  84) - Sara Watkins
+ 171: (  84) - The Clash
+ 172: (  83) - Laura Cantrell
  173: (  82) - Jean Toussaint
  174: (  82) - The B-52's
  175: (  80) - Focus
@@ -305,43 +305,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  302: (  17) - Aswad
  303: (  17) - Bill Nelson
  304: (  17) - Brix Smith
- 305: (  17) - Kurt Vile
- 306: (  17) - R.E.M.
- 307: (  17) - The Specials
- 308: (  16) - Patti Smith
- 309: (  16) - The Dream Syndicate
- 310: (  15) - Martin Stephenson, John Perry
- 311: (  15) - The Fire Engines
- 312: (  14) - David Byrne
- 313: (  14) - Fontaines D.c.
- 314: (  14) - Green Gartside
- 315: (  14) - Sparks
- 316: (  14) - William Tyler
- 317: (  13) - David Byrne & St. Vincent
- 318: (  13) - John Cale
- 319: (  13) - Kristin Hersh
- 320: (  13) - Miranda Lambert
- 321: (  13) - Ryan Bingham
- 322: (  13) - Tubeway Army
- 323: (  12) - Belle and Sebastian
- 324: (  12) - Callaghan
- 325: (  12) - Duran Duran
- 326: (  12) - Goldfrapp
- 327: (  12) - Jim Croce
- 328: (  12) - John Foxx
- 329: (  12) - Max Romeo
- 330: (  12) - Myrtle Park's Fishing Club
- 331: (  12) - The Church
- 332: (  12) - The Jimi Hendrix Experience
- 333: (  12) - The Men
- 334: (  11) - Colin Farrell
- 335: (  11) - Dry Cleaning
- 336: (  11) - Elizabeth Cook
- 337: (  11) - Françoise Hardy
- 338: (  11) - Grace Petrie
- 339: (  11) - Guy Clark
- 340: (  11) - Hatchie
- 341: (  11) - Jessica Pratt
+ 305: (  17) - Jessica Pratt
+ 306: (  17) - Kurt Vile
+ 307: (  17) - R.E.M.
+ 308: (  17) - The Specials
+ 309: (  16) - Patti Smith
+ 310: (  16) - The Dream Syndicate
+ 311: (  15) - Martin Stephenson, John Perry
+ 312: (  15) - The Fire Engines
+ 313: (  14) - David Byrne
+ 314: (  14) - Fontaines D.c.
+ 315: (  14) - Green Gartside
+ 316: (  14) - Sparks
+ 317: (  14) - William Tyler
+ 318: (  13) - David Byrne & St. Vincent
+ 319: (  13) - John Cale
+ 320: (  13) - Kristin Hersh
+ 321: (  13) - Miranda Lambert
+ 322: (  13) - Ryan Bingham
+ 323: (  13) - Tubeway Army
+ 324: (  12) - Belle and Sebastian
+ 325: (  12) - Callaghan
+ 326: (  12) - Duran Duran
+ 327: (  12) - Goldfrapp
+ 328: (  12) - Jim Croce
+ 329: (  12) - John Foxx
+ 330: (  12) - Max Romeo
+ 331: (  12) - Myrtle Park's Fishing Club
+ 332: (  12) - The Church
+ 333: (  12) - The Jimi Hendrix Experience
+ 334: (  12) - The Men
+ 335: (  11) - Colin Farrell
+ 336: (  11) - Dry Cleaning
+ 337: (  11) - Elizabeth Cook
+ 338: (  11) - Françoise Hardy
+ 339: (  11) - Grace Petrie
+ 340: (  11) - Guy Clark
+ 341: (  11) - Hatchie
  342: (  11) - Joan Shelley
  343: (  11) - Laurel Canyon
  344: (  11) - Matt Berninger
