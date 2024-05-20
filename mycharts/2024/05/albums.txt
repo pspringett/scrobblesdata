@@ -1,10 +1,10 @@
 Specified year (2024), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     234            10            10            81
+     250            11            11            91
  1: (50) - All Born Screaming - St. Vincent
+ 2: (49) - Here In The Pitch - Jessica Pratt
 
 
- 2: (47) - Here In The Pitch - Jessica Pratt
 
 
 
@@ -15,11 +15,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  3: (38) - Killjoy - Coach Party
 
+ 4: (36) - Madra - Newdad
 
 
+ 5: (33) - This Could Be Texas - English Teacher
 
- 4: (33) - This Could Be Texas - English Teacher
- 5: (32) - Madra - Newdad
 
 
 
@@ -43,11 +43,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: (10) - Flesh And Blood - Roxy Music
  7: (10) * Old Sticks To Scare A Bird - Angie Palmer
+ 8: (10) - One More Thing - Lime Garden
 
- 8: ( 8) - In The 21St Century - The Bluebells
+ 9: ( 8) - In The 21St Century - The Bluebells
 
 
 
 
- 9: ( 3) - If I Don't Make It, I Love U - Still House Plants
-10: ( 3) - Live At The Royal Albert Hall - Echo & the Bunnymen
+10: ( 3) - If I Don't Make It, I Love U - Still House Plants
+11: ( 3) - Live At The Royal Albert Hall - Echo & the Bunnymen
