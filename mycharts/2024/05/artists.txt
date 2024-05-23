@@ -1,11 +1,11 @@
 Specified year (2024), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     263            12            12            94
+     280            13            13            99
  1: (53) - St. Vincent
+ 2: (52) - Jessica Pratt
 
 
 
- 2: (49) - Jessica Pratt
 
 
 
@@ -17,11 +17,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  3: (38) - Coach Party
+ 4: (38) - English Teacher
 
- 4: (36) - Newdad
- 5: (35) - English Teacher
-
-
+ 5: (36) - Newdad
 
 
 
@@ -37,9 +35,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 6: (20) - Lime Garden
 
 
- 6: (15) - Lime Garden
+
+
+
 
 
 
@@ -49,9 +50,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  9: ( 8) - The Bluebells
 
+10: ( 6) - The Sound
 
 
-
-10: ( 3) - Echo & the Bunnymen
-11: ( 3) - Margo Price
-12: ( 3) - Still House Plants
+11: ( 3) - Echo & the Bunnymen
+12: ( 3) - Margo Price
+13: ( 3) - Still House Plants

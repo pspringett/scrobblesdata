@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1359            47            65           537
+    1376            48            66           542
  1: (189) - Newdad
 
 
@@ -93,10 +93,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: ( 97) - Slowdive
+ 2: ( 97) - English Teacher
+ 3: ( 97) - Slowdive
 
 
- 3: ( 94) - English Teacher
+
 
 
 
@@ -138,10 +139,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: ( 55) - Orange Juice
 
  7: ( 53) - St. Vincent
+ 8: ( 52) - Jessica Pratt
+ 9: ( 51) - Margo Price
 
- 8: ( 51) - Margo Price
 
- 9: ( 49) - Jessica Pratt
 10: ( 48) - My Bloody Valentine
 
 
@@ -174,13 +175,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 21: ( 22) - Edwyn Collins
 22: ( 22) - Lloyd Cole
 
+23: ( 20) - Lime Garden
 
+24: ( 18) - Josh Ritter
 
-23: ( 18) - Josh Ritter
+25: ( 16) - Devine & Statton
+26: ( 16) - Weekend
 
-24: ( 16) - Devine & Statton
-25: ( 16) - Weekend
-26: ( 15) - Lime Garden
 27: ( 14) - Simple Minds
 28: ( 13) - Martin Stephenson
 29: ( 13) - The Fall
@@ -197,10 +198,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 40: (  9) - Talking Heads
 41: (  8) - The Feelies
 
-
-42: (  5) - The Cure
-43: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-44: (  4) - The Burning Hell
-45: (  3) - Still House Plants
-46: (  3) - The Sundays
-47: (  2) - Blue Bendy
+42: (  6) - The Sound
+43: (  5) - The Cure
+44: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+45: (  4) - The Burning Hell
+46: (  3) - Still House Plants
+47: (  3) - The Sundays
+48: (  2) - Blue Bendy
