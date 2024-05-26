@@ -1,6 +1,6 @@
 Specified year (2024), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     280            13            13            99
+     363            17            18           163
  1: (53) - St. Vincent
  2: (52) - Jessica Pratt
 
@@ -28,15 +28,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-
-
-
-
- 6: (20) - Lime Garden
-
+ 6: (27) - Lime Garden
 
 
 
@@ -45,14 +37,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 7: (10) - Angie Palmer
- 8: (10) - Roxy Music
+ 7: (18) - Roxy Music
 
- 9: ( 8) - The Bluebells
-
-10: ( 6) - The Sound
+ 8: (16) - Echo & the Bunnymen
+ 9: (16) - The Bluebells
 
 
-11: ( 3) - Echo & the Bunnymen
-12: ( 3) - Margo Price
-13: ( 3) - Still House Plants
+
+10: (12) - Margo Price
+11: (12) - Nick Heyward
+
+12: (10) - Angie Palmer
+13: (10) - Emmylou Harris
+14: (10) - Robert Forster
+
+
+
+15: ( 6) - Slowdive
+16: ( 6) - The Sound
+
+
+17: ( 3) - Still House Plants
