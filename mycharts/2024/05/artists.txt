@@ -1,6 +1,6 @@
 Specified year (2024), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     371            17            18           163
+     372            17            18           163
  1: (53) - St. Vincent
  2: (52) - Jessica Pratt
 
@@ -44,9 +44,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-10: (12) - Margo Price
-11: (12) - Nick Heyward
-12: (11) - Angie Palmer
+10: (12) - Angie Palmer
+11: (12) - Margo Price
+12: (12) - Nick Heyward
+
 13: (10) - Emmylou Harris
 14: (10) - Robert Forster
 
