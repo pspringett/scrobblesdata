@@ -1,6 +1,6 @@
 Specified year (2024), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     381            18            19           164
+     380            18            19           164
  1: (53) - St. Vincent
  2: (52) - Jessica Pratt
 
@@ -12,8 +12,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 3: (42) - Lime Garden
 
- 3: (41) - Lime Garden
 
 
  4: (38) - Coach Party
@@ -44,10 +44,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-10: (12) - Angie Palmer
-11: (12) - Margo Price
-12: (12) - Nick Heyward
+10: (12) - Margo Price
+11: (12) - Nick Heyward
 
+12: (10) - Angie Palmer
 13: (10) - Emmylou Harris
 14: (10) - Robert Forster
 
