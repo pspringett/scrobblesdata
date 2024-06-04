@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    4600           100           159          1376
+    4604           100           159          1376
   1: (132) - Just For A Day - Slowdive
   2: (131) - The Candle And The Flame - Robert Forster
   3: (130) - Spectral Lines - Josh Ritter
@@ -83,10 +83,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 27: ( 55) - Never A Dull Moment - Rod Stewart
- 28: ( 54) - Dazzle Ships - Orchestral Manoeuvres in the Dark
- 29: ( 53) - All Born Screaming - St. Vincent
- 30: ( 52) - Here In The Pitch - Jessica Pratt
+ 27: ( 55) - Here In The Pitch - Jessica Pratt
+ 28: ( 55) - Never A Dull Moment - Rod Stewart
+ 29: ( 54) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+ 30: ( 53) - All Born Screaming - St. Vincent
+
 
  31: ( 50) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
  32: ( 49) - 1982 - A Certain Ratio
@@ -188,9 +189,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 118: (  8) - Loaded: Live In New York - Lloyd Cole
 119: (  8) - Manifesto - Roxy Music
 120: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
-121: (  7) * Scott - Scott Walker
-122: (  7) * Yogi In My House - Martin Stephenson
-123: (  6) - All Fall Down - The Sound
+121: (  7) - All Fall Down - The Sound
+122: (  7) * Scott - Scott Walker
+123: (  7) * Yogi In My House - Martin Stephenson
 124: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
 125: (  6) - Sermon On The Rocks - Josh Ritter
 126: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
