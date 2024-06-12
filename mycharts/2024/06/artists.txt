@@ -1,25 +1,27 @@
 Specified year (2024), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      77             8             8            49
-1: (20) - Lime Garden
-2: (20) - St. Vincent
+     100            11            11            64
+ 1: (20) - Lime Garden
+ 2: (20) - St. Vincent
 
 
-3: (17) - Jessica Pratt
-
-
-
-
+ 3: (17) - Courting
+ 4: (17) - Jessica Pratt
 
 
 
 
 
-4: ( 7) - Paul Weller
-
-5: ( 5) - Folly Group
-6: ( 5) - Roxy Music
 
 
-7: ( 2) - Slowdive
-8: ( 1) - The Sound
+
+
+ 5: ( 7) - Paul Weller
+
+ 6: ( 5) - Folly Group
+ 7: ( 5) - Roxy Music
+ 8: ( 4) - Newdad
+
+ 9: ( 2) - Slowdive
+10: ( 2) - The Corrs
+11: ( 1) - The Sound
