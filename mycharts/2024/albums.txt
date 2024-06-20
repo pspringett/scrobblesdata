@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1594            55            76           612
+    1637            57            79           636
  1: (105) - Just For A Day - Slowdive
  2: (104) - This Could Be Texas - English Teacher
  3: (104) - Waves - Newdad
@@ -24,12 +24,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: ( 83) - All Born Screaming - St. Vincent
 
-
-
-
-
- 5: ( 78) - All Born Screaming - St. Vincent
 
 
 
@@ -38,15 +34,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 6: ( 69) - Here In The Pitch - Jessica Pratt
- 7: ( 69) - Nowhere - Ride
+
+ 6: ( 72) - One More Thing - Lime Garden
+
+
+ 7: ( 69) - Here In The Pitch - Jessica Pratt
+ 8: ( 69) - Nowhere - Ride
 
 
 
 
 
 
- 8: ( 62) - One More Thing - Lime Garden
+
 
 
 
@@ -96,54 +96,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 24: ( 18) - Spectral Lines - Josh Ritter
 25: ( 17) - New Last Name - Courting
-26: ( 16) - Live At Ronnie Scotts - Weekend
-27: ( 16) - The Prince Of Wales - Devine & Statton
-28: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
-29: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
-30: ( 14) - Coals To Newcastle - Orange Juice
-31: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
-32: ( 14) * Road - Angie Palmer
-33: ( 13) - Slates - The Fall
-34: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
-35: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
-36: ( 11) - Expired Candy - Body Type
-37: ( 11) - Flesh And Blood - Roxy Music
-38: ( 11) - Rumours - Fleetwood Mac
-39: ( 11) * Texas Fever - Orange Juice
-40: ( 11) - You And Me Both - Yazoo
-41: ( 10) - Life In A Day - Simple Minds
-42: ( 10) - Nightbus Singles - Nightbus
-43: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
-44: ( 10) - Setting Sons - The Jam
-45: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
-46: ( 10) * Wrecking Ball - Emmylou Harris
-47: (  9) * Highway 61 Revisited - Bob Dylan
-48: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
-49: (  9) - Speaking In Tongues - Talking Heads
-50: (  8) - Loaded: Live In New York - Lloyd Cole
-51: (  8) - Manifesto - Roxy Music
-52: (  8) * Seventeen Seconds - The Cure
-53: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
-54: (  7) - All Fall Down - The Sound
-55: (  7) - On Sunset (Deluxe) - Paul Weller
-56: (  7) * Yogi In My House - Martin Stephenson
-57: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-58: (  5) * Blonde On Blonde - Bob Dylan
-59: (  5) - Down There! - Folly Group
-60: (  5) - Lilac Tree - Martin Stephenson
-61: (  5) - Stranded - Roxy Music
-62: (  4) - Garbage Island - The Burning Hell
-63: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-64: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
-65: (  4) * There Comes A Time - Martin Stephenson and the Daintees
-66: (  3) - Aladdin Sane - David Bowie
-67: (  3) - Deeper Well - Kacey Musgraves
-68: (  3) - If I Don't Make It, I Love U - Still House Plants
-69: (  3) * Reading, Writing & Arithmetic - The Sundays
-70: (  2) - The Corrs Unplugged - The Corrs
-71: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-72: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-73: (  1) - Closing Sound - Blue Bendy
-74: (  1) * Love Story - Lloyd Cole
-75: (  1) - Suspension - Blue Bendy
-76: (  1) - The Spangle Maker - Cocteau Twins
+26: ( 16) * High Land, Hard Rain - Aztec Camera
+27: ( 16) - Live At Ronnie Scotts - Weekend
+28: ( 16) - The Prince Of Wales - Devine & Statton
+29: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
+30: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
+31: ( 14) - Coals To Newcastle - Orange Juice
+32: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+33: ( 14) * Road - Angie Palmer
+34: ( 13) - Slates - The Fall
+35: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
+36: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+37: ( 11) - Expired Candy - Body Type
+38: ( 11) - Flesh And Blood - Roxy Music
+39: ( 11) - Rumours - Fleetwood Mac
+40: ( 11) * Texas Fever - Orange Juice
+41: ( 11) - You And Me Both - Yazoo
+42: ( 10) - Life In A Day - Simple Minds
+43: ( 10) - Nightbus Singles - Nightbus
+44: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
+45: ( 10) - Setting Sons - The Jam
+46: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
+47: ( 10) * Wrecking Ball - Emmylou Harris
+48: (  9) * Highway 61 Revisited - Bob Dylan
+49: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+50: (  9) - Speaking In Tongues - Talking Heads
+51: (  9) - Stranded - Roxy Music
+52: (  8) - Loaded: Live In New York - Lloyd Cole
+53: (  8) - Manifesto - Roxy Music
+54: (  8) * Seventeen Seconds - The Cure
+55: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
+56: (  7) - All Fall Down - The Sound
+57: (  7) - On Sunset (Deluxe) - Paul Weller
+58: (  7) * Yogi In My House - Martin Stephenson
+59: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+60: (  5) * Blonde On Blonde - Bob Dylan
+61: (  5) - Down There! - Folly Group
+62: (  5) - For Your Pleasure - Roxy Music
+63: (  5) - Lilac Tree - Martin Stephenson
+64: (  4) - Garbage Island - The Burning Hell
+65: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+66: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
+67: (  4) * There Comes A Time - Martin Stephenson and the Daintees
+68: (  3) - Aladdin Sane - David Bowie
+69: (  3) - Deeper Well - Kacey Musgraves
+70: (  3) - If I Don't Make It, I Love U - Still House Plants
+71: (  3) * Reading, Writing & Arithmetic - The Sundays
+72: (  3) * Songs From A Room - Leonard Cohen
+73: (  2) - The Corrs Unplugged - The Corrs
+74: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+75: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+76: (  1) - Closing Sound - Blue Bendy
+77: (  1) * Love Story - Lloyd Cole
+78: (  1) - Suspension - Blue Bendy
+79: (  1) - The Spangle Maker - Cocteau Twins
