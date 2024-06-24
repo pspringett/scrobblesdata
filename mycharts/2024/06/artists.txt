@@ -1,6 +1,6 @@
 Specified year (2024), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     220            17            19           117
+     221            17            19           118
  1: (41) - Paul Weller
 
 
@@ -44,5 +44,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 3) - The Cure
 14: ( 2) - Slowdive
 15: ( 2) - The Corrs
-16: ( 1) - The Sound
-17: ( 1) - The Waterboys
+16: ( 2) - The Waterboys
+17: ( 1) - The Sound
