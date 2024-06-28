@@ -1,7 +1,10 @@
 Specified year (2024), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     222            17            19           119
- 1: (41) - Paul Weller
+     232            19            20           121
+ 1: (44) - Paul Weller
+
+
+
 
 
 
@@ -11,11 +14,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  2: (33) - St. Vincent
 
+ 3: (31) - Courting
+ 4: (30) - Lime Garden
 
- 3: (30) - Lime Garden
 
 
- 4: (27) - Courting
 
 
 
@@ -43,6 +46,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 12: ( 3) - Leonard Cohen
 13: ( 3) - The Cure
 14: ( 3) - The Waterboys
-15: ( 2) - Slowdive
-16: ( 2) - The Corrs
-17: ( 1) - The Sound
+15: ( 2) - Instagram.Com
+16: ( 2) - Slowdive
+17: ( 2) - The Corrs
+18: ( 1) - Electioncast: Tory Candidates Suspended!
+19: ( 1) - The Sound
