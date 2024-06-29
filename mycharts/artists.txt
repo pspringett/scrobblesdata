@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   69341          1209          1801         12380
+   69346          1210          1801         12380
    1: (2341) - Lloyd Cole
    2: (2071) - David Bowie
    3: (1894) - Bob Dylan
@@ -48,8 +48,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   45: ( 423) - Birds of Chicago
   46: ( 412) - Lloyd Cole and the Commotions
   47: ( 407) - Roddy Frame
-  48: ( 386) - Eliza Gilkyson
-  49: ( 385) - St. Vincent
+  48: ( 389) - St. Vincent
+  49: ( 386) - Eliza Gilkyson
   50: ( 379) - Justin Townes Earle
   51: ( 370) - ABC
   52: ( 368) - The Undertones
@@ -1132,81 +1132,82 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1129: (   1) - Softladification
 1130: (   1) - Sotonpressarchive
 1131: (   1) - Squeeze
-1132: (   1) - Steve Harley & Cockney Rebel
-1133: (   1) - Strawbs
-1134: (   1) - Sugar Minott
-1135: (   1) - Taco
-1136: (   1) - Tamara Todevska
-1137: (   1) - Tears for Fears
-1138: (   1) - Texas
-1139: (   1) - The Adverts
-1140: (   1) - The Allman Brothers Band
-1141: (   1) - The Archies
-1142: (   1) - The Cables
-1143: (   1) - The Church of Leeds Parish Choir
-1144: (   1) - The Coolers
-1145: (   1) - The Cult
-1146: (   1) - The Damned
-1147: (   1) - The Dynamites
-1148: (   1) - The Easybeats
-1149: (   1) - The Electric Prunes
-1150: (   1) - The Ethiopians
-1151: (   1) - The Hold Steady
-1152: (   1) - The Humans
-1153: (   1) - The Immortals
-1154: (   1) - The Jackson 5
-1155: (   1) - The Jokers
-1156: (   1) - The Late Late Show With James Corden
-1157: (   1) - The Lemonheads
-1158: (   1) - The Lyrics
-1159: (   1) - The Maytals
-1160: (   1) - The Medetators
-1161: (   1) - The Members
-1162: (   1) - The Million Dollar Bashers
-1163: (   1) - The Mission
-1164: (   1) - The New Basement Tapes
-1165: (   1) - The New Wave Music Podcast
-1166: (   1) - The News 247
-1167: (   1) - The Replacements
-1168: (   1) - The Rhythm Rulers
-1169: (   1) - The Scaffold
-1170: (   1) - The Sea and Cake
-1171: (   1) - The Soul Syndicate
-1172: (   1) - The Staple Singers
-1173: (   1) - The Stooges
-1174: (   1) - The Thin White Duke
-1175: (   1) - The Triffids
-1176: (   1) - The Turtles
-1177: (   1) - The Twang
-1178: (   1) - The Vagaband
-1179: (   1) - The Vapors
-1180: (   1) - The Viceroys
-1181: (   1) - The Viceroys with Hubcap & the Wheels
-1182: (   1) - The Walker Brothers
-1183: (   1) - The Youngbloods
-1184: (   1) - Theatre of Hate
-1185: (   1) - Them
-1186: (   1) - Thepnutno2
-1187: (   1) - Throwing Muses
-1188: (   1) - Thundercat
-1189: (   1) - Tommy McCook
-1190: (   1) - Tommy Shakespeare
-1191: (   1) - Tones on Tail
-1192: (   1) - Toni Basil
-1193: (   1) - Tony Tribe
-1194: (   1) - Travis
-1195: (   1) - Trevor Brown
-1196: (   1) - Uriah Heep
-1197: (   1) - Vibracobra23 Dulosis
-1198: (   1) - Villagers
-1199: (   1) - Violent Femmes
-1200: (   1) - Visage
-1201: (   1) - Visagevevo
-1202: (   1) - Wand
-1203: (   1) - When in Rome
-1204: (   1) - Winston Francis
-1205: (   1) - Winston Samuels
-1206: (   1) - Winston Wright
-1207: (   1) - Yonatan Gat
-1208: (   1) - Zibbz
-1209: (   1) - the FRIGHTNRS
+1132: (   1) - St. Vincent, Cate Le Bon
+1133: (   1) - Steve Harley & Cockney Rebel
+1134: (   1) - Strawbs
+1135: (   1) - Sugar Minott
+1136: (   1) - Taco
+1137: (   1) - Tamara Todevska
+1138: (   1) - Tears for Fears
+1139: (   1) - Texas
+1140: (   1) - The Adverts
+1141: (   1) - The Allman Brothers Band
+1142: (   1) - The Archies
+1143: (   1) - The Cables
+1144: (   1) - The Church of Leeds Parish Choir
+1145: (   1) - The Coolers
+1146: (   1) - The Cult
+1147: (   1) - The Damned
+1148: (   1) - The Dynamites
+1149: (   1) - The Easybeats
+1150: (   1) - The Electric Prunes
+1151: (   1) - The Ethiopians
+1152: (   1) - The Hold Steady
+1153: (   1) - The Humans
+1154: (   1) - The Immortals
+1155: (   1) - The Jackson 5
+1156: (   1) - The Jokers
+1157: (   1) - The Late Late Show With James Corden
+1158: (   1) - The Lemonheads
+1159: (   1) - The Lyrics
+1160: (   1) - The Maytals
+1161: (   1) - The Medetators
+1162: (   1) - The Members
+1163: (   1) - The Million Dollar Bashers
+1164: (   1) - The Mission
+1165: (   1) - The New Basement Tapes
+1166: (   1) - The New Wave Music Podcast
+1167: (   1) - The News 247
+1168: (   1) - The Replacements
+1169: (   1) - The Rhythm Rulers
+1170: (   1) - The Scaffold
+1171: (   1) - The Sea and Cake
+1172: (   1) - The Soul Syndicate
+1173: (   1) - The Staple Singers
+1174: (   1) - The Stooges
+1175: (   1) - The Thin White Duke
+1176: (   1) - The Triffids
+1177: (   1) - The Turtles
+1178: (   1) - The Twang
+1179: (   1) - The Vagaband
+1180: (   1) - The Vapors
+1181: (   1) - The Viceroys
+1182: (   1) - The Viceroys with Hubcap & the Wheels
+1183: (   1) - The Walker Brothers
+1184: (   1) - The Youngbloods
+1185: (   1) - Theatre of Hate
+1186: (   1) - Them
+1187: (   1) - Thepnutno2
+1188: (   1) - Throwing Muses
+1189: (   1) - Thundercat
+1190: (   1) - Tommy McCook
+1191: (   1) - Tommy Shakespeare
+1192: (   1) - Tones on Tail
+1193: (   1) - Toni Basil
+1194: (   1) - Tony Tribe
+1195: (   1) - Travis
+1196: (   1) - Trevor Brown
+1197: (   1) - Uriah Heep
+1198: (   1) - Vibracobra23 Dulosis
+1199: (   1) - Villagers
+1200: (   1) - Violent Femmes
+1201: (   1) - Visage
+1202: (   1) - Visagevevo
+1203: (   1) - Wand
+1204: (   1) - When in Rome
+1205: (   1) - Winston Francis
+1206: (   1) - Winston Samuels
+1207: (   1) - Winston Wright
+1208: (   1) - Yonatan Gat
+1209: (   1) - Zibbz
+1210: (   1) - the FRIGHTNRS
