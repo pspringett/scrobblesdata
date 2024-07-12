@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   69385          1208          1803         12380
+   69393          1209          1803         12380
    1: (2341) - Lloyd Cole
    2: (2072) - David Bowie
    3: (1894) - Bob Dylan
@@ -9,12 +9,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    6: (1138) - U2
    7: (1060) - Cocteau Twins
    8: (1044) - Various
-   9: (1005) - Simple Minds
+   9: (1006) - Simple Minds
   10: ( 987) - Tift Merritt
   11: ( 973) - Roxy Music
   12: ( 915) - Cowboy Junkies
   13: ( 863) - Laura Marling
-  14: ( 853) - Leonard Cohen
+  14: ( 855) - Leonard Cohen
   15: ( 826) - Orange Juice
   16: ( 767) - New Order
   17: ( 728) - Altered Images
@@ -44,7 +44,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   41: ( 461) - Sarah MacDougall
   42: ( 442) - The Redlands Palomino Company
   43: ( 436) - Elvis Costello
-  44: ( 433) - Yazoo
+  44: ( 436) - Yazoo
   45: ( 423) - Birds of Chicago
   46: ( 412) - Lloyd Cole and the Commotions
   47: ( 407) - Roddy Frame
@@ -85,7 +85,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   82: ( 210) - Lera Lynn
   83: ( 209) - The Decemberists
   84: ( 207) - Patty Griffin
-  85: ( 204) - The Wailers
+  85: ( 205) - The Wailers
   86: ( 201) - case/lang/veirs
   87: ( 200) - Sweet
   88: ( 199) - Jason Isbell
@@ -1123,89 +1123,90 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1120: (   1) - Sam the Sham & the Pharaohs
 1121: (   1) - Shania Twain
 1122: (   1) - Simone Felice
-1123: (   1) - Sir Collins
-1124: (   1) - Sir Lord Comic
-1125: (   1) - Ska Campbell
-1126: (   1) - Slim Smith
-1127: (   1) - Slow Hands
-1128: (   1) - Softladification
-1129: (   1) - Sotonpressarchive
-1130: (   1) - Squeeze
-1131: (   1) - Steve Harley & Cockney Rebel
-1132: (   1) - Strawbs
-1133: (   1) - Sugar Minott
-1134: (   1) - Taco
-1135: (   1) - Tamara Todevska
-1136: (   1) - Tears for Fears
-1137: (   1) - Texas
-1138: (   1) - The Adverts
-1139: (   1) - The Allman Brothers Band
-1140: (   1) - The Archies
-1141: (   1) - The Cables
-1142: (   1) - The Church of Leeds Parish Choir
-1143: (   1) - The Coolers
-1144: (   1) - The Cult
-1145: (   1) - The Damned
-1146: (   1) - The Dynamites
-1147: (   1) - The Easybeats
-1148: (   1) - The Electric Prunes
-1149: (   1) - The Ethiopians
-1150: (   1) - The Hold Steady
-1151: (   1) - The Humans
-1152: (   1) - The Immortals
-1153: (   1) - The Jackson 5
-1154: (   1) - The Jokers
-1155: (   1) - The Late Late Show With James Corden
-1156: (   1) - The Lemonheads
-1157: (   1) - The Lyrics
-1158: (   1) - The Maytals
-1159: (   1) - The Medetators
-1160: (   1) - The Members
-1161: (   1) - The Million Dollar Bashers
-1162: (   1) - The Mission
-1163: (   1) - The New Basement Tapes
-1164: (   1) - The New Wave Music Podcast
-1165: (   1) - The News 247
-1166: (   1) - The Replacements
-1167: (   1) - The Rhythm Rulers
-1168: (   1) - The Scaffold
-1169: (   1) - The Sea and Cake
-1170: (   1) - The Soul Syndicate
-1171: (   1) - The Staple Singers
-1172: (   1) - The Stooges
-1173: (   1) - The Thin White Duke
-1174: (   1) - The Triffids
-1175: (   1) - The Turtles
-1176: (   1) - The Twang
-1177: (   1) - The Vagaband
-1178: (   1) - The Vapors
-1179: (   1) - The Viceroys
-1180: (   1) - The Viceroys with Hubcap & the Wheels
-1181: (   1) - The Walker Brothers
-1182: (   1) - The Youngbloods
-1183: (   1) - Theatre of Hate
-1184: (   1) - Them
-1185: (   1) - Thepnutno2
-1186: (   1) - Throwing Muses
-1187: (   1) - Thundercat
-1188: (   1) - Tommy McCook
-1189: (   1) - Tommy Shakespeare
-1190: (   1) - Tones on Tail
-1191: (   1) - Toni Basil
-1192: (   1) - Tony Tribe
-1193: (   1) - Travis
-1194: (   1) - Trevor Brown
-1195: (   1) - Uriah Heep
-1196: (   1) - Vibracobra23 Dulosis
-1197: (   1) - Villagers
-1198: (   1) - Violent Femmes
-1199: (   1) - Visage
-1200: (   1) - Visagevevo
-1201: (   1) - Wand
-1202: (   1) - When in Rome
-1203: (   1) - Winston Francis
-1204: (   1) - Winston Samuels
-1205: (   1) - Winston Wright
-1206: (   1) - Yonatan Gat
-1207: (   1) - Zibbz
-1208: (   1) - the FRIGHTNRS
+1123: (   1) - Simple Minds, Kt Tunstall
+1124: (   1) - Sir Collins
+1125: (   1) - Sir Lord Comic
+1126: (   1) - Ska Campbell
+1127: (   1) - Slim Smith
+1128: (   1) - Slow Hands
+1129: (   1) - Softladification
+1130: (   1) - Sotonpressarchive
+1131: (   1) - Squeeze
+1132: (   1) - Steve Harley & Cockney Rebel
+1133: (   1) - Strawbs
+1134: (   1) - Sugar Minott
+1135: (   1) - Taco
+1136: (   1) - Tamara Todevska
+1137: (   1) - Tears for Fears
+1138: (   1) - Texas
+1139: (   1) - The Adverts
+1140: (   1) - The Allman Brothers Band
+1141: (   1) - The Archies
+1142: (   1) - The Cables
+1143: (   1) - The Church of Leeds Parish Choir
+1144: (   1) - The Coolers
+1145: (   1) - The Cult
+1146: (   1) - The Damned
+1147: (   1) - The Dynamites
+1148: (   1) - The Easybeats
+1149: (   1) - The Electric Prunes
+1150: (   1) - The Ethiopians
+1151: (   1) - The Hold Steady
+1152: (   1) - The Humans
+1153: (   1) - The Immortals
+1154: (   1) - The Jackson 5
+1155: (   1) - The Jokers
+1156: (   1) - The Late Late Show With James Corden
+1157: (   1) - The Lemonheads
+1158: (   1) - The Lyrics
+1159: (   1) - The Maytals
+1160: (   1) - The Medetators
+1161: (   1) - The Members
+1162: (   1) - The Million Dollar Bashers
+1163: (   1) - The Mission
+1164: (   1) - The New Basement Tapes
+1165: (   1) - The New Wave Music Podcast
+1166: (   1) - The News 247
+1167: (   1) - The Replacements
+1168: (   1) - The Rhythm Rulers
+1169: (   1) - The Scaffold
+1170: (   1) - The Sea and Cake
+1171: (   1) - The Soul Syndicate
+1172: (   1) - The Staple Singers
+1173: (   1) - The Stooges
+1174: (   1) - The Thin White Duke
+1175: (   1) - The Triffids
+1176: (   1) - The Turtles
+1177: (   1) - The Twang
+1178: (   1) - The Vagaband
+1179: (   1) - The Vapors
+1180: (   1) - The Viceroys
+1181: (   1) - The Viceroys with Hubcap & the Wheels
+1182: (   1) - The Walker Brothers
+1183: (   1) - The Youngbloods
+1184: (   1) - Theatre of Hate
+1185: (   1) - Them
+1186: (   1) - Thepnutno2
+1187: (   1) - Throwing Muses
+1188: (   1) - Thundercat
+1189: (   1) - Tommy McCook
+1190: (   1) - Tommy Shakespeare
+1191: (   1) - Tones on Tail
+1192: (   1) - Toni Basil
+1193: (   1) - Tony Tribe
+1194: (   1) - Travis
+1195: (   1) - Trevor Brown
+1196: (   1) - Uriah Heep
+1197: (   1) - Vibracobra23 Dulosis
+1198: (   1) - Villagers
+1199: (   1) - Violent Femmes
+1200: (   1) - Visage
+1201: (   1) - Visagevevo
+1202: (   1) - Wand
+1203: (   1) - When in Rome
+1204: (   1) - Winston Francis
+1205: (   1) - Winston Samuels
+1206: (   1) - Winston Wright
+1207: (   1) - Yonatan Gat
+1208: (   1) - Zibbz
+1209: (   1) - the FRIGHTNRS
