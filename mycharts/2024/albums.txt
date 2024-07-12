@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1796            65            92           698
+    1825            66            92           698
  1: (114) - This Could Be Texas - English Teacher
 
 
@@ -56,6 +56,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 9: ( 59) - 66 - Paul Weller
 
 
 
@@ -64,11 +65,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+10: ( 50) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
 
- 9: ( 50) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+11: ( 48) - Isn’T Anything - My Bloody Valentine
 
-10: ( 48) - Isn’T Anything - My Bloody Valentine
-11: ( 47) - 66 - Paul Weller
 
 
 
@@ -97,43 +97,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 21: ( 24) - Ambertron - Mint Mile
 
 22: ( 22) * Hellbent On Compromise - Edwyn Collins
-23: ( 22) - The Candle And The Flame - Robert Forster
-24: ( 21) - Strays - Margo Price
-25: ( 20) - In The 21St Century - The Bluebells
+23: ( 22) - Night-Bound Eyes Are Blind To The Day - Whitelands
+24: ( 22) - The Candle And The Flame - Robert Forster
+25: ( 21) - Strays - Margo Price
+26: ( 20) - In The 21St Century - The Bluebells
 
-26: ( 18) - Spectral Lines - Josh Ritter
+27: ( 18) - Spectral Lines - Josh Ritter
 
-27: ( 16) * High Land, Hard Rain - Aztec Camera
-28: ( 16) - Live At Ronnie Scotts - Weekend
-29: ( 16) - The Prince Of Wales - Devine & Statton
-30: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
-31: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
-32: ( 14) - Coals To Newcastle - Orange Juice
-33: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
-34: ( 14) * Road - Angie Palmer
-35: ( 14) - You And Me Both - Yazoo
-36: ( 13) - Slates - The Fall
-37: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
-38: ( 12) - Greatest Hits: Blondie - Blondie
-39: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
-40: ( 11) - Expired Candy - Body Type
-41: ( 11) - Flesh And Blood - Roxy Music
-42: ( 11) - Rumours - Fleetwood Mac
-43: ( 11) * Texas Fever - Orange Juice
-44: ( 10) - Life In A Day - Simple Minds
-45: ( 10) - Nightbus Singles - Nightbus
-46: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
-47: ( 10) - Setting Sons - The Jam
-48: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
-49: ( 10) * Wrecking Ball - Emmylou Harris
-50: (  9) * Highway 61 Revisited - Bob Dylan
-51: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
-52: (  9) - Speaking In Tongues - Talking Heads
-53: (  9) - Stranded - Roxy Music
-54: (  9) - The Lexicon Of Love - ABC
-55: (  8) - Loaded: Live In New York - Lloyd Cole
-56: (  8) - Manifesto - Roxy Music
-57: (  8) - Night-Bound Eyes Are Blind To The Day - Whitelands
+28: ( 16) * High Land, Hard Rain - Aztec Camera
+29: ( 16) - Live At Ronnie Scotts - Weekend
+30: ( 16) - The Prince Of Wales - Devine & Statton
+31: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
+32: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
+33: ( 14) - Coals To Newcastle - Orange Juice
+34: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+35: ( 14) * Road - Angie Palmer
+36: ( 14) - You And Me Both - Yazoo
+37: ( 13) - Slates - The Fall
+38: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
+39: ( 12) - Greatest Hits: Blondie - Blondie
+40: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+41: ( 11) - Expired Candy - Body Type
+42: ( 11) - Flesh And Blood - Roxy Music
+43: ( 11) - Rumours - Fleetwood Mac
+44: ( 11) * Texas Fever - Orange Juice
+45: ( 10) - Life In A Day - Simple Minds
+46: ( 10) - Nightbus Singles - Nightbus
+47: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
+48: ( 10) - Setting Sons - The Jam
+49: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
+50: ( 10) * Wrecking Ball - Emmylou Harris
+51: (  9) * Highway 61 Revisited - Bob Dylan
+52: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+53: (  9) - Speaking In Tongues - Talking Heads
+54: (  9) - Stranded - Roxy Music
+55: (  9) - The Lexicon Of Love - ABC
+56: (  8) - Loaded: Live In New York - Lloyd Cole
+57: (  8) - Manifesto - Roxy Music
 58: (  8) * Seventeen Seconds - The Cure
 59: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
 60: (  7) - All Fall Down - The Sound
@@ -155,18 +155,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 76: (  3) - Deeper Well - Kacey Musgraves
 77: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
 78: (  3) - If I Don't Make It, I Love U - Still House Plants
-79: (  3) * Reading, Writing & Arithmetic - The Sundays
-80: (  3) * Songs From A Room - Leonard Cohen
-81: (  2) - The Corrs Unplugged - The Corrs
-82: (  2) * Various Positions - Leonard Cohen
-83: (  1) - Acoustic - Simple Minds
-84: (  1) - Acoustic - Simple Minds, Kt Tunstall
-85: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-86: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-87: (  1) - Burnin' - The Wailers
-88: (  1) - Cat People - David Bowie
-89: (  1) - Closing Sound - Blue Bendy
-90: (  1) - Life's Hard And Then You Die - It'S Immaterial
-91: (  1) * Love Story - Lloyd Cole
-92: (  1) - Suspension - Blue Bendy
-93: (  1) - The Spangle Maker - Cocteau Twins
+79: (  3) - Night-Bound Eyes Are Blind To The Day - Whitelands, Deary
+80: (  3) * Reading, Writing & Arithmetic - The Sundays
+81: (  3) * Songs From A Room - Leonard Cohen
+82: (  2) - The Corrs Unplugged - The Corrs
+83: (  2) * Various Positions - Leonard Cohen
+84: (  1) - Acoustic - Simple Minds
+85: (  1) - Acoustic - Simple Minds, Kt Tunstall
+86: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+87: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+88: (  1) - Burnin' - The Wailers
+89: (  1) - Cat People - David Bowie
+90: (  1) - Closing Sound - Blue Bendy
+91: (  1) - Life's Hard And Then You Die - It'S Immaterial
+92: (  1) * Love Story - Lloyd Cole
+93: (  1) - Suspension - Blue Bendy
+94: (  1) - The Spangle Maker - Cocteau Twins
