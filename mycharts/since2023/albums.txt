@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    4907           110           176          1468
+    4920           111           177          1480
   1: (134) - Just For A Day - Slowdive
 
 
@@ -142,8 +142,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  73: ( 20) - First Two Pages Of Frankenstein - The National
  74: ( 20) * Highway 61 Revisited - Bob Dylan
  75: ( 20) - Lodger (Tony Visconti 2017 Mix) - David Bowie
- 76: ( 19) - Da Capo - Love
- 77: ( 19) - The Lexicon Of Love - ABC
+ 76: ( 20) - The Lexicon Of Love - ABC
+ 77: ( 19) - Da Capo - Love
  78: ( 19) * The Unforgettable Fire - U2
  79: ( 18) - Rogues Gospel - Duke Garwood
  80: ( 17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
@@ -163,84 +163,85 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  94: ( 13) * Lay It Down - Cowboy Junkies
  95: ( 13) - Slates - The Fall
  96: ( 12) * Black Eyed Man - Cowboy Junkies
- 97: ( 12) - Love Story Demos - Lloyd Cole
- 98: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
- 99: ( 11) * Faith - The Cure
-100: ( 11) - Flesh And Blood - Roxy Music
-101: ( 11) - Guesswork - Lloyd Cole
-102: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
-103: ( 11) - Laurel Canyon - Laurel Canyon
-104: ( 11) - Marquee Moon - Television
-105: ( 11) - Rumours - Fleetwood Mac
-106: ( 11) * Texas Fever - Orange Juice
-107: ( 10) - Life In A Day - Simple Minds
-108: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
-109: ( 10) - Rat Saw God - Wednesday
-110: ( 10) - Setting Sons - The Jam
-111: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
-112: ( 10) * Wrecking Ball - Emmylou Harris
-113: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
-114: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-115: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
-116: (  9) - Reel To Real Cacophony - Simple Minds
-117: (  9) - Singles 1965-1967 - The Rolling Stones
-118: (  9) - Siren - Roxy Music
-119: (  9) - Speaking In Tongues - Talking Heads
-120: (  9) - Stranded - Roxy Music
-121: (  8) - Elevation Days - Edwyn Collins
-122: (  8) - Loaded: Live In New York - Lloyd Cole
-123: (  8) - Manifesto - Roxy Music
-124: (  8) - Night-Bound Eyes Are Blind To The Day - Whitelands
-125: (  8) * Seventeen Seconds - The Cure
-126: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
-127: (  7) - All Fall Down - The Sound
-128: (  7) - On Sunset (Deluxe) - Paul Weller
-129: (  7) * Scott - Scott Walker
-130: (  7) * Yogi In My House - Martin Stephenson
-131: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
-132: (  6) - Sermon On The Rocks - Josh Ritter
-133: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-134: (  5) * Blonde On Blonde - Bob Dylan
-135: (  5) - Down There! - Folly Group
-136: (  5) - For Your Pleasure - Roxy Music
-137: (  5) - Lilac Tree - Martin Stephenson
-138: (  5) - Love - Aztec Camera
-139: (  4) * Closer - Joy Division
-140: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-141: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
-142: (  4) * Pornography - The Cure
-143: (  4) * There Comes A Time - Martin Stephenson and the Daintees
-144: (  3) - An Appointment With Mr Yeats - The Waterboys
-145: (  3) - Deeper Well - Kacey Musgraves
-146: (  3) - Everything's Gone Green (2019 Remaster) - New Order
-147: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
-148: (  3) - If I Don't Make It, I Love U - Still House Plants
-149: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
-150: (  3) * Songs From A Room - Leonard Cohen
-151: (  3) - Treasure - Cocteau Twins
-152: (  3) - Upstairs at Erics - Yazoo
-153: (  2) - Aspirin Sun - Emma Tricca
-154: (  2) - Early - Scritti Politti
-155: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-156: (  2) - Sweet Misdemeanour - Martin Stephenson
-157: (  2) - Totale's Turns (It's Now Or Never) - The Fall
-158: (  2) * Various Positions - Leonard Cohen
-159: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-160: (  1) - Acoustic - Simple Minds, Kt Tunstall
-161: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-162: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-163: (  1) - Burnin' - The Wailers
-164: (  1) - Cat People - David Bowie
-165: (  1) - Closing Sound - Blue Bendy
-166: (  1) - Conditions - The Temper Trap
-167: (  1) - Dragnet - The Fall
-168: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-169: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-170: (  1) - Life's Hard And Then You Die - It'S Immaterial
-171: (  1) - London Boy - David Bowie
-172: (  1) * Scott 2 - Scott Walker
-173: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
-174: (  1) - Suspension - Blue Bendy
-175: (  1) - The Best Of - Joy Division
-176: (  1) * The Collection - Altered Images
-177: (  1) - The Spangle Maker - Cocteau Twins
+ 97: ( 12) - Greatest Hits: Blondie - Blondie
+ 98: ( 12) - Love Story Demos - Lloyd Cole
+ 99: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+100: ( 11) * Faith - The Cure
+101: ( 11) - Flesh And Blood - Roxy Music
+102: ( 11) - Guesswork - Lloyd Cole
+103: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+104: ( 11) - Laurel Canyon - Laurel Canyon
+105: ( 11) - Marquee Moon - Television
+106: ( 11) - Rumours - Fleetwood Mac
+107: ( 11) * Texas Fever - Orange Juice
+108: ( 10) - Life In A Day - Simple Minds
+109: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
+110: ( 10) - Rat Saw God - Wednesday
+111: ( 10) - Setting Sons - The Jam
+112: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
+113: ( 10) * Wrecking Ball - Emmylou Harris
+114: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+115: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+116: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
+117: (  9) - Reel To Real Cacophony - Simple Minds
+118: (  9) - Singles 1965-1967 - The Rolling Stones
+119: (  9) - Siren - Roxy Music
+120: (  9) - Speaking In Tongues - Talking Heads
+121: (  9) - Stranded - Roxy Music
+122: (  8) - Elevation Days - Edwyn Collins
+123: (  8) - Loaded: Live In New York - Lloyd Cole
+124: (  8) - Manifesto - Roxy Music
+125: (  8) - Night-Bound Eyes Are Blind To The Day - Whitelands
+126: (  8) * Seventeen Seconds - The Cure
+127: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
+128: (  7) - All Fall Down - The Sound
+129: (  7) - On Sunset (Deluxe) - Paul Weller
+130: (  7) * Scott - Scott Walker
+131: (  7) * Yogi In My House - Martin Stephenson
+132: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
+133: (  6) - Sermon On The Rocks - Josh Ritter
+134: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+135: (  5) * Blonde On Blonde - Bob Dylan
+136: (  5) - Down There! - Folly Group
+137: (  5) - For Your Pleasure - Roxy Music
+138: (  5) - Lilac Tree - Martin Stephenson
+139: (  5) - Love - Aztec Camera
+140: (  4) * Closer - Joy Division
+141: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+142: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
+143: (  4) * Pornography - The Cure
+144: (  4) * There Comes A Time - Martin Stephenson and the Daintees
+145: (  3) - An Appointment With Mr Yeats - The Waterboys
+146: (  3) - Deeper Well - Kacey Musgraves
+147: (  3) - Everything's Gone Green (2019 Remaster) - New Order
+148: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
+149: (  3) - If I Don't Make It, I Love U - Still House Plants
+150: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
+151: (  3) * Songs From A Room - Leonard Cohen
+152: (  3) - Treasure - Cocteau Twins
+153: (  3) - Upstairs at Erics - Yazoo
+154: (  2) - Aspirin Sun - Emma Tricca
+155: (  2) - Early - Scritti Politti
+156: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
+157: (  2) - Sweet Misdemeanour - Martin Stephenson
+158: (  2) - Totale's Turns (It's Now Or Never) - The Fall
+159: (  2) * Various Positions - Leonard Cohen
+160: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+161: (  1) - Acoustic - Simple Minds, Kt Tunstall
+162: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+163: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+164: (  1) - Burnin' - The Wailers
+165: (  1) - Cat People - David Bowie
+166: (  1) - Closing Sound - Blue Bendy
+167: (  1) - Conditions - The Temper Trap
+168: (  1) - Dragnet - The Fall
+169: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+170: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+171: (  1) - Life's Hard And Then You Die - It'S Immaterial
+172: (  1) - London Boy - David Bowie
+173: (  1) * Scott 2 - Scott Walker
+174: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
+175: (  1) - Suspension - Blue Bendy
+176: (  1) - The Best Of - Joy Division
+177: (  1) * The Collection - Altered Images
+178: (  1) - The Spangle Maker - Cocteau Twins
