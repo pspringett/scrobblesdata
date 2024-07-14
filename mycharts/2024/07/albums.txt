@@ -1,8 +1,11 @@
 Specified year (2024), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      99            13            11            65
- 1: (22) - 66 - Paul Weller
- 2: (22) - Night-Bound Eyes Are Blind To The Day - Whitelands
+     104            13            11            65
+ 1: (26) - Night-Bound Eyes Are Blind To The Day - Whitelands
+
+
+
+ 2: (22) - 66 - Paul Weller
 
 
 
@@ -20,8 +23,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: ( 5) - Love - Aztec Camera
-
- 7: ( 3) - Night-Bound Eyes Are Blind To The Day - Whitelands, Deary
+ 7: ( 4) - Night-Bound Eyes Are Blind To The Day - Whitelands, Deary
  8: ( 3) - You And Me Both - Yazoo
  9: ( 2) * Various Positions - Leonard Cohen
 10: ( 1) - Acoustic - Simple Minds
