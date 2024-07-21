@@ -253,7 +253,7 @@
     ],
     [
         "2024-07-07 19:58:04",
-        "Simple Minds, Kt Tunstall",
+        "Simple Minds",
         "Acoustic",
         "Promised You A Miracle"
     ],
@@ -439,7 +439,7 @@
     ],
     [
         "2024-07-12 20:46:34",
-        "Whitelands, Deary",
+        "Whitelands",
         "Night-Bound Eyes Are Blind To The Day",
         "Tell Me About It"
     ],
@@ -457,7 +457,7 @@
     ],
     [
         "2024-07-12 21:04:24",
-        "Whitelands, Deary",
+        "Whitelands",
         "Night-Bound Eyes Are Blind To The Day",
         "Tell Me About It"
     ],
@@ -505,7 +505,7 @@
     ],
     [
         "2024-07-12 21:46:12",
-        "Whitelands, Deary",
+        "Whitelands",
         "Night-Bound Eyes Are Blind To The Day",
         "Tell Me About It"
     ],
@@ -613,7 +613,7 @@
     ],
     [
         "2024-07-14 23:11:15",
-        "Whitelands, Deary",
+        "Whitelands",
         "Night-Bound Eyes Are Blind To The Day",
         "Tell Me About It"
     ],
@@ -622,60 +622,6 @@
         "Whitelands",
         "Night-Bound Eyes Are Blind To The Day",
         "How it feels"
-    ],
-    [
-        "2024-07-15 17:14:09",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 1 of 9"
-    ],
-    [
-        "2024-07-15 17:16:29",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 2 of 9"
-    ],
-    [
-        "2024-07-15 17:20:04",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 3 of 9"
-    ],
-    [
-        "2024-07-15 17:21:33",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 4 of 9"
-    ],
-    [
-        "2024-07-15 17:24:45",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 5 of 9"
-    ],
-    [
-        "2024-07-15 17:26:07",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 6 of 9"
-    ],
-    [
-        "2024-07-15 17:28:31",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 7 of 9"
-    ],
-    [
-        "2024-07-15 17:31:50",
-        "Mla College",
-        "",
-        "Geology Field Trip Part 8 of 9"
-    ],
-    [
-        "2024-07-15 17:33:57",
-        "Mla College",
-        "",
-        "Geology Field Trip part 9 of 9"
     ],
     [
         "2024-07-16 21:49:37",
@@ -724,18 +670,6 @@
         "Paul Weller",
         "66",
         "A Glimpse Of You"
-    ],
-    [
-        "2024-07-17 22:03:28",
-        "The News Agents",
-        "Global",
-        "What is Starmerism? Labour's first King's Speech"
-    ],
-    [
-        "2024-07-17 22:45:14",
-        "Newscast",
-        "Bbc News",
-        "King\u2019s Speech: Starmer Pushes the Bill Button"
     ],
     [
         "2024-07-20 10:58:58",
@@ -862,5 +796,11 @@
         "Aztec Camera",
         "Love",
         "Killermont Street"
+    ],
+    [
+        "2024-07-21 15:01:50",
+        "Part One: the Tutor",
+        "The Red And The Black",
+        "The Red and the Black"
     ]
 ]

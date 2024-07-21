@@ -1,15 +1,15 @@
 Specified year (2024), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     144            16            15            88
+     134            12            13            78
  1: (34) - Paul Weller
 
 
 
+ 2: (30) - Whitelands
 
 
 
 
- 2: (26) - Whitelands
 
 
 
@@ -27,17 +27,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: ( 9) - ABC
- 7: ( 9) - Mla College
 
 
 
 
- 8: ( 4) - Whitelands, Deary
- 9: ( 3) - Yazoo
-10: ( 2) - Leonard Cohen
-11: ( 1) - David Bowie
-12: ( 1) - Newscast
-13: ( 1) - Simple Minds
-14: ( 1) - Simple Minds, Kt Tunstall
-15: ( 1) - The News Agents
-16: ( 1) - The Wailers
+
+ 7: ( 3) - Yazoo
+ 8: ( 2) - Leonard Cohen
+ 9: ( 2) - Simple Minds
+10: ( 1) - David Bowie
+11: ( 1) - Part One: the Tutor
+12: ( 1) - The Wailers
