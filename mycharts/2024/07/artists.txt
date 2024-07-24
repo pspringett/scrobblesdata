@@ -1,6 +1,6 @@
 Specified year (2024), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     140            16            16            83
+     141            16            16            84
  1: (34) - Paul Weller
 
 
@@ -32,9 +32,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 7: ( 3) - Yazoo
- 8: ( 2) - Leonard Cohen
- 9: ( 2) - Newdad
+ 7: ( 3) - Newdad
+ 8: ( 3) - Yazoo
+ 9: ( 2) - Leonard Cohen
 10: ( 2) - Part One: the Tutor
 11: ( 2) - Simple Minds
 12: ( 1) - David Bowie
