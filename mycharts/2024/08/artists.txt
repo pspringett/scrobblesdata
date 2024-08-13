@@ -1,6 +1,6 @@
 Specified year (2024), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      85            12            14            77
+      86            12            14            78
  1: (32) - Martin Stephenson and the Daintees
 
 
@@ -31,8 +31,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: ( 5) - Paul Weller
 
  6: ( 3) - Roxy Music
- 7: ( 3) - Weekend
- 8: ( 2) - Slowdive
+ 7: ( 3) - Slowdive
+ 8: ( 3) - Weekend
+
  9: ( 1) - Charli Xcx
 10: ( 1) - David Bowie
 11: ( 1) - Hotpoint Customer Service Uk
