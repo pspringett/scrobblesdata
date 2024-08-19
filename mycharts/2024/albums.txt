@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1979            69           106           789
+    2017            82           119           821
   1: (114) - This Could Be Texas - English Teacher
 
 
@@ -115,71 +115,85 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  36: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
  37: ( 14) - Love - Aztec Camera
  38: ( 14) * Road - Angie Palmer
- 39: ( 14) - You And Me Both - Yazoo
- 40: ( 13) - Slates - The Fall
- 41: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
- 42: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 43: ( 12) - Greatest Hits: Blondie - Blondie
- 44: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
- 45: ( 12) - Sorry For Laughing - Josef K
- 46: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
- 47: ( 11) - Expired Candy - Body Type
- 48: ( 11) - Flesh And Blood - Roxy Music
- 49: ( 11) - Rumours - Fleetwood Mac
- 50: ( 11) * Texas Fever - Orange Juice
- 51: ( 10) - Life In A Day - Simple Minds
- 52: ( 10) - Nightbus Singles - Nightbus
- 53: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
- 54: ( 10) - Setting Sons - The Jam
- 55: ( 10) - Souvlaki - Slowdive
- 56: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
- 57: ( 10) * Wrecking Ball - Emmylou Harris
- 58: (  9) * Highway 61 Revisited - Bob Dylan
- 59: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
- 60: (  9) - Speaking In Tongues - Talking Heads
- 61: (  9) - Stranded - Roxy Music
- 62: (  9) - The Lexicon Of Love - ABC
- 63: (  8) - For Your Pleasure - Roxy Music
- 64: (  8) - Frog In Boiling Water - Diiv
- 65: (  8) * Knife - Aztec Camera
- 66: (  8) - Loaded: Live In New York - Lloyd Cole
- 67: (  8) - Manifesto - Roxy Music
- 68: (  8) * Seventeen Seconds - The Cure
- 69: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
- 70: (  7) - All Fall Down - The Sound
- 71: (  7) - On Sunset (Deluxe) - Paul Weller
- 72: (  7) * Yogi In My House - Martin Stephenson
- 73: (  6) - Salutation Road - Martin Stephenson and the Daintees
- 74: (  6) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
- 75: (  5) * Blonde On Blonde - Bob Dylan
- 76: (  5) - Down There! - Folly Group
- 77: (  5) - Lilac Tree - Martin Stephenson
- 78: (  4) * Boy - U2
- 79: (  4) - Garbage Island - The Burning Hell
- 80: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
- 81: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
- 82: (  4) * There Comes A Time - Martin Stephenson and the Daintees
- 83: (  3) - Aladdin Sane - David Bowie
- 84: (  3) - An Appointment With Mr Yeats - The Waterboys
- 85: (  3) - Deeper Well - Kacey Musgraves
- 86: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
- 87: (  3) - If I Don't Make It, I Love U - Still House Plants
- 88: (  3) * Reading, Writing & Arithmetic - The Sundays
- 89: (  3) * Songs From A Room - Leonard Cohen
- 90: (  3) - The '81 Demos - Weekend
- 91: (  2) - Acoustic - Simple Minds
- 92: (  2) - The Corrs Unplugged - The Corrs
- 93: (  2) * Various Positions - Leonard Cohen
- 94: (  1) -  - Hotpoint Customer Service Uk
- 95: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
- 96: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
- 97: (  1) - Brat - Charli Xcx
- 98: (  1) - Burnin' - The Wailers
- 99: (  1) - Cat People - David Bowie
-100: (  1) - Closing Sound - Blue Bendy
-101: (  1) - Global - The News Agents
-102: (  1) - Life's Hard And Then You Die - It'S Immaterial
-103: (  1) * Love Story - Lloyd Cole
-104: (  1) - Low (2017 Remaster) - David Bowie
-105: (  1) - Suspension - Blue Bendy
-106: (  1) - The Spangle Maker - Cocteau Twins
+ 39: ( 14) - Souvlaki - Slowdive
+ 40: ( 14) - You And Me Both - Yazoo
+ 41: ( 13) - Slates - The Fall
+ 42: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
+ 43: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 44: ( 12) - Greatest Hits: Blondie - Blondie
+ 45: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+ 46: ( 12) - Sorry For Laughing - Josef K
+ 47: ( 12) - Wet Leg - Wet Leg
+ 48: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+ 49: ( 11) - Expired Candy - Body Type
+ 50: ( 11) - Flesh And Blood - Roxy Music
+ 51: ( 11) - Rumours - Fleetwood Mac
+ 52: ( 11) * Texas Fever - Orange Juice
+ 53: ( 10) - Life In A Day - Simple Minds
+ 54: ( 10) - Nightbus Singles - Nightbus
+ 55: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
+ 56: ( 10) - Setting Sons - The Jam
+ 57: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
+ 58: ( 10) * Wrecking Ball - Emmylou Harris
+ 59: (  9) - For Your Pleasure - Roxy Music
+ 60: (  9) * Highway 61 Revisited - Bob Dylan
+ 61: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+ 62: (  9) - Speaking In Tongues - Talking Heads
+ 63: (  9) - Stranded - Roxy Music
+ 64: (  9) - The Lexicon Of Love - ABC
+ 65: (  8) - Frog In Boiling Water - Diiv
+ 66: (  8) * I'm Your Man - Leonard Cohen
+ 67: (  8) * Knife - Aztec Camera
+ 68: (  8) - Loaded: Live In New York - Lloyd Cole
+ 69: (  8) - Manifesto - Roxy Music
+ 70: (  8) * Seventeen Seconds - The Cure
+ 71: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
+ 72: (  7) - All Fall Down - The Sound
+ 73: (  7) - On Sunset (Deluxe) - Paul Weller
+ 74: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+ 75: (  7) * Yogi In My House - Martin Stephenson
+ 76: (  6) - Salutation Road - Martin Stephenson and the Daintees
+ 77: (  5) * Blonde On Blonde - Bob Dylan
+ 78: (  5) - Down There! - Folly Group
+ 79: (  5) - Lilac Tree - Martin Stephenson
+ 80: (  4) * Boy - U2
+ 81: (  4) - Garbage Island - The Burning Hell
+ 82: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+ 83: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
+ 84: (  4) * There Comes A Time - Martin Stephenson and the Daintees
+ 85: (  3) - Aladdin Sane - David Bowie
+ 86: (  3) - An Appointment With Mr Yeats - The Waterboys
+ 87: (  3) - Deeper Well - Kacey Musgraves
+ 88: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
+ 89: (  3) - If I Don't Make It, I Love U - Still House Plants
+ 90: (  3) * Reading, Writing & Arithmetic - The Sundays
+ 91: (  3) * Songs From A Room - Leonard Cohen
+ 92: (  3) - The '81 Demos - Weekend
+ 93: (  2) - Acoustic - Simple Minds
+ 94: (  2) - The Corrs Unplugged - The Corrs
+ 95: (  2) * Various Positions - Leonard Cohen
+ 96: (  1) -  - Hotpoint Customer Service Uk
+ 97: (  1) -  - Moleskineart
+ 98: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+ 99: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+100: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+101: (  1) - Brat - Charli Xcx
+102: (  1) - Burnin' - The Wailers
+103: (  1) - Cat People - David Bowie
+104: (  1) - Closing Sound - Blue Bendy
+105: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+106: (  1) * Electric Warrior - T. Rex
+107: (  1) - Global - The News Agents
+108: (  1) - Goodbye Yellow Brick Road - Elton John
+109: (  1) - Greatest Hits (Remastered) - Queen
+110: (  1) - Kimono My House - Sparks
+111: (  1) - Life's Hard And Then You Die - It'S Immaterial
+112: (  1) * Love Story - Lloyd Cole
+113: (  1) - Low (2017 Remaster) - David Bowie
+114: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
+115: (  1) - New York Dolls - New York Dolls
+116: (  1) - Suspension - Blue Bendy
+117: (  1) - Suzi Quatro - Suzi Quatro
+118: (  1) - The Spangle Maker - Cocteau Twins
+119: (  1) - The Very Best Of Mud - Mud
+120: (  1) - Throwback Tunes: Classic Rock - Sweet

@@ -1,6 +1,6 @@
 Specified year (2024), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      95            12            14            87
+     133            26            28           120
  1: (32) - Martin Stephenson and the Daintees
 
 
@@ -19,21 +19,33 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  2: (16) - Echo & the Bunnymen
 
+ 3: (14) - Slowdive
 
-
- 3: (12) - Josef K
-
- 4: (10) - Slowdive
-
- 5: ( 8) - Diiv
- 6: ( 7) - Paul Weller
+ 4: (12) - Josef K
+ 5: (12) - Wet Leg
 
 
 
- 7: ( 3) - Roxy Music
- 8: ( 3) - Weekend
+ 6: ( 8) - Diiv
+ 7: ( 8) - Leonard Cohen
+ 8: ( 7) - Paul Weller
 
- 9: ( 1) - Charli Xcx
-10: ( 1) - David Bowie
-11: ( 1) - Hotpoint Customer Service Uk
-12: ( 1) - The News Agents
+
+ 9: ( 4) - Roxy Music
+10: ( 3) - Weekend
+11: ( 2) - David Bowie
+12: ( 1) - Charli Xcx
+13: ( 1) - Elton John
+14: ( 1) - Hotpoint Customer Service Uk
+15: ( 1) - Moleskineart
+16: ( 1) - Mott the Hoople
+17: ( 1) - Mud
+18: ( 1) - New York Dolls
+19: ( 1) - Queen
+20: ( 1) - Slade
+21: ( 1) - Sparks
+22: ( 1) - Steve Harley & Cockney Rebel, Steve Harley
+23: ( 1) - Suzi Quatro
+24: ( 1) - Sweet
+25: ( 1) - T. Rex
+26: ( 1) - The News Agents
