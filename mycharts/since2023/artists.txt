@@ -1,7 +1,25 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    5141           128           204          1602
-  1: (266) - Slowdive
+    5240           126           206          1634
+  1: (284) - Slowdive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,6 +108,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: (177) - Martin Stephenson and the Daintees
 
 
 
@@ -102,15 +121,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  3: (164) - Margo Price
-
-
-
-
-
-
-  4: (157) - Martin Stephenson and the Daintees
+  4: (164) - Margo Price
 
 
 
@@ -120,10 +131,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  5: (147) - Lloyd Cole
 
 
-  6: (144) - Bob Dylan
+  5: (152) - Bob Dylan
+
+
+
+  6: (148) - Lloyd Cole
+
+
+
+
 
 
 
@@ -150,32 +168,32 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  13: (119) - Body Type
 
+ 14: (117) - U2
 
- 14: (116) - U2
  15: (115) - Orchestral Manoeuvres in the Dark
  16: (114) - Bdrmm
  17: (114) - English Teacher
+ 18: (113) - St. Vincent
 
 
-
- 18: (110) - Altered Images
-
-
- 19: (107) - The Burning Hell
+ 19: (110) - Altered Images
 
 
-
-
-
-
- 20: (100) - Ride
+ 20: (107) - The Burning Hell
 
 
 
 
 
 
- 21: ( 93) - St. Vincent
+ 21: (100) - Ride
+
+
+
+
+
+
+
  22: ( 92) - Lime Garden
 
 
@@ -241,57 +259,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  42: ( 32) - Cocteau Twins
  43: ( 32) - Nightbus
  44: ( 31) - Courting
- 45: ( 31) - Weyes Blood
- 46: ( 30) - Edwyn Collins
- 47: ( 30) - Paramore
- 48: ( 30) - Whitelands
- 49: ( 30) - Yazoo
- 50: ( 29) - Be Your Own Pet
- 51: ( 29) - The Corrs
- 52: ( 28) - The Last Dinner Party
- 53: ( 28) - The Smiths
- 54: ( 28) - The Zephyrs
+ 45: ( 31) - The Cure
+ 46: ( 31) - Weyes Blood
+ 47: ( 30) - Edwyn Collins
+ 48: ( 30) - Paramore
+ 49: ( 30) - Whitelands
+ 50: ( 30) - Yazoo
+ 51: ( 29) - Be Your Own Pet
+ 52: ( 29) - The Corrs
+ 53: ( 28) - The Last Dinner Party
+ 54: ( 28) - The Smiths
+ 55: ( 28) - The Zephyrs
 
+ 56: ( 26) - Talking Heads
+ 57: ( 25) - Taylor Swift
+ 58: ( 24) - Angie Palmer
+ 59: ( 24) - Mint Mile
+ 60: ( 24) - The B-52's
+ 61: ( 23) - Martin Stephenson
+ 62: ( 22) - Curtis Mayfield
+ 63: ( 22) - Inhaler
+ 64: ( 22) - Jana Horn
+ 65: ( 22) - Steve Mason
+ 66: ( 21) - Cut Worms
+ 67: ( 21) - Drop Nineteens
+ 68: ( 21) - Shelby Lynne, Allison Moorer
+ 69: ( 20) - ABC
+ 70: ( 20) - The National
+ 71: ( 19) - Love
+ 72: ( 18) - Duke Garwood
+ 73: ( 18) - New Order
+ 74: ( 17) - Bill Nelson
+ 75: ( 17) - Brix Smith
+ 76: ( 16) - Devine & Statton
+ 77: ( 16) - The Fall
+ 78: ( 16) - The Specials
 
- 55: ( 25) - Taylor Swift
- 56: ( 24) - Angie Palmer
- 57: ( 24) - Mint Mile
- 58: ( 24) - The B-52's
- 59: ( 23) - The Cure
- 60: ( 22) - Curtis Mayfield
- 61: ( 22) - Inhaler
- 62: ( 22) - Jana Horn
- 63: ( 22) - Steve Mason
- 64: ( 21) - Cut Worms
- 65: ( 21) - Drop Nineteens
- 66: ( 21) - Shelby Lynne, Allison Moorer
- 67: ( 20) - ABC
- 68: ( 20) - The National
- 69: ( 19) - Love
- 70: ( 18) - Duke Garwood
- 71: ( 18) - New Order
- 72: ( 17) - Bill Nelson
- 73: ( 17) - Brix Smith
- 74: ( 16) - Devine & Statton
- 75: ( 16) - The Fall
- 76: ( 16) - The Specials
- 77: ( 15) - Martin Stephenson
- 78: ( 14) - The Style Council
- 79: ( 13) - Leonard Cohen
- 80: ( 12) - Blondie
- 81: ( 12) - Josef K
- 82: ( 12) - Nick Heyward
- 83: ( 12) - Wet Leg
- 84: ( 11) - Fleetwood Mac
- 85: ( 11) - Laura Cantrell
- 86: ( 11) - Laurel Canyon
- 87: ( 11) - Television
- 88: ( 10) - Emmylou Harris
- 89: ( 10) - The Jam
- 90: ( 10) - The Velvet Underground
- 91: ( 10) - Wednesday
- 92: (  9) - Brian Eno & David Byrne
- 93: (  9) - Talking Heads
+ 79: ( 14) - The Style Council
+ 80: ( 13) - Leonard Cohen
+ 81: ( 12) - Blondie
+ 82: ( 12) - Josef K
+ 83: ( 12) - Nick Heyward
+ 84: ( 12) - Wet Leg
+ 85: ( 11) - Fleetwood Mac
+ 86: ( 11) - Laura Cantrell
+ 87: ( 11) - Laurel Canyon
+ 88: ( 11) - Television
+ 89: ( 10) - Emmylou Harris
+ 90: ( 10) - The Jam
+ 91: ( 10) - The Velvet Underground
+ 92: ( 10) - Wednesday
+ 93: (  9) - Brian Eno & David Byrne
  94: (  9) - The Rolling Stones
  95: (  8) - Diiv
  96: (  8) - Scott Walker
@@ -312,19 +330,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 110: (  1) - Charli Xcx
 111: (  1) - Elton John
 112: (  1) - Eric Clapton
-113: (  1) - Hotpoint Customer Service Uk
-114: (  1) - It'S Immaterial
-115: (  1) - Moleskineart
-116: (  1) - Mott the Hoople
-117: (  1) - Mud
-118: (  1) - New York Dolls
-119: (  1) - Nick Lowe
-120: (  1) - Queen
-121: (  1) - Slade
-122: (  1) - Sparks
-123: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-124: (  1) - Suzi Quatro
-125: (  1) - Sweet
-126: (  1) - T. Rex
-127: (  1) - The News Agents
-128: (  1) - The Temper Trap
+113: (  1) - It'S Immaterial
+114: (  1) - Mott the Hoople
+115: (  1) - Mud
+116: (  1) - New York Dolls
+117: (  1) - Nick Lowe
+118: (  1) - Queen
+119: (  1) - Slade
+120: (  1) - Sparks
+121: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+122: (  1) - Suzi Quatro
+123: (  1) - Sweet
+124: (  1) - T. Rex
+125: (  1) - The Temper Trap
+126: (  1) - Tom Tom Club

@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2017            82           119           821
+    2116            80           122           857
  1: (199) - Newdad
 
 
@@ -63,6 +63,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (137) - Slowdive
 
 
 
@@ -81,12 +82,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (119) - Slowdive
 
 
 
 
  3: (114) - English Teacher
+ 4: (113) - St. Vincent
+
+
+
+
+
+
+
+
+
+ 5: (103) - Martin Stephenson and the Daintees
 
 
 
@@ -97,27 +108,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 6: ( 92) - Lime Garden
 
 
 
 
 
 
+ 7: ( 85) - Paul Weller
 
 
-
-
- 4: ( 93) - St. Vincent
- 5: ( 92) - Lime Garden
-
-
-
-
-
-
- 6: ( 85) - Paul Weller
-
- 7: ( 83) - Martin Stephenson and the Daintees
 
 
 
@@ -165,59 +165,58 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 16: ( 39) - Shack
 17: ( 38) - Coach Party
-18: ( 37) - Roxy Music
+18: ( 37) - Bob Dylan
+19: ( 37) - Roxy Music
 
 
 
 
-19: ( 32) - Bdrmm
-20: ( 31) - Courting
-21: ( 30) - Whitelands
-22: ( 29) - Bob Dylan
+20: ( 32) - Bdrmm
+21: ( 31) - Courting
+22: ( 30) - Whitelands
 23: ( 29) - Cocteau Twins
 24: ( 28) - The Last Dinner Party
 
+25: ( 26) - Talking Heads
 
+26: ( 24) - Angie Palmer
+27: ( 24) - Lloyd Cole
+28: ( 24) - Mint Mile
 
-25: ( 24) - Angie Palmer
-26: ( 24) - Mint Mile
-27: ( 23) - Lloyd Cole
-28: ( 22) - Edwyn Collins
-29: ( 22) - Robert Forster
+29: ( 22) - Edwyn Collins
+30: ( 22) - Robert Forster
+31: ( 21) - Martin Stephenson
+32: ( 20) - The Bluebells
+33: ( 19) - Weekend
+34: ( 18) - Josh Ritter
 
-30: ( 20) - The Bluebells
-31: ( 19) - Weekend
-32: ( 18) - Josh Ritter
+35: ( 16) - Devine & Statton
+36: ( 16) - Simple Minds
+37: ( 16) - The Cure
 
-33: ( 16) - Devine & Statton
-34: ( 16) - Simple Minds
-
-35: ( 14) - Yazoo
-36: ( 13) - Leonard Cohen
-37: ( 13) - Martin Stephenson
-38: ( 13) - The Fall
-39: ( 12) - Blondie
-40: ( 12) - David Bowie
-41: ( 12) - Josef K
-42: ( 12) - Nick Heyward
-43: ( 12) - Wet Leg
-44: ( 11) - Body Type
-45: ( 11) - Fleetwood Mac
-46: ( 10) - Emmylou Harris
-47: ( 10) - Nightbus
-48: ( 10) - The Jam
-49: ( 10) - The Velvet Underground
-50: (  9) - ABC
-51: (  9) - Talking Heads
-52: (  8) - Diiv
-53: (  8) - The Cure
+38: ( 14) - Yazoo
+39: ( 13) - Leonard Cohen
+40: ( 13) - The Fall
+41: ( 12) - Blondie
+42: ( 12) - David Bowie
+43: ( 12) - Josef K
+44: ( 12) - Nick Heyward
+45: ( 12) - Wet Leg
+46: ( 11) - Body Type
+47: ( 11) - Fleetwood Mac
+48: ( 10) - Emmylou Harris
+49: ( 10) - Nightbus
+50: ( 10) - The Jam
+51: ( 10) - The Velvet Underground
+52: (  9) - ABC
+53: (  8) - Diiv
 54: (  8) - The Feelies
 55: (  7) - The Sound
 
 56: (  5) - Folly Group
-57: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-58: (  4) - The Burning Hell
-59: (  4) - U2
+57: (  5) - U2
+58: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+59: (  4) - The Burning Hell
 60: (  3) - Kacey Musgraves
 61: (  3) - Still House Plants
 62: (  3) - The Sundays
@@ -226,18 +225,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 65: (  2) - The Corrs
 66: (  1) - Charli Xcx
 67: (  1) - Elton John
-68: (  1) - Hotpoint Customer Service Uk
-69: (  1) - It'S Immaterial
-70: (  1) - Moleskineart
-71: (  1) - Mott the Hoople
-72: (  1) - Mud
-73: (  1) - New York Dolls
-74: (  1) - Queen
-75: (  1) - Slade
-76: (  1) - Sparks
-77: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-78: (  1) - Suzi Quatro
-79: (  1) - Sweet
-80: (  1) - T. Rex
-81: (  1) - The News Agents
-82: (  1) - The Wailers
+68: (  1) - It'S Immaterial
+69: (  1) - Mott the Hoople
+70: (  1) - Mud
+71: (  1) - New York Dolls
+72: (  1) - Queen
+73: (  1) - Slade
+74: (  1) - Sparks
+75: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+76: (  1) - Suzi Quatro
+77: (  1) - Sweet
+78: (  1) - T. Rex
+79: (  1) - The Wailers
+80: (  1) - Tom Tom Club
