@@ -1,6 +1,6 @@
 Specified year (2024), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     287            33            37           207
+     296            33            38           216
  1: (52) - Martin Stephenson and the Daintees
 
 
@@ -41,18 +41,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 9: (12) - Wet Leg
+ 9: (12) - Roxy Music
+10: (12) - Wet Leg
+
+11: (10) - Lime Garden
+
+12: ( 8) - Bob Dylan
+13: ( 8) - Leonard Cohen
+14: ( 8) - Martin Stephenson
+15: ( 8) - The Cure
 
 
-
-10: ( 8) - Bob Dylan
-11: ( 8) - Leonard Cohen
-12: ( 8) - Martin Stephenson
-13: ( 8) - Roxy Music
-14: ( 8) - The Cure
-
-
-15: ( 5) - Lime Garden
 16: ( 5) - Ride
 
 17: ( 3) - Weekend
