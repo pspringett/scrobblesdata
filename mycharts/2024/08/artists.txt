@@ -1,6 +1,6 @@
 Specified year (2024), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     278            32            36           201
+     287            33            37           207
  1: (52) - Martin Stephenson and the Daintees
 
 
@@ -34,11 +34,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  4: (21) - Diiv
  5: (20) - St. Vincent
+ 6: (19) - Paul Weller
 
+ 7: (17) - Talking Heads
+ 8: (16) - Echo & the Bunnymen
 
- 6: (17) - Talking Heads
- 7: (16) - Echo & the Bunnymen
- 8: (15) - Paul Weller
 
 
  9: (12) - Wet Leg
@@ -52,22 +52,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 14: ( 8) - The Cure
 
 
-15: ( 5) - Ride
+15: ( 5) - Lime Garden
+16: ( 5) - Ride
 
-16: ( 3) - Weekend
-17: ( 2) - David Bowie
-18: ( 1) - Charli Xcx
-19: ( 1) - Elton John
-20: ( 1) - Lloyd Cole
-21: ( 1) - Mott the Hoople
-22: ( 1) - Mud
-23: ( 1) - New York Dolls
-24: ( 1) - Queen
-25: ( 1) - Slade
-26: ( 1) - Sparks
-27: ( 1) - Steve Harley & Cockney Rebel, Steve Harley
-28: ( 1) - Suzi Quatro
-29: ( 1) - Sweet
-30: ( 1) - T. Rex
-31: ( 1) - Tom Tom Club
-32: ( 1) - U2
+17: ( 3) - Weekend
+18: ( 2) - David Bowie
+19: ( 1) - Charli Xcx
+20: ( 1) - Elton John
+21: ( 1) - Lloyd Cole
+22: ( 1) - Mott the Hoople
+23: ( 1) - Mud
+24: ( 1) - New York Dolls
+25: ( 1) - Queen
+26: ( 1) - Slade
+27: ( 1) - Sparks
+28: ( 1) - Steve Harley & Cockney Rebel, Steve Harley
+29: ( 1) - Suzi Quatro
+30: ( 1) - Sweet
+31: ( 1) - T. Rex
+32: ( 1) - Tom Tom Club
+33: ( 1) - U2
