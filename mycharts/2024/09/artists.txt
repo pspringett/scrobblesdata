@@ -1,6 +1,6 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      49             6             6            49
+      50             6             6            50
 1: (11) - Paul Weller
 2: (10) - Orchestral Manoeuvres in the Dark
 3: ( 9) - Hem
@@ -9,5 +9,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 5: ( 7) - Roxy Music
 
 
-
-6: ( 3) - Josef K
+6: ( 4) - Josef K
