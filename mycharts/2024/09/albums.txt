@@ -1,12 +1,10 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     130             9             9            83
-1: (28) - Sorry For Laughing - Josef K
+     135            10            10            88
+ 1: (28) - Sorry For Laughing - Josef K
 
-2: (26) - Souvlaki - Slowdive
-3: (25) - X's - Cigarettes After Sex
-
-
+ 2: (26) - Souvlaki - Slowdive
+ 3: (25) - X's - Cigarettes After Sex
 
 
 
@@ -18,11 +16,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-4: (11) - 66 - Paul Weller
-5: (10) - Junk Culture - Orchestral Manoeuvres in the Dark
-6: ( 9) * Eveningland - Hem
-7: ( 9) * I Speak Because I Can - Laura Marling
 
-8: ( 7) - Stranded - Roxy Music
 
-9: ( 5) - Madra - Newdad
+ 4: (11) - 66 - Paul Weller
+ 5: (10) - Junk Culture - Orchestral Manoeuvres in the Dark
+ 6: ( 9) * Eveningland - Hem
+ 7: ( 9) * I Speak Because I Can - Laura Marling
+
+ 8: ( 7) - Stranded - Roxy Music
+
+ 9: ( 5) - Madra - Newdad
+10: ( 5) - Name Your Sorrow - Pillow Queens
