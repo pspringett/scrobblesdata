@@ -1,6 +1,6 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     138            10            10            91
+     139            10            10            92
  1: (28) - Josef K
 
  2: (26) - Slowdive
@@ -22,7 +22,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (10) - Orchestral Manoeuvres in the Dark
  6: ( 9) - Hem
  7: ( 9) - Laura Marling
- 8: ( 8) - Pillow Queens
+ 8: ( 9) - Pillow Queens
+
  9: ( 7) - Roxy Music
 
 10: ( 5) - Newdad
