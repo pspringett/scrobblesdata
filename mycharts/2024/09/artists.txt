@@ -1,15 +1,15 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     212            13            13           118
+     218            13            13           120
  1: (38) - Josef K
 
  2: (36) - Slowdive
 
  3: (34) - Cigarettes After Sex
+ 4: (33) - Pillow Queens
 
 
 
- 4: (30) - Pillow Queens
 
 
 
@@ -36,7 +36,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 10: ( 8) - Newdad
 11: ( 7) - Cocteau Twins
 12: ( 7) - Roxy Music
-
-
-
-13: ( 3) - Jessica Pratt
+13: ( 6) - Jessica Pratt
