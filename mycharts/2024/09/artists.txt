@@ -1,11 +1,11 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     254            19            19           135
- 1: (42) - Cigarettes After Sex
+     264            22            22           139
+ 1: (43) - Josef K
+ 2: (42) - Cigarettes After Sex
 
 
- 2: (39) - Slowdive
- 3: (38) - Josef K
+ 3: (39) - Slowdive
  4: (38) - Pillow Queens
 
 
@@ -34,12 +34,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  5: (12) - Jessica Pratt
  6: (11) - Paul Weller
- 7: (10) - Orchestral Manoeuvres in the Dark
- 8: (10) - The Fall
- 9: ( 9) - Hem
-10: ( 9) - Laura Marling
-11: ( 9) - The Bathers
-12: ( 8) - Newdad
+ 7: (10) - Newdad
+ 8: (10) - Orchestral Manoeuvres in the Dark
+ 9: (10) - The Fall
+10: ( 9) - Hem
+11: ( 9) - Laura Marling
+12: ( 9) - The Bathers
+
 13: ( 7) - Cocteau Twins
 14: ( 7) - Roxy Music
 
@@ -47,8 +48,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-15: ( 1) - Elton John
-16: ( 1) - George Harrison
-17: ( 1) - Slade
-18: ( 1) - Van Morrison
-19: ( 1) - Yes
+15: ( 1) - Badfinger
+16: ( 1) - Elton John
+17: ( 1) - George Harrison
+18: ( 1) - Slade
+19: ( 1) - Status Quo
+20: ( 1) - T. Rex
+21: ( 1) - Van Morrison
+22: ( 1) - Yes
