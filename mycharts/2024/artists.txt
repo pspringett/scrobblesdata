@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2481            91           141           956
+    2492            98           150           964
  1: (211) - Newdad
 
 
@@ -31,9 +31,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (181) - Slowdive
 
 
- 2: (179) - Slowdive
 
 
 
@@ -209,17 +209,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 42: ( 16) - The Cure
 
 43: ( 14) - Yazoo
-44: ( 13) - Leonard Cohen
-45: ( 12) - Blondie
-46: ( 12) - David Bowie
+44: ( 13) - David Bowie
+45: ( 13) - Leonard Cohen
+46: ( 12) - Blondie
 47: ( 12) - Nick Heyward
 48: ( 12) - Wet Leg
 49: ( 11) - Body Type
 50: ( 11) - Fleetwood Mac
-51: ( 10) - Emmylou Harris
-52: ( 10) - Nightbus
-53: ( 10) - The Jam
-54: ( 10) - The Velvet Underground
+51: ( 11) - The Velvet Underground
+52: ( 10) - Emmylou Harris
+53: ( 10) - Nightbus
+54: ( 10) - The Jam
 55: (  9) - ABC
 56: (  9) - Hem
 57: (  9) - Laura Marling
@@ -242,19 +242,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 73: (  2) - T. Rex
 74: (  2) - The Corrs
 75: (  1) - Badfinger
-76: (  1) - Charli Xcx
-77: (  1) - George Harrison
-78: (  1) - It'S Immaterial
-79: (  1) - Mott the Hoople
-80: (  1) - Mud
-81: (  1) - New York Dolls
-82: (  1) - Queen
-83: (  1) - Sparks
-84: (  1) - Status Quo
-85: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-86: (  1) - Suzi Quatro
-87: (  1) - Sweet
-88: (  1) - The Wailers
-89: (  1) - Tom Tom Club
-90: (  1) - Van Morrison
-91: (  1) - Yes
+76: (  1) - Carole King
+77: (  1) - Charli Xcx
+78: (  1) - George Harrison
+79: (  1) - It'S Immaterial
+80: (  1) - James Taylor
+81: (  1) - Janis Joplin
+82: (  1) - Joni Mitchell
+83: (  1) - Mott the Hoople
+84: (  1) - Mud
+85: (  1) - New York Dolls
+86: (  1) - Queen
+87: (  1) - Roy Budd
+88: (  1) - Sparks
+89: (  1) - Status Quo
+90: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+91: (  1) - Suzi Quatro
+92: (  1) - Sweet
+93: (  1) - The Temptations
+94: (  1) - The Wailers
+95: (  1) - Todd Rundgren
+96: (  1) - Tom Tom Club
+97: (  1) - Van Morrison
+98: (  1) - Yes

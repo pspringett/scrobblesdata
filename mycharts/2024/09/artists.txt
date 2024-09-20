@@ -1,9 +1,9 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     270            22            22           140
- 1: (43) - Josef K
- 2: (42) - Cigarettes After Sex
- 3: (42) - Slowdive
+     281            31            31           149
+ 1: (44) - Slowdive
+ 2: (43) - Josef K
+ 3: (42) - Cigarettes After Sex
 
 
 
@@ -49,10 +49,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 15: ( 1) - Badfinger
-16: ( 1) - Elton John
-17: ( 1) - George Harrison
-18: ( 1) - Slade
-19: ( 1) - Status Quo
-20: ( 1) - T. Rex
-21: ( 1) - Van Morrison
-22: ( 1) - Yes
+16: ( 1) - Carole King
+17: ( 1) - David Bowie
+18: ( 1) - Elton John
+19: ( 1) - George Harrison
+20: ( 1) - James Taylor
+21: ( 1) - Janis Joplin
+22: ( 1) - Joni Mitchell
+23: ( 1) - Roy Budd
+24: ( 1) - Slade
+25: ( 1) - Status Quo
+26: ( 1) - T. Rex
+27: ( 1) - The Temptations
+28: ( 1) - The Velvet Underground
+29: ( 1) - Todd Rundgren
+30: ( 1) - Van Morrison
+31: ( 1) - Yes
