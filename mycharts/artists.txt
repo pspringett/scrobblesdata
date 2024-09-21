@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   70110          1224          1834         12470
+   70122          1225          1834         12470
    1: (2342) - Lloyd Cole
    2: (2075) - David Bowie
    3: (1902) - Bob Dylan
@@ -9,7 +9,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    6: (1139) - U2
    7: (1067) - Cocteau Twins
    8: (1044) - Various
-   9: (1007) - Simple Minds
+   9: (1018) - Simple Minds
   10: (1000) - Roxy Music
   11: ( 987) - Tift Merritt
   12: ( 915) - Cowboy Junkies
@@ -1135,93 +1135,94 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1132: (   1) - Sam the Sham & the Pharaohs
 1133: (   1) - Shania Twain
 1134: (   1) - Simone Felice
-1135: (   1) - Sir Collins
-1136: (   1) - Sir Lord Comic
-1137: (   1) - Ska Campbell
-1138: (   1) - Slim Smith
-1139: (   1) - Slow Hands
-1140: (   1) - Softladification
-1141: (   1) - Sotonpressarchive
-1142: (   1) - Squeeze
-1143: (   1) - Steve Harley & Cockney Rebel
-1144: (   1) - Steve Harley & Cockney Rebel, Steve Harley
-1145: (   1) - Strawbs
-1146: (   1) - Sugar Minott
-1147: (   1) - Taco
-1148: (   1) - Tamara Todevska
-1149: (   1) - Tears for Fears
-1150: (   1) - Texas
-1151: (   1) - The Adverts
-1152: (   1) - The Allman Brothers Band
-1153: (   1) - The Archies
-1154: (   1) - The Cables
-1155: (   1) - The Church of Leeds Parish Choir
-1156: (   1) - The Coolers
-1157: (   1) - The Cult
-1158: (   1) - The Damned
-1159: (   1) - The Dynamites
-1160: (   1) - The Easybeats
-1161: (   1) - The Electric Prunes
-1162: (   1) - The Ethiopians
-1163: (   1) - The Hold Steady
-1164: (   1) - The Humans
-1165: (   1) - The Immortals
-1166: (   1) - The Jackson 5
-1167: (   1) - The Jokers
-1168: (   1) - The Late Late Show With James Corden
-1169: (   1) - The Lemonheads
-1170: (   1) - The Lyrics
-1171: (   1) - The Maytals
-1172: (   1) - The Medetators
-1173: (   1) - The Members
-1174: (   1) - The Million Dollar Bashers
-1175: (   1) - The Mission
-1176: (   1) - The New Basement Tapes
-1177: (   1) - The New Wave Music Podcast
-1178: (   1) - The News 247
-1179: (   1) - The Replacements
-1180: (   1) - The Rhythm Rulers
-1181: (   1) - The Scaffold
-1182: (   1) - The Sea and Cake
-1183: (   1) - The Soul Syndicate
-1184: (   1) - The Staple Singers
-1185: (   1) - The Stooges
-1186: (   1) - The Temptations
-1187: (   1) - The Thin White Duke
-1188: (   1) - The Triffids
-1189: (   1) - The Turtles
-1190: (   1) - The Twang
-1191: (   1) - The Vagaband
-1192: (   1) - The Vapors
-1193: (   1) - The Viceroys
-1194: (   1) - The Viceroys with Hubcap & the Wheels
-1195: (   1) - The Walker Brothers
-1196: (   1) - The Youngbloods
-1197: (   1) - Theatre of Hate
-1198: (   1) - Them
-1199: (   1) - Thepnutno2
-1200: (   1) - Throwing Muses
-1201: (   1) - Thundercat
-1202: (   1) - Todd Rundgren
-1203: (   1) - Tommy McCook
-1204: (   1) - Tommy Shakespeare
-1205: (   1) - Tones on Tail
-1206: (   1) - Toni Basil
-1207: (   1) - Tony Tribe
-1208: (   1) - Travis
-1209: (   1) - Trevor Brown
-1210: (   1) - Uriah Heep
-1211: (   1) - Vibracobra23 Dulosis
-1212: (   1) - Villagers
-1213: (   1) - Violent Femmes
-1214: (   1) - Visage
-1215: (   1) - Visagevevo
-1216: (   1) - Wand
-1217: (   1) - When in Rome
-1218: (   1) - Winston Francis
-1219: (   1) - Winston Samuels
-1220: (   1) - Winston Wright
-1221: (   1) - Yes
-1222: (   1) - Yonatan Gat
-1223: (   1) - Zibbz
-1224: (   1) - the FRIGHTNRS
+1135: (   1) - Simple Minds, Kt Tunstall
+1136: (   1) - Sir Collins
+1137: (   1) - Sir Lord Comic
+1138: (   1) - Ska Campbell
+1139: (   1) - Slim Smith
+1140: (   1) - Slow Hands
+1141: (   1) - Softladification
+1142: (   1) - Sotonpressarchive
+1143: (   1) - Squeeze
+1144: (   1) - Steve Harley & Cockney Rebel
+1145: (   1) - Steve Harley & Cockney Rebel, Steve Harley
+1146: (   1) - Strawbs
+1147: (   1) - Sugar Minott
+1148: (   1) - Taco
+1149: (   1) - Tamara Todevska
+1150: (   1) - Tears for Fears
+1151: (   1) - Texas
+1152: (   1) - The Adverts
+1153: (   1) - The Allman Brothers Band
+1154: (   1) - The Archies
+1155: (   1) - The Cables
+1156: (   1) - The Church of Leeds Parish Choir
+1157: (   1) - The Coolers
+1158: (   1) - The Cult
+1159: (   1) - The Damned
+1160: (   1) - The Dynamites
+1161: (   1) - The Easybeats
+1162: (   1) - The Electric Prunes
+1163: (   1) - The Ethiopians
+1164: (   1) - The Hold Steady
+1165: (   1) - The Humans
+1166: (   1) - The Immortals
+1167: (   1) - The Jackson 5
+1168: (   1) - The Jokers
+1169: (   1) - The Late Late Show With James Corden
+1170: (   1) - The Lemonheads
+1171: (   1) - The Lyrics
+1172: (   1) - The Maytals
+1173: (   1) - The Medetators
+1174: (   1) - The Members
+1175: (   1) - The Million Dollar Bashers
+1176: (   1) - The Mission
+1177: (   1) - The New Basement Tapes
+1178: (   1) - The New Wave Music Podcast
+1179: (   1) - The News 247
+1180: (   1) - The Replacements
+1181: (   1) - The Rhythm Rulers
+1182: (   1) - The Scaffold
+1183: (   1) - The Sea and Cake
+1184: (   1) - The Soul Syndicate
+1185: (   1) - The Staple Singers
+1186: (   1) - The Stooges
+1187: (   1) - The Temptations
+1188: (   1) - The Thin White Duke
+1189: (   1) - The Triffids
+1190: (   1) - The Turtles
+1191: (   1) - The Twang
+1192: (   1) - The Vagaband
+1193: (   1) - The Vapors
+1194: (   1) - The Viceroys
+1195: (   1) - The Viceroys with Hubcap & the Wheels
+1196: (   1) - The Walker Brothers
+1197: (   1) - The Youngbloods
+1198: (   1) - Theatre of Hate
+1199: (   1) - Them
+1200: (   1) - Thepnutno2
+1201: (   1) - Throwing Muses
+1202: (   1) - Thundercat
+1203: (   1) - Todd Rundgren
+1204: (   1) - Tommy McCook
+1205: (   1) - Tommy Shakespeare
+1206: (   1) - Tones on Tail
+1207: (   1) - Toni Basil
+1208: (   1) - Tony Tribe
+1209: (   1) - Travis
+1210: (   1) - Trevor Brown
+1211: (   1) - Uriah Heep
+1212: (   1) - Vibracobra23 Dulosis
+1213: (   1) - Villagers
+1214: (   1) - Violent Femmes
+1215: (   1) - Visage
+1216: (   1) - Visagevevo
+1217: (   1) - Wand
+1218: (   1) - When in Rome
+1219: (   1) - Winston Francis
+1220: (   1) - Winston Samuels
+1221: (   1) - Winston Wright
+1222: (   1) - Yes
+1223: (   1) - Yonatan Gat
+1224: (   1) - Zibbz
+1225: (   1) - the FRIGHTNRS
