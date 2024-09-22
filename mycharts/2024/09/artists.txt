@@ -1,6 +1,6 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     297            33            32           161
+     297            32            32           161
  1: (44) - Slowdive
  2: (43) - Josef K
  3: (42) - Cigarettes After Sex
@@ -36,8 +36,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  5: (12) - Jessica Pratt
  6: (12) - Newdad
- 7: (11) - Paul Weller
- 8: (11) - Simple Minds
+ 7: (12) - Simple Minds
+ 8: (11) - Paul Weller
  9: (10) - Orchestral Manoeuvres in the Dark
 10: (10) - The Fall
 11: ( 9) - Hem
@@ -59,12 +59,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 22: ( 1) - Janis Joplin
 23: ( 1) - Joni Mitchell
 24: ( 1) - Roy Budd
-25: ( 1) - Simple Minds, Kt Tunstall
-26: ( 1) - Slade
-27: ( 1) - Status Quo
-28: ( 1) - T. Rex
-29: ( 1) - The Temptations
-30: ( 1) - The Velvet Underground
-31: ( 1) - Todd Rundgren
-32: ( 1) - Van Morrison
-33: ( 1) - Yes
+25: ( 1) - Slade
+26: ( 1) - Status Quo
+27: ( 1) - T. Rex
+28: ( 1) - The Temptations
+29: ( 1) - The Velvet Underground
+30: ( 1) - Todd Rundgren
+31: ( 1) - Van Morrison
+32: ( 1) - Yes
