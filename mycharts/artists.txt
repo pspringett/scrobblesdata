@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   70140          1224          1834         12470
+   70156          1224          1835         12472
    1: (2342) - Lloyd Cole
    2: (2085) - David Bowie
    3: (1902) - Bob Dylan
@@ -9,7 +9,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    6: (1139) - U2
    7: (1067) - Cocteau Twins
    8: (1044) - Various
-   9: (1019) - Simple Minds
+   9: (1029) - Simple Minds
   10: (1000) - Roxy Music
   11: ( 987) - Tift Merritt
   12: ( 915) - Cowboy Junkies
@@ -315,13 +315,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  312: (  17) - Kurt Vile
  313: (  17) - R.E.M.
  314: (  17) - The Specials
- 315: (  16) - Patti Smith
- 316: (  16) - The Dream Syndicate
- 317: (  15) - Martin Stephenson, John Perry
- 318: (  15) - Sparks
- 319: (  15) - The Fire Engines
- 320: (  14) - David Byrne
- 321: (  14) - Fontaines D.c.
+ 315: (  16) - Fontaines D.c.
+ 316: (  16) - Patti Smith
+ 317: (  16) - The Dream Syndicate
+ 318: (  15) - Martin Stephenson, John Perry
+ 319: (  15) - Sparks
+ 320: (  15) - The Fire Engines
+ 321: (  14) - David Byrne
  322: (  14) - Green Gartside
  323: (  14) - William Tyler
  324: (  13) - David Byrne & St. Vincent
@@ -329,61 +329,61 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  326: (  13) - Kristin Hersh
  327: (  13) - Miranda Lambert
  328: (  13) - Ryan Bingham
- 329: (  13) - Tubeway Army
- 330: (  12) - Belle and Sebastian
- 331: (  12) - Callaghan
- 332: (  12) - Duran Duran
- 333: (  12) - Goldfrapp
- 334: (  12) - Jim Croce
- 335: (  12) - John Foxx
- 336: (  12) - Max Romeo
- 337: (  12) - Myrtle Park's Fishing Club
- 338: (  12) - The Church
- 339: (  12) - The Jimi Hendrix Experience
- 340: (  12) - The Men
- 341: (  11) - Colin Farrell
- 342: (  11) - Dry Cleaning
- 343: (  11) - Elizabeth Cook
- 344: (  11) - Françoise Hardy
- 345: (  11) - Grace Petrie
- 346: (  11) - Guy Clark
- 347: (  11) - Hatchie
- 348: (  11) - Joan Shelley
- 349: (  11) - Laurel Canyon
- 350: (  11) - Matt Berninger
- 351: (  11) - Peel.Rocks Magazine
- 352: (  11) - Rolling Blackouts Coastal Fever
- 353: (  11) - Television
- 354: (  11) - Travis Linville
- 355: (  10) - Cara Luft
- 356: (  10) - Dinah Washington
- 357: (  10) - Easy Star All-stars
- 358: (  10) - Elastica
- 359: (  10) - Gregory Isaacs
- 360: (  10) - Just the Faqs
- 361: (  10) - Kathleen Edwards
- 362: (  10) - Madeleine Peyroux
- 363: (  10) - Martha and the Muffins
- 364: (  10) - Mount Moriah
- 365: (  10) - Nico
- 366: (  10) - Nina Simone
- 367: (  10) - Samantha Crain
- 368: (  10) - The Feelies
- 369: (  10) - The Twilight Sad
- 370: (  10) - Tim Buckley
- 371: (  10) - Wednesday
- 372: (   9) - Big Thief
- 373: (   9) - Bryan Adams
- 374: (   9) - Daniel Bachman
- 375: (   9) - Hawkwind Zoo
- 376: (   9) - Ian Dury
- 377: (   9) - Lizz Wright
- 378: (   9) - Low
- 379: (   9) - Mark Lanegan
- 380: (   9) - Romi Mayes
- 381: (   9) - Stevie Nicks
- 382: (   9) - Sugar Black
- 383: (   9) - The Bathers
+ 329: (  13) - The Bathers
+ 330: (  13) - Tubeway Army
+ 331: (  12) - Belle and Sebastian
+ 332: (  12) - Callaghan
+ 333: (  12) - Duran Duran
+ 334: (  12) - Goldfrapp
+ 335: (  12) - Jim Croce
+ 336: (  12) - John Foxx
+ 337: (  12) - Max Romeo
+ 338: (  12) - Myrtle Park's Fishing Club
+ 339: (  12) - The Church
+ 340: (  12) - The Jimi Hendrix Experience
+ 341: (  12) - The Men
+ 342: (  11) - Colin Farrell
+ 343: (  11) - Dry Cleaning
+ 344: (  11) - Elizabeth Cook
+ 345: (  11) - Françoise Hardy
+ 346: (  11) - Grace Petrie
+ 347: (  11) - Guy Clark
+ 348: (  11) - Hatchie
+ 349: (  11) - Joan Shelley
+ 350: (  11) - Laurel Canyon
+ 351: (  11) - Matt Berninger
+ 352: (  11) - Peel.Rocks Magazine
+ 353: (  11) - Rolling Blackouts Coastal Fever
+ 354: (  11) - Television
+ 355: (  11) - Travis Linville
+ 356: (  10) - Cara Luft
+ 357: (  10) - Dinah Washington
+ 358: (  10) - Easy Star All-stars
+ 359: (  10) - Elastica
+ 360: (  10) - Gregory Isaacs
+ 361: (  10) - Just the Faqs
+ 362: (  10) - Kathleen Edwards
+ 363: (  10) - Madeleine Peyroux
+ 364: (  10) - Martha and the Muffins
+ 365: (  10) - Mount Moriah
+ 366: (  10) - Nico
+ 367: (  10) - Nina Simone
+ 368: (  10) - Samantha Crain
+ 369: (  10) - The Feelies
+ 370: (  10) - The Twilight Sad
+ 371: (  10) - Tim Buckley
+ 372: (  10) - Wednesday
+ 373: (   9) - Big Thief
+ 374: (   9) - Bryan Adams
+ 375: (   9) - Daniel Bachman
+ 376: (   9) - Hawkwind Zoo
+ 377: (   9) - Ian Dury
+ 378: (   9) - Lizz Wright
+ 379: (   9) - Low
+ 380: (   9) - Mark Lanegan
+ 381: (   9) - Romi Mayes
+ 382: (   9) - Stevie Nicks
+ 383: (   9) - Sugar Black
  384: (   9) - Tyler Childers
  385: (   9) - Waylon Jennings
  386: (   8) - Aldous Harding

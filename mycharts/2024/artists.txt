@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2522            98           151           981
+    2538            99           153           993
  1: (211) - Newdad
 
 
@@ -179,16 +179,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 20: ( 39) - Shack
 21: ( 38) - Coach Party
-22: ( 37) - Bob Dylan
-23: ( 36) - Cocteau Twins
+22: ( 38) - Simple Minds
+23: ( 37) - Bob Dylan
+24: ( 36) - Cocteau Twins
 
 
 
-24: ( 32) - Bdrmm
-25: ( 31) - Courting
-26: ( 30) - Whitelands
+25: ( 32) - Bdrmm
+26: ( 31) - Courting
+27: ( 30) - Whitelands
 
-27: ( 28) - Simple Minds
 28: ( 28) - The Last Dinner Party
 
 29: ( 26) - Talking Heads
@@ -211,19 +211,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 44: ( 14) - Yazoo
 45: ( 13) - Leonard Cohen
-46: ( 12) - Blondie
-47: ( 12) - Nick Heyward
-48: ( 12) - Wet Leg
-49: ( 11) - Body Type
-50: ( 11) - Fleetwood Mac
-51: ( 11) - The Velvet Underground
-52: ( 10) - Emmylou Harris
-53: ( 10) - Nightbus
-54: ( 10) - The Jam
-55: (  9) - ABC
-56: (  9) - Hem
-57: (  9) - Laura Marling
-58: (  9) - The Bathers
+46: ( 13) - The Bathers
+47: ( 12) - Blondie
+48: ( 12) - Nick Heyward
+49: ( 12) - Wet Leg
+50: ( 11) - Body Type
+51: ( 11) - Fleetwood Mac
+52: ( 11) - The Velvet Underground
+53: ( 10) - Emmylou Harris
+54: ( 10) - Nightbus
+55: ( 10) - The Jam
+56: (  9) - ABC
+57: (  9) - Hem
+58: (  9) - Laura Marling
 59: (  8) - The Feelies
 60: (  7) - The Redlands Palomino Company
 61: (  7) - The Sound
@@ -238,30 +238,31 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 69: (  3) - The Waterboys
 70: (  2) - Blue Bendy
 71: (  2) - Elton John
-72: (  2) - Slade
-73: (  2) - T. Rex
-74: (  2) - The Corrs
-75: (  1) - Badfinger
-76: (  1) - Carole King
-77: (  1) - Charli Xcx
-78: (  1) - George Harrison
-79: (  1) - It'S Immaterial
-80: (  1) - James Taylor
-81: (  1) - Janis Joplin
-82: (  1) - Joni Mitchell
-83: (  1) - Mott the Hoople
-84: (  1) - Mud
-85: (  1) - New York Dolls
-86: (  1) - Queen
-87: (  1) - Roy Budd
-88: (  1) - Sparks
-89: (  1) - Status Quo
-90: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-91: (  1) - Suzi Quatro
-92: (  1) - Sweet
-93: (  1) - The Temptations
-94: (  1) - The Wailers
-95: (  1) - Todd Rundgren
-96: (  1) - Tom Tom Club
-97: (  1) - Van Morrison
-98: (  1) - Yes
+72: (  2) - Fontaines D.c.
+73: (  2) - Slade
+74: (  2) - T. Rex
+75: (  2) - The Corrs
+76: (  1) - Badfinger
+77: (  1) - Carole King
+78: (  1) - Charli Xcx
+79: (  1) - George Harrison
+80: (  1) - It'S Immaterial
+81: (  1) - James Taylor
+82: (  1) - Janis Joplin
+83: (  1) - Joni Mitchell
+84: (  1) - Mott the Hoople
+85: (  1) - Mud
+86: (  1) - New York Dolls
+87: (  1) - Queen
+88: (  1) - Roy Budd
+89: (  1) - Sparks
+90: (  1) - Status Quo
+91: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+92: (  1) - Suzi Quatro
+93: (  1) - Sweet
+94: (  1) - The Temptations
+95: (  1) - The Wailers
+96: (  1) - Todd Rundgren
+97: (  1) - Tom Tom Club
+98: (  1) - Van Morrison
+99: (  1) - Yes

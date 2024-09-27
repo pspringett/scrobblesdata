@@ -1,6 +1,6 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     311            32            33           169
+     327            33            35           181
  1: (47) - Josef K
 
 
@@ -27,6 +27,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (22) - Simple Minds
 
 
 
@@ -35,38 +36,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
- 5: (12) - Jessica Pratt
- 6: (12) - Newdad
- 7: (12) - Simple Minds
- 8: (11) - David Bowie
- 9: (11) - Paul Weller
-10: (10) - Orchestral Manoeuvres in the Dark
-11: (10) - The Fall
-12: ( 9) - Hem
-13: ( 9) - Laura Marling
-14: ( 9) - The Bathers
+ 6: (13) - The Bathers
+ 7: (12) - Jessica Pratt
+ 8: (12) - Newdad
+ 9: (11) - David Bowie
+10: (11) - Paul Weller
+11: (10) - Orchestral Manoeuvres in the Dark
+12: (10) - The Fall
+13: ( 9) - Hem
+14: ( 9) - Laura Marling
 15: ( 8) - Roxy Music
 16: ( 7) - Cocteau Twins
 
 
 
 
-
-17: ( 1) - Badfinger
-18: ( 1) - Carole King
-19: ( 1) - Elton John
-20: ( 1) - George Harrison
-21: ( 1) - James Taylor
-22: ( 1) - Janis Joplin
-23: ( 1) - Joni Mitchell
-24: ( 1) - Roy Budd
-25: ( 1) - Slade
-26: ( 1) - Status Quo
-27: ( 1) - T. Rex
-28: ( 1) - The Temptations
-29: ( 1) - The Velvet Underground
-30: ( 1) - Todd Rundgren
-31: ( 1) - Van Morrison
-32: ( 1) - Yes
+17: ( 2) - Fontaines D.c.
+18: ( 1) - Badfinger
+19: ( 1) - Carole King
+20: ( 1) - Elton John
+21: ( 1) - George Harrison
+22: ( 1) - James Taylor
+23: ( 1) - Janis Joplin
+24: ( 1) - Joni Mitchell
+25: ( 1) - Roy Budd
+26: ( 1) - Slade
+27: ( 1) - Status Quo
+28: ( 1) - T. Rex
+29: ( 1) - The Temptations
+30: ( 1) - The Velvet Underground
+31: ( 1) - Todd Rundgren
+32: ( 1) - Van Morrison
+33: ( 1) - Yes
