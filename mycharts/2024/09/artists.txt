@@ -1,6 +1,6 @@
 Specified year (2024), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     332            33            35           181
+     358            33            36           194
  1: (49) - Slowdive
 
  2: (47) - Josef K
@@ -16,6 +16,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (35) - Laura Marling
 
 
 
@@ -28,9 +29,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
- 5: (22) - Simple Minds
-
+ 6: (22) - Simple Minds
 
 
 
@@ -38,15 +37,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 6: (13) - The Bathers
- 7: (12) - Jessica Pratt
- 8: (12) - Newdad
- 9: (11) - David Bowie
-10: (11) - Paul Weller
-11: (10) - Orchestral Manoeuvres in the Dark
-12: (10) - The Fall
-13: ( 9) - Hem
-14: ( 9) - Laura Marling
+
+ 7: (13) - The Bathers
+ 8: (12) - Jessica Pratt
+ 9: (12) - Newdad
+10: (11) - David Bowie
+11: (11) - Paul Weller
+12: (10) - Orchestral Manoeuvres in the Dark
+13: (10) - The Fall
+14: ( 9) - Hem
 15: ( 8) - Roxy Music
 16: ( 7) - Cocteau Twins
 
