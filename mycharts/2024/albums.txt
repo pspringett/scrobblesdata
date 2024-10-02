@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2603           101           156          1018
+    2608           101           157          1023
   1: (126) - This Could Be Texas - English Teacher
 
 
@@ -178,66 +178,67 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  92: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
  93: (  6) * Broken Carelessly - The Redlands Palomino Company
  94: (  6) - Salutation Road - Martin Stephenson and the Daintees
- 95: (  5) * Blonde On Blonde - Bob Dylan
- 96: (  5) - Down There! - Folly Group
- 97: (  5) - Lilac Tree - Martin Stephenson
- 98: (  4) * Boy - U2
- 99: (  4) - Garbage Island - The Burning Hell
-100: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-101: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
-102: (  4) - Siren - Roxy Music
-103: (  3) - Aladdin Sane - David Bowie
-104: (  3) - An Appointment With Mr Yeats - The Waterboys
-105: (  3) - Deeper Well - Kacey Musgraves
-106: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
-107: (  3) - If I Don't Make It, I Love U - Still House Plants
-108: (  3) * Reading, Writing & Arithmetic - The Sundays
-109: (  3) * Songs From A Room - Leonard Cohen
-110: (  3) - The '81 Demos - Weekend
-111: (  2) - Ferment - Catherine Wheel
-112: (  2) - Romance - Fontaines D.c.
-113: (  2) - The Corrs Unplugged - The Corrs
-114: (  2) * Various Positions - Leonard Cohen
-115: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
-116: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
-117: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-118: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-119: (  1) - Blue - Joni Mitchell
-120: (  1) - Brat - Charli Xcx
-121: (  1) - Burnin' - The Wailers
-122: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-123: (  1) - Cat People - David Bowie
-124: (  1) - Closing Sound - Blue Bendy
-125: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
-126: (  1) * Electric Warrior - T. Rex
-127: (  1) - Electrical Storm (Remastered 2024) - U2
-128: (  1) - Elton John - Elton John
-129: (  1) - Etc - Lloyd Cole
-130: (  1) - Fragile (Deluxe Edition) - Yes
-131: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
-132: (  1) - Get It On: The Collection - T. Rex
-133: (  1) - Goodbye Yellow Brick Road - Elton John
-134: (  1) - Greatest Hits (Remastered) - Queen
-135: (  1) - His Band And The Street Choir - Van Morrison
-136: (  1) - Kimono My House - Sparks
-137: (  1) - Life's Hard And Then You Die - It'S Immaterial
-138: (  1) - Loaded - The Velvet Underground
-139: (  1) * Love Story - Lloyd Cole
-140: (  1) - Low (2017 Remaster) - David Bowie
-141: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
-142: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
-143: (  1) - New York Dolls - New York Dolls
-144: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
-145: (  1) - Pearl - Janis Joplin
-146: (  1) - Runt - Todd Rundgren
-147: (  1) - Sky's The Limit - The Temptations
-148: (  1) - Sladest (Expanded) - Slade
-149: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
-150: (  1) - Suspension - Blue Bendy
-151: (  1) - Suzi Quatro - Suzi Quatro
-152: (  1) - Tapestry - Carole King
-153: (  1) - The Complete Pye Collection - Status Quo
-154: (  1) * The Man Who Sold The World - David Bowie
-155: (  1) - The Spangle Maker - Cocteau Twins
-156: (  1) - The Very Best Of Mud - Mud
-157: (  1) - Throwback Tunes: Classic Rock - Sweet
+ 95: (  5) * Alas I Cannot Swim - Laura Marling
+ 96: (  5) * Blonde On Blonde - Bob Dylan
+ 97: (  5) - Down There! - Folly Group
+ 98: (  5) - Lilac Tree - Martin Stephenson
+ 99: (  4) * Boy - U2
+100: (  4) - Garbage Island - The Burning Hell
+101: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+102: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
+103: (  4) - Siren - Roxy Music
+104: (  3) - Aladdin Sane - David Bowie
+105: (  3) - An Appointment With Mr Yeats - The Waterboys
+106: (  3) - Deeper Well - Kacey Musgraves
+107: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
+108: (  3) - If I Don't Make It, I Love U - Still House Plants
+109: (  3) * Reading, Writing & Arithmetic - The Sundays
+110: (  3) * Songs From A Room - Leonard Cohen
+111: (  3) - The '81 Demos - Weekend
+112: (  2) - Ferment - Catherine Wheel
+113: (  2) - Romance - Fontaines D.c.
+114: (  2) - The Corrs Unplugged - The Corrs
+115: (  2) * Various Positions - Leonard Cohen
+116: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+117: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
+118: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+119: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+120: (  1) - Blue - Joni Mitchell
+121: (  1) - Brat - Charli Xcx
+122: (  1) - Burnin' - The Wailers
+123: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+124: (  1) - Cat People - David Bowie
+125: (  1) - Closing Sound - Blue Bendy
+126: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+127: (  1) * Electric Warrior - T. Rex
+128: (  1) - Electrical Storm (Remastered 2024) - U2
+129: (  1) - Elton John - Elton John
+130: (  1) - Etc - Lloyd Cole
+131: (  1) - Fragile (Deluxe Edition) - Yes
+132: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
+133: (  1) - Get It On: The Collection - T. Rex
+134: (  1) - Goodbye Yellow Brick Road - Elton John
+135: (  1) - Greatest Hits (Remastered) - Queen
+136: (  1) - His Band And The Street Choir - Van Morrison
+137: (  1) - Kimono My House - Sparks
+138: (  1) - Life's Hard And Then You Die - It'S Immaterial
+139: (  1) - Loaded - The Velvet Underground
+140: (  1) * Love Story - Lloyd Cole
+141: (  1) - Low (2017 Remaster) - David Bowie
+142: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
+143: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
+144: (  1) - New York Dolls - New York Dolls
+145: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
+146: (  1) - Pearl - Janis Joplin
+147: (  1) - Runt - Todd Rundgren
+148: (  1) - Sky's The Limit - The Temptations
+149: (  1) - Sladest (Expanded) - Slade
+150: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
+151: (  1) - Suspension - Blue Bendy
+152: (  1) - Suzi Quatro - Suzi Quatro
+153: (  1) - Tapestry - Carole King
+154: (  1) - The Complete Pye Collection - Status Quo
+155: (  1) * The Man Who Sold The World - David Bowie
+156: (  1) - The Spangle Maker - Cocteau Twins
+157: (  1) - The Very Best Of Mud - Mud
+158: (  1) - Throwback Tunes: Classic Rock - Sweet
