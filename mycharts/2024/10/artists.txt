@@ -1,12 +1,16 @@
 Specified year (2024), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      35             6             6            35
-1: (10) - Wishy
+      59             9            11            59
+1: (12) - The Fall
 
-2: ( 8) - Clinic Stars
-3: ( 7) - Laura Marling
+2: (10) - Wishy
 
-4: ( 5) - Cowboy Junkies
+3: ( 8) - Bob Dylan
+4: ( 8) - Clinic Stars
+5: ( 7) - Laura Marling
+6: ( 6) - Mercury Rev
+7: ( 5) - Cowboy Junkies
 
-5: ( 3) - Mercury Rev
-6: ( 2) - Catherine Wheel
+
+8: ( 2) - Catherine Wheel
+9: ( 1) - Diiv
