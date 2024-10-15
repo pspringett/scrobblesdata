@@ -1,7 +1,18 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2661           105           163          1059
-  1: (211) - Newdad
+    2719           106           165          1080
+  1: (222) - Newdad
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -139,11 +150,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 10: ( 74) - Ride
+ 10: ( 74) - Laura Marling
+ 11: ( 74) - Ride
 
 
 
- 11: ( 70) - Orchestral Manoeuvres in the Dark
+ 12: ( 70) - Orchestral Manoeuvres in the Dark
 
 
 
@@ -152,7 +164,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 12: ( 61) - Laura Marling
+
  13: ( 60) - Margo Price
  14: ( 60) - Roxy Music
 
@@ -176,97 +188,99 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  19: ( 42) - Cigarettes After Sex
  20: ( 42) - Pillow Queens
  21: ( 41) - Aztec Camera
+ 22: ( 41) - David Bowie
 
- 22: ( 39) - Shack
- 23: ( 38) - Coach Party
- 24: ( 38) - Simple Minds
+ 23: ( 39) - Shack
+ 24: ( 38) - Coach Party
+ 25: ( 38) - Simple Minds
 
- 25: ( 36) - Cocteau Twins
- 26: ( 35) - The Fall
+ 26: ( 36) - Cocteau Twins
+ 27: ( 35) - The Fall
 
 
- 27: ( 32) - Bdrmm
- 28: ( 31) - Courting
- 29: ( 30) - Whitelands
+ 28: ( 32) - Bdrmm
+ 29: ( 31) - Courting
+ 30: ( 30) - Whitelands
 
- 30: ( 28) - The Last Dinner Party
+ 31: ( 28) - The Last Dinner Party
 
- 31: ( 26) - Talking Heads
+ 32: ( 26) - Talking Heads
 
- 32: ( 24) - Angie Palmer
- 33: ( 24) - Lloyd Cole
- 34: ( 24) - Mint Mile
- 35: ( 23) - David Bowie
+ 33: ( 24) - Angie Palmer
+ 34: ( 24) - Lloyd Cole
+ 35: ( 24) - Mint Mile
+
  36: ( 22) - Diiv
  37: ( 22) - Edwyn Collins
  38: ( 22) - Robert Forster
  39: ( 21) - Martin Stephenson
  40: ( 20) - The Bluebells
  41: ( 19) - Weekend
- 42: ( 18) - Josh Ritter
+ 42: ( 19) - Wishy
+ 43: ( 18) - Josh Ritter
 
- 43: ( 16) - Devine & Statton
- 44: ( 16) - The Cure
+ 44: ( 16) - Devine & Statton
+ 45: ( 16) - The Cure
 
- 45: ( 14) - Yazoo
- 46: ( 13) - Leonard Cohen
- 47: ( 13) - The Bathers
- 48: ( 12) - Blondie
- 49: ( 12) - Nick Heyward
- 50: ( 12) - Wet Leg
- 51: ( 11) - Body Type
- 52: ( 11) - Fleetwood Mac
- 53: ( 11) - The Velvet Underground
- 54: ( 10) - Emmylou Harris
- 55: ( 10) - Nightbus
- 56: ( 10) - The Jam
- 57: ( 10) - Wishy
- 58: (  9) - ABC
- 59: (  9) - Hem
- 60: (  9) - Mercury Rev
- 61: (  8) - Being Dead
- 62: (  8) - Clinic Stars
+ 46: ( 14) - Yazoo
+ 47: ( 13) - Leonard Cohen
+ 48: ( 13) - The Bathers
+ 49: ( 12) - Blondie
+ 50: ( 12) - Nick Heyward
+ 51: ( 12) - Wet Leg
+ 52: ( 11) - Body Type
+ 53: ( 11) - Fleetwood Mac
+ 54: ( 11) - The Velvet Underground
+ 55: ( 10) - Clinic Stars
+ 56: ( 10) - Emmylou Harris
+ 57: ( 10) - Nightbus
+ 58: ( 10) - The Jam
+ 59: (  9) - ABC
+ 60: (  9) - Hem
+ 61: (  9) - Mercury Rev
+ 62: (  8) - Being Dead
  63: (  8) - The Feelies
  64: (  7) - The Redlands Palomino Company
  65: (  7) - The Sound
 
  66: (  5) - Cowboy Junkies
  67: (  5) - Folly Group
- 68: (  5) - U2
- 69: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
- 70: (  4) - The Burning Hell
- 71: (  3) - Kacey Musgraves
- 72: (  3) - Still House Plants
- 73: (  3) - The Sundays
- 74: (  3) - The Waterboys
- 75: (  2) - Blue Bendy
- 76: (  2) - Catherine Wheel
- 77: (  2) - Elton John
- 78: (  2) - Fontaines D.c.
- 79: (  2) - Slade
- 80: (  2) - T. Rex
- 81: (  2) - The Corrs
- 82: (  1) - Badfinger
- 83: (  1) - Carole King
- 84: (  1) - Charli Xcx
- 85: (  1) - George Harrison
- 86: (  1) - It'S Immaterial
- 87: (  1) - James Taylor
- 88: (  1) - Janis Joplin
- 89: (  1) - Joni Mitchell
- 90: (  1) - Mott the Hoople
- 91: (  1) - Mud
- 92: (  1) - New York Dolls
- 93: (  1) - Queen
- 94: (  1) - Roy Budd
- 95: (  1) - Sparks
- 96: (  1) - Status Quo
- 97: (  1) - Steve Harley & Cockney Rebel, Steve Harley
- 98: (  1) - Suzi Quatro
- 99: (  1) - Sweet
-100: (  1) - The Temptations
-101: (  1) - The Wailers
-102: (  1) - Todd Rundgren
-103: (  1) - Tom Tom Club
-104: (  1) - Van Morrison
-105: (  1) - Yes
+ 68: (  5) - Julie
+ 69: (  5) - U2
+ 70: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+ 71: (  4) - The Burning Hell
+ 72: (  3) - Kacey Musgraves
+ 73: (  3) - Still House Plants
+ 74: (  3) - The Sundays
+ 75: (  3) - The Waterboys
+ 76: (  2) - Blue Bendy
+ 77: (  2) - Catherine Wheel
+ 78: (  2) - Elton John
+ 79: (  2) - Fontaines D.c.
+ 80: (  2) - Slade
+ 81: (  2) - T. Rex
+ 82: (  2) - The Corrs
+ 83: (  1) - Badfinger
+ 84: (  1) - Carole King
+ 85: (  1) - Charli Xcx
+ 86: (  1) - George Harrison
+ 87: (  1) - It'S Immaterial
+ 88: (  1) - James Taylor
+ 89: (  1) - Janis Joplin
+ 90: (  1) - Joni Mitchell
+ 91: (  1) - Mott the Hoople
+ 92: (  1) - Mud
+ 93: (  1) - New York Dolls
+ 94: (  1) - Queen
+ 95: (  1) - Roy Budd
+ 96: (  1) - Sparks
+ 97: (  1) - Status Quo
+ 98: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+ 99: (  1) - Suzi Quatro
+100: (  1) - Sweet
+101: (  1) - The Temptations
+102: (  1) - The Wailers
+103: (  1) - Todd Rundgren
+104: (  1) - Tom Tom Club
+105: (  1) - Van Morrison
+106: (  1) - Yes

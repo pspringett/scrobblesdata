@@ -1,18 +1,28 @@
 Specified year (2024), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      70            10            12            67
- 1: (10) - Triple Seven - Wishy
- 2: ( 9) - Born Horses - Mercury Rev
- 3: ( 8) - Eels - Being Dead
- 4: ( 8) * Highway 61 Revisited - Bob Dylan
- 5: ( 8) - Only Hinting - Clinic Stars
- 6: ( 7) * Alas I Cannot Swim - Laura Marling
-
- 7: ( 5) * Lay It Down - Cowboy Junkies
- 8: ( 5) - Slates (Live) - The Fall
- 9: ( 5) - Slates - The Fall
+     128            13            17           106
+ 1: (19) - Triple Seven - Wishy
 
 
-10: ( 2) - Ferment - Catherine Wheel
-11: ( 2) - Totale's Turns (It's Now Or Never) - The Fall
-12: ( 1) - Frog In Boiling Water - Diiv
+
+
+ 2: (14) * Alas I Cannot Swim - Laura Marling
+
+ 3: (12) - Low (2017 Remaster) - David Bowie
+ 4: (11) - Madra - Newdad
+ 5: (10) - Only Hinting - Clinic Stars
+ 6: ( 9) - Born Horses - Mercury Rev
+ 7: ( 8) - Eels - Being Dead
+ 8: ( 8) * Highway 61 Revisited - Bob Dylan
+
+ 9: ( 6) - Let's Dance (2018 Remaster) - David Bowie
+10: ( 6) - Short Movie - Laura Marling
+11: ( 5) * Lay It Down - Cowboy Junkies
+12: ( 5) - My Anti-Aircraft Friend - Julie
+13: ( 5) - Slates (Live) - The Fall
+14: ( 5) - Slates - The Fall
+
+
+15: ( 2) - Ferment - Catherine Wheel
+16: ( 2) - Totale's Turns (It's Now Or Never) - The Fall
+17: ( 1) - Frog In Boiling Water - Diiv

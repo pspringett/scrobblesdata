@@ -1,17 +1,25 @@
 Specified year (2024), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      70            10            12            67
- 1: (12) - The Fall
-
- 2: (10) - Wishy
- 3: ( 9) - Mercury Rev
- 4: ( 8) - Being Dead
- 5: ( 8) - Bob Dylan
- 6: ( 8) - Clinic Stars
- 7: ( 7) - Laura Marling
-
- 8: ( 5) - Cowboy Junkies
+     128            13            17           106
+ 1: (20) - Laura Marling
+ 2: (19) - Wishy
+ 3: (18) - David Bowie
 
 
- 9: ( 2) - Catherine Wheel
-10: ( 1) - Diiv
+
+
+
+ 4: (12) - The Fall
+ 5: (11) - Newdad
+ 6: (10) - Clinic Stars
+ 7: ( 9) - Mercury Rev
+ 8: ( 8) - Being Dead
+ 9: ( 8) - Bob Dylan
+
+
+10: ( 5) - Cowboy Junkies
+11: ( 5) - Julie
+
+
+12: ( 2) - Catherine Wheel
+13: ( 1) - Diiv
