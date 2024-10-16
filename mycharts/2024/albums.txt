@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2719           106           165          1080
+    2735           106           165          1085
   1: (126) - This Could Be Texas - English Teacher
 
 
@@ -18,10 +18,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   3: (112) - Madra - Newdad
 
   4: (110) - Waves - Newdad
+  5: (109) - 66 - Paul Weller
 
 
 
-  5: (106) - 66 - Paul Weller
   6: (105) - Just For A Day - Slowdive
 
 
@@ -123,71 +123,71 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  38: ( 18) - Spectral Lines - Josh Ritter
  39: ( 17) * Highway 61 Revisited - Bob Dylan
  40: ( 17) - Stop Making Sense (Deluxe Edition) [Live] - Talking Heads
- 41: ( 16) - Evergreen - Echo & the Bunnymen
- 42: ( 16) * High Land, Hard Rain - Aztec Camera
- 43: ( 16) - Live At Ronnie Scotts - Weekend
- 44: ( 16) - The Prince Of Wales - Devine & Statton
- 45: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
- 46: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
- 47: ( 15) * Yogi In My House - Martin Stephenson
- 48: ( 14) - Acoustic - Simple Minds
- 49: ( 14) * Alas I Cannot Swim - Laura Marling
- 50: ( 14) - Coals To Newcastle - Orange Juice
- 51: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
- 52: ( 14) - Love - Aztec Camera
- 53: ( 14) * Road - Angie Palmer
- 54: ( 14) - You And Me Both - Yazoo
- 55: ( 13) - Kelvingrove Baby - The Bathers
- 56: ( 13) - Low (2017 Remaster) - David Bowie
- 57: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
- 58: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 59: ( 12) - Greatest Hits: Blondie - Blondie
- 60: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
- 61: ( 12) - Wet Leg - Wet Leg
- 62: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
- 63: ( 11) - Expired Candy - Body Type
- 64: ( 11) - Flesh And Blood - Roxy Music
- 65: ( 11) - Rumours - Fleetwood Mac
- 66: ( 11) * Texas Fever - Orange Juice
- 67: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
- 68: ( 10) - Life In A Day - Simple Minds
- 69: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 70: ( 10) - Nightbus Singles - Nightbus
- 71: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
- 72: ( 10) - Only Hinting - Clinic Stars
- 73: ( 10) - Setting Sons - The Jam
- 74: ( 10) * Sparkle In The Rain - Simple Minds
- 75: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
- 76: ( 10) * Wrecking Ball - Emmylou Harris
- 77: ( 10) * Young Americans - David Bowie
- 78: (  9) - Born Horses - Mercury Rev
- 79: (  9) * Eveningland - Hem
- 80: (  9) - For Your Pleasure - Roxy Music
- 81: (  9) * I Speak Because I Can - Laura Marling
- 82: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
- 83: (  9) - Speaking In Tongues - Talking Heads
- 84: (  9) - The Lexicon Of Love - ABC
- 85: (  8) - Eels - Being Dead
- 86: (  8) * I'm Your Man - Leonard Cohen
- 87: (  8) * Knife - Aztec Camera
- 88: (  8) - Loaded: Live In New York - Lloyd Cole
- 89: (  8) - Manifesto - Roxy Music
- 90: (  8) - Modern Times - Bob Dylan
- 91: (  8) * Pornography - The Cure
- 92: (  8) * Seventeen Seconds - The Cure
- 93: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
- 94: (  7) - All Fall Down - The Sound
- 95: (  7) - Head Over Heels - Cocteau Twins
- 96: (  7) - On Sunset (Deluxe) - Paul Weller
- 97: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
- 98: (  6) * Broken Carelessly - The Redlands Palomino Company
- 99: (  6) - Let's Dance (2018 Remaster) - David Bowie
-100: (  6) - Salutation Road - Martin Stephenson and the Daintees
-101: (  5) * Blonde On Blonde - Bob Dylan
-102: (  5) - Down There! - Folly Group
-103: (  5) * Lay It Down - Cowboy Junkies
-104: (  5) - Lilac Tree - Martin Stephenson
-105: (  5) - My Anti-Aircraft Friend - Julie
+ 41: ( 16) - Eels - Being Dead
+ 42: ( 16) - Evergreen - Echo & the Bunnymen
+ 43: ( 16) * High Land, Hard Rain - Aztec Camera
+ 44: ( 16) - Live At Ronnie Scotts - Weekend
+ 45: ( 16) - The Prince Of Wales - Devine & Statton
+ 46: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
+ 47: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
+ 48: ( 15) * Yogi In My House - Martin Stephenson
+ 49: ( 14) - Acoustic - Simple Minds
+ 50: ( 14) * Alas I Cannot Swim - Laura Marling
+ 51: ( 14) - Coals To Newcastle - Orange Juice
+ 52: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+ 53: ( 14) - Love - Aztec Camera
+ 54: ( 14) * Road - Angie Palmer
+ 55: ( 14) - You And Me Both - Yazoo
+ 56: ( 13) - Kelvingrove Baby - The Bathers
+ 57: ( 13) - Low (2017 Remaster) - David Bowie
+ 58: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
+ 59: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 60: ( 12) - Greatest Hits: Blondie - Blondie
+ 61: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+ 62: ( 12) - Wet Leg - Wet Leg
+ 63: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+ 64: ( 11) - Expired Candy - Body Type
+ 65: ( 11) - Flesh And Blood - Roxy Music
+ 66: ( 11) - Rumours - Fleetwood Mac
+ 67: ( 11) * Texas Fever - Orange Juice
+ 68: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
+ 69: ( 10) - Life In A Day - Simple Minds
+ 70: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
+ 71: ( 10) - My Anti-Aircraft Friend - Julie
+ 72: ( 10) - Nightbus Singles - Nightbus
+ 73: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
+ 74: ( 10) - Only Hinting - Clinic Stars
+ 75: ( 10) - Setting Sons - The Jam
+ 76: ( 10) * Sparkle In The Rain - Simple Minds
+ 77: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
+ 78: ( 10) * Wrecking Ball - Emmylou Harris
+ 79: ( 10) * Young Americans - David Bowie
+ 80: (  9) - Born Horses - Mercury Rev
+ 81: (  9) * Eveningland - Hem
+ 82: (  9) - For Your Pleasure - Roxy Music
+ 83: (  9) * I Speak Because I Can - Laura Marling
+ 84: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+ 85: (  9) - Speaking In Tongues - Talking Heads
+ 86: (  9) - The Lexicon Of Love - ABC
+ 87: (  8) * I'm Your Man - Leonard Cohen
+ 88: (  8) * Knife - Aztec Camera
+ 89: (  8) - Loaded: Live In New York - Lloyd Cole
+ 90: (  8) - Manifesto - Roxy Music
+ 91: (  8) - Modern Times - Bob Dylan
+ 92: (  8) * Pornography - The Cure
+ 93: (  8) * Seventeen Seconds - The Cure
+ 94: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
+ 95: (  7) - All Fall Down - The Sound
+ 96: (  7) - Head Over Heels - Cocteau Twins
+ 97: (  7) - On Sunset (Deluxe) - Paul Weller
+ 98: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+ 99: (  6) * Broken Carelessly - The Redlands Palomino Company
+100: (  6) - Let's Dance (2018 Remaster) - David Bowie
+101: (  6) - Salutation Road - Martin Stephenson and the Daintees
+102: (  5) * Blonde On Blonde - Bob Dylan
+103: (  5) - Down There! - Folly Group
+104: (  5) * Lay It Down - Cowboy Junkies
+105: (  5) - Lilac Tree - Martin Stephenson
 106: (  5) - Slates (Live) - The Fall
 107: (  4) * Boy - U2
 108: (  4) - Garbage Island - The Burning Hell
