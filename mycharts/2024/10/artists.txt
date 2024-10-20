@@ -1,6 +1,6 @@
 Specified year (2024), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     190            16            21           122
+     200            16            21           131
  1: (29) - Wishy
 
 
@@ -9,8 +9,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  2: (22) - Being Dead
- 3: (21) - Mercury Rev
- 4: (20) - Julie
+ 3: (21) - Julie
+ 4: (21) - Mercury Rev
  5: (20) - Laura Marling
 
  6: (18) - David Bowie
@@ -18,17 +18,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
- 7: (12) - Clinic Stars
- 8: (12) - The Fall
- 9: (11) - Newdad
-
-
-10: ( 8) - Bob Dylan
+ 7: (13) - Eyeless in Gaza
+ 8: (12) - Clinic Stars
+ 9: (12) - The Fall
+10: (11) - Newdad
 
 
-11: ( 5) - Cowboy Junkies
-12: ( 4) - Eyeless in Gaza
+11: ( 8) - Bob Dylan
+
+
+12: ( 5) - Cowboy Junkies
+
 13: ( 3) - Paul Weller
 14: ( 2) - Catherine Wheel
 15: ( 2) - Paul Haig
