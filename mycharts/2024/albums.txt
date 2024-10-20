@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2749           106           165          1087
+    2765           108           168          1093
   1: (126) - This Could Be Texas - English Teacher
 
 
@@ -119,43 +119,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  34: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
  35: ( 21) - Strays - Margo Price
  36: ( 20) - In The 21St Century - The Bluebells
- 37: ( 19) - Triple Seven - Wishy
- 38: ( 18) - Slates - The Fall
- 39: ( 18) - Spectral Lines - Josh Ritter
- 40: ( 17) * Highway 61 Revisited - Bob Dylan
- 41: ( 17) - Stop Making Sense (Deluxe Edition) [Live] - Talking Heads
- 42: ( 16) - Evergreen - Echo & the Bunnymen
- 43: ( 16) * High Land, Hard Rain - Aztec Camera
- 44: ( 16) - Live At Ronnie Scotts - Weekend
- 45: ( 16) - The Prince Of Wales - Devine & Statton
- 46: ( 15) - Born Horses - Mercury Rev
- 47: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
- 48: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
- 49: ( 15) * Yogi In My House - Martin Stephenson
- 50: ( 14) - Acoustic - Simple Minds
- 51: ( 14) * Alas I Cannot Swim - Laura Marling
- 52: ( 14) - Coals To Newcastle - Orange Juice
- 53: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
- 54: ( 14) - Love - Aztec Camera
- 55: ( 14) * Road - Angie Palmer
- 56: ( 14) - You And Me Both - Yazoo
- 57: ( 13) - Kelvingrove Baby - The Bathers
- 58: ( 13) - Low (2017 Remaster) - David Bowie
- 59: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
- 60: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 61: ( 12) - Greatest Hits: Blondie - Blondie
- 62: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
- 63: ( 12) - Only Hinting - Clinic Stars
- 64: ( 12) - Wet Leg - Wet Leg
- 65: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
- 66: ( 11) - Expired Candy - Body Type
- 67: ( 11) - Flesh And Blood - Roxy Music
- 68: ( 11) - Rumours - Fleetwood Mac
- 69: ( 11) * Texas Fever - Orange Juice
- 70: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
- 71: ( 10) - Life In A Day - Simple Minds
- 72: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 73: ( 10) - My Anti-Aircraft Friend - Julie
+ 37: ( 20) - My Anti-Aircraft Friend - Julie
+ 38: ( 19) - Triple Seven - Wishy
+ 39: ( 18) - Slates - The Fall
+ 40: ( 18) - Spectral Lines - Josh Ritter
+ 41: ( 17) * Highway 61 Revisited - Bob Dylan
+ 42: ( 17) - Stop Making Sense (Deluxe Edition) [Live] - Talking Heads
+ 43: ( 16) - Evergreen - Echo & the Bunnymen
+ 44: ( 16) * High Land, Hard Rain - Aztec Camera
+ 45: ( 16) - Live At Ronnie Scotts - Weekend
+ 46: ( 16) - The Prince Of Wales - Devine & Statton
+ 47: ( 15) - Born Horses - Mercury Rev
+ 48: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
+ 49: ( 15) - The Complete Budokan 1978 (Live) - Bob Dylan
+ 50: ( 15) * Yogi In My House - Martin Stephenson
+ 51: ( 14) - Acoustic - Simple Minds
+ 52: ( 14) * Alas I Cannot Swim - Laura Marling
+ 53: ( 14) - Coals To Newcastle - Orange Juice
+ 54: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+ 55: ( 14) - Love - Aztec Camera
+ 56: ( 14) * Road - Angie Palmer
+ 57: ( 14) - You And Me Both - Yazoo
+ 58: ( 13) - Kelvingrove Baby - The Bathers
+ 59: ( 13) - Low (2017 Remaster) - David Bowie
+ 60: ( 13) - The Boy's Heart - Martin Stephenson and the Daintees
+ 61: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 62: ( 12) - Greatest Hits: Blondie - Blondie
+ 63: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+ 64: ( 12) - Only Hinting - Clinic Stars
+ 65: ( 12) - Wet Leg - Wet Leg
+ 66: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+ 67: ( 11) - Expired Candy - Body Type
+ 68: ( 11) - Flesh And Blood - Roxy Music
+ 69: ( 11) - Rumours - Fleetwood Mac
+ 70: ( 11) * Texas Fever - Orange Juice
+ 71: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
+ 72: ( 10) - Life In A Day - Simple Minds
+ 73: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
  74: ( 10) - Nightbus Singles - Nightbus
  75: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
  76: ( 10) - Setting Sons - The Jam
@@ -194,58 +194,61 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 109: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
 110: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
 111: (  4) - Siren - Roxy Music
-112: (  3) - Aladdin Sane - David Bowie
-113: (  3) - An Appointment With Mr Yeats - The Waterboys
-114: (  3) - Deeper Well - Kacey Musgraves
-115: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
-116: (  3) - If I Don't Make It, I Love U - Still House Plants
-117: (  3) * Reading, Writing & Arithmetic - The Sundays
-118: (  3) * Songs From A Room - Leonard Cohen
-119: (  3) - The '81 Demos - Weekend
-120: (  2) - Ferment - Catherine Wheel
-121: (  2) - Romance - Fontaines D.c.
-122: (  2) - The Corrs Unplugged - The Corrs
-123: (  2) - Totale's Turns (It's Now Or Never) - The Fall
-124: (  2) * Various Positions - Leonard Cohen
-125: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
-126: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
-127: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-128: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-129: (  1) - Blue - Joni Mitchell
-130: (  1) - Brat - Charli Xcx
-131: (  1) - Burnin' - The Wailers
-132: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-133: (  1) - Cat People - David Bowie
-134: (  1) - Closing Sound - Blue Bendy
-135: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
-136: (  1) * Electric Warrior - T. Rex
-137: (  1) - Electrical Storm (Remastered 2024) - U2
-138: (  1) - Elton John - Elton John
-139: (  1) - Etc - Lloyd Cole
-140: (  1) - Fragile (Deluxe Edition) - Yes
-141: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
-142: (  1) - Get It On: The Collection - T. Rex
-143: (  1) - Goodbye Yellow Brick Road - Elton John
-144: (  1) - Greatest Hits (Remastered) - Queen
-145: (  1) - His Band And The Street Choir - Van Morrison
-146: (  1) - Kimono My House - Sparks
-147: (  1) - Life's Hard And Then You Die - It'S Immaterial
-148: (  1) - Loaded - The Velvet Underground
-149: (  1) * Love Story - Lloyd Cole
-150: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
-151: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
-152: (  1) - New York Dolls - New York Dolls
-153: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
-154: (  1) - Pearl - Janis Joplin
-155: (  1) - Runt - Todd Rundgren
-156: (  1) - Sky's The Limit - The Temptations
-157: (  1) - Sladest (Expanded) - Slade
-158: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
-159: (  1) - Suspension - Blue Bendy
-160: (  1) - Suzi Quatro - Suzi Quatro
-161: (  1) - Tapestry - Carole King
-162: (  1) - The Complete Pye Collection - Status Quo
-163: (  1) * The Man Who Sold The World - David Bowie
-164: (  1) - The Spangle Maker - Cocteau Twins
-165: (  1) - The Very Best Of Mud - Mud
-166: (  1) - Throwback Tunes: Classic Rock - Sweet
+112: (  4) - Skeletal Framework: The Cherry Red Recordings 1981-1986 - Eyeless in Gaza
+113: (  3) - Aladdin Sane - David Bowie
+114: (  3) - An Appointment With Mr Yeats - The Waterboys
+115: (  3) - Deeper Well - Kacey Musgraves
+116: (  3) - High Land, Hard Rain (Expanded) - Aztec Camera
+117: (  3) - If I Don't Make It, I Love U - Still House Plants
+118: (  3) * Reading, Writing & Arithmetic - The Sundays
+119: (  3) * Songs From A Room - Leonard Cohen
+120: (  3) - The '81 Demos - Weekend
+121: (  2) - Ferment - Catherine Wheel
+122: (  2) - Romance - Fontaines D.c.
+123: (  2) - The Corrs Unplugged - The Corrs
+124: (  2) - Totale's Turns (It's Now Or Never) - The Fall
+125: (  2) * Various Positions - Leonard Cohen
+126: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+127: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
+128: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+129: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+130: (  1) - Blue - Joni Mitchell
+131: (  1) - Brat - Charli Xcx
+132: (  1) - Burnin' - The Wailers
+133: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+134: (  1) - Cat People - David Bowie
+135: (  1) - Closing Sound - Blue Bendy
+136: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+137: (  1) * Electric Warrior - T. Rex
+138: (  1) - Electrical Storm (Remastered 2024) - U2
+139: (  1) - Elton John - Elton John
+140: (  1) - Etc - Lloyd Cole
+141: (  1) - Fragile (Deluxe Edition) - Yes
+142: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
+143: (  1) - Get It On: The Collection - T. Rex
+144: (  1) - Goodbye Yellow Brick Road - Elton John
+145: (  1) - Greatest Hits (Remastered) - Queen
+146: (  1) - His Band And The Street Choir - Van Morrison
+147: (  1) - Kimono My House - Sparks
+148: (  1) - Life's Hard And Then You Die - It'S Immaterial
+149: (  1) - Loaded - The Velvet Underground
+150: (  1) * Love Story - Lloyd Cole
+151: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
+152: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
+153: (  1) - New York Dolls - New York Dolls
+154: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
+155: (  1) - Pearl - Janis Joplin
+156: (  1) - Runt - Todd Rundgren
+157: (  1) - Sky's The Limit - The Temptations
+158: (  1) - Sladest (Expanded) - Slade
+159: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
+160: (  1) - Suspension - Blue Bendy
+161: (  1) - Suzi Quatro - Suzi Quatro
+162: (  1) - Swing In 82 - Paul Haig
+163: (  1) - Tapestry - Carole King
+164: (  1) - The Complete Pye Collection - Status Quo
+165: (  1) * The Man Who Sold The World - David Bowie
+166: (  1) - The Spangle Maker - Cocteau Twins
+167: (  1) - The Very Best Of Mud - Mud
+168: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
+169: (  1) - Throwback Tunes: Classic Rock - Sweet
