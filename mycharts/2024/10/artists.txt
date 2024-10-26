@@ -1,14 +1,15 @@
 Specified year (2024), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     273            18            24           166
+     283            18            24           170
  1: (36) - Eyeless in Gaza
 
  2: (34) - Being Dead
+ 3: (34) - Wishy
 
- 3: (32) - Mercury Rev
+ 4: (32) - Mercury Rev
 
 
- 4: (29) - Wishy
+
 
 
 
@@ -31,11 +32,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 12: ( 8) - Bob Dylan
+13: ( 8) - Paul Weller
 
 
-13: ( 5) - Cowboy Junkies
+14: ( 5) - Cowboy Junkies
 
-14: ( 3) - Paul Weller
+
 15: ( 2) - Catherine Wheel
 16: ( 2) - Paul Haig
 17: ( 1) - Cara Dillon
