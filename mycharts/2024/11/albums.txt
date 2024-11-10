@@ -1,13 +1,15 @@
 Specified year (2024), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     126             6             7            69
-1: (27) - Patterns In Repeat - Laura Marling
+     135             7             7            69
+1: (29) - No Obligation - The Linda Lindas
 
-2: (25) - Songs Of A Lost World - The Cure
+2: (27) - Patterns In Repeat - Laura Marling
 
-3: (23) - Eels - Being Dead
+3: (25) - Songs Of A Lost World - The Cure
 
-4: (21) - No Obligation - The Linda Lindas
+4: (23) - Eels - Being Dead
+
+
 
 
 
@@ -20,3 +22,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 5: (11) * Black Cadillac - Rosanne Cash
 6: (10) - The River & The Thread - Rosanne Cash
 7: ( 9) - Swing In 82 - Paul Haig
+
+
+
+
+
+
+
+8: ( 1) - No Obligation - The Linda Lindas, Weird Al Yankovic

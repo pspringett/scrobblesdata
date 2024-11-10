@@ -1,14 +1,15 @@
 Specified year (2024), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     126             6             7            69
-1: (27) - Laura Marling
+     135             7             7            69
+1: (29) - The Linda Lindas
 
-2: (25) - The Cure
+2: (27) - Laura Marling
 
-3: (23) - Being Dead
+3: (25) - The Cure
 
-4: (21) - Rosanne Cash
-5: (21) - The Linda Lindas
+4: (23) - Being Dead
+
+5: (21) - Rosanne Cash
 
 
 
@@ -21,3 +22,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 6: ( 9) - Paul Haig
+
+
+
+
+
+
+
+7: ( 1) - The Linda Lindas, Weird Al Yankovic

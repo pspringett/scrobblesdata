@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3030           111           176          1195
+    3039           112           176          1195
   1: (222) - Newdad
 
 
@@ -200,21 +200,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  33: ( 32) - Bdrmm
  34: ( 31) - Courting
  35: ( 30) - Whitelands
+ 36: ( 29) - The Linda Lindas
+ 37: ( 28) - The Last Dinner Party
 
- 36: ( 28) - The Last Dinner Party
+ 38: ( 26) - Talking Heads
 
- 37: ( 26) - Talking Heads
-
- 38: ( 24) - Angie Palmer
- 39: ( 24) - Lloyd Cole
- 40: ( 24) - Mint Mile
- 41: ( 23) - Julie
- 42: ( 22) - Diiv
- 43: ( 22) - Edwyn Collins
- 44: ( 22) - Robert Forster
- 45: ( 21) - Martin Stephenson
- 46: ( 21) - Rosanne Cash
- 47: ( 21) - The Linda Lindas
+ 39: ( 24) - Angie Palmer
+ 40: ( 24) - Lloyd Cole
+ 41: ( 24) - Mint Mile
+ 42: ( 23) - Julie
+ 43: ( 22) - Diiv
+ 44: ( 22) - Edwyn Collins
+ 45: ( 22) - Robert Forster
+ 46: ( 21) - Martin Stephenson
+ 47: ( 21) - Rosanne Cash
  48: ( 20) - The Bluebells
  49: ( 19) - Weekend
  50: ( 18) - Josh Ritter
@@ -275,9 +274,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 103: (  1) - Steve Harley & Cockney Rebel, Steve Harley
 104: (  1) - Suzi Quatro
 105: (  1) - Sweet
-106: (  1) - The Temptations
-107: (  1) - The Wailers
-108: (  1) - Todd Rundgren
-109: (  1) - Tom Tom Club
-110: (  1) - Van Morrison
-111: (  1) - Yes
+106: (  1) - The Linda Lindas, Weird Al Yankovic
+107: (  1) - The Temptations
+108: (  1) - The Wailers
+109: (  1) - Todd Rundgren
+110: (  1) - Tom Tom Club
+111: (  1) - Van Morrison
+112: (  1) - Yes
