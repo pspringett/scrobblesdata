@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3091           112           177          1196
+    3103           113           177          1196
   1: (222) - Newdad
 
 
@@ -181,22 +181,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  20: ( 45) - Bob Dylan
- 21: ( 44) - Wishy
+ 21: ( 44) - The Linda Lindas
+ 22: ( 44) - Wishy
 
- 22: ( 42) - Cigarettes After Sex
- 23: ( 42) - Pillow Queens
- 24: ( 41) - Aztec Camera
- 25: ( 41) - David Bowie
- 26: ( 40) - Eyeless in Gaza
- 27: ( 39) - Shack
- 28: ( 38) - Coach Party
- 29: ( 38) - Mercury Rev
- 30: ( 38) - Simple Minds
+ 23: ( 42) - Cigarettes After Sex
+ 24: ( 42) - Pillow Queens
+ 25: ( 41) - Aztec Camera
+ 26: ( 41) - David Bowie
+ 27: ( 40) - Eyeless in Gaza
+ 28: ( 39) - Shack
+ 29: ( 38) - Coach Party
+ 30: ( 38) - Mercury Rev
+ 31: ( 38) - Simple Minds
 
- 31: ( 36) - Cocteau Twins
- 32: ( 35) - The Fall
+ 32: ( 36) - Cocteau Twins
+ 33: ( 35) - The Fall
 
- 33: ( 33) - The Linda Lindas
+
  34: ( 32) - Bdrmm
  35: ( 31) - Courting
  36: ( 30) - Whitelands
@@ -275,9 +276,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 104: (  1) - Steve Harley & Cockney Rebel, Steve Harley
 105: (  1) - Suzi Quatro
 106: (  1) - Sweet
-107: (  1) - The Temptations
-108: (  1) - The Wailers
-109: (  1) - Todd Rundgren
-110: (  1) - Tom Tom Club
-111: (  1) - Van Morrison
-112: (  1) - Yes
+107: (  1) - The Linda Lindas, Weird Al Yankovic
+108: (  1) - The Temptations
+109: (  1) - The Wailers
+110: (  1) - Todd Rundgren
+111: (  1) - Tom Tom Club
+112: (  1) - Van Morrison
+113: (  1) - Yes
