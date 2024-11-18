@@ -1,6 +1,6 @@
 Specified year (2024), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     216            10            10            77
+     220            11            11            81
  1: (47) - Laura Marling
  2: (47) - The Cure
 
@@ -45,9 +45,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: ( 7) - Paul Weller
 
 
+ 8: ( 4) - Leonard Cohen
 
 
-
- 8: ( 1) - Bee Gees
- 9: ( 1) - Pet Shop Boys, Manchester Camerata
-10: ( 1) - The Linda Lindas, Weird Al Yankovic
+ 9: ( 1) - Bee Gees
+10: ( 1) - Pet Shop Boys, Manchester Camerata
+11: ( 1) - The Linda Lindas, Weird Al Yankovic
