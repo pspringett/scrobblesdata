@@ -1,13 +1,15 @@
 Specified year (2024), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     232            12            12            84
- 1: (49) - Songs Of A Lost World - The Cure
+     242            12            12            84
+ 1: (51) - No Obligation - The Linda Lindas
 
- 2: (47) - Patterns In Repeat - Laura Marling
+ 2: (49) - Patterns In Repeat - Laura Marling
+ 3: (49) - Songs Of A Lost World - The Cure
 
 
- 3: (44) - Eels - Being Dead
- 4: (44) - No Obligation - The Linda Lindas
+
+
+ 4: (44) - Eels - Being Dead
 
 
 
@@ -50,7 +52,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  9: ( 4) * Various Positions - Leonard Cohen
 10: ( 3) - Pelican West Plus - Haircut 100
-
-11: ( 1) - All The Young Dudes / West End Girls (With The Manchester Camerata) - Pet Shop Boys, Manchester Camerata
-12: ( 1) - Bee Gees' 1St - Bee Gees
-13: ( 1) - No Obligation - The Linda Lindas, Weird Al Yankovic
+11: ( 2) - No Obligation - The Linda Lindas, Weird Al Yankovic
+12: ( 1) - All The Young Dudes / West End Girls (With The Manchester Camerata) - Pet Shop Boys, Manchester Camerata
+13: ( 1) - Bee Gees' 1St - Bee Gees

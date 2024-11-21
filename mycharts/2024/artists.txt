@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3136           115           179          1203
+    3146           115           179          1203
   1: (222) - Newdad
 
 
@@ -96,9 +96,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   3: (128) - Paul Weller
+  4: (127) - Laura Marling
+  5: (126) - English Teacher
 
-  4: (126) - English Teacher
-  5: (125) - Laura Marling
 
 
 
@@ -175,14 +175,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 19: ( 51) - The Linda Lindas
 
 
+ 20: ( 48) - My Bloody Valentine
 
- 19: ( 48) - My Bloody Valentine
 
-
- 20: ( 45) - Bob Dylan
- 21: ( 44) - The Linda Lindas
+ 21: ( 45) - Bob Dylan
  22: ( 44) - Wishy
 
  23: ( 42) - Cigarettes After Sex
@@ -259,28 +258,28 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  85: (  2) - Slade
  86: (  2) - T. Rex
  87: (  2) - The Corrs
- 88: (  1) - Badfinger
- 89: (  1) - Bee Gees
- 90: (  1) - Cara Dillon
- 91: (  1) - Carole King
- 92: (  1) - Charli Xcx
- 93: (  1) - George Harrison
- 94: (  1) - It'S Immaterial
- 95: (  1) - James Taylor
- 96: (  1) - Janis Joplin
- 97: (  1) - Joni Mitchell
- 98: (  1) - Mott the Hoople
- 99: (  1) - Mud
-100: (  1) - New York Dolls
-101: (  1) - Pet Shop Boys, Manchester Camerata
-102: (  1) - Queen
-103: (  1) - Roy Budd
-104: (  1) - Sparks
-105: (  1) - Status Quo
-106: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-107: (  1) - Suzi Quatro
-108: (  1) - Sweet
-109: (  1) - The Linda Lindas, Weird Al Yankovic
+ 88: (  2) - The Linda Lindas, Weird Al Yankovic
+ 89: (  1) - Badfinger
+ 90: (  1) - Bee Gees
+ 91: (  1) - Cara Dillon
+ 92: (  1) - Carole King
+ 93: (  1) - Charli Xcx
+ 94: (  1) - George Harrison
+ 95: (  1) - It'S Immaterial
+ 96: (  1) - James Taylor
+ 97: (  1) - Janis Joplin
+ 98: (  1) - Joni Mitchell
+ 99: (  1) - Mott the Hoople
+100: (  1) - Mud
+101: (  1) - New York Dolls
+102: (  1) - Pet Shop Boys, Manchester Camerata
+103: (  1) - Queen
+104: (  1) - Roy Budd
+105: (  1) - Sparks
+106: (  1) - Status Quo
+107: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+108: (  1) - Suzi Quatro
+109: (  1) - Sweet
 110: (  1) - The Temptations
 111: (  1) - The Wailers
 112: (  1) - Todd Rundgren
