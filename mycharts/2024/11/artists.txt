@@ -1,6 +1,6 @@
 Specified year (2024), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     299            14            17           104
+     297            12            15           102
  1: (61) - The Cure
  2: (60) - Being Dead
  3: (60) - Laura Marling
@@ -62,6 +62,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 10: ( 4) - Leonard Cohen
 11: ( 4) - Orchestral Manoeuvres in the Dark
 12: ( 3) - Haircut 100
-
-13: ( 1) - Bee Gees
-14: ( 1) - Pet Shop Boys, Manchester Camerata
