@@ -1,23 +1,27 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      65             7             7            49
-1: (18) - No Obligation - The Linda Lindas
+      80            10             9            64
+ 1: (20) - No Obligation - The Linda Lindas
 
 
 
 
 
-2: (12) - Born Horses - Mercury Rev
-3: (12) - Patterns In Repeat - Laura Marling
 
 
-4: ( 9) - Songs Of A Lost World - The Cure
+ 2: (12) - Born Horses - Mercury Rev
+ 3: (12) - Patterns In Repeat - Laura Marling
+
+
+ 4: ( 9) - All Born Screaming - St. Vincent
+ 5: ( 9) - Songs Of A Lost World - The Cure
 
 
 
-5: ( 5) - Waves - Newdad
-6: ( 4) - Short Movie - Laura Marling
-7: ( 4) - Sorry For Laughing - Josef K
+ 6: ( 5) - Waves - Newdad
+ 7: ( 4) - Short Movie - Laura Marling
+ 8: ( 4) - Sorry For Laughing - Josef K
+ 9: ( 3) - Aladdin Sane - David Bowie
 
-
-8: ( 1) - No Obligation - The Linda Lindas, Weird Al Yankovic
+10: ( 1) - All Born Screaming - St. Vincent, Cate Le Bon
+11: ( 1) - No Obligation - The Linda Lindas, Weird Al Yankovic

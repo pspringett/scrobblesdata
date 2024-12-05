@@ -1,6 +1,6 @@
 Specified year (2024)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3266           113           178          1205
+    3281           114           178          1207
   1: (227) - Newdad
 
 
@@ -106,6 +106,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  6: (122) - St. Vincent
 
 
 
@@ -115,7 +116,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: (113) - St. Vincent
 
 
 
@@ -157,9 +157,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  13: ( 74) - Orchestral Manoeuvres in the Dark
  14: ( 74) - Ride
+ 15: ( 73) - The Linda Lindas
 
 
- 15: ( 71) - The Linda Lindas
 
 
 
@@ -188,12 +188,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  22: ( 45) - Bob Dylan
- 23: ( 44) - Wishy
+ 23: ( 44) - David Bowie
+ 24: ( 44) - Wishy
 
- 24: ( 42) - Cigarettes After Sex
- 25: ( 42) - Pillow Queens
- 26: ( 41) - Aztec Camera
- 27: ( 41) - David Bowie
+ 25: ( 42) - Cigarettes After Sex
+ 26: ( 42) - Pillow Queens
+ 27: ( 41) - Aztec Camera
  28: ( 40) - Eyeless in Gaza
  29: ( 39) - Shack
  30: ( 38) - Coach Party
@@ -278,14 +278,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 100: (  1) - Queen
 101: (  1) - Roy Budd
 102: (  1) - Sparks
-103: (  1) - Status Quo
-104: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-105: (  1) - Suzi Quatro
-106: (  1) - Sweet
-107: (  1) - The Linda Lindas, Weird Al Yankovic
-108: (  1) - The Temptations
-109: (  1) - The Wailers
-110: (  1) - Todd Rundgren
-111: (  1) - Tom Tom Club
-112: (  1) - Van Morrison
-113: (  1) - Yes
+103: (  1) - St. Vincent, Cate Le Bon
+104: (  1) - Status Quo
+105: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+106: (  1) - Suzi Quatro
+107: (  1) - Sweet
+108: (  1) - The Linda Lindas, Weird Al Yankovic
+109: (  1) - The Temptations
+110: (  1) - The Wailers
+111: (  1) - Todd Rundgren
+112: (  1) - Tom Tom Club
+113: (  1) - Van Morrison
+114: (  1) - Yes
