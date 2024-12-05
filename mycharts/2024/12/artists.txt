@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     122            14            13           106
+     131            15            14           115
  1: (20) - The Linda Lindas
 
 
@@ -17,13 +17,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: ( 9) - Slowdive
  8: ( 9) - St. Vincent
  9: ( 9) - The Cure
+10: ( 9) - The Go-Betweens
 
 
 
-10: ( 5) - Newdad
-11: ( 4) - Josef K
+11: ( 5) - Newdad
+12: ( 4) - Josef K
 
 
-12: ( 1) - St. Vincent, Cate Le Bon
-13: ( 1) - The Go-Betweens
+13: ( 1) - St. Vincent, Cate Le Bon
 14: ( 1) - The Linda Lindas, Weird Al Yankovic
+15: ( 1) - U2
