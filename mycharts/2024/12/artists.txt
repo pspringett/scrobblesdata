@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      80            10             9            64
+      94            11            10            78
  1: (20) - The Linda Lindas
 
 
@@ -12,14 +12,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  3: (12) - Mercury Rev
 
 
- 4: ( 9) - St. Vincent
- 5: ( 9) - The Cure
+ 4: ( 9) - David Bowie
+ 5: ( 9) - St. Vincent
+ 6: ( 9) - The Cure
+ 7: ( 8) - Elvis Costello
 
 
+ 8: ( 5) - Newdad
+ 9: ( 4) - Josef K
 
- 6: ( 5) - Newdad
- 7: ( 4) - Josef K
- 8: ( 3) - David Bowie
 
- 9: ( 1) - St. Vincent, Cate Le Bon
-10: ( 1) - The Linda Lindas, Weird Al Yankovic
+10: ( 1) - St. Vincent, Cate Le Bon
+11: ( 1) - The Linda Lindas, Weird Al Yankovic
