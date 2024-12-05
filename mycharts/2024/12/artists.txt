@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      94            11            10            78
+      99            11            10            83
  1: (20) - The Linda Lindas
 
 
@@ -8,14 +8,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  2: (16) - Laura Marling
 
 
+ 3: (13) - Elvis Costello
+ 4: (12) - Mercury Rev
 
- 3: (12) - Mercury Rev
 
+ 5: ( 9) - David Bowie
+ 6: ( 9) - St. Vincent
+ 7: ( 9) - The Cure
 
- 4: ( 9) - David Bowie
- 5: ( 9) - St. Vincent
- 6: ( 9) - The Cure
- 7: ( 8) - Elvis Costello
 
 
  8: ( 5) - Newdad
