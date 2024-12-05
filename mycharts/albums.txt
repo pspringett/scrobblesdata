@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   70927          1232          1849         12596
+   70941          1232          1849         12596
    1: (324) - Cafe Bleu - The Style Council
    2: (298) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -32,15 +32,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   29: (190) - Red Dirt Girl - Emmylou Harris
   30: (190) - Tambourine - Tift Merritt
   31: (189) - On Sunset (Deluxe) - Paul Weller
-  32: (188) * Birds Of Chicago - Birds of Chicago
-  33: (188) - Pale Sun Crescent Moon - Cowboy Junkies
-  34: (187) * Antidepressant - Lloyd Cole
-  35: (187) - Sons And Fascination/Sister Feelings Call - Simple Minds
-  36: (187) - Woodland Echoes - Nick Heyward
-  37: (186) * October - U2
-  38: (186) * Rabbit Songs - Hem
-  39: (186) - Short Movie - Laura Marling
-  40: (185) - The Prince Of Wales - Devine & Statton
+  32: (189) - The Prince Of Wales - Devine & Statton
+  33: (188) * Birds Of Chicago - Birds of Chicago
+  34: (188) - Pale Sun Crescent Moon - Cowboy Junkies
+  35: (187) * Antidepressant - Lloyd Cole
+  36: (187) - Sons And Fascination/Sister Feelings Call - Simple Minds
+  37: (187) - Woodland Echoes - Nick Heyward
+  38: (186) * October - U2
+  39: (186) * Rabbit Songs - Hem
+  40: (186) - Short Movie - Laura Marling
   41: (184) * I Speak Because I Can - Laura Marling
   42: (184) - You And Me Both - Yazoo
   43: (181) - Penthouse And Pavement - Heaven 17
@@ -214,10 +214,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  211: (104) - Desolation Boulevard (New Extended Version) - Sweet
  212: (104) - Gaslighter - The Chicks
  213: (104) - Please Please Me (Remastered) - The Beatles
- 214: (104) - UNCUT 2016-08 The Goldrush - Various
- 215: (103) - Fear Of Music (Deluxe Version) - Talking Heads
- 216: (103) - Head Above The Water - Brigid Mae Power
- 217: (103) * Tallulah - The Go-Betweens
+ 214: (104) * Tallulah - The Go-Betweens
+ 215: (104) - UNCUT 2016-08 The Goldrush - Various
+ 216: (103) - Fear Of Music (Deluxe Version) - Talking Heads
+ 217: (103) - Head Above The Water - Brigid Mae Power
  218: (103) - The Outsider - Rodney Crowell
  219: (103) - You Are Here - Piney Gir
  220: (102) - All The Hours I Have Left To Tell You Anything - Sarah MacDougall
@@ -256,55 +256,55 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  253: ( 97) * Gorgeous George - Edwyn Collins
  254: ( 97) - Sound And Vision - David Bowie
  255: ( 97) - Stranger Me - Amy LaVere
- 256: ( 96) - Sweet Fanny Adams - Sweet
- 257: ( 96) - War - U2
- 258: ( 95) * Architecture & Morality - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
- 259: ( 95) * Get Happy!! - Elvis Costello & the Attractions
- 260: ( 94) - Close Ties - Rodney Crowell
- 261: ( 94) - Imperial Bedroom - Elvis Costello & the Attractions
- 262: ( 94) - Lodger (Tony Visconti 2017 Mix) - David Bowie
- 263: ( 94) - Tangled - Nick Heyward
- 264: ( 94) - UNCUT 2016 - 05 - Let Uncut Shake - Various
- 265: ( 94) - Wanderer - Cara Dillon
- 266: ( 93) - Lazy Ways/Beach Party - Marine Girls
- 267: ( 93) - Psychocandy - The Jesus and Mary Chain
- 268: ( 93) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
- 269: ( 93) - The Nashville Sound - Jason Isbell and the 400 Unit
- 270: ( 92) - Cover Your Tracks - Corb Lund
- 271: ( 92) - Echoes In A Shallow Bay - Cocteau Twins
- 272: ( 92) - Elton John (Remastered Version) - Elton John
- 273: ( 92) - Night - Tift Merritt
- 274: ( 92) - The Complete Matrix Tapes #1 - The Velvet Underground
- 275: ( 92) * There Comes A Time - Martin Stephenson and the Daintees
- 276: ( 91) - Aikea-Guinea - Cocteau Twins
- 277: ( 91) - Gasoline Alley - Rod Stewart
- 278: ( 91) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
- 279: ( 91) - Life's A Riot With Spy Vs. Spy (30Th Anniversary Edition) - Billy Bragg
- 280: ( 91) * Mountains/Forests - JT Nero
- 281: ( 91) - Once Upon A Time - Simple Minds
- 282: ( 91) - Stage (2017) [Live] - David Bowie
- 283: ( 91) - These Foolish Things - Bryan Ferry
- 284: ( 90) - Daddy's Home - St. Vincent
- 285: ( 90) - Evergreen - Echo & the Bunnymen
- 286: ( 90) - Hunky Dory - David Bowie
- 287: ( 90) - Nashville - Josh Rouse
- 288: ( 90) * No Word From Tom - Hem
- 289: ( 90) - Porcupine - Echo & the Bunnymen
- 290: ( 90) * Pornography - The Cure
- 291: ( 90) - Tanx (The Visconti Master) - T. Rex
- 292: ( 90) - Tiny Dynamine - Cocteau Twins
- 293: ( 89) * Cleaning Out The Ashtrays CD3 - Dangerous Music - Lloyd Cole
- 294: ( 89) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
- 295: ( 89) - In Search Of Space - Hawkwind
- 296: ( 89) - In Your Room - Yazoo
- 297: ( 89) - Mesh & Lace - Modern English
- 298: ( 89) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
- 299: ( 89) - Singles 1965-1967 - The Rolling Stones
- 300: ( 89) - When All Is Said And All Is Done - Department S
- 301: ( 88) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
- 302: ( 88) - The Slider - T. Rex
- 303: ( 87) - Little Seeds - Shovels & Rope
- 304: ( 87) - Souvlaki - Slowdive
+ 256: ( 96) - Souvlaki - Slowdive
+ 257: ( 96) - Sweet Fanny Adams - Sweet
+ 258: ( 96) - War - U2
+ 259: ( 95) * Architecture & Morality - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
+ 260: ( 95) * Get Happy!! - Elvis Costello & the Attractions
+ 261: ( 94) - Close Ties - Rodney Crowell
+ 262: ( 94) - Imperial Bedroom - Elvis Costello & the Attractions
+ 263: ( 94) - Lodger (Tony Visconti 2017 Mix) - David Bowie
+ 264: ( 94) - Tangled - Nick Heyward
+ 265: ( 94) - UNCUT 2016 - 05 - Let Uncut Shake - Various
+ 266: ( 94) - Wanderer - Cara Dillon
+ 267: ( 93) - Lazy Ways/Beach Party - Marine Girls
+ 268: ( 93) - Psychocandy - The Jesus and Mary Chain
+ 269: ( 93) - The John Peel Sessions 1979-1983 - Echo & the Bunnymen
+ 270: ( 93) - The Nashville Sound - Jason Isbell and the 400 Unit
+ 271: ( 92) - Cover Your Tracks - Corb Lund
+ 272: ( 92) - Echoes In A Shallow Bay - Cocteau Twins
+ 273: ( 92) - Elton John (Remastered Version) - Elton John
+ 274: ( 92) - Night - Tift Merritt
+ 275: ( 92) - The Complete Matrix Tapes #1 - The Velvet Underground
+ 276: ( 92) * There Comes A Time - Martin Stephenson and the Daintees
+ 277: ( 91) - Aikea-Guinea - Cocteau Twins
+ 278: ( 91) - Gasoline Alley - Rod Stewart
+ 279: ( 91) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
+ 280: ( 91) - Life's A Riot With Spy Vs. Spy (30Th Anniversary Edition) - Billy Bragg
+ 281: ( 91) * Mountains/Forests - JT Nero
+ 282: ( 91) - Once Upon A Time - Simple Minds
+ 283: ( 91) - Stage (2017) [Live] - David Bowie
+ 284: ( 91) - These Foolish Things - Bryan Ferry
+ 285: ( 90) - Daddy's Home - St. Vincent
+ 286: ( 90) - Evergreen - Echo & the Bunnymen
+ 287: ( 90) - Hunky Dory - David Bowie
+ 288: ( 90) - Nashville - Josh Rouse
+ 289: ( 90) * No Word From Tom - Hem
+ 290: ( 90) - Porcupine - Echo & the Bunnymen
+ 291: ( 90) * Pornography - The Cure
+ 292: ( 90) - Tanx (The Visconti Master) - T. Rex
+ 293: ( 90) - Tiny Dynamine - Cocteau Twins
+ 294: ( 89) * Cleaning Out The Ashtrays CD3 - Dangerous Music - Lloyd Cole
+ 295: ( 89) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
+ 296: ( 89) - In Search Of Space - Hawkwind
+ 297: ( 89) - In Your Room - Yazoo
+ 298: ( 89) - Mesh & Lace - Modern English
+ 299: ( 89) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+ 300: ( 89) - Singles 1965-1967 - The Rolling Stones
+ 301: ( 89) - When All Is Said And All Is Done - Department S
+ 302: ( 88) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+ 303: ( 88) - The Slider - T. Rex
+ 304: ( 87) - Little Seeds - Shovels & Rope
  305: ( 87) - The Houston Kid - Rodney Crowell
  306: ( 87) - Works - Eberard Weber
  307: ( 86) - Aladdin Sane - David Bowie
