@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     257            28            30           182
+     265            28            30           182
  1: (41) - The Cure
  2: (40) - Laura Marling
 
@@ -16,13 +16,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  3: (27) - Mercury Rev
+ 4: (27) - The Linda Lindas
 
 
 
 
 
 
- 4: (20) - The Linda Lindas
+
 
 
  5: (17) - U2
@@ -45,14 +46,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 16: ( 3) - Chris Rea
 17: ( 2) - The Burning Hell
-18: ( 2) - The Ronettes
-19: ( 1) - Andy Williams
-20: ( 1) - Best Christmas Songs
-21: ( 1) - Elton John
-22: ( 1) - Jorja Smith
-23: ( 1) - Mariah Carey
-24: ( 1) - Michael Bublé
-25: ( 1) - Queen
-26: ( 1) - St. Vincent, Cate Le Bon
-27: ( 1) - The Linda Lindas, Weird Al Yankovic
+18: ( 2) - The Linda Lindas, Weird Al Yankovic
+19: ( 2) - The Ronettes
+20: ( 1) - Andy Williams
+21: ( 1) - Best Christmas Songs
+22: ( 1) - Elton John
+23: ( 1) - Jorja Smith
+24: ( 1) - Mariah Carey
+25: ( 1) - Michael Bublé
+26: ( 1) - Queen
+27: ( 1) - St. Vincent, Cate Le Bon
 28: ( 1) - The Pogues
