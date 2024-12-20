@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     280            29            32           194
+     280            27            32           194
  1: (52) - The Cure
 
 
@@ -24,10 +24,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 3: (29) - The Linda Lindas
 
-
- 3: (27) - Mercury Rev
- 4: (27) - The Linda Lindas
+ 4: (27) - Mercury Rev
 
 
 
@@ -46,9 +45,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  8: (11) - Josef K
  9: (10) - Echo & the Bunnymen
-10: ( 9) - David Bowie
-11: ( 9) - Slowdive
-12: ( 9) - St. Vincent
+10: (10) - St. Vincent
+11: ( 9) - David Bowie
+12: ( 9) - Slowdive
 13: ( 9) - The Go-Betweens
 
 14: ( 7) - Emmylou Harris
@@ -57,14 +56,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 16: ( 4) - Simple Minds
 17: ( 3) - Chris Rea
 18: ( 2) - The Burning Hell
-19: ( 2) - The Linda Lindas, Weird Al Yankovic
-20: ( 2) - The Ronettes
-21: ( 1) - Andy Williams
-22: ( 1) - Best Christmas Songs
-23: ( 1) - Elton John
-24: ( 1) - Jorja Smith
-25: ( 1) - Mariah Carey
-26: ( 1) - Michael Bublé
-27: ( 1) - Queen
-28: ( 1) - St. Vincent, Cate Le Bon
-29: ( 1) - The Pogues
+19: ( 2) - The Ronettes
+20: ( 1) - Andy Williams
+21: ( 1) - Best Christmas Songs
+22: ( 1) - Elton John
+23: ( 1) - Jorja Smith
+24: ( 1) - Mariah Carey
+25: ( 1) - Michael Bublé
+26: ( 1) - Queen
+27: ( 1) - The Pogues
