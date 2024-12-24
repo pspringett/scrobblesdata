@@ -1,7 +1,8 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     301            28            33           201
- 1: (52) - The Cure
+     328            40            50           227
+ 1: (53) - The Cure
+
 
 
 
@@ -43,26 +44,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (13) - Devine & Statton
  7: (13) - Elvis Costello
 
- 8: (11) - Josef K
- 9: (10) - Echo & the Bunnymen
-10: (10) - St. Vincent
-11: ( 9) - David Bowie
-12: ( 9) - Slowdive
-13: ( 9) - The Go-Betweens
-14: ( 8) - Simple Minds
-15: ( 7) - Emmylou Harris
+ 8: (11) - Echo & the Bunnymen
+ 9: (11) - Josef K
+10: (10) - David Bowie
+11: (10) - St. Vincent
+12: ( 9) - Newdad
+13: ( 9) - Simple Minds
+14: ( 9) - Slowdive
+15: ( 9) - The Go-Betweens
+16: ( 8) - Being Dead
+17: ( 7) - Emmylou Harris
 
-16: ( 5) - Lloyd Cole
-17: ( 5) - Newdad
+18: ( 5) - Lloyd Cole
 
-18: ( 3) - Chris Rea
-19: ( 2) - The Burning Hell
-20: ( 2) - The Ronettes
-21: ( 1) - Andy Williams
-22: ( 1) - Best Christmas Songs
-23: ( 1) - Elton John
-24: ( 1) - Jorja Smith
-25: ( 1) - Mariah Carey
-26: ( 1) - Michael Bublé
-27: ( 1) - Queen
-28: ( 1) - The Pogues
+19: ( 3) - Chris Rea
+20: ( 2) - The Burning Hell
+21: ( 2) - The Ronettes
+22: ( 1) - Andy Williams
+23: ( 1) - Best Christmas Songs
+24: ( 1) - Blondie
+25: ( 1) - Duran Duran
+26: ( 1) - Elton John
+27: ( 1) - Eurythmics, Annie Lennox, Dave Stewart
+28: ( 1) - Jorja Smith
+29: ( 1) - Joy Division
+30: ( 1) - Mariah Carey
+31: ( 1) - Michael Bublé
+32: ( 1) - New Order
+33: ( 1) - Queen
+34: ( 1) - Soft Cell
+35: ( 1) - Spandau Ballet
+36: ( 1) - Talking Heads
+37: ( 1) - Tears for Fears
+38: ( 1) - The Human League
+39: ( 1) - The Pogues
+40: ( 1) - The Vapors

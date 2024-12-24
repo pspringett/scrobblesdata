@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6626           167           275          2025
+    6653           174           288          2037
   1: (348) - Slowdive
 
 
@@ -118,11 +118,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  2: (231) - Newdad
 
 
 
 
-  2: (227) - Newdad
 
 
 
@@ -184,9 +184,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  5: (164) - Margo Price
-  6: (164) - The Cure
+  5: (165) - The Cure
+  6: (164) - Margo Price
 
 
 
@@ -213,8 +212,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  9: (136) - Echo & the Bunnymen
+  9: (137) - Echo & the Bunnymen
  10: (136) - Josh Ritter
 
  11: (134) - U2
@@ -239,20 +237,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  21: (114) - Bdrmm
+ 22: (113) - David Bowie
 
- 22: (112) - David Bowie
 
  23: (110) - Altered Images
- 24: (109) - The Burning Hell
+ 24: (110) - Being Dead
+ 25: (109) - The Burning Hell
 
 
 
- 25: (105) - Ride
+ 26: (105) - Ride
 
-
- 26: (102) - Being Dead
- 27: (102) - Lime Garden
- 28: (102) - Simple Minds
+ 27: (103) - Simple Minds
+ 28: (102) - Lime Garden
 
 
 
@@ -342,8 +339,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  64: ( 28) - The Last Dinner Party
  65: ( 28) - The Smiths
  66: ( 28) - The Zephyrs
+ 67: ( 27) - Talking Heads
 
- 67: ( 26) - Talking Heads
  68: ( 25) - Taylor Swift
  69: ( 24) - Angie Palmer
  70: ( 24) - Mint Mile
@@ -363,17 +360,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  84: ( 20) - The National
  85: ( 19) - Leonard Cohen
  86: ( 19) - Love
- 87: ( 18) - Duke Garwood
- 88: ( 18) - New Order
+ 87: ( 19) - New Order
+ 88: ( 18) - Duke Garwood
  89: ( 17) - Bill Nelson
  90: ( 17) - Brix Smith
  91: ( 17) - Emmylou Harris
  92: ( 16) - The Specials
 
  93: ( 14) - The Style Council
- 94: ( 13) - Elvis Costello
- 95: ( 13) - The Bathers
- 96: ( 12) - Blondie
+ 94: ( 13) - Blondie
+ 95: ( 13) - Elvis Costello
+ 96: ( 13) - The Bathers
  97: ( 12) - Clinic Stars
  98: ( 12) - Nick Heyward
  99: ( 12) - Paul Haig
@@ -393,9 +390,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 113: (  8) - The Feelies
 114: (  7) - The Redlands Palomino Company
 115: (  7) - The Sound
-
-116: (  5) - Folly Group
-117: (  5) - Joy Division
+116: (  6) - Joy Division
+117: (  5) - Folly Group
 118: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
 119: (  3) - Chris Rea
 120: (  3) - Elton John
@@ -420,29 +416,36 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 139: (  1) - Cara Dillon
 140: (  1) - Carole King
 141: (  1) - Charli Xcx
-142: (  1) - Eric Clapton
-143: (  1) - George Harrison
-144: (  1) - It'S Immaterial
-145: (  1) - James Taylor
-146: (  1) - Janis Joplin
-147: (  1) - Joni Mitchell
-148: (  1) - Jorja Smith
-149: (  1) - Mariah Carey
-150: (  1) - Michael Bublé
-151: (  1) - Mott the Hoople
-152: (  1) - Mud
-153: (  1) - New York Dolls
-154: (  1) - Nick Lowe
-155: (  1) - Roy Budd
-156: (  1) - Sparks
-157: (  1) - Status Quo
-158: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-159: (  1) - Suzi Quatro
-160: (  1) - Sweet
-161: (  1) - The Pogues
-162: (  1) - The Temper Trap
-163: (  1) - The Temptations
-164: (  1) - Todd Rundgren
-165: (  1) - Tom Tom Club
-166: (  1) - Van Morrison
-167: (  1) - Yes
+142: (  1) - Duran Duran
+143: (  1) - Eric Clapton
+144: (  1) - Eurythmics, Annie Lennox, Dave Stewart
+145: (  1) - George Harrison
+146: (  1) - It'S Immaterial
+147: (  1) - James Taylor
+148: (  1) - Janis Joplin
+149: (  1) - Joni Mitchell
+150: (  1) - Jorja Smith
+151: (  1) - Mariah Carey
+152: (  1) - Michael Bublé
+153: (  1) - Mott the Hoople
+154: (  1) - Mud
+155: (  1) - New York Dolls
+156: (  1) - Nick Lowe
+157: (  1) - Roy Budd
+158: (  1) - Soft Cell
+159: (  1) - Spandau Ballet
+160: (  1) - Sparks
+161: (  1) - Status Quo
+162: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+163: (  1) - Suzi Quatro
+164: (  1) - Sweet
+165: (  1) - Tears for Fears
+166: (  1) - The Human League
+167: (  1) - The Pogues
+168: (  1) - The Temper Trap
+169: (  1) - The Temptations
+170: (  1) - The Vapors
+171: (  1) - Todd Rundgren
+172: (  1) - Tom Tom Club
+173: (  1) - Van Morrison
+174: (  1) - Yes
