@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     328            40            50           227
+     336            41            51           231
  1: (35) - Songs Of A Lost World - The Cure
  2: (34) - Born Horses - Mercury Rev
 
@@ -23,16 +23,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 6: (13) - The Prince Of Wales - Devine & Statton
- 7: (13) - This Year's Model (2021 Remaster) - Elvis Costello
+ 6: (13) - Souvlaki - Slowdive
+ 7: (13) - The Prince Of Wales - Devine & Statton
+ 8: (13) - This Year's Model (2021 Remaster) - Elvis Costello
 
- 8: (11) - Sorry For Laughing - Josef K
- 9: (10) - All Born Screaming - St. Vincent
-10: (10) * Heaven Up Here - Echo & the Bunnymen
-11: (10) - Short Movie - Laura Marling
-12: ( 9) - Aladdin Sane - David Bowie
-13: ( 9) * Seventeen Seconds - The Cure
-14: ( 9) - Souvlaki - Slowdive
+ 9: (11) - Sorry For Laughing - Josef K
+10: (10) - All Born Screaming - St. Vincent
+11: (10) * Heaven Up Here - Echo & the Bunnymen
+12: (10) - Short Movie - Laura Marling
+13: ( 9) - Aladdin Sane - David Bowie
+14: ( 9) * Seventeen Seconds - The Cure
 15: ( 9) * Tallulah - The Go-Betweens
 16: ( 8) - Eels - Being Dead
 17: ( 8) * Faith - The Cure
@@ -41,32 +41,33 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 20: ( 5) - Lloyd Cole Live Union Chapel 2023 - Lloyd Cole
 21: ( 5) - Waves - Newdad
-22: ( 4) - Madra - Newdad
-23: ( 3) - Dancing With Strangers (Deluxe Edition) [2019 Remaster] - Chris Rea
-24: ( 3) - Once I Was An Eagle - Laura Marling
-25: ( 2) - Garbage Island - The Burning Hell
-26: ( 1) - Brotherhood - New Order
-27: ( 1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
-28: ( 1) - Caribou (Remastered 1995) - Elton John
-29: ( 1) - Christmas Jams - Michael Bublé
-30: ( 1) - Dare! - The Human League
-31: ( 1) - Fairytale Of New York - The Pogues
-32: ( 1) - Greatest Hits - The Cure
-33: ( 1) - Holiday Pop - The Ronettes
-34: ( 1) - Merry Christmas - Mariah Carey
-35: ( 1) - New Clear Days - The Vapors
-36: ( 1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
-37: ( 1) * Ocean Rain - Echo & the Bunnymen
-38: ( 1) - Once Upon A Time (Super Deluxe) - Simple Minds
-39: ( 1) - Rio (Collector's Edition) - Duran Duran
-40: ( 1) - Road Trip Sing-Along Songs - Blondie
-41: ( 1) - Scary Monsters (And Super Creeps) - David Bowie
-42: ( 1) - Speaking In Tongues - Talking Heads
-43: ( 1) - Stay Another Day - Jorja Smith
-44: ( 1) - Substance - Joy Division
-45: ( 1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
-46: ( 1) - The Andy Williams Christmas Album - Andy Williams
-47: ( 1) - The Hurting - Tears for Fears
-48: ( 1) - The Platinum Collection (2011 Remaster) - Queen
-49: ( 1) - True (Special Edition) - Spandau Ballet
-50: ( 1) - Weihnachten Workout - The Ronettes
+22: ( 4) - Here In The Pitch - Jessica Pratt
+23: ( 4) - Madra - Newdad
+24: ( 3) - Dancing With Strangers (Deluxe Edition) [2019 Remaster] - Chris Rea
+25: ( 3) - Once I Was An Eagle - Laura Marling
+26: ( 2) - Garbage Island - The Burning Hell
+27: ( 1) - Brotherhood - New Order
+28: ( 1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
+29: ( 1) - Caribou (Remastered 1995) - Elton John
+30: ( 1) - Christmas Jams - Michael Bublé
+31: ( 1) - Dare! - The Human League
+32: ( 1) - Fairytale Of New York - The Pogues
+33: ( 1) - Greatest Hits - The Cure
+34: ( 1) - Holiday Pop - The Ronettes
+35: ( 1) - Merry Christmas - Mariah Carey
+36: ( 1) - New Clear Days - The Vapors
+37: ( 1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
+38: ( 1) * Ocean Rain - Echo & the Bunnymen
+39: ( 1) - Once Upon A Time (Super Deluxe) - Simple Minds
+40: ( 1) - Rio (Collector's Edition) - Duran Duran
+41: ( 1) - Road Trip Sing-Along Songs - Blondie
+42: ( 1) - Scary Monsters (And Super Creeps) - David Bowie
+43: ( 1) - Speaking In Tongues - Talking Heads
+44: ( 1) - Stay Another Day - Jorja Smith
+45: ( 1) - Substance - Joy Division
+46: ( 1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
+47: ( 1) - The Andy Williams Christmas Album - Andy Williams
+48: ( 1) - The Hurting - Tears for Fears
+49: ( 1) - The Platinum Collection (2011 Remaster) - Queen
+50: ( 1) - True (Special Edition) - Spandau Ballet
+51: ( 1) - Weihnachten Workout - The Ronettes
