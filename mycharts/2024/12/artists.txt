@@ -1,6 +1,6 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     344            41            51           231
+     358            41            53           245
  1: (56) - The Cure
 
 
@@ -35,26 +35,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (23) - Simple Minds
 
 
 
 
 
-
- 5: (17) - U2
-
+ 6: (17) - U2
 
 
- 6: (13) - Devine & Statton
- 7: (13) - Elvis Costello
- 8: (13) - Slowdive
 
- 9: (11) - Echo & the Bunnymen
-10: (11) - Josef K
-11: (10) - David Bowie
-12: (10) - St. Vincent
-13: ( 9) - Newdad
-14: ( 9) - Simple Minds
+ 7: (13) - Devine & Statton
+ 8: (13) - Elvis Costello
+ 9: (13) - Slowdive
+
+10: (11) - Echo & the Bunnymen
+11: (11) - Josef K
+12: (10) - David Bowie
+13: (10) - St. Vincent
+14: ( 9) - Newdad
 15: ( 9) - The Go-Betweens
 16: ( 8) - Being Dead
 17: ( 7) - Emmylou Harris
