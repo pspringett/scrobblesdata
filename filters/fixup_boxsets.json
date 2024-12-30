@@ -209,7 +209,7 @@
         "we're gonna have a real good time together (version 1)": "The Complete Matrix Tapes #1",
         "over you (version 1)": "The Complete Matrix Tapes #1",
         "sweet jane (version 1)": "The Complete Matrix Tapes #1",
-        "i'm waiting for the man (version 1 / live)": "The Complete Matrix Tapes #1",
+          "i'm waiting for the man (version 1 / live)": "The Complete Matrix Tapes #1",
         "what goes on (version 1 / live)": "The Complete Matrix Tapes #1",
         "some kinda love (version 1 / live)": "The Complete Matrix Tapes #1",
         "heroin (version 1 / live)": "The Complete Matrix Tapes #1",
@@ -251,5 +251,23 @@
         "heroin (live)": "The Complete Matrix Tapes #4",
         "white light/white heat (live)": "The Complete Matrix Tapes #4",
         "sweet jane (live)": "The Complete Matrix Tapes #4"
+    },
+    "eels": {
+        "godzilla rises": "EELS Volume 1",
+        "van goes": "EELS Volume 1",
+        "blanket of my bone": "EELS Volume 1",
+        "problems": "EELS Volume 1",
+        "firefighters": "EELS Volume 1",
+        "dragons ii": "EELS Volume 1",
+        "nightvision": "EELS Volume 1",
+        "gazing at footwear": "EELS Volume 1",
+        "big bovine": "EELS Volume 2",
+        "storybook bay": "EELS Volume 2",
+        "ballerina": "EELS Volume 2",
+        "rock n'roll hurts": "EELS Volume 2",
+        "love machine": "EELS Volume 2",
+        "i was a tunnel": "EELS Volume 2",
+        "goodnight": "EELS Volume 2",
+        "lilypad lane": "EELS Volume 2"
     }
 }
