@@ -1,7 +1,10 @@
 Specified year (2024), specified month (12)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     404            44            57           264
- 1: (64) - The Cure
+     421            45            58           275
+ 1: (67) - The Cure
+
+
+
 
 
 
@@ -55,40 +58,40 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  7: (13) - Devine & Statton
  8: (13) - Elvis Costello
  9: (13) - Slowdive
-
-10: (11) - Echo & the Bunnymen
-11: (11) - Josef K
-12: (10) - David Bowie
-13: (10) - Josh Ritter
-14: (10) - St. Vincent
-15: ( 9) - Newdad
+10: (12) - Newdad
+11: (11) - Echo & the Bunnymen
+12: (11) - Josef K
+13: (10) - David Bowie
+14: (10) - Josh Ritter
+15: (10) - St. Vincent
 16: ( 9) - The Go-Betweens
 17: ( 8) - Being Dead
 18: ( 8) - Robert Forster
 19: ( 7) - Emmylou Harris
+20: ( 7) - English Teacher
 
-20: ( 5) - Lloyd Cole
-21: ( 4) - Jessica Pratt
-22: ( 3) - Chris Rea
-23: ( 2) - The Burning Hell
-24: ( 2) - The Ronettes
-25: ( 1) - Andy Williams
-26: ( 1) - Best Christmas Songs
-27: ( 1) - Blondie
-28: ( 1) - Duran Duran
-29: ( 1) - Elton John
-30: ( 1) - English Teacher
-31: ( 1) - Eurythmics, Annie Lennox, Dave Stewart
-32: ( 1) - Jorja Smith
-33: ( 1) - Joy Division
-34: ( 1) - Mariah Carey
-35: ( 1) - Michael Bublé
-36: ( 1) - New Order
-37: ( 1) - Queen
-38: ( 1) - Soft Cell
-39: ( 1) - Spandau Ballet
-40: ( 1) - Talking Heads
-41: ( 1) - Tears for Fears
-42: ( 1) - The Human League
-43: ( 1) - The Pogues
-44: ( 1) - The Vapors
+21: ( 5) - Lloyd Cole
+22: ( 5) - Paul Weller
+23: ( 4) - Jessica Pratt
+24: ( 3) - Chris Rea
+25: ( 2) - The Burning Hell
+26: ( 2) - The Ronettes
+27: ( 1) - Andy Williams
+28: ( 1) - Best Christmas Songs
+29: ( 1) - Blondie
+30: ( 1) - Duran Duran
+31: ( 1) - Elton John
+32: ( 1) - Eurythmics, Annie Lennox, Dave Stewart
+33: ( 1) - Jorja Smith
+34: ( 1) - Joy Division
+35: ( 1) - Mariah Carey
+36: ( 1) - Michael Bublé
+37: ( 1) - New Order
+38: ( 1) - Queen
+39: ( 1) - Soft Cell
+40: ( 1) - Spandau Ballet
+41: ( 1) - Talking Heads
+42: ( 1) - Tears for Fears
+43: ( 1) - The Human League
+44: ( 1) - The Pogues
+45: ( 1) - The Vapors
