@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6834           178           296          2105
+    6834           178           295          2105
   1: (139) - The Candle And The Flame - Robert Forster
 
 
@@ -248,13 +248,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 178: (  8) - Sons And Fascination/Sister Feelings Call - Simple Minds
 179: (  8) - What Happened To The Heart? - Aurora
 180: (  7) - All Fall Down - The Sound
-181: (  7) - Head Over Heels - Cocteau Twins
-182: (  7) - On Sunset (Deluxe) - Paul Weller
-183: (  7) * Scott - Scott Walker
-184: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-185: (  6) * Broken Carelessly - The Redlands Palomino Company
-186: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
-187: (  6) - EELS Volume 2 - Being Dead
+181: (  7) - EELS Volume 2 - Being Dead
+182: (  7) - Head Over Heels - Cocteau Twins
+183: (  7) - On Sunset (Deluxe) - Paul Weller
+184: (  7) * Scott - Scott Walker
+185: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+186: (  6) * Broken Carelessly - The Redlands Palomino Company
+187: (  6) * Don't Get Weird On Me Babe - Lloyd Cole
 188: (  6) - Let's Dance (2018 Remaster) - David Bowie
 189: (  6) - Salutation Road - Martin Stephenson and the Daintees
 190: (  6) * Various Positions - Leonard Cohen
@@ -308,61 +308,60 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 238: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
 239: (  1) - Dare! - The Human League
 240: (  1) - Dragnet - The Fall
-241: (  1) - Eels - Being Dead
-242: (  1) * Electric Warrior - T. Rex
-243: (  1) - Electrical Storm (Remastered 2024) - U2
-244: (  1) - Elton John - Elton John
-245: (  1) - Etc - Lloyd Cole
-246: (  1) - Fairytale Of New York - The Pogues
-247: (  1) - Fragile (Deluxe Edition) - Yes
-248: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
-249: (  1) - Get It On: The Collection - T. Rex
-250: (  1) - Goodbye Yellow Brick Road - Elton John
-251: (  1) - Greatest Hits (Remastered) - Queen
-252: (  1) - Greatest Hits - The Cure
-253: (  1) - His Band And The Street Choir - Van Morrison
-254: (  1) - Holiday Pop - The Ronettes
-255: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-256: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-257: (  1) - Kimono My House - Sparks
-258: (  1) - Life's Hard And Then You Die - It'S Immaterial
-259: (  1) - Loaded - The Velvet Underground
-260: (  1) - London Boy - David Bowie
-261: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
-262: (  1) - Merry Christmas - Mariah Carey
-263: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
-264: (  1) - New Clear Days - The Vapors
-265: (  1) - New York Dolls - New York Dolls
-266: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
-267: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
-268: (  1) * Ocean Rain - Echo & the Bunnymen
-269: (  1) - Once Upon A Time (Super Deluxe) - Simple Minds
-270: (  1) - Pearl - Janis Joplin
-271: (  1) - Rio (Collector's Edition) - Duran Duran
-272: (  1) - Road Trip Sing-Along Songs - Blondie
-273: (  1) - Runt - Todd Rundgren
-274: (  1) - Scary Monsters (And Super Creeps) - David Bowie
-275: (  1) * Scott 2 - Scott Walker
-276: (  1) - Sky's The Limit - The Temptations
-277: (  1) - Sladest (Expanded) - Slade
-278: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
-279: (  1) - Stay Another Day - Jorja Smith
-280: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
-281: (  1) - Substance - Joy Division
-282: (  1) - Suspension - Blue Bendy
-283: (  1) - Suzi Quatro - Suzi Quatro
-284: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
-285: (  1) - Tapestry - Carole King
-286: (  1) - The Andy Williams Christmas Album - Andy Williams
-287: (  1) - The Best Of - Joy Division
-288: (  1) * The Collection - Altered Images
-289: (  1) - The Complete Pye Collection - Status Quo
-290: (  1) - The Hurting - Tears for Fears
-291: (  1) * The Man Who Sold The World - David Bowie
-292: (  1) - The Platinum Collection (2011 Remaster) - Queen
-293: (  1) - The Spangle Maker - Cocteau Twins
-294: (  1) - The Very Best Of Mud - Mud
-295: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
-296: (  1) - Throwback Tunes: Classic Rock - Sweet
-297: (  1) - True (Special Edition) - Spandau Ballet
-298: (  1) - Weihnachten Workout - The Ronettes
+241: (  1) * Electric Warrior - T. Rex
+242: (  1) - Electrical Storm (Remastered 2024) - U2
+243: (  1) - Elton John - Elton John
+244: (  1) - Etc - Lloyd Cole
+245: (  1) - Fairytale Of New York - The Pogues
+246: (  1) - Fragile (Deluxe Edition) - Yes
+247: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
+248: (  1) - Get It On: The Collection - T. Rex
+249: (  1) - Goodbye Yellow Brick Road - Elton John
+250: (  1) - Greatest Hits (Remastered) - Queen
+251: (  1) - Greatest Hits - The Cure
+252: (  1) - His Band And The Street Choir - Van Morrison
+253: (  1) - Holiday Pop - The Ronettes
+254: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+255: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+256: (  1) - Kimono My House - Sparks
+257: (  1) - Life's Hard And Then You Die - It'S Immaterial
+258: (  1) - Loaded - The Velvet Underground
+259: (  1) - London Boy - David Bowie
+260: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
+261: (  1) - Merry Christmas - Mariah Carey
+262: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
+263: (  1) - New Clear Days - The Vapors
+264: (  1) - New York Dolls - New York Dolls
+265: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
+266: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
+267: (  1) * Ocean Rain - Echo & the Bunnymen
+268: (  1) - Once Upon A Time (Super Deluxe) - Simple Minds
+269: (  1) - Pearl - Janis Joplin
+270: (  1) - Rio (Collector's Edition) - Duran Duran
+271: (  1) - Road Trip Sing-Along Songs - Blondie
+272: (  1) - Runt - Todd Rundgren
+273: (  1) - Scary Monsters (And Super Creeps) - David Bowie
+274: (  1) * Scott 2 - Scott Walker
+275: (  1) - Sky's The Limit - The Temptations
+276: (  1) - Sladest (Expanded) - Slade
+277: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
+278: (  1) - Stay Another Day - Jorja Smith
+279: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
+280: (  1) - Substance - Joy Division
+281: (  1) - Suspension - Blue Bendy
+282: (  1) - Suzi Quatro - Suzi Quatro
+283: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
+284: (  1) - Tapestry - Carole King
+285: (  1) - The Andy Williams Christmas Album - Andy Williams
+286: (  1) - The Best Of - Joy Division
+287: (  1) * The Collection - Altered Images
+288: (  1) - The Complete Pye Collection - Status Quo
+289: (  1) - The Hurting - Tears for Fears
+290: (  1) * The Man Who Sold The World - David Bowie
+291: (  1) - The Platinum Collection (2011 Remaster) - Queen
+292: (  1) - The Spangle Maker - Cocteau Twins
+293: (  1) - The Very Best Of Mud - Mud
+294: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
+295: (  1) - Throwback Tunes: Classic Rock - Sweet
+296: (  1) - True (Special Edition) - Spandau Ballet
+297: (  1) - Weihnachten Workout - The Ronettes
