@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6938           179           296          2116
+    7013           181           300          2144
   1: (352) - Slowdive
 
 
@@ -113,14 +113,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-
-
-
-  2: (234) - Newdad
-
+  2: (240) - Newdad
 
 
 
@@ -155,11 +148,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-  3: (195) - Laura Marling
-
+  3: (205) - Laura Marling
 
 
 
@@ -172,7 +161,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  4: (181) - The Cure
+
+
+
+  4: (189) - The Cure
+
+
+
+
+
+
+
+
 
 
 
@@ -185,15 +185,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  6: (168) - Bob Dylan
+
+
+
+  7: (164) - Margo Price
 
 
 
 
-  6: (164) - Margo Price
-
-
-
-  7: (160) - Bob Dylan
 
 
 
@@ -207,16 +207,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  9: (146) - Josh Ritter
+  9: (146) - Echo & the Bunnymen
+ 10: (146) - Josh Ritter
 
 
 
- 10: (142) - Being Dead
+ 11: (142) - Being Dead
 
 
- 11: (139) - Robert Forster
+ 12: (139) - Robert Forster
 
- 12: (137) - Echo & the Bunnymen
+
 
 
  13: (134) - U2
@@ -268,15 +269,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  30: ( 89) - Jessica Pratt
  31: ( 89) - Josef K
+ 32: ( 88) - Orange Juice
 
 
 
 
- 32: ( 84) - Orange Juice
 
 
 
  33: ( 80) - Mercury Rev
+ 34: ( 79) - Roxy Music
+ 35: ( 78) - The Sundays
 
 
 
@@ -284,12 +287,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 36: ( 70) - Alaska Reid
+ 37: ( 70) - Eilen Jewell
 
 
- 34: ( 70) - Alaska Reid
- 35: ( 70) - Eilen Jewell
- 36: ( 69) - Roxy Music
- 37: ( 68) - The Sundays
 
 
 
@@ -361,17 +362,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  81: ( 22) - Steve Mason
  82: ( 21) - Cut Worms
  83: ( 21) - Drop Nineteens
- 84: ( 21) - Rosanne Cash
- 85: ( 21) - Shelby Lynne, Allison Moorer
- 86: ( 20) - ABC
- 87: ( 20) - The National
- 88: ( 19) - Leonard Cohen
- 89: ( 19) - Love
- 90: ( 19) - New Order
- 91: ( 18) - Duke Garwood
- 92: ( 17) - Bill Nelson
- 93: ( 17) - Brix Smith
- 94: ( 17) - Emmylou Harris
+ 84: ( 21) - Emmylou Harris
+ 85: ( 21) - Rosanne Cash
+ 86: ( 21) - Shelby Lynne, Allison Moorer
+ 87: ( 20) - ABC
+ 88: ( 20) - The National
+ 89: ( 19) - Leonard Cohen
+ 90: ( 19) - Love
+ 91: ( 19) - New Order
+ 92: ( 18) - Duke Garwood
+ 93: ( 17) - Bill Nelson
+ 94: ( 17) - Brix Smith
  95: ( 16) - The Specials
 
 
@@ -402,60 +403,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 120: (  7) - The Sound
 121: (  6) - Joy Division
 122: (  5) - Folly Group
-123: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-124: (  3) - Chris Rea
-125: (  3) - Elton John
-126: (  3) - Elvis Costello & the Attractions
-127: (  3) - Haircut 100
-128: (  3) - Kacey Musgraves
-129: (  3) - Still House Plants
-130: (  3) - The Wailers
-131: (  3) - The Waterboys
-132: (  2) - Blue Bendy
-133: (  2) - Catherine Wheel
-134: (  2) - Emma Tricca
-135: (  2) - Fontaines D.c.
-136: (  2) - Queen
-137: (  2) - Scritti Politti
-138: (  2) - Slade
-139: (  2) - T. Rex
-140: (  2) - The Ronettes
-141: (  1) - Andy Williams
-142: (  1) - Badfinger
-143: (  1) - Best Christmas Songs
-144: (  1) - Cara Dillon
-145: (  1) - Carole King
-146: (  1) - Charli Xcx
-147: (  1) - Duran Duran
-148: (  1) - Eric Clapton
-149: (  1) - Eurythmics, Annie Lennox, Dave Stewart
-150: (  1) - George Harrison
-151: (  1) - It'S Immaterial
-152: (  1) - James Taylor
-153: (  1) - Janis Joplin
-154: (  1) - Joni Mitchell
-155: (  1) - Jorja Smith
-156: (  1) - Mariah Carey
-157: (  1) - Michael Bublé
-158: (  1) - Mott the Hoople
-159: (  1) - Mud
-160: (  1) - New York Dolls
-161: (  1) - Nick Lowe
-162: (  1) - Roy Budd
-163: (  1) - Soft Cell
-164: (  1) - Spandau Ballet
-165: (  1) - Sparks
-166: (  1) - Status Quo
-167: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-168: (  1) - Suzi Quatro
-169: (  1) - Sweet
-170: (  1) - Tears for Fears
-171: (  1) - The Human League
-172: (  1) - The Pogues
-173: (  1) - The Temper Trap
-174: (  1) - The Temptations
-175: (  1) - The Vapors
-176: (  1) - Todd Rundgren
-177: (  1) - Tom Tom Club
-178: (  1) - Van Morrison
-179: (  1) - Yes
+123: (  5) - Tracey Thorn
+124: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+125: (  3) - Chris Rea
+126: (  3) - Elton John
+127: (  3) - Elvis Costello & the Attractions
+128: (  3) - Haircut 100
+129: (  3) - Kacey Musgraves
+130: (  3) - Still House Plants
+131: (  3) - The Wailers
+132: (  3) - The Waterboys
+133: (  2) - Blue Bendy
+134: (  2) - Catherine Wheel
+135: (  2) - Emma Tricca
+136: (  2) - Fontaines D.c.
+137: (  2) - Queen
+138: (  2) - Scritti Politti
+139: (  2) - Slade
+140: (  2) - T. Rex
+141: (  2) - The Ronettes
+142: (  1) - Andy Williams
+143: (  1) - Badfinger
+144: (  1) - Best Christmas Songs
+145: (  1) - Cara Dillon
+146: (  1) - Carole King
+147: (  1) - Charli Xcx
+148: (  1) - Duran Duran
+149: (  1) - Eric Clapton
+150: (  1) - Eurythmics, Annie Lennox, Dave Stewart
+151: (  1) - George Harrison
+152: (  1) - It'S Immaterial
+153: (  1) - James Taylor
+154: (  1) - Janis Joplin
+155: (  1) - Joni Mitchell
+156: (  1) - Jorja Smith
+157: (  1) - Mariah Carey
+158: (  1) - Michael Bublé
+159: (  1) - Mott the Hoople
+160: (  1) - Mud
+161: (  1) - New York Dolls
+162: (  1) - Nick Lowe
+163: (  1) - Roy Budd
+164: (  1) - Soft Cell
+165: (  1) - Spandau Ballet
+166: (  1) - Sparks
+167: (  1) - Status Quo
+168: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+169: (  1) - Suzi Quatro
+170: (  1) - Sweet
+171: (  1) - Tears for Fears
+172: (  1) - The Divine Comedy
+173: (  1) - The Human League
+174: (  1) - The Pogues
+175: (  1) - The Temper Trap
+176: (  1) - The Temptations
+177: (  1) - The Vapors
+178: (  1) - Todd Rundgren
+179: (  1) - Tom Tom Club
+180: (  1) - Van Morrison
+181: (  1) - Yes
