@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    7015           181           300          2145
+    7063           185           304          2191
   1: (352) - Slowdive
 
 
@@ -210,9 +210,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   9: (146) - Echo & the Bunnymen
  10: (146) - Josh Ritter
 
+ 11: (144) - Being Dead
 
 
- 11: (142) - Being Dead
 
 
  12: (139) - Robert Forster
@@ -289,21 +289,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  36: ( 70) - Alaska Reid
  37: ( 70) - Eilen Jewell
+ 38: ( 69) - Rod Stewart
+
+
+
+
+
+ 39: ( 63) - Weekend
 
 
 
 
 
 
- 38: ( 63) - Weekend
 
 
-
-
-
-
-
- 39: ( 55) - Rod Stewart
 
  40: ( 53) - The Style Council
 
@@ -374,91 +374,94 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  93: ( 17) - Bill Nelson
  94: ( 17) - Brix Smith
  95: ( 16) - The Specials
+ 96: ( 15) - Chip Taylor & Carrie Rodriguez
 
-
- 96: ( 13) - Blondie
- 97: ( 13) - Elvis Costello
- 98: ( 13) - The Bathers
- 99: ( 12) - Clinic Stars
-100: ( 12) - Emma Swift
-101: ( 12) - Nick Heyward
-102: ( 12) - Paul Haig
-103: ( 12) - Wet Leg
-104: ( 11) - Fleetwood Mac
-105: ( 11) - Guillemots
-106: ( 11) - Laura Cantrell
-107: ( 11) - Laurel Canyon
-108: ( 11) - Television
-109: ( 11) - The Rolling Stones
-110: ( 11) - The Velvet Underground
-111: ( 10) - The Jam
-112: ( 10) - Wednesday
-113: (  9) - Brian Eno & David Byrne
-114: (  9) - Hem
-115: (  9) - The Go-Betweens
-116: (  8) - Aurora
-117: (  8) - Scott Walker
-118: (  8) - The Feelies
-119: (  7) - The Redlands Palomino Company
-120: (  7) - The Sound
-121: (  6) - Joy Division
-122: (  5) - Folly Group
-123: (  5) - Tracey Thorn
-124: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-125: (  3) - Chris Rea
-126: (  3) - Elton John
-127: (  3) - Elvis Costello & the Attractions
-128: (  3) - Haircut 100
-129: (  3) - Kacey Musgraves
-130: (  3) - Still House Plants
-131: (  3) - The Wailers
-132: (  3) - The Waterboys
-133: (  2) - Blue Bendy
-134: (  2) - Catherine Wheel
-135: (  2) - Emma Tricca
-136: (  2) - Fontaines D.c.
-137: (  2) - Queen
-138: (  2) - Scritti Politti
-139: (  2) - Slade
-140: (  2) - T. Rex
-141: (  2) - The Ronettes
-142: (  1) - Andy Williams
-143: (  1) - Badfinger
-144: (  1) - Best Christmas Songs
-145: (  1) - Cara Dillon
-146: (  1) - Carole King
-147: (  1) - Charli Xcx
-148: (  1) - Duran Duran
-149: (  1) - Eric Clapton
-150: (  1) - Eurythmics, Annie Lennox, Dave Stewart
-151: (  1) - George Harrison
-152: (  1) - It'S Immaterial
-153: (  1) - James Taylor
-154: (  1) - Janis Joplin
-155: (  1) - Joni Mitchell
-156: (  1) - Jorja Smith
-157: (  1) - Mariah Carey
-158: (  1) - Michael Bublé
-159: (  1) - Mott the Hoople
-160: (  1) - Mud
-161: (  1) - New York Dolls
-162: (  1) - Nick Lowe
-163: (  1) - Roy Budd
-164: (  1) - Soft Cell
-165: (  1) - Spandau Ballet
-166: (  1) - Sparks
-167: (  1) - Status Quo
-168: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-169: (  1) - Suzi Quatro
-170: (  1) - Sweet
-171: (  1) - Tears for Fears
-172: (  1) - The Divine Comedy
-173: (  1) - The Human League
-174: (  1) - The Pogues
-175: (  1) - The Temper Trap
-176: (  1) - The Temptations
-177: (  1) - The Vapors
-178: (  1) - Todd Rundgren
-179: (  1) - Tom Tom Club
-180: (  1) - Van Morrison
-181: (  1) - Yes
+ 97: ( 13) - Blondie
+ 98: ( 13) - Elvis Costello
+ 99: ( 13) - The Bathers
+100: ( 12) - Clinic Stars
+101: ( 12) - Emma Swift
+102: ( 12) - Everything But the Girl
+103: ( 12) - Nick Heyward
+104: ( 12) - Paul Haig
+105: ( 12) - Wet Leg
+106: ( 11) - Fleetwood Mac
+107: ( 11) - Guillemots
+108: ( 11) - Laura Cantrell
+109: ( 11) - Laurel Canyon
+110: ( 11) - Television
+111: ( 11) - The Rolling Stones
+112: ( 11) - The Velvet Underground
+113: ( 10) - The Jam
+114: ( 10) - Wednesday
+115: (  9) - Brian Eno & David Byrne
+116: (  9) - Hem
+117: (  9) - The Go-Betweens
+118: (  8) - Aurora
+119: (  8) - Scott Walker
+120: (  8) - The Feelies
+121: (  7) - The Redlands Palomino Company
+122: (  7) - The Sound
+123: (  6) - Joy Division
+124: (  5) - Folly Group
+125: (  5) - Tracey Thorn
+126: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+127: (  4) - The Waifs
+128: (  3) - Chris Rea
+129: (  3) - Elton John
+130: (  3) - Elvis Costello & the Attractions
+131: (  3) - Haircut 100
+132: (  3) - Kacey Musgraves
+133: (  3) - Still House Plants
+134: (  3) - The Wailers
+135: (  3) - The Waterboys
+136: (  2) - Blue Bendy
+137: (  2) - Catherine Wheel
+138: (  2) - Emma Tricca
+139: (  2) - Fontaines D.c.
+140: (  2) - Queen
+141: (  2) - Scritti Politti
+142: (  2) - Slade
+143: (  2) - T. Rex
+144: (  2) - The Ronettes
+145: (  1) - Andy Williams
+146: (  1) - Badfinger
+147: (  1) - Best Christmas Songs
+148: (  1) - Cara Dillon
+149: (  1) - Carole King
+150: (  1) - Charli Xcx
+151: (  1) - Duran Duran
+152: (  1) - Eric Clapton
+153: (  1) - Eurythmics, Annie Lennox, Dave Stewart
+154: (  1) - George Harrison
+155: (  1) - It'S Immaterial
+156: (  1) - James Taylor
+157: (  1) - Janis Joplin
+158: (  1) - Joni Mitchell
+159: (  1) - Jorja Smith
+160: (  1) - Mariah Carey
+161: (  1) - Michael Bublé
+162: (  1) - Mott the Hoople
+163: (  1) - Mud
+164: (  1) - New York Dolls
+165: (  1) - Nick Lowe
+166: (  1) - Rod Stewart, Ronnie Wood
+167: (  1) - Roy Budd
+168: (  1) - Soft Cell
+169: (  1) - Spandau Ballet
+170: (  1) - Sparks
+171: (  1) - Status Quo
+172: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+173: (  1) - Suzi Quatro
+174: (  1) - Sweet
+175: (  1) - Tears for Fears
+176: (  1) - The Divine Comedy
+177: (  1) - The Human League
+178: (  1) - The Pogues
+179: (  1) - The Temper Trap
+180: (  1) - The Temptations
+181: (  1) - The Vapors
+182: (  1) - Todd Rundgren
+183: (  1) - Tom Tom Club
+184: (  1) - Van Morrison
+185: (  1) - Yes
