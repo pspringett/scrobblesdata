@@ -1,6 +1,6 @@
 Specified year (2025), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     367            28            29           224
+     370            29            30           225
  1: (54) - Gardens
 
 
@@ -8,9 +8,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (47) - Delays
+ 3: (46) - Being Dead
 
- 2: (46) - Being Dead
- 3: (45) - Delays
 
 
 
@@ -64,5 +64,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 25: ( 2) - The Linda Lindas
 26: ( 2) - The Rolling Stones
-27: ( 1) - Rod Stewart, Ronnie Wood
-28: ( 1) - The Divine Comedy
+27: ( 1) - Mercury Rev
+28: ( 1) - Rod Stewart, Ronnie Wood
+29: ( 1) - The Divine Comedy
