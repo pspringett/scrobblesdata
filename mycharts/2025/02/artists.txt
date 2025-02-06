@@ -1,6 +1,6 @@
 Specified year (2025), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      43             6             6            38
+      50             8            11            45
 1: (13) - British Birds
 
 2: (11) - Lauren Mayberry
@@ -10,7 +10,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 4: ( 6) - St. Vincent
 
+5: ( 4) - The Band
+6: ( 3) - Bob Dylan and the Band
+7: ( 3) - Martin Stephenson and the Daintees
 
-5: ( 3) - Martin Stephenson and the Daintees
-
-6: ( 1) - Bryan Ferry
+8: ( 1) - Bryan Ferry
