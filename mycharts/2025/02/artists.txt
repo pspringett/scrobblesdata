@@ -1,7 +1,11 @@
 Specified year (2025), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      59             9            11            47
-1: (14) - Josh Ritter
+      59             8            11            47
+1: (18) - Josh Ritter
+
+
+
+
 2: (13) - British Birds
 
 3: (11) - Lauren Mayberry
@@ -11,9 +15,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 4: ( 6) - St. Vincent
 
-5: ( 4) - Josh Ritter, Bill Frisell
-6: ( 4) - The Band
-7: ( 3) - Bob Dylan and the Band
-8: ( 3) - Martin Stephenson and the Daintees
+5: ( 4) - The Band
+6: ( 3) - Bob Dylan and the Band
+7: ( 3) - Martin Stephenson and the Daintees
 
-9: ( 1) - Bryan Ferry
+8: ( 1) - Bryan Ferry
