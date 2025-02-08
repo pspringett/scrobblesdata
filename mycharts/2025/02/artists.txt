@@ -1,6 +1,6 @@
 Specified year (2025), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      88            11            14            72
+      92            11            14            76
  1: (18) - Josh Ritter
 
 
@@ -11,10 +11,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  4: (11) - Lauren Mayberry
 
  5: ( 9) - English Teacher
+ 6: ( 9) - Sharon Van Etten
 
 
- 6: ( 6) - St. Vincent
- 7: ( 5) - Sharon Van Etten
+ 7: ( 6) - St. Vincent
+
  8: ( 4) - The Band
  9: ( 3) - Bob Dylan and the Band
 10: ( 3) - Martin Stephenson and the Daintees
