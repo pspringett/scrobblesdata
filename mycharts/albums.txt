@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   71801          1251          1893         12760
+   71810          1251          1893         12760
    1: (324) - Cafe Bleu - The Style Council
    2: (305) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -17,7 +17,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   14: (219) - The Joshua Tree - U2
   15: (214) * The Unforgettable Fire - U2
   16: (211) * Harlem River Blues - Justin Townes Earle
-  17: (208) - You Can't Hide Your Love Forever - Orange Juice
+  17: (211) - You Can't Hide Your Love Forever - Orange Juice
   18: (203) - Burnin' - The Wailers
   19: (203) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
   20: (201) - Case/Lang/Veirs - case/lang/veirs
@@ -165,12 +165,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  162: (115) - Dazzle Ships - Orchestral Manoeuvres in the Dark
  163: (115) - Lionheart - Kate Bush
  164: (115) - Natty Dread (Remastered) - Bob Marley & the Wailers
- 165: (114) * Caledonia - JT and the Clouds
- 166: (114) * Electric Warrior - T. Rex
- 167: (114) - I Don't Know - Bdrmm
- 168: (114) - Pet Sounds - 40Th Anniversary - The Beach Boys
- 169: (114) - Tempest - Bob Dylan
- 170: (114) * The Orange Juice - Orange Juice
+ 165: (115) * The Orange Juice - Orange Juice
+ 166: (114) * Caledonia - JT and the Clouds
+ 167: (114) * Electric Warrior - T. Rex
+ 168: (114) - I Don't Know - Bdrmm
+ 169: (114) - Pet Sounds - 40Th Anniversary - The Beach Boys
+ 170: (114) - Tempest - Bob Dylan
  171: (114) - Women in Music Pt. III - Haim
  172: (113) - Disintegration - The Cure
  173: (113) * Knife - Aztec Camera
@@ -188,12 +188,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  185: (110) - Songs Of A Lost World - The Cure
  186: (109) - 16 Lovers Lane - The Go-Betweens
  187: (109) - La Variete - Weekend
- 188: (108) - Beyond The Pale - Jarv Is...
- 189: (108) - I'm Your Fan: The Songs Of Leonard Cohen - Various
- 190: (108) * I'm Your Man - Leonard Cohen
- 191: (108) * Love Story - Lloyd Cole
- 192: (108) - Speaking In Tongues - Talking Heads
- 193: (108) * Texas Fever - Orange Juice
+ 188: (109) * Texas Fever - Orange Juice
+ 189: (108) - Beyond The Pale - Jarv Is...
+ 190: (108) - I'm Your Fan: The Songs Of Leonard Cohen - Various
+ 191: (108) * I'm Your Man - Leonard Cohen
+ 192: (108) * Love Story - Lloyd Cole
+ 193: (108) - Speaking In Tongues - Talking Heads
  194: (107) * Don't Get Weird On Me Babe - Lloyd Cole
  195: (107) * High Land, Hard Rain - Aztec Camera
  196: (107) - Present Arms - UB40
@@ -489,58 +489,58 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  486: ( 65) - Ignorance - The Weather Station
  487: ( 65) - Modern Blues - The Waterboys
  488: ( 65) - Raise The Roof (Deluxe Edition) - Robert Plant
- 489: ( 65) * Soul Journey - Gillian Welch
- 490: ( 65) - The Doors - The Doors
- 491: ( 65) - The Esteemed Orange Juice - Orange Juice
- 492: ( 65) - Under A Blood Red Sky - U2
- 493: ( 65) - Welcome To The Blackout (Live London '78) - David Bowie
- 494: ( 65) - Western Skies - Roddy Frame
- 495: ( 64) - Bolivia - Martin Stephenson
- 496: ( 64) - Cardiffians - Devine & Statton
- 497: ( 64) * Children Running Through - Patty Griffin
- 498: ( 64) - Church & The... - Martin Stephenson
- 499: ( 64) - Demos 88-94 (In New York - Collected Recordings 1988-1996) - Lloyd Cole
- 500: ( 64) - Emotions And Math - Margaret Glaspy
- 501: ( 64) - Equally Cursed And Blessed - Catatonia
- 502: ( 64) - Every Picture Tells A Story - Rod Stewart
- 503: ( 64) - Get Ready - New Order
- 504: ( 64) * Little Rock - Hayes Carll
- 505: ( 64) - My Aim Is True - Elvis Costello
- 506: ( 64) - Nothing But The Silence - Striking Matches
- 507: ( 64) * Queen Of The Minor Key - Eilen Jewell
- 508: ( 64) - Real Midnight - Birds of Chicago
- 509: ( 64) * Rockers - Original Soundtrack - Various
- 510: ( 64) * The Greatest Ones Alive - Sarah MacDougall
- 511: ( 64) - Trust - Elvis Costello
- 512: ( 64) - UNCUT 2016-11 Sterotypes - Various
- 513: ( 63) - A Kind Revolution (Deluxe) - Paul Weller
- 514: ( 63) - American Dream - Lcd Soundsystem
- 515: ( 63) - Impossible Dream - Haley Bonar
- 516: ( 63) - Isn’T Anything - My Bloody Valentine
- 517: ( 63) * Live In Louisville - Carrie Rodriguez
- 518: ( 63) - Loyalty - The Weather Station
- 519: ( 63) - Natalie Prass - Natalie Prass
- 520: ( 63) - The Undertones - The Undertones
- 521: ( 63) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
- 522: ( 62) - Bobby Fuller Died For Your Sins - Chuck Prophet
- 523: ( 62) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
- 524: ( 62) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
- 525: ( 62) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
- 526: ( 62) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
- 527: ( 62) * Raising Sand - Robert Plant & Alison Krauss
- 528: ( 62) * Slow Train Coming - Bob Dylan
- 529: ( 62) - Songs Of Surrender - U2
- 530: ( 62) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
- 531: ( 62) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
- 532: ( 62) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
- 533: ( 61) - Diamond Dogs - David Bowie
- 534: ( 61) * From Langley Park To Memphis - Prefab Sprout
- 535: ( 61) - Jupiter Calling - The Corrs
- 536: ( 61) - Lullabies - Cocteau Twins
- 537: ( 61) - Maverick Years 80-81 - The Mighty Wah!
- 538: ( 61) * Movement [Collector's Edition] - New Order
- 539: ( 61) * Remain In Light - Talking Heads
- 540: ( 61) - Rip It Up - Orange Juice
+ 489: ( 65) - Rip It Up - Orange Juice
+ 490: ( 65) * Soul Journey - Gillian Welch
+ 491: ( 65) - The Doors - The Doors
+ 492: ( 65) - The Esteemed Orange Juice - Orange Juice
+ 493: ( 65) - Under A Blood Red Sky - U2
+ 494: ( 65) - Welcome To The Blackout (Live London '78) - David Bowie
+ 495: ( 65) - Western Skies - Roddy Frame
+ 496: ( 64) - Bolivia - Martin Stephenson
+ 497: ( 64) - Cardiffians - Devine & Statton
+ 498: ( 64) * Children Running Through - Patty Griffin
+ 499: ( 64) - Church & The... - Martin Stephenson
+ 500: ( 64) - Demos 88-94 (In New York - Collected Recordings 1988-1996) - Lloyd Cole
+ 501: ( 64) - Emotions And Math - Margaret Glaspy
+ 502: ( 64) - Equally Cursed And Blessed - Catatonia
+ 503: ( 64) - Every Picture Tells A Story - Rod Stewart
+ 504: ( 64) - Get Ready - New Order
+ 505: ( 64) * Little Rock - Hayes Carll
+ 506: ( 64) - My Aim Is True - Elvis Costello
+ 507: ( 64) - Nothing But The Silence - Striking Matches
+ 508: ( 64) * Queen Of The Minor Key - Eilen Jewell
+ 509: ( 64) - Real Midnight - Birds of Chicago
+ 510: ( 64) * Rockers - Original Soundtrack - Various
+ 511: ( 64) * The Greatest Ones Alive - Sarah MacDougall
+ 512: ( 64) - Trust - Elvis Costello
+ 513: ( 64) - UNCUT 2016-11 Sterotypes - Various
+ 514: ( 63) - A Kind Revolution (Deluxe) - Paul Weller
+ 515: ( 63) - American Dream - Lcd Soundsystem
+ 516: ( 63) - Impossible Dream - Haley Bonar
+ 517: ( 63) - Isn’T Anything - My Bloody Valentine
+ 518: ( 63) * Live In Louisville - Carrie Rodriguez
+ 519: ( 63) - Loyalty - The Weather Station
+ 520: ( 63) - Natalie Prass - Natalie Prass
+ 521: ( 63) - The Undertones - The Undertones
+ 522: ( 63) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+ 523: ( 62) - Bobby Fuller Died For Your Sins - Chuck Prophet
+ 524: ( 62) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
+ 525: ( 62) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
+ 526: ( 62) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
+ 527: ( 62) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
+ 528: ( 62) * Raising Sand - Robert Plant & Alison Krauss
+ 529: ( 62) * Slow Train Coming - Bob Dylan
+ 530: ( 62) - Songs Of Surrender - U2
+ 531: ( 62) - The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12 - Bob Dylan
+ 532: ( 62) - What Are You Going To Do With Your Life? - Echo & the Bunnymen
+ 533: ( 62) * Willie And The Wheel - Willie Nelson & Asleep At the Wheel
+ 534: ( 61) - Diamond Dogs - David Bowie
+ 535: ( 61) * From Langley Park To Memphis - Prefab Sprout
+ 536: ( 61) - Jupiter Calling - The Corrs
+ 537: ( 61) - Lullabies - Cocteau Twins
+ 538: ( 61) - Maverick Years 80-81 - The Mighty Wah!
+ 539: ( 61) * Movement [Collector's Edition] - New Order
+ 540: ( 61) * Remain In Light - Talking Heads
  541: ( 61) * Seven Angels On A Bicycle - Carrie Rodriguez
  542: ( 61) - Song To A Seagull - Joni Mitchell
  543: ( 61) * Tales Of Light And Darkness - Angie Palmer

@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    7307           196           320          2271
+    7316           196           321          2276
   1: (142) - This Could Be Texas - English Teacher
 
 
@@ -89,9 +89,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  37: ( 63) - Isn’T Anything - My Bloody Valentine
  38: ( 62) - Songs Of Surrender - U2
+ 39: ( 62) - You Can't Hide Your Love Forever - Orange Juice
 
 
- 39: ( 59) - You Can't Hide Your Love Forever - Orange Juice
+
 
 
 
@@ -215,17 +216,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 150: ( 12) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
 151: ( 12) - Love Story Demos - Lloyd Cole
 152: ( 12) - Only Hinting - Clinic Stars
-153: ( 12) - Wet Leg - Wet Leg
-154: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
-155: ( 11) * Black Cadillac - Rosanne Cash
-156: ( 11) - Guesswork - Lloyd Cole
-157: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
-158: ( 11) - Laurel Canyon - Laurel Canyon
-159: ( 11) - Marquee Moon - Television
-160: ( 11) - Rumours - Fleetwood Mac
-161: ( 11) - Singles 1965-1967 - The Rolling Stones
-162: ( 11) - Swing In 82 - Paul Haig
-163: ( 11) * Texas Fever - Orange Juice
+153: ( 12) * Texas Fever - Orange Juice
+154: ( 12) - Wet Leg - Wet Leg
+155: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+156: ( 11) * Black Cadillac - Rosanne Cash
+157: ( 11) - Guesswork - Lloyd Cole
+158: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+159: ( 11) - Laurel Canyon - Laurel Canyon
+160: ( 11) - Marquee Moon - Television
+161: ( 11) - Rumours - Fleetwood Mac
+162: ( 11) - Singles 1965-1967 - The Rolling Stones
+163: ( 11) - Swing In 82 - Paul Haig
 164: ( 11) - Through The Windowpane - Guillemots
 165: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
 166: ( 10) - Life In A Day - Simple Minds
@@ -271,119 +272,120 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 206: (  5) - Live In The City Of Angels (Deluxe) - Simple Minds
 207: (  5) - Lloyd Cole Live Union Chapel 2023 - Lloyd Cole
 208: (  5) - Slates (Live) - The Fall
-209: (  4) - Abraxas - Santana
-210: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-211: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
-212: (  4) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
-213: (  4) - The Band - The Band
-214: (  4) * The Orange Juice - Orange Juice
-215: (  4) - Totale's Turns (It's Now Or Never) - The Fall
-216: (  4) - Up All Night - The Waifs
-217: (  3) - An Appointment With Mr Yeats - The Waterboys
-218: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-219: (  3) - Dancing With Strangers (Deluxe Edition) [2019 Remaster] - Chris Rea
-220: (  3) - Deeper Well - Kacey Musgraves
-221: (  3) - Everything's Gone Green (2019 Remaster) - New Order
-222: (  3) - If I Don't Make It, I Love U - Still House Plants
-223: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
-224: (  3) - Once I Was An Eagle - Laura Marling
-225: (  3) - Pelican West Plus - Haircut 100
-226: (  3) * Songs From A Room - Leonard Cohen
-227: (  3) - The '81 Demos - Weekend
-228: (  3) - The Basement Tapes - Bob Dylan and the Band
-229: (  3) - Treasure - Cocteau Twins
-230: (  3) - Upstairs at Erics - Yazoo
-231: (  2) - Aspirin Sun - Emma Tricca
-232: (  2) - Early - Scritti Politti
-233: (  2) - Ferment - Catherine Wheel
-234: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-235: (  2) - Music From Big Pink - The Band
-236: (  2) - Romance - Fontaines D.c.
-237: (  2) * Songs Of Leonard Cohen - Leonard Cohen
-238: (  2) - Sweet Misdemeanour - Martin Stephenson
-239: (  2) - To Our Children's Children's Children - The Moody Blues
-240: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-241: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-242: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
-243: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
-244: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-245: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-246: (  1) - Blue - Joni Mitchell
-247: (  1) - Brat - Charli Xcx
-248: (  1) - Brotherhood - New Order
-249: (  1) - Burnin' - The Wailers
-250: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-251: (  1) - Cahoots - The Band
-252: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
-253: (  1) - Caribou (Remastered 1995) - Elton John
-254: (  1) - Cat People - David Bowie
-255: (  1) - Christmas Jams - Michael Bublé
-256: (  1) - Closing Sound - Blue Bendy
-257: (  1) - Coming Home - Cara Dillon
-258: (  1) - Conditions - The Temper Trap
-259: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
-260: (  1) - Dare! - The Human League
-261: (  1) - Dragnet - The Fall
-262: (  1) * Electric Warrior - T. Rex
-263: (  1) - Electrical Storm (Remastered 2024) - U2
-264: (  1) - Elton John - Elton John
-265: (  1) - Etc - Lloyd Cole
-266: (  1) - Fairytale Of New York - The Pogues
-267: (  1) - Fragile (Deluxe Edition) - Yes
-268: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
-269: (  1) - Get It On: The Collection - T. Rex
-270: (  1) - Goodbye Yellow Brick Road - Elton John
-271: (  1) - Greatest Hits (Remastered) - Queen
-272: (  1) - Greatest Hits - The Cure
-273: (  1) - His Band And The Street Choir - Van Morrison
-274: (  1) - Holiday Pop - The Ronettes
-275: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-276: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-277: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-278: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-279: (  1) - Kimono My House - Sparks
-280: (  1) - Life's Hard And Then You Die - It'S Immaterial
-281: (  1) - Loaded - The Velvet Underground
-282: (  1) - London Boy - David Bowie
-283: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
-284: (  1) - Merry Christmas - Mariah Carey
-285: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
-286: (  1) - New Clear Days - The Vapors
-287: (  1) - New York Dolls - New York Dolls
-288: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
-289: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
-290: (  1) - Northern Lights – Southern Cross - The Band
-291: (  1) * Ocean Rain - Echo & the Bunnymen
-292: (  1) - Once Upon A Time (Super Deluxe) - Simple Minds
-293: (  1) - Pearl - Janis Joplin
-294: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-295: (  1) - Rio (Collector's Edition) - Duran Duran
-296: (  1) - Road Trip Sing-Along Songs - Blondie
-297: (  1) - Runt - Todd Rundgren
-298: (  1) - Scary Monsters (And Super Creeps) - David Bowie
-299: (  1) * Scott 2 - Scott Walker
-300: (  1) - Sky's The Limit - The Temptations
-301: (  1) - Sladest (Expanded) - Slade
-302: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
-303: (  1) - Stay Another Day - Jorja Smith
-304: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
-305: (  1) - Substance - Joy Division
-306: (  1) - Suspension - Blue Bendy
-307: (  1) - Suzi Quatro - Suzi Quatro
-308: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
-309: (  1) - Tapestry - Carole King
-310: (  1) - The Andy Williams Christmas Album - Andy Williams
-311: (  1) - The Best Of - Joy Division
-312: (  1) * The Collection - Altered Images
-313: (  1) - The Complete Pye Collection - Status Quo
-314: (  1) - The Hurting - Tears for Fears
-315: (  1) * The Man Who Sold The World - David Bowie
-316: (  1) - The Platinum Collection (2011 Remaster) - Queen
-317: (  1) - The Spangle Maker - Cocteau Twins
-318: (  1) - The Very Best Of Mud - Mud
-319: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
-320: (  1) - This Is The Moody Blues - The Moody Blues
-321: (  1) - Throwback Tunes: Classic Rock - Sweet
-322: (  1) - True (Special Edition) - Spandau Ballet
-323: (  1) - Unplugged....And Seated - Rod Stewart, Ronnie Wood
-324: (  1) - Weihnachten Workout - The Ronettes
+209: (  5) * The Orange Juice - Orange Juice
+210: (  4) - Abraxas - Santana
+211: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+212: (  4) * New Gold Dream (81-82-83-84) - Simple Minds
+213: (  4) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
+214: (  4) - Rip It Up - Orange Juice
+215: (  4) - The Band - The Band
+216: (  4) - Totale's Turns (It's Now Or Never) - The Fall
+217: (  4) - Up All Night - The Waifs
+218: (  3) - An Appointment With Mr Yeats - The Waterboys
+219: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+220: (  3) - Dancing With Strangers (Deluxe Edition) [2019 Remaster] - Chris Rea
+221: (  3) - Deeper Well - Kacey Musgraves
+222: (  3) - Everything's Gone Green (2019 Remaster) - New Order
+223: (  3) - If I Don't Make It, I Love U - Still House Plants
+224: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
+225: (  3) - Once I Was An Eagle - Laura Marling
+226: (  3) - Pelican West Plus - Haircut 100
+227: (  3) * Songs From A Room - Leonard Cohen
+228: (  3) - The '81 Demos - Weekend
+229: (  3) - The Basement Tapes - Bob Dylan and the Band
+230: (  3) - Treasure - Cocteau Twins
+231: (  3) - Upstairs at Erics - Yazoo
+232: (  2) - Aspirin Sun - Emma Tricca
+233: (  2) - Early - Scritti Politti
+234: (  2) - Ferment - Catherine Wheel
+235: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
+236: (  2) - Music From Big Pink - The Band
+237: (  2) - Romance - Fontaines D.c.
+238: (  2) * Songs Of Leonard Cohen - Leonard Cohen
+239: (  2) - Sweet Misdemeanour - Martin Stephenson
+240: (  2) - To Our Children's Children's Children - The Moody Blues
+241: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+242: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+243: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+244: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
+245: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+246: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+247: (  1) - Blue - Joni Mitchell
+248: (  1) - Brat - Charli Xcx
+249: (  1) - Brotherhood - New Order
+250: (  1) - Burnin' - The Wailers
+251: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+252: (  1) - Cahoots - The Band
+253: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
+254: (  1) - Caribou (Remastered 1995) - Elton John
+255: (  1) - Cat People - David Bowie
+256: (  1) - Christmas Jams - Michael Bublé
+257: (  1) - Closing Sound - Blue Bendy
+258: (  1) - Coming Home - Cara Dillon
+259: (  1) - Conditions - The Temper Trap
+260: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+261: (  1) - Dare! - The Human League
+262: (  1) - Dragnet - The Fall
+263: (  1) * Electric Warrior - T. Rex
+264: (  1) - Electrical Storm (Remastered 2024) - U2
+265: (  1) - Elton John - Elton John
+266: (  1) - Etc - Lloyd Cole
+267: (  1) - Fairytale Of New York - The Pogues
+268: (  1) - Fragile (Deluxe Edition) - Yes
+269: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
+270: (  1) - Get It On: The Collection - T. Rex
+271: (  1) - Goodbye Yellow Brick Road - Elton John
+272: (  1) - Greatest Hits (Remastered) - Queen
+273: (  1) - Greatest Hits - The Cure
+274: (  1) - His Band And The Street Choir - Van Morrison
+275: (  1) - Holiday Pop - The Ronettes
+276: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+277: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+278: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+279: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+280: (  1) - Kimono My House - Sparks
+281: (  1) - Life's Hard And Then You Die - It'S Immaterial
+282: (  1) - Loaded - The Velvet Underground
+283: (  1) - London Boy - David Bowie
+284: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
+285: (  1) - Merry Christmas - Mariah Carey
+286: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
+287: (  1) - New Clear Days - The Vapors
+288: (  1) - New York Dolls - New York Dolls
+289: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
+290: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
+291: (  1) - Northern Lights – Southern Cross - The Band
+292: (  1) * Ocean Rain - Echo & the Bunnymen
+293: (  1) - Once Upon A Time (Super Deluxe) - Simple Minds
+294: (  1) - Pearl - Janis Joplin
+295: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+296: (  1) - Rio (Collector's Edition) - Duran Duran
+297: (  1) - Road Trip Sing-Along Songs - Blondie
+298: (  1) - Runt - Todd Rundgren
+299: (  1) - Scary Monsters (And Super Creeps) - David Bowie
+300: (  1) * Scott 2 - Scott Walker
+301: (  1) - Sky's The Limit - The Temptations
+302: (  1) - Sladest (Expanded) - Slade
+303: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
+304: (  1) - Stay Another Day - Jorja Smith
+305: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
+306: (  1) - Substance - Joy Division
+307: (  1) - Suspension - Blue Bendy
+308: (  1) - Suzi Quatro - Suzi Quatro
+309: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
+310: (  1) - Tapestry - Carole King
+311: (  1) - The Andy Williams Christmas Album - Andy Williams
+312: (  1) - The Best Of - Joy Division
+313: (  1) * The Collection - Altered Images
+314: (  1) - The Complete Pye Collection - Status Quo
+315: (  1) - The Hurting - Tears for Fears
+316: (  1) * The Man Who Sold The World - David Bowie
+317: (  1) - The Platinum Collection (2011 Remaster) - Queen
+318: (  1) - The Spangle Maker - Cocteau Twins
+319: (  1) - The Very Best Of Mud - Mud
+320: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
+321: (  1) - This Is The Moody Blues - The Moody Blues
+322: (  1) - Throwback Tunes: Classic Rock - Sweet
+323: (  1) - True (Special Edition) - Spandau Ballet
+324: (  1) - Unplugged....And Seated - Rod Stewart, Ronnie Wood
+325: (  1) - Weihnachten Workout - The Ronettes
