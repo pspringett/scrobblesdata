@@ -1,6 +1,6 @@
 Specified year (2025), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     379            31            33           234
+     379            30            33           234
  1: (54) - Gardens
 
 
@@ -41,7 +41,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  5: (15) - Chip Taylor & Carrie Rodriguez
- 6: (14) - Rod Stewart
+ 6: (15) - Rod Stewart
+
 
  7: (12) - Emma Swift
  8: (12) - Everything But the Girl
@@ -66,5 +67,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 27: ( 3) - The Moody Blues
 28: ( 2) - The Linda Lindas
 29: ( 2) - The Rolling Stones
-30: ( 1) - Rod Stewart, Ronnie Wood
-31: ( 1) - The Divine Comedy
+30: ( 1) - The Divine Comedy
