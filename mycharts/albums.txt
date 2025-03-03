@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   71927          1250          1893         12760
+   71941          1250          1893         12760
    1: (324) - Cafe Bleu - The Style Council
    2: (305) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -117,12 +117,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  114: (131) - Low - David Bowie
  115: (130) - Down To Believing - Allison Moorer
  116: (130) - For Your Pleasure - Roxy Music
- 117: (129) - All Born Screaming - St. Vincent
- 118: (129) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
- 119: (129) * Rattlesnakes - Lloyd Cole and the Commotions
- 120: (129) - UNCUT 2016-03 The Stars Are Out Tonight - Various
- 121: (128) * Black Cadillac - Rosanne Cash
- 122: (128) - Garbage Island - The Burning Hell
+ 117: (130) - Garbage Island - The Burning Hell
+ 118: (129) - All Born Screaming - St. Vincent
+ 119: (129) * Dazzle Ships Live At The Museum Of Liverpool - Orchestral Manoeuvres in the Dark
+ 120: (129) * Rattlesnakes - Lloyd Cole and the Commotions
+ 121: (129) - UNCUT 2016-03 The Stars Are Out Tonight - Various
+ 122: (128) * Black Cadillac - Rosanne Cash
  123: (128) - National Ransom - Elvis Costello
  124: (128) * Seventeen Seconds - The Cure
  125: (127) * Broken Record - Lloyd Cole
@@ -176,24 +176,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  173: (113) * Knife - Aztec Camera
  174: (113) - Love What You Do - Hackensaw Boys
  175: (113) - The Glasgow School - Orange Juice
- 176: (112) * Tallulah - The Go-Betweens
- 177: (111) * Crazy Heart Soundtrack - Various
- 178: (111) - EELS Volume 1 - Being Dead
- 179: (111) - Hello Cruel World - Gretchen Peters
- 180: (111) - Low-Life - New Order
- 181: (111) * Pinky Blue - Altered Images
- 182: (110) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 183: (110) - Let's Dance - David Bowie
- 184: (110) - Live At The Royal Albert Hall - Echo & the Bunnymen
- 185: (110) - Songs Of A Lost World - The Cure
- 186: (110) * Texas Fever - Orange Juice
- 187: (109) - 16 Lovers Lane - The Go-Betweens
- 188: (109) - La Variete - Weekend
- 189: (108) - Beyond The Pale - Jarv Is...
- 190: (108) - I'm Your Fan: The Songs Of Leonard Cohen - Various
- 191: (108) * I'm Your Man - Leonard Cohen
- 192: (108) * Love Story - Lloyd Cole
- 193: (108) - Patterns In Repeat - Laura Marling
+ 176: (112) - Patterns In Repeat - Laura Marling
+ 177: (112) * Tallulah - The Go-Betweens
+ 178: (111) * Crazy Heart Soundtrack - Various
+ 179: (111) - EELS Volume 1 - Being Dead
+ 180: (111) - Hello Cruel World - Gretchen Peters
+ 181: (111) - Low-Life - New Order
+ 182: (111) * Pinky Blue - Altered Images
+ 183: (110) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 184: (110) - Let's Dance - David Bowie
+ 185: (110) - Live At The Royal Albert Hall - Echo & the Bunnymen
+ 186: (110) - Songs Of A Lost World - The Cure
+ 187: (110) * Texas Fever - Orange Juice
+ 188: (109) - 16 Lovers Lane - The Go-Betweens
+ 189: (109) - La Variete - Weekend
+ 190: (108) - Beyond The Pale - Jarv Is...
+ 191: (108) - I'm Your Fan: The Songs Of Leonard Cohen - Various
+ 192: (108) * I'm Your Man - Leonard Cohen
+ 193: (108) * Love Story - Lloyd Cole
  194: (108) - Speaking In Tongues - Talking Heads
  195: (107) * Don't Get Weird On Me Babe - Lloyd Cole
  196: (107) * High Land, Hard Rain - Aztec Camera
@@ -673,34 +673,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  670: ( 48) - Shore - Fleet Foxes
  671: ( 48) - The Count - Count Basie
  672: ( 48) - Tracyanne & Danny - Tracyanne & Danny
- 673: ( 47) - Carrying Lightning - Amanda Shires
- 674: ( 47) - Faded Seaside Glamour - Delays
- 675: ( 47) * Kmag Yoyo (& Other American Stories) - Hayes Carll
- 676: ( 47) - Sgt. Pepper's Lonely Hearts Club Band - The Beatles
- 677: ( 47) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
- 678: ( 47) - UNCUT 2017-05 - Dreams - Various
- 679: ( 47) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
- 680: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
- 681: ( 46) - The Last Broadcast - Doves
- 682: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
- 683: ( 45) - EELS Volume 2 - Being Dead
- 684: ( 44) - Heaven, Or Someplace As Nice - Josh Ritter
- 685: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
- 686: ( 44) - Somersault - Beach Fossils
- 687: ( 44) - Triple Seven - Wishy
- 688: ( 44) - Vicious Creature - Lauren Mayberry
- 689: ( 43) - Fat Pop - Paul Weller
- 690: ( 43) - Reconnected - Yazoo
- 691: ( 42) - It Won't Always Be Like This - Inhaler
- 692: ( 42) - Name Your Sorrow - Pillow Queens
- 693: ( 42) - Weathervanes - Jason Isbell and the 400 Unit
- 694: ( 42) - X's - Cigarettes After Sex
- 695: ( 41) - Being Brave - Amanda Shires
- 696: ( 41) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
- 697: ( 40) - Let It Bleed - The Rolling Stones
- 698: ( 40) - Skeletal Framework: The Cherry Red Recordings 1981-1986 - Eyeless in Gaza
- 699: ( 39) - ...Here's Tom With The Weather - Shack
- 700: ( 39) - Aswad - Aswad
+ 673: ( 47) - Aswad - Aswad
+ 674: ( 47) - Carrying Lightning - Amanda Shires
+ 675: ( 47) - Faded Seaside Glamour - Delays
+ 676: ( 47) * Kmag Yoyo (& Other American Stories) - Hayes Carll
+ 677: ( 47) - Sgt. Pepper's Lonely Hearts Club Band - The Beatles
+ 678: ( 47) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+ 679: ( 47) - UNCUT 2017-05 - Dreams - Various
+ 680: ( 47) - Who By Fire - Live Tribute To Leonard Cohen - First Aid Kit
+ 681: ( 46) - Good As I Been To You (Remastered) - Bob Dylan
+ 682: ( 46) - The Last Broadcast - Doves
+ 683: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
+ 684: ( 45) - EELS Volume 2 - Being Dead
+ 685: ( 44) - Heaven, Or Someplace As Nice - Josh Ritter
+ 686: ( 44) - Live From The Ruhr Triennale October 2005 - Chip Taylor & Carrie Rodriguez
+ 687: ( 44) - Somersault - Beach Fossils
+ 688: ( 44) - Triple Seven - Wishy
+ 689: ( 44) - Vicious Creature - Lauren Mayberry
+ 690: ( 43) - Fat Pop - Paul Weller
+ 691: ( 43) - Reconnected - Yazoo
+ 692: ( 42) - It Won't Always Be Like This - Inhaler
+ 693: ( 42) - Name Your Sorrow - Pillow Queens
+ 694: ( 42) - Weathervanes - Jason Isbell and the 400 Unit
+ 695: ( 42) - X's - Cigarettes After Sex
+ 696: ( 41) - Being Brave - Amanda Shires
+ 697: ( 41) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
+ 698: ( 40) - Let It Bleed - The Rolling Stones
+ 699: ( 40) - Skeletal Framework: The Cherry Red Recordings 1981-1986 - Eyeless in Gaza
+ 700: ( 39) - ...Here's Tom With The Weather - Shack
  701: ( 39) - Born To Run - Bruce Springsteen
  702: ( 39) - Our Favourite Shop - The Style Council
  703: ( 39) - Strays Ii - Margo Price
