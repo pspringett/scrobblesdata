@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     726            46            55           387
+     736            47            55           390
  1: (73) - Gardens
 
 
@@ -61,16 +61,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 12: (16) - Chip Taylor & Carrie Rodriguez
-13: (15) - Rod Stewart
+13: (16) - UB40
+14: (15) - Rod Stewart
+15: (15) - St. Vincent
 
-14: (13) - Everything But the Girl
-15: (12) - Emma Swift
-16: (12) - The Burning Hell
-17: (12) - UB40
-18: (11) - Guillemots
-19: (11) - Lloyd Cole
-20: (10) - Roxy Music
-21: (10) - St. Vincent
+16: (13) - Everything But the Girl
+17: (12) - Emma Swift
+18: (12) - The Burning Hell
+19: (11) - Guillemots
+20: (11) - Lloyd Cole
+21: (10) - Roxy Music
 22: (10) - The Cure
 23: (10) - The Sundays
 24: (10) - Yonder Mountain String Band
@@ -95,4 +95,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 43: ( 1) - Bryan Ferry
 44: ( 1) - Eddie Vedder & the Million Dollar Bashers
 45: ( 1) - Sonic Youth
-46: ( 1) - The Divine Comedy
+46: ( 1) - St. Vincent, Cate Le Bon
+47: ( 1) - The Divine Comedy
