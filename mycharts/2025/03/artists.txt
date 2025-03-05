@@ -1,6 +1,6 @@
 Specified year (2025), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     101            10             9            93
+     111            11            10           103
  1: (16) - Aswad
 
 
@@ -9,13 +9,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  4: (12) - The Burning Hell
  5: (11) - Lloyd Cole
  6: (11) - Tift Merritt
- 7: (10) - Laura Marling
- 8: ( 9) - St. Vincent
+ 7: (10) - K.D. Lang
+ 8: (10) - Laura Marling
+ 9: ( 9) - St. Vincent
 
 
- 9: ( 6) - UB40
+10: ( 6) - UB40
 
 
 
 
-10: ( 1) - St. Vincent, Cate Le Bon
+11: ( 1) - St. Vincent, Cate Le Bon
