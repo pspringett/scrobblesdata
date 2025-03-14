@@ -1,20 +1,24 @@
 Specified year (2025), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     164            15            16           149
- 1: (18) - Doctor Syntax - Edwyn Collins
-
- 2: (16) - Aswad - Aswad
+     175            14            16           149
+ 1: (22) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
- 3: (13) - Case/Lang/Veirs - case/lang/veirs
- 4: (12) - Garbage Island - The Burning Hell
- 5: (12) - In Search Of Mr Rykyn - British Birds
- 6: (11) * Antidepressant - Lloyd Cole
- 7: (11) - Nation Shall Speak Unto Nation - Edwyn Collins
+
+ 2: (18) - Doctor Syntax - Edwyn Collins
+
+ 3: (16) - Aswad - Aswad
+
+
+ 4: (13) - Case/Lang/Veirs - case/lang/veirs
+ 5: (12) - Garbage Island - The Burning Hell
+ 6: (12) - In Search Of Mr Rykyn - British Birds
+ 7: (11) * Antidepressant - Lloyd Cole
  8: (11) - Traveling Alone - Tift Merritt
- 9: (10) - Hymns Of The 49Th Parallel - K.D. Lang
-10: (10) - Patterns In Repeat - Laura Marling
-11: ( 9) - All Born Screaming - St. Vincent
+ 9: (10) - All Born Screaming - St. Vincent
+10: (10) - Hymns Of The 49Th Parallel - K.D. Lang
+11: (10) - Patterns In Repeat - Laura Marling
+
 12: ( 8) * Remain In Light - Talking Heads
 13: ( 8) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 14: ( 7) * Faith - The Cure
@@ -23,5 +27,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-16: ( 1) - All Born Screaming - St. Vincent, Cate Le Bon
-17: ( 1) * I'm Not Following You - Edwyn Collins
+16: ( 1) * I'm Not Following You - Edwyn Collins
