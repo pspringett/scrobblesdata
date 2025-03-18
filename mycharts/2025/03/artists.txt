@@ -1,6 +1,6 @@
 Specified year (2025), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     195            14            16           151
+     197            15            17           153
  1: (51) - Edwyn Collins
 
 
@@ -51,3 +51,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 12: ( 8) - Talking Heads
 13: ( 7) - The Cure
 14: ( 6) - UB40
+
+
+
+15: ( 2) - Josh Ritter
