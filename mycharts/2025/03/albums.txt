@@ -1,12 +1,7 @@
 Specified year (2025), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     212            15            17           159
- 1: (32) - Nation Shall Speak Unto Nation - Edwyn Collins
-
-
-
-
- 2: (27) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+     292            17            20           187
+ 1: (52) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
 
@@ -15,26 +10,52 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: (18) - Doctor Syntax - Edwyn Collins
-
- 4: (16) - Aswad - Aswad
-
-
- 5: (13) - Case/Lang/Veirs - case/lang/veirs
- 6: (12) - Garbage Island - The Burning Hell
- 7: (12) - In Search Of Mr Rykyn - British Birds
- 8: (11) * Antidepressant - Lloyd Cole
- 9: (11) - Traveling Alone - Tift Merritt
-10: (10) - All Born Screaming - St. Vincent
-11: (10) - Hymns Of The 49Th Parallel - K.D. Lang
-12: (10) - Patterns In Repeat - Laura Marling
-
-13: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
-14: ( 8) * Remain In Light - Talking Heads
-15: ( 7) * Faith - The Cure
-16: ( 6) * Signing Off - UB40
 
 
 
 
-17: ( 1) * I'm Not Following You - Edwyn Collins
+
+
+ 2: (37) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+
+ 3: (35) - Aswad - Aswad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 4: (18) - Doctor Syntax - Edwyn Collins
+
+
+
+ 5: (14) - In Search Of Mr Rykyn - British Birds
+ 6: (13) - Case/Lang/Veirs - case/lang/veirs
+ 7: (12) - Garbage Island - The Burning Hell
+ 8: (12) - Vicious Creature - Lauren Mayberry
+ 9: (11) * Antidepressant - Lloyd Cole
+10: (11) - Traveling Alone - Tift Merritt
+11: (10) - All Born Screaming - St. Vincent
+12: (10) - Hymns Of The 49Th Parallel - K.D. Lang
+13: (10) - Patterns In Repeat - Laura Marling
+14: ( 9) - Stranded - Roxy Music
+15: ( 8) - For Your Pleasure - Roxy Music
+16: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
+17: ( 8) * Remain In Light - Talking Heads
+18: ( 7) * Faith - The Cure
+19: ( 6) * Signing Off - UB40
+
+
+
+
+20: ( 1) * I'm Not Following You - Edwyn Collins

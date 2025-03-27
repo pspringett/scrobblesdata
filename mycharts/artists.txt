@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   72113          1251          1896         12796
+   72193          1251          1896         12799
    1: (2358) - Lloyd Cole
    2: (2113) - David Bowie
    3: (1918) - Bob Dylan
@@ -11,7 +11,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    8: (1067) - Cocteau Twins
    9: (1052) - Simple Minds
   10: (1044) - Various
-  11: (1010) - Roxy Music
+  11: (1027) - Roxy Music
   12: ( 998) - Tift Merritt
   13: ( 920) - Cowboy Junkies
   14: ( 885) - The Cure
@@ -27,11 +27,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   24: ( 694) - The Style Council
   25: ( 682) - Eilen Jewell
   26: ( 671) - Rosanne Cash
-  27: ( 665) - Hem
-  28: ( 664) - Scott Walker
-  29: ( 661) - T. Rex
-  30: ( 649) - The Rolling Stones
-  31: ( 645) - Edwyn Collins
+  27: ( 665) - Edwyn Collins
+  28: ( 665) - Hem
+  29: ( 664) - Scott Walker
+  30: ( 661) - T. Rex
+  31: ( 649) - The Rolling Stones
   32: ( 643) - Martin Stephenson
   33: ( 641) - Martin Stephenson and the Daintees
   34: ( 622) - Emmylou Harris
@@ -141,25 +141,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  138: ( 113) - Hackensaw Boys
  139: ( 108) - Father John Misty
  140: ( 108) - Jarv Is...
- 141: ( 106) - Furniture
- 142: ( 106) - Jim Lauderdale
- 143: ( 106) - Pretenders
- 144: ( 105) - Ride
- 145: ( 104) - B.E.F.
- 146: ( 104) - Bauhaus
- 147: ( 104) - The Chicks
- 148: ( 103) - First Aid Kit
- 149: ( 103) - Piney Gir
- 150: ( 103) - Ray Davies
- 151: ( 102) - Chatham County Line
- 152: ( 102) - Lime Garden
- 153: ( 101) - Japan
- 154: ( 100) - Bat for Lashes
- 155: ( 100) - Jessica Pratt
- 156: (  98) - Cara Dillon
- 157: (  98) - Count Basie
- 158: (  98) - Dave Grusin
- 159: (  98) - Sharon Van Etten
+ 141: ( 108) - Sharon Van Etten
+ 142: ( 106) - Furniture
+ 143: ( 106) - Jim Lauderdale
+ 144: ( 106) - Pretenders
+ 145: ( 105) - Ride
+ 146: ( 104) - B.E.F.
+ 147: ( 104) - Bauhaus
+ 148: ( 104) - The Chicks
+ 149: ( 103) - First Aid Kit
+ 150: ( 103) - Piney Gir
+ 151: ( 103) - Ray Davies
+ 152: ( 102) - Chatham County Line
+ 153: ( 102) - Lime Garden
+ 154: ( 101) - Japan
+ 155: ( 100) - Bat for Lashes
+ 156: ( 100) - Jessica Pratt
+ 157: (  98) - Cara Dillon
+ 158: (  98) - Count Basie
+ 159: (  98) - Dave Grusin
  160: (  95) - The Proclaimers
  161: (  94) - The Jesus and Mary Chain
  162: (  93) - Department S
@@ -214,61 +214,61 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  211: (  69) - Courtney Barnett
  212: (  69) - Dolly Parton
  213: (  69) - Noah and the Whale
- 214: (  68) - Laura Gibson
- 215: (  67) - The Mavericks
- 216: (  67) - Wah!
- 217: (  66) - Sarah Jarosz
- 218: (  66) - She Drew the Gun
- 219: (  66) - The Doors
- 220: (  66) - Tracey Thorn
- 221: (  65) - Catatonia
- 222: (  65) - Small Faces
- 223: (  64) - Inhaler
- 224: (  64) - Margaret Glaspy
- 225: (  64) - Striking Matches
- 226: (  63) - Haley Bonar
- 227: (  63) - Ian McCulloch
- 228: (  63) - Lcd Soundsystem
- 229: (  63) - Phoebe Bridgers
- 230: (  62) - Chuck Prophet
- 231: (  62) - Robert Plant & Alison Krauss
- 232: (  62) - Willie Nelson & Asleep At the Wheel
- 233: (  61) - Dave Rawlings Machine
- 234: (  61) - Loretta Lynn
- 235: (  60) - Grace Jones
- 236: (  60) - Walter Salas-Humara
- 237: (  59) - Fleet Foxes
- 238: (  59) - Joe Jackson
- 239: (  59) - Stevie Wonder
- 240: (  58) - Andrew Combs
- 241: (  58) - Bobbie Gentry
- 242: (  58) - Loma
- 243: (  58) - Lyle Lovett
- 244: (  57) - John Cooper Clarke
- 245: (  57) - The Big Moon
- 246: (  55) - Mark Knopfler
- 247: (  55) - School of Seven Bells
- 248: (  55) - Siouxsie and the Banshees
- 249: (  55) - The Comsat Angels
- 250: (  54) - Lissie
- 251: (  53) - Martha Wainwright
- 252: (  52) - Bill Frisell
- 253: (  52) - Jan Garbarek
- 254: (  52) - The French Impressionists
- 255: (  52) - The Police
- 256: (  51) - Bruce Springsteen
- 257: (  51) - Doves
- 258: (  50) - The Piney Gir Country Roadshow
- 259: (  49) - Aswad
- 260: (  49) - Bonnie Whitmore
- 261: (  49) - British Birds
- 262: (  48) - Artery
- 263: (  48) - Brian Eno
- 264: (  48) - Tracyanne & Danny
- 265: (  47) - Delays
- 266: (  45) - Michael Head & the Red Elastic Band
- 267: (  44) - Beach Fossils
- 268: (  44) - Lauren Mayberry
+ 214: (  68) - Aswad
+ 215: (  68) - Laura Gibson
+ 216: (  67) - The Mavericks
+ 217: (  67) - Wah!
+ 218: (  66) - Sarah Jarosz
+ 219: (  66) - She Drew the Gun
+ 220: (  66) - The Doors
+ 221: (  66) - Tracey Thorn
+ 222: (  65) - Catatonia
+ 223: (  65) - Small Faces
+ 224: (  64) - Inhaler
+ 225: (  64) - Margaret Glaspy
+ 226: (  64) - Striking Matches
+ 227: (  63) - Haley Bonar
+ 228: (  63) - Ian McCulloch
+ 229: (  63) - Lcd Soundsystem
+ 230: (  63) - Phoebe Bridgers
+ 231: (  62) - Chuck Prophet
+ 232: (  62) - Robert Plant & Alison Krauss
+ 233: (  62) - Willie Nelson & Asleep At the Wheel
+ 234: (  61) - Dave Rawlings Machine
+ 235: (  61) - Loretta Lynn
+ 236: (  60) - Grace Jones
+ 237: (  60) - Walter Salas-Humara
+ 238: (  59) - Fleet Foxes
+ 239: (  59) - Joe Jackson
+ 240: (  59) - Stevie Wonder
+ 241: (  58) - Andrew Combs
+ 242: (  58) - Bobbie Gentry
+ 243: (  58) - Loma
+ 244: (  58) - Lyle Lovett
+ 245: (  57) - John Cooper Clarke
+ 246: (  57) - The Big Moon
+ 247: (  56) - Lauren Mayberry
+ 248: (  55) - Mark Knopfler
+ 249: (  55) - School of Seven Bells
+ 250: (  55) - Siouxsie and the Banshees
+ 251: (  55) - The Comsat Angels
+ 252: (  54) - Lissie
+ 253: (  53) - Martha Wainwright
+ 254: (  52) - Bill Frisell
+ 255: (  52) - Jan Garbarek
+ 256: (  52) - The French Impressionists
+ 257: (  52) - The Police
+ 258: (  51) - British Birds
+ 259: (  51) - Bruce Springsteen
+ 260: (  51) - Doves
+ 261: (  50) - The Piney Gir Country Roadshow
+ 262: (  49) - Bonnie Whitmore
+ 263: (  48) - Artery
+ 264: (  48) - Brian Eno
+ 265: (  48) - Tracyanne & Danny
+ 266: (  47) - Delays
+ 267: (  45) - Michael Head & the Red Elastic Band
+ 268: (  44) - Beach Fossils
  269: (  44) - Wishy
  270: (  42) - Cigarettes After Sex
  271: (  42) - Pillow Queens
