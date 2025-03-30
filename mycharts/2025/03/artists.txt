@@ -1,7 +1,7 @@
 Specified year (2025), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     326            19            22           193
- 1: (89) - Edwyn Collins
+     337            19            22           193
+ 1: (100) - Edwyn Collins
 
 
 
@@ -53,9 +53,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (37) - Sharon Van Etten
 
- 3: (35) - Aswad
 
 
 
@@ -66,30 +64,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: ( 37) - Sharon Van Etten
 
+ 3: ( 35) - Aswad
 
- 4: (22) - Lauren Mayberry
 
 
 
 
- 5: (17) - Roxy Music
 
 
- 6: (14) - British Birds
- 7: (13) - case/lang/veirs
- 8: (12) - The Burning Hell
- 9: (11) - Lloyd Cole
-10: (11) - Tift Merritt
-11: (10) - K.D. Lang
-12: (10) - Laura Marling
-13: (10) - St. Vincent
 
-14: ( 8) - Josh Ritter
-15: ( 8) - Talking Heads
-16: ( 7) - The Cure
-17: ( 6) - UB40
 
-18: ( 4) - Bob Dylan
 
-19: ( 2) - Rodney Crowell
+
+
+ 4: ( 22) - Lauren Mayberry
+
+
+
+
+ 5: ( 17) - Roxy Music
+
+
+ 6: ( 14) - British Birds
+ 7: ( 13) - case/lang/veirs
+ 8: ( 12) - The Burning Hell
+ 9: ( 11) - Lloyd Cole
+10: ( 11) - Tift Merritt
+11: ( 10) - K.D. Lang
+12: ( 10) - Laura Marling
+13: ( 10) - St. Vincent
+
+14: (  8) - Josh Ritter
+15: (  8) - Talking Heads
+16: (  7) - The Cure
+17: (  6) - UB40
+
+18: (  4) - Bob Dylan
+
+19: (  2) - Rodney Crowell
