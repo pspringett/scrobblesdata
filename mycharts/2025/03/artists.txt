@@ -1,6 +1,6 @@
 Specified year (2025), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     341            20            23           197
+     350            21            24           206
  1: (100) - Edwyn Collins
 
 
@@ -95,13 +95,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 11: ( 10) - K.D. Lang
 12: ( 10) - Laura Marling
 13: ( 10) - St. Vincent
+14: (  9) - Elvis Costello & the Attractions
+15: (  8) - Josh Ritter
+16: (  8) - Talking Heads
+17: (  7) - The Cure
+18: (  6) - UB40
 
-14: (  8) - Josh Ritter
-15: (  8) - Talking Heads
-16: (  7) - The Cure
-17: (  6) - UB40
+19: (  4) - Bob Dylan
+20: (  4) - Martin Stephenson and the Daintees
 
-18: (  4) - Bob Dylan
-19: (  4) - Martin Stephenson and the Daintees
-
-20: (  2) - Rodney Crowell
+21: (  2) - Rodney Crowell
