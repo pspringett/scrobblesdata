@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    7780           204           336          2415
+    7826           204           337          2433
   1: (352) - Slowdive
 
 
@@ -166,14 +166,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  6: (187) - Bob Dylan
 
 
-
-  6: (184) - Martin Stephenson and the Daintees
-
-
-
-
+  7: (184) - Martin Stephenson and the Daintees
 
 
 
@@ -181,7 +177,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  7: (172) - Bob Dylan
+
+
+
+
+
 
 
 
@@ -215,18 +215,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  12: (142) - English Teacher
 
 
- 13: (139) - Robert Forster
- 14: (139) - St. Vincent
+ 13: (139) - Edwyn Collins
+ 14: (139) - Robert Forster
+ 15: (139) - St. Vincent
 
 
 
 
- 15: (134) - U2
- 16: (133) - My Bloody Valentine
- 17: (133) - Paul Weller
- 18: (132) - The Bluebells
+ 16: (134) - U2
+ 17: (133) - My Bloody Valentine
+ 18: (133) - Paul Weller
+ 19: (132) - The Bluebells
 
- 19: (130) - Edwyn Collins
+
  20: (129) - Orchestral Manoeuvres in the Dark
  21: (128) - Cowboy Junkies
 
@@ -264,34 +265,33 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  31: ( 96) - Roxy Music
  32: ( 96) - The Linda Lindas
 
+ 33: ( 94) - Sharon Van Etten
+
+
+
+
+ 34: ( 89) - Jessica Pratt
+ 35: ( 89) - Josef K
 
 
 
 
 
- 33: ( 89) - Jessica Pratt
- 34: ( 89) - Josef K
-
-
-
-
- 35: ( 84) - Sharon Van Etten
  36: ( 83) - Mercury Rev
 
 
+ 37: ( 80) - Rod Stewart
+
+ 38: ( 78) - The Sundays
 
 
- 37: ( 78) - The Sundays
 
 
+ 39: ( 73) - Gardens
 
 
- 38: ( 73) - Gardens
-
-
- 39: ( 70) - Alaska Reid
- 40: ( 70) - Eilen Jewell
- 41: ( 70) - Rod Stewart
+ 40: ( 70) - Alaska Reid
+ 41: ( 70) - Eilen Jewell
 
 
 
@@ -398,14 +398,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 119: ( 11) - The Rolling Stones
 120: ( 11) - The Velvet Underground
 121: ( 11) - Tift Merritt
-122: ( 10) - K.D. Lang
-123: ( 10) - The Jam
-124: ( 10) - Wednesday
-125: ( 10) - Yonder Mountain String Band
-126: (  9) - Brian Eno & David Byrne
-127: (  9) - Hem
-128: (  9) - The Go-Betweens
-129: (  9) - Waxahatchee
+122: ( 11) - Waxahatchee
+123: ( 10) - K.D. Lang
+124: ( 10) - The Jam
+125: ( 10) - Wednesday
+126: ( 10) - Yonder Mountain String Band
+127: (  9) - Brian Eno & David Byrne
+128: (  9) - Hem
+129: (  9) - The Go-Betweens
 130: (  8) - Aurora
 131: (  8) - Scott Walker
 132: (  8) - The Band
