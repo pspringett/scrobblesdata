@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   72359          1254          1900         12844
+   72359          1253          1900         12844
    1: (324) - Cafe Bleu - The Style Council
    2: (305) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -783,19 +783,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  780: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
  781: ( 15) - New Wave Connection - Martin Stephenson, John Perry
  782: ( 15) - Patina - Tallies
- 783: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
- 784: ( 14) - American Utopia - David Byrne
- 785: ( 14) - Changesnowbowie - David Bowie
- 786: ( 14) - Document (R.E.M. No. 5) - R.E.M.
- 787: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
- 788: ( 14) - In The Flat Field - Bauhaus
- 789: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
- 790: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
- 791: ( 14) - Raising Sand - Robert Plant
- 792: ( 14) * Songs To Remember - Scritti Politti
- 793: ( 14) - Talk On Corners - The Corrs
- 794: ( 14) - Tangled Man - Green Gartside
- 795: ( 14) - Tigers Blood - Waxahatchee
+ 783: ( 15) - Tigers Blood - Waxahatchee
+ 784: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
+ 785: ( 14) - American Utopia - David Byrne
+ 786: ( 14) - Changesnowbowie - David Bowie
+ 787: ( 14) - Document (R.E.M. No. 5) - R.E.M.
+ 788: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
+ 789: ( 14) - In The Flat Field - Bauhaus
+ 790: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
+ 791: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+ 792: ( 14) - Raising Sand - Robert Plant
+ 793: ( 14) * Songs To Remember - Scritti Politti
+ 794: ( 14) - Talk On Corners - The Corrs
+ 795: ( 14) - Tangled Man - Green Gartside
  796: ( 13) - Hippopotamus - Sparks
  797: ( 13) - Kelvingrove Baby - The Bathers
  798: ( 13) - Love This Giant - David Byrne & St. Vincent
@@ -1969,40 +1969,39 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 1966: (  1) - This Is The Moody Blues - The Moody Blues
 1967: (  1) - This Year's Model (Deluxe Edition) - Elvis Costello
 1968: (  1) - Throwback Tunes: Classic Rock - Sweet
-1969: (  1) - Tigers Blood - Waxahatchee, Mj Lenderman
-1970: (  1) - Tim (Expanded) - The Replacements
-1971: (  1) - Too Low For Zero - Elton John
-1972: (  1) - Town & Country - The Vagaband
-1973: (  1) - Traditional Techniques - Stephen Malkmus
-1974: (  1) - Tramp - Sharon Van Etten
-1975: (  1) - Travelogue - Human League
-1976: (  1) - Trinity Revisited - Cowboy Junkies
-1977: (  1) - Try - Hatchie
-1978: (  1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
-1979: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
-1980: (  1) - UNCUT 2016-02 What's Going On The Sound Of 2016 - Various
-1981: (  1) - UNCUT 2016-12 - Various
-1982: (  1) - UNCUT 2017-11 Stereotypes - Various
-1983: (  1) - Ultimate Collection - Billy Ocean
-1984: (  1) - Ultimate Collection - Small Faces
-1985: (  1) - Ultimate Waylon Jennings - Waylon Jennings
-1986: (  1) - Universalists - Yonatan Gat
-1987: (  1) - Up The Junction - Squeeze
-1988: (  1) - Upper West Side - Harry Allen
-1989: (  1) - Utah - Jamestown Revival
-1990: (  1) - Vh1 Storytellers - David Bowie
-1991: (  1) - Violent Femmes - Violent Femmes
-1992: (  1) - Waiting - Fun Boy Three
-1993: (  1) - Wallflower (The Complete Sessions) - Diana Krall
-1994: (  1) - Weihnachten Workout - The Ronettes
-1995: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
-1996: (  1) - When In Rome - When in Rome
-1997: (  1) - Where The Action Is (Deluxe) - The Waterboys
-1998: (  1) - Wishful Thinking: The Very Best Of China Crisis - China Crisis
-1999: (  1) - Word Of Mouth - Toni Basil
-2000: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
-2001: (  1) - Wouldn't You Like It - Bay City Rollers
-2002: (  1) - Yellow River - Christie
-2003: (  1) - Your Town Tonight - Eliza Gilkyson
-2004: (  1) - Youtube - Prefab Sprout
-2005: (  1) - [Unknown Album] - David Bowie
+1969: (  1) - Tim (Expanded) - The Replacements
+1970: (  1) - Too Low For Zero - Elton John
+1971: (  1) - Town & Country - The Vagaband
+1972: (  1) - Traditional Techniques - Stephen Malkmus
+1973: (  1) - Tramp - Sharon Van Etten
+1974: (  1) - Travelogue - Human League
+1975: (  1) - Trinity Revisited - Cowboy Junkies
+1976: (  1) - Try - Hatchie
+1977: (  1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
+1978: (  1) - Turning Japanese - Best Of The Vapors - The Vapors
+1979: (  1) - UNCUT 2016-02 What's Going On The Sound Of 2016 - Various
+1980: (  1) - UNCUT 2016-12 - Various
+1981: (  1) - UNCUT 2017-11 Stereotypes - Various
+1982: (  1) - Ultimate Collection - Billy Ocean
+1983: (  1) - Ultimate Collection - Small Faces
+1984: (  1) - Ultimate Waylon Jennings - Waylon Jennings
+1985: (  1) - Universalists - Yonatan Gat
+1986: (  1) - Up The Junction - Squeeze
+1987: (  1) - Upper West Side - Harry Allen
+1988: (  1) - Utah - Jamestown Revival
+1989: (  1) - Vh1 Storytellers - David Bowie
+1990: (  1) - Violent Femmes - Violent Femmes
+1991: (  1) - Waiting - Fun Boy Three
+1992: (  1) - Wallflower (The Complete Sessions) - Diana Krall
+1993: (  1) - Weihnachten Workout - The Ronettes
+1994: (  1) - Welcome To The Pleasuredome - Frankie Goes to Hollywood
+1995: (  1) - When In Rome - When in Rome
+1996: (  1) - Where The Action Is (Deluxe) - The Waterboys
+1997: (  1) - Wishful Thinking: The Very Best Of China Crisis - China Crisis
+1998: (  1) - Word Of Mouth - Toni Basil
+1999: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
+2000: (  1) - Wouldn't You Like It - Bay City Rollers
+2001: (  1) - Yellow River - Christie
+2002: (  1) - Your Town Tonight - Eliza Gilkyson
+2003: (  1) - Youtube - Prefab Sprout
+2004: (  1) - [Unknown Album] - David Bowie
