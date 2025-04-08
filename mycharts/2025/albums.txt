@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1119            56            73           548
+    1156            58            77           572
  1: (94) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
 
@@ -50,13 +50,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  8: (47) - Faded Seaside Glamour - Delays
-
- 9: (45) - EELS Volume 2 - Being Dead
-
-
+ 9: (46) - Doctor Syntax - Edwyn Collins
+10: (45) - EELS Volume 2 - Being Dead
 
 
-10: (40) - Doctor Syntax - Edwyn Collins
+
+
+
 11: (39) - Our Favourite Shop - The Style Council
 
 
@@ -78,21 +78,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-13: (18) * Signing Off - UB40
-14: (17) * Get Happy!! - Elvis Costello & the Attractions
-15: (16) - All Born Screaming - St. Vincent
-16: (16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
-17: (15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
-18: (15) - Patina - Tallies
-19: (15) - Tigers Blood - Waxahatchee
+13: (18) - Patina - Tallies
+14: (18) * Signing Off - UB40
+15: (17) * Get Happy!! - Elvis Costello & the Attractions
+16: (17) - Tigers Blood - Waxahatchee
+17: (16) - All Born Screaming - St. Vincent
+18: (16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
+19: (15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
+20: (15) - Loose Talk - Bryan Ferry, Amelia Barratt
 
-20: (13) - Case/Lang/Veirs - case/lang/veirs
-21: (13) - Eden - Everything But the Girl
-22: (12) - Blonde On The Tracks - Emma Swift
-23: (12) - Garbage Island - The Burning Hell
-24: (12) - You Can't Hide Your Love Forever - Orange Juice
-25: (11) * Antidepressant - Lloyd Cole
-26: (11) - Loose Talk - Bryan Ferry, Amelia Barratt
+21: (13) - Case/Lang/Veirs - case/lang/veirs
+22: (13) - Eden - Everything But the Girl
+23: (12) - Blonde On The Tracks - Emma Swift
+24: (12) - Garbage Island - The Burning Hell
+25: (12) - You Can't Hide Your Love Forever - Orange Juice
+26: (11) * Antidepressant - Lloyd Cole
 27: (11) - Through The Windowpane - Guillemots
 28: (11) - Traveling Alone - Tift Merritt
 29: (10) - Flesh And Blood - Roxy Music
@@ -111,33 +111,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 42: ( 8) - Disintegration - The Cure
 43: ( 8) - For Your Pleasure - Roxy Music
 44: ( 8) * Remain In Light - Talking Heads
-45: ( 8) - What Happened To The Heart? - Aurora
-46: ( 7) * Faith - The Cure
-47: ( 7) - In The 21St Century - The Bluebells
-48: ( 6) - Waves - Newdad
-49: ( 5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-50: ( 4) - Abraxas - Santana
-51: ( 4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
-52: ( 4) - Tempest - Bob Dylan
-53: ( 4) - The Band - The Band
-54: ( 4) - Up All Night - The Waifs
-55: ( 4) * Wrecking Ball - Emmylou Harris
-56: ( 3) - Born Horses - Mercury Rev
-57: ( 3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-58: ( 3) - The Basement Tapes - Bob Dylan and the Band
-59: ( 2) * Fate's Right Hand - Rodney Crowell
-60: ( 2) - Music From Big Pink - The Band
-61: ( 2) - No Obligation - The Linda Lindas
-62: ( 2) - Singles 1965-1967 - The Rolling Stones
-63: ( 2) - Songs Of A Lost World - The Cure
-64: ( 2) * Texas Fever - Orange Juice
-65: ( 2) - To Our Children's Children's Children - The Moody Blues
-66: ( 1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-67: ( 1) - Cahoots - The Band
-68: ( 1) - EELS Volume 1 - Being Dead
-69: ( 1) * I'm Not Following You - Edwyn Collins
-70: ( 1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-71: ( 1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-72: ( 1) - Northern Lights – Southern Cross - The Band
-73: ( 1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-74: ( 1) - This Is The Moody Blues - The Moody Blues
+45: ( 8) - Scott 3 - Scott Walker
+46: ( 8) - What Happened To The Heart? - Aurora
+47: ( 7) * Faith - The Cure
+48: ( 7) - In The 21St Century - The Bluebells
+49: ( 6) * Scott 2 - Scott Walker
+50: ( 6) - Waves - Newdad
+51: ( 5) - A Distant Shore (Expanded Edition) - Tracey Thorn
+52: ( 4) - Abraxas - Santana
+53: ( 4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+54: ( 4) * Scott - Scott Walker
+55: ( 4) - Tempest - Bob Dylan
+56: ( 4) - The Band - The Band
+57: ( 4) - Up All Night - The Waifs
+58: ( 4) * Wrecking Ball - Emmylou Harris
+59: ( 3) - Born Horses - Mercury Rev
+60: ( 3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+61: ( 3) - Scott 4 - Scott Walker
+62: ( 3) - The Basement Tapes - Bob Dylan and the Band
+63: ( 2) * Fate's Right Hand - Rodney Crowell
+64: ( 2) - Music From Big Pink - The Band
+65: ( 2) - No Obligation - The Linda Lindas
+66: ( 2) - Singles 1965-1967 - The Rolling Stones
+67: ( 2) - Songs Of A Lost World - The Cure
+68: ( 2) * Texas Fever - Orange Juice
+69: ( 2) - To Our Children's Children's Children - The Moody Blues
+70: ( 1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+71: ( 1) - Cahoots - The Band
+72: ( 1) - EELS Volume 1 - Being Dead
+73: ( 1) * I'm Not Following You - Edwyn Collins
+74: ( 1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+75: ( 1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+76: ( 1) - Northern Lights – Southern Cross - The Band
+77: ( 1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+78: ( 1) - This Is The Moody Blues - The Moody Blues
+79: ( 1) - Tigers Blood - Waxahatchee, Mj Lenderman
