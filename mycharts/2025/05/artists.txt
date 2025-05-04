@@ -1,15 +1,19 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      30             5             4            29
-1: (11) - Chaparelle
+      42             6             5            36
+1: (16) - Chaparelle
+
+
+
+
 2: (11) - Edwyn Collins
 
 
 
+3: ( 7) - Mandrake Handshake
 
 
+4: ( 4) - Josh Ritter
+5: ( 3) - Josh Ritter, Bill Frisell
 
-3: ( 4) - Josh Ritter
-4: ( 3) - Josh Ritter, Bill Frisell
-
-5: ( 1) - Joan Osborne
+6: ( 1) - Joan Osborne
