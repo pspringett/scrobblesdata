@@ -1,6 +1,6 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     121             7             7            54
+     127             8             9            60
 1: (29) - Home Again - Edwyn Collins
 2: (29) - Western Pleasure - Chaparelle
 
@@ -28,6 +28,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 6: ( 4) - Right Here - The Go-Betweens
+7: ( 3) - Cut It Out - The Go-Betweens
+8: ( 3) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
-
-7: ( 1) - Songs Of Bob Dylan - Joan Osborne
+9: ( 1) - Songs Of Bob Dylan - Joan Osborne
