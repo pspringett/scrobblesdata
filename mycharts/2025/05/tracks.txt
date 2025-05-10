@@ -1,6 +1,6 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     127             8             9            60
+     128             8             9            61
  1: (5) - Inside the Lines - Chaparelle (Western Pleasure)
  2: (4) - Bad Loving - Chaparelle (Western Pleasure)
  3: (4) - Bleeding Hearts - Chaparelle (Western Pleasure)
@@ -61,3 +61,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 58: (1) - When People Are Dead - The Go-Betweens (Right Here)
 59: (1) - You'll Never Know (My Love) - Edwyn Collins (Home Again)
 60: (1) - afterlife - Sharon Van Etten (Sharon Van Etten & The Attachment Theory)
+61: (1) - indio - Sharon Van Etten (Sharon Van Etten & The Attachment Theory)
