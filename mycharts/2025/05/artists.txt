@@ -1,17 +1,19 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     142             8             9            65
-1: (34) - Horsegirl
+     157             9            10            69
+1: (36) - Horsegirl
+
+2: (34) - Josh Ritter
 
 
 
 
-2: (29) - Chaparelle
-3: (29) - Edwyn Collins
+3: (29) - Chaparelle
+4: (29) - Edwyn Collins
 
 
 
-4: (25) - Josh Ritter
+
 
 
 
@@ -33,7 +35,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 7: ( 7) - The Go-Betweens
 
 
+8: ( 4) - Gardens
 
 
-
-8: ( 1) - Joan Osborne
+9: ( 1) - Joan Osborne

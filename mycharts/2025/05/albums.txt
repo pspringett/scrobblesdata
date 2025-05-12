@@ -1,20 +1,15 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     142             8             9            65
-1: (34) - Phonetics On And On - Horsegirl
+     157             9            10            69
+ 1: (36) - Phonetics On And On - Horsegirl
+
+ 2: (34) - Heaven, Or Someplace As Nice - Josh Ritter
 
 
 
 
-2: (29) - Home Again - Edwyn Collins
-3: (29) - Western Pleasure - Chaparelle
-
-
-
-4: (25) - Heaven, Or Someplace As Nice - Josh Ritter
-
-
-
+ 3: (29) - Home Again - Edwyn Collins
+ 4: (29) - Western Pleasure - Chaparelle
 
 
 
@@ -26,13 +21,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-5: (10) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
 
-6: ( 7) - Earth-Sized Worlds - Mandrake Handshake
 
 
-7: ( 4) - Right Here - The Go-Betweens
-8: ( 3) - Cut It Out - The Go-Betweens
 
-9: ( 1) - Songs Of Bob Dylan - Joan Osborne
+
+
+ 5: (10) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+
+
+ 6: ( 7) - Earth-Sized Worlds - Mandrake Handshake
+
+
+ 7: ( 4) - Flaws - Gardens
+ 8: ( 4) - Right Here - The Go-Betweens
+ 9: ( 3) - Cut It Out - The Go-Betweens
+
+10: ( 1) - Songs Of Bob Dylan - Joan Osborne
