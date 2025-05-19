@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1516            66            92           705
+    1529            67            94           716
  1: (104) - Nation Shall Speak Unto Nation - Edwyn Collins
  2: (104) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
@@ -100,70 +100,72 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 25: ( 13) - Eden - Everything But the Girl
 26: ( 12) - Blonde On The Tracks - Emma Swift
 27: ( 12) - Garbage Island - The Burning Hell
-28: ( 12) - Solitude Standing - Suzanne Vega
-29: ( 12) - You Can't Hide Your Love Forever - Orange Juice
-30: ( 11) * Antidepressant - Lloyd Cole
-31: ( 11) * Bringing It All Back Home - Bob Dylan
-32: ( 11) * Little Rock - Hayes Carll
-33: ( 11) * Standards - Lloyd Cole
-34: ( 11) - Through The Windowpane - Guillemots
-35: ( 11) - Traveling Alone - Tift Merritt
-36: ( 10) - Flesh And Blood - Roxy Music
-37: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
-38: ( 10) * I Speak Because I Can - Laura Marling
-39: ( 10) - Lionheart (2018 Remaster) - Kate Bush
-40: ( 10) - Old Hands - Yonder Mountain String Band
-41: ( 10) - Patterns In Repeat - Laura Marling
-42: ( 10) * Reading, Writing & Arithmetic - The Sundays
-43: ( 10) - Rip It Up - Orange Juice
-44: ( 10) * Roxy Music - Roxy Music
-45: (  9) * Blood On The Tracks - Bob Dylan
-46: (  9) * Heaven Up Here - Echo & the Bunnymen
-47: (  9) - Stranded - Roxy Music
-48: (  9) * The Orange Juice - Orange Juice
-49: (  9) - This Could Be Texas - English Teacher
-50: (  8) * Blonde On Blonde - Bob Dylan
-51: (  8) * Closer - Joy Division
-52: (  8) - Disintegration - The Cure
-53: (  8) - For Your Pleasure - Roxy Music
-54: (  8) * Remain In Light - Talking Heads
-55: (  8) - Scott 3 - Scott Walker
-56: (  8) - What Happened To The Heart? - Aurora
-57: (  7) - Earth-Sized Worlds - Mandrake Handshake
-58: (  7) * Faith - The Cure
-59: (  7) - In The 21St Century - The Bluebells
-60: (  7) - Songs Of Bob Dylan - Joan Osborne
-61: (  6) * Scott 2 - Scott Walker
-62: (  6) - Waves - Newdad
-63: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-64: (  4) - Abraxas - Santana
-65: (  4) - Days Of Open Hand - Suzanne Vega
-66: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
-67: (  4) - Right Here - The Go-Betweens
-68: (  4) * Scott - Scott Walker
-69: (  4) - Tempest - Bob Dylan
-70: (  4) - The Band - The Band
-71: (  4) - Up All Night - The Waifs
-72: (  4) * Wrecking Ball - Emmylou Harris
-73: (  3) - Born Horses - Mercury Rev
-74: (  3) - Cut It Out - The Go-Betweens
-75: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-76: (  3) - Scott 4 - Scott Walker
-77: (  3) - The Basement Tapes - Bob Dylan and the Band
-78: (  2) * Fate's Right Hand - Rodney Crowell
-79: (  2) - Music From Big Pink - The Band
-80: (  2) - No Obligation - The Linda Lindas
-81: (  2) - Singles 1965-1967 - The Rolling Stones
-82: (  2) - Songs Of A Lost World - The Cure
-83: (  2) * Texas Fever - Orange Juice
-84: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
-85: (  2) - To Our Children's Children's Children - The Moody Blues
-86: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-87: (  1) - Cahoots - The Band
-88: (  1) - EELS Volume 1 - Being Dead
-89: (  1) * I'm Not Following You - Edwyn Collins
-90: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-91: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-92: (  1) - Northern Lights – Southern Cross - The Band
-93: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-94: (  1) - This Is The Moody Blues - The Moody Blues
+28: ( 12) - John Wesley Harding - Bob Dylan
+29: ( 12) - Solitude Standing - Suzanne Vega
+30: ( 12) - You Can't Hide Your Love Forever - Orange Juice
+31: ( 11) * Antidepressant - Lloyd Cole
+32: ( 11) * Bringing It All Back Home - Bob Dylan
+33: ( 11) * Little Rock - Hayes Carll
+34: ( 11) * Standards - Lloyd Cole
+35: ( 11) - Through The Windowpane - Guillemots
+36: ( 11) - Traveling Alone - Tift Merritt
+37: ( 10) - Flesh And Blood - Roxy Music
+38: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+39: ( 10) * I Speak Because I Can - Laura Marling
+40: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+41: ( 10) - Old Hands - Yonder Mountain String Band
+42: ( 10) - Patterns In Repeat - Laura Marling
+43: ( 10) * Reading, Writing & Arithmetic - The Sundays
+44: ( 10) - Rip It Up - Orange Juice
+45: ( 10) * Roxy Music - Roxy Music
+46: (  9) * Blood On The Tracks - Bob Dylan
+47: (  9) * Heaven Up Here - Echo & the Bunnymen
+48: (  9) - Stranded - Roxy Music
+49: (  9) * The Orange Juice - Orange Juice
+50: (  9) - This Could Be Texas - English Teacher
+51: (  8) * Blonde On Blonde - Bob Dylan
+52: (  8) * Closer - Joy Division
+53: (  8) - Disintegration - The Cure
+54: (  8) - For Your Pleasure - Roxy Music
+55: (  8) * Remain In Light - Talking Heads
+56: (  8) - Scott 3 - Scott Walker
+57: (  8) - What Happened To The Heart? - Aurora
+58: (  7) - Earth-Sized Worlds - Mandrake Handshake
+59: (  7) * Faith - The Cure
+60: (  7) - In The 21St Century - The Bluebells
+61: (  7) - Songs Of Bob Dylan - Joan Osborne
+62: (  6) * Scott 2 - Scott Walker
+63: (  6) - Waves - Newdad
+64: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
+65: (  4) - Abraxas - Santana
+66: (  4) - Days Of Open Hand - Suzanne Vega
+67: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+68: (  4) - Right Here - The Go-Betweens
+69: (  4) * Scott - Scott Walker
+70: (  4) - Tempest - Bob Dylan
+71: (  4) - The Band - The Band
+72: (  4) - Up All Night - The Waifs
+73: (  4) * Wrecking Ball - Emmylou Harris
+74: (  3) - Born Horses - Mercury Rev
+75: (  3) - Cut It Out - The Go-Betweens
+76: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+77: (  3) - Scott 4 - Scott Walker
+78: (  3) - The Basement Tapes - Bob Dylan and the Band
+79: (  2) * Fate's Right Hand - Rodney Crowell
+80: (  2) - Music From Big Pink - The Band
+81: (  2) - No Obligation - The Linda Lindas
+82: (  2) - Singles 1965-1967 - The Rolling Stones
+83: (  2) - Songs Of A Lost World - The Cure
+84: (  2) * Texas Fever - Orange Juice
+85: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
+86: (  2) - To Our Children's Children's Children - The Moody Blues
+87: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+88: (  1) - Cahoots - The Band
+89: (  1) - EELS Volume 1 - Being Dead
+90: (  1) - Electric Ladyland - Jimi Hendrix
+91: (  1) * I'm Not Following You - Edwyn Collins
+92: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+93: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+94: (  1) - Northern Lights – Southern Cross - The Band
+95: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+96: (  1) - This Is The Moody Blues - The Moody Blues

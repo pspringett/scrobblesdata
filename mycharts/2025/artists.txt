@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1516            66            92           705
+    1529            67            94           716
  1: (198) - Edwyn Collins
 
 
@@ -140,19 +140,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 6: ( 59) - Bob Dylan
 
 
 
-
- 6: ( 55) - Aswad
-
+ 7: ( 55) - Aswad
 
 
- 7: ( 51) - British Birds
- 8: ( 50) - Chaparelle
+
+ 8: ( 51) - British Birds
+ 9: ( 50) - Chaparelle
 
 
- 9: ( 47) - Bob Dylan
 10: ( 47) - Delays
 11: ( 46) - Being Dead
 
@@ -228,5 +227,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 62: (  2) - Waxahatchee, Mj Lenderman
 63: (  1) - Bryan Ferry
 64: (  1) - Eddie Vedder & the Million Dollar Bashers
-65: (  1) - Sonic Youth
-66: (  1) - The Divine Comedy
+65: (  1) - Jimi Hendrix
+66: (  1) - Sonic Youth
+67: (  1) - The Divine Comedy

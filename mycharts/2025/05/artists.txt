@@ -1,17 +1,15 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     157             9            10            69
-1: (36) - Horsegirl
+     170            11            12            81
+ 1: (36) - Horsegirl
 
-2: (34) - Josh Ritter
-
-
+ 2: (34) - Josh Ritter
 
 
-3: (29) - Chaparelle
-4: (29) - Edwyn Collins
 
 
+ 3: (29) - Chaparelle
+ 4: (29) - Edwyn Collins
 
 
 
@@ -28,14 +26,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-5: (10) - Sharon Van Etten
+ 5: (12) - Bob Dylan
+
+ 6: (10) - Sharon Van Etten
 
 
-6: ( 7) - Mandrake Handshake
-7: ( 7) - The Go-Betweens
+ 7: ( 7) - Mandrake Handshake
+ 8: ( 7) - The Go-Betweens
 
 
-8: ( 4) - Gardens
+ 9: ( 4) - Gardens
 
 
-9: ( 1) - Joan Osborne
+10: ( 1) - Jimi Hendrix
+11: ( 1) - Joan Osborne

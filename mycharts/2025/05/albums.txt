@@ -1,6 +1,6 @@
 Specified year (2025), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     157             9            10            69
+     170            11            12            81
  1: (36) - Phonetics On And On - Horsegirl
 
  2: (34) - Heaven, Or Someplace As Nice - Josh Ritter
@@ -26,16 +26,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (12) - John Wesley Harding - Bob Dylan
+
+ 6: (10) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
 
- 5: (10) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+ 7: ( 7) - Earth-Sized Worlds - Mandrake Handshake
 
 
- 6: ( 7) - Earth-Sized Worlds - Mandrake Handshake
+ 8: ( 4) - Flaws - Gardens
+ 9: ( 4) - Right Here - The Go-Betweens
+10: ( 3) - Cut It Out - The Go-Betweens
 
-
- 7: ( 4) - Flaws - Gardens
- 8: ( 4) - Right Here - The Go-Betweens
- 9: ( 3) - Cut It Out - The Go-Betweens
-
-10: ( 1) - Songs Of Bob Dylan - Joan Osborne
+11: ( 1) - Electric Ladyland - Jimi Hendrix
+12: ( 1) - Songs Of Bob Dylan - Joan Osborne
