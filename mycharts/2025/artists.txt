@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1529            67            94           716
+    1705            81           106           841
  1: (198) - Edwyn Collins
 
 
@@ -87,6 +87,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (112) - Sharon Van Etten
 
 
 
@@ -95,7 +96,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (104) - Sharon Van Etten
 
 
 
@@ -116,13 +116,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  3: ( 86) - Josh Ritter
 
 
+ 4: ( 83) - Gardens
 
 
 
 
 
 
- 4: ( 77) - Gardens
 
 
 
@@ -138,95 +138,109 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 6: ( 61) - Chaparelle
 
-
- 6: ( 59) - Bob Dylan
-
-
-
- 7: ( 55) - Aswad
+ 7: ( 59) - Bob Dylan
 
 
 
- 8: ( 51) - British Birds
- 9: ( 50) - Chaparelle
+ 8: ( 55) - Aswad
+
+
+
+ 9: ( 51) - British Birds
+
 
 
 10: ( 47) - Delays
 11: ( 46) - Being Dead
+12: ( 46) - Roxy Music
+13: ( 45) - Horsegirl
 
 
 
 
 
-
-12: ( 39) - The Style Council
-
-13: ( 37) - Roxy Music
-14: ( 36) - Bryan Ferry, Amelia Barratt
-15: ( 36) - Horsegirl
-
-16: ( 34) - Tallies
-17: ( 34) - Waxahatchee
-18: ( 33) - Orange Juice
+14: ( 39) - The Style Council
 
 
+15: ( 36) - Bryan Ferry, Amelia Barratt
+
+16: ( 34) - Lloyd Cole
+17: ( 34) - Tallies
+18: ( 34) - Waxahatchee
+19: ( 33) - Orange Juice
+20: ( 33) - Paul Weller
+
+
+21: ( 30) - Laura Marling
 
 
 
 
+22: ( 25) - Rod Stewart
 
-19: ( 25) - Rod Stewart
+23: ( 23) - The Cure
 
-
-20: ( 22) - Lloyd Cole
-21: ( 21) - Scott Walker
-22: ( 20) - Laura Marling
-
-23: ( 18) - UB40
-24: ( 17) - Elvis Costello & the Attractions
-25: ( 17) - The Cure
-26: ( 16) - Chip Taylor & Carrie Rodriguez
-27: ( 16) - St. Vincent
-28: ( 16) - Suzanne Vega
+24: ( 21) - Scott Walker
 
 
-29: ( 13) - Everything But the Girl
-30: ( 13) - case/lang/veirs
-31: ( 12) - Emma Swift
-32: ( 12) - The Burning Hell
-33: ( 11) - Guillemots
-34: ( 11) - Hayes Carll
-35: ( 11) - Tift Merritt
-36: ( 10) - K.D. Lang
-37: ( 10) - Kate Bush
-38: ( 10) - The Sundays
-39: ( 10) - Yonder Mountain String Band
-40: (  9) - Echo & the Bunnymen
-41: (  9) - English Teacher
-42: (  8) - Aurora
-43: (  8) - Joy Division
-44: (  8) - Talking Heads
-45: (  8) - The Band
-46: (  7) - Joan Osborne
-47: (  7) - Mandrake Handshake
-48: (  7) - Martin Stephenson and the Daintees
-49: (  7) - The Bluebells
-50: (  7) - The Go-Betweens
-51: (  6) - Newdad
-52: (  5) - Tracey Thorn
-53: (  4) - Emmylou Harris
-54: (  4) - Santana
-55: (  4) - The Waifs
-56: (  3) - Bob Dylan and the Band
-57: (  3) - Mercury Rev
-58: (  3) - The Moody Blues
-59: (  2) - Rodney Crowell
-60: (  2) - The Linda Lindas
-61: (  2) - The Rolling Stones
-62: (  2) - Waxahatchee, Mj Lenderman
-63: (  1) - Bryan Ferry
-64: (  1) - Eddie Vedder & the Million Dollar Bashers
-65: (  1) - Jimi Hendrix
-66: (  1) - Sonic Youth
-67: (  1) - The Divine Comedy
+25: ( 18) - UB40
+26: ( 17) - Elvis Costello & the Attractions
+27: ( 16) - Chip Taylor & Carrie Rodriguez
+28: ( 16) - St. Vincent
+29: ( 16) - Suzanne Vega
+
+
+30: ( 13) - Bob Marley & the Wailers
+31: ( 13) - Everything But the Girl
+32: ( 13) - case/lang/veirs
+33: ( 12) - Emma Swift
+34: ( 12) - The Burning Hell
+35: ( 12) - Wet Leg
+36: ( 11) - Guillemots
+37: ( 11) - Hayes Carll
+38: ( 11) - R.E.M.
+39: ( 11) - The Go-Betweens
+40: ( 11) - Tift Merritt
+41: ( 10) - K.D. Lang
+42: ( 10) - Kate Bush
+43: ( 10) - The Sundays
+44: ( 10) - Yonder Mountain String Band
+45: (  9) - Echo & the Bunnymen
+46: (  9) - English Teacher
+47: (  9) - Tom Tom Club
+48: (  8) - Aurora
+49: (  8) - Joy Division
+50: (  8) - Robert Forster
+51: (  8) - Talking Heads
+52: (  8) - The Band
+53: (  7) - Joan Osborne
+54: (  7) - Leonard Cohen
+55: (  7) - Mandrake Handshake
+56: (  7) - Martin Stephenson and the Daintees
+57: (  7) - The Bluebells
+58: (  6) - Newdad
+59: (  5) - Tracey Thorn
+60: (  4) - Emmylou Harris
+61: (  4) - Santana
+62: (  4) - The Waifs
+63: (  3) - Bob Dylan and the Band
+64: (  3) - Mercury Rev
+65: (  3) - The Moody Blues
+66: (  2) - Rodney Crowell
+67: (  2) - The Linda Lindas
+68: (  2) - The Rolling Stones
+69: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+70: (  2) - Waxahatchee, Mj Lenderman
+71: (  1) - Bryan Ferry
+72: (  1) - Eddie Vedder & the Million Dollar Bashers
+73: (  1) - Jimi Hendrix
+74: (  1) - Sonic Youth
+75: (  1) - The Divine Comedy
+76: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+77: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+78: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+79: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+80: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+81: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
