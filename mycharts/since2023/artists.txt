@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    8451           222           362          2671
+    8471           222           362          2671
   1: (352) - Slowdive
 
 
@@ -198,6 +198,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  12: (156) - Being Dead
+ 13: (155) - Robert Forster
 
 
 
@@ -206,7 +207,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 13: (147) - Robert Forster
  14: (146) - Echo & the Bunnymen
 
 
@@ -327,9 +327,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  61: ( 38) - Suede
  62: ( 38) - The Fall
  63: ( 37) - Pj Harvey
- 64: ( 36) - Bryan Ferry, Amelia Barratt
- 65: ( 35) - Talking Heads
- 66: ( 34) - Tallies
+ 64: ( 37) - Tallies
+ 65: ( 36) - Bryan Ferry, Amelia Barratt
+ 66: ( 35) - Talking Heads
  67: ( 34) - Waxahatchee
 
  68: ( 32) - Nightbus
@@ -366,35 +366,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  98: ( 21) - Shelby Lynne, Allison Moorer
  99: ( 20) - ABC
 100: ( 20) - Elvis Costello & the Attractions
-101: ( 20) - The Go-Betweens
-102: ( 20) - The National
-103: ( 19) - Love
-104: ( 19) - New Order
-105: ( 18) - Duke Garwood
-106: ( 18) - UB40
-107: ( 17) - Bill Nelson
-108: ( 17) - Brix Smith
-109: ( 16) - Chip Taylor & Carrie Rodriguez
-110: ( 16) - Suzanne Vega
-111: ( 16) - The Specials
+101: ( 20) - R.E.M.
+102: ( 20) - The Go-Betweens
+103: ( 20) - The National
+104: ( 19) - Love
+105: ( 19) - New Order
+106: ( 18) - Duke Garwood
+107: ( 18) - UB40
+108: ( 17) - Bill Nelson
+109: ( 17) - Brix Smith
+110: ( 16) - Chip Taylor & Carrie Rodriguez
+111: ( 16) - Suzanne Vega
+112: ( 16) - The Specials
 
-112: ( 14) - Joy Division
-113: ( 13) - Blondie
-114: ( 13) - Bob Marley & the Wailers
-115: ( 13) - Elvis Costello
-116: ( 13) - Everything But the Girl
-117: ( 13) - The Bathers
-118: ( 13) - case/lang/veirs
-119: ( 12) - Clinic Stars
-120: ( 12) - Emma Swift
-121: ( 12) - Nick Heyward
-122: ( 12) - Paul Haig
-123: ( 11) - Fleetwood Mac
-124: ( 11) - Guillemots
-125: ( 11) - Hayes Carll
-126: ( 11) - Laura Cantrell
-127: ( 11) - Laurel Canyon
-128: ( 11) - R.E.M.
+113: ( 14) - Joy Division
+114: ( 13) - Blondie
+115: ( 13) - Bob Marley & the Wailers
+116: ( 13) - Elvis Costello
+117: ( 13) - Everything But the Girl
+118: ( 13) - The Bathers
+119: ( 13) - case/lang/veirs
+120: ( 12) - Clinic Stars
+121: ( 12) - Emma Swift
+122: ( 12) - Nick Heyward
+123: ( 12) - Paul Haig
+124: ( 11) - Fleetwood Mac
+125: ( 11) - Guillemots
+126: ( 11) - Hayes Carll
+127: ( 11) - Laura Cantrell
+128: ( 11) - Laurel Canyon
 129: ( 11) - Television
 130: ( 11) - The Rolling Stones
 131: ( 11) - The Velvet Underground

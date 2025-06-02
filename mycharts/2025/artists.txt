@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1705            81           106           841
+    1725            81           106           841
  1: (198) - Edwyn Collins
 
 
@@ -163,11 +163,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 14: ( 39) - The Style Council
 
+15: ( 37) - Tallies
+16: ( 36) - Bryan Ferry, Amelia Barratt
 
-15: ( 36) - Bryan Ferry, Amelia Barratt
-
-16: ( 34) - Lloyd Cole
-17: ( 34) - Tallies
+17: ( 34) - Lloyd Cole
 18: ( 34) - Waxahatchee
 19: ( 33) - Orange Juice
 20: ( 33) - Paul Weller
@@ -183,36 +182,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 23: ( 23) - The Cure
 
 24: ( 21) - Scott Walker
+25: ( 20) - R.E.M.
+
+26: ( 18) - UB40
+27: ( 17) - Elvis Costello & the Attractions
+28: ( 16) - Chip Taylor & Carrie Rodriguez
+29: ( 16) - Robert Forster
+30: ( 16) - St. Vincent
+31: ( 16) - Suzanne Vega
 
 
-25: ( 18) - UB40
-26: ( 17) - Elvis Costello & the Attractions
-27: ( 16) - Chip Taylor & Carrie Rodriguez
-28: ( 16) - St. Vincent
-29: ( 16) - Suzanne Vega
-
-
-30: ( 13) - Bob Marley & the Wailers
-31: ( 13) - Everything But the Girl
-32: ( 13) - case/lang/veirs
-33: ( 12) - Emma Swift
-34: ( 12) - The Burning Hell
-35: ( 12) - Wet Leg
-36: ( 11) - Guillemots
-37: ( 11) - Hayes Carll
-38: ( 11) - R.E.M.
-39: ( 11) - The Go-Betweens
-40: ( 11) - Tift Merritt
-41: ( 10) - K.D. Lang
-42: ( 10) - Kate Bush
-43: ( 10) - The Sundays
-44: ( 10) - Yonder Mountain String Band
-45: (  9) - Echo & the Bunnymen
-46: (  9) - English Teacher
-47: (  9) - Tom Tom Club
-48: (  8) - Aurora
-49: (  8) - Joy Division
-50: (  8) - Robert Forster
+32: ( 13) - Bob Marley & the Wailers
+33: ( 13) - Everything But the Girl
+34: ( 13) - case/lang/veirs
+35: ( 12) - Emma Swift
+36: ( 12) - The Burning Hell
+37: ( 12) - Wet Leg
+38: ( 11) - Guillemots
+39: ( 11) - Hayes Carll
+40: ( 11) - The Go-Betweens
+41: ( 11) - Tift Merritt
+42: ( 10) - K.D. Lang
+43: ( 10) - Kate Bush
+44: ( 10) - The Sundays
+45: ( 10) - Yonder Mountain String Band
+46: (  9) - Echo & the Bunnymen
+47: (  9) - English Teacher
+48: (  9) - Tom Tom Club
+49: (  8) - Aurora
+50: (  8) - Joy Division
 51: (  8) - Talking Heads
 52: (  8) - The Band
 53: (  7) - Joan Osborne
