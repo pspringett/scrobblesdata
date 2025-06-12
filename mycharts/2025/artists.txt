@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1796            90           109           854
+    1809            91           110           867
  1: (215) - Edwyn Collins
 
 
@@ -212,59 +212,60 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 32: ( 14) - Everything But the Girl
 33: ( 13) - Bob Marley & the Wailers
 34: ( 13) - Emma Swift
-35: ( 13) - case/lang/veirs
-36: ( 12) - The Burning Hell
-37: ( 12) - Wet Leg
-38: ( 11) - Guillemots
-39: ( 11) - Hayes Carll
-40: ( 11) - The Go-Betweens
-41: ( 11) - Tift Merritt
-42: ( 10) - K.D. Lang
-43: ( 10) - Kate Bush
-44: ( 10) - The Sundays
-45: ( 10) - Yonder Mountain String Band
-46: (  9) - Echo & the Bunnymen
-47: (  9) - English Teacher
-48: (  9) - Tom Tom Club
-49: (  8) - Aurora
-50: (  8) - Joy Division
-51: (  8) - Talking Heads
-52: (  8) - The Band
-53: (  7) - Joan Osborne
-54: (  7) - Leonard Cohen
-55: (  7) - Mandrake Handshake
-56: (  7) - Martin Stephenson and the Daintees
-57: (  7) - The Bluebells
-58: (  6) - Newdad
-59: (  5) - Tracey Thorn
-60: (  4) - Emmylou Harris
-61: (  4) - Santana
-62: (  4) - The Waifs
-63: (  4) - Weekend
-64: (  3) - Bob Dylan and the Band
-65: (  3) - Mercury Rev
-66: (  3) - The Moody Blues
-67: (  2) - Rodney Crowell
-68: (  2) - The Linda Lindas
-69: (  2) - The Rolling Stones
-70: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-71: (  2) - Waxahatchee, Mj Lenderman
-72: (  1) - Blue Orchids
-73: (  1) - Bryan Ferry
-74: (  1) - Eddie Vedder & the Million Dollar Bashers
-75: (  1) - Girls At Our Best!
-76: (  1) - Hurrah!
-77: (  1) - Jane
-78: (  1) - Jimi Hendrix
-79: (  1) - Marine Girls
-80: (  1) - Sonic Youth
-81: (  1) - The Divine Comedy
-82: (  1) - The Monochrome Set
-83: (  1) - The Nightingales
-84: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-85: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-86: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-87: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-88: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-89: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-90: (  1) - Tv21
+35: ( 13) - The Beach Boys
+36: ( 13) - case/lang/veirs
+37: ( 12) - The Burning Hell
+38: ( 12) - Wet Leg
+39: ( 11) - Guillemots
+40: ( 11) - Hayes Carll
+41: ( 11) - The Go-Betweens
+42: ( 11) - Tift Merritt
+43: ( 10) - K.D. Lang
+44: ( 10) - Kate Bush
+45: ( 10) - The Sundays
+46: ( 10) - Yonder Mountain String Band
+47: (  9) - Echo & the Bunnymen
+48: (  9) - English Teacher
+49: (  9) - Tom Tom Club
+50: (  8) - Aurora
+51: (  8) - Joy Division
+52: (  8) - Talking Heads
+53: (  8) - The Band
+54: (  7) - Joan Osborne
+55: (  7) - Leonard Cohen
+56: (  7) - Mandrake Handshake
+57: (  7) - Martin Stephenson and the Daintees
+58: (  7) - The Bluebells
+59: (  6) - Newdad
+60: (  5) - Tracey Thorn
+61: (  4) - Emmylou Harris
+62: (  4) - Santana
+63: (  4) - The Waifs
+64: (  4) - Weekend
+65: (  3) - Bob Dylan and the Band
+66: (  3) - Mercury Rev
+67: (  3) - The Moody Blues
+68: (  2) - Rodney Crowell
+69: (  2) - The Linda Lindas
+70: (  2) - The Rolling Stones
+71: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+72: (  2) - Waxahatchee, Mj Lenderman
+73: (  1) - Blue Orchids
+74: (  1) - Bryan Ferry
+75: (  1) - Eddie Vedder & the Million Dollar Bashers
+76: (  1) - Girls At Our Best!
+77: (  1) - Hurrah!
+78: (  1) - Jane
+79: (  1) - Jimi Hendrix
+80: (  1) - Marine Girls
+81: (  1) - Sonic Youth
+82: (  1) - The Divine Comedy
+83: (  1) - The Monochrome Set
+84: (  1) - The Nightingales
+85: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+86: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+87: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+88: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+89: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+90: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+91: (  1) - Tv21
