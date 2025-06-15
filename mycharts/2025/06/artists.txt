@@ -1,6 +1,6 @@
 Specified year (2025), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     126            20            12            76
+     128            20            12            78
  1: (39) - R.E.M.
 
 
@@ -37,17 +37,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: ( 5) - Tallies
  7: ( 4) - Weekend
+ 8: ( 3) - Pulp
 
-
- 8: ( 1) - Blue Orchids
- 9: ( 1) - Bob Hund
-10: ( 1) - Emma Swift
-11: ( 1) - Everything But the Girl
-12: ( 1) - Girls At Our Best!
-13: ( 1) - Hurrah!
-14: ( 1) - Jane
-15: ( 1) - Marine Girls
-16: ( 1) - Pulp
+ 9: ( 1) - Blue Orchids
+10: ( 1) - Bob Hund
+11: ( 1) - Emma Swift
+12: ( 1) - Everything But the Girl
+13: ( 1) - Girls At Our Best!
+14: ( 1) - Hurrah!
+15: ( 1) - Jane
+16: ( 1) - Marine Girls
 17: ( 1) - The Monochrome Set
 18: ( 1) - The Nightingales
 19: ( 1) - Turnstile
