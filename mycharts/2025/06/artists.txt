@@ -1,6 +1,6 @@
 Specified year (2025), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     139            20            12            78
+     140            20            12            79
  1: (39) - R.E.M.
 
 
@@ -37,8 +37,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: ( 5) - Tallies
- 7: ( 4) - Weekend
- 8: ( 3) - Pulp
+ 7: ( 4) - Pulp
+ 8: ( 4) - Weekend
+
 
  9: ( 1) - Blue Orchids
 10: ( 1) - Bob Hund
