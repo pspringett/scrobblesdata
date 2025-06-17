@@ -1,6 +1,6 @@
 Specified year (2025), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     145            21            13            84
+     150            21            13            86
  1: (39) - R.E.M.
 
 
@@ -32,13 +32,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  5: (11) - Chaparelle
 
+ 6: ( 9) - Pulp
 
 
 
-
- 6: ( 5) - Horsegirl
- 7: ( 5) - Tallies
- 8: ( 4) - Pulp
+ 7: ( 5) - Horsegirl
+ 8: ( 5) - Tallies
  9: ( 4) - Weekend
 
 
