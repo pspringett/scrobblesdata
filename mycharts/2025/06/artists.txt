@@ -1,6 +1,6 @@
 Specified year (2025), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     182            22            15           107
+     185            23            15           108
  1: (39) - R.E.M.
 
 
@@ -27,10 +27,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (16) - Orchestral Manoeuvres in the Dark
 
 
+ 6: (13) - Pulp
 
-
- 6: (11) - Chaparelle
- 7: (11) - Pulp
+ 7: (11) - Chaparelle
 
 
 
@@ -48,7 +47,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 16: ( 1) - Hurrah!
 17: ( 1) - Jane
 18: ( 1) - Marine Girls
-19: ( 1) - The Monochrome Set
-20: ( 1) - The Nightingales
-21: ( 1) - Turnstile
-22: ( 1) - Tv21
+19: ( 1) - Pulp, Chilly Gonzales
+20: ( 1) - The Monochrome Set
+21: ( 1) - The Nightingales
+22: ( 1) - Turnstile
+23: ( 1) - Tv21
