@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1884            96           114           893
+    1894            96           122           903
   1: (112) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
 
@@ -170,41 +170,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  92: (  3) - La Variete - Weekend
  93: (  3) - Scott 4 - Scott Walker
  94: (  3) - The Basement Tapes - Bob Dylan and the Band
- 95: (  2) * Fate's Right Hand - Rodney Crowell
- 96: (  2) - Music From Big Pink - The Band
- 97: (  2) - No Happy Endings - Emma Swift
- 98: (  2) - No Obligation - The Linda Lindas
- 99: (  2) - Singles 1965-1967 - The Rolling Stones
-100: (  2) * Texas Fever - Orange Juice
-101: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
-102: (  2) - To Our Children's Children's Children - The Moody Blues
-103: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-104: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-105: (  1) - Cahoots - The Band
-106: (  1) - EELS Volume 1 - Being Dead
-107: (  1) - Electric Ladyland - Jimi Hendrix
-108: (  1) * I'm Not Following You - Edwyn Collins
-109: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-110: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-111: (  1) - More - Pulp, Chilly Gonzales
-112: (  1) - Never Enough - Turnstile
-113: (  1) - Northern Lights – Southern Cross - The Band
-114: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-115: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-116: (  1) - Scared To Get Happy - Blue Orchids
-117: (  1) - Scared To Get Happy - Everything But the Girl
-118: (  1) - Scared To Get Happy - Girls At Our Best!
-119: (  1) - Scared To Get Happy - Hurrah!
-120: (  1) - Scared To Get Happy - Jane
-121: (  1) - Scared To Get Happy - Marine Girls
-122: (  1) - Scared To Get Happy - The Monochrome Set
-123: (  1) - Scared To Get Happy - The Nightingales
-124: (  1) - Scared To Get Happy - Tv21
-125: (  1) - Scared To Get Happy - Weekend
-126: (  1) - This Is The Moody Blues - The Moody Blues
-127: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-128: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-129: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-130: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-131: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-132: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+ 95: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+ 96: (  2) * Fate's Right Hand - Rodney Crowell
+ 97: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+ 98: (  2) - Music From Big Pink - The Band
+ 99: (  2) - No Happy Endings - Emma Swift
+100: (  2) - No Obligation - The Linda Lindas
+101: (  2) - Singles 1965-1967 - The Rolling Stones
+102: (  2) * Texas Fever - Orange Juice
+103: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
+104: (  2) - To Our Children's Children's Children - The Moody Blues
+105: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+106: (  1) - 0-100 - Bob Hund
+107: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+108: (  1) - Cahoots - The Band
+109: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+110: (  1) - EELS Volume 1 - Being Dead
+111: (  1) - Electric Ladyland - Jimi Hendrix
+112: (  1) - Ett Fall Och En LöSning - Bob Hund
+113: (  1) * I'm Not Following You - Edwyn Collins
+114: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+115: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+116: (  1) - More - Pulp, Chilly Gonzales
+117: (  1) - Never Enough - Turnstile
+118: (  1) - Northern Lights – Southern Cross - The Band
+119: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+120: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+121: (  1) - Scared To Get Happy - Blue Orchids
+122: (  1) - Scared To Get Happy - Everything But the Girl
+123: (  1) - Scared To Get Happy - Girls At Our Best!
+124: (  1) - Scared To Get Happy - Hurrah!
+125: (  1) - Scared To Get Happy - Jane
+126: (  1) - Scared To Get Happy - Marine Girls
+127: (  1) - Scared To Get Happy - The Monochrome Set
+128: (  1) - Scared To Get Happy - The Nightingales
+129: (  1) - Scared To Get Happy - Tv21
+130: (  1) - Scared To Get Happy - Weekend
+131: (  1) - Silence - Vild I Skogen - Bob Hund
+132: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+133: (  1) - Stumfilm - Bob Hund
+134: (  1) - This Is The Moody Blues - The Moody Blues
+135: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+136: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+137: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+138: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+139: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+140: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
