@@ -1,7 +1,8 @@
 Specified year (2025), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      16             3             3            13
+      32             5             5            27
 1: (13) - Manifesto - Roxy Music
+2: (12) - Western Pleasure - Chaparelle
 
 
 
@@ -9,8 +10,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+3: ( 4) - Strawberries - Robert Forster
 
-
-
-2: ( 2) - More - Pulp
-3: ( 1) - Songs Of A Lost World - The Cure
+4: ( 2) - More - Pulp
+5: ( 1) - Songs Of A Lost World - The Cure
