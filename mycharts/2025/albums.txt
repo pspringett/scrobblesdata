@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1901            96           122           903
+    1915            96           122           904
   1: (112) - Nation Shall Speak Unto Nation - Edwyn Collins
   2: (112) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
@@ -94,60 +94,59 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  20: ( 25) - Unplugged....And Seated - Rod Stewart
  21: ( 24) - Pet Sounds - The Beach Boys
 
+ 22: ( 22) - Manifesto - Roxy Music
 
+ 23: ( 20) - Patterns In Repeat - Laura Marling
 
- 22: ( 20) - Patterns In Repeat - Laura Marling
+ 24: ( 18) * Signing Off - UB40
+ 25: ( 17) * Get Happy!! - Elvis Costello & the Attractions
+ 26: ( 17) - More - Pulp
+ 27: ( 16) - All Born Screaming - St. Vincent
+ 28: ( 16) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
+ 29: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
+ 30: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
 
- 23: ( 18) * Signing Off - UB40
- 24: ( 17) * Get Happy!! - Elvis Costello & the Attractions
- 25: ( 17) - More - Pulp
- 26: ( 16) - All Born Screaming - St. Vincent
- 27: ( 16) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
- 28: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
- 29: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
-
- 30: ( 13) - Burnin' - Bob Marley & the Wailers
- 31: ( 13) - Case/Lang/Veirs - case/lang/veirs
- 32: ( 13) - Eden - Everything But the Girl
- 33: ( 13) - On Sunset (Deluxe) - Paul Weller
- 34: ( 12) - 66 - Paul Weller
- 35: ( 12) - Blonde On The Tracks - Emma Swift
- 36: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
- 37: ( 12) - Garbage Island - The Burning Hell
- 38: ( 12) - John Wesley Harding - Bob Dylan
- 39: ( 12) - Solitude Standing - Suzanne Vega
- 40: ( 12) - Wet Leg - Wet Leg
- 41: ( 12) - You Can't Hide Your Love Forever - Orange Juice
- 42: ( 11) * Antidepressant - Lloyd Cole
- 43: ( 11) * Bringing It All Back Home - Bob Dylan
- 44: ( 11) * Little Rock - Hayes Carll
- 45: ( 11) * Standards - Lloyd Cole
- 46: ( 11) - Through The Windowpane - Guillemots
- 47: ( 11) - Traveling Alone - Tift Merritt
- 48: ( 10) - Flesh And Blood - Roxy Music
- 49: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 50: ( 10) * I Speak Because I Can - Laura Marling
- 51: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 52: ( 10) - Old Hands - Yonder Mountain String Band
- 53: ( 10) * Reading, Writing & Arithmetic - The Sundays
- 54: ( 10) - Rip It Up - Orange Juice
- 55: ( 10) * Roxy Music - Roxy Music
- 56: (  9) * Blood On The Tracks - Bob Dylan
- 57: (  9) * Heaven Up Here - Echo & the Bunnymen
- 58: (  9) - Manifesto - Roxy Music
- 59: (  9) - Stranded - Roxy Music
- 60: (  9) * The Orange Juice - Orange Juice
- 61: (  9) - This Could Be Texas - English Teacher
- 62: (  9) * Tom Tom Club - Tom Tom Club
- 63: (  8) * Blonde On Blonde - Bob Dylan
- 64: (  8) * Closer - Joy Division
- 65: (  8) - Disintegration - The Cure
- 66: (  8) - For Your Pleasure - Roxy Music
- 67: (  8) * Remain In Light - Talking Heads
- 68: (  8) - Right Here - The Go-Betweens
- 69: (  8) - Saturns Pattern - Paul Weller
- 70: (  8) - Scott 3 - Scott Walker
- 71: (  8) - Songs Of A Lost World - The Cure
+ 31: ( 13) - Burnin' - Bob Marley & the Wailers
+ 32: ( 13) - Case/Lang/Veirs - case/lang/veirs
+ 33: ( 13) - Eden - Everything But the Girl
+ 34: ( 13) - On Sunset (Deluxe) - Paul Weller
+ 35: ( 12) - 66 - Paul Weller
+ 36: ( 12) - Blonde On The Tracks - Emma Swift
+ 37: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 38: ( 12) - Garbage Island - The Burning Hell
+ 39: ( 12) - John Wesley Harding - Bob Dylan
+ 40: ( 12) - Solitude Standing - Suzanne Vega
+ 41: ( 12) - Wet Leg - Wet Leg
+ 42: ( 12) - You Can't Hide Your Love Forever - Orange Juice
+ 43: ( 11) * Antidepressant - Lloyd Cole
+ 44: ( 11) * Bringing It All Back Home - Bob Dylan
+ 45: ( 11) * Little Rock - Hayes Carll
+ 46: ( 11) * Standards - Lloyd Cole
+ 47: ( 11) - Through The Windowpane - Guillemots
+ 48: ( 11) - Traveling Alone - Tift Merritt
+ 49: ( 10) - Flesh And Blood - Roxy Music
+ 50: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 51: ( 10) * I Speak Because I Can - Laura Marling
+ 52: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 53: ( 10) - Old Hands - Yonder Mountain String Band
+ 54: ( 10) * Reading, Writing & Arithmetic - The Sundays
+ 55: ( 10) - Rip It Up - Orange Juice
+ 56: ( 10) * Roxy Music - Roxy Music
+ 57: (  9) * Blood On The Tracks - Bob Dylan
+ 58: (  9) * Heaven Up Here - Echo & the Bunnymen
+ 59: (  9) - Songs Of A Lost World - The Cure
+ 60: (  9) - Stranded - Roxy Music
+ 61: (  9) * The Orange Juice - Orange Juice
+ 62: (  9) - This Could Be Texas - English Teacher
+ 63: (  9) * Tom Tom Club - Tom Tom Club
+ 64: (  8) * Blonde On Blonde - Bob Dylan
+ 65: (  8) * Closer - Joy Division
+ 66: (  8) - Disintegration - The Cure
+ 67: (  8) - For Your Pleasure - Roxy Music
+ 68: (  8) * Remain In Light - Talking Heads
+ 69: (  8) - Right Here - The Go-Betweens
+ 70: (  8) - Saturns Pattern - Paul Weller
+ 71: (  8) - Scott 3 - Scott Walker
  72: (  8) - What Happened To The Heart? - Aurora
  73: (  7) - Earth-Sized Worlds - Mandrake Handshake
  74: (  7) * Faith - The Cure
