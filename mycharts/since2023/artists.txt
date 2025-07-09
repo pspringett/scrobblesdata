@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    8713           235           376          2737
+    8725           235           376          2738
   1: (352) - Slowdive
 
 
@@ -213,10 +213,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  16: (142) - English Teacher
 
+ 17: (140) - Roxy Music
+ 18: (139) - St. Vincent
 
- 17: (139) - St. Vincent
 
- 18: (137) - Roxy Music
 
 
  19: (134) - U2
@@ -224,9 +224,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  21: (132) - The Bluebells
 
 
-
- 22: (128) - Cowboy Junkies
- 23: (128) - Simple Minds
+ 22: (129) - Simple Minds
+ 23: (128) - Cowboy Junkies
 
 
 
@@ -330,23 +329,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  64: ( 38) - The Fall
  65: ( 37) - Pj Harvey
  66: ( 36) - Bryan Ferry, Amelia Barratt
- 67: ( 35) - Talking Heads
- 68: ( 34) - Waxahatchee
+ 67: ( 35) - Pulp
+ 68: ( 35) - Talking Heads
+ 69: ( 34) - Waxahatchee
 
- 69: ( 32) - Nightbus
- 70: ( 31) - Courting
- 71: ( 31) - Weyes Blood
- 72: ( 30) - Paramore
- 73: ( 30) - Whitelands
- 74: ( 30) - Yazoo
- 75: ( 29) - Be Your Own Pet
- 76: ( 29) - Devine & Statton
- 77: ( 29) - Scott Walker
- 78: ( 29) - The Corrs
- 79: ( 28) - The Last Dinner Party
- 80: ( 28) - The Smiths
- 81: ( 28) - The Zephyrs
- 82: ( 27) - Pulp
+ 70: ( 32) - Nightbus
+ 71: ( 31) - Courting
+ 72: ( 31) - Weyes Blood
+ 73: ( 30) - Paramore
+ 74: ( 30) - Whitelands
+ 75: ( 30) - Yazoo
+ 76: ( 29) - Be Your Own Pet
+ 77: ( 29) - Devine & Statton
+ 78: ( 29) - Scott Walker
+ 79: ( 29) - The Corrs
+ 80: ( 28) - The Last Dinner Party
+ 81: ( 28) - The Smiths
+ 82: ( 28) - The Zephyrs
+
  83: ( 26) - Leonard Cohen
  84: ( 25) - Taylor Swift
  85: ( 24) - Angie Palmer

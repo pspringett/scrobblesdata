@@ -1,8 +1,9 @@
 Specified year (2025), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      68             7             6            49
+      80             7             7            53
 1: (22) - Manifesto - Roxy Music
 
+2: (20) - More - Pulp
 
 
 
@@ -10,10 +11,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+3: (12) - Up All Night - Simple Minds
+4: (12) - Western Pleasure - Chaparelle
 
-2: (12) - More - Pulp
-3: (12) - Western Pleasure - Chaparelle
-4: (11) - Up All Night - Simple Minds
 
 5: ( 9) - Strawberries - Robert Forster
 
@@ -21,7 +21,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+6: ( 3) - Flesh And Blood - Roxy Music
 
-
-6: ( 1) - More - Pulp, Chilly Gonzales
-7: ( 1) - Songs Of A Lost World - The Cure
+7: ( 1) - More - Pulp, Chilly Gonzales
+8: ( 1) - Songs Of A Lost World - The Cure

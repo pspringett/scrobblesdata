@@ -1,7 +1,12 @@
 Specified year (2025), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      68             7             6            49
-1: (22) - Roxy Music
+      80             7             7            53
+1: (25) - Roxy Music
+
+
+
+
+2: (20) - Pulp
 
 
 
@@ -9,11 +14,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+3: (12) - Chaparelle
+4: (12) - Simple Minds
 
-
-2: (12) - Chaparelle
-3: (12) - Pulp
-4: (11) - Simple Minds
 
 5: ( 9) - Robert Forster
 
