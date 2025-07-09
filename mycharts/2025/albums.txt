@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1979            97           122           916
+    1986            97           123           917
   1: (112) - Nation Shall Speak Unto Nation - Edwyn Collins
   2: (112) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
@@ -97,18 +97,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  24: ( 20) - Patterns In Repeat - Laura Marling
+ 25: ( 19) - Flesh And Blood - Roxy Music
+ 26: ( 18) * Signing Off - UB40
+ 27: ( 17) * Get Happy!! - Elvis Costello & the Attractions
+ 28: ( 16) - All Born Screaming - St. Vincent
+ 29: ( 16) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
+ 30: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
+ 31: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
 
- 25: ( 18) * Signing Off - UB40
- 26: ( 17) * Get Happy!! - Elvis Costello & the Attractions
- 27: ( 16) - All Born Screaming - St. Vincent
- 28: ( 16) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
- 29: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
- 30: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
-
- 31: ( 13) - Burnin' - Bob Marley & the Wailers
- 32: ( 13) - Case/Lang/Veirs - case/lang/veirs
- 33: ( 13) - Eden - Everything But the Girl
- 34: ( 13) - Flesh And Blood - Roxy Music
+ 32: ( 13) - Burnin' - Bob Marley & the Wailers
+ 33: ( 13) - Case/Lang/Veirs - case/lang/veirs
+ 34: ( 13) - Eden - Everything But the Girl
  35: ( 13) - On Sunset (Deluxe) - Paul Weller
  36: ( 12) - 66 - Paul Weller
  37: ( 12) - Blonde On The Tracks - Emma Swift
@@ -193,26 +192,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 116: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
 117: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
 118: (  1) - Never Enough - Turnstile
-119: (  1) - Northern Lights – Southern Cross - The Band
-120: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-121: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-122: (  1) - Scared To Get Happy - Blue Orchids
-123: (  1) - Scared To Get Happy - Everything But the Girl
-124: (  1) - Scared To Get Happy - Girls At Our Best!
-125: (  1) - Scared To Get Happy - Hurrah!
-126: (  1) - Scared To Get Happy - Jane
-127: (  1) - Scared To Get Happy - Marine Girls
-128: (  1) - Scared To Get Happy - The Monochrome Set
-129: (  1) - Scared To Get Happy - The Nightingales
-130: (  1) - Scared To Get Happy - Tv21
-131: (  1) - Scared To Get Happy - Weekend
-132: (  1) - Silence - Vild I Skogen - Bob Hund
-133: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
-134: (  1) - Stumfilm - Bob Hund
-135: (  1) - This Is The Moody Blues - The Moody Blues
-136: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-137: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-138: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-139: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-140: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-141: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+119: (  1) * New Gold Dream (81-82-83-84) - Simple Minds
+120: (  1) - Northern Lights – Southern Cross - The Band
+121: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+122: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+123: (  1) - Scared To Get Happy - Blue Orchids
+124: (  1) - Scared To Get Happy - Everything But the Girl
+125: (  1) - Scared To Get Happy - Girls At Our Best!
+126: (  1) - Scared To Get Happy - Hurrah!
+127: (  1) - Scared To Get Happy - Jane
+128: (  1) - Scared To Get Happy - Marine Girls
+129: (  1) - Scared To Get Happy - The Monochrome Set
+130: (  1) - Scared To Get Happy - The Nightingales
+131: (  1) - Scared To Get Happy - Tv21
+132: (  1) - Scared To Get Happy - Weekend
+133: (  1) - Silence - Vild I Skogen - Bob Hund
+134: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+135: (  1) - Stumfilm - Bob Hund
+136: (  1) - This Is The Moody Blues - The Moody Blues
+137: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+138: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+139: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+140: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+141: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+142: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
