@@ -1,10 +1,7 @@
 Specified year (2025), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     108             7            10            76
-1: (34) - Simple Minds
-
-
-2: (31) - Roxy Music
+     173            11            15           125
+ 1: (47) - Simple Minds
 
 
 
@@ -15,7 +12,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-3: (20) - Pulp
+
+
+
+
+
+ 2: (31) - Roxy Music
 
 
 
@@ -23,16 +25,28 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-4: (12) - Chaparelle
+ 3: (23) - Hem
 
 
-5: ( 9) - Robert Forster
-
-
-
+ 4: (20) - Pulp
 
 
 
 
-6: ( 1) - Pulp, Chilly Gonzales
-7: ( 1) - The Cure
+ 5: (15) - Robert Forster
+
+
+ 6: (12) - Chaparelle
+ 7: (12) - Emma Swift
+
+
+
+
+ 8: ( 7) - B.E.F.
+
+
+ 9: ( 4) - Wet Leg
+
+
+10: ( 1) - Pulp, Chilly Gonzales
+11: ( 1) - The Cure
