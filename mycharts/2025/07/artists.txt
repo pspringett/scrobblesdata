@@ -1,6 +1,6 @@
 Specified year (2025), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     179            12            16           126
+     186            12            16           126
  1: (47) - Simple Minds
 
 
@@ -18,13 +18,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  2: (31) - Roxy Music
+ 3: (30) - Pulp
 
 
 
 
 
 
- 3: (24) - Pulp
  4: (23) - Hem
 
 
@@ -47,6 +47,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  9: ( 4) - Wet Leg
 
-10: ( 2) - Ricky Nelson, the Stone Canyon Band
-11: ( 1) - Pulp, Chilly Gonzales
+10: ( 2) - Pulp, Chilly Gonzales
+11: ( 2) - Ricky Nelson, the Stone Canyon Band
 12: ( 1) - The Cure
