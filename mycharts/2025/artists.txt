@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2111           112           132          1000
+    2115           116           132          1004
   1: (223) - Edwyn Collins
 
 
@@ -275,22 +275,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  91: (  1) - Jane
  92: (  1) - Jimi Hendrix
  93: (  1) - Joe Jackson
- 94: (  1) - Marine Girls
- 95: (  1) - Soft Cell
- 96: (  1) - Sonic Youth
- 97: (  1) - The Divine Comedy
- 98: (  1) - The Go-go's
- 99: (  1) - The Human League
-100: (  1) - The Monochrome Set
-101: (  1) - The Nightingales
-102: (  1) - The Police
-103: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-104: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-105: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-106: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-107: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-108: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-109: (  1) - Turnstile
-110: (  1) - Tv21
-111: (  1) - Wang Chung
-112: (  1) - When in Rome
+ 94: (  1) - Level 42
+ 95: (  1) - Marine Girls
+ 96: (  1) - Soft Cell
+ 97: (  1) - Sonic Youth
+ 98: (  1) - The Buggles
+ 99: (  1) - The Divine Comedy
+100: (  1) - The Go-go's
+101: (  1) - The Human League
+102: (  1) - The Monochrome Set
+103: (  1) - The Motels
+104: (  1) - The Nightingales
+105: (  1) - The Police
+106: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+107: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+108: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+109: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+110: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+111: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+112: (  1) - Trio
+113: (  1) - Turnstile
+114: (  1) - Tv21
+115: (  1) - Wang Chung
+116: (  1) - When in Rome
