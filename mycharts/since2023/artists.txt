@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    8842           238           380          2778
+    8857           246           381          2792
   1: (352) - Slowdive
 
 
@@ -188,9 +188,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  11: (166) - Paul Weller
-
- 12: (164) - Margo Price
- 13: (164) - Simple Minds
+ 12: (165) - Simple Minds
+ 13: (164) - Margo Price
 
 
 
@@ -209,8 +208,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  15: (146) - Echo & the Bunnymen
- 16: (146) - Roxy Music
- 17: (145) - Orchestral Manoeuvres in the Dark
+ 16: (146) - Orchestral Manoeuvres in the Dark
+ 17: (146) - Roxy Music
+
 
 
  18: (142) - English Teacher
@@ -308,8 +308,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  46: ( 53) - The Style Council
 
  47: ( 51) - British Birds
- 48: ( 50) - Horsegirl
- 49: ( 50) - R.E.M.
+ 48: ( 51) - R.E.M.
+ 49: ( 50) - Horsegirl
  50: ( 49) - A Certain Ratio
 
  51: ( 47) - Delays
@@ -364,19 +364,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  96: ( 22) - Inhaler
  97: ( 22) - Jana Horn
  98: ( 22) - Steve Mason
- 99: ( 21) - Cut Worms
-100: ( 21) - Drop Nineteens
-101: ( 21) - Emmylou Harris
-102: ( 21) - Rosanne Cash
-103: ( 21) - Shelby Lynne, Allison Moorer
-104: ( 20) - ABC
+ 99: ( 21) - ABC
+100: ( 21) - Cut Worms
+101: ( 21) - Drop Nineteens
+102: ( 21) - Emmylou Harris
+103: ( 21) - Rosanne Cash
+104: ( 21) - Shelby Lynne, Allison Moorer
 105: ( 20) - Elvis Costello & the Attractions
 106: ( 20) - The Go-Betweens
 107: ( 20) - The National
 108: ( 19) - Love
 109: ( 19) - New Order
-110: ( 18) - Duke Garwood
-111: ( 18) - UB40
+110: ( 19) - UB40
+111: ( 18) - Duke Garwood
 112: ( 17) - Bill Nelson
 113: ( 17) - Brix Smith
 114: ( 16) - Chip Taylor & Carrie Rodriguez
@@ -444,65 +444,73 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 174: (  2) - Rodney Crowell
 175: (  2) - Scritti Politti
 176: (  2) - Slade
-177: (  2) - T. Rex
-178: (  2) - The Ronettes
-179: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-180: (  2) - Waxahatchee, Mj Lenderman
-181: (  1) - Andy Williams
-182: (  1) - Badfinger
-183: (  1) - Best Christmas Songs
-184: (  1) - Blue Orchids
-185: (  1) - Bryan Ferry
-186: (  1) - Cara Dillon
-187: (  1) - Carole King
-188: (  1) - Charli Xcx
-189: (  1) - Duran Duran
-190: (  1) - Eddie Vedder & the Million Dollar Bashers
-191: (  1) - Eric Clapton
-192: (  1) - Eurythmics, Annie Lennox, Dave Stewart
-193: (  1) - George Harrison
-194: (  1) - Girls At Our Best!
-195: (  1) - Hurrah!
-196: (  1) - It'S Immaterial
-197: (  1) - James Taylor
-198: (  1) - Jane
-199: (  1) - Janis Joplin
-200: (  1) - Jimi Hendrix
-201: (  1) - Joni Mitchell
-202: (  1) - Jorja Smith
-203: (  1) - Mariah Carey
-204: (  1) - Marine Girls
-205: (  1) - Michael Bublé
-206: (  1) - Mott the Hoople
-207: (  1) - Mud
-208: (  1) - New York Dolls
-209: (  1) - Nick Lowe
-210: (  1) - Roy Budd
-211: (  1) - Soft Cell
-212: (  1) - Sonic Youth
-213: (  1) - Spandau Ballet
-214: (  1) - Sparks
-215: (  1) - Status Quo
-216: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-217: (  1) - Suzi Quatro
-218: (  1) - Sweet
-219: (  1) - Tears for Fears
-220: (  1) - The Divine Comedy
-221: (  1) - The Human League
-222: (  1) - The Monochrome Set
-223: (  1) - The Nightingales
-224: (  1) - The Pogues
-225: (  1) - The Temper Trap
-226: (  1) - The Temptations
-227: (  1) - The Vapors
-228: (  1) - Todd Rundgren
-229: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-230: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-231: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-232: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-233: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-234: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-235: (  1) - Turnstile
-236: (  1) - Tv21
-237: (  1) - Van Morrison
-238: (  1) - Yes
+177: (  2) - Soft Cell
+178: (  2) - T. Rex
+179: (  2) - The Human League
+180: (  2) - The Ronettes
+181: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+182: (  2) - Waxahatchee, Mj Lenderman
+183: (  1) - Andy Williams
+184: (  1) - Badfinger
+185: (  1) - Best Christmas Songs
+186: (  1) - Billy Idol
+187: (  1) - Blue Orchids
+188: (  1) - Bryan Ferry
+189: (  1) - Cara Dillon
+190: (  1) - Carole King
+191: (  1) - Charli Xcx
+192: (  1) - Culture Club
+193: (  1) - Dexys Midnight Runners
+194: (  1) - Duran Duran
+195: (  1) - Eddie Vedder & the Million Dollar Bashers
+196: (  1) - Eric Clapton
+197: (  1) - Eurythmics, Annie Lennox, Dave Stewart
+198: (  1) - George Harrison
+199: (  1) - Girls At Our Best!
+200: (  1) - Hurrah!
+201: (  1) - It'S Immaterial
+202: (  1) - James Taylor
+203: (  1) - Jane
+204: (  1) - Janis Joplin
+205: (  1) - Jimi Hendrix
+206: (  1) - Joe Jackson
+207: (  1) - Joni Mitchell
+208: (  1) - Jorja Smith
+209: (  1) - Mariah Carey
+210: (  1) - Marine Girls
+211: (  1) - Michael Bublé
+212: (  1) - Mott the Hoople
+213: (  1) - Mud
+214: (  1) - New York Dolls
+215: (  1) - Nick Lowe
+216: (  1) - Roy Budd
+217: (  1) - Sonic Youth
+218: (  1) - Spandau Ballet
+219: (  1) - Sparks
+220: (  1) - Status Quo
+221: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+222: (  1) - Suzi Quatro
+223: (  1) - Sweet
+224: (  1) - Tears for Fears
+225: (  1) - The Divine Comedy
+226: (  1) - The Go-go's
+227: (  1) - The Monochrome Set
+228: (  1) - The Nightingales
+229: (  1) - The Pogues
+230: (  1) - The Police
+231: (  1) - The Temper Trap
+232: (  1) - The Temptations
+233: (  1) - The Vapors
+234: (  1) - Todd Rundgren
+235: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+236: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+237: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+238: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+239: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+240: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+241: (  1) - Turnstile
+242: (  1) - Tv21
+243: (  1) - Van Morrison
+244: (  1) - Wang Chung
+245: (  1) - When in Rome
+246: (  1) - Yes
