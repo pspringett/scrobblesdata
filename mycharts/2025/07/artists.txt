@@ -1,6 +1,6 @@
 Specified year (2025), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     216            31            18           156
+     222            31            18           158
  1: (48) - Simple Minds
 
 
@@ -40,13 +40,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (12) - Chaparelle
  7: (12) - Emma Swift
  8: (11) - Sly & the Family Stone
+ 9: (10) - Wet Leg
+
+
+10: ( 7) - B.E.F.
 
 
 
- 9: ( 7) - B.E.F.
-
-
-10: ( 4) - Wet Leg
 
 11: ( 2) - Pulp, Chilly Gonzales
 12: ( 2) - Ricky Nelson, the Stone Canyon Band
