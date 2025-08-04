@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    8889           250           382          2805
+    8928           251           384          2819
   1: (352) - Slowdive
 
 
@@ -156,10 +156,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  8: (197) - Robert Forster
 
 
 
-  8: (194) - Robert Forster
 
 
 
@@ -220,18 +220,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
- 20: (134) - U2
- 21: (133) - My Bloody Valentine
- 22: (132) - The Bluebells
-
-
-
- 23: (128) - Cowboy Junkies
+ 20: (135) - The Burning Hell
+ 21: (134) - U2
+ 22: (133) - My Bloody Valentine
+ 23: (132) - The Bluebells
 
 
 
- 24: (124) - The Burning Hell
+ 24: (128) - Cowboy Junkies
+
+
+
+
 
 
 
@@ -304,17 +304,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  45: ( 55) - Aswad
+ 46: ( 55) - Pulp
 
- 46: ( 53) - The Style Council
+ 47: ( 53) - The Style Council
 
- 47: ( 51) - British Birds
- 48: ( 51) - R.E.M.
- 49: ( 50) - Horsegirl
- 50: ( 49) - A Certain Ratio
+ 48: ( 51) - British Birds
+ 49: ( 51) - R.E.M.
+ 50: ( 50) - Horsegirl
+ 51: ( 49) - A Certain Ratio
 
- 51: ( 47) - Delays
+ 52: ( 47) - Delays
 
- 52: ( 45) - Pulp
+
  53: ( 44) - Beach Fossils
  54: ( 44) - Wet Leg
  55: ( 44) - Wishy
@@ -344,27 +345,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  77: ( 30) - Yazoo
  78: ( 29) - Be Your Own Pet
  79: ( 29) - Devine & Statton
- 80: ( 29) - Scott Walker
- 81: ( 29) - The Corrs
- 82: ( 28) - The Last Dinner Party
- 83: ( 28) - The Smiths
- 84: ( 28) - The Zephyrs
+ 80: ( 29) - Emma Swift
+ 81: ( 29) - Scott Walker
+ 82: ( 29) - The Corrs
+ 83: ( 28) - The Last Dinner Party
+ 84: ( 28) - The Smiths
+ 85: ( 28) - The Zephyrs
 
- 85: ( 26) - Emma Swift
  86: ( 26) - Leonard Cohen
  87: ( 25) - Taylor Swift
- 88: ( 24) - Angie Palmer
- 89: ( 24) - Mint Mile
- 90: ( 24) - The B-52's
- 91: ( 24) - The Beach Boys
- 92: ( 23) - Julie
- 93: ( 23) - Martin Stephenson
- 94: ( 22) - Curtis Mayfield
- 95: ( 22) - Diiv
- 96: ( 22) - Inhaler
- 97: ( 22) - Jana Horn
- 98: ( 22) - Steve Mason
- 99: ( 21) - ABC
+ 88: ( 24) - ABC
+ 89: ( 24) - Angie Palmer
+ 90: ( 24) - Mint Mile
+ 91: ( 24) - The B-52's
+ 92: ( 24) - The Beach Boys
+ 93: ( 23) - Julie
+ 94: ( 23) - Martin Stephenson
+ 95: ( 22) - Curtis Mayfield
+ 96: ( 22) - Diiv
+ 97: ( 22) - Inhaler
+ 98: ( 22) - Jana Horn
+ 99: ( 22) - Steve Mason
 100: ( 21) - Cut Worms
 101: ( 21) - Drop Nineteens
 102: ( 21) - Emmylou Harris
@@ -421,100 +422,101 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 152: (  7) - The Sound
 
 153: (  5) - Folly Group
-154: (  5) - Tracey Thorn
-155: (  4) - Santana
-156: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-157: (  4) - The Waifs
-158: (  3) - Bob Dylan and the Band
-159: (  3) - Chris Rea
-160: (  3) - Elton John
-161: (  3) - Haircut 100
-162: (  3) - Kacey Musgraves
-163: (  3) - Pulp, Chilly Gonzales
-164: (  3) - Still House Plants
-165: (  3) - The Moody Blues
-166: (  3) - The Wailers
-167: (  3) - The Waterboys
-168: (  2) - Blue Bendy
-169: (  2) - Catherine Wheel
-170: (  2) - Emma Tricca
-171: (  2) - Fontaines D.c.
-172: (  2) - Queen
-173: (  2) - Ricky Nelson, the Stone Canyon Band
-174: (  2) - Rodney Crowell
-175: (  2) - Scritti Politti
-176: (  2) - Slade
-177: (  2) - Soft Cell
-178: (  2) - T. Rex
-179: (  2) - The Human League
-180: (  2) - The Ronettes
-181: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-182: (  2) - Waxahatchee, Mj Lenderman
-183: (  1) - Andy Williams
-184: (  1) - Badfinger
-185: (  1) - Best Christmas Songs
-186: (  1) - Billy Idol
-187: (  1) - Blue Orchids
-188: (  1) - Bryan Ferry
-189: (  1) - Cara Dillon
-190: (  1) - Carole King
-191: (  1) - Charli Xcx
-192: (  1) - Culture Club
-193: (  1) - Dexys Midnight Runners
-194: (  1) - Duran Duran
-195: (  1) - Eddie Vedder & the Million Dollar Bashers
-196: (  1) - Eric Clapton
-197: (  1) - Eurythmics, Annie Lennox, Dave Stewart
-198: (  1) - George Harrison
-199: (  1) - Girls At Our Best!
-200: (  1) - Hurrah!
-201: (  1) - It'S Immaterial
-202: (  1) - James Taylor
-203: (  1) - Jane
-204: (  1) - Janis Joplin
-205: (  1) - Jimi Hendrix
-206: (  1) - Joe Jackson
-207: (  1) - Joni Mitchell
-208: (  1) - Jorja Smith
-209: (  1) - Level 42
-210: (  1) - Mariah Carey
-211: (  1) - Marine Girls
-212: (  1) - Michael Bublé
-213: (  1) - Mott the Hoople
-214: (  1) - Mud
-215: (  1) - New York Dolls
-216: (  1) - Nick Lowe
-217: (  1) - Roy Budd
-218: (  1) - Sonic Youth
-219: (  1) - Spandau Ballet
-220: (  1) - Sparks
-221: (  1) - Status Quo
-222: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-223: (  1) - Suzi Quatro
-224: (  1) - Sweet
-225: (  1) - Tears for Fears
-226: (  1) - The Buggles
-227: (  1) - The Divine Comedy
-228: (  1) - The Go-go's
-229: (  1) - The Monochrome Set
-230: (  1) - The Motels
-231: (  1) - The Nightingales
-232: (  1) - The Pogues
-233: (  1) - The Police
-234: (  1) - The Temper Trap
-235: (  1) - The Temptations
-236: (  1) - The Vapors
-237: (  1) - Todd Rundgren
-238: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-239: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-240: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-241: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-242: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-243: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-244: (  1) - Trio
-245: (  1) - Turnstile
-246: (  1) - Tv21
-247: (  1) - Van Morrison
-248: (  1) - Wang Chung
-249: (  1) - When in Rome
-250: (  1) - Yes
+154: (  5) - The Human League
+155: (  5) - The Weather Station
+156: (  5) - Tracey Thorn
+157: (  4) - Pulp, Chilly Gonzales
+158: (  4) - Santana
+159: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+160: (  4) - The Waifs
+161: (  3) - Bob Dylan and the Band
+162: (  3) - Chris Rea
+163: (  3) - Elton John
+164: (  3) - Haircut 100
+165: (  3) - Kacey Musgraves
+166: (  3) - Still House Plants
+167: (  3) - The Moody Blues
+168: (  3) - The Wailers
+169: (  3) - The Waterboys
+170: (  2) - Blue Bendy
+171: (  2) - Catherine Wheel
+172: (  2) - Emma Tricca
+173: (  2) - Fontaines D.c.
+174: (  2) - Queen
+175: (  2) - Ricky Nelson, the Stone Canyon Band
+176: (  2) - Rodney Crowell
+177: (  2) - Scritti Politti
+178: (  2) - Slade
+179: (  2) - Soft Cell
+180: (  2) - T. Rex
+181: (  2) - The Ronettes
+182: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+183: (  2) - Waxahatchee, Mj Lenderman
+184: (  1) - Andy Williams
+185: (  1) - Badfinger
+186: (  1) - Best Christmas Songs
+187: (  1) - Billy Idol
+188: (  1) - Blue Orchids
+189: (  1) - Bryan Ferry
+190: (  1) - Cara Dillon
+191: (  1) - Carole King
+192: (  1) - Charli Xcx
+193: (  1) - Culture Club
+194: (  1) - Dexys Midnight Runners
+195: (  1) - Duran Duran
+196: (  1) - Eddie Vedder & the Million Dollar Bashers
+197: (  1) - Eric Clapton
+198: (  1) - Eurythmics, Annie Lennox, Dave Stewart
+199: (  1) - George Harrison
+200: (  1) - Girls At Our Best!
+201: (  1) - Hurrah!
+202: (  1) - It'S Immaterial
+203: (  1) - James Taylor
+204: (  1) - Jane
+205: (  1) - Janis Joplin
+206: (  1) - Jimi Hendrix
+207: (  1) - Joe Jackson
+208: (  1) - Joni Mitchell
+209: (  1) - Jorja Smith
+210: (  1) - Level 42
+211: (  1) - Mariah Carey
+212: (  1) - Marine Girls
+213: (  1) - Michael Bublé
+214: (  1) - Mott the Hoople
+215: (  1) - Mud
+216: (  1) - New York Dolls
+217: (  1) - Nick Lowe
+218: (  1) - Roy Budd
+219: (  1) - Sonic Youth
+220: (  1) - Spandau Ballet
+221: (  1) - Sparks
+222: (  1) - Status Quo
+223: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+224: (  1) - Suzi Quatro
+225: (  1) - Sweet
+226: (  1) - Tears for Fears
+227: (  1) - The Buggles
+228: (  1) - The Divine Comedy
+229: (  1) - The Go-go's
+230: (  1) - The Monochrome Set
+231: (  1) - The Motels
+232: (  1) - The Nightingales
+233: (  1) - The Pogues
+234: (  1) - The Police
+235: (  1) - The Temper Trap
+236: (  1) - The Temptations
+237: (  1) - The Vapors
+238: (  1) - Todd Rundgren
+239: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+240: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+241: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+242: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+243: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+244: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+245: (  1) - Trio
+246: (  1) - Turnstile
+247: (  1) - Tv21
+248: (  1) - Van Morrison
+249: (  1) - Wang Chung
+250: (  1) - When in Rome
+251: (  1) - Yes

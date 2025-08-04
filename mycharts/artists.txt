@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   73383          1283          1928         13047
+   73422          1283          1930         13060
    1: (2381) - Lloyd Cole
    2: (2113) - David Bowie
    3: (1969) - Bob Dylan
@@ -51,21 +51,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   48: ( 407) - Roddy Frame
   49: ( 392) - Rod Stewart
   50: ( 386) - Eliza Gilkyson
-  51: ( 380) - ABC
+  51: ( 383) - ABC
   52: ( 379) - Justin Townes Earle
   53: ( 371) - Aztec Camera
   54: ( 368) - Hayes Carll
   55: ( 368) - The Undertones
   56: ( 360) - The Fall
-  57: ( 354) - Slowdive
-  58: ( 353) - Robert Forster
+  57: ( 356) - Robert Forster
+  58: ( 354) - Slowdive
   59: ( 353) - The Waterboys
   60: ( 326) - Amanda Shires
   61: ( 312) - Heaven 17
   62: ( 310) - Gretchen Peters
   63: ( 310) - Margo Price
   64: ( 308) - Kate Bush
-  65: ( 300) - The Weather Station
+  65: ( 305) - The Weather Station
   66: ( 289) - Angie Palmer
   67: ( 279) - The Corrs
   68: ( 277) - The Smiths
@@ -100,22 +100,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   97: ( 175) - Eyeless in Gaza
   98: ( 175) - Mary Chapin Carpenter
   99: ( 174) - Blondie
- 100: ( 171) - Chip Taylor & Carrie Rodriguez
- 101: ( 171) - JT and the Clouds
- 102: ( 171) - Joni Mitchell
- 103: ( 170) - Emma Swift
+ 100: ( 173) - Emma Swift
+ 101: ( 171) - Chip Taylor & Carrie Rodriguez
+ 102: ( 171) - JT and the Clouds
+ 103: ( 171) - Joni Mitchell
  104: ( 161) - Paul McCartney
  105: ( 159) - Brigid Mae Power
  106: ( 156) - Amy LaVere
  107: ( 156) - Being Dead
- 108: ( 147) - JT Nero
- 109: ( 147) - Lizanne Knott
- 110: ( 146) - Bob Marley & the Wailers
- 111: ( 146) - Jason Isbell and the 400 Unit
- 112: ( 146) - The Pale Fountains
- 113: ( 145) - Freakwater
- 114: ( 143) - Joy Division
- 115: ( 143) - The Burning Hell
+ 108: ( 154) - The Burning Hell
+ 109: ( 147) - JT Nero
+ 110: ( 147) - Lizanne Knott
+ 111: ( 146) - Bob Marley & the Wailers
+ 112: ( 146) - Jason Isbell and the 400 Unit
+ 113: ( 146) - The Pale Fountains
+ 114: ( 145) - Freakwater
+ 115: ( 143) - Joy Division
  116: ( 143) - The Sundays
  117: ( 142) - English Teacher
  118: ( 141) - Julia Holter
@@ -178,15 +178,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  175: (  86) - Led Zeppelin
  176: (  86) - Lou Reed
  177: (  86) - Peter Hammill
- 178: (  84) - Chaparelle
- 179: (  84) - Sara Watkins
- 180: (  84) - The Clash
- 181: (  83) - Gardens
- 182: (  83) - Laura Cantrell
- 183: (  83) - Mercury Rev
- 184: (  82) - Jean Toussaint
- 185: (  82) - The B-52's
- 186: (  82) - The Human League
+ 178: (  85) - The Human League
+ 179: (  84) - Chaparelle
+ 180: (  84) - Sara Watkins
+ 181: (  84) - The Clash
+ 182: (  83) - Gardens
+ 183: (  83) - Laura Cantrell
+ 184: (  83) - Mercury Rev
+ 185: (  82) - Jean Toussaint
+ 186: (  82) - The B-52's
  187: (  80) - Focus
  188: (  80) - Marc Bolan
  189: (  80) - Nick Cave & the Bad Seeds
@@ -251,27 +251,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  248: (  57) - John Cooper Clarke
  249: (  57) - The Big Moon
  250: (  55) - Mark Knopfler
- 251: (  55) - School of Seven Bells
- 252: (  55) - Siouxsie and the Banshees
- 253: (  55) - The Comsat Angels
- 254: (  54) - Lissie
- 255: (  53) - Martha Wainwright
- 256: (  53) - The Police
- 257: (  52) - Bill Frisell
- 258: (  52) - Jan Garbarek
- 259: (  52) - The French Impressionists
- 260: (  51) - British Birds
- 261: (  51) - Bruce Springsteen
- 262: (  51) - Doves
- 263: (  50) - Horsegirl
- 264: (  50) - The Piney Gir Country Roadshow
- 265: (  49) - Bonnie Whitmore
- 266: (  48) - Artery
- 267: (  48) - Brian Eno
- 268: (  48) - Tracyanne & Danny
- 269: (  47) - Delays
- 270: (  45) - Michael Head & the Red Elastic Band
- 271: (  45) - Pulp
+ 251: (  55) - Pulp
+ 252: (  55) - School of Seven Bells
+ 253: (  55) - Siouxsie and the Banshees
+ 254: (  55) - The Comsat Angels
+ 255: (  54) - Lissie
+ 256: (  53) - Martha Wainwright
+ 257: (  53) - The Police
+ 258: (  52) - Bill Frisell
+ 259: (  52) - Jan Garbarek
+ 260: (  52) - The French Impressionists
+ 261: (  51) - British Birds
+ 262: (  51) - Bruce Springsteen
+ 263: (  51) - Doves
+ 264: (  50) - Horsegirl
+ 265: (  50) - The Piney Gir Country Roadshow
+ 266: (  49) - Bonnie Whitmore
+ 267: (  48) - Artery
+ 268: (  48) - Brian Eno
+ 269: (  48) - Tracyanne & Danny
+ 270: (  47) - Delays
+ 271: (  45) - Michael Head & the Red Elastic Band
  272: (  44) - Beach Fossils
  273: (  44) - Wishy
  274: (  42) - Cigarettes After Sex
@@ -624,98 +624,98 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  621: (   4) - Pere Ubu
  622: (   4) - Philscreen
  623: (   4) - Pixies
- 624: (   4) - Reggae Rockers
- 625: (   4) - Richard Thompson
- 626: (   4) - Robert Wyatt
- 627: (   4) - Sam Samudio
- 628: (   4) - Santana
- 629: (   4) - Shirley Horn
- 630: (   4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
- 631: (   4) - Soft Machine
- 632: (   4) - Sonny & Cher
- 633: (   4) - Stephenson'S Rocketts
- 634: (   4) - Sting
- 635: (   4) - Sufjan Stevens
- 636: (   4) - Suzi Quatro
- 637: (   4) - The Beat
- 638: (   4) - The Chocolate Watch Band
- 639: (   4) - The Magnetic Fields
- 640: (   4) - The Other Years
- 641: (   4) - The Panhandle Mystery Band
- 642: (   4) - The Pretenders
- 643: (   4) - The Raincoats
- 644: (   4) - The Seeds
- 645: (   4) - The Waifs
- 646: (   4) - Tom Robinson Band
- 647: (   4) - Tomorrow
- 648: (   4) - Tracy Bryant
- 649: (   4) - Traffic
- 650: (   4) - Virgin Prunes
- 651: (   4) - Wah! Heat
- 652: (   4) - Wire
- 653: (   3) - Alex De Grassi
- 654: (   3) - Andy Bell
- 655: (   3) - Bbc Radio 3
- 656: (   3) - Bob & Marcia
- 657: (   3) - Bob Dylan and the Band
- 658: (   3) - Carrie Rodriguez and Ben Kyle
- 659: (   3) - Carrie Underwood
- 660: (   3) - Cesár Sampson
- 661: (   3) - Chaka Khan
- 662: (   3) - China Crisis
- 663: (   3) - Christy Moore
- 664: (   3) - Colin Farrell & Jeff Bridges
- 665: (   3) - Connan Mockasin
- 666: (   3) - Country Joe & the Fish
- 667: (   3) - Creep Show
- 668: (   3) - Dave Barker
- 669: (   3) - Dave Brock
- 670: (   3) - David Essex
- 671: (   3) - Dawn Penn
- 672: (   3) - Dirty Projectors
- 673: (   3) - Dr. Feelgood
- 674: (   3) - Earl Scruggs
- 675: (   3) - Elvis Costello & the Imposters
- 676: (   3) - Equinox
- 677: (   3) - Eric Burdon & the Animals
- 678: (   3) - Faces
- 679: (   3) - Frankie Goes to Hollywood
- 680: (   3) - Gary Numan
- 681: (   3) - Gazelle Twin
- 682: (   3) - George Strait
- 683: (   3) - Gina Villalobos
- 684: (   3) - Gruff Rhys
- 685: (   3) - Gwenifer Raymond
- 686: (   3) - Haley Heynderickx
- 687: (   3) - Hüsker Dü
- 688: (   3) - Jann Arden
- 689: (   3) - Jim James
- 690: (   3) - Jimmy Cliff
- 691: (   3) - Joe Strummer
- 692: (   3) - John Coltrane & Johnny Hartman
- 693: (   3) - Jona Lewie
- 694: (   3) - Juana Molina
- 695: (   3) - Justin Hinds & the Dominoes
- 696: (   3) - Keith West
- 697: (   3) - Ken Boothe
- 698: (   3) - Kurt Elling
- 699: (   3) - Manfred Mann
- 700: (   3) - Marc Almond
- 701: (   3) - Marissa Nadler
- 702: (   3) - Martin L. Gore
- 703: (   3) - Mudhoney
- 704: (   3) - Mélissa Laveaux
- 705: (   3) - Nathan Salsburg
- 706: (   3) - Oliver Coates
- 707: (   3) - Omd
- 708: (   3) - Owen Gray
- 709: (   3) - Philip Glass
- 710: (   3) - Phillip Samuels
- 711: (   3) - Pink Floyd
- 712: (   3) - Plastic Bertrand
- 713: (   3) - Prince
- 714: (   3) - Procol Harum
- 715: (   3) - Pulp, Chilly Gonzales
+ 624: (   4) - Pulp, Chilly Gonzales
+ 625: (   4) - Reggae Rockers
+ 626: (   4) - Richard Thompson
+ 627: (   4) - Robert Wyatt
+ 628: (   4) - Sam Samudio
+ 629: (   4) - Santana
+ 630: (   4) - Shirley Horn
+ 631: (   4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+ 632: (   4) - Soft Machine
+ 633: (   4) - Sonny & Cher
+ 634: (   4) - Stephenson'S Rocketts
+ 635: (   4) - Sting
+ 636: (   4) - Sufjan Stevens
+ 637: (   4) - Suzi Quatro
+ 638: (   4) - The Beat
+ 639: (   4) - The Chocolate Watch Band
+ 640: (   4) - The Magnetic Fields
+ 641: (   4) - The Other Years
+ 642: (   4) - The Panhandle Mystery Band
+ 643: (   4) - The Pretenders
+ 644: (   4) - The Raincoats
+ 645: (   4) - The Seeds
+ 646: (   4) - The Waifs
+ 647: (   4) - Tom Robinson Band
+ 648: (   4) - Tomorrow
+ 649: (   4) - Tracy Bryant
+ 650: (   4) - Traffic
+ 651: (   4) - Virgin Prunes
+ 652: (   4) - Wah! Heat
+ 653: (   4) - Wire
+ 654: (   3) - Alex De Grassi
+ 655: (   3) - Andy Bell
+ 656: (   3) - Bbc Radio 3
+ 657: (   3) - Bob & Marcia
+ 658: (   3) - Bob Dylan and the Band
+ 659: (   3) - Carrie Rodriguez and Ben Kyle
+ 660: (   3) - Carrie Underwood
+ 661: (   3) - Cesár Sampson
+ 662: (   3) - Chaka Khan
+ 663: (   3) - China Crisis
+ 664: (   3) - Christy Moore
+ 665: (   3) - Colin Farrell & Jeff Bridges
+ 666: (   3) - Connan Mockasin
+ 667: (   3) - Country Joe & the Fish
+ 668: (   3) - Creep Show
+ 669: (   3) - Dave Barker
+ 670: (   3) - Dave Brock
+ 671: (   3) - David Essex
+ 672: (   3) - Dawn Penn
+ 673: (   3) - Dirty Projectors
+ 674: (   3) - Dr. Feelgood
+ 675: (   3) - Earl Scruggs
+ 676: (   3) - Elvis Costello & the Imposters
+ 677: (   3) - Equinox
+ 678: (   3) - Eric Burdon & the Animals
+ 679: (   3) - Faces
+ 680: (   3) - Frankie Goes to Hollywood
+ 681: (   3) - Gary Numan
+ 682: (   3) - Gazelle Twin
+ 683: (   3) - George Strait
+ 684: (   3) - Gina Villalobos
+ 685: (   3) - Gruff Rhys
+ 686: (   3) - Gwenifer Raymond
+ 687: (   3) - Haley Heynderickx
+ 688: (   3) - Hüsker Dü
+ 689: (   3) - Jann Arden
+ 690: (   3) - Jim James
+ 691: (   3) - Jimmy Cliff
+ 692: (   3) - Joe Strummer
+ 693: (   3) - John Coltrane & Johnny Hartman
+ 694: (   3) - Jona Lewie
+ 695: (   3) - Juana Molina
+ 696: (   3) - Justin Hinds & the Dominoes
+ 697: (   3) - Keith West
+ 698: (   3) - Ken Boothe
+ 699: (   3) - Kurt Elling
+ 700: (   3) - Manfred Mann
+ 701: (   3) - Marc Almond
+ 702: (   3) - Marissa Nadler
+ 703: (   3) - Martin L. Gore
+ 704: (   3) - Mudhoney
+ 705: (   3) - Mélissa Laveaux
+ 706: (   3) - Nathan Salsburg
+ 707: (   3) - Oliver Coates
+ 708: (   3) - Omd
+ 709: (   3) - Owen Gray
+ 710: (   3) - Philip Glass
+ 711: (   3) - Phillip Samuels
+ 712: (   3) - Pink Floyd
+ 713: (   3) - Plastic Bertrand
+ 714: (   3) - Prince
+ 715: (   3) - Procol Harum
  716: (   3) - Rasmussen
  717: (   3) - Real Estate
  718: (   3) - Rvg

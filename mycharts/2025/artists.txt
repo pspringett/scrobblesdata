@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2143           116           133          1013
+    2182           117           136          1031
   1: (223) - Edwyn Collins
 
 
@@ -166,22 +166,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   8: ( 59) - Bob Dylan
+  9: ( 58) - Robert Forster
+
+
+ 10: ( 55) - Aswad
+ 11: ( 55) - Pulp
 
 
 
-  9: ( 55) - Aswad
- 10: ( 55) - Robert Forster
+ 12: ( 51) - British Birds
+ 13: ( 51) - R.E.M.
+ 14: ( 50) - Horsegirl
 
+ 15: ( 48) - Simple Minds
+ 16: ( 47) - Delays
+ 17: ( 46) - Being Dead
 
-
- 11: ( 51) - British Birds
- 12: ( 51) - R.E.M.
- 13: ( 50) - Horsegirl
-
- 14: ( 48) - Simple Minds
- 15: ( 47) - Delays
- 16: ( 46) - Being Dead
- 17: ( 45) - Pulp
 
 
 
@@ -200,25 +200,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  25: ( 32) - Wet Leg
 
  26: ( 30) - Laura Marling
+ 27: ( 29) - Emma Swift
 
 
+ 28: ( 26) - The Burning Hell
+ 29: ( 25) - Rod Stewart
+ 30: ( 24) - The Beach Boys
+ 31: ( 24) - The Cure
+ 32: ( 23) - Hem
 
- 27: ( 26) - Emma Swift
- 28: ( 25) - Rod Stewart
- 29: ( 24) - The Beach Boys
- 30: ( 24) - The Cure
- 31: ( 23) - Hem
+ 33: ( 21) - Scott Walker
 
- 32: ( 21) - Scott Walker
+ 34: ( 19) - UB40
 
- 33: ( 19) - UB40
+ 35: ( 17) - Elvis Costello & the Attractions
+ 36: ( 17) - Orchestral Manoeuvres in the Dark
+ 37: ( 16) - Chip Taylor & Carrie Rodriguez
+ 38: ( 16) - St. Vincent
+ 39: ( 16) - Suzanne Vega
 
- 34: ( 17) - Elvis Costello & the Attractions
- 35: ( 17) - Orchestral Manoeuvres in the Dark
- 36: ( 16) - Chip Taylor & Carrie Rodriguez
- 37: ( 16) - St. Vincent
- 38: ( 16) - Suzanne Vega
- 39: ( 15) - The Burning Hell
  40: ( 14) - Everything But the Girl
  41: ( 13) - Bob Marley & the Wailers
  42: ( 13) - case/lang/veirs
@@ -247,53 +247,54 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  64: (  7) - Martin Stephenson and the Daintees
  65: (  7) - The Bluebells
  66: (  6) - Newdad
- 67: (  5) - Tracey Thorn
- 68: (  4) - Emmylou Harris
- 69: (  4) - Santana
- 70: (  4) - The Waifs
- 71: (  4) - Weekend
- 72: (  3) - Bob Dylan and the Band
- 73: (  3) - Mercury Rev
- 74: (  3) - Pulp, Chilly Gonzales
- 75: (  3) - The Moody Blues
- 76: (  2) - Ricky Nelson, the Stone Canyon Band
- 77: (  2) - Rodney Crowell
- 78: (  2) - The Linda Lindas
- 79: (  2) - The Rolling Stones
- 80: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 81: (  2) - Waxahatchee, Mj Lenderman
- 82: (  1) - ABC
- 83: (  1) - Billy Idol
- 84: (  1) - Blue Orchids
- 85: (  1) - Bryan Ferry
- 86: (  1) - Culture Club
- 87: (  1) - Dexys Midnight Runners
- 88: (  1) - Eddie Vedder & the Million Dollar Bashers
- 89: (  1) - Girls At Our Best!
- 90: (  1) - Hurrah!
- 91: (  1) - Jane
- 92: (  1) - Jimi Hendrix
- 93: (  1) - Joe Jackson
- 94: (  1) - Level 42
- 95: (  1) - Marine Girls
- 96: (  1) - Soft Cell
- 97: (  1) - Sonic Youth
- 98: (  1) - The Buggles
- 99: (  1) - The Divine Comedy
-100: (  1) - The Go-go's
-101: (  1) - The Human League
-102: (  1) - The Monochrome Set
-103: (  1) - The Motels
-104: (  1) - The Nightingales
-105: (  1) - The Police
-106: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-107: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-108: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-109: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-110: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-111: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-112: (  1) - Trio
-113: (  1) - Turnstile
-114: (  1) - Tv21
-115: (  1) - Wang Chung
-116: (  1) - When in Rome
+ 67: (  5) - The Weather Station
+ 68: (  5) - Tracey Thorn
+ 69: (  4) - ABC
+ 70: (  4) - Emmylou Harris
+ 71: (  4) - Pulp, Chilly Gonzales
+ 72: (  4) - Santana
+ 73: (  4) - The Human League
+ 74: (  4) - The Waifs
+ 75: (  4) - Weekend
+ 76: (  3) - Bob Dylan and the Band
+ 77: (  3) - Mercury Rev
+ 78: (  3) - The Moody Blues
+ 79: (  2) - Ricky Nelson, the Stone Canyon Band
+ 80: (  2) - Rodney Crowell
+ 81: (  2) - The Linda Lindas
+ 82: (  2) - The Rolling Stones
+ 83: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 84: (  2) - Waxahatchee, Mj Lenderman
+ 85: (  1) - Billy Idol
+ 86: (  1) - Blue Orchids
+ 87: (  1) - Bryan Ferry
+ 88: (  1) - Culture Club
+ 89: (  1) - Dexys Midnight Runners
+ 90: (  1) - Eddie Vedder & the Million Dollar Bashers
+ 91: (  1) - Girls At Our Best!
+ 92: (  1) - Hurrah!
+ 93: (  1) - Jane
+ 94: (  1) - Jimi Hendrix
+ 95: (  1) - Joe Jackson
+ 96: (  1) - Level 42
+ 97: (  1) - Marine Girls
+ 98: (  1) - Soft Cell
+ 99: (  1) - Sonic Youth
+100: (  1) - The Buggles
+101: (  1) - The Divine Comedy
+102: (  1) - The Go-go's
+103: (  1) - The Monochrome Set
+104: (  1) - The Motels
+105: (  1) - The Nightingales
+106: (  1) - The Police
+107: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+108: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+109: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+110: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+111: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+112: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+113: (  1) - Trio
+114: (  1) - Turnstile
+115: (  1) - Tv21
+116: (  1) - Wang Chung
+117: (  1) - When in Rome
