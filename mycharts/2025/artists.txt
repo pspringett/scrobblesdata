@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2292           119           138          1055
+    2302           120           139          1063
   1: (223) - Edwyn Collins
 
 
@@ -137,9 +137,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   3: ( 88) - Josh Ritter
+  4: ( 87) - Roxy Music
 
 
-  4: ( 85) - Roxy Music
   5: ( 84) - Chaparelle
   6: ( 83) - Gardens
 
@@ -237,65 +237,66 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  55: (  9) - Echo & the Bunnymen
  56: (  9) - English Teacher
  57: (  9) - Tom Tom Club
- 58: (  8) - Aurora
- 59: (  8) - B.E.F.
- 60: (  8) - Joy Division
- 61: (  8) - Talking Heads
- 62: (  8) - The Band
- 63: (  7) - JT Nero
- 64: (  7) - Joan Osborne
- 65: (  7) - Leonard Cohen
- 66: (  7) - Mandrake Handshake
- 67: (  7) - Martin Stephenson and the Daintees
- 68: (  7) - The Bluebells
- 69: (  6) - Newdad
- 70: (  5) - Tracey Thorn
- 71: (  4) - ABC
- 72: (  4) - Emmylou Harris
- 73: (  4) - Santana
- 74: (  4) - The Human League
- 75: (  4) - The Waifs
- 76: (  4) - Weekend
- 77: (  3) - Bob Dylan and the Band
- 78: (  3) - Mercury Rev
- 79: (  3) - Pulp, Chilly Gonzales
- 80: (  3) - The Moody Blues
- 81: (  2) - Ricky Nelson, the Stone Canyon Band
- 82: (  2) - Rodney Crowell
- 83: (  2) - The Linda Lindas
- 84: (  2) - The Rolling Stones
- 85: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 86: (  2) - Waxahatchee, Mj Lenderman
- 87: (  1) - Billy Idol
- 88: (  1) - Blue Orchids
- 89: (  1) - Bryan Ferry
- 90: (  1) - Culture Club
- 91: (  1) - Dexys Midnight Runners
- 92: (  1) - Eddie Vedder & the Million Dollar Bashers
- 93: (  1) - Girls At Our Best!
- 94: (  1) - Hurrah!
- 95: (  1) - Jane
- 96: (  1) - Jimi Hendrix
- 97: (  1) - Joe Jackson
- 98: (  1) - Level 42
- 99: (  1) - Marine Girls
-100: (  1) - Soft Cell
-101: (  1) - Sonic Youth
-102: (  1) - The Buggles
-103: (  1) - The Divine Comedy
-104: (  1) - The Go-go's
-105: (  1) - The Monochrome Set
-106: (  1) - The Motels
-107: (  1) - The Nightingales
-108: (  1) - The Police
-109: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-110: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-111: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-112: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-113: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-114: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-115: (  1) - Trio
-116: (  1) - Turnstile
-117: (  1) - Tv21
-118: (  1) - Wang Chung
-119: (  1) - When in Rome
+ 58: (  8) - Altered Images
+ 59: (  8) - Aurora
+ 60: (  8) - B.E.F.
+ 61: (  8) - Joy Division
+ 62: (  8) - Talking Heads
+ 63: (  8) - The Band
+ 64: (  7) - JT Nero
+ 65: (  7) - Joan Osborne
+ 66: (  7) - Leonard Cohen
+ 67: (  7) - Mandrake Handshake
+ 68: (  7) - Martin Stephenson and the Daintees
+ 69: (  7) - The Bluebells
+ 70: (  6) - Newdad
+ 71: (  5) - Tracey Thorn
+ 72: (  4) - ABC
+ 73: (  4) - Emmylou Harris
+ 74: (  4) - Santana
+ 75: (  4) - The Human League
+ 76: (  4) - The Waifs
+ 77: (  4) - Weekend
+ 78: (  3) - Bob Dylan and the Band
+ 79: (  3) - Mercury Rev
+ 80: (  3) - Pulp, Chilly Gonzales
+ 81: (  3) - The Moody Blues
+ 82: (  2) - Ricky Nelson, the Stone Canyon Band
+ 83: (  2) - Rodney Crowell
+ 84: (  2) - The Linda Lindas
+ 85: (  2) - The Rolling Stones
+ 86: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 87: (  2) - Waxahatchee, Mj Lenderman
+ 88: (  1) - Billy Idol
+ 89: (  1) - Blue Orchids
+ 90: (  1) - Bryan Ferry
+ 91: (  1) - Culture Club
+ 92: (  1) - Dexys Midnight Runners
+ 93: (  1) - Eddie Vedder & the Million Dollar Bashers
+ 94: (  1) - Girls At Our Best!
+ 95: (  1) - Hurrah!
+ 96: (  1) - Jane
+ 97: (  1) - Jimi Hendrix
+ 98: (  1) - Joe Jackson
+ 99: (  1) - Level 42
+100: (  1) - Marine Girls
+101: (  1) - Soft Cell
+102: (  1) - Sonic Youth
+103: (  1) - The Buggles
+104: (  1) - The Divine Comedy
+105: (  1) - The Go-go's
+106: (  1) - The Monochrome Set
+107: (  1) - The Motels
+108: (  1) - The Nightingales
+109: (  1) - The Police
+110: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+111: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+112: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+113: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+114: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+115: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+116: (  1) - Trio
+117: (  1) - Turnstile
+118: (  1) - Tv21
+119: (  1) - Wang Chung
+120: (  1) - When in Rome
