@@ -1,6 +1,6 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      84            10             9            61
+      92            10             9            68
  1: (22) - The Burning Hell
  2: (22) - The Weather Station
 
@@ -14,13 +14,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  3: (11) - Patty Griffin
- 4: (10) - Pulp
+ 4: (11) - Pulp
+ 5: (11) - Simple Minds
 
 
- 5: ( 7) - JT Nero
+
+ 6: ( 7) - JT Nero
 
 
- 6: ( 4) - Simple Minds
+
  7: ( 3) - Emma Swift
  8: ( 3) - Robert Forster
 
