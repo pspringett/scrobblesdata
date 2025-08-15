@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2259           119           138          1055
+    2274           119           138          1055
   1: (223) - Edwyn Collins
 
 
@@ -146,8 +146,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  6: ( 77) - Pulp
+  6: ( 78) - Pulp
   7: ( 77) - Roxy Music
 
 
@@ -164,20 +163,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  9: ( 61) - Horsegirl
+
+ 10: ( 59) - Bob Dylan
+ 11: ( 59) - Simple Minds
+ 12: ( 58) - Robert Forster
 
 
-  9: ( 59) - Bob Dylan
- 10: ( 59) - Simple Minds
- 11: ( 58) - Robert Forster
-
-
- 12: ( 55) - Aswad
+ 13: ( 55) - Aswad
 
 
 
- 13: ( 51) - British Birds
- 14: ( 51) - R.E.M.
- 15: ( 50) - Horsegirl
+ 14: ( 51) - British Birds
+ 15: ( 51) - R.E.M.
+
 
 
  16: ( 47) - Delays
@@ -217,10 +216,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  36: ( 17) - Elvis Costello & the Attractions
  37: ( 17) - Orchestral Manoeuvres in the Dark
  38: ( 16) - Chip Taylor & Carrie Rodriguez
- 39: ( 16) - St. Vincent
- 40: ( 16) - Suzanne Vega
+ 39: ( 16) - Everything But the Girl
+ 40: ( 16) - St. Vincent
+ 41: ( 16) - Suzanne Vega
 
- 41: ( 14) - Everything But the Girl
+
  42: ( 13) - Bob Marley & the Wailers
  43: ( 13) - case/lang/veirs
 
@@ -259,8 +259,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  76: (  4) - Weekend
  77: (  3) - Bob Dylan and the Band
  78: (  3) - Mercury Rev
- 79: (  3) - The Moody Blues
- 80: (  2) - Pulp, Chilly Gonzales
+ 79: (  3) - Pulp, Chilly Gonzales
+ 80: (  3) - The Moody Blues
  81: (  2) - Ricky Nelson, the Stone Canyon Band
  82: (  2) - Rodney Crowell
  83: (  2) - The Linda Lindas
