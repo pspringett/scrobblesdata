@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2274           119           138          1055
+    2292           119           138          1055
   1: (223) - Edwyn Collins
 
 
@@ -139,15 +139,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   3: ( 88) - Josh Ritter
 
 
-
-  4: ( 84) - Chaparelle
-  5: ( 83) - Gardens
-
-
+  4: ( 85) - Roxy Music
+  5: ( 84) - Chaparelle
+  6: ( 83) - Gardens
 
 
-  6: ( 78) - Pulp
-  7: ( 77) - Roxy Music
+
+
+  7: ( 78) - Pulp
+
 
 
 
@@ -203,20 +203,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  28: ( 29) - Emma Swift
 
 
+ 29: ( 26) - Everything But the Girl
+ 30: ( 25) - Rod Stewart
+ 31: ( 24) - The Beach Boys
+ 32: ( 24) - The Cure
+ 33: ( 23) - Hem
+ 34: ( 22) - The Weather Station
+ 35: ( 21) - Scott Walker
 
- 29: ( 25) - Rod Stewart
- 30: ( 24) - The Beach Boys
- 31: ( 24) - The Cure
- 32: ( 23) - Hem
- 33: ( 22) - The Weather Station
- 34: ( 21) - Scott Walker
+ 36: ( 19) - UB40
 
- 35: ( 19) - UB40
-
- 36: ( 17) - Elvis Costello & the Attractions
- 37: ( 17) - Orchestral Manoeuvres in the Dark
- 38: ( 16) - Chip Taylor & Carrie Rodriguez
- 39: ( 16) - Everything But the Girl
+ 37: ( 17) - Elvis Costello & the Attractions
+ 38: ( 17) - Orchestral Manoeuvres in the Dark
+ 39: ( 16) - Chip Taylor & Carrie Rodriguez
  40: ( 16) - St. Vincent
  41: ( 16) - Suzanne Vega
 

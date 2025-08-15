@@ -1,6 +1,6 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     115            12            11            81
+     133            13            12            99
  1: (22) - The Burning Hell
  2: (22) - The Weather Station
 
@@ -12,19 +12,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
- 4: (11) - Horsegirl
- 5: (11) - Patty Griffin
- 6: (11) - Simple Minds
-
-
-
- 7: ( 7) - JT Nero
+ 4: (12) - Everything But the Girl
+ 5: (11) - Horsegirl
+ 6: (11) - Patty Griffin
+ 7: (11) - Simple Minds
 
 
+ 8: ( 8) - Roxy Music
+ 9: ( 7) - JT Nero
 
- 8: ( 3) - Emma Swift
- 9: ( 3) - Robert Forster
-10: ( 2) - Everything But the Girl
-11: ( 2) - Pulp, Chilly Gonzales
-12: ( 1) - ABC
+
+
+10: ( 3) - Emma Swift
+11: ( 3) - Robert Forster
+12: ( 2) - Pulp, Chilly Gonzales
+13: ( 1) - ABC
