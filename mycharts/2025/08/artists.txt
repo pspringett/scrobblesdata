@@ -1,6 +1,6 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     143            14            13           109
+     144            15            14           110
  1: (22) - The Burning Hell
  2: (22) - The Weather Station
 
@@ -27,3 +27,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 12: ( 3) - Robert Forster
 13: ( 2) - Pulp, Chilly Gonzales
 14: ( 1) - ABC
+15: ( 1) - Bob Dylan
