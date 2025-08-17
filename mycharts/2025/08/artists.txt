@@ -1,13 +1,14 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     182            18            17           142
- 1: (22) - The Burning Hell
- 2: (22) - The Weather Station
+     191            19            18           151
+ 1: (22) - Simple Minds
+ 2: (22) - The Burning Hell
+ 3: (22) - The Weather Station
 
- 3: (20) - Pulp
+ 4: (20) - Pulp
 
 
- 4: (17) - Simple Minds
+
 
 
 
@@ -24,9 +25,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 7) - JT Nero
 
 
-
-14: ( 3) - Emma Swift
-15: ( 3) - Robert Forster
-16: ( 2) - Pulp, Chilly Gonzales
-17: ( 1) - ABC
-18: ( 1) - Simple Minds, Kt Tunstall
+14: ( 4) - U2
+15: ( 3) - Emma Swift
+16: ( 3) - Robert Forster
+17: ( 2) - Pulp, Chilly Gonzales
+18: ( 1) - ABC
+19: ( 1) - Simple Minds, Kt Tunstall
