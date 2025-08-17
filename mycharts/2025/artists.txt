@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2303           120           140          1064
+    2304           120           140          1064
   1: (223) - Edwyn Collins
 
 
@@ -221,11 +221,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  42: ( 13) - Bob Marley & the Wailers
  43: ( 13) - case/lang/veirs
-
- 44: ( 11) - Bob Hund
- 45: ( 11) - Guillemots
- 46: ( 11) - Hayes Carll
- 47: ( 11) - Patty Griffin
+ 44: ( 12) - Patty Griffin
+ 45: ( 11) - Bob Hund
+ 46: ( 11) - Guillemots
+ 47: ( 11) - Hayes Carll
  48: ( 11) - Sly & the Family Stone
  49: ( 11) - The Go-Betweens
  50: ( 11) - Tift Merritt
