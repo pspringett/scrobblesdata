@@ -1,6 +1,6 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     220            22            22           174
+     230            22            22           180
  1: (22) - Bob Dylan
  2: (22) - Simple Minds
  3: (22) - The Burning Hell
@@ -11,19 +11,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 6: (15) - Wet Leg
+
+ 7: (13) - Patty Griffin
+ 8: (12) - Everything But the Girl
+ 9: (11) - Horsegirl
+10: (11) - The Velvet Underground
+11: (10) - David Bowie
+12: (10) - Roxy Music
+13: ( 9) - Robert Forster
+14: ( 8) - Altered Images
+15: ( 7) - JT Nero
 
 
- 6: (13) - Patty Griffin
- 7: (12) - Everything But the Girl
- 8: (11) - Horsegirl
- 9: (11) - The Velvet Underground
-10: (10) - David Bowie
-11: (10) - Roxy Music
-12: ( 9) - Robert Forster
-13: ( 8) - Altered Images
-14: ( 7) - JT Nero
-
-15: ( 5) - Wet Leg
 16: ( 4) - U2
 17: ( 3) - Andy Golledge
 18: ( 3) - Emma Swift
