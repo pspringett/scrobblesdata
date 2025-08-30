@@ -1,11 +1,11 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     202            19            19           161
- 1: (22) - Simple Minds
- 2: (22) - The Burning Hell
- 3: (22) - The Weather Station
+     220            22            22           174
+ 1: (22) - Bob Dylan
+ 2: (22) - Simple Minds
+ 3: (22) - The Burning Hell
+ 4: (22) - The Weather Station
 
- 4: (20) - Bob Dylan
  5: (20) - Pulp
 
 
@@ -19,14 +19,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (11) - The Velvet Underground
 10: (10) - David Bowie
 11: (10) - Roxy Music
+12: ( 9) - Robert Forster
+13: ( 8) - Altered Images
+14: ( 7) - JT Nero
 
-12: ( 8) - Altered Images
-13: ( 7) - JT Nero
-
-
-14: ( 4) - U2
-15: ( 3) - Emma Swift
-16: ( 3) - Robert Forster
-17: ( 2) - Pulp, Chilly Gonzales
-18: ( 1) - ABC
-19: ( 1) - Simple Minds, Kt Tunstall
+15: ( 5) - Wet Leg
+16: ( 4) - U2
+17: ( 3) - Andy Golledge
+18: ( 3) - Emma Swift
+19: ( 2) - Pulp, Chilly Gonzales
+20: ( 2) - Wolf Alice
+21: ( 1) - ABC
+22: ( 1) - Simple Minds, Kt Tunstall
