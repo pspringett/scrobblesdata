@@ -1,6 +1,6 @@
 Specified year (2025), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     230            22            22           180
+     238            23            23           187
  1: (22) - Bob Dylan
  2: (22) - Simple Minds
  3: (22) - The Burning Hell
@@ -9,9 +9,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (20) - Pulp
 
 
+ 6: (17) - Wet Leg
 
 
- 6: (15) - Wet Leg
 
  7: (13) - Patty Griffin
  8: (12) - Everything But the Girl
@@ -22,12 +22,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 9) - Robert Forster
 14: ( 8) - Altered Images
 15: ( 7) - JT Nero
+16: ( 6) - Lauren Mayberry
 
-
-16: ( 4) - U2
-17: ( 3) - Andy Golledge
-18: ( 3) - Emma Swift
-19: ( 2) - Pulp, Chilly Gonzales
-20: ( 2) - Wolf Alice
-21: ( 1) - ABC
-22: ( 1) - Simple Minds, Kt Tunstall
+17: ( 4) - U2
+18: ( 3) - Andy Golledge
+19: ( 3) - Emma Swift
+20: ( 2) - Pulp, Chilly Gonzales
+21: ( 2) - Wolf Alice
+22: ( 1) - ABC
+23: ( 1) - Simple Minds, Kt Tunstall
