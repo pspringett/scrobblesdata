@@ -1,7 +1,8 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      42             5             5            34
-1: (18) - Suzanne Vega
+      50             6             6            41
+1: (19) - Suzanne Vega
+
 
 
 
@@ -13,10 +14,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 3: (10) - Wolf Alice
 
 
+4: ( 7) - Edwyn Collins
 
 
 
+5: ( 3) - R.E.M.
 
-4: ( 3) - R.E.M.
-
-5: ( 1) - Patty Griffin
+6: ( 1) - Patty Griffin
