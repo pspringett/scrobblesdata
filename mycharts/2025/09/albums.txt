@@ -1,6 +1,6 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      95             6             7            49
+     109             6             7            57
 1: (29) - Flying With Angels - Suzanne Vega
 
 
@@ -15,6 +15,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 4: (17) - Blue Weekend - Wolf Alice
+5: (16) - Suzanne Vega - Suzanne Vega
 
 
 
@@ -27,7 +28,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-5: ( 3) - Fables Of The Reconstruction - R.E.M.
-6: ( 2) * Impossible Dream - Patty Griffin
-7: ( 2) - Suzanne Vega - Suzanne Vega
+6: ( 3) - Fables Of The Reconstruction - R.E.M.
+7: ( 2) * Impossible Dream - Patty Griffin
