@@ -1,6 +1,6 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     111             6             7            57
+     112             6             8            58
  1: (4) - Flying with Angels - Suzanne Vega (Flying With Angels)
  2: (3) - Alley - Suzanne Vega (Flying With Angels)
  3: (3) - Chambermaid - Suzanne Vega (Flying With Angels)
@@ -57,4 +57,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 54: (1) - The Bridge Hotel - Edwyn Collins (Nation Shall Speak Unto Nation)
 55: (1) - The Last Man on Earth - Wolf Alice (Blue Weekend)
 56: (1) - The Queen and the Soldier - Suzanne Vega (Suzanne Vega)
-57: (1) - Wendell Gee - R.E.M. (Fables Of The Reconstruction)
+57: (1) - Tom's Diner - Suzanne Vega (Solitude Standing)
+58: (1) - Wendell Gee - R.E.M. (Fables Of The Reconstruction)
