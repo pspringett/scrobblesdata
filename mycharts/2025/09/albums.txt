@@ -1,19 +1,17 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     148             6             8            68
-1: (29) - Flying With Angels - Suzanne Vega
-
-2: (27) - Blue Weekend - Wolf Alice
-
-
-
-3: (23) - Suzanne Vega - Suzanne Vega
-
-4: (21) - Ghost Palace - The Burning Hell
-5: (21) - Nation Shall Speak Unto Nation - Edwyn Collins
-6: (20) - Solitude Standing - Suzanne Vega
+     161             9            11            74
+ 1: (29) - Flying With Angels - Suzanne Vega
+ 2: (28) - Suzanne Vega - Suzanne Vega
+ 3: (27) - Blue Weekend - Wolf Alice
 
 
+
+
+
+ 4: (21) - Ghost Palace - The Burning Hell
+ 5: (21) - Nation Shall Speak Unto Nation - Edwyn Collins
+ 6: (21) - Solitude Standing - Suzanne Vega
 
 
 
@@ -27,5 +25,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-7: ( 4) * Impossible Dream - Patty Griffin
-8: ( 3) - Fables Of The Reconstruction - R.E.M.
+
+
+ 7: ( 5) - The Resurrection Game - Emma Swift
+ 8: ( 4) * Impossible Dream - Patty Griffin
+ 9: ( 3) - Fables Of The Reconstruction - R.E.M.
+
+10: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+11: ( 1) - Fade To Grey:  The Best Of Visage - Visage

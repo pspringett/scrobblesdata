@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    9291           256           395          2913
+    9304           258           398          2917
   1: (352) - Slowdive
 
 
@@ -263,14 +263,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  33: ( 96) - The Linda Lindas
 
+ 34: ( 94) - Suzanne Vega
 
 
 
 
+ 35: ( 89) - Jessica Pratt
+ 36: ( 89) - Josef K
 
- 34: ( 89) - Jessica Pratt
- 35: ( 89) - Josef K
- 36: ( 88) - Suzanne Vega
 
 
 
@@ -335,18 +335,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  68: ( 37) - Pj Harvey
  69: ( 36) - Bryan Ferry, Amelia Barratt
  70: ( 35) - Talking Heads
- 71: ( 34) - Waxahatchee
+ 71: ( 34) - Emma Swift
+ 72: ( 34) - Waxahatchee
 
- 72: ( 32) - Hem
- 73: ( 32) - Nightbus
- 74: ( 31) - Courting
- 75: ( 31) - Weyes Blood
- 76: ( 30) - Paramore
- 77: ( 30) - Whitelands
- 78: ( 30) - Yazoo
- 79: ( 29) - Be Your Own Pet
- 80: ( 29) - Devine & Statton
- 81: ( 29) - Emma Swift
+ 73: ( 32) - Hem
+ 74: ( 32) - Nightbus
+ 75: ( 31) - Courting
+ 76: ( 31) - Weyes Blood
+ 77: ( 30) - Paramore
+ 78: ( 30) - Whitelands
+ 79: ( 30) - Yazoo
+ 80: ( 29) - Be Your Own Pet
+ 81: ( 29) - Devine & Statton
  82: ( 29) - Scott Walker
  83: ( 29) - The Corrs
  84: ( 29) - Wolf Alice
@@ -490,38 +490,40 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 219: (  1) - Mud
 220: (  1) - New York Dolls
 221: (  1) - Nick Lowe
-222: (  1) - Roy Budd
-223: (  1) - Simple Minds, Kt Tunstall
-224: (  1) - Sonic Youth
-225: (  1) - Spandau Ballet
-226: (  1) - Sparks
-227: (  1) - Status Quo
-228: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-229: (  1) - Suzi Quatro
-230: (  1) - Sweet
-231: (  1) - Tears for Fears
-232: (  1) - The Buggles
-233: (  1) - The Divine Comedy
-234: (  1) - The Go-go's
-235: (  1) - The Monochrome Set
-236: (  1) - The Motels
-237: (  1) - The Nightingales
-238: (  1) - The Pogues
-239: (  1) - The Police
-240: (  1) - The Temper Trap
-241: (  1) - The Temptations
-242: (  1) - The Vapors
-243: (  1) - Todd Rundgren
-244: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-245: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-246: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-247: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-248: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-249: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-250: (  1) - Trio
-251: (  1) - Turnstile
-252: (  1) - Tv21
-253: (  1) - Van Morrison
-254: (  1) - Wang Chung
-255: (  1) - When in Rome
-256: (  1) - Yes
+222: (  1) - Nouvelle Vague, Marina Céleste
+223: (  1) - Roy Budd
+224: (  1) - Simple Minds, Kt Tunstall
+225: (  1) - Sonic Youth
+226: (  1) - Spandau Ballet
+227: (  1) - Sparks
+228: (  1) - Status Quo
+229: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+230: (  1) - Suzi Quatro
+231: (  1) - Sweet
+232: (  1) - Tears for Fears
+233: (  1) - The Buggles
+234: (  1) - The Divine Comedy
+235: (  1) - The Go-go's
+236: (  1) - The Monochrome Set
+237: (  1) - The Motels
+238: (  1) - The Nightingales
+239: (  1) - The Pogues
+240: (  1) - The Police
+241: (  1) - The Temper Trap
+242: (  1) - The Temptations
+243: (  1) - The Vapors
+244: (  1) - Todd Rundgren
+245: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+246: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+247: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+248: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+249: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+250: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+251: (  1) - Trio
+252: (  1) - Turnstile
+253: (  1) - Tv21
+254: (  1) - Van Morrison
+255: (  1) - Visage
+256: (  1) - Wang Chung
+257: (  1) - When in Rome
+258: (  1) - Yes
