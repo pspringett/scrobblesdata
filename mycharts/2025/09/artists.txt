@@ -1,7 +1,10 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     161             9            11            74
-1: (78) - Suzanne Vega
+     169             9            11            79
+1: (81) - Suzanne Vega
+
+
+
 
 
 
@@ -70,12 +73,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+5: (10) - Emma Swift
 
 
 
 
 
-5: ( 5) - Emma Swift
 6: ( 4) - Patty Griffin
 7: ( 3) - R.E.M.
 
