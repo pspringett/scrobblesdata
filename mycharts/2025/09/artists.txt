@@ -1,7 +1,7 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     211             9            11            79
-1: (81) - Suzanne Vega
+     221             9            11            79
+1: (86) - Suzanne Vega
 
 
 
@@ -50,9 +50,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-2: (32) - The Burning Hell
-3: (32) - Wolf Alice
-4: (31) - Emma Swift
+
+2: (36) - Emma Swift
+
+
+
+3: (32) - The Burning Hell
+4: (32) - Wolf Alice
+
 
 
 
