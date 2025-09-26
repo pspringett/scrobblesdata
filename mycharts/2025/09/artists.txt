@@ -1,7 +1,7 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     275             9            12            82
-1: (97) - Suzanne Vega
+     289            10            14            96
+ 1: (97) - Suzanne Vega
 
 
 
@@ -47,16 +47,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-2: (51) - Emma Swift
+ 2: (51) - Emma Swift
 
 
 
-3: (47) - Wolf Alice
+ 3: (47) - Wolf Alice
 
 
 
 
-4: (42) - The Burning Hell
+ 4: (42) - The Burning Hell
+ 5: (41) - Edwyn Collins
 
 
 
@@ -69,7 +70,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-5: (29) - Edwyn Collins
 
 
 
@@ -94,8 +94,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-6: ( 4) - Patty Griffin
-7: ( 3) - R.E.M.
-
-8: ( 1) - Nouvelle Vague, Marina Céleste
-9: ( 1) - Visage
+ 6: ( 4) - Patty Griffin
+ 7: ( 3) - R.E.M.
+ 8: ( 2) - Aztec Camera
+ 9: ( 1) - Nouvelle Vague, Marina Céleste
+10: ( 1) - Visage
