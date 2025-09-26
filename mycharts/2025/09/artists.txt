@@ -1,6 +1,6 @@
 Specified year (2025), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     289            10            14            96
+     305            11            15           111
  1: (97) - Suzanne Vega
 
 
@@ -85,6 +85,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 6: (13) - Aztec Camera
 
 
 
@@ -92,10 +93,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 7: ( 5) - Roxy Music
+ 8: ( 4) - Patty Griffin
+ 9: ( 3) - R.E.M.
 
-
- 6: ( 4) - Patty Griffin
- 7: ( 3) - R.E.M.
- 8: ( 2) - Aztec Camera
- 9: ( 1) - Nouvelle Vague, Marina Céleste
-10: ( 1) - Visage
+10: ( 1) - Nouvelle Vague, Marina Céleste
+11: ( 1) - Visage

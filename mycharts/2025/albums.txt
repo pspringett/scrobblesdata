@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2686           129           154          1163
+    2702           129           154          1174
   1: (138) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
@@ -108,12 +108,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  23: ( 37) - Moisturizer - Wet Leg
  24: ( 36) - Loose Talk - Bryan Ferry, Amelia Barratt
- 25: ( 36) - Solitude Standing - Suzanne Vega
+ 25: ( 36) - Manifesto - Roxy Music
+ 26: ( 36) - Solitude Standing - Suzanne Vega
 
- 26: ( 34) - Tigers Blood - Waxahatchee
+ 27: ( 34) - Tigers Blood - Waxahatchee
 
 
- 27: ( 31) - Manifesto - Roxy Music
+
 
  28: ( 29) - Flesh And Blood - Roxy Music
  29: ( 28) - Suzanne Vega - Suzanne Vega
@@ -139,86 +140,86 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  46: ( 13) - Burnin' - Bob Marley & the Wailers
  47: ( 13) - Case/Lang/Veirs - case/lang/veirs
- 48: ( 13) - On Sunset (Deluxe) - Paul Weller
- 49: ( 12) - 66 - Paul Weller
- 50: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
- 51: ( 12) - Garbage Island - The Burning Hell
- 52: ( 12) - John Wesley Harding - Bob Dylan
- 53: ( 12) - Rough And Rowdy Ways - Bob Dylan
- 54: ( 12) - Wet Leg - Wet Leg
- 55: ( 12) - You Can't Hide Your Love Forever - Orange Juice
- 56: ( 11) - A Whole New Thing - Sly & the Family Stone
- 57: ( 11) - Acoustic - Simple Minds
- 58: ( 11) * Antidepressant - Lloyd Cole
- 59: ( 11) * Bringing It All Back Home - Bob Dylan
- 60: ( 11) * Little Rock - Hayes Carll
- 61: ( 11) * Standards - Lloyd Cole
- 62: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
- 63: ( 11) - Through The Windowpane - Guillemots
- 64: ( 11) - Traveling Alone - Tift Merritt
- 65: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 66: ( 10) * I Speak Because I Can - Laura Marling
- 67: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 68: ( 10) - Low - David Bowie
- 69: ( 10) - Old Hands - Yonder Mountain String Band
- 70: ( 10) * Reading, Writing & Arithmetic - The Sundays
- 71: ( 10) - Rip It Up - Orange Juice
- 72: ( 10) * Roxy Music - Roxy Music
- 73: ( 10) * Shot Of Love - Bob Dylan
- 74: ( 10) * Sparkle In The Rain - Simple Minds
- 75: (  9) * Blood On The Tracks - Bob Dylan
- 76: (  9) * Heaven Up Here - Echo & the Bunnymen
- 77: (  9) * New Gold Dream (81-82-83-84) - Simple Minds
- 78: (  9) - Songs Of A Lost World - The Cure
- 79: (  9) - Stranded - Roxy Music
- 80: (  9) * The Orange Juice - Orange Juice
- 81: (  9) - This Could Be Texas - English Teacher
- 82: (  9) * Tom Tom Club - Tom Tom Club
- 83: (  8) * Bite - Altered Images
- 84: (  8) * Blonde On Blonde - Bob Dylan
- 85: (  8) * Closer - Joy Division
- 86: (  8) - Disintegration - The Cure
- 87: (  8) - For Your Pleasure - Roxy Music
- 88: (  8) - Music For Stowaways - B.E.F.
- 89: (  8) * Remain In Light - Talking Heads
- 90: (  8) - Right Here - The Go-Betweens
- 91: (  8) - Saturns Pattern - Paul Weller
- 92: (  8) - Scott 3 - Scott Walker
- 93: (  8) - What Happened To The Heart? - Aurora
- 94: (  7) * Demons/Demons - JT Nero
- 95: (  7) - Earth-Sized Worlds - Mandrake Handshake
- 96: (  7) * Faith - The Cure
- 97: (  7) * I'm Your Man - Leonard Cohen
- 98: (  7) - In The 21St Century - The Bluebells
- 99: (  7) - Songs Of Bob Dylan - Joan Osborne
-100: (  6) * Scott 2 - Scott Walker
-101: (  6) - Waves - Newdad
-102: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-103: (  4) - Abraxas - Santana
-104: (  4) - Days Of Open Hand - Suzanne Vega
-105: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
-106: (  4) * Scott - Scott Walker
-107: (  4) - Tempest - Bob Dylan
-108: (  4) - The Band - The Band
-109: (  4) - The Joshua Tree - U2
-110: (  4) - Up All Night - The Waifs
-111: (  4) * Wrecking Ball - Emmylou Harris
-112: (  3) - All The Best - The Human League
-113: (  3) - Born Horses - Mercury Rev
-114: (  3) - Cut It Out - The Go-Betweens
-115: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-116: (  3) - Elevation Days - Edwyn Collins
-117: (  3) - La Variete - Weekend
-118: (  3) - More - Pulp, Chilly Gonzales
-119: (  3) - Scott 4 - Scott Walker
-120: (  3) - The Basement Tapes - Bob Dylan and the Band
-121: (  3) - The Lexicon Of Love - ABC
-122: (  3) - Young, Dumb & Wild - Andy Golledge
-123: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-124: (  2) * Fate's Right Hand - Rodney Crowell
-125: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-126: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-127: (  2) * High Land, Hard Rain - Aztec Camera
+ 48: ( 13) * High Land, Hard Rain - Aztec Camera
+ 49: ( 13) - On Sunset (Deluxe) - Paul Weller
+ 50: ( 12) - 66 - Paul Weller
+ 51: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 52: ( 12) - Garbage Island - The Burning Hell
+ 53: ( 12) - John Wesley Harding - Bob Dylan
+ 54: ( 12) - Rough And Rowdy Ways - Bob Dylan
+ 55: ( 12) - Wet Leg - Wet Leg
+ 56: ( 12) - You Can't Hide Your Love Forever - Orange Juice
+ 57: ( 11) - A Whole New Thing - Sly & the Family Stone
+ 58: ( 11) - Acoustic - Simple Minds
+ 59: ( 11) * Antidepressant - Lloyd Cole
+ 60: ( 11) * Bringing It All Back Home - Bob Dylan
+ 61: ( 11) * Little Rock - Hayes Carll
+ 62: ( 11) * Standards - Lloyd Cole
+ 63: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
+ 64: ( 11) - Through The Windowpane - Guillemots
+ 65: ( 11) - Traveling Alone - Tift Merritt
+ 66: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 67: ( 10) * I Speak Because I Can - Laura Marling
+ 68: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 69: ( 10) - Low - David Bowie
+ 70: ( 10) - Old Hands - Yonder Mountain String Band
+ 71: ( 10) * Reading, Writing & Arithmetic - The Sundays
+ 72: ( 10) - Rip It Up - Orange Juice
+ 73: ( 10) * Roxy Music - Roxy Music
+ 74: ( 10) * Shot Of Love - Bob Dylan
+ 75: ( 10) * Sparkle In The Rain - Simple Minds
+ 76: (  9) * Blood On The Tracks - Bob Dylan
+ 77: (  9) * Heaven Up Here - Echo & the Bunnymen
+ 78: (  9) * New Gold Dream (81-82-83-84) - Simple Minds
+ 79: (  9) - Songs Of A Lost World - The Cure
+ 80: (  9) - Stranded - Roxy Music
+ 81: (  9) * The Orange Juice - Orange Juice
+ 82: (  9) - This Could Be Texas - English Teacher
+ 83: (  9) * Tom Tom Club - Tom Tom Club
+ 84: (  8) * Bite - Altered Images
+ 85: (  8) * Blonde On Blonde - Bob Dylan
+ 86: (  8) * Closer - Joy Division
+ 87: (  8) - Disintegration - The Cure
+ 88: (  8) - For Your Pleasure - Roxy Music
+ 89: (  8) - Music For Stowaways - B.E.F.
+ 90: (  8) * Remain In Light - Talking Heads
+ 91: (  8) - Right Here - The Go-Betweens
+ 92: (  8) - Saturns Pattern - Paul Weller
+ 93: (  8) - Scott 3 - Scott Walker
+ 94: (  8) - What Happened To The Heart? - Aurora
+ 95: (  7) * Demons/Demons - JT Nero
+ 96: (  7) - Earth-Sized Worlds - Mandrake Handshake
+ 97: (  7) * Faith - The Cure
+ 98: (  7) * I'm Your Man - Leonard Cohen
+ 99: (  7) - In The 21St Century - The Bluebells
+100: (  7) - Songs Of Bob Dylan - Joan Osborne
+101: (  6) * Scott 2 - Scott Walker
+102: (  6) - Waves - Newdad
+103: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
+104: (  4) - Abraxas - Santana
+105: (  4) - Days Of Open Hand - Suzanne Vega
+106: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+107: (  4) * Scott - Scott Walker
+108: (  4) - Tempest - Bob Dylan
+109: (  4) - The Band - The Band
+110: (  4) - The Joshua Tree - U2
+111: (  4) - Up All Night - The Waifs
+112: (  4) * Wrecking Ball - Emmylou Harris
+113: (  3) - All The Best - The Human League
+114: (  3) - Born Horses - Mercury Rev
+115: (  3) - Cut It Out - The Go-Betweens
+116: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+117: (  3) - Elevation Days - Edwyn Collins
+118: (  3) - La Variete - Weekend
+119: (  3) - More - Pulp, Chilly Gonzales
+120: (  3) - Scott 4 - Scott Walker
+121: (  3) - The Basement Tapes - Bob Dylan and the Band
+122: (  3) - The Lexicon Of Love - ABC
+123: (  3) - Young, Dumb & Wild - Andy Golledge
+124: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+125: (  2) * Fate's Right Hand - Rodney Crowell
+126: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+127: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
 128: (  2) - Music From Big Pink - The Band
 129: (  2) - No Happy Endings - Emma Swift
 130: (  2) - No Obligation - The Linda Lindas
