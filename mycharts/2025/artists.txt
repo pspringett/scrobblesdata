@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2722           129           154          1174
+    2735           129           154          1174
   1: (264) - Edwyn Collins
 
 
@@ -161,14 +161,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-
-
-
-
-  4: ( 97) - Roxy Music
+  4: (104) - Roxy Music
 
 
 
@@ -177,12 +170,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  5: ( 88) - Josh Ritter
 
 
 
-  6: ( 84) - Chaparelle
-  7: ( 84) - The Burning Hell
+
+
+  5: ( 90) - The Burning Hell
+
+  6: ( 88) - Josh Ritter
+
+
+
+  7: ( 84) - Chaparelle
   8: ( 83) - Gardens
 
   9: ( 81) - Bob Dylan
