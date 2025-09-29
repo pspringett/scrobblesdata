@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2776           130           161          1208
+    2782           130           162          1210
   1: (139) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
@@ -146,29 +146,29 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  50: ( 13) - Case/Lang/Veirs - case/lang/veirs
  51: ( 13) * High Land, Hard Rain - Aztec Camera
  52: ( 13) - On Sunset (Deluxe) - Paul Weller
- 53: ( 12) - 66 - Paul Weller
- 54: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
- 55: ( 12) - Garbage Island - The Burning Hell
- 56: ( 12) - John Wesley Harding - Bob Dylan
- 57: ( 12) - Rough And Rowdy Ways - Bob Dylan
- 58: ( 12) - Wet Leg - Wet Leg
- 59: ( 12) - You Can't Hide Your Love Forever - Orange Juice
- 60: ( 11) - A Whole New Thing - Sly & the Family Stone
- 61: ( 11) - Acoustic - Simple Minds
- 62: ( 11) * Antidepressant - Lloyd Cole
- 63: ( 11) * Bringing It All Back Home - Bob Dylan
- 64: ( 11) * Little Rock - Hayes Carll
- 65: ( 11) * Standards - Lloyd Cole
- 66: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
- 67: ( 11) - Through The Windowpane - Guillemots
- 68: ( 11) - Traveling Alone - Tift Merritt
- 69: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 70: ( 10) * I Speak Because I Can - Laura Marling
- 71: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 72: ( 10) - Low - David Bowie
- 73: ( 10) - Old Hands - Yonder Mountain String Band
- 74: ( 10) * Reading, Writing & Arithmetic - The Sundays
- 75: ( 10) - Rip It Up - Orange Juice
+ 53: ( 13) - You Can't Hide Your Love Forever - Orange Juice
+ 54: ( 12) - 66 - Paul Weller
+ 55: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 56: ( 12) - Garbage Island - The Burning Hell
+ 57: ( 12) - John Wesley Harding - Bob Dylan
+ 58: ( 12) - Rip It Up - Orange Juice
+ 59: ( 12) - Rough And Rowdy Ways - Bob Dylan
+ 60: ( 12) - Wet Leg - Wet Leg
+ 61: ( 11) - A Whole New Thing - Sly & the Family Stone
+ 62: ( 11) - Acoustic - Simple Minds
+ 63: ( 11) * Antidepressant - Lloyd Cole
+ 64: ( 11) * Bringing It All Back Home - Bob Dylan
+ 65: ( 11) * Little Rock - Hayes Carll
+ 66: ( 11) * Standards - Lloyd Cole
+ 67: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
+ 68: ( 11) - Through The Windowpane - Guillemots
+ 69: ( 11) - Traveling Alone - Tift Merritt
+ 70: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 71: ( 10) * I Speak Because I Can - Laura Marling
+ 72: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 73: ( 10) - Low - David Bowie
+ 74: ( 10) - Old Hands - Yonder Mountain String Band
+ 75: ( 10) * Reading, Writing & Arithmetic - The Sundays
  76: ( 10) * Roxy Music - Roxy Music
  77: ( 10) * Shot Of Love - Bob Dylan
  78: ( 10) * Sparkle In The Rain - Simple Minds
@@ -206,90 +206,91 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 110: (  4) * Scott - Scott Walker
 111: (  4) - Tempest - Bob Dylan
 112: (  4) - The Band - The Band
-113: (  4) - The Joshua Tree - U2
-114: (  4) - Up All Night - The Waifs
-115: (  4) * Wrecking Ball - Emmylou Harris
-116: (  3) - All The Best - The Human League
-117: (  3) - Born Horses - Mercury Rev
-118: (  3) - Cut It Out - The Go-Betweens
-119: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-120: (  3) - Elevation Days - Edwyn Collins
-121: (  3) - La Variete - Weekend
-122: (  3) - More - Pulp, Chilly Gonzales
-123: (  3) - Scott 4 - Scott Walker
-124: (  3) - The Basement Tapes - Bob Dylan and the Band
-125: (  3) - The Lexicon Of Love - ABC
-126: (  3) - Young, Dumb & Wild - Andy Golledge
-127: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-128: (  2) * Fate's Right Hand - Rodney Crowell
-129: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-130: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-131: (  2) - Music From Big Pink - The Band
-132: (  2) - No Happy Endings - Emma Swift
-133: (  2) - No Obligation - The Linda Lindas
-134: (  2) - Singles 1965-1967 - The Rolling Stones
-135: (  2) * Texas Fever - Orange Juice
-136: (  2) - The Glasgow School - Orange Juice
+113: (  4) - The Glasgow School - Orange Juice
+114: (  4) - The Joshua Tree - U2
+115: (  4) - Up All Night - The Waifs
+116: (  4) * Wrecking Ball - Emmylou Harris
+117: (  3) - All The Best - The Human League
+118: (  3) - Born Horses - Mercury Rev
+119: (  3) - Cut It Out - The Go-Betweens
+120: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+121: (  3) - Elevation Days - Edwyn Collins
+122: (  3) - La Variete - Weekend
+123: (  3) - More - Pulp, Chilly Gonzales
+124: (  3) - Scott 4 - Scott Walker
+125: (  3) - The Basement Tapes - Bob Dylan and the Band
+126: (  3) - The Lexicon Of Love - ABC
+127: (  3) - Young, Dumb & Wild - Andy Golledge
+128: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+129: (  2) * Fate's Right Hand - Rodney Crowell
+130: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+131: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+132: (  2) - Music From Big Pink - The Band
+133: (  2) - No Happy Endings - Emma Swift
+134: (  2) - No Obligation - The Linda Lindas
+135: (  2) - Singles 1965-1967 - The Rolling Stones
+136: (  2) * Texas Fever - Orange Juice
 137: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
 138: (  2) - To Our Children's Children's Children - The Moody Blues
 139: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-140: (  1) - 0-100 - Bob Hund
-141: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-142: (  1) - Acoustic - Simple Minds, Kt Tunstall
-143: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-144: (  1) - Cahoots - The Band
-145: (  1) - Coals To Newcastle - Orange Juice
-146: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
-147: (  1) - EELS Volume 1 - Being Dead
-148: (  1) - Electric Ladyland - Jimi Hendrix
-149: (  1) - Ett Fall Och En LöSning - Bob Hund
-150: (  1) - Fade To Grey:  The Best Of Visage - Visage
-151: (  1) * I'm Not Following You - Edwyn Collins
-152: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-153: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-154: (  1) - Knowledge - Edwyn Collins
-155: (  1) * Losing Sleep - Edwyn Collins
-156: (  1) - Never Enough - Turnstile
-157: (  1) - New Wave Hits Of The 80S - ABC
-158: (  1) - New Wave Hits Of The 80S - Billy Idol
-159: (  1) - New Wave Hits Of The 80S - Culture Club
-160: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-161: (  1) - New Wave Hits Of The 80S - Joe Jackson
-162: (  1) - New Wave Hits Of The 80S - Level 42
-163: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-164: (  1) - New Wave Hits Of The 80S - R.E.M.
-165: (  1) - New Wave Hits Of The 80S - Simple Minds
-166: (  1) - New Wave Hits Of The 80S - Soft Cell
-167: (  1) - New Wave Hits Of The 80S - The Buggles
-168: (  1) - New Wave Hits Of The 80S - The Go-go's
-169: (  1) - New Wave Hits Of The 80S - The Human League
-170: (  1) - New Wave Hits Of The 80S - The Motels
-171: (  1) - New Wave Hits Of The 80S - The Police
-172: (  1) - New Wave Hits Of The 80S - Trio
-173: (  1) - New Wave Hits Of The 80S - UB40
-174: (  1) - New Wave Hits Of The 80S - Wang Chung
-175: (  1) - New Wave Hits Of The 80S - When in Rome
-176: (  1) - Northern Lights – Southern Cross - The Band
-177: (  1) - Nothing And Forever - Emma Swift
-178: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-179: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-180: (  1) - Scared To Get Happy - Blue Orchids
-181: (  1) - Scared To Get Happy - Everything But the Girl
-182: (  1) - Scared To Get Happy - Girls At Our Best!
-183: (  1) - Scared To Get Happy - Hurrah!
-184: (  1) - Scared To Get Happy - Jane
-185: (  1) - Scared To Get Happy - Marine Girls
-186: (  1) - Scared To Get Happy - The Monochrome Set
-187: (  1) - Scared To Get Happy - The Nightingales
-188: (  1) - Scared To Get Happy - Tv21
-189: (  1) - Scared To Get Happy - Weekend
-190: (  1) - Silence - Vild I Skogen - Bob Hund
-191: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
-192: (  1) - Stumfilm - Bob Hund
-193: (  1) - This Is The Moody Blues - The Moody Blues
-194: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-195: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-196: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-197: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-198: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-199: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+140: (  1) -  - Orange Juice
+141: (  1) - 0-100 - Bob Hund
+142: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+143: (  1) - Acoustic - Simple Minds, Kt Tunstall
+144: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+145: (  1) - Cahoots - The Band
+146: (  1) - Coals To Newcastle - Orange Juice
+147: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+148: (  1) - EELS Volume 1 - Being Dead
+149: (  1) - Electric Ladyland - Jimi Hendrix
+150: (  1) - Ett Fall Och En LöSning - Bob Hund
+151: (  1) - Fade To Grey:  The Best Of Visage - Visage
+152: (  1) * I'm Not Following You - Edwyn Collins
+153: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+154: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+155: (  1) - Knowledge - Edwyn Collins
+156: (  1) * Losing Sleep - Edwyn Collins
+157: (  1) - Never Enough - Turnstile
+158: (  1) - New Wave Hits Of The 80S - ABC
+159: (  1) - New Wave Hits Of The 80S - Billy Idol
+160: (  1) - New Wave Hits Of The 80S - Culture Club
+161: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+162: (  1) - New Wave Hits Of The 80S - Joe Jackson
+163: (  1) - New Wave Hits Of The 80S - Level 42
+164: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+165: (  1) - New Wave Hits Of The 80S - R.E.M.
+166: (  1) - New Wave Hits Of The 80S - Simple Minds
+167: (  1) - New Wave Hits Of The 80S - Soft Cell
+168: (  1) - New Wave Hits Of The 80S - The Buggles
+169: (  1) - New Wave Hits Of The 80S - The Go-go's
+170: (  1) - New Wave Hits Of The 80S - The Human League
+171: (  1) - New Wave Hits Of The 80S - The Motels
+172: (  1) - New Wave Hits Of The 80S - The Police
+173: (  1) - New Wave Hits Of The 80S - Trio
+174: (  1) - New Wave Hits Of The 80S - UB40
+175: (  1) - New Wave Hits Of The 80S - Wang Chung
+176: (  1) - New Wave Hits Of The 80S - When in Rome
+177: (  1) - Northern Lights – Southern Cross - The Band
+178: (  1) - Nothing And Forever - Emma Swift
+179: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+180: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+181: (  1) - Scared To Get Happy - Blue Orchids
+182: (  1) - Scared To Get Happy - Everything But the Girl
+183: (  1) - Scared To Get Happy - Girls At Our Best!
+184: (  1) - Scared To Get Happy - Hurrah!
+185: (  1) - Scared To Get Happy - Jane
+186: (  1) - Scared To Get Happy - Marine Girls
+187: (  1) - Scared To Get Happy - The Monochrome Set
+188: (  1) - Scared To Get Happy - The Nightingales
+189: (  1) - Scared To Get Happy - Tv21
+190: (  1) - Scared To Get Happy - Weekend
+191: (  1) - Silence - Vild I Skogen - Bob Hund
+192: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+193: (  1) - Stumfilm - Bob Hund
+194: (  1) - This Is The Moody Blues - The Moody Blues
+195: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+196: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+197: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+198: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+199: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+200: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
