@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   74043          1286          1937         13113
+   74051          1286          1937         13113
    1: (324) - Cafe Bleu - The Style Council
    2: (305) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -14,8 +14,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   11: (233) - Echo & The Bunnymen - Echo & the Bunnymen
   12: (233) - The Smiths - The Smiths
   13: (230) * Grand Canyon - Sarah MacDougall
-  14: (223) - The Joshua Tree - U2
-  15: (222) - You Can't Hide Your Love Forever - Orange Juice
+  14: (224) - You Can't Hide Your Love Forever - Orange Juice
+  15: (223) - The Joshua Tree - U2
   16: (214) - Case/Lang/Veirs - case/lang/veirs
   17: (214) * The Unforgettable Fire - U2
   18: (212) - Traveling Alone - Tift Merritt
@@ -71,11 +71,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   68: (163) * I'm Not Following You - Edwyn Collins
   69: (163) * Standards - Lloyd Cole
   70: (163) - The Sin Of Pride - The Undertones
-  71: (162) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
-  72: (162) * Various Positions - Leonard Cohen
-  73: (161) - A Creature I Don't Know - Laura Marling
-  74: (160) - Our Favourite Shop (Digitally Remastered) - The Style Council
-  75: (159) - Coals To Newcastle - Orange Juice
+  71: (162) - Coals To Newcastle - Orange Juice
+  72: (162) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+  73: (162) * Various Positions - Leonard Cohen
+  74: (161) - A Creature I Don't Know - Laura Marling
+  75: (160) - Our Favourite Shop (Digitally Remastered) - The Style Council
   76: (159) - Mccartney - Paul McCartney
   77: (156) * New Gold Dream (81-82-83-84) - Simple Minds
   78: (156) * Scott 2 - Scott Walker
@@ -151,16 +151,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  148: (122) - Patterns In Repeat - Laura Marling
  149: (122) - The Flame And The Pelican - Jack Harris
  150: (121) - Elevation Days - Edwyn Collins
- 151: (121) - The Luxury Gap - Heaven 17
- 152: (121) - Treasure - Cocteau Twins
- 153: (120) * High Land, Hard Rain - Aztec Camera
- 154: (120) - Rubber Soul - The Beatles
- 155: (120) - The Glasgow School - Orange Juice
- 156: (120) - Victorialand - Cocteau Twins
- 157: (119) - Bramble Rose - Tift Merritt
- 158: (119) * Don't Get Weird On Me Babe - Lloyd Cole
- 159: (119) - Expired Candy - Body Type
- 160: (119) * The Orange Juice - Orange Juice
+ 151: (121) - The Glasgow School - Orange Juice
+ 152: (121) - The Luxury Gap - Heaven 17
+ 153: (121) - Treasure - Cocteau Twins
+ 154: (120) * High Land, Hard Rain - Aztec Camera
+ 155: (120) - Rubber Soul - The Beatles
+ 156: (120) * The Orange Juice - Orange Juice
+ 157: (120) - Victorialand - Cocteau Twins
+ 158: (119) - Bramble Rose - Tift Merritt
+ 159: (119) * Don't Get Weird On Me Babe - Lloyd Cole
+ 160: (119) - Expired Candy - Body Type
  161: (118) - Everything Is Alive - Slowdive
  162: (118) - Tempest - Bob Dylan
  163: (118) * The North Star - Roddy Frame
@@ -852,34 +852,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  849: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
  850: ( 11) - La Question - Françoise Hardy
  851: ( 11) - Laurel Canyon - Laurel Canyon
- 852: ( 11) - Marquee Moon - Television
- 853: ( 11) - My Favorite Picture Of You - Guy Clark
- 854: ( 11) - Mysterio - Ian McCulloch
- 855: ( 11) - Open Here - Field Music
- 856: ( 11) - Pollinator - Blondie
- 857: ( 11) - Queer As Folk - Grace Petrie
- 858: ( 11) * See You Around - Travis Linville
- 859: ( 11) - Songs Of Experience - U2
- 860: ( 11) - Texas - Rodney Crowell
- 861: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
- 862: ( 11) - The Wide Afternoon - Jack Harris
- 863: ( 11) - Through The Windowpane - Guillemots
- 864: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
- 865: ( 11) - Watch - Manfred Mann's Earth Band
- 866: ( 10) - * Naked As Advertised – Versions 08 - Heaven 17
- 867: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
- 868: ( 10) - Chelsea Girl - Nico
- 869: ( 10) - Dub Side Of The Moon - Easy Star All-stars
- 870: ( 10) - Elastica - Elastica
- 871: ( 10) - Failer - Kathleen Edwards
- 872: ( 10) - Gannett Syndication Service - Just the Faqs
- 873: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
- 874: ( 10) - How To Dance - Mount Moriah
- 875: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 876: ( 10) - Life In A Day - Simple Minds
- 877: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 878: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 879: ( 10) * Losing Sleep - Edwyn Collins
+ 852: ( 11) * Losing Sleep - Edwyn Collins
+ 853: ( 11) - Marquee Moon - Television
+ 854: ( 11) - My Favorite Picture Of You - Guy Clark
+ 855: ( 11) - Mysterio - Ian McCulloch
+ 856: ( 11) - Open Here - Field Music
+ 857: ( 11) - Pollinator - Blondie
+ 858: ( 11) - Queer As Folk - Grace Petrie
+ 859: ( 11) * See You Around - Travis Linville
+ 860: ( 11) - Songs Of Experience - U2
+ 861: ( 11) - Texas - Rodney Crowell
+ 862: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
+ 863: ( 11) - The Wide Afternoon - Jack Harris
+ 864: ( 11) - Through The Windowpane - Guillemots
+ 865: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
+ 866: ( 11) - Watch - Manfred Mann's Earth Band
+ 867: ( 10) - * Naked As Advertised – Versions 08 - Heaven 17
+ 868: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
+ 869: ( 10) - Chelsea Girl - Nico
+ 870: ( 10) - Dub Side Of The Moon - Easy Star All-stars
+ 871: ( 10) - Elastica - Elastica
+ 872: ( 10) - Failer - Kathleen Edwards
+ 873: ( 10) - Gannett Syndication Service - Just the Faqs
+ 874: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
+ 875: ( 10) - How To Dance - Mount Moriah
+ 876: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 877: ( 10) - Life In A Day - Simple Minds
+ 878: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 879: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
  880: ( 10) - Mainstream - Lloyd Cole
  881: ( 10) - Metamatic - John Foxx
  882: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad

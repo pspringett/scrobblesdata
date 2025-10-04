@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2803           130           162          1214
+    2811           130           162          1214
   1: (142) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
@@ -142,9 +142,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  44: ( 16) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
  45: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
  46: ( 16) - Sons And Fascination/Sister Feelings Call - Simple Minds
- 47: ( 15) - For Your Pleasure - Roxy Music
- 48: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
- 49: ( 14) - You Can't Hide Your Love Forever - Orange Juice
+ 47: ( 16) - You Can't Hide Your Love Forever - Orange Juice
+ 48: ( 15) - For Your Pleasure - Roxy Music
+ 49: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
+
  50: ( 13) - Burnin' - Bob Marley & the Wailers
  51: ( 13) - Case/Lang/Veirs - case/lang/veirs
  52: ( 13) * Gorgeous George - Edwyn Collins
@@ -175,12 +176,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  77: ( 10) * Roxy Music - Roxy Music
  78: ( 10) * Shot Of Love - Bob Dylan
  79: ( 10) * Sparkle In The Rain - Simple Minds
- 80: (  9) * Blood On The Tracks - Bob Dylan
- 81: (  9) * Heaven Up Here - Echo & the Bunnymen
- 82: (  9) * New Gold Dream (81-82-83-84) - Simple Minds
- 83: (  9) - Songs Of A Lost World - The Cure
- 84: (  9) - Stranded - Roxy Music
- 85: (  9) * The Orange Juice - Orange Juice
+ 80: ( 10) * The Orange Juice - Orange Juice
+ 81: (  9) * Blood On The Tracks - Bob Dylan
+ 82: (  9) * Heaven Up Here - Echo & the Bunnymen
+ 83: (  9) * New Gold Dream (81-82-83-84) - Simple Minds
+ 84: (  9) - Songs Of A Lost World - The Cure
+ 85: (  9) - Stranded - Roxy Music
  86: (  9) - This Could Be Texas - English Teacher
  87: (  9) * Tom Tom Club - Tom Tom Club
  88: (  8) * Bite - Altered Images
@@ -192,29 +193,29 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  94: (  8) - Right Here - The Go-Betweens
  95: (  8) - Saturns Pattern - Paul Weller
  96: (  8) - Scott 3 - Scott Walker
- 97: (  8) - What Happened To The Heart? - Aurora
- 98: (  7) * Demons/Demons - JT Nero
- 99: (  7) - Earth-Sized Worlds - Mandrake Handshake
-100: (  7) * Faith - The Cure
-101: (  7) * I'm Your Man - Leonard Cohen
-102: (  7) - In The 21St Century - The Bluebells
-103: (  7) - Songs Of Bob Dylan - Joan Osborne
-104: (  7) - The Glasgow School - Orange Juice
-105: (  6) * Scott 2 - Scott Walker
-106: (  6) - Waves - Newdad
-107: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-108: (  4) - Abraxas - Santana
-109: (  4) - Days Of Open Hand - Suzanne Vega
-110: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
-111: (  4) * Scott - Scott Walker
-112: (  4) - Tempest - Bob Dylan
-113: (  4) - The Band - The Band
-114: (  4) - The Joshua Tree - U2
-115: (  4) - Up All Night - The Waifs
-116: (  4) * Wrecking Ball - Emmylou Harris
-117: (  3) - All The Best - The Human League
-118: (  3) - Born Horses - Mercury Rev
-119: (  3) - Coals To Newcastle - Orange Juice
+ 97: (  8) - The Glasgow School - Orange Juice
+ 98: (  8) - What Happened To The Heart? - Aurora
+ 99: (  7) * Demons/Demons - JT Nero
+100: (  7) - Earth-Sized Worlds - Mandrake Handshake
+101: (  7) * Faith - The Cure
+102: (  7) * I'm Your Man - Leonard Cohen
+103: (  7) - In The 21St Century - The Bluebells
+104: (  7) - Songs Of Bob Dylan - Joan Osborne
+105: (  6) - Coals To Newcastle - Orange Juice
+106: (  6) * Scott 2 - Scott Walker
+107: (  6) - Waves - Newdad
+108: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
+109: (  4) - Abraxas - Santana
+110: (  4) - Days Of Open Hand - Suzanne Vega
+111: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+112: (  4) * Scott - Scott Walker
+113: (  4) - Tempest - Bob Dylan
+114: (  4) - The Band - The Band
+115: (  4) - The Joshua Tree - U2
+116: (  4) - Up All Night - The Waifs
+117: (  4) * Wrecking Ball - Emmylou Harris
+118: (  3) - All The Best - The Human League
+119: (  3) - Born Horses - Mercury Rev
 120: (  3) - Cut It Out - The Go-Betweens
 121: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
 122: (  3) - Elevation Days - Edwyn Collins
@@ -229,29 +230,29 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 131: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
 132: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
 133: (  2) - Knowledge - Edwyn Collins
-134: (  2) - Music From Big Pink - The Band
-135: (  2) - No Happy Endings - Emma Swift
-136: (  2) - No Obligation - The Linda Lindas
-137: (  2) - Singles 1965-1967 - The Rolling Stones
-138: (  2) * Texas Fever - Orange Juice
-139: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
-140: (  2) - To Our Children's Children's Children - The Moody Blues
-141: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-142: (  1) -  - Orange Juice
-143: (  1) - 0-100 - Bob Hund
-144: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-145: (  1) - Acoustic - Simple Minds, Kt Tunstall
-146: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-147: (  1) - Cahoots - The Band
-148: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
-149: (  1) - EELS Volume 1 - Being Dead
-150: (  1) - Electric Ladyland - Jimi Hendrix
-151: (  1) - Ett Fall Och En LöSning - Bob Hund
-152: (  1) - Fade To Grey:  The Best Of Visage - Visage
-153: (  1) * I'm Not Following You - Edwyn Collins
-154: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-155: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-156: (  1) * Losing Sleep - Edwyn Collins
+134: (  2) * Losing Sleep - Edwyn Collins
+135: (  2) - Music From Big Pink - The Band
+136: (  2) - No Happy Endings - Emma Swift
+137: (  2) - No Obligation - The Linda Lindas
+138: (  2) - Singles 1965-1967 - The Rolling Stones
+139: (  2) * Texas Fever - Orange Juice
+140: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
+141: (  2) - To Our Children's Children's Children - The Moody Blues
+142: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+143: (  1) -  - Orange Juice
+144: (  1) - 0-100 - Bob Hund
+145: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+146: (  1) - Acoustic - Simple Minds, Kt Tunstall
+147: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+148: (  1) - Cahoots - The Band
+149: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+150: (  1) - EELS Volume 1 - Being Dead
+151: (  1) - Electric Ladyland - Jimi Hendrix
+152: (  1) - Ett Fall Och En LöSning - Bob Hund
+153: (  1) - Fade To Grey:  The Best Of Visage - Visage
+154: (  1) * I'm Not Following You - Edwyn Collins
+155: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+156: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
 157: (  1) - Never Enough - Turnstile
 158: (  1) - New Wave Hits Of The 80S - ABC
 159: (  1) - New Wave Hits Of The 80S - Billy Idol

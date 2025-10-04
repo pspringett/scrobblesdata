@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    9549           258           404          2957
+    9557           258           404          2957
   1: (142) - Nation Shall Speak Unto Nation - Edwyn Collins
   2: (142) - This Could Be Texas - English Teacher
 
@@ -74,9 +74,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  35: ( 78) * Reading, Writing & Arithmetic - The Sundays
 
 
+ 36: ( 75) - You Can't Hide Your Love Forever - Orange Juice
 
 
- 36: ( 73) - You Can't Hide Your Love Forever - Orange Juice
  37: ( 72) - Vicious Creature - Lauren Mayberry
 
  38: ( 70) - Disenchanter - Alaska Reid
@@ -192,19 +192,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 137: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
 138: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
 139: ( 21) * Wrecking Ball - Emmylou Harris
-140: ( 20) - First Two Pages Of Frankenstein - The National
-141: ( 20) - Lodger (Tony Visconti 2017 Mix) - David Bowie
-142: ( 20) - On Sunset (Deluxe) - Paul Weller
-143: ( 20) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
-144: ( 19) - Da Capo - Love
-145: ( 19) * Heaven Up Here - Echo & the Bunnymen
-146: ( 19) * I Speak Because I Can - Laura Marling
-147: ( 18) * Don't Get Weird On Me Babe - Lloyd Cole
-148: ( 18) * Lay It Down - Cowboy Junkies
-149: ( 18) - Rogues Gospel - Duke Garwood
-150: ( 18) * Signing Off - UB40
-151: ( 18) - Slates - The Fall
-152: ( 17) - Coals To Newcastle - Orange Juice
+140: ( 20) - Coals To Newcastle - Orange Juice
+141: ( 20) - First Two Pages Of Frankenstein - The National
+142: ( 20) - Lodger (Tony Visconti 2017 Mix) - David Bowie
+143: ( 20) - On Sunset (Deluxe) - Paul Weller
+144: ( 20) - Orchestral Manoeuvres In The Dark (Remastered 2003) - Orchestral Manoeuvres in the Dark
+145: ( 19) - Da Capo - Love
+146: ( 19) * Heaven Up Here - Echo & the Bunnymen
+147: ( 19) * I Speak Because I Can - Laura Marling
+148: ( 18) * Don't Get Weird On Me Babe - Lloyd Cole
+149: ( 18) * Lay It Down - Cowboy Junkies
+150: ( 18) - Rogues Gospel - Duke Garwood
+151: ( 18) * Signing Off - UB40
+152: ( 18) - Slates - The Fall
 153: ( 17) * Electric Warrior - T. Rex
 154: ( 17) * Get Happy!! - Elvis Costello & the Attractions
 155: ( 17) * Impossible Dream - Patty Griffin
@@ -282,15 +282,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 227: ( 10) * Shot Of Love - Bob Dylan
 228: ( 10) - Speaking In Tongues - Talking Heads
 229: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
-230: ( 10) - The River & The Thread - Rosanne Cash
-231: ( 10) * Young Americans - David Bowie
-232: (  9) * Blood On The Tracks - Bob Dylan
-233: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
-234: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-235: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
-236: (  9) - Reel To Real Cacophony - Simple Minds
-237: (  9) * Tallulah - The Go-Betweens
-238: (  9) * The Orange Juice - Orange Juice
+230: ( 10) * The Orange Juice - Orange Juice
+231: ( 10) - The River & The Thread - Rosanne Cash
+232: ( 10) * Young Americans - David Bowie
+233: (  9) * Blood On The Tracks - Bob Dylan
+234: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+235: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+236: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
+237: (  9) - Reel To Real Cacophony - Simple Minds
+238: (  9) * Tallulah - The Go-Betweens
 239: (  9) * Tom Tom Club - Tom Tom Club
 240: (  8) * Bite - Altered Images
 241: (  8) - Disintegration - The Cure
@@ -303,14 +303,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 248: (  8) - Saturns Pattern - Paul Weller
 249: (  8) - Scott 3 - Scott Walker
 250: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
-251: (  8) - What Happened To The Heart? - Aurora
-252: (  7) - All Fall Down - The Sound
-253: (  7) * Demons/Demons - JT Nero
-254: (  7) - Earth-Sized Worlds - Mandrake Handshake
-255: (  7) - Head Over Heels - Cocteau Twins
-256: (  7) * Scott 2 - Scott Walker
-257: (  7) - Songs Of Bob Dylan - Joan Osborne
-258: (  7) - The Glasgow School - Orange Juice
+251: (  8) - The Glasgow School - Orange Juice
+252: (  8) - What Happened To The Heart? - Aurora
+253: (  7) - All Fall Down - The Sound
+254: (  7) * Demons/Demons - JT Nero
+255: (  7) - Earth-Sized Worlds - Mandrake Handshake
+256: (  7) - Head Over Heels - Cocteau Twins
+257: (  7) * Scott 2 - Scott Walker
+258: (  7) - Songs Of Bob Dylan - Joan Osborne
 259: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
 260: (  6) * Broken Carelessly - The Redlands Palomino Company
 261: (  6) - Let's Dance (2018 Remaster) - David Bowie
@@ -358,66 +358,66 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 303: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
 304: (  2) - Knowledge - Edwyn Collins
 305: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-306: (  2) - Music From Big Pink - The Band
-307: (  2) - No Happy Endings - Emma Swift
-308: (  2) - Romance - Fontaines D.c.
-309: (  2) * Songs Of Leonard Cohen - Leonard Cohen
-310: (  2) - Sweet Misdemeanour - Martin Stephenson
-311: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
-312: (  2) - To Our Children's Children's Children - The Moody Blues
-313: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-314: (  1) -  - Orange Juice
-315: (  1) - 0-100 - Bob Hund
-316: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-317: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-318: (  1) - Acoustic - Simple Minds, Kt Tunstall
-319: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
-320: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
-321: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
-322: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-323: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-324: (  1) - Blue - Joni Mitchell
-325: (  1) - Brat - Charli Xcx
-326: (  1) - Brotherhood - New Order
-327: (  1) - Burnin' - The Wailers
-328: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-329: (  1) - Cahoots - The Band
-330: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
-331: (  1) - Caribou (Remastered 1995) - Elton John
-332: (  1) - Cat People - David Bowie
-333: (  1) - Christmas Jams - Michael Bublé
-334: (  1) - Closing Sound - Blue Bendy
-335: (  1) - Coming Home - Cara Dillon
-336: (  1) - Conditions - The Temper Trap
-337: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
-338: (  1) - Dare! - The Human League
-339: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
-340: (  1) - Dragnet - The Fall
-341: (  1) - Electric Ladyland - Jimi Hendrix
-342: (  1) - Electrical Storm (Remastered 2024) - U2
-343: (  1) - Elton John - Elton John
-344: (  1) - Etc - Lloyd Cole
-345: (  1) - Ett Fall Och En LöSning - Bob Hund
-346: (  1) - Fade To Grey:  The Best Of Visage - Visage
-347: (  1) - Fairytale Of New York - The Pogues
-348: (  1) - Fragile (Deluxe Edition) - Yes
-349: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
-350: (  1) - Get It On: The Collection - T. Rex
-351: (  1) - Goodbye Yellow Brick Road - Elton John
-352: (  1) - Greatest Hits (Remastered) - Queen
-353: (  1) - Greatest Hits - The Cure
-354: (  1) - His Band And The Street Choir - Van Morrison
-355: (  1) - Holiday Pop - The Ronettes
-356: (  1) * I'm Not Following You - Edwyn Collins
-357: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-358: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-359: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-360: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-361: (  1) - Kimono My House - Sparks
-362: (  1) - Life's Hard And Then You Die - It'S Immaterial
-363: (  1) - Loaded - The Velvet Underground
-364: (  1) - London Boy - David Bowie
-365: (  1) * Losing Sleep - Edwyn Collins
+306: (  2) * Losing Sleep - Edwyn Collins
+307: (  2) - Music From Big Pink - The Band
+308: (  2) - No Happy Endings - Emma Swift
+309: (  2) - Romance - Fontaines D.c.
+310: (  2) * Songs Of Leonard Cohen - Leonard Cohen
+311: (  2) - Sweet Misdemeanour - Martin Stephenson
+312: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
+313: (  2) - To Our Children's Children's Children - The Moody Blues
+314: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+315: (  1) -  - Orange Juice
+316: (  1) - 0-100 - Bob Hund
+317: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+318: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+319: (  1) - Acoustic - Simple Minds, Kt Tunstall
+320: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+321: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
+322: (  1) - Architecture & Morality / Dazzle Ships - Orchestral Manoeuvres in the Dark
+323: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+324: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+325: (  1) - Blue - Joni Mitchell
+326: (  1) - Brat - Charli Xcx
+327: (  1) - Brotherhood - New Order
+328: (  1) - Burnin' - The Wailers
+329: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+330: (  1) - Cahoots - The Band
+331: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
+332: (  1) - Caribou (Remastered 1995) - Elton John
+333: (  1) - Cat People - David Bowie
+334: (  1) - Christmas Jams - Michael Bublé
+335: (  1) - Closing Sound - Blue Bendy
+336: (  1) - Coming Home - Cara Dillon
+337: (  1) - Conditions - The Temper Trap
+338: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+339: (  1) - Dare! - The Human League
+340: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+341: (  1) - Dragnet - The Fall
+342: (  1) - Electric Ladyland - Jimi Hendrix
+343: (  1) - Electrical Storm (Remastered 2024) - U2
+344: (  1) - Elton John - Elton John
+345: (  1) - Etc - Lloyd Cole
+346: (  1) - Ett Fall Och En LöSning - Bob Hund
+347: (  1) - Fade To Grey:  The Best Of Visage - Visage
+348: (  1) - Fairytale Of New York - The Pogues
+349: (  1) - Fragile (Deluxe Edition) - Yes
+350: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
+351: (  1) - Get It On: The Collection - T. Rex
+352: (  1) - Goodbye Yellow Brick Road - Elton John
+353: (  1) - Greatest Hits (Remastered) - Queen
+354: (  1) - Greatest Hits - The Cure
+355: (  1) - His Band And The Street Choir - Van Morrison
+356: (  1) - Holiday Pop - The Ronettes
+357: (  1) * I'm Not Following You - Edwyn Collins
+358: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+359: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+360: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+361: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+362: (  1) - Kimono My House - Sparks
+363: (  1) - Life's Hard And Then You Die - It'S Immaterial
+364: (  1) - Loaded - The Velvet Underground
+365: (  1) - London Boy - David Bowie
 366: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
 367: (  1) - Merry Christmas - Mariah Carey
 368: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
