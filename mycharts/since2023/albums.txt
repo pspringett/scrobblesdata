@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    9623           258           405          2969
+    9637           258           405          2970
   1: (144) - Nation Shall Speak Unto Nation - Edwyn Collins
 
   2: (142) - This Could Be Texas - English Teacher
@@ -83,20 +83,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  38: ( 70) - Disenchanter - Alaska Reid
  39: ( 70) - Get Behind The Wheel - Eilen Jewell
  40: ( 70) - Loveless - My Bloody Valentine
+ 41: ( 69) - The Resurrection Game - Emma Swift
 
+ 42: ( 67) - Short Movie - Laura Marling
+ 43: ( 67) - Such Ferocious Beauty - Cowboy Junkies
+ 44: ( 67) - The Complete Budokan 1978 (Live) - Bob Dylan
+ 45: ( 66) - Mascara Streakz - Altered Images
 
- 41: ( 67) - Short Movie - Laura Marling
- 42: ( 67) - Such Ferocious Beauty - Cowboy Junkies
- 43: ( 67) - The Complete Budokan 1978 (Live) - Bob Dylan
- 44: ( 66) - Mascara Streakz - Altered Images
+ 46: ( 64) - Doctor Syntax - Edwyn Collins
+ 47: ( 64) - Strawberries - Robert Forster
+ 48: ( 63) - Isn’T Anything - My Bloody Valentine
+ 49: ( 62) - Songs Of Surrender - U2
+ 50: ( 61) - Phonetics On And On - Horsegirl
+ 51: ( 60) - Home Again - Edwyn Collins
 
- 45: ( 64) - Doctor Syntax - Edwyn Collins
- 46: ( 64) - Strawberries - Robert Forster
- 47: ( 63) - Isn’T Anything - My Bloody Valentine
- 48: ( 62) - Songs Of Surrender - U2
- 49: ( 61) - Phonetics On And On - Horsegirl
- 50: ( 60) - Home Again - Edwyn Collins
- 51: ( 59) - The Resurrection Game - Emma Swift
 
 
 
@@ -236,57 +236,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 181: ( 13) * Blonde On Blonde - Bob Dylan
 182: ( 13) - Burnin' - Bob Marley & the Wailers
 183: ( 13) - Case/Lang/Veirs - case/lang/veirs
-184: ( 13) - Introducing The Style Council - The Style Council
-185: ( 13) - Kelvingrove Baby - The Bathers
-186: ( 13) * New Gold Dream (81-82-83-84) - Simple Minds
-187: ( 13) - Siren - Roxy Music
-188: ( 13) - Staring At The Sea - The Singles - The Cure
-189: ( 13) - This Year's Model (2021 Remaster) - Elvis Costello
-190: ( 12) * Black Eyed Man - Cowboy Junkies
-191: ( 12) * Closer - Joy Division
-192: ( 12) - Elevation Days - Edwyn Collins
-193: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
-194: ( 12) - Greatest Hits: Blondie - Blondie
-195: ( 12) - John Wesley Harding - Bob Dylan
-196: ( 12) - Love Story Demos - Lloyd Cole
-197: ( 12) - Only Hinting - Clinic Stars
-198: ( 12) - Rip It Up - Orange Juice
-199: ( 12) - Rough And Rowdy Ways - Bob Dylan
-200: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
-201: ( 11) - A Whole New Thing - Sly & the Family Stone
-202: ( 11) * Antidepressant - Lloyd Cole
-203: ( 11) * Black Cadillac - Rosanne Cash
-204: ( 11) * Bringing It All Back Home - Bob Dylan
-205: ( 11) - Guesswork - Lloyd Cole
-206: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
-207: ( 11) - Laurel Canyon - Laurel Canyon
-208: ( 11) * Little Rock - Hayes Carll
-209: ( 11) - Marquee Moon - Television
-210: ( 11) - Rumours - Fleetwood Mac
-211: ( 11) * Scott - Scott Walker
-212: ( 11) - Singles 1965-1967 - The Rolling Stones
-213: ( 11) * Standards - Lloyd Cole
-214: ( 11) - Swing In 82 - Paul Haig
-215: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
-216: ( 11) - Through The Windowpane - Guillemots
-217: ( 11) - Traveling Alone - Tift Merritt
-218: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
-219: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
-220: ( 10) - Life In A Day - Simple Minds
-221: ( 10) - Lionheart (2018 Remaster) - Kate Bush
-222: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
-223: ( 10) - Old Hands - Yonder Mountain String Band
-224: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
-225: ( 10) - Rat Saw God - Wednesday
-226: ( 10) * Roxy Music - Roxy Music
-227: ( 10) - Setting Sons - The Jam
-228: ( 10) * Shot Of Love - Bob Dylan
-229: ( 10) - Speaking In Tongues - Talking Heads
-230: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
-231: ( 10) - The River & The Thread - Rosanne Cash
-232: ( 10) * Young Americans - David Bowie
-233: (  9) * Blood On The Tracks - Bob Dylan
-234: (  9) - I Believe In You, My Honeydew - Josh Ritter
+184: ( 13) - I Believe In You, My Honeydew - Josh Ritter
+185: ( 13) - Introducing The Style Council - The Style Council
+186: ( 13) - Kelvingrove Baby - The Bathers
+187: ( 13) * New Gold Dream (81-82-83-84) - Simple Minds
+188: ( 13) - Siren - Roxy Music
+189: ( 13) - Staring At The Sea - The Singles - The Cure
+190: ( 13) - This Year's Model (2021 Remaster) - Elvis Costello
+191: ( 12) * Black Eyed Man - Cowboy Junkies
+192: ( 12) * Closer - Joy Division
+193: ( 12) - Elevation Days - Edwyn Collins
+194: ( 12) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+195: ( 12) - Greatest Hits: Blondie - Blondie
+196: ( 12) - John Wesley Harding - Bob Dylan
+197: ( 12) - Love Story Demos - Lloyd Cole
+198: ( 12) - Only Hinting - Clinic Stars
+199: ( 12) - Rip It Up - Orange Juice
+200: ( 12) - Rough And Rowdy Ways - Bob Dylan
+201: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+202: ( 11) - A Whole New Thing - Sly & the Family Stone
+203: ( 11) * Antidepressant - Lloyd Cole
+204: ( 11) * Black Cadillac - Rosanne Cash
+205: ( 11) * Bringing It All Back Home - Bob Dylan
+206: ( 11) - Guesswork - Lloyd Cole
+207: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+208: ( 11) - Laurel Canyon - Laurel Canyon
+209: ( 11) * Little Rock - Hayes Carll
+210: ( 11) - Marquee Moon - Television
+211: ( 11) - Rumours - Fleetwood Mac
+212: ( 11) * Scott - Scott Walker
+213: ( 11) - Singles 1965-1967 - The Rolling Stones
+214: ( 11) * Standards - Lloyd Cole
+215: ( 11) - Swing In 82 - Paul Haig
+216: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
+217: ( 11) - Through The Windowpane - Guillemots
+218: ( 11) - Traveling Alone - Tift Merritt
+219: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+220: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
+221: ( 10) - Life In A Day - Simple Minds
+222: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+223: ( 10) - Live In London 1980: The Legendary Chaos Tape - The Fall
+224: ( 10) - Old Hands - Yonder Mountain String Band
+225: ( 10) * Old Sticks To Scare A Bird - Angie Palmer
+226: ( 10) - Rat Saw God - Wednesday
+227: ( 10) * Roxy Music - Roxy Music
+228: ( 10) - Setting Sons - The Jam
+229: ( 10) * Shot Of Love - Bob Dylan
+230: ( 10) - Speaking In Tongues - Talking Heads
+231: ( 10) - The Complete Matrix Tapes #1 - The Velvet Underground
+232: ( 10) - The River & The Thread - Rosanne Cash
+233: ( 10) * Young Americans - David Bowie
+234: (  9) * Blood On The Tracks - Bob Dylan
 235: (  9) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
 236: (  9) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
 237: (  9) - New Gold Dream (81/82/83/84) (Deluxe) - Simple Minds
