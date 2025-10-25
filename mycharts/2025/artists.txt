@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2891           130           164          1234
+    2948           135           170          1258
   1: (312) - Edwyn Collins
 
 
@@ -202,37 +202,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   3: (112) - Sharon Van Etten
+  4: (111) - Josh Ritter
 
 
 
 
 
 
-  4: (105) - Josh Ritter
   5: (104) - Roxy Music
+  6: (103) - Chaparelle
+
+
+
+
+  7: ( 98) - Emma Swift
 
 
 
 
 
-  6: ( 98) - Emma Swift
+
+
+  8: ( 90) - Bob Dylan
+  9: ( 90) - The Burning Hell
 
 
 
 
 
 
-
-  7: ( 90) - The Burning Hell
-
+ 10: ( 83) - Gardens
 
 
-
-
-  8: ( 84) - Chaparelle
-  9: ( 83) - Gardens
-
- 10: ( 81) - Bob Dylan
 
 
  11: ( 78) - Orange Juice
@@ -243,14 +244,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  13: ( 72) - Lauren Mayberry
+ 14: ( 72) - Robert Forster
 
- 14: ( 70) - Simple Minds
-
-
-
+ 15: ( 70) - Simple Minds
 
 
- 15: ( 64) - Robert Forster
+
+
+
+
 
 
  16: ( 61) - Horsegirl
@@ -298,26 +300,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  35: ( 23) - Hem
  36: ( 22) - The Weather Station
  37: ( 21) - Scott Walker
+ 38: ( 21) - The Go-Betweens
 
- 38: ( 19) - UB40
+ 39: ( 19) - UB40
 
- 39: ( 17) - Elvis Costello & the Attractions
- 40: ( 17) - Orchestral Manoeuvres in the Dark
- 41: ( 17) - Patty Griffin
- 42: ( 16) - Chip Taylor & Carrie Rodriguez
- 43: ( 16) - St. Vincent
- 44: ( 16) - T. Rex
+ 40: ( 17) - Elvis Costello & the Attractions
+ 41: ( 17) - Orchestral Manoeuvres in the Dark
+ 42: ( 17) - Patty Griffin
+ 43: ( 16) - Chip Taylor & Carrie Rodriguez
+ 44: ( 16) - St. Vincent
+ 45: ( 16) - T. Rex
 
 
- 45: ( 13) - Aztec Camera
- 46: ( 13) - Bob Marley & the Wailers
- 47: ( 13) - case/lang/veirs
+ 46: ( 13) - Aztec Camera
+ 47: ( 13) - Bob Marley & the Wailers
+ 48: ( 13) - case/lang/veirs
 
- 48: ( 11) - Bob Hund
- 49: ( 11) - Guillemots
- 50: ( 11) - Hayes Carll
- 51: ( 11) - Sly & the Family Stone
- 52: ( 11) - The Go-Betweens
+ 49: ( 11) - Bob Hund
+ 50: ( 11) - Guillemots
+ 51: ( 11) - Hayes Carll
+ 52: ( 11) - Sly & the Family Stone
  53: ( 11) - The Velvet Underground
  54: ( 11) - Tift Merritt
  55: ( 10) - David Bowie
@@ -362,37 +364,42 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  94: (  2) - Waxahatchee, Mj Lenderman
  95: (  1) - Billy Idol
  96: (  1) - Blue Orchids
- 97: (  1) - Bryan Ferry
- 98: (  1) - Culture Club
- 99: (  1) - Dexys Midnight Runners
-100: (  1) - Eddie Vedder & the Million Dollar Bashers
-101: (  1) - Girls At Our Best!
-102: (  1) - Hurrah!
-103: (  1) - Jane
-104: (  1) - Jimi Hendrix
-105: (  1) - Joe Jackson
-106: (  1) - Level 42
-107: (  1) - Marine Girls
-108: (  1) - Nouvelle Vague, Marina Céleste
-109: (  1) - Simple Minds, Kt Tunstall
-110: (  1) - Soft Cell
-111: (  1) - Sonic Youth
-112: (  1) - The Buggles
-113: (  1) - The Divine Comedy
-114: (  1) - The Go-go's
-115: (  1) - The Monochrome Set
-116: (  1) - The Motels
-117: (  1) - The Nightingales
-118: (  1) - The Police
-119: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-120: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-121: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-122: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-123: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-124: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-125: (  1) - Trio
-126: (  1) - Turnstile
-127: (  1) - Tv21
-128: (  1) - Visage
-129: (  1) - Wang Chung
-130: (  1) - When in Rome
+ 97: (  1) - Bob Dylan & Johnny Cash
+ 98: (  1) - Bryan Ferry
+ 99: (  1) - Culture Club
+100: (  1) - Dexys Midnight Runners
+101: (  1) - Eddie Vedder & the Million Dollar Bashers
+102: (  1) - Girls At Our Best!
+103: (  1) - Grant Mclennan
+104: (  1) - Hurrah!
+105: (  1) - Jane
+106: (  1) - Jimi Hendrix
+107: (  1) - Joe Jackson
+108: (  1) - Level 42
+109: (  1) - Marine Girls
+110: (  1) - Nouvelle Vague, Marina Céleste
+111: (  1) - Simple Minds, Kt Tunstall
+112: (  1) - Soft Cell
+113: (  1) - Sonic Youth
+114: (  1) - The Buggles
+115: (  1) - The Chills
+116: (  1) - The Church
+117: (  1) - The Divine Comedy
+118: (  1) - The Go-go's
+119: (  1) - The Monochrome Set
+120: (  1) - The Motels
+121: (  1) - The Nightingales
+122: (  1) - The Police
+123: (  1) - The Triffids
+124: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+125: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+126: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+127: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+128: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+129: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+130: (  1) - Trio
+131: (  1) - Turnstile
+132: (  1) - Tv21
+133: (  1) - Visage
+134: (  1) - Wang Chung
+135: (  1) - When in Rome

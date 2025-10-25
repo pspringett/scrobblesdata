@@ -1,7 +1,7 @@
 Specified year (2025), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     108             5            16            75
-1: (36) - Orange Juice
+     165            14            24           118
+ 1: (36) - Orange Juice
 
 
 
@@ -12,17 +12,32 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-2: (25) - Edwyn Collins
+ 2: (25) - Edwyn Collins
+
+ 3: (23) - Josh Ritter
+
+
+
+ 4: (19) - Chaparelle
+ 5: (18) - Emma Swift
+
+
+
+
+
+ 6: (12) - Wet Leg
+
+ 7: (10) - The Go-Betweens
+ 8: ( 9) - Bob Dylan
+ 9: ( 8) - Robert Forster
 
 
 
 
 
 
-3: (18) - Emma Swift
-4: (17) - Josh Ritter
-
-
-
-
-5: (12) - Wet Leg
+10: ( 1) - Bob Dylan & Johnny Cash
+11: ( 1) - Grant Mclennan
+12: ( 1) - The Chills
+13: ( 1) - The Church
+14: ( 1) - The Triffids
