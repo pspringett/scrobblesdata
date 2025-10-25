@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2948           135           170          1258
+    2960           135           170          1258
   1: (312) - Edwyn Collins
 
 
@@ -208,22 +208,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  5: (104) - Roxy Music
-  6: (103) - Chaparelle
-
+  5: (105) - Chaparelle
+  6: (104) - Roxy Music
 
 
 
-  7: ( 98) - Emma Swift
 
-
+  7: ( 99) - Bob Dylan
+  8: ( 98) - Emma Swift
 
 
 
 
 
-  8: ( 90) - Bob Dylan
+
+
   9: ( 90) - The Burning Hell
 
 
@@ -356,15 +355,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  86: (  3) - Mercury Rev
  87: (  3) - Pulp, Chilly Gonzales
  88: (  3) - The Moody Blues
- 89: (  2) - Ricky Nelson, the Stone Canyon Band
- 90: (  2) - Rodney Crowell
- 91: (  2) - The Linda Lindas
- 92: (  2) - The Rolling Stones
- 93: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 94: (  2) - Waxahatchee, Mj Lenderman
- 95: (  1) - Billy Idol
- 96: (  1) - Blue Orchids
- 97: (  1) - Bob Dylan & Johnny Cash
+ 89: (  2) - Bob Dylan & Johnny Cash
+ 90: (  2) - Ricky Nelson, the Stone Canyon Band
+ 91: (  2) - Rodney Crowell
+ 92: (  2) - The Linda Lindas
+ 93: (  2) - The Rolling Stones
+ 94: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 95: (  2) - Waxahatchee, Mj Lenderman
+ 96: (  1) - Billy Idol
+ 97: (  1) - Blue Orchids
  98: (  1) - Bryan Ferry
  99: (  1) - Culture Club
 100: (  1) - Dexys Midnight Runners
