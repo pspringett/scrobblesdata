@@ -1,6 +1,6 @@
 Specified year (2025), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     193            14            24           125
+     198            14            25           130
  1: (36) - Orange Juice
 
 
@@ -14,13 +14,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  3: (25) - Edwyn Collins
 
+ 4: (23) - Emma Swift
+
+ 5: (21) - Chaparelle
 
 
- 4: (21) - Chaparelle
-
-
- 5: (18) - Bob Dylan
- 6: (18) - Emma Swift
+ 6: (18) - Bob Dylan
  7: (17) - The Go-Betweens
 
 
