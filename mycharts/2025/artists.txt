@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2990           135           171          1268
+    2983           130           167          1264
   1: (312) - Edwyn Collins
 
 
@@ -213,9 +213,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   6: (104) - Roxy Music
   7: (103) - Emma Swift
 
+  8: (101) - Bob Dylan
 
 
-  8: ( 99) - Bob Dylan
 
 
 
@@ -299,11 +299,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  36: ( 23) - Hem
  37: ( 22) - The Weather Station
  38: ( 21) - Scott Walker
- 39: ( 20) - Patty Griffin
- 40: ( 19) - UB40
 
- 41: ( 17) - Elvis Costello & the Attractions
- 42: ( 17) - Orchestral Manoeuvres in the Dark
+ 39: ( 19) - UB40
+
+ 40: ( 17) - Elvis Costello & the Attractions
+ 41: ( 17) - Orchestral Manoeuvres in the Dark
+ 42: ( 17) - Patty Griffin
  43: ( 16) - Chip Taylor & Carrie Rodriguez
  44: ( 16) - St. Vincent
  45: ( 16) - T. Rex
@@ -353,50 +354,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  86: (  3) - Mercury Rev
  87: (  3) - Pulp, Chilly Gonzales
  88: (  3) - The Moody Blues
- 89: (  2) - Bob Dylan & Johnny Cash
- 90: (  2) - Ricky Nelson, the Stone Canyon Band
- 91: (  2) - Rodney Crowell
- 92: (  2) - The Linda Lindas
- 93: (  2) - The Rolling Stones
- 94: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 95: (  2) - Waxahatchee, Mj Lenderman
- 96: (  1) - Billy Idol
- 97: (  1) - Blue Orchids
- 98: (  1) - Bryan Ferry
- 99: (  1) - Culture Club
-100: (  1) - Dexys Midnight Runners
-101: (  1) - Eddie Vedder & the Million Dollar Bashers
-102: (  1) - Girls At Our Best!
-103: (  1) - Grant Mclennan
-104: (  1) - Hurrah!
-105: (  1) - Jane
-106: (  1) - Jimi Hendrix
-107: (  1) - Joe Jackson
-108: (  1) - Level 42
-109: (  1) - Marine Girls
-110: (  1) - Nouvelle Vague, Marina Céleste
-111: (  1) - Simple Minds, Kt Tunstall
-112: (  1) - Soft Cell
-113: (  1) - Sonic Youth
-114: (  1) - The Buggles
-115: (  1) - The Chills
-116: (  1) - The Church
-117: (  1) - The Divine Comedy
-118: (  1) - The Go-go's
-119: (  1) - The Monochrome Set
-120: (  1) - The Motels
-121: (  1) - The Nightingales
-122: (  1) - The Police
-123: (  1) - The Triffids
-124: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-125: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-126: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-127: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-128: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-129: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-130: (  1) - Trio
-131: (  1) - Turnstile
-132: (  1) - Tv21
-133: (  1) - Visage
-134: (  1) - Wang Chung
-135: (  1) - When in Rome
+ 89: (  2) - Ricky Nelson, the Stone Canyon Band
+ 90: (  2) - Rodney Crowell
+ 91: (  2) - The Linda Lindas
+ 92: (  2) - The Rolling Stones
+ 93: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 94: (  2) - Waxahatchee, Mj Lenderman
+ 95: (  1) - Billy Idol
+ 96: (  1) - Blue Orchids
+ 97: (  1) - Bryan Ferry
+ 98: (  1) - Culture Club
+ 99: (  1) - Dexys Midnight Runners
+100: (  1) - Eddie Vedder & the Million Dollar Bashers
+101: (  1) - Girls At Our Best!
+102: (  1) - Hurrah!
+103: (  1) - Jane
+104: (  1) - Jimi Hendrix
+105: (  1) - Joe Jackson
+106: (  1) - Level 42
+107: (  1) - Marine Girls
+108: (  1) - Nouvelle Vague, Marina Céleste
+109: (  1) - Simple Minds, Kt Tunstall
+110: (  1) - Soft Cell
+111: (  1) - Sonic Youth
+112: (  1) - The Buggles
+113: (  1) - The Divine Comedy
+114: (  1) - The Go-go's
+115: (  1) - The Monochrome Set
+116: (  1) - The Motels
+117: (  1) - The Nightingales
+118: (  1) - The Police
+119: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+120: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+121: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+122: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+123: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+124: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+125: (  1) - Trio
+126: (  1) - Turnstile
+127: (  1) - Tv21
+128: (  1) - Visage
+129: (  1) - Wang Chung
+130: (  1) - When in Rome
