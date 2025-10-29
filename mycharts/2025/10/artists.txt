@@ -1,6 +1,6 @@
 Specified year (2025), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     205            15            27           134
+     207            15            27           134
  1: (36) - Orange Juice
  2: (35) - Josh Ritter
 
@@ -34,10 +34,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-10: ( 2) - Bob Dylan & Johnny Cash
-11: ( 1) - Grant Mclennan
-12: ( 1) - Patty Griffin
+10: ( 3) - Patty Griffin
+11: ( 2) - Bob Dylan & Johnny Cash
+12: ( 1) - Grant Mclennan
 13: ( 1) - The Chills
 14: ( 1) - The Church
 15: ( 1) - The Triffids
