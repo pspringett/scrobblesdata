@@ -1,6 +1,6 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      94             8             9            89
+      97             9            10            92
 1: (34) - Hem
 
 
@@ -32,3 +32,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 7: ( 7) - The Burning Hell
 
 8: ( 5) - Josh Ritter
+
+9: ( 3) - Martin Stephenson
