@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3140           132           174          1337
+    3152           132           175          1349
   1: (312) - Edwyn Collins
 
 
@@ -311,65 +311,65 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  47: ( 13) - Aztec Camera
  48: ( 13) - Bob Marley & the Wailers
- 49: ( 13) - case/lang/veirs
+ 49: ( 13) - Jimi Hendrix
+ 50: ( 13) - case/lang/veirs
 
- 50: ( 11) - Bob Hund
- 51: ( 11) - Guillemots
- 52: ( 11) - Hayes Carll
- 53: ( 11) - Sly & the Family Stone
- 54: ( 11) - The Velvet Underground
- 55: ( 11) - Tift Merritt
- 56: ( 10) - David Bowie
- 57: ( 10) - K.D. Lang
- 58: ( 10) - Kate Bush
- 59: ( 10) - The Belair Lip Bombs
- 60: ( 10) - The Sundays
- 61: ( 10) - Yonder Mountain String Band
- 62: (  9) - Echo & the Bunnymen
- 63: (  9) - English Teacher
- 64: (  9) - Tom Tom Club
- 65: (  8) - Altered Images
- 66: (  8) - Aurora
- 67: (  8) - B.E.F.
- 68: (  8) - Joy Division
- 69: (  8) - Talking Heads
- 70: (  8) - The Band
- 71: (  7) - JT Nero
- 72: (  7) - Joan Osborne
- 73: (  7) - Leonard Cohen
- 74: (  7) - Mandrake Handshake
- 75: (  7) - The Bluebells
- 76: (  6) - Newdad
- 77: (  5) - Tracey Thorn
- 78: (  4) - ABC
- 79: (  4) - Emmylou Harris
- 80: (  4) - Santana
- 81: (  4) - The Human League
- 82: (  4) - The Waifs
- 83: (  4) - U2
- 84: (  4) - Weekend
- 85: (  3) - Andy Golledge
- 86: (  3) - Bob Dylan and the Band
- 87: (  3) - Martin Stephenson
- 88: (  3) - Mercury Rev
- 89: (  3) - Pulp, Chilly Gonzales
- 90: (  3) - The Moody Blues
- 91: (  2) - Ricky Nelson, the Stone Canyon Band
- 92: (  2) - Rodney Crowell
- 93: (  2) - The Linda Lindas
- 94: (  2) - The Rolling Stones
- 95: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 96: (  2) - Waxahatchee, Mj Lenderman
- 97: (  1) - Billy Idol
- 98: (  1) - Blue Orchids
- 99: (  1) - Bryan Ferry
-100: (  1) - Culture Club
-101: (  1) - Dexys Midnight Runners
-102: (  1) - Eddie Vedder & the Million Dollar Bashers
-103: (  1) - Girls At Our Best!
-104: (  1) - Hurrah!
-105: (  1) - Jane
-106: (  1) - Jimi Hendrix
+ 51: ( 11) - Bob Hund
+ 52: ( 11) - Guillemots
+ 53: ( 11) - Hayes Carll
+ 54: ( 11) - Sly & the Family Stone
+ 55: ( 11) - The Velvet Underground
+ 56: ( 11) - Tift Merritt
+ 57: ( 10) - David Bowie
+ 58: ( 10) - K.D. Lang
+ 59: ( 10) - Kate Bush
+ 60: ( 10) - The Belair Lip Bombs
+ 61: ( 10) - The Sundays
+ 62: ( 10) - Yonder Mountain String Band
+ 63: (  9) - Echo & the Bunnymen
+ 64: (  9) - English Teacher
+ 65: (  9) - Tom Tom Club
+ 66: (  8) - Altered Images
+ 67: (  8) - Aurora
+ 68: (  8) - B.E.F.
+ 69: (  8) - Joy Division
+ 70: (  8) - Talking Heads
+ 71: (  8) - The Band
+ 72: (  7) - JT Nero
+ 73: (  7) - Joan Osborne
+ 74: (  7) - Leonard Cohen
+ 75: (  7) - Mandrake Handshake
+ 76: (  7) - The Bluebells
+ 77: (  6) - Newdad
+ 78: (  5) - Tracey Thorn
+ 79: (  4) - ABC
+ 80: (  4) - Emmylou Harris
+ 81: (  4) - Santana
+ 82: (  4) - The Human League
+ 83: (  4) - The Waifs
+ 84: (  4) - U2
+ 85: (  4) - Weekend
+ 86: (  3) - Andy Golledge
+ 87: (  3) - Bob Dylan and the Band
+ 88: (  3) - Martin Stephenson
+ 89: (  3) - Mercury Rev
+ 90: (  3) - Pulp, Chilly Gonzales
+ 91: (  3) - The Moody Blues
+ 92: (  2) - Ricky Nelson, the Stone Canyon Band
+ 93: (  2) - Rodney Crowell
+ 94: (  2) - The Linda Lindas
+ 95: (  2) - The Rolling Stones
+ 96: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 97: (  2) - Waxahatchee, Mj Lenderman
+ 98: (  1) - Billy Idol
+ 99: (  1) - Blue Orchids
+100: (  1) - Bryan Ferry
+101: (  1) - Culture Club
+102: (  1) - Dexys Midnight Runners
+103: (  1) - Eddie Vedder & the Million Dollar Bashers
+104: (  1) - Girls At Our Best!
+105: (  1) - Hurrah!
+106: (  1) - Jane
 107: (  1) - Joe Jackson
 108: (  1) - Level 42
 109: (  1) - Marine Girls
