@@ -1,6 +1,6 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     216            16            18           172
+     221            16            18           177
  1: (34) - Hem
 
 
@@ -32,10 +32,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 12: ( 7) - Robert Forster
 13: ( 7) - The Burning Hell
+14: ( 6) - Aztec Camera
 
 
-
-14: ( 3) - Florence + the Machine
-15: ( 3) - Martin Stephenson
-
-16: ( 1) - Aztec Camera
+15: ( 3) - Florence + the Machine
+16: ( 3) - Martin Stephenson
