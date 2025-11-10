@@ -1,6 +1,6 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     200            14            16           156
+     216            16            18           172
  1: (34) - Hem
 
 
@@ -14,26 +14,28 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  3: (24) - Martin Stephenson and the Daintees
 
  4: (22) - Wolf Alice
-
-
- 5: (19) - Josh Ritter
-
+ 5: (21) - Josh Ritter
 
 
 
 
 
- 6: (12) - Jimi Hendrix
- 7: (11) - Chaparelle
- 8: (10) - Bob Dylan
- 9: (10) - Emmylou Harris
-10: (10) - The Belair Lip Bombs
 
 
-11: ( 7) - Robert Forster
-12: ( 7) - The Burning Hell
+ 6: (13) - Haircut 100
+ 7: (12) - Jimi Hendrix
+ 8: (11) - Chaparelle
+ 9: (10) - Bob Dylan
+10: (10) - Emmylou Harris
+11: (10) - The Belair Lip Bombs
+
+
+12: ( 7) - Robert Forster
+13: ( 7) - The Burning Hell
 
 
 
-13: ( 3) - Florence + the Machine
-14: ( 3) - Martin Stephenson
+14: ( 3) - Florence + the Machine
+15: ( 3) - Martin Stephenson
+
+16: ( 1) - Aztec Camera
