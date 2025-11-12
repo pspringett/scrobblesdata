@@ -1,21 +1,26 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     248            17            19           186
- 1: (34) - Hem
+     262            18            20           188
+ 1: (38) - The Go-Betweens
 
 
 
- 2: (30) - Josh Ritter
+ 2: (34) - Hem
 
- 3: (28) - The Go-Betweens
+
+
+ 3: (30) - Josh Ritter
+
+
 
 
 
  4: (24) - Martin Stephenson and the Daintees
 
- 5: (22) - Wolf Alice
+ 5: (22) - Chaparelle
+ 6: (22) - Wolf Alice
 
- 6: (20) - Chaparelle
+
 
 
 
@@ -37,3 +42,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 16: ( 3) - Florence + the Machine
 17: ( 3) - Martin Stephenson
+18: ( 2) - Eliza Gilkyson
