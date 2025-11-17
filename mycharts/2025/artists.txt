@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3309           135           181          1404
+    3336           135           181          1404
   1: (312) - Edwyn Collins
 
 
@@ -207,10 +207,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  7: (106) - Emma Swift
 
+  8: (104) - Roxy Music
 
-  7: (104) - Roxy Music
-  8: (103) - Emma Swift
 
 
 
@@ -225,31 +225,31 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 10: ( 88) - Martin Stephenson and the Daintees
+
+
+
+
+ 11: ( 83) - Gardens
+ 12: ( 82) - Robert Forster
+
+
+
+ 13: ( 78) - Orange Juice
+ 14: ( 78) - Pulp
 
 
 
 
 
- 10: ( 83) - Gardens
- 11: ( 82) - Robert Forster
+ 15: ( 72) - Lauren Mayberry
+ 16: ( 71) - Wolf Alice
+ 17: ( 70) - Simple Minds
 
 
 
- 12: ( 78) - Orange Juice
- 13: ( 78) - Pulp
+ 18: ( 66) - The Go-Betweens
 
-
-
-
-
- 14: ( 72) - Lauren Mayberry
- 15: ( 71) - Wolf Alice
- 16: ( 70) - Simple Minds
-
-
-
- 17: ( 66) - The Go-Betweens
- 18: ( 65) - Martin Stephenson and the Daintees
 
 
 
@@ -300,8 +300,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: ( 21) - Scott Walker
  40: ( 20) - The Belair Lip Bombs
  41: ( 19) - Aztec Camera
- 42: ( 19) - UB40
- 43: ( 18) - Patty Griffin
+ 42: ( 19) - Patty Griffin
+ 43: ( 19) - UB40
+
  44: ( 17) - Elvis Costello & the Attractions
  45: ( 17) - Orchestral Manoeuvres in the Dark
  46: ( 16) - Chip Taylor & Carrie Rodriguez
