@@ -1,6 +1,6 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     334            22            24           219
+     346            23            24           225
  1: (47) - Martin Stephenson and the Daintees
  2: (47) - The Go-Betweens
 
@@ -25,18 +25,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (24) - Martin Stephenson
+
+ 6: (22) - Chaparelle
+ 7: (22) - Wolf Alice
+
+ 8: (20) - The Belair Lip Bombs
 
 
- 5: (22) - Chaparelle
- 6: (22) - Wolf Alice
-
- 7: (20) - The Belair Lip Bombs
 
 
 
 
-
- 8: (14) - Martin Stephenson
  9: (13) - Haircut 100
 10: (12) - Jimi Hendrix
 
@@ -53,6 +53,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 19: ( 3) - Emma Swift
 20: ( 3) - Florence + the Machine
-
-21: ( 1) - Martin Stephenson Featuring Virginia Astley
-22: ( 1) - Patty Griffin
+21: ( 2) - Martin Stephenson Featuring Cathal Coughlan
+22: ( 1) - Martin Stephenson Featuring Virginia Astley
+23: ( 1) - Patty Griffin
