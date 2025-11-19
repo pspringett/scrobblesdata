@@ -1,6 +1,6 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     347            23            25           226
+     349            23            25           228
  1: (47) - Martin Stephenson and the Daintees
  2: (47) - The Go-Betweens
 
@@ -37,9 +37,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 9: (13) - Haircut 100
-10: (12) - Jimi Hendrix
-11: (11) - Emmylou Harris
+ 9: (13) - Emmylou Harris
+10: (13) - Haircut 100
+11: (12) - Jimi Hendrix
+
 12: (10) - Bob Dylan
 13: ( 9) - Eliza Gilkyson
 14: ( 9) - Suzanne Vega
