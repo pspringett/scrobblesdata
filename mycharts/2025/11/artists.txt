@@ -1,6 +1,6 @@
 Specified year (2025), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     361            23            25           228
+     402            26            28           252
  1: (59) - Martin Stephenson and the Daintees
 
 
@@ -24,19 +24,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 3: (36) - Martin Stephenson
 
-
- 3: (34) - Hem
-
-
-
- 4: (30) - Josh Ritter
+ 4: (34) - Hem
+ 5: (34) - Josh Ritter
 
 
 
 
 
- 5: (24) - Martin Stephenson
+
+
+
+
+
 
  6: (22) - Chaparelle
  7: (22) - Wolf Alice
@@ -50,20 +51,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  9: (13) - Emmylou Harris
 10: (13) - Haircut 100
-11: (12) - Jimi Hendrix
+11: (13) - New Order
+12: (12) - Jimi Hendrix
 
-12: (10) - Bob Dylan
-13: ( 9) - Eliza Gilkyson
-14: ( 9) - Suzanne Vega
+13: (10) - Bob Dylan
+14: (10) - The Sundays
+15: ( 9) - Eliza Gilkyson
+16: ( 9) - Suzanne Vega
 
-15: ( 7) - Leonard Cohen
-16: ( 7) - Robert Forster
-17: ( 7) - The Burning Hell
-18: ( 6) - Aztec Camera
+17: ( 7) - Leonard Cohen
+18: ( 7) - Robert Forster
+19: ( 7) - The Burning Hell
+20: ( 6) - Aztec Camera
 
 
-19: ( 3) - Emma Swift
-20: ( 3) - Florence + the Machine
-21: ( 2) - Martin Stephenson Featuring Cathal Coughlan
-22: ( 1) - Martin Stephenson Featuring Virginia Astley
-23: ( 1) - Patty Griffin
+21: ( 3) - Emma Swift
+22: ( 3) - Florence + the Machine
+23: ( 2) - Martin Stephenson Featuring Cathal Coughlan
+24: ( 2) - Simple Minds
+25: ( 1) - Martin Stephenson Featuring Virginia Astley
+26: ( 1) - Patty Griffin
