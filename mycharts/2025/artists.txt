@@ -1,7 +1,7 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3445           139           185          1442
-  1: (312) - Edwyn Collins
+    3468           142           191          1449
+  1: (313) - Edwyn Collins
 
 
 
@@ -151,7 +151,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  2: (162) - Josh Ritter
+  2: (163) - Josh Ritter
+
 
 
 
@@ -197,11 +198,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  5: (116) - Sharon Van Etten
 
 
 
 
-  5: (112) - Sharon Van Etten
   6: (111) - Bob Dylan
 
 
@@ -215,8 +216,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
   9: (100) - Martin Stephenson and the Daintees
 
+ 10: ( 98) - The Burning Hell
 
- 10: ( 97) - The Burning Hell
 
 
 
@@ -231,19 +232,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  11: ( 83) - Gardens
- 12: ( 82) - Robert Forster
+ 12: ( 83) - Robert Forster
 
 
+ 13: ( 80) - Orange Juice
 
- 13: ( 78) - Orange Juice
  14: ( 78) - Pulp
 
 
- 15: ( 75) - The Go-Betweens
+ 15: ( 75) - Simple Minds
+ 16: ( 75) - The Go-Betweens
 
 
- 16: ( 72) - Lauren Mayberry
- 17: ( 72) - Simple Minds
+ 17: ( 72) - Lauren Mayberry
  18: ( 72) - Wolf Alice
 
 
@@ -280,14 +281,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  27: ( 39) - Tallies
  28: ( 39) - The Style Council
+ 29: ( 38) - Paul Weller
 
+ 30: ( 36) - Bryan Ferry, Amelia Barratt
+ 31: ( 36) - Martin Stephenson
 
- 29: ( 36) - Bryan Ferry, Amelia Barratt
- 30: ( 36) - Martin Stephenson
+ 32: ( 34) - Lloyd Cole
+ 33: ( 34) - Waxahatchee
 
- 31: ( 34) - Lloyd Cole
- 32: ( 34) - Waxahatchee
- 33: ( 33) - Paul Weller
 
 
  34: ( 30) - Laura Marling
@@ -346,13 +347,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  80: (  7) - Mandrake Handshake
  81: (  7) - The Bluebells
  82: (  6) - Newdad
- 83: (  5) - Tracey Thorn
- 84: (  4) - ABC
- 85: (  4) - Santana
- 86: (  4) - The Human League
- 87: (  4) - The Waifs
- 88: (  4) - U2
- 89: (  4) - Weekend
+ 83: (  6) - Weekend
+ 84: (  5) - Tracey Thorn
+ 85: (  4) - ABC
+ 86: (  4) - Santana
+ 87: (  4) - The Human League
+ 88: (  4) - The Waifs
+ 89: (  4) - U2
  90: (  3) - Andy Golledge
  91: (  3) - Bob Dylan and the Band
  92: (  3) - Florence + the Machine
@@ -367,39 +368,42 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 101: (  2) - The Rolling Stones
 102: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
 103: (  2) - Waxahatchee, Mj Lenderman
-104: (  1) - Billy Idol
-105: (  1) - Blue Orchids
-106: (  1) - Bryan Ferry
-107: (  1) - Culture Club
-108: (  1) - Dexys Midnight Runners
-109: (  1) - Eddie Vedder & the Million Dollar Bashers
-110: (  1) - Girls At Our Best!
-111: (  1) - Hurrah!
-112: (  1) - Jane
-113: (  1) - Joe Jackson
-114: (  1) - Level 42
-115: (  1) - Marine Girls
-116: (  1) - Martin Stephenson Featuring Virginia Astley
-117: (  1) - Nouvelle Vague, Marina Céleste
-118: (  1) - Simple Minds, Kt Tunstall
-119: (  1) - Soft Cell
-120: (  1) - Sonic Youth
-121: (  1) - The Buggles
-122: (  1) - The Divine Comedy
-123: (  1) - The Go-go's
-124: (  1) - The Monochrome Set
-125: (  1) - The Motels
-126: (  1) - The Nightingales
-127: (  1) - The Police
-128: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-129: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-130: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-131: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-132: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-133: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-134: (  1) - Trio
-135: (  1) - Turnstile
-136: (  1) - Tv21
-137: (  1) - Visage
-138: (  1) - Wang Chung
-139: (  1) - When in Rome
+104: (  1) - Ac Acoustics
+105: (  1) - Billy Idol
+106: (  1) - Blue Orchids
+107: (  1) - Brian Eno & David Byrne
+108: (  1) - Bryan Ferry
+109: (  1) - Culture Club
+110: (  1) - Dexys Midnight Runners
+111: (  1) - Eddie Vedder & the Million Dollar Bashers
+112: (  1) - Girls At Our Best!
+113: (  1) - Heaven 17
+114: (  1) - Hurrah!
+115: (  1) - Jane
+116: (  1) - Joe Jackson
+117: (  1) - Level 42
+118: (  1) - Marine Girls
+119: (  1) - Martin Stephenson Featuring Virginia Astley
+120: (  1) - Nouvelle Vague, Marina Céleste
+121: (  1) - Simple Minds, Kt Tunstall
+122: (  1) - Soft Cell
+123: (  1) - Sonic Youth
+124: (  1) - The Buggles
+125: (  1) - The Divine Comedy
+126: (  1) - The Go-go's
+127: (  1) - The Monochrome Set
+128: (  1) - The Motels
+129: (  1) - The Nightingales
+130: (  1) - The Police
+131: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+132: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+133: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+134: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+135: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+136: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+137: (  1) - Trio
+138: (  1) - Turnstile
+139: (  1) - Tv21
+140: (  1) - Visage
+141: (  1) - Wang Chung
+142: (  1) - When in Rome
