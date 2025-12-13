@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3509           142           195          1480
+    3527           142           196          1481
   1: (144) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
@@ -62,8 +62,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
   5: ( 85) - Ghost Palace - The Burning Hell
 
-  6: ( 83) - Flaws - Gardens
-  7: ( 82) - Blue Weekend - Wolf Alice
+  6: ( 83) - Blue Weekend - Wolf Alice
+  7: ( 83) - Flaws - Gardens
   8: ( 82) - Strawberries - Robert Forster
 
 
@@ -113,21 +113,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  27: ( 39) - Our Favourite Shop - The Style Council
  28: ( 39) - Patina - Tallies
 
+ 29: ( 37) - Eden - Everything But the Girl
+ 30: ( 36) - Loose Talk - Bryan Ferry, Amelia Barratt
+ 31: ( 36) - Solitude Standing - Suzanne Vega
 
- 29: ( 36) - Loose Talk - Bryan Ferry, Amelia Barratt
- 30: ( 36) - Solitude Standing - Suzanne Vega
-
- 31: ( 34) - Tigers Blood - Waxahatchee
-
-
- 32: ( 31) - Blonde On The Tracks - Emma Swift
- 33: ( 30) - Substance 1987 - New Order
- 34: ( 29) - Flesh And Blood - Roxy Music
- 35: ( 28) - Suzanne Vega - Suzanne Vega
+ 32: ( 34) - Tigers Blood - Waxahatchee
 
 
- 36: ( 25) - Eden - Everything But the Girl
- 37: ( 25) - Unplugged....And Seated - Rod Stewart
+ 33: ( 31) - Blonde On The Tracks - Emma Swift
+ 34: ( 30) - Substance 1987 - New Order
+ 35: ( 29) - Flesh And Blood - Roxy Music
+ 36: ( 29) - Unplugged....And Seated - Rod Stewart
+ 37: ( 28) - Suzanne Vega - Suzanne Vega
+
+
+
  38: ( 24) - Pet Sounds - The Beach Boys
  39: ( 23) - Up All Night - Simple Minds
  40: ( 22) - Humanhood - The Weather Station
@@ -273,56 +273,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 180: (  1) - Ett Fall Och En LöSning - Bob Hund
 181: (  1) - Fade To Grey:  The Best Of Visage - Visage
 182: (  1) - Golden Age - Heaven 17
-183: (  1) - High Bells Ring Thin - Martin Stephenson Featuring Virginia Astley
-184: (  1) * I'm Not Following You - Edwyn Collins
-185: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-186: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-187: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-188: (  1) - Never Enough - Turnstile
-189: (  1) - New Wave Hits Of The 80S - ABC
-190: (  1) - New Wave Hits Of The 80S - Billy Idol
-191: (  1) - New Wave Hits Of The 80S - Culture Club
-192: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-193: (  1) - New Wave Hits Of The 80S - Joe Jackson
-194: (  1) - New Wave Hits Of The 80S - Level 42
-195: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-196: (  1) - New Wave Hits Of The 80S - R.E.M.
-197: (  1) - New Wave Hits Of The 80S - Simple Minds
-198: (  1) - New Wave Hits Of The 80S - Soft Cell
-199: (  1) - New Wave Hits Of The 80S - The Buggles
-200: (  1) - New Wave Hits Of The 80S - The Go-go's
-201: (  1) - New Wave Hits Of The 80S - The Human League
-202: (  1) - New Wave Hits Of The 80S - The Motels
-203: (  1) - New Wave Hits Of The 80S - The Police
-204: (  1) - New Wave Hits Of The 80S - Trio
-205: (  1) - New Wave Hits Of The 80S - UB40
-206: (  1) - New Wave Hits Of The 80S - Wang Chung
-207: (  1) - New Wave Hits Of The 80S - When in Rome
-208: (  1) - Northern Lights – Southern Cross - The Band
-209: (  1) - Nothing And Forever - Emma Swift
-210: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-211: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-212: (  1) - Scared To Get Happy - Blue Orchids
-213: (  1) - Scared To Get Happy - Everything But the Girl
-214: (  1) - Scared To Get Happy - Girls At Our Best!
-215: (  1) - Scared To Get Happy - Hurrah!
-216: (  1) - Scared To Get Happy - Jane
-217: (  1) - Scared To Get Happy - Marine Girls
-218: (  1) - Scared To Get Happy - The Monochrome Set
-219: (  1) - Scared To Get Happy - The Nightingales
-220: (  1) - Scared To Get Happy - Tv21
-221: (  1) - Scared To Get Happy - Weekend
-222: (  1) - Silence - Vild I Skogen - Bob Hund
-223: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
-224: (  1) - Stumfilm - Bob Hund
-225: (  1) - The '81 Demos - Weekend
-226: (  1) - The Candle And The Flame - Robert Forster
-227: (  1) - The Singles - Weekend
-228: (  1) - This Is The Moody Blues - The Moody Blues
-229: (  1) - Understanding Music - Ac Acoustics
-230: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-231: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-232: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-233: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-234: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-235: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+183: (  1) * Happy Birthday - Altered Images
+184: (  1) - High Bells Ring Thin - Martin Stephenson Featuring Virginia Astley
+185: (  1) * I'm Not Following You - Edwyn Collins
+186: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+187: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+188: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+189: (  1) - Never Enough - Turnstile
+190: (  1) - New Wave Hits Of The 80S - ABC
+191: (  1) - New Wave Hits Of The 80S - Billy Idol
+192: (  1) - New Wave Hits Of The 80S - Culture Club
+193: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+194: (  1) - New Wave Hits Of The 80S - Joe Jackson
+195: (  1) - New Wave Hits Of The 80S - Level 42
+196: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+197: (  1) - New Wave Hits Of The 80S - R.E.M.
+198: (  1) - New Wave Hits Of The 80S - Simple Minds
+199: (  1) - New Wave Hits Of The 80S - Soft Cell
+200: (  1) - New Wave Hits Of The 80S - The Buggles
+201: (  1) - New Wave Hits Of The 80S - The Go-go's
+202: (  1) - New Wave Hits Of The 80S - The Human League
+203: (  1) - New Wave Hits Of The 80S - The Motels
+204: (  1) - New Wave Hits Of The 80S - The Police
+205: (  1) - New Wave Hits Of The 80S - Trio
+206: (  1) - New Wave Hits Of The 80S - UB40
+207: (  1) - New Wave Hits Of The 80S - Wang Chung
+208: (  1) - New Wave Hits Of The 80S - When in Rome
+209: (  1) - Northern Lights – Southern Cross - The Band
+210: (  1) - Nothing And Forever - Emma Swift
+211: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+212: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+213: (  1) - Scared To Get Happy - Blue Orchids
+214: (  1) - Scared To Get Happy - Everything But the Girl
+215: (  1) - Scared To Get Happy - Girls At Our Best!
+216: (  1) - Scared To Get Happy - Hurrah!
+217: (  1) - Scared To Get Happy - Jane
+218: (  1) - Scared To Get Happy - Marine Girls
+219: (  1) - Scared To Get Happy - The Monochrome Set
+220: (  1) - Scared To Get Happy - The Nightingales
+221: (  1) - Scared To Get Happy - Tv21
+222: (  1) - Scared To Get Happy - Weekend
+223: (  1) - Silence - Vild I Skogen - Bob Hund
+224: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+225: (  1) - Stumfilm - Bob Hund
+226: (  1) - The '81 Demos - Weekend
+227: (  1) - The Candle And The Flame - Robert Forster
+228: (  1) - The Singles - Weekend
+229: (  1) - This Is The Moody Blues - The Moody Blues
+230: (  1) - Understanding Music - Ac Acoustics
+231: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+232: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+233: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+234: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+235: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+236: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
