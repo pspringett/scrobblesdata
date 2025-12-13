@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3487           142           195          1468
+    3504           142           195          1480
   1: (313) - Edwyn Collins
 
 
@@ -236,13 +236,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  13: ( 80) - Orange Juice
+ 14: ( 79) - Wolf Alice
+ 15: ( 78) - Pulp
 
- 14: ( 78) - Pulp
 
+ 16: ( 75) - Simple Minds
+ 17: ( 75) - The Go-Betweens
 
- 15: ( 75) - Simple Minds
- 16: ( 75) - The Go-Betweens
- 17: ( 74) - Wolf Alice
 
  18: ( 72) - Lauren Mayberry
 
@@ -295,27 +295,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 36: ( 26) - Everything But the Girl
- 37: ( 25) - Rod Stewart
- 38: ( 24) - The Beach Boys
- 39: ( 24) - The Cure
+ 36: ( 26) - Echo & the Bunnymen
+ 37: ( 26) - Everything But the Girl
+ 38: ( 25) - Rod Stewart
+ 39: ( 24) - The Beach Boys
+ 40: ( 24) - The Cure
 
- 40: ( 22) - The Weather Station
- 41: ( 21) - Scott Walker
- 42: ( 20) - The Belair Lip Bombs
- 43: ( 20) - The Sundays
- 44: ( 19) - Aztec Camera
- 45: ( 19) - Patty Griffin
- 46: ( 19) - UB40
+ 41: ( 22) - The Weather Station
+ 42: ( 21) - Scott Walker
+ 43: ( 20) - The Belair Lip Bombs
+ 44: ( 20) - The Sundays
+ 45: ( 19) - Aztec Camera
+ 46: ( 19) - Patty Griffin
+ 47: ( 19) - UB40
 
- 47: ( 17) - Elvis Costello & the Attractions
- 48: ( 17) - Emmylou Harris
- 49: ( 17) - Orchestral Manoeuvres in the Dark
- 50: ( 16) - Chip Taylor & Carrie Rodriguez
- 51: ( 16) - St. Vincent
- 52: ( 16) - T. Rex
+ 48: ( 17) - Elvis Costello & the Attractions
+ 49: ( 17) - Emmylou Harris
+ 50: ( 17) - Orchestral Manoeuvres in the Dark
+ 51: ( 16) - Chip Taylor & Carrie Rodriguez
+ 52: ( 16) - St. Vincent
+ 53: ( 16) - T. Rex
 
- 53: ( 14) - Echo & the Bunnymen
  54: ( 14) - Leonard Cohen
  55: ( 13) - Bob Marley & the Wailers
  56: ( 13) - Haircut 100
