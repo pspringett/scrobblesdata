@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3561           143           198          1499
+    3576           143           198          1510
   1: (144) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
@@ -86,11 +86,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  13: ( 64) - Doctor Syntax - Edwyn Collins
  14: ( 64) - Flying With Angels - Suzanne Vega
 
+ 15: ( 62) - I Believe In You, My Honeydew - Josh Ritter
+ 16: ( 61) - Phonetics On And On - Horsegirl
+ 17: ( 60) - Home Again - Edwyn Collins
+ 18: ( 59) - The Boy's Heart - Martin Stephenson and the Daintees
 
- 15: ( 61) - Phonetics On And On - Horsegirl
- 16: ( 60) - Home Again - Edwyn Collins
- 17: ( 59) - The Boy's Heart - Martin Stephenson and the Daintees
- 18: ( 58) - I Believe In You, My Honeydew - Josh Ritter
 
 
  19: ( 55) - Aswad - Aswad
@@ -161,105 +161,105 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  69: ( 13) * High Land, Hard Rain - Aztec Camera
  70: ( 13) - On Sunset (Deluxe) - Paul Weller
  71: ( 13) - Spectral Lines - Josh Ritter
- 72: ( 12) - Acoustic - Simple Minds
- 73: ( 12) - Axis: Bold As Love - Jimi Hendrix
- 74: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
- 75: ( 12) * Happy Birthday - Altered Images
- 76: ( 12) - John Wesley Harding - Bob Dylan
- 77: ( 12) - Rip It Up - Orange Juice
- 78: ( 12) - Rough And Rowdy Ways - Bob Dylan
- 79: ( 12) - Salutation Road - Martin Stephenson and the Daintees
- 80: ( 12) - Wet Leg - Wet Leg
- 81: ( 11) - A Whole New Thing - Sly & the Family Stone
- 82: ( 11) * Antidepressant - Lloyd Cole
- 83: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
- 84: ( 11) * Bringing It All Back Home - Bob Dylan
- 85: ( 11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 86: ( 11) * Little Rock - Hayes Carll
- 87: ( 11) * New Gold Dream (81-82-83-84) - Simple Minds
- 88: ( 11) * Standards - Lloyd Cole
- 89: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
- 90: ( 11) - Through The Windowpane - Guillemots
- 91: ( 11) - Traveling Alone - Tift Merritt
- 92: ( 10) - Coals To Newcastle - Orange Juice
- 93: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 94: ( 10) * I Speak Because I Can - Laura Marling
- 95: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 96: ( 10) - Low - David Bowie
- 97: ( 10) - Old Hands - Yonder Mountain String Band
- 98: ( 10) * Roxy Music - Roxy Music
- 99: ( 10) * Shot Of Love - Bob Dylan
-100: ( 10) * Sparkle In The Rain - Simple Minds
-101: ( 10) * Stumble Into Grace - Emmylou Harris
-102: (  9) * Blood On The Tracks - Bob Dylan
-103: (  9) * Heaven Up Here - Echo & the Bunnymen
-104: (  9) * Lost And Found - Eliza Gilkyson
-105: (  9) - Songs Of A Lost World - The Cure
-106: (  9) - Stranded - Roxy Music
-107: (  9) * Texas Fever - Orange Juice
-108: (  9) - The Glasgow School - Orange Juice
-109: (  9) - This Could Be Texas - English Teacher
-110: (  9) * Tom Tom Club - Tom Tom Club
-111: (  8) * Bite - Altered Images
-112: (  8) * Closer - Joy Division
-113: (  8) - Disintegration - The Cure
-114: (  8) - Music For Stowaways - B.E.F.
-115: (  8) - Penthouse And Pavement - Heaven 17
-116: (  8) * Remain In Light - Talking Heads
-117: (  8) - Right Here - The Go-Betweens
-118: (  8) - Saturns Pattern - Paul Weller
-119: (  8) - Scott 3 - Scott Walker
-120: (  8) - What Happened To The Heart? - Aurora
-121: (  7) * Demons/Demons - JT Nero
-122: (  7) - Earth-Sized Worlds - Mandrake Handshake
-123: (  7) * Faith - The Cure
-124: (  7) * I'm Your Man - Leonard Cohen
-125: (  7) - In The 21St Century - The Bluebells
-126: (  7) * Songs From A Room - Leonard Cohen
-127: (  7) - Songs Of Bob Dylan - Joan Osborne
-128: (  7) * Wrecking Ball - Emmylou Harris
-129: (  6) * Knife - Aztec Camera
-130: (  6) - Scary Monsters (And Super Creeps) - David Bowie
-131: (  6) * Scott 2 - Scott Walker
-132: (  6) - Waves - Newdad
-133: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-134: (  4) - 1981-2011 - B.E.F.
-135: (  4) - Abraxas - Santana
-136: (  4) - Days Of Open Hand - Suzanne Vega
-137: (  4) - Elevation Days - Edwyn Collins
-138: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
-139: (  4) * Scott - Scott Walker
-140: (  4) - Sermon On The Rocks - Josh Ritter
-141: (  4) - Tempest - Bob Dylan
-142: (  4) - The Band - The Band
-143: (  4) - The Joshua Tree - U2
-144: (  4) - Up All Night - The Waifs
-145: (  3) - All The Best - The Human League
-146: (  3) - Born Horses - Mercury Rev
-147: (  3) - Cut It Out - The Go-Betweens
-148: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-149: (  3) - Everybody Scream - Florence + the Machine
-150: (  3) - La Variete - Weekend
-151: (  3) - More - Pulp, Chilly Gonzales
-152: (  3) - Scott 4 - Scott Walker
-153: (  3) - The Basement Tapes - Bob Dylan and the Band
-154: (  3) - The Lexicon Of Love - ABC
-155: (  3) - Young, Dumb & Wild - Andy Golledge
-156: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-157: (  2) - Empires And Dance - Simple Minds
-158: (  2) * Fate's Right Hand - Rodney Crowell
-159: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-160: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-161: (  2) - High Bells Ring Thin - Martin Stephenson Featuring Cathal Coughlan
-162: (  2) - Knowledge - Edwyn Collins
-163: (  2) * Losing Sleep - Edwyn Collins
-164: (  2) - Music From Big Pink - The Band
-165: (  2) - No Happy Endings - Emma Swift
-166: (  2) - No Obligation - The Linda Lindas
-167: (  2) * Rattlesnakes - Lloyd Cole and the Commotions
-168: (  2) - Singles 1965-1967 - The Rolling Stones
-169: (  2) - The Clearing - Wolf Alice
-170: (  2) - The Prince Of Wales - Devine & Statton
+ 72: ( 13) - The Prince Of Wales - Devine & Statton
+ 73: ( 12) - Acoustic - Simple Minds
+ 74: ( 12) - Axis: Bold As Love - Jimi Hendrix
+ 75: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 76: ( 12) * Happy Birthday - Altered Images
+ 77: ( 12) - John Wesley Harding - Bob Dylan
+ 78: ( 12) - Rip It Up - Orange Juice
+ 79: ( 12) - Rough And Rowdy Ways - Bob Dylan
+ 80: ( 12) - Salutation Road - Martin Stephenson and the Daintees
+ 81: ( 12) - Wet Leg - Wet Leg
+ 82: ( 11) - A Whole New Thing - Sly & the Family Stone
+ 83: ( 11) * Antidepressant - Lloyd Cole
+ 84: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
+ 85: ( 11) * Bringing It All Back Home - Bob Dylan
+ 86: ( 11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 87: ( 11) * Little Rock - Hayes Carll
+ 88: ( 11) * New Gold Dream (81-82-83-84) - Simple Minds
+ 89: ( 11) * Standards - Lloyd Cole
+ 90: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
+ 91: ( 11) - Through The Windowpane - Guillemots
+ 92: ( 11) - Traveling Alone - Tift Merritt
+ 93: ( 10) - Coals To Newcastle - Orange Juice
+ 94: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 95: ( 10) * I Speak Because I Can - Laura Marling
+ 96: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 97: ( 10) - Low - David Bowie
+ 98: ( 10) - Old Hands - Yonder Mountain String Band
+ 99: ( 10) * Roxy Music - Roxy Music
+100: ( 10) * Shot Of Love - Bob Dylan
+101: ( 10) * Sparkle In The Rain - Simple Minds
+102: ( 10) * Stumble Into Grace - Emmylou Harris
+103: (  9) * Blood On The Tracks - Bob Dylan
+104: (  9) * Heaven Up Here - Echo & the Bunnymen
+105: (  9) * Lost And Found - Eliza Gilkyson
+106: (  9) - Songs Of A Lost World - The Cure
+107: (  9) - Stranded - Roxy Music
+108: (  9) * Texas Fever - Orange Juice
+109: (  9) - The Glasgow School - Orange Juice
+110: (  9) - This Could Be Texas - English Teacher
+111: (  9) * Tom Tom Club - Tom Tom Club
+112: (  8) * Bite - Altered Images
+113: (  8) * Closer - Joy Division
+114: (  8) - Disintegration - The Cure
+115: (  8) - Music For Stowaways - B.E.F.
+116: (  8) - Penthouse And Pavement - Heaven 17
+117: (  8) * Remain In Light - Talking Heads
+118: (  8) - Right Here - The Go-Betweens
+119: (  8) - Saturns Pattern - Paul Weller
+120: (  8) - Scott 3 - Scott Walker
+121: (  8) - What Happened To The Heart? - Aurora
+122: (  7) * Demons/Demons - JT Nero
+123: (  7) - Earth-Sized Worlds - Mandrake Handshake
+124: (  7) * Faith - The Cure
+125: (  7) * I'm Your Man - Leonard Cohen
+126: (  7) - In The 21St Century - The Bluebells
+127: (  7) * Songs From A Room - Leonard Cohen
+128: (  7) - Songs Of Bob Dylan - Joan Osborne
+129: (  7) * Wrecking Ball - Emmylou Harris
+130: (  6) * Knife - Aztec Camera
+131: (  6) - Scary Monsters (And Super Creeps) - David Bowie
+132: (  6) * Scott 2 - Scott Walker
+133: (  6) - Waves - Newdad
+134: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
+135: (  4) - 1981-2011 - B.E.F.
+136: (  4) - Abraxas - Santana
+137: (  4) - Days Of Open Hand - Suzanne Vega
+138: (  4) - Elevation Days - Edwyn Collins
+139: (  4) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+140: (  4) * Scott - Scott Walker
+141: (  4) - Sermon On The Rocks - Josh Ritter
+142: (  4) - Tempest - Bob Dylan
+143: (  4) - The Band - The Band
+144: (  4) - The Joshua Tree - U2
+145: (  4) - Up All Night - The Waifs
+146: (  3) - All The Best - The Human League
+147: (  3) - Born Horses - Mercury Rev
+148: (  3) - Cut It Out - The Go-Betweens
+149: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+150: (  3) - Everybody Scream - Florence + the Machine
+151: (  3) - La Variete - Weekend
+152: (  3) - More - Pulp, Chilly Gonzales
+153: (  3) - Scott 4 - Scott Walker
+154: (  3) - The Basement Tapes - Bob Dylan and the Band
+155: (  3) - The Lexicon Of Love - ABC
+156: (  3) - Young, Dumb & Wild - Andy Golledge
+157: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+158: (  2) - Empires And Dance - Simple Minds
+159: (  2) * Fate's Right Hand - Rodney Crowell
+160: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+161: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+162: (  2) - High Bells Ring Thin - Martin Stephenson Featuring Cathal Coughlan
+163: (  2) - Knowledge - Edwyn Collins
+164: (  2) * Losing Sleep - Edwyn Collins
+165: (  2) - Music From Big Pink - The Band
+166: (  2) - No Happy Endings - Emma Swift
+167: (  2) - No Obligation - The Linda Lindas
+168: (  2) * Rattlesnakes - Lloyd Cole and the Commotions
+169: (  2) - Singles 1965-1967 - The Rolling Stones
+170: (  2) - The Clearing - Wolf Alice
 171: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
 172: (  2) - To Our Children's Children's Children - The Moody Blues
 173: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
