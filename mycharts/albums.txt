@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   74831          1291          1948         13195
+   74846          1291          1948         13195
    1: (324) - Cafe Bleu - The Style Council
    2: (309) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -14,7 +14,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   11: (233) - Echo & The Bunnymen - Echo & the Bunnymen
   12: (233) - The Smiths - The Smiths
   13: (230) * Grand Canyon - Sarah MacDougall
-  14: (225) - You Can't Hide Your Love Forever - Orange Juice
+  14: (227) - You Can't Hide Your Love Forever - Orange Juice
   15: (223) - The Joshua Tree - U2
   16: (214) - Case/Lang/Veirs - case/lang/veirs
   17: (214) * The Unforgettable Fire - U2
@@ -61,9 +61,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   58: (175) - Old Yellow Moon - Emmylou Harris
   59: (175) - Sundown Over Ghost Town - Eilen Jewell
   60: (175) - The Things That We Are Made Of - Mary Chapin Carpenter
-  61: (171) - The Weather Station - The Weather Station
-  62: (169) - The Kick Inside - Kate Bush
-  63: (168) - Coals To Newcastle - Orange Juice
+  61: (171) - Coals To Newcastle - Orange Juice
+  62: (171) - The Weather Station - The Weather Station
+  63: (169) - The Kick Inside - Kate Bush
   64: (168) - Introducing The Style Council - The Style Council
   65: (168) - Siren - Roxy Music
   66: (168) - Stranded - Roxy Music
@@ -95,10 +95,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   92: (147) - Crush - Orchestral Manoeuvres in the Dark
   93: (147) - Excellent Day - Lizanne Knott
   94: (146) * Faith - The Cure
-  95: (146) - Spectral Lines - Josh Ritter
-  96: (145) - For Your Pleasure - Roxy Music
-  97: (145) - Paging Mr. Proust - The Jayhawks
-  98: (144) - Nation Shall Speak Unto Nation - Edwyn Collins
+  95: (146) - Nation Shall Speak Unto Nation - Edwyn Collins
+  96: (146) - Spectral Lines - Josh Ritter
+  97: (145) - For Your Pleasure - Roxy Music
+  98: (145) - Paging Mr. Proust - The Jayhawks
   99: (144) - Scheherazade - Freakwater
  100: (144) - Song For Our Daughter - Laura Marling
  101: (143) - 66 - Paul Weller
@@ -123,8 +123,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  120: (135) - Gathering - Josh Ritter
  121: (134) - Just For A Day - Slowdive
  122: (133) * The Negatives - Lloyd Cole
- 123: (132) - In The 21St Century - The Bluebells
- 124: (132) * The Orange Juice - Orange Juice
+ 123: (133) * The Orange Juice - Orange Juice
+ 124: (132) - In The 21St Century - The Bluebells
  125: (131) * Rattlesnakes - Lloyd Cole and the Commotions
  126: (130) - Down To Believing - Allison Moorer
  127: (130) * Electric Warrior - T. Rex
@@ -148,26 +148,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  145: (124) - Parallel Lines: Deluxe Collector's Edition - Blondie
  146: (124) - The Graduate - Simon & Garfunkel
  147: (124) - Waves - Newdad
- 148: (123) - Get Happy!! Cd2 - Elvis Costello & the Attractions
- 149: (123) * This Year's Model - Elvis Costello & the Attractions
- 150: (122) - 2020 - Eliza Gilkyson
- 151: (122) * Boy - U2
- 152: (122) - Elevation Days - Edwyn Collins
- 153: (122) - Patterns In Repeat - Laura Marling
- 154: (122) - The Flame And The Pelican - Jack Harris
- 155: (122) - The Glasgow School - Orange Juice
+ 148: (123) - Elevation Days - Edwyn Collins
+ 149: (123) - Get Happy!! Cd2 - Elvis Costello & the Attractions
+ 150: (123) - The Glasgow School - Orange Juice
+ 151: (123) * This Year's Model - Elvis Costello & the Attractions
+ 152: (122) - 2020 - Eliza Gilkyson
+ 153: (122) * Boy - U2
+ 154: (122) - Patterns In Repeat - Laura Marling
+ 155: (122) - The Flame And The Pelican - Jack Harris
  156: (121) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 157: (121) - The Luxury Gap - Heaven 17
- 158: (121) - Treasure - Cocteau Twins
- 159: (120) * High Land, Hard Rain - Aztec Camera
- 160: (120) - Rubber Soul - The Beatles
- 161: (120) - Victorialand - Cocteau Twins
- 162: (119) - Bramble Rose - Tift Merritt
- 163: (119) * Don't Get Weird On Me Babe - Lloyd Cole
- 164: (119) - Expired Candy - Body Type
- 165: (119) * Knife - Aztec Camera
- 166: (118) - Everything Is Alive - Slowdive
- 167: (118) * Gorgeous George - Edwyn Collins
+ 157: (121) * Gorgeous George - Edwyn Collins
+ 158: (121) - The Luxury Gap - Heaven 17
+ 159: (121) - Treasure - Cocteau Twins
+ 160: (120) * High Land, Hard Rain - Aztec Camera
+ 161: (120) - Rubber Soul - The Beatles
+ 162: (120) - Victorialand - Cocteau Twins
+ 163: (119) - Bramble Rose - Tift Merritt
+ 164: (119) * Don't Get Weird On Me Babe - Lloyd Cole
+ 165: (119) - Expired Candy - Body Type
+ 166: (119) * Knife - Aztec Camera
+ 167: (118) - Everything Is Alive - Slowdive
  168: (118) - Tempest - Bob Dylan
  169: (118) * The North Star - Roddy Frame
  170: (118) - Upstairs at Erics - Yazoo
@@ -316,8 +316,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  313: ( 89) - When All Is Said And All Is Done - Department S
  314: ( 88) * Blonde On Blonde - Bob Dylan
  315: ( 88) - Heaven, Or Someplace As Nice - Josh Ritter
- 316: ( 88) - The Slider - T. Rex
- 317: ( 87) * Hope And Despair - Edwyn Collins
+ 316: ( 88) * Hope And Despair - Edwyn Collins
+ 317: ( 88) - The Slider - T. Rex
  318: ( 87) - Little Seeds - Shovels & Rope
  319: ( 87) * Stumble Into Grace - Emmylou Harris
  320: ( 87) - Suzanne Vega - Suzanne Vega
@@ -841,26 +841,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  838: ( 12) - Greatest - Jim Croce
  839: ( 12) - Greatest Hits: Blondie - Blondie
  840: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
- 841: ( 12) - Love Story Demos - Lloyd Cole
- 842: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
- 843: ( 12) - Old Hands - Yonder Mountain String Band
- 844: ( 12) - Only Hinting - Clinic Stars
- 845: ( 12) - Substance (2 Of 2) - New Order
- 846: ( 12) - Tubeway Army - Tubeway Army
- 847: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
- 848: ( 11) -  - Peel.Rocks Magazine
- 849: ( 11) - Actor - St. Vincent
- 850: ( 11) - Duran Duran - Duran Duran
- 851: ( 11) - Exodus Of Venus - Elizabeth Cook
- 852: ( 11) - Get It On: The Collection - T. Rex
- 853: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
- 854: ( 11) - Helplessness Blues - Fleet Foxes
- 855: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
- 856: ( 11) - Jessica Pratt - Jessica Pratt
- 857: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
- 858: ( 11) - La Question - Françoise Hardy
- 859: ( 11) - Laurel Canyon - Laurel Canyon
- 860: ( 11) * Losing Sleep - Edwyn Collins
+ 841: ( 12) * Losing Sleep - Edwyn Collins
+ 842: ( 12) - Love Story Demos - Lloyd Cole
+ 843: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
+ 844: ( 12) - Old Hands - Yonder Mountain String Band
+ 845: ( 12) - Only Hinting - Clinic Stars
+ 846: ( 12) - Substance (2 Of 2) - New Order
+ 847: ( 12) - Tubeway Army - Tubeway Army
+ 848: ( 12) - Woodland Echoes (Deluxe Edition) - Nick Heyward
+ 849: ( 11) -  - Peel.Rocks Magazine
+ 850: ( 11) - Actor - St. Vincent
+ 851: ( 11) - Duran Duran - Duran Duran
+ 852: ( 11) - Exodus Of Venus - Elizabeth Cook
+ 853: ( 11) - Get It On: The Collection - T. Rex
+ 854: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
+ 855: ( 11) - Helplessness Blues - Fleet Foxes
+ 856: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
+ 857: ( 11) - Jessica Pratt - Jessica Pratt
+ 858: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+ 859: ( 11) - La Question - Françoise Hardy
+ 860: ( 11) - Laurel Canyon - Laurel Canyon
  861: ( 11) - Marquee Moon - Television
  862: ( 11) - My Favorite Picture Of You - Guy Clark
  863: ( 11) - Mysterio - Ian McCulloch
