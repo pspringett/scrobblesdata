@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   74816          1291          1948         13195
+   74831          1291          1948         13195
    1: (324) - Cafe Bleu - The Style Council
    2: (309) - Sermon On The Rocks - Josh Ritter
    3: (288) - Head Over Heels - Cocteau Twins
@@ -63,11 +63,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   60: (175) - The Things That We Are Made Of - Mary Chapin Carpenter
   61: (171) - The Weather Station - The Weather Station
   62: (169) - The Kick Inside - Kate Bush
-  63: (168) - Introducing The Style Council - The Style Council
-  64: (168) - Siren - Roxy Music
-  65: (168) - Stranded - Roxy Music
-  66: (167) * Signing Off - UB40
-  67: (166) - Coals To Newcastle - Orange Juice
+  63: (168) - Coals To Newcastle - Orange Juice
+  64: (168) - Introducing The Style Council - The Style Council
+  65: (168) - Siren - Roxy Music
+  66: (168) - Stranded - Roxy Music
+  67: (167) * Signing Off - UB40
   68: (166) * Scott - Scott Walker
   69: (163) * I'm Not Following You - Edwyn Collins
   70: (163) * Standards - Lloyd Cole
@@ -118,14 +118,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  115: (138) - True Meanings - Paul Weller
  116: (137) * Funnel Cloud (Bonus Track Version) - Hem
  117: (137) - Positive Touch - The Undertones
- 118: (136) - Junk Culture - Orchestral Manoeuvres in the Dark
- 119: (135) - Gathering - Josh Ritter
- 120: (134) - Just For A Day - Slowdive
- 121: (133) * The Negatives - Lloyd Cole
- 122: (132) - In The 21St Century - The Bluebells
- 123: (132) * The Orange Juice - Orange Juice
- 124: (131) * Rattlesnakes - Lloyd Cole and the Commotions
- 125: (131) - Western Pleasure - Chaparelle
+ 118: (137) - Western Pleasure - Chaparelle
+ 119: (136) - Junk Culture - Orchestral Manoeuvres in the Dark
+ 120: (135) - Gathering - Josh Ritter
+ 121: (134) - Just For A Day - Slowdive
+ 122: (133) * The Negatives - Lloyd Cole
+ 123: (132) - In The 21St Century - The Bluebells
+ 124: (132) * The Orange Juice - Orange Juice
+ 125: (131) * Rattlesnakes - Lloyd Cole and the Commotions
  126: (130) - Down To Believing - Allison Moorer
  127: (130) * Electric Warrior - T. Rex
  128: (130) * Songs From A Room - Leonard Cohen
@@ -167,16 +167,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  164: (119) - Expired Candy - Body Type
  165: (119) * Knife - Aztec Camera
  166: (118) - Everything Is Alive - Slowdive
- 167: (118) - Tempest - Bob Dylan
- 168: (118) * The North Star - Roddy Frame
- 169: (118) - Upstairs at Erics - Yazoo
- 170: (117) - Beatles For Sale (Remastered) - The Beatles
- 171: (117) - Pin Ups - David Bowie
- 172: (117) - Popular Problems - Leonard Cohen
- 173: (117) - Songs Of A Lost World - The Cure
- 174: (117) * Texas Fever - Orange Juice
- 175: (116) * Bad Vibes - Lloyd Cole
- 176: (116) * Gorgeous George - Edwyn Collins
+ 167: (118) * Gorgeous George - Edwyn Collins
+ 168: (118) - Tempest - Bob Dylan
+ 169: (118) * The North Star - Roddy Frame
+ 170: (118) - Upstairs at Erics - Yazoo
+ 171: (117) - Beatles For Sale (Remastered) - The Beatles
+ 172: (117) - Pin Ups - David Bowie
+ 173: (117) - Popular Problems - Leonard Cohen
+ 174: (117) - Songs Of A Lost World - The Cure
+ 175: (117) * Texas Fever - Orange Juice
+ 176: (116) * Bad Vibes - Lloyd Cole
  177: (116) - Madra - Newdad
  178: (116) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
  179: (115) - Dazzle Ships - Orchestral Manoeuvres in the Dark
@@ -476,76 +476,76 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  473: ( 67) * Desire - Bob Dylan
  474: ( 67) * Don't Fade - The Redlands Palomino Company
  475: ( 67) - Guesswork - Lloyd Cole
- 476: ( 67) - Nah=Poo - The Art Of Bluff - Wah!
- 477: ( 67) - Roll - Anne Mccue
- 478: ( 67) - Secularia - Eliza Gilkyson
- 479: ( 67) - Such Ferocious Beauty - Cowboy Junkies
- 480: ( 67) - The Complete Budokan 1978 (Live) - Bob Dylan
- 481: ( 67) - The Complete Matrix Tapes #2 - The Velvet Underground
- 482: ( 67) - The Spangle Maker - Cocteau Twins
- 483: ( 67) * The Trinity Session - Cowboy Junkies
- 484: ( 66) - Alabama Song (International Version) - Allison Moorer
- 485: ( 66) - Another View - The Velvet Underground
- 486: ( 66) - Carrying On - Kacy & Clayton
- 487: ( 66) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
- 488: ( 66) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
- 489: ( 66) - Pacific Street - The Pale Fountains
- 490: ( 66) - Revolution Of Mind - She Drew the Gun
- 491: ( 66) - Revolver - The Beatles
- 492: ( 66) * Station To Station - David Bowie
- 493: ( 66) * Street Legal - Bob Dylan
- 494: ( 66) * The Grass Is Blue - Dolly Parton
- 495: ( 66) - The Pacific Age - Orchestral Manoeuvres in the Dark
- 496: ( 66) - Undercurrent - Sarah Jarosz
- 497: ( 66) - What A Terrible World, What A Beautiful World - The Decemberists
- 498: ( 65) * Cabin Fever (Cabin Side) - Corb Lund
- 499: ( 65) - Clara Libre - Altered Images
- 500: ( 65) - Goodbye Yellow Brick Road - Elton John
- 501: ( 65) - Ignorance - The Weather Station
- 502: ( 65) - Modern Blues - The Waterboys
- 503: ( 65) - Raise The Roof (Deluxe Edition) - Robert Plant
- 504: ( 65) * Soul Journey - Gillian Welch
- 505: ( 65) - The Doors - The Doors
- 506: ( 65) - The Esteemed Orange Juice - Orange Juice
- 507: ( 65) - Under A Blood Red Sky - U2
- 508: ( 65) - Welcome To The Blackout (Live London '78) - David Bowie
- 509: ( 65) - Western Skies - Roddy Frame
- 510: ( 64) - 16 Lovers Lane (Remastered) - The Go-Betweens
- 511: ( 64) - Bolivia - Martin Stephenson
- 512: ( 64) - Cardiffians - Devine & Statton
- 513: ( 64) * Children Running Through - Patty Griffin
- 514: ( 64) - Church & The... - Martin Stephenson
- 515: ( 64) - Demos 88-94 (In New York - Collected Recordings 1988-1996) - Lloyd Cole
- 516: ( 64) - Doctor Syntax - Edwyn Collins
- 517: ( 64) - Emotions And Math - Margaret Glaspy
- 518: ( 64) - Equally Cursed And Blessed - Catatonia
- 519: ( 64) - Every Picture Tells A Story - Rod Stewart
- 520: ( 64) - Flying With Angels - Suzanne Vega
- 521: ( 64) - Get Ready - New Order
- 522: ( 64) - My Aim Is True - Elvis Costello
- 523: ( 64) - Nothing But The Silence - Striking Matches
- 524: ( 64) * Queen Of The Minor Key - Eilen Jewell
- 525: ( 64) - Real Midnight - Birds of Chicago
- 526: ( 64) * Rockers - Original Soundtrack - Various
- 527: ( 64) * The Greatest Ones Alive - Sarah MacDougall
- 528: ( 64) - Trust - Elvis Costello
- 529: ( 64) - UNCUT 2016-11 Sterotypes - Various
- 530: ( 63) - A Kind Revolution (Deluxe) - Paul Weller
- 531: ( 63) - American Dream - Lcd Soundsystem
- 532: ( 63) * Demons/Demons - JT Nero
- 533: ( 63) - Impossible Dream - Haley Bonar
- 534: ( 63) - Isn’T Anything - My Bloody Valentine
- 535: ( 63) * Live In Louisville - Carrie Rodriguez
- 536: ( 63) - Loyalty - The Weather Station
- 537: ( 63) - Natalie Prass - Natalie Prass
- 538: ( 63) - The Undertones - The Undertones
- 539: ( 63) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
- 540: ( 62) - Bobby Fuller Died For Your Sins - Chuck Prophet
- 541: ( 62) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
- 542: ( 62) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
- 543: ( 62) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
- 544: ( 62) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
- 545: ( 62) - I Believe In You, My Honeydew - Josh Ritter
+ 476: ( 67) - I Believe In You, My Honeydew - Josh Ritter
+ 477: ( 67) - Nah=Poo - The Art Of Bluff - Wah!
+ 478: ( 67) - Roll - Anne Mccue
+ 479: ( 67) - Secularia - Eliza Gilkyson
+ 480: ( 67) - Such Ferocious Beauty - Cowboy Junkies
+ 481: ( 67) - The Complete Budokan 1978 (Live) - Bob Dylan
+ 482: ( 67) - The Complete Matrix Tapes #2 - The Velvet Underground
+ 483: ( 67) - The Spangle Maker - Cocteau Twins
+ 484: ( 67) * The Trinity Session - Cowboy Junkies
+ 485: ( 66) - Alabama Song (International Version) - Allison Moorer
+ 486: ( 66) - Another View - The Velvet Underground
+ 487: ( 66) - Carrying On - Kacy & Clayton
+ 488: ( 66) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
+ 489: ( 66) - Live Orchestral - 2018-10-06 Cd1 - Orchestral Manoeuvres in the Dark
+ 490: ( 66) - Pacific Street - The Pale Fountains
+ 491: ( 66) - Revolution Of Mind - She Drew the Gun
+ 492: ( 66) - Revolver - The Beatles
+ 493: ( 66) * Station To Station - David Bowie
+ 494: ( 66) * Street Legal - Bob Dylan
+ 495: ( 66) * The Grass Is Blue - Dolly Parton
+ 496: ( 66) - The Pacific Age - Orchestral Manoeuvres in the Dark
+ 497: ( 66) - Undercurrent - Sarah Jarosz
+ 498: ( 66) - What A Terrible World, What A Beautiful World - The Decemberists
+ 499: ( 65) * Cabin Fever (Cabin Side) - Corb Lund
+ 500: ( 65) - Clara Libre - Altered Images
+ 501: ( 65) - Goodbye Yellow Brick Road - Elton John
+ 502: ( 65) - Ignorance - The Weather Station
+ 503: ( 65) - Modern Blues - The Waterboys
+ 504: ( 65) - Raise The Roof (Deluxe Edition) - Robert Plant
+ 505: ( 65) * Soul Journey - Gillian Welch
+ 506: ( 65) - The Doors - The Doors
+ 507: ( 65) - The Esteemed Orange Juice - Orange Juice
+ 508: ( 65) - Under A Blood Red Sky - U2
+ 509: ( 65) - Welcome To The Blackout (Live London '78) - David Bowie
+ 510: ( 65) - Western Skies - Roddy Frame
+ 511: ( 64) - 16 Lovers Lane (Remastered) - The Go-Betweens
+ 512: ( 64) - Bolivia - Martin Stephenson
+ 513: ( 64) - Cardiffians - Devine & Statton
+ 514: ( 64) * Children Running Through - Patty Griffin
+ 515: ( 64) - Church & The... - Martin Stephenson
+ 516: ( 64) - Demos 88-94 (In New York - Collected Recordings 1988-1996) - Lloyd Cole
+ 517: ( 64) - Doctor Syntax - Edwyn Collins
+ 518: ( 64) - Emotions And Math - Margaret Glaspy
+ 519: ( 64) - Equally Cursed And Blessed - Catatonia
+ 520: ( 64) - Every Picture Tells A Story - Rod Stewart
+ 521: ( 64) - Flying With Angels - Suzanne Vega
+ 522: ( 64) - Get Ready - New Order
+ 523: ( 64) - My Aim Is True - Elvis Costello
+ 524: ( 64) - Nothing But The Silence - Striking Matches
+ 525: ( 64) * Queen Of The Minor Key - Eilen Jewell
+ 526: ( 64) - Real Midnight - Birds of Chicago
+ 527: ( 64) * Rockers - Original Soundtrack - Various
+ 528: ( 64) * The Greatest Ones Alive - Sarah MacDougall
+ 529: ( 64) - Trust - Elvis Costello
+ 530: ( 64) - UNCUT 2016-11 Sterotypes - Various
+ 531: ( 63) - A Kind Revolution (Deluxe) - Paul Weller
+ 532: ( 63) - American Dream - Lcd Soundsystem
+ 533: ( 63) * Demons/Demons - JT Nero
+ 534: ( 63) - Impossible Dream - Haley Bonar
+ 535: ( 63) - Isn’T Anything - My Bloody Valentine
+ 536: ( 63) * Live In Louisville - Carrie Rodriguez
+ 537: ( 63) - Loyalty - The Weather Station
+ 538: ( 63) - Natalie Prass - Natalie Prass
+ 539: ( 63) - The Undertones - The Undertones
+ 540: ( 63) - The Velvet Underground (45Th Anniversary) - The Velvet Underground
+ 541: ( 62) - Bobby Fuller Died For Your Sins - Chuck Prophet
+ 542: ( 62) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
+ 543: ( 62) * Dazzle Ships - Live At The Royal Albert Hall 2016 - Orchestral Manoeuvres in the Dark
+ 544: ( 62) - Do It Clean : Crocodiles/Heaven Up Here Live - Echo & the Bunnymen
+ 545: ( 62) - From Her To Eternity (2009 Remastered Version) - Nick Cave & the Bad Seeds
  546: ( 62) * Raising Sand - Robert Plant & Alison Krauss
  547: ( 62) * Slow Train Coming - Bob Dylan
  548: ( 62) - Songs Of Surrender - U2

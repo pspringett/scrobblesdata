@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3576           143           198          1510
+    3591           143           198          1510
   1: (144) - Nation Shall Speak Unto Nation - Edwyn Collins
 
 
@@ -8,13 +8,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  2: (137) - Western Pleasure - Chaparelle
 
 
 
 
 
 
-  2: (131) - Western Pleasure - Chaparelle
 
 
 
@@ -79,14 +79,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 12: ( 67) - I Believe In You, My Honeydew - Josh Ritter
 
 
+ 13: ( 64) - 16 Lovers Lane (Remastered) - The Go-Betweens
+ 14: ( 64) - Doctor Syntax - Edwyn Collins
+ 15: ( 64) - Flying With Angels - Suzanne Vega
 
- 12: ( 64) - 16 Lovers Lane (Remastered) - The Go-Betweens
- 13: ( 64) - Doctor Syntax - Edwyn Collins
- 14: ( 64) - Flying With Angels - Suzanne Vega
 
- 15: ( 62) - I Believe In You, My Honeydew - Josh Ritter
  16: ( 61) - Phonetics On And On - Horsegirl
  17: ( 60) - Home Again - Edwyn Collins
  18: ( 59) - The Boy's Heart - Martin Stephenson and the Daintees
@@ -131,12 +131,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: ( 23) - Up All Night - Simple Minds
  40: ( 22) - Humanhood - The Weather Station
  41: ( 22) * The Orange Juice - Orange Juice
- 42: ( 21) - High Bells Ring Thin - Martin Stephenson
- 43: ( 20) - Again - The Belair Lip Bombs
- 44: ( 20) - Nashville Skyline - Bob Dylan
- 45: ( 20) - Patterns In Repeat - Laura Marling
- 46: ( 20) * Reading, Writing & Arithmetic - The Sundays
- 47: ( 19) * Gorgeous George - Edwyn Collins
+ 42: ( 21) * Gorgeous George - Edwyn Collins
+ 43: ( 21) - High Bells Ring Thin - Martin Stephenson
+ 44: ( 20) - Again - The Belair Lip Bombs
+ 45: ( 20) - Nashville Skyline - Bob Dylan
+ 46: ( 20) - Patterns In Repeat - Laura Marling
+ 47: ( 20) * Reading, Writing & Arithmetic - The Sundays
  48: ( 19) * Impossible Dream - Patty Griffin
  49: ( 18) * Blonde On Blonde - Bob Dylan
  50: ( 18) * Signing Off - UB40
@@ -164,25 +164,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  72: ( 13) - The Prince Of Wales - Devine & Statton
  73: ( 12) - Acoustic - Simple Minds
  74: ( 12) - Axis: Bold As Love - Jimi Hendrix
- 75: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
- 76: ( 12) * Happy Birthday - Altered Images
- 77: ( 12) - John Wesley Harding - Bob Dylan
- 78: ( 12) - Rip It Up - Orange Juice
- 79: ( 12) - Rough And Rowdy Ways - Bob Dylan
- 80: ( 12) - Salutation Road - Martin Stephenson and the Daintees
- 81: ( 12) - Wet Leg - Wet Leg
- 82: ( 11) - A Whole New Thing - Sly & the Family Stone
- 83: ( 11) * Antidepressant - Lloyd Cole
- 84: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
- 85: ( 11) * Bringing It All Back Home - Bob Dylan
- 86: ( 11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 87: ( 11) * Little Rock - Hayes Carll
- 88: ( 11) * New Gold Dream (81-82-83-84) - Simple Minds
- 89: ( 11) * Standards - Lloyd Cole
- 90: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
- 91: ( 11) - Through The Windowpane - Guillemots
- 92: ( 11) - Traveling Alone - Tift Merritt
- 93: ( 10) - Coals To Newcastle - Orange Juice
+ 75: ( 12) - Coals To Newcastle - Orange Juice
+ 76: ( 12) * Don't Get Weird On Me Babe - Lloyd Cole
+ 77: ( 12) * Happy Birthday - Altered Images
+ 78: ( 12) - John Wesley Harding - Bob Dylan
+ 79: ( 12) - Rip It Up - Orange Juice
+ 80: ( 12) - Rough And Rowdy Ways - Bob Dylan
+ 81: ( 12) - Salutation Road - Martin Stephenson and the Daintees
+ 82: ( 12) - Wet Leg - Wet Leg
+ 83: ( 11) - A Whole New Thing - Sly & the Family Stone
+ 84: ( 11) * Antidepressant - Lloyd Cole
+ 85: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
+ 86: ( 11) * Bringing It All Back Home - Bob Dylan
+ 87: ( 11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 88: ( 11) * Little Rock - Hayes Carll
+ 89: ( 11) * New Gold Dream (81-82-83-84) - Simple Minds
+ 90: ( 11) * Standards - Lloyd Cole
+ 91: ( 11) - The Velvet Underground & Nico (45Th Anniversary) - The Velvet Underground
+ 92: ( 11) - Through The Windowpane - Guillemots
+ 93: ( 11) - Traveling Alone - Tift Merritt
  94: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
  95: ( 10) * I Speak Because I Can - Laura Marling
  96: ( 10) - Lionheart (2018 Remaster) - Kate Bush
