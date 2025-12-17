@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3609           143           198          1510
+    3623           143           198          1510
   1: (323) - Edwyn Collins
 
 
@@ -255,6 +255,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  18: ( 72) - Lauren Mayberry
+ 19: ( 72) - Wet Leg
 
 
 
@@ -265,8 +266,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 19: ( 61) - Horsegirl
- 20: ( 61) - Wet Leg
+ 20: ( 61) - Horsegirl
 
 
 
@@ -307,10 +307,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  38: ( 26) - Echo & the Bunnymen
+ 39: ( 26) - The Weather Station
 
- 39: ( 24) - The Beach Boys
- 40: ( 24) - The Cure
- 41: ( 23) - The Weather Station
+ 40: ( 24) - The Beach Boys
+ 41: ( 24) - The Cure
+
 
  42: ( 21) - Scott Walker
  43: ( 20) - Altered Images
