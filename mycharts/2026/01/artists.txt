@@ -1,6 +1,6 @@
 Specified year (2026), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     121             8             9            71
+     125             8             9            75
 1: (35) - Newdad
 
 
@@ -32,8 +32,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-7: ( 5) - The Zombies
-
-
-8: ( 2) - Emma Swift
+7: ( 6) - Emma Swift
+8: ( 5) - The Zombies
