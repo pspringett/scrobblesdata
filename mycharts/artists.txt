@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   75071          1299          1960         13250
+   75079          1299          1960         13250
    1: (2381) - Lloyd Cole
    2: (2135) - David Bowie
    3: (2021) - Bob Dylan
@@ -298,17 +298,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  295: (  30) - Whitelands
  296: (  29) - Be Your Own Pet
  297: (  29) - The Felice Brothers
- 298: (  28) - The Last Dinner Party
- 299: (  28) - The Zephyrs
- 300: (  27) - Taylor Swift
- 301: (  26) - Buffy Sainte-marie
- 302: (  26) - That Petrol Emotion
- 303: (  25) - Arcade Fire
- 304: (  25) - Mike Oldfield
- 305: (  25) - Scritti Politti
- 306: (  24) - Margo Cilker
- 307: (  24) - Mint Mile
- 308: (  23) - Heavenly
+ 298: (  28) - Heavenly
+ 299: (  28) - The Last Dinner Party
+ 300: (  28) - The Zephyrs
+ 301: (  27) - Taylor Swift
+ 302: (  26) - Buffy Sainte-marie
+ 303: (  26) - That Petrol Emotion
+ 304: (  25) - Arcade Fire
+ 305: (  25) - Mike Oldfield
+ 306: (  25) - Scritti Politti
+ 307: (  24) - Margo Cilker
+ 308: (  24) - Mint Mile
  309: (  23) - Julie
  310: (  23) - The Associates
  311: (  22) - Curtis Mayfield
@@ -372,57 +372,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  369: (  11) - Guy Clark
  370: (  11) - Hatchie
  371: (  11) - Joan Shelley
- 372: (  11) - Laurel Canyon
- 373: (  11) - Matt Berninger
- 374: (  11) - Peel.Rocks Magazine
- 375: (  11) - Rolling Blackouts Coastal Fever
- 376: (  11) - Television
- 377: (  11) - Travis Linville
- 378: (  10) - Cara Luft
- 379: (  10) - Dinah Washington
- 380: (  10) - Easy Star All-stars
- 381: (  10) - Elastica
- 382: (  10) - Gregory Isaacs
- 383: (  10) - Just the Faqs
- 384: (  10) - K.D. Lang
- 385: (  10) - Kathleen Edwards
- 386: (  10) - Madeleine Peyroux
- 387: (  10) - Martha and the Muffins
- 388: (  10) - Mercy Girl
- 389: (  10) - Mount Moriah
- 390: (  10) - Nico
- 391: (  10) - Nina Simone
- 392: (  10) - Samantha Crain
- 393: (  10) - The Feelies
- 394: (  10) - The Twilight Sad
- 395: (  10) - Tim Buckley
- 396: (  10) - Wednesday
- 397: (   9) - Big Thief
- 398: (   9) - Bryan Adams
- 399: (   9) - Daniel Bachman
- 400: (   9) - Hawkwind Zoo
- 401: (   9) - Ian Dury
- 402: (   9) - Lizz Wright
- 403: (   9) - Low
- 404: (   9) - Mark Lanegan
- 405: (   9) - Romi Mayes
- 406: (   9) - Stevie Nicks
- 407: (   9) - Sugar Black
- 408: (   9) - Tyler Childers
- 409: (   9) - Waylon Jennings
- 410: (   8) - Aldous Harding
- 411: (   8) - Andrew Bird
- 412: (   8) - Aurora
- 413: (   8) - Bill Callahan
- 414: (   8) - Bob Marley
- 415: (   8) - Bon Iver
- 416: (   8) - Brigid Dawson and the Mothers Network
- 417: (   8) - Caleb Landry Jones
- 418: (   8) - Cate le Bon
- 419: (   8) - Ella Fitzgerald
- 420: (   8) - Forma
- 421: (   8) - Julia Jacklin
- 422: (   8) - Katherine Priddy
+ 372: (  11) - Katherine Priddy
+ 373: (  11) - Laurel Canyon
+ 374: (  11) - Matt Berninger
+ 375: (  11) - Peel.Rocks Magazine
+ 376: (  11) - Rolling Blackouts Coastal Fever
+ 377: (  11) - Television
+ 378: (  11) - Travis Linville
+ 379: (  10) - Cara Luft
+ 380: (  10) - Dinah Washington
+ 381: (  10) - Easy Star All-stars
+ 382: (  10) - Elastica
+ 383: (  10) - Gregory Isaacs
+ 384: (  10) - Just the Faqs
+ 385: (  10) - K.D. Lang
+ 386: (  10) - Kathleen Edwards
+ 387: (  10) - Madeleine Peyroux
+ 388: (  10) - Martha and the Muffins
+ 389: (  10) - Mercy Girl
+ 390: (  10) - Mount Moriah
+ 391: (  10) - Nico
+ 392: (  10) - Nina Simone
+ 393: (  10) - Samantha Crain
+ 394: (  10) - The Feelies
+ 395: (  10) - The Twilight Sad
+ 396: (  10) - Tim Buckley
+ 397: (  10) - Wednesday
+ 398: (   9) - Big Thief
+ 399: (   9) - Bryan Adams
+ 400: (   9) - Daniel Bachman
+ 401: (   9) - Hawkwind Zoo
+ 402: (   9) - Ian Dury
+ 403: (   9) - Lizz Wright
+ 404: (   9) - Low
+ 405: (   9) - Mark Lanegan
+ 406: (   9) - Romi Mayes
+ 407: (   9) - Stevie Nicks
+ 408: (   9) - Sugar Black
+ 409: (   9) - Tyler Childers
+ 410: (   9) - Waylon Jennings
+ 411: (   8) - Aldous Harding
+ 412: (   8) - Andrew Bird
+ 413: (   8) - Aurora
+ 414: (   8) - Bill Callahan
+ 415: (   8) - Bob Marley
+ 416: (   8) - Bon Iver
+ 417: (   8) - Brigid Dawson and the Mothers Network
+ 418: (   8) - Caleb Landry Jones
+ 419: (   8) - Cate le Bon
+ 420: (   8) - Ella Fitzgerald
+ 421: (   8) - Forma
+ 422: (   8) - Julia Jacklin
  423: (   8) - Larkin Poe
  424: (   8) - Let'S Eat Grandma
  425: (   8) - Mankind
