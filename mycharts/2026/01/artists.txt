@@ -1,6 +1,6 @@
 Specified year (2026), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     204            16            17           102
+     210            17            17           102
  1: (47) - Newdad
 
 
@@ -8,12 +8,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (40) - Heavenly
+
+ 3: (38) - Creedence Clearwater Revival
 
 
- 2: (38) - Creedence Clearwater Revival
 
-
- 3: (35) - Heavenly
 
 
 
@@ -52,4 +52,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 2) - Lucinda Williams, Brittney Spencer
 14: ( 2) - New Order
 15: ( 1) - Brigitte Calls Me Baby
-16: ( 1) - Lucinda Williams, Mavis Staples
+16: ( 1) - Heavenly, Calvin Johnson
+17: ( 1) - Lucinda Williams, Mavis Staples
