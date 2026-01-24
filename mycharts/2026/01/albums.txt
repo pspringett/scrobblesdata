@@ -1,6 +1,6 @@
 Specified year (2026), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     216            17            17           104
+     218            17            17           106
  1: (42) - Creedence Clearwater Revival - Creedence Clearwater Revival
  2: (41) - Altar - Newdad
  3: (40) - Le Jardin De Heavenly - Heavenly
@@ -40,9 +40,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  9: ( 6) - The Resurrection Game - Emma Swift
 10: ( 6) - Waves - Newdad
-11: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-12: ( 5) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
-13: ( 4) - World's Gone Wrong - Lucinda Williams
+11: ( 6) - World's Gone Wrong - Lucinda Williams
+12: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+13: ( 5) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+
 14: ( 3) - Home Recordings - Emma Swift
 15: ( 2) - Blonde On The Tracks - Emma Swift
 16: ( 2) - Substance 1987 - New Order
