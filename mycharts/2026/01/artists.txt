@@ -1,15 +1,13 @@
 Specified year (2026), specified month (1)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     227            17            17           107
+     227            14            17           107
  1: (47) - Newdad
 
 
 
 
  2: (42) - Creedence Clearwater Revival
-
- 3: (40) - Heavenly
-
+ 3: (41) - Heavenly
 
 
 
@@ -32,11 +30,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 4: (18) - Lucinda Williamns
 
 
- 4: (14) - Katherine Priddy
- 5: (13) - Devine & Statton
- 6: (12) - Lucinda Williams
+
+ 5: (14) - Katherine Priddy
+ 6: (13) - Devine & Statton
+
  7: (11) - Emma Swift
  8: (10) - It'S Immaterial
  9: (10) - Mercy Girl
@@ -46,9 +46,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 11: ( 5) - Sharon Van Etten
 12: ( 5) - The Zombies
-13: ( 4) - Lucinda Williams, Brittney Spencer
 
-14: ( 2) - Lucinda Williams, Mavis Staples
-15: ( 2) - New Order
-16: ( 1) - Brigitte Calls Me Baby
-17: ( 1) - Heavenly, Calvin Johnson
+
+13: ( 2) - New Order
+14: ( 1) - Brigitte Calls Me Baby
