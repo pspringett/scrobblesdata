@@ -1,6 +1,6 @@
 Specified year (2015), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     801            72           125           616
+     801            72           124           616
   1: (42) - Hello Cruel World - Gretchen Peters
   2: (36) - Something More Than Free - Jason Isbell
   3: (30) * Seven Dials - Roddy Frame
@@ -42,24 +42,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: ( 6) * Liberator - Orchestral Manoeuvres in the Dark
  40: ( 5) * Anarchy In The UK - 30 Years Of Punk - Various
  41: ( 5) - Cleaning Out The Ashtrays CD3 Dangerous Music - Lloyd Cole
- 42: ( 5) - Natalie Prass - Natalie Prass
- 43: ( 5) * Street Legal - Bob Dylan
- 44: ( 5) * Texas Fever - Orange Juice
- 45: ( 5) * Tom Tom Club - Tom Tom Club
- 46: ( 5) * Trouble In Mind - Hayes Carll
- 47: ( 4) - Cleaning Out The Ashtrays CD4 Difficult Pieces - Lloyd Cole
- 48: ( 4) * Get Happy!! - Elvis Costello & the Attractions
- 49: ( 4) * Horse Soldier! Horse Soldier! - Corb Lund
- 50: ( 4) * Led Zeppelin - Led Zeppelin
- 51: ( 4) * Paris 1919 (Remastered + Expanded) - John Cale
- 52: ( 4) * Snap - The Jam
- 53: ( 4) - The Glasgow School - Orange Juice
- 54: ( 4) * Unknown Pleasures - Joy Division
- 55: ( 4) * Welcome To Scullyville - Martin Stephenson
- 56: ( 3) * Before The Flood - Bob Dylan
- 57: ( 3) * Bob Dylan At Budokan - Bob Dylan
- 58: ( 3) * City Of Refuge - Rachel Harrington
- 59: ( 3) * David Bowie - David Bowie
+ 42: ( 5) * David Bowie - David Bowie
+ 43: ( 5) - Natalie Prass - Natalie Prass
+ 44: ( 5) * Street Legal - Bob Dylan
+ 45: ( 5) * Texas Fever - Orange Juice
+ 46: ( 5) * Tom Tom Club - Tom Tom Club
+ 47: ( 5) * Trouble In Mind - Hayes Carll
+ 48: ( 4) - Cleaning Out The Ashtrays CD4 Difficult Pieces - Lloyd Cole
+ 49: ( 4) * Get Happy!! - Elvis Costello & the Attractions
+ 50: ( 4) * Horse Soldier! Horse Soldier! - Corb Lund
+ 51: ( 4) * Led Zeppelin - Led Zeppelin
+ 52: ( 4) * Paris 1919 (Remastered + Expanded) - John Cale
+ 53: ( 4) * Snap - The Jam
+ 54: ( 4) - The Glasgow School - Orange Juice
+ 55: ( 4) * Unknown Pleasures - Joy Division
+ 56: ( 4) * Welcome To Scullyville - Martin Stephenson
+ 57: ( 3) * Before The Flood - Bob Dylan
+ 58: ( 3) * Bob Dylan At Budokan - Bob Dylan
+ 59: ( 3) * City Of Refuge - Rachel Harrington
  60: ( 3) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
  61: ( 3) * I Took Up The Runes - Jan Garbarek
  62: ( 3) * Live From KXLU Radio - Gina Villalobos
@@ -79,50 +79,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  76: ( 2) - Cleaning Out The Ashtrays CD1 One Red Wine Glass - Lloyd Cole
  77: ( 2) - Cleaning Out The Ashtrays CD2 Re-make/Re-model - Lloyd Cole
  78: ( 2) - Close To The Bone - Tom Tom Club
- 79: ( 2) - David Bowie (Bonus tracks) - David Bowie
- 80: ( 2) * Demons/Demons - JT Nero
- 81: ( 2) * Empire Burlesque - Bob Dylan
- 82: ( 2) * Firecracker - The Wailin' Jennys
- 83: ( 2) * Infidels (Remastered 2003) - Bob Dylan
- 84: ( 2) * Oh My God, Charlie Darwin - The Low Anthem
- 85: ( 2) * See You Around - Travis Linville
- 86: ( 2) * Shot Of Love - Bob Dylan
- 87: ( 2) - Side By Side (Live At Spacebomb Studios) - Natalie Prass
- 88: ( 2) * Songs To Remember - Scritti Politti
- 89: ( 2) * Sweet Somethin' Steady - Romi Mayes
- 90: ( 2) * Tales Of Light And Darkness - Angie Palmer
- 91: ( 2) - Tempting The Storm - Cara Luft
- 92: ( 2) * The City's Hot Yeah The City's Hot - JT and the Clouds
- 93: ( 2) * This Year's Model - Elvis Costello & the Attractions
- 94: ( 2) * Various Positions - Leonard Cohen
- 95: ( 1) * Anchors & Anvils - Amy LaVere
- 96: ( 1) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
- 97: ( 1) * Caledonia - JT and the Clouds
- 98: ( 1) * Crazy Heart Soundtrack - Various
- 99: ( 1) * Departure And Farewell - Hem
-100: ( 1) * Desire - Bob Dylan
-101: ( 1) * Hard Rain - Bob Dylan
-102: ( 1) * Imagination Feels Like Poison - Martyn Bates
-103: ( 1) * Life On Mars Original Soundtrack - Various
-104: ( 1) * Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
-105: ( 1) * Meanwhile, As Night Falls... - Angie Palmer
-106: ( 1) * Mountains/Forests - JT Nero
-107: ( 1) - Naked As Advertised Versions 08 - Heaven 17
-108: ( 1) - New Skin For The Old Ceremony - Leonard Cohen
-109: ( 1) * No Word From Tom - Hem
-110: ( 1) - Script Of The Bridge (Remastered) - The Chameleons
-111: ( 1) * Sew Your Heart With Wires - Rod Picott and Amanda Shires
-112: ( 1) * Signing Off - UB40
-113: ( 1) - Songs Of Love And Hate - Leonard Cohen
-114: ( 1) - The '81 Demos - Weekend
-115: ( 1) - The Essential Leonard Cohen - Leonard Cohen
-116: ( 1) - The Esteemed Orange Juice - Orange Juice
-117: ( 1) * The King Is Dead - The Decemberists
-118: ( 1) * The Light Fantastic - Cara Luft
-119: ( 1) * The Man Who Sold The World - David Bowie
-120: ( 1) * The Orange Juice - Orange Juice
-121: ( 1) * Thick As Thieves - Larkin Poe
-122: ( 1) * This Year's Model - Bonus - Elvis Costello & the Attractions
-123: ( 1) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
-124: ( 1) * World At Large - The Dust Poets
-125: ( 1) * Young Americans - David Bowie
+ 79: ( 2) * Demons/Demons - JT Nero
+ 80: ( 2) * Empire Burlesque - Bob Dylan
+ 81: ( 2) * Firecracker - The Wailin' Jennys
+ 82: ( 2) * Infidels (Remastered 2003) - Bob Dylan
+ 83: ( 2) * Oh My God, Charlie Darwin - The Low Anthem
+ 84: ( 2) * See You Around - Travis Linville
+ 85: ( 2) * Shot Of Love - Bob Dylan
+ 86: ( 2) - Side By Side (Live At Spacebomb Studios) - Natalie Prass
+ 87: ( 2) * Songs To Remember - Scritti Politti
+ 88: ( 2) * Sweet Somethin' Steady - Romi Mayes
+ 89: ( 2) * Tales Of Light And Darkness - Angie Palmer
+ 90: ( 2) - Tempting The Storm - Cara Luft
+ 91: ( 2) * The City's Hot Yeah The City's Hot - JT and the Clouds
+ 92: ( 2) * This Year's Model - Elvis Costello & the Attractions
+ 93: ( 2) * Various Positions - Leonard Cohen
+ 94: ( 1) * Anchors & Anvils - Amy LaVere
+ 95: ( 1) * Butcher Holler - A Tribute to Loretta Lynn - Eilen Jewell
+ 96: ( 1) * Caledonia - JT and the Clouds
+ 97: ( 1) * Crazy Heart Soundtrack - Various
+ 98: ( 1) * Departure And Farewell - Hem
+ 99: ( 1) * Desire - Bob Dylan
+100: ( 1) * Hard Rain - Bob Dylan
+101: ( 1) * Imagination Feels Like Poison - Martyn Bates
+102: ( 1) * Life On Mars Original Soundtrack - Various
+103: ( 1) * Lloyd Cole Small Ensemble Slaughterhouse Studios 01-22-2010 - Lloyd Cole
+104: ( 1) * Meanwhile, As Night Falls... - Angie Palmer
+105: ( 1) * Mountains/Forests - JT Nero
+106: ( 1) - Naked As Advertised Versions 08 - Heaven 17
+107: ( 1) - New Skin For The Old Ceremony - Leonard Cohen
+108: ( 1) * No Word From Tom - Hem
+109: ( 1) - Script Of The Bridge (Remastered) - The Chameleons
+110: ( 1) * Sew Your Heart With Wires - Rod Picott and Amanda Shires
+111: ( 1) * Signing Off - UB40
+112: ( 1) - Songs Of Love And Hate - Leonard Cohen
+113: ( 1) - The '81 Demos - Weekend
+114: ( 1) - The Essential Leonard Cohen - Leonard Cohen
+115: ( 1) - The Esteemed Orange Juice - Orange Juice
+116: ( 1) * The King Is Dead - The Decemberists
+117: ( 1) * The Light Fantastic - Cara Luft
+118: ( 1) * The Man Who Sold The World - David Bowie
+119: ( 1) * The Orange Juice - Orange Juice
+120: ( 1) * Thick As Thieves - Larkin Poe
+121: ( 1) * This Year's Model - Bonus - Elvis Costello & the Attractions
+122: ( 1) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
+123: ( 1) * World At Large - The Dust Poets
+124: ( 1) * Young Americans - David Bowie

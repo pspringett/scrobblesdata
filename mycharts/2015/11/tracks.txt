@@ -1,6 +1,6 @@
 Specified year (2015), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     801            72           125           616
+     801            72           124           616
   1: (6) - Something More Than Free - Jason Isbell (Something More Than Free)
   2: (5) - Street Life (1999 Digital Remaster) - Roxy Music (Stranded)
   3: (4) - Amazona (1999 Digital Remaster) - Roxy Music (Stranded)
@@ -143,7 +143,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 140: (1) - Always Keep An Edge On Your Knife - Corb Lund (Hair In My Eyes Like A Highland Steer)
 141: (1) - Amsterdam - Scott Walker (Scott)
 142: (1) - An Cat Dubh (Remastered) - U2 (Boy)
-143: (1) - An Occasional Dream (Demo) - David Bowie (David Bowie (Bonus tracks))
+143: (1) - An Occasional Dream (Demo) - David Bowie (David Bowie)
 144: (1) - And I Knew - Robert Forster (Songs To Play)
 145: (1) - Andalucia (Alternate Version) - John Cale (Paris 1919 (Remastered + Expanded))
 146: (1) - Angelica - Scott Walker (Scott)
@@ -199,7 +199,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 196: (1) - Come All You Sailors - Cara Luft (Tempting The Storm)
 197: (1) - Coming Back to You - Leonard Cohen (Various Positions)
 198: (1) - Consolation Prize - Orange Juice (The Esteemed Orange Juice)
-199: (1) - Conversation Piece (Stereo Version) - David Bowie (David Bowie (Bonus tracks))
+199: (1) - Conversation Piece (Stereo Version) - David Bowie (David Bowie)
 200: (1) - Counterfeiters' Blues - Corb Lund (Hair In My Eyes Like A Highland Steer)
 201: (1) - Cowboy Cowgirl - Martin Stephenson (Welcome To Scullyville)
 202: (1) - Cows Around - Corb Lund (Cabin Fever (Cabin Side))
