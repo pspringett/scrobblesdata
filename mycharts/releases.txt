@@ -2981,16 +2981,15 @@
         "Summerlong": -1
     },
     "Roxy Music": {
-        "Avalon": -1,
-        "Country Life": -1,
-        "Flesh ": -1,
-        "Flesh And Blood": -1,
-        "For Your Pleasure": -1,
-        "Manifesto": -1,
-        "More Than This: The Best Of Bryan Ferry ": -1,
-        "Roxy Music": -1,
-        "Siren": -1,
-        "Stranded": -1
+        "Avalon": 1982,
+        "Country Life": 1974,
+        "Flesh And Blood": 1980,
+        "For Your Pleasure": 1973,
+        "Manifesto": 1979,
+        "More Than This: The Best Of Bryan Ferry ": 1995        ,
+        "Roxy Music": 1972,
+        "Siren": 1975,
+        "Stranded": 1973
     },
     "Roy Budd": {
         "Get Carter (Original Motion Picture Soundtrack)": -1
