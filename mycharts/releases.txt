@@ -1154,19 +1154,24 @@
         "Works": -1
     },
     "Echo & the Bunnymen": {
-        "Crocodiles": -1,
-        "Do It Clean : Crocodiles/Heaven Up Here Live": -1,
-        "Echo & The Bunnymen": -1,
-        "Evergreen": -1,
-        "Greatest Hits Live In Concert": -1,
-        "Heaven Up Here": -1,
-        "Live At The Royal Albert Hall": -1,
-        "Ocean Rain": -1,
-        "Ocean Rain Live 2008": -1,
-        "Porcupine": -1,
-        "Songs To Learn And Sing": -1,
-        "The Stars, The Oceans & The Moon": -1,
-        "What Are You Going To Do With Your Life?": -1
+        "Crocodiles": 1980,
+        "Do It Clean : Crocodiles/Heaven Up Here Live": 2011,
+        "Echo & The Bunnymen": 1987,
+        "Evergreen": 1997,
+        "Flowers": 2001,
+        "Greatest Hits Live In Concert": 2005,
+        "Heaven Up Here": 1981,
+        "Live At The Royal Albert Hall": 1983,
+        "Meteorites": 2014,
+        "Ocean Rain": 1984,
+        "Ocean Rain Live 2008": 2008,
+        "Porcupine": 1983,
+        "Reverberation": 1990,
+        "Siberia": 2005,
+        "Songs To Learn And Sing": 1985,
+        "The Fountain": 2009,
+        "The Stars, The Oceans & The Moon": 2018,
+        "What Are You Going To Do With Your Life?": 1999
     },
     "Eddie & the Hot Rods": {
         "Do Anything You Wanna Do: The Best Of": -1
