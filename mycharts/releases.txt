@@ -1195,17 +1195,18 @@
         "Do Anything You Wanna Do: The Best Of": -1
     },
     "Edwyn Collins": {
-        "Badbea": -1,
-        "Doctor Syntax": -1,
-        "Elevation Days": -1,
-        "Gorgeous George": -1,
-        "Hellbent On Compromise": -1,
-        "Home Again": -1,
-        "Hope And Despair": -1,
-        "I'm Not Following You": -1,
-        "Knowledge": -1,
-        "Losing Sleep": -1,
-        "Nation Shall Speak Unto Nation": -1
+        "Badbea": 2019,
+        "Doctor Syntax": 2002,
+        "Elevation Days": 1995,
+        "Gorgeous George": 1994,
+        "Hellbent On Compromise": 1990,
+        "Home Again": 2007,
+        "Hope And Despair": 1989,
+        "I'm Not Following You": 1997,
+        "Knowledge": 2024,
+        "Losing Sleep": 2010,
+        "Nation Shall Speak Unto Nation": 2025,
+        "Understated": 2013
     },
     "Eilen Jewell": {
         "A Tribute to Loretta Lynn": -1,
