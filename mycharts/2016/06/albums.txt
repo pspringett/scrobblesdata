@@ -1,6 +1,6 @@
 Specified year (2016), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     484            39            45           299
+     484            39            44           299
  1: (52) - Case/Lang/Veirs - case/lang/veirs
  2: (40) - A Creature I Don't Know - Laura Marling
  3: (36) - Old Yellow Moon - Emmylou Harris
@@ -17,13 +17,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 14: (12) - Bramble Rose - Tift Merritt
 15: (12) * Old Sticks To Scare A Bird - Angie Palmer
 16: (11) - Junk Culture - Orchestral Manoeuvres in the Dark
-17: (11) * Standards - Lloyd Cole
-18: (10) * Black Eyed Man - Cowboy Junkies
-19: (10) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
-20: (10) * I Speak Because I Can - Laura Marling
-21: (10) - Lovers And Leavers - Hayes Carll
-22: (10) * Rattlesnakes - Lloyd Cole and the Commotions
-23: (10) * Seventeen Seconds - The Cure
+17: (11) * Seventeen Seconds - The Cure
+18: (11) * Standards - Lloyd Cole
+19: (10) * Black Eyed Man - Cowboy Junkies
+20: (10) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
+21: (10) * I Speak Because I Can - Laura Marling
+22: (10) - Lovers And Leavers - Hayes Carll
+23: (10) * Rattlesnakes - Lloyd Cole and the Commotions
 24: ( 9) * Road - Angie Palmer
 25: ( 9) - Saturns Pattern - Paul Weller
 26: ( 8) * Knife - Aztec Camera
@@ -40,9 +40,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 37: ( 1) - I'm In Love With A German Film Star - The Passions
 38: ( 1) - Manifesto - Roxy Music
 39: ( 1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-40: ( 1) * Seventeen Seconds (Remastered Version) - The Cure
-41: ( 1) - Singles - New Order
-42: ( 1) - Suzanne Vega - Suzanne Vega
-43: ( 1) * The Collection - Altered Images
-44: ( 1) - Tin Drum - Japan
-45: ( 1) - You And Me Both - Yazoo
+40: ( 1) - Singles - New Order
+41: ( 1) - Suzanne Vega - Suzanne Vega
+42: ( 1) * The Collection - Altered Images
+43: ( 1) - Tin Drum - Japan
+44: ( 1) - You And Me Both - Yazoo
