@@ -1574,8 +1574,7 @@
     },
     "Haircut 100": {
         "Greatest Hits Of Nick Heyward ": -1,
-        "Pelican West Plus": -1,
-        "The Esteemed Orange Juice": -1
+        "Pelican West Plus": -1
     },
     "Haley Bonar": {
         "Impossible Dream": -1
@@ -1742,7 +1741,6 @@
         "Pearl": -1
     },
     "Japan": {
-        "The Esteemed Orange Juice": -1,
         "Tin Drum": -1
     },
     "Jarv Is...": {
@@ -2672,14 +2670,13 @@
         "Nijimusi": -1
     },
     "Orange Juice": {
-        "": -1,
-        "Coals To Newcastle": -1,
-        "Rip It Up": -1,
-        "Texas Fever": -1,
-        "The Esteemed Orange Juice": -1,
-        "The Glasgow School": -1,
-        "The Orange Juice": -1,
-        "You Can't Hide Your Love Forever": -1
+        "Coals To Newcastle": 2010,
+        "Rip It Up": 1982,
+        "Texas Fever": 1984,
+        "The Esteemed Orange Juice": 1992,
+        "The Glasgow School": 2005,
+        "The Orange Juice": 1984,
+        "You Can't Hide Your Love Forever": 1982
     },
     "Orchestral Manoeuvres in the Dark": {
         "Architecture & Morality [Bonus Tracks]": 1981,
@@ -4079,16 +4076,15 @@
         "It Is What It Is": -1
     },
     "Tift Merritt": {
-        "Another Country": -1,
-        "Bramble Rose": -1,
-        "Buckingham Solo": -1,
-        "Night": -1,
-        "See You On The Moon": -1,
-        "Stitch Of The World": -1,
-        "Tambourine": -1,
-        "Tambourine / Bramble Rose (Special Edition)": -1,
-        "Traveling Alone": -1,
-        "Traveling Companion": -1
+        "Another Country": 2008,
+        "Bramble Rose": 2002,
+        "Buckingham Solo": 2009,
+        "Night": 2013,
+        "See You On The Moon": 2010,
+        "Stitch Of The World": 2017,
+        "Tambourine": 2004,
+        "Traveling Alone": 2012,
+        "Traveling Companion": 2013
     },
     "Tim Buckley": {
         "Starsailor": -1
