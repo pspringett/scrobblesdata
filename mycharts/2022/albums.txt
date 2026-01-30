@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3438           161           229          1676
+    3438           160           229          1676
   1: (176) - Mascara Streakz - Altered Images
   2: ( 90) - Daddy's Home - St. Vincent
   3: ( 82) - Strange Mercy - St. Vincent
@@ -49,12 +49,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  46: ( 24) * Pinky Blue - Altered Images
  47: ( 24) - Pohorylle - Margo Cilker
  48: ( 24) * Scott 2 - Scott Walker
- 49: ( 23) * Boat To Bolivia - Martin Stephenson and the Daintees
- 50: ( 23) - Forgiven, Not Forgotten - The Corrs
- 51: ( 23) * Lay It Down - Cowboy Junkies
- 52: ( 23) - Marry Me - St. Vincent
- 53: ( 23) - New Gold Dream - Simple Minds
- 54: ( 22) * Black Eyed Man - Cowboy Junkies
+ 49: ( 23) * Black Eyed Man - Cowboy Junkies
+ 50: ( 23) * Boat To Bolivia - Martin Stephenson and the Daintees
+ 51: ( 23) - Forgiven, Not Forgotten - The Corrs
+ 52: ( 23) * Lay It Down - Cowboy Junkies
+ 53: ( 23) - Marry Me - St. Vincent
+ 54: ( 23) - New Gold Dream - Simple Minds
  55: ( 22) - Clara Libre - Altered Images
  56: ( 22) * Electric Warrior - T. Rex
  57: ( 21) - Rough And Rowdy Ways - Bob Dylan
@@ -190,46 +190,45 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 187: (  1) - Back In The Day - Martin Stephenson and the Daintees
 188: (  1) - Beautiful World ((Bonus Track Version)) - Eliza Gilkyson
 189: (  1) - Birth Of A Nation: Inevitable Records: An Independent Liverpool 1979-1986 - It'S Immaterial
-190: (  1) - Black Eyed Man - Cowboy Junkiese
-191: (  1) - Blooms & Barnacles - Blooms & Barnacles
-192: (  1) - Born In The U.S.A. - Bruce Springsteen
-193: (  1) - Celebrate (Greatest Hits / Expanded Edition) - Simple Minds
-194: (  1) - Da Capo (Deluxe Edition) - Love
-195: (  1) - Delta Kream - The Black Keys
-196: (  1) - Direction Of The Heart - Simple Minds
-197: (  1) - Divine Symmetry - David Bowie
-198: (  1) - Dream Into Action - Howard Jones
-199: (  1) - Electric Ladyland - Jimi Hendrix
-200: (  1) - Every Bad (Expanded Edition) - Porridge Radio
-201: (  1) - Extricate (Expanded Edition) - The Fall
-202: (  1) - Fetch The Bolt Cutters - Fiona Apple
-203: (  1) - Forever Changes (2015 Remaster) - Love
-204: (  1) - Fun Boy Three - Fun Boy Three
-205: (  1) - Futuristic Dragon (Deluxe Edition) - T. Rex
-206: (  1) - Get It On: The Collection - T. Rex
-207: (  1) - Give Me The Future - Bastille
-208: (  1) - Happy Birthday (Cuban Version) - Altered Images
-209: (  1) * High Land, Hard Rain - Aztec Camera
-210: (  1) - I Don’T Live Here Anymore - The War on Drugs
-211: (  1) - Land Of Milk And Honey - Eliza Gilkyson
-212: (  1) - Mange Tout (Extended Version) - Blancmange
-213: (  1) - Metals - Feist
-214: (  1) - Mistaken Identity - Kim Carnes
-215: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
-216: (  1) - Revelators - Revelators Sound System
-217: (  1) - Revolver (Remastered) - The Beatles
-218: (  1) - Saint Cloud - Waxahatchee
-219: (  1) - Second Helpings - Blancmange
-220: (  1) - Shout - Placebo
-221: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
-222: (  1) - The Beatles (Remastered) - The Beatles
-223: (  1) - The Doors - The Doors
-224: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
-225: (  1) - The Spur - Joan Shelley
-226: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
-227: (  1) - The Wrong People - Furniture
-228: (  1) - Tin Drum - Japan
-229: (  1) - Travelogue - Human League
-230: (  1) - Waiting - Fun Boy Three
-231: (  1) - Your Town Tonight - Eliza Gilkyson
-232: (  1) - Youtube - Prefab Sprout
+190: (  1) - Blooms & Barnacles - Blooms & Barnacles
+191: (  1) - Born In The U.S.A. - Bruce Springsteen
+192: (  1) - Celebrate (Greatest Hits / Expanded Edition) - Simple Minds
+193: (  1) - Da Capo (Deluxe Edition) - Love
+194: (  1) - Delta Kream - The Black Keys
+195: (  1) - Direction Of The Heart - Simple Minds
+196: (  1) - Divine Symmetry - David Bowie
+197: (  1) - Dream Into Action - Howard Jones
+198: (  1) - Electric Ladyland - Jimi Hendrix
+199: (  1) - Every Bad (Expanded Edition) - Porridge Radio
+200: (  1) - Extricate (Expanded Edition) - The Fall
+201: (  1) - Fetch The Bolt Cutters - Fiona Apple
+202: (  1) - Forever Changes (2015 Remaster) - Love
+203: (  1) - Fun Boy Three - Fun Boy Three
+204: (  1) - Futuristic Dragon (Deluxe Edition) - T. Rex
+205: (  1) - Get It On: The Collection - T. Rex
+206: (  1) - Give Me The Future - Bastille
+207: (  1) - Happy Birthday (Cuban Version) - Altered Images
+208: (  1) * High Land, Hard Rain - Aztec Camera
+209: (  1) - I Don’T Live Here Anymore - The War on Drugs
+210: (  1) - Land Of Milk And Honey - Eliza Gilkyson
+211: (  1) - Mange Tout (Extended Version) - Blancmange
+212: (  1) - Metals - Feist
+213: (  1) - Mistaken Identity - Kim Carnes
+214: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
+215: (  1) - Revelators - Revelators Sound System
+216: (  1) - Revolver (Remastered) - The Beatles
+217: (  1) - Saint Cloud - Waxahatchee
+218: (  1) - Second Helpings - Blancmange
+219: (  1) - Shout - Placebo
+220: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
+221: (  1) - The Beatles (Remastered) - The Beatles
+222: (  1) - The Doors - The Doors
+223: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
+224: (  1) - The Spur - Joan Shelley
+225: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
+226: (  1) - The Wrong People - Furniture
+227: (  1) - Tin Drum - Japan
+228: (  1) - Travelogue - Human League
+229: (  1) - Waiting - Fun Boy Three
+230: (  1) - Your Town Tonight - Eliza Gilkyson
+231: (  1) - Youtube - Prefab Sprout

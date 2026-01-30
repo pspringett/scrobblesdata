@@ -877,23 +877,28 @@
         "Old Flowers": -1
     },
     "Cowboy Junkies": {
-        "All That Reckoning": -1,
-        "Black Eyed Man": -1,
+        "All That Reckoning": 2018,
+        "AtlThe End Of Al Paths Taken": 2007,
+        "Black Eyed Man": 1992,
+        "Early 21st Century Blues": 2005,
+        "Ghosts": 2020,
         "Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons)": -1,
-        "Lay It Down": -1,
-        "Miles From Our Home": -1,
-        "One Soul Now": -1,
-        "Pale Sun Crescent Moon": -1,
-        "Sharon": -1,
-        "Sing In My Meadow: The Nomad Series, Vol. 3": -1,
-        "Songs Of The Recollection": -1,
-        "Such Ferocious Beauty": -1,
-        "The Caution Horses": -1,
-        "The Trinity Session": -1,
-        "Trinity Revisited": -1
-    },
-    "Cowboy Junkiese": {
-        "Black Eyed Man": -1
+        "Lay It Down": 1996,
+        "Miles From Our Home": 1998,
+        "Open": 2001,
+        "One Soul Now": 2004,
+        "Pale Sun Crescent Moon": 1993,
+        "Sharon": 2022,
+        "Renmin Park: The Nomad Series, Vol. 1": 2010,
+        "Demons: The Nomad Series, Vol. 2": 2011,
+        "Sing In My Meadow: The Nomad Series, Vol. 3": 2011,
+        "The Wilderness: The Nomad Series, Vol. 4": 2012,
+        "Songs Of The Recollection": 2022,
+        "Such Ferocious Beauty": 2023,
+        "The Caution Horses": 1990,
+        "The Trinity Session": 1988,
+        "Trinity Revisited": 2007,
+        "Whites Off Earth now!!": 1986
     },
     "Cream": {
         "Disraeli Gears (Remastered)": -1
