@@ -1919,13 +1919,20 @@
         "Young And Stupid": -1
     },
     "Josh Ritter": {
-        "Fever Breaks": -1,
-        "Gathering": -1,
-        "Heaven, Or Someplace As Nice": -1,
-        "I Believe In You, My Honeydew": -1,
-        "See Here, I Have Built You A Mansion (Rare And Unreleased)": -1,
-        "Sermon On The Rocks": -1,
-        "Spectral Lines": -1
+        "Fever Breaks": 2019,
+        "Gathering": 2017,
+        "Golden Age of Radio": 2002,
+        "Heaven, Or Someplace As Nice": 2024,
+        "Hello Starling": 2003,
+        "I Believe In You, My Honeydew": 2025,
+        "Josh Ritter": 2000,
+        "See Here, I Have Built You A Mansion (Rare And Unreleased)": 2020,
+        "So Runs The World Away": 2010,
+        "Sermon On The Rocks": 2015,
+        "Spectral Lines": 2023,
+        "The Animal Years": 2006,
+        "The Beast In His Tracks": 2013,
+        "The Historical Conquests of Josh Ritter": 2007
     },
     "Josh Rouse": {
         "Nashville": -1
@@ -2105,17 +2112,21 @@
         "Lena Horne Greatest Hits": -1
     },
     "Leonard Cohen": {
-        "I'm Your Man": -1,
-        "New Skin For The Old Ceremony": -1,
-        "Old Ideas": -1,
-        "Popular Problems": -1,
-        "Songs From A Room": -1,
-        "Songs Of Leonard Cohen": -1,
-        "Songs Of Love And Hate": -1,
-        "The Essential Leonard Cohen": -1,
-        "The Future": -1,
-        "Various Positions": -1,
-        "You Want It Darker": -1
+        "Dear Heather": 2004,
+        "Death Of A Ladies Man": 1977,
+        "I'm Your Man": 1988,
+        "New Skin For The Old Ceremony": 1974,
+        "Old Ideas": 2012,
+        "Popular Problems": 2012,
+        "Recent Songs": 1979,
+        "Songs From A Room": 1969,
+        "Songs Of Leonard Cohen": 1967,
+        "Songs Of Love And Hate": 1971,
+        "Thanks For The Dance": 2019,
+        "The Essential Leonard Cohen": 1975,
+        "The Future": 1992,
+        "Various Positions": 1984,
+        "You Want It Darker": 2016
     },
     "Lera Lynn": {
         "Resistor": -1,
