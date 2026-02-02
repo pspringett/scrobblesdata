@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   10688           277           444          3259
+   10700           278           445          3262
   1: (146) - Nation Shall Speak Unto Nation - Edwyn Collins
   2: (146) - Spectral Lines - Josh Ritter
   3: (146) - The Boy's Heart - Martin Stephenson and the Daintees
@@ -141,15 +141,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  85: ( 38) - Killjoy - Coach Party
  86: ( 38) - Suede - Suede
  87: ( 37) - Aladdin Sane - David Bowie
- 88: ( 37) - Eden - Everything But the Girl
- 89: ( 37) - I Inside The Old Year Dying - Pj Harvey
- 90: ( 37) - Stranded - Roxy Music
- 91: ( 36) - Loose Talk - Bryan Ferry, Amelia Barratt
- 92: ( 36) - Solitude Standing - Suzanne Vega
- 93: ( 36) * The Unforgettable Fire - U2
- 94: ( 35) * Boy - U2
- 95: ( 34) - Tigers Blood - Waxahatchee
- 96: ( 33) - Blonde On The Tracks - Emma Swift
+ 88: ( 37) - Blonde On The Tracks - Emma Swift
+ 89: ( 37) - Eden - Everything But the Girl
+ 90: ( 37) - I Inside The Old Year Dying - Pj Harvey
+ 91: ( 37) - Stranded - Roxy Music
+ 92: ( 36) - Loose Talk - Bryan Ferry, Amelia Barratt
+ 93: ( 36) - Solitude Standing - Suzanne Vega
+ 94: ( 36) * The Unforgettable Fire - U2
+ 95: ( 35) * Boy - U2
+ 96: ( 34) - Tigers Blood - Waxahatchee
  97: ( 33) * Faith - The Cure
  98: ( 32) * High Land, Hard Rain - Aztec Camera
  99: ( 32) - La Variete - Weekend
@@ -197,35 +197,35 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 141: ( 23) - The Lexicon Of Love - ABC
 142: ( 23) * The Orange Juice - Orange Juice
 143: ( 23) - Up All Night - Simple Minds
-144: ( 22) - Brothers & Sisters - Steve Mason
-145: ( 22) - Cuts & Bruises - Inhaler
-146: ( 22) - Frog In Boiling Water - Diiv
-147: ( 22) * Hellbent On Compromise - Edwyn Collins
-148: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
-149: ( 22) - The Window Is The Dream - Jana Horn
-150: ( 21) - Cut Worms - Cut Worms
-151: ( 21) - Hard Light - Drop Nineteens
-152: ( 21) - High Bells Ring Thin - Martin Stephenson
-153: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
-154: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
-155: ( 20) - Again - The Belair Lip Bombs
-156: ( 20) - First Two Pages Of Frankenstein - The National
-157: ( 20) - Lodger - David Bowie
-158: ( 20) - Nashville Skyline - Bob Dylan
-159: ( 20) - On Sunset (Deluxe) - Paul Weller
-160: ( 20) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-161: ( 19) - Da Capo - Love
-162: ( 19) * Heaven Up Here - Echo & the Bunnymen
-163: ( 19) * I Speak Because I Can - Laura Marling
-164: ( 19) * Impossible Dream - Patty Griffin
-165: ( 18) * Don't Get Weird On Me Babe - Lloyd Cole
-166: ( 18) * Hope And Despair - Edwyn Collins
-167: ( 18) * Lay It Down - Cowboy Junkies
-168: ( 18) - Rogues Gospel - Duke Garwood
-169: ( 18) - Salutation Road - Martin Stephenson and the Daintees
-170: ( 18) * Signing Off - UB40
-171: ( 18) - Slates - The Fall
-172: ( 18) - World's Gone Wrong - Lucinda Williamns
+144: ( 23) - World's Gone Wrong - Lucinda Williamns
+145: ( 22) - Brothers & Sisters - Steve Mason
+146: ( 22) - Cuts & Bruises - Inhaler
+147: ( 22) - Frog In Boiling Water - Diiv
+148: ( 22) * Hellbent On Compromise - Edwyn Collins
+149: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
+150: ( 22) - The Window Is The Dream - Jana Horn
+151: ( 21) - Cut Worms - Cut Worms
+152: ( 21) - Hard Light - Drop Nineteens
+153: ( 21) - High Bells Ring Thin - Martin Stephenson
+154: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
+155: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+156: ( 20) - Again - The Belair Lip Bombs
+157: ( 20) - First Two Pages Of Frankenstein - The National
+158: ( 20) - Lodger - David Bowie
+159: ( 20) - Nashville Skyline - Bob Dylan
+160: ( 20) - On Sunset (Deluxe) - Paul Weller
+161: ( 20) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+162: ( 19) - Da Capo - Love
+163: ( 19) * Heaven Up Here - Echo & the Bunnymen
+164: ( 19) * I Speak Because I Can - Laura Marling
+165: ( 19) * Impossible Dream - Patty Griffin
+166: ( 18) * Don't Get Weird On Me Babe - Lloyd Cole
+167: ( 18) * Hope And Despair - Edwyn Collins
+168: ( 18) * Lay It Down - Cowboy Junkies
+169: ( 18) - Rogues Gospel - Duke Garwood
+170: ( 18) - Salutation Road - Martin Stephenson and the Daintees
+171: ( 18) * Signing Off - UB40
+172: ( 18) - Slates - The Fall
 173: ( 17) - Crocodiles - Echo & the Bunnymen
 174: ( 17) * Electric Warrior - T. Rex
 175: ( 17) * Get Happy!! - Elvis Costello & the Attractions
@@ -370,175 +370,176 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 314: (  3) - Everybody Scream - Florence + the Machine
 315: (  3) - Everything's Gone Green (2019 Remaster) - New Order
 316: (  3) - Home Recordings - Emma Swift
-317: (  3) - If I Don't Make It, I Love U - Still House Plants
-318: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
-319: (  3) * Losing Sleep - Edwyn Collins
-320: (  3) - More - Pulp, Chilly Gonzales
-321: (  3) - Once I Was An Eagle - Laura Marling
-322: (  3) - Pelican West Plus - Haircut 100
-323: (  3) - Scott 4 - Scott Walker
-324: (  3) - The Basement Tapes - Bob Dylan and the Band
-325: (  3) - Treasure - Cocteau Twins
-326: (  3) - Upstairs at Erics - Yazoo
-327: (  3) - Young, Dumb & Wild - Andy Golledge
-328: (  2) - Aspirin Sun - Emma Tricca
-329: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-330: (  2) - Early - Scritti Politti
-331: (  2) - Empires And Dance - Simple Minds
-332: (  2) * Fate's Right Hand - Rodney Crowell
-333: (  2) - Ferment - Catherine Wheel
-334: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-335: (  2) - Golden Age - Heaven 17
-336: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-337: (  2) - High Bells Ring Thin - Martin Stephenson Featuring Cathal Coughlan
-338: (  2) - Knowledge - Edwyn Collins
-339: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-340: (  2) - Music From Big Pink - The Band
-341: (  2) - No Happy Endings - Emma Swift
-342: (  2) * Rattlesnakes - Lloyd Cole and the Commotions
-343: (  2) - Romance - Fontaines D.c.
-344: (  2) * Songs Of Leonard Cohen - Leonard Cohen
-345: (  2) - Sweet Misdemeanour - Martin Stephenson
-346: (  2) - The Clearing - Wolf Alice
-347: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
-348: (  2) - To Our Children's Children's Children - The Moody Blues
-349: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-350: (  1) -  - Orange Juice
-351: (  1) - 0-100 - Bob Hund
-352: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-353: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
-354: (  1) - Acoustic - Simple Minds, Kt Tunstall
-355: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
-356: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
-357: (  1) - Architecture & Morality - Orchestral Manoeuvres in the Dark
-358: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-359: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
-360: (  1) - Blue - Joni Mitchell
-361: (  1) - Brat - Charli Xcx
-362: (  1) - Brotherhood - New Order
-363: (  1) - Burnin' - The Wailers
-364: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
-365: (  1) - Cahoots - The Band
-366: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
-367: (  1) - Caribou (Remastered 1995) - Elton John
-368: (  1) - Cat People - David Bowie
-369: (  1) - Christmas Jams - Michael Bublé
-370: (  1) - Closing Sound - Blue Bendy
-371: (  1) - Coming Home - Cara Dillon
-372: (  1) - Conditions - The Temper Trap
-373: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
-374: (  1) - Dare! - The Human League
-375: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
-376: (  1) - Dragnet - The Fall
-377: (  1) - Drums And Wires - Xtc
-378: (  1) - Electric Ladyland - Jimi Hendrix
-379: (  1) - Electrical Storm (Remastered 2024) - U2
-380: (  1) - Elton John - Elton John
-381: (  1) - Etc - Lloyd Cole
-382: (  1) - Ett Fall Och En LöSning - Bob Hund
-383: (  1) - Fade To Grey:  The Best Of Visage - Visage
-384: (  1) - Fairytale Of New York - The Pogues
-385: (  1) - Fragile (Deluxe Edition) - Yes
-386: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-387: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
-388: (  1) - Get It On: The Collection - T. Rex
-389: (  1) - Goodbye Yellow Brick Road - Elton John
-390: (  1) - Greatest Hits (Remastered) - Queen
-391: (  1) - Greatest Hits - The Cure
-392: (  1) * Heroes - David Bowie
-393: (  1) - High Bells Ring Thin - Martin Stephenson Featuring Virginia Astley
-394: (  1) - His Band And The Street Choir - Van Morrison
-395: (  1) - Holiday Pop - The Ronettes
-396: (  1) * I'm Not Following You - Edwyn Collins
-397: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
-398: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
-399: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
-400: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-401: (  1) - Kimono My House - Sparks
-402: (  1) - Loaded - The Velvet Underground
-403: (  1) - London Boy - David Bowie
-404: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
-405: (  1) - Merry Christmas - Mariah Carey
-406: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
-407: (  1) - Never Enough - Turnstile
-408: (  1) - New Clear Days - The Vapors
-409: (  1) - New Wave Hits Of The 80S - ABC
-410: (  1) - New Wave Hits Of The 80S - Billy Idol
-411: (  1) - New Wave Hits Of The 80S - Culture Club
-412: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-413: (  1) - New Wave Hits Of The 80S - Joe Jackson
-414: (  1) - New Wave Hits Of The 80S - Level 42
-415: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-416: (  1) - New Wave Hits Of The 80S - R.E.M.
-417: (  1) - New Wave Hits Of The 80S - Simple Minds
-418: (  1) - New Wave Hits Of The 80S - Soft Cell
-419: (  1) - New Wave Hits Of The 80S - The Buggles
-420: (  1) - New Wave Hits Of The 80S - The Go-go's
-421: (  1) - New Wave Hits Of The 80S - The Human League
-422: (  1) - New Wave Hits Of The 80S - The Motels
-423: (  1) - New Wave Hits Of The 80S - The Police
-424: (  1) - New Wave Hits Of The 80S - Trio
-425: (  1) - New Wave Hits Of The 80S - UB40
-426: (  1) - New Wave Hits Of The 80S - Wang Chung
-427: (  1) - New Wave Hits Of The 80S - When in Rome
-428: (  1) - New York Dolls - New York Dolls
-429: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-430: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
-431: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
-432: (  1) - Northern Lights – Southern Cross - The Band
-433: (  1) - Nothing And Forever - Emma Swift
-434: (  1) * Ocean Rain - Echo & the Bunnymen
-435: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-436: (  1) - Pearl - Janis Joplin
-437: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-438: (  1) - Rio (Collector's Edition) - Duran Duran
-439: (  1) - Road Trip Sing-Along Songs - Blondie
-440: (  1) - Runt - Todd Rundgren
-441: (  1) - Scared To Get Happy - Blue Orchids
-442: (  1) - Scared To Get Happy - Everything But the Girl
-443: (  1) - Scared To Get Happy - Girls At Our Best!
-444: (  1) - Scared To Get Happy - Hurrah!
-445: (  1) - Scared To Get Happy - Jane
-446: (  1) - Scared To Get Happy - Marine Girls
-447: (  1) - Scared To Get Happy - The Monochrome Set
-448: (  1) - Scared To Get Happy - The Nightingales
-449: (  1) - Scared To Get Happy - Tv21
-450: (  1) - Scared To Get Happy - Weekend
-451: (  1) - Silence - Vild I Skogen - Bob Hund
-452: (  1) - Sky's The Limit - The Temptations
-453: (  1) - Sladest (Expanded) - Slade
-454: (  1) - Slumber Party - Brigitte Calls Me Baby
-455: (  1) - Snap, Crackle & Bop - John Cooper Clarke
-456: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
-457: (  1) - Stay Another Day - Jorja Smith
-458: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
-459: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
-460: (  1) - Stumfilm - Bob Hund
-461: (  1) - Substance - Joy Division
-462: (  1) - Suspension - Blue Bendy
-463: (  1) - Suzi Quatro - Suzi Quatro
-464: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
-465: (  1) - Tapestry - Carole King
-466: (  1) - The Andy Williams Christmas Album - Andy Williams
-467: (  1) - The Best Of - Joy Division
-468: (  1) * The Collection - Altered Images
-469: (  1) - The Complete Pye Collection - Status Quo
-470: (  1) - The Hurting - Tears for Fears
-471: (  1) * The Man Who Sold The World - David Bowie
-472: (  1) - The Platinum Collection (2011 Remaster) - Queen
-473: (  1) - The Singles - Weekend
-474: (  1) - The Spangle Maker - Cocteau Twins
-475: (  1) - The Very Best Of Mud - Mud
-476: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
-477: (  1) - This Is The Moody Blues - The Moody Blues
-478: (  1) - Throwback Tunes: Classic Rock - Sweet
-479: (  1) - True (Special Edition) - Spandau Ballet
-480: (  1) - Understanding Music - Ac Acoustics
-481: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-482: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-483: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-484: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-485: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-486: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-487: (  1) - Weihnachten Workout - The Ronettes
-488: (  1) - You Got Here First - Emma Swift
+317: (  3) - Horses - Patti Smith
+318: (  3) - If I Don't Make It, I Love U - Still House Plants
+319: (  3) - Imperial Bedroom - Elvis Costello & the Attractions
+320: (  3) * Losing Sleep - Edwyn Collins
+321: (  3) - More - Pulp, Chilly Gonzales
+322: (  3) - Once I Was An Eagle - Laura Marling
+323: (  3) - Pelican West Plus - Haircut 100
+324: (  3) - Scott 4 - Scott Walker
+325: (  3) - The Basement Tapes - Bob Dylan and the Band
+326: (  3) - Treasure - Cocteau Twins
+327: (  3) - Upstairs at Erics - Yazoo
+328: (  3) - Young, Dumb & Wild - Andy Golledge
+329: (  2) - Aspirin Sun - Emma Tricca
+330: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+331: (  2) - Early - Scritti Politti
+332: (  2) - Empires And Dance - Simple Minds
+333: (  2) * Fate's Right Hand - Rodney Crowell
+334: (  2) - Ferment - Catherine Wheel
+335: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+336: (  2) - Golden Age - Heaven 17
+337: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+338: (  2) - High Bells Ring Thin - Martin Stephenson Featuring Cathal Coughlan
+339: (  2) - Knowledge - Edwyn Collins
+340: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
+341: (  2) - Music From Big Pink - The Band
+342: (  2) - No Happy Endings - Emma Swift
+343: (  2) * Rattlesnakes - Lloyd Cole and the Commotions
+344: (  2) - Romance - Fontaines D.c.
+345: (  2) * Songs Of Leonard Cohen - Leonard Cohen
+346: (  2) - Sweet Misdemeanour - Martin Stephenson
+347: (  2) - The Clearing - Wolf Alice
+348: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
+349: (  2) - To Our Children's Children's Children - The Moody Blues
+350: (  2) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+351: (  1) -  - Orange Juice
+352: (  1) - 0-100 - Bob Hund
+353: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+354: (  1) - A Secret History… The Best Of The Divine Comedy - The Divine Comedy
+355: (  1) - Acoustic - Simple Minds, Kt Tunstall
+356: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+357: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
+358: (  1) - Architecture & Morality - Orchestral Manoeuvres in the Dark
+359: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+360: (  1) * Beyond The Leap Beyond The Law - Martin Stephenson
+361: (  1) - Blue - Joni Mitchell
+362: (  1) - Brat - Charli Xcx
+363: (  1) - Brotherhood - New Order
+364: (  1) - Burnin' - The Wailers
+365: (  1) * By the Time You Hear This ...We'll Be Gone - The Redlands Palomino Company
+366: (  1) - Cahoots - The Band
+367: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
+368: (  1) - Caribou (Remastered 1995) - Elton John
+369: (  1) - Cat People - David Bowie
+370: (  1) - Christmas Jams - Michael Bublé
+371: (  1) - Closing Sound - Blue Bendy
+372: (  1) - Coming Home - Cara Dillon
+373: (  1) - Conditions - The Temper Trap
+374: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+375: (  1) - Dare! - The Human League
+376: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+377: (  1) - Dragnet - The Fall
+378: (  1) - Drums And Wires - Xtc
+379: (  1) - Electric Ladyland - Jimi Hendrix
+380: (  1) - Electrical Storm (Remastered 2024) - U2
+381: (  1) - Elton John - Elton John
+382: (  1) - Etc - Lloyd Cole
+383: (  1) - Ett Fall Och En LöSning - Bob Hund
+384: (  1) - Fade To Grey:  The Best Of Visage - Visage
+385: (  1) - Fairytale Of New York - The Pogues
+386: (  1) - Fragile (Deluxe Edition) - Yes
+387: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+388: (  1) - Get Carter (Original Motion Picture Soundtrack) - Roy Budd
+389: (  1) - Get It On: The Collection - T. Rex
+390: (  1) - Goodbye Yellow Brick Road - Elton John
+391: (  1) - Greatest Hits (Remastered) - Queen
+392: (  1) - Greatest Hits - The Cure
+393: (  1) * Heroes - David Bowie
+394: (  1) - High Bells Ring Thin - Martin Stephenson Featuring Virginia Astley
+395: (  1) - His Band And The Street Choir - Van Morrison
+396: (  1) - Holiday Pop - The Ronettes
+397: (  1) * I'm Not Following You - Edwyn Collins
+398: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Eddie Vedder & the Million Dollar Bashers
+399: (  1) - I'm Not There (Music From The Motion Picture - Original Soundtrack) - Sonic Youth
+400: (  1) - In Heaven Above (4- Neu Demo) - Orchestral Manoeuvres in the Dark
+401: (  1) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+402: (  1) - Kimono My House - Sparks
+403: (  1) - Loaded - The Velvet Underground
+404: (  1) - London Boy - David Bowie
+405: (  1) - Make Me Smile: The Best Of Steve Harley & Cockney Rebel - Steve Harley & Cockney Rebel, Steve Harley
+406: (  1) - Merry Christmas - Mariah Carey
+407: (  1) - Mud Slide Slim And The Blue Horizon - James Taylor
+408: (  1) - Never Enough - Turnstile
+409: (  1) - New Clear Days - The Vapors
+410: (  1) - New Wave Hits Of The 80S - ABC
+411: (  1) - New Wave Hits Of The 80S - Billy Idol
+412: (  1) - New Wave Hits Of The 80S - Culture Club
+413: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+414: (  1) - New Wave Hits Of The 80S - Joe Jackson
+415: (  1) - New Wave Hits Of The 80S - Level 42
+416: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+417: (  1) - New Wave Hits Of The 80S - R.E.M.
+418: (  1) - New Wave Hits Of The 80S - Simple Minds
+419: (  1) - New Wave Hits Of The 80S - Soft Cell
+420: (  1) - New Wave Hits Of The 80S - The Buggles
+421: (  1) - New Wave Hits Of The 80S - The Go-go's
+422: (  1) - New Wave Hits Of The 80S - The Human League
+423: (  1) - New Wave Hits Of The 80S - The Motels
+424: (  1) - New Wave Hits Of The 80S - The Police
+425: (  1) - New Wave Hits Of The 80S - Trio
+426: (  1) - New Wave Hits Of The 80S - UB40
+427: (  1) - New Wave Hits Of The 80S - Wang Chung
+428: (  1) - New Wave Hits Of The 80S - When in Rome
+429: (  1) - New York Dolls - New York Dolls
+430: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+431: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
+432: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
+433: (  1) - Northern Lights – Southern Cross - The Band
+434: (  1) - Nothing And Forever - Emma Swift
+435: (  1) * Ocean Rain - Echo & the Bunnymen
+436: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+437: (  1) - Pearl - Janis Joplin
+438: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+439: (  1) - Rio (Collector's Edition) - Duran Duran
+440: (  1) - Road Trip Sing-Along Songs - Blondie
+441: (  1) - Runt - Todd Rundgren
+442: (  1) - Scared To Get Happy - Blue Orchids
+443: (  1) - Scared To Get Happy - Everything But the Girl
+444: (  1) - Scared To Get Happy - Girls At Our Best!
+445: (  1) - Scared To Get Happy - Hurrah!
+446: (  1) - Scared To Get Happy - Jane
+447: (  1) - Scared To Get Happy - Marine Girls
+448: (  1) - Scared To Get Happy - The Monochrome Set
+449: (  1) - Scared To Get Happy - The Nightingales
+450: (  1) - Scared To Get Happy - Tv21
+451: (  1) - Scared To Get Happy - Weekend
+452: (  1) - Silence - Vild I Skogen - Bob Hund
+453: (  1) - Sky's The Limit - The Temptations
+454: (  1) - Sladest (Expanded) - Slade
+455: (  1) - Slumber Party - Brigitte Calls Me Baby
+456: (  1) - Snap, Crackle & Bop - John Cooper Clarke
+457: (  1) - Solo: Songs And Collaborations 1982-2015 - The Style Council
+458: (  1) - Stay Another Day - Jorja Smith
+459: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+460: (  1) - Stop Making Sense (Deluxe Edition) [Live] - Tom Tom Club
+461: (  1) - Stumfilm - Bob Hund
+462: (  1) - Substance - Joy Division
+463: (  1) - Suspension - Blue Bendy
+464: (  1) - Suzi Quatro - Suzi Quatro
+465: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
+466: (  1) - Tapestry - Carole King
+467: (  1) - The Andy Williams Christmas Album - Andy Williams
+468: (  1) - The Best Of - Joy Division
+469: (  1) * The Collection - Altered Images
+470: (  1) - The Complete Pye Collection - Status Quo
+471: (  1) - The Hurting - Tears for Fears
+472: (  1) * The Man Who Sold The World - David Bowie
+473: (  1) - The Platinum Collection (2011 Remaster) - Queen
+474: (  1) - The Singles - Weekend
+475: (  1) - The Spangle Maker - Cocteau Twins
+476: (  1) - The Very Best Of Mud - Mud
+477: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
+478: (  1) - This Is The Moody Blues - The Moody Blues
+479: (  1) - Throwback Tunes: Classic Rock - Sweet
+480: (  1) - True (Special Edition) - Spandau Ballet
+481: (  1) - Understanding Music - Ac Acoustics
+482: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+483: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+484: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+485: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+486: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+487: (  1) - War Baby - Hope & Glory - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+488: (  1) - Weihnachten Workout - The Ronettes
+489: (  1) - You Got Here First - Emma Swift
