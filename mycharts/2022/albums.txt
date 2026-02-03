@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3438           160           229          1676
+    3438           160           228          1676
   1: (176) - Mascara Streakz - Altered Images
   2: ( 90) - Daddy's Home - St. Vincent
   3: ( 82) - Strange Mercy - St. Vincent
@@ -51,11 +51,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  48: ( 24) * Scott 2 - Scott Walker
  49: ( 23) * Black Eyed Man - Cowboy Junkies
  50: ( 23) * Boat To Bolivia - Martin Stephenson and the Daintees
- 51: ( 23) - Forgiven, Not Forgotten - The Corrs
- 52: ( 23) * Lay It Down - Cowboy Junkies
- 53: ( 23) - Marry Me - St. Vincent
- 54: ( 23) - New Gold Dream - Simple Minds
- 55: ( 22) - Clara Libre - Altered Images
+ 51: ( 23) - Clara Libre - Altered Images
+ 52: ( 23) - Forgiven, Not Forgotten - The Corrs
+ 53: ( 23) * Lay It Down - Cowboy Junkies
+ 54: ( 23) - Marry Me - St. Vincent
+ 55: ( 23) - New Gold Dream - Simple Minds
  56: ( 22) * Electric Warrior - T. Rex
  57: ( 21) - Rough And Rowdy Ways - Bob Dylan
  58: ( 21) - The Corrs Unplugged - The Corrs
@@ -207,28 +207,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 204: (  1) - Futuristic Dragon (Deluxe Edition) - T. Rex
 205: (  1) - Get It On: The Collection - T. Rex
 206: (  1) - Give Me The Future - Bastille
-207: (  1) - Happy Birthday (Cuban Version) - Altered Images
-208: (  1) * High Land, Hard Rain - Aztec Camera
-209: (  1) - I Don’T Live Here Anymore - The War on Drugs
-210: (  1) - Land Of Milk And Honey - Eliza Gilkyson
-211: (  1) - Mange Tout (Extended Version) - Blancmange
-212: (  1) - Metals - Feist
-213: (  1) - Mistaken Identity - Kim Carnes
-214: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
-215: (  1) - Revelators - Revelators Sound System
-216: (  1) - Revolver (Remastered) - The Beatles
-217: (  1) - Saint Cloud - Waxahatchee
-218: (  1) - Second Helpings - Blancmange
-219: (  1) - Shout - Placebo
-220: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
-221: (  1) - The Beatles (Remastered) - The Beatles
-222: (  1) - The Doors - The Doors
-223: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
-224: (  1) - The Spur - Joan Shelley
-225: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
-226: (  1) - The Wrong People - Furniture
-227: (  1) - Tin Drum - Japan
-228: (  1) - Travelogue - Human League
-229: (  1) - Waiting - Fun Boy Three
-230: (  1) - Your Town Tonight - Eliza Gilkyson
-231: (  1) - Youtube - Prefab Sprout
+207: (  1) * High Land, Hard Rain - Aztec Camera
+208: (  1) - I Don’T Live Here Anymore - The War on Drugs
+209: (  1) - Land Of Milk And Honey - Eliza Gilkyson
+210: (  1) - Mange Tout (Extended Version) - Blancmange
+211: (  1) - Metals - Feist
+212: (  1) - Mistaken Identity - Kim Carnes
+213: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
+214: (  1) - Revelators - Revelators Sound System
+215: (  1) - Revolver (Remastered) - The Beatles
+216: (  1) - Saint Cloud - Waxahatchee
+217: (  1) - Second Helpings - Blancmange
+218: (  1) - Shout - Placebo
+219: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
+220: (  1) - The Beatles (Remastered) - The Beatles
+221: (  1) - The Doors - The Doors
+222: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
+223: (  1) - The Spur - Joan Shelley
+224: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
+225: (  1) - The Wrong People - Furniture
+226: (  1) - Tin Drum - Japan
+227: (  1) - Travelogue - Human League
+228: (  1) - Waiting - Fun Boy Three
+229: (  1) - Your Town Tonight - Eliza Gilkyson
+230: (  1) - Youtube - Prefab Sprout

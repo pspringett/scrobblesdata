@@ -238,15 +238,14 @@
         "Road Trip Sing": -1
     },
     "Altered Images": {
-        "Altered Images 12 Inch Mix": -1,
-        "Bite": -1,
+        "Altered Images 12 Inch Mix": 1982,
+        "Bite": 1983,
         "Clara Libre": 2022,
-        "Happy Birthday": -1,
-        "Happy Birthday (Cuban Version)": -1,
+        "Happy Birthday": 1981,
         "I Could Be Happy: The Best Of Altered Images": 1997,
         "Mascara Streakz": 2022,
-        "Pinky Blue": -1,
-        "The Collection": -1
+        "Pinky Blue": 1982,
+        "The Collection": 2010
     },
     "Alton Ellis": {
         "The Trojan: Rocksteady Collection": -1
@@ -2749,12 +2748,23 @@
         "Mccartney II (Special Edition)": -1
     },
     "Paul Weller": {
-        "66": -1,
-        "A Kind Revolution (Deluxe)": -1,
-        "Fat Pop": -1,
-        "On Sunset (Deluxe)": -1,
-        "Saturns Pattern": -1,
-        "True Meanings": -1
+        "22 Dreams": 2010,
+        "66": 2024,
+        "A Kind Revolution (Deluxe)": 2017,
+        "As Is now": 2005,
+        "Fat Pop": 2021,
+        "Heavy Soul": 1997,
+        "Heliocentric": 2000,
+        "Illumnication": 2002,
+        "On Sunset (Deluxe)": 2020,
+        "Paul Weller": 1992,
+        "Saturns Pattern": 2015,
+        "Sonic Kicks": 2012,
+        "Stanley Road": 1995,
+        "Studio 150": 2004,
+        "True Meanings": 2018,
+        "Wake Up The Nation": 2012,
+        "Wild Wood": 1993
     },
     "Peel.Rocks Magazine": {
         "": -1
