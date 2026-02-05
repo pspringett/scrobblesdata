@@ -1634,11 +1634,11 @@
         "Whatever It Is": -1
     },
     "Hem": {
-        "Departure And Farewell": -1,
-        "Eveningland": -1,
-        "Funnel Cloud (Bonus Track Version)": -1,
-        "No Word From Tom": -1,
-        "Rabbit Songs": -1
+        "Departure And Farewell": 2013,
+        "Eveningland": 2004,
+        "Funnel Cloud (Bonus Track Version)": 2006,
+        "No Word From Tom": 2006,
+        "Rabbit Songs": 2002
     },
     "Hen Ogledd": {
         "Free Humans": -1
