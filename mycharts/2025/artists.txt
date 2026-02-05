@@ -1,6 +1,6 @@
 Specified year (2025)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3690           146           205          1534
+    3690           144           205          1534
   1: (323) - Edwyn Collins
 
 
@@ -287,13 +287,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 27: ( 39) - Tallies
- 28: ( 39) - The Style Council
- 29: ( 38) - Everything But the Girl
- 30: ( 38) - Paul Weller
+ 27: ( 39) - Martin Stephenson
+ 28: ( 39) - Tallies
+ 29: ( 39) - The Style Council
+ 30: ( 38) - Everything But the Girl
+ 31: ( 38) - Paul Weller
 
- 31: ( 36) - Bryan Ferry, Amelia Barratt
- 32: ( 36) - Martin Stephenson
+ 32: ( 36) - Bryan Ferry, Amelia Barratt
 
  33: ( 34) - Lloyd Cole
  34: ( 34) - Waxahatchee
@@ -371,50 +371,48 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  97: (  3) - Pulp, Chilly Gonzales
  98: (  3) - The Moody Blues
  99: (  2) - Lloyd Cole and the Commotions
-100: (  2) - Martin Stephenson Featuring Cathal Coughlan
-101: (  2) - Ricky Nelson, the Stone Canyon Band
-102: (  2) - Rodney Crowell
-103: (  2) - The Linda Lindas
-104: (  2) - The Rolling Stones
-105: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
-106: (  2) - Waxahatchee, Mj Lenderman
-107: (  1) - Ac Acoustics
-108: (  1) - Billy Idol
-109: (  1) - Blue Orchids
-110: (  1) - Brian Eno & David Byrne
-111: (  1) - Bryan Ferry
-112: (  1) - Culture Club
-113: (  1) - Dexys Midnight Runners
-114: (  1) - Eddie Vedder & the Million Dollar Bashers
-115: (  1) - Girls At Our Best!
-116: (  1) - Hurrah!
-117: (  1) - Jane
-118: (  1) - Joe Jackson
-119: (  1) - Level 42
-120: (  1) - Marine Girls
-121: (  1) - Martin Stephenson Featuring Virginia Astley
-122: (  1) - Nouvelle Vague, Marina Céleste
-123: (  1) - Simple Minds, Kt Tunstall
-124: (  1) - Soft Cell
-125: (  1) - Sonic Youth
-126: (  1) - Sylvan Esso, Collections of Colonies of Bees
-127: (  1) - The Buggles
-128: (  1) - The Divine Comedy
-129: (  1) - The Go-go's
-130: (  1) - The Monochrome Set
-131: (  1) - The Motels
-132: (  1) - The Nightingales
-133: (  1) - The Police
-134: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-135: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-136: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-137: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-138: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-139: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-140: (  1) - Trio
-141: (  1) - Turnstile
-142: (  1) - Tv21
-143: (  1) - Visage
-144: (  1) - Wang Chung
-145: (  1) - When in Rome
-146: (  1) - Xtc
+100: (  2) - Ricky Nelson, the Stone Canyon Band
+101: (  2) - Rodney Crowell
+102: (  2) - The Linda Lindas
+103: (  2) - The Rolling Stones
+104: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+105: (  2) - Waxahatchee, Mj Lenderman
+106: (  1) - Ac Acoustics
+107: (  1) - Billy Idol
+108: (  1) - Blue Orchids
+109: (  1) - Brian Eno & David Byrne
+110: (  1) - Bryan Ferry
+111: (  1) - Culture Club
+112: (  1) - Dexys Midnight Runners
+113: (  1) - Eddie Vedder & the Million Dollar Bashers
+114: (  1) - Girls At Our Best!
+115: (  1) - Hurrah!
+116: (  1) - Jane
+117: (  1) - Joe Jackson
+118: (  1) - Level 42
+119: (  1) - Marine Girls
+120: (  1) - Nouvelle Vague, Marina Céleste
+121: (  1) - Simple Minds, Kt Tunstall
+122: (  1) - Soft Cell
+123: (  1) - Sonic Youth
+124: (  1) - Sylvan Esso, Collections of Colonies of Bees
+125: (  1) - The Buggles
+126: (  1) - The Divine Comedy
+127: (  1) - The Go-go's
+128: (  1) - The Monochrome Set
+129: (  1) - The Motels
+130: (  1) - The Nightingales
+131: (  1) - The Police
+132: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+133: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+134: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+135: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+136: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+137: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+138: (  1) - Trio
+139: (  1) - Turnstile
+140: (  1) - Tv21
+141: (  1) - Visage
+142: (  1) - Wang Chung
+143: (  1) - When in Rome
+144: (  1) - Xtc

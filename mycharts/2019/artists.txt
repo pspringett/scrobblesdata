@@ -1,22 +1,22 @@
 Specified year (2019)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    5978           279           411          2970
+    5978           279           409          2970
   1: (281) - David Bowie
   2: (222) - Lloyd Cole
   3: (163) - Martin Stephenson and the Daintees
   4: (161) - Josh Ritter
   5: (161) - Roxy Music
-  6: (147) - The Cure
-  7: (133) - Bob Dylan
-  8: (115) - New Order
-  9: (112) - Leonard Cohen
- 10: (112) - Talking Heads
- 11: (109) - The Beatles
- 12: (103) - The Style Council
- 13: (101) - U2
- 14: ( 96) - Scott Walker
- 15: ( 94) - Rod Stewart
- 16: ( 89) - Elvis Costello & the Attractions
+  6: (152) - Elvis Costello & the Attractions
+  7: (147) - The Cure
+  8: (133) - Bob Dylan
+  9: (115) - New Order
+ 10: (112) - Leonard Cohen
+ 11: (112) - Talking Heads
+ 12: (109) - The Beatles
+ 13: (103) - The Style Council
+ 14: (101) - U2
+ 15: ( 96) - Scott Walker
+ 16: ( 94) - Rod Stewart
  17: ( 89) - Orchestral Manoeuvres in the Dark
  18: ( 89) - Rosanne Cash
  19: ( 87) - The Velvet Underground
@@ -27,117 +27,117 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  24: ( 75) - Van Morrison
  25: ( 74) - Echo & the Bunnymen
  26: ( 71) - Eyeless in Gaza
- 27: ( 69) - Elvis Costello
- 28: ( 63) - Kate Bush
- 29: ( 63) - Orange Juice
- 30: ( 61) - Father John Misty
- 31: ( 61) - Jim Lauderdale
- 32: ( 60) - Hayes Carll
- 33: ( 59) - Cocteau Twins
- 34: ( 58) - The Waterboys
- 35: ( 57) - Eilen Jewell
- 36: ( 55) - Mark Knopfler
- 37: ( 50) - Prefab Sprout
- 38: ( 46) - Lera Lynn
- 39: ( 46) - The Fall
- 40: ( 45) - Cowboy Junkies
- 41: ( 44) - It'S Immaterial
- 42: ( 43) - Alison Moyet
- 43: ( 43) - The Comsat Angels
- 44: ( 42) - Shelby Lynne
- 45: ( 42) - The Doors
- 46: ( 40) - Kacey Musgraves
- 47: ( 37) - Aztec Camera
- 48: ( 37) - Tom Tom Club
- 49: ( 36) - Martin Stephenson
- 50: ( 36) - Stevie Parker
- 51: ( 34) - Elton John
- 52: ( 33) - Cara Dillon
- 53: ( 33) - Sarah MacDougall
- 54: ( 32) - Anne Mccue
- 55: ( 31) - Marine Girls
- 56: ( 30) - Kacy & Clayton
- 57: ( 30) - Lloyd Cole and the Commotions
- 58: ( 28) - Amanda Shires
- 59: ( 28) - Emmylou Harris
- 60: ( 28) - T. Rex
- 61: ( 28) - The Clash
- 62: ( 27) - Blondie
- 63: ( 27) - Rodney Crowell
- 64: ( 26) - The Corrs
- 65: ( 25) - St. Vincent
- 66: ( 24) - Fleetwood Mac
- 67: ( 24) - Josef K
- 68: ( 23) - Edwyn Collins
- 69: ( 23) - Nick Cave & the Bad Seeds
- 70: ( 23) - Tift Merritt
- 71: ( 23) - Various
- 72: ( 23) - Yazoo
- 73: ( 22) - Rod Picott
- 74: ( 22) - The Decemberists
- 75: ( 21) - Ian McCulloch
- 76: ( 21) - Joy Division
- 77: ( 21) - Kraftwerk
- 78: ( 20) - Bauhaus
- 79: ( 20) - Birds of Chicago
- 80: ( 20) - Joni Mitchell
- 81: ( 20) - The Undertones
- 82: ( 19) - Julia Holter
- 83: ( 19) - The Redlands Palomino Company
- 84: ( 19) - Wah!
- 85: ( 18) - Andrew Combs
- 86: ( 18) - Hem
- 87: ( 17) - Felt
- 88: ( 17) - The French Impressionists
- 89: ( 16) - Hawkwind
- 90: ( 15) - B.E.F.
- 91: ( 15) - Billy Bragg
- 92: ( 15) - Corb Lund
- 93: ( 15) - Roddy Frame
- 94: ( 14) - ABC
- 95: ( 13) - Allison Moorer
- 96: ( 13) - Bryan Ferry
- 97: ( 13) - Japan
- 98: ( 13) - Mike Oldfield
- 99: ( 13) - The Smiths
-100: ( 13) - The Wailers
-101: ( 12) - Count Basie
-102: ( 12) - The Proclaimers
-103: ( 12) - UB40
-104: ( 11) - Grace Petrie
-105: ( 11) - Jack Harris
-106: ( 11) - Laura Marling
-107: ( 11) - Nick Heyward
-108: ( 11) - Peel.Rocks Magazine
-109: ( 11) - She Drew the Gun
-110: ( 11) - Stevie Wonder
-111: ( 11) - The Weather Station
-112: ( 10) - Altered Images
-113: ( 10) - Bob Marley & the Wailers
-114: ( 10) - Easy Star All-stars
-115: ( 10) - Gillian Welch
-116: ( 10) - John Foxx
-117: ( 10) - Rod Picott and Amanda Shires
-118: ( 10) - Weekend
-119: (  9) - A Certain Ratio
-120: (  9) - Amy LaVere
-121: (  9) - Daniel Bachman
-122: (  9) - Eberard Weber
-123: (  9) - JT and the Clouds
-124: (  9) - Jimi Hendrix
-125: (  9) - Led Zeppelin
-126: (  9) - Low
-127: (  9) - Modern English
-128: (  8) - Forma
-129: (  8) - Patty Griffin
-130: (  8) - The Jimi Hendrix Experience
-131: (  7) - Bruce Springsteen
-132: (  7) - Chris Eckman
-133: (  7) - Duke Garwood
-134: (  7) - Elephant Micah
-135: (  7) - JT Nero
-136: (  7) - Odetta Hartman
-137: (  7) - White Denim
+ 27: ( 63) - Kate Bush
+ 28: ( 63) - Orange Juice
+ 29: ( 61) - Father John Misty
+ 30: ( 61) - Jim Lauderdale
+ 31: ( 60) - Hayes Carll
+ 32: ( 59) - Cocteau Twins
+ 33: ( 58) - The Waterboys
+ 34: ( 57) - Eilen Jewell
+ 35: ( 55) - Mark Knopfler
+ 36: ( 50) - Prefab Sprout
+ 37: ( 46) - Lera Lynn
+ 38: ( 46) - The Fall
+ 39: ( 45) - Cowboy Junkies
+ 40: ( 44) - It'S Immaterial
+ 41: ( 43) - Alison Moyet
+ 42: ( 43) - The Comsat Angels
+ 43: ( 42) - Shelby Lynne
+ 44: ( 42) - The Doors
+ 45: ( 40) - Kacey Musgraves
+ 46: ( 37) - Aztec Camera
+ 47: ( 37) - Tom Tom Club
+ 48: ( 36) - Martin Stephenson
+ 49: ( 36) - Stevie Parker
+ 50: ( 34) - Elton John
+ 51: ( 33) - Cara Dillon
+ 52: ( 33) - Sarah MacDougall
+ 53: ( 32) - Anne Mccue
+ 54: ( 31) - Marine Girls
+ 55: ( 30) - Kacy & Clayton
+ 56: ( 30) - Lloyd Cole and the Commotions
+ 57: ( 28) - Amanda Shires
+ 58: ( 28) - Emmylou Harris
+ 59: ( 28) - T. Rex
+ 60: ( 28) - The Clash
+ 61: ( 27) - Blondie
+ 62: ( 27) - Rodney Crowell
+ 63: ( 26) - The Corrs
+ 64: ( 25) - St. Vincent
+ 65: ( 24) - Fleetwood Mac
+ 66: ( 24) - Josef K
+ 67: ( 23) - Edwyn Collins
+ 68: ( 23) - Nick Cave & the Bad Seeds
+ 69: ( 23) - Tift Merritt
+ 70: ( 23) - Various
+ 71: ( 23) - Yazoo
+ 72: ( 22) - Rod Picott
+ 73: ( 22) - The Decemberists
+ 74: ( 21) - Ian McCulloch
+ 75: ( 21) - Joy Division
+ 76: ( 21) - Kraftwerk
+ 77: ( 20) - Bauhaus
+ 78: ( 20) - Birds of Chicago
+ 79: ( 20) - Joni Mitchell
+ 80: ( 20) - The Undertones
+ 81: ( 19) - Julia Holter
+ 82: ( 19) - The Redlands Palomino Company
+ 83: ( 19) - Wah!
+ 84: ( 18) - Andrew Combs
+ 85: ( 18) - Hem
+ 86: ( 17) - Felt
+ 87: ( 17) - The French Impressionists
+ 88: ( 16) - Hawkwind
+ 89: ( 15) - B.E.F.
+ 90: ( 15) - Billy Bragg
+ 91: ( 15) - Corb Lund
+ 92: ( 15) - Roddy Frame
+ 93: ( 14) - ABC
+ 94: ( 13) - Allison Moorer
+ 95: ( 13) - Bryan Ferry
+ 96: ( 13) - Japan
+ 97: ( 13) - Mike Oldfield
+ 98: ( 13) - The Smiths
+ 99: ( 13) - The Wailers
+100: ( 12) - Count Basie
+101: ( 12) - The Proclaimers
+102: ( 12) - UB40
+103: ( 11) - Grace Petrie
+104: ( 11) - Jack Harris
+105: ( 11) - Laura Marling
+106: ( 11) - Nick Heyward
+107: ( 11) - Peel.Rocks Magazine
+108: ( 11) - She Drew the Gun
+109: ( 11) - Stevie Wonder
+110: ( 11) - The Weather Station
+111: ( 10) - Altered Images
+112: ( 10) - Bob Marley & the Wailers
+113: ( 10) - Easy Star All-stars
+114: ( 10) - Gillian Welch
+115: ( 10) - John Foxx
+116: ( 10) - Rod Picott and Amanda Shires
+117: ( 10) - Weekend
+118: (  9) - A Certain Ratio
+119: (  9) - Amy LaVere
+120: (  9) - Daniel Bachman
+121: (  9) - Eberard Weber
+122: (  9) - JT and the Clouds
+123: (  9) - Jimi Hendrix
+124: (  9) - Led Zeppelin
+125: (  9) - Low
+126: (  9) - Modern English
+127: (  8) - Forma
+128: (  8) - Patty Griffin
+129: (  8) - The Jimi Hendrix Experience
+130: (  7) - Bruce Springsteen
+131: (  7) - Chris Eckman
+132: (  7) - Duke Garwood
+133: (  7) - Elephant Micah
+134: (  7) - JT Nero
+135: (  7) - Odetta Hartman
+136: (  7) - White Denim
+137: (  6) - Elvis Costello
 138: (  6) - Juliana Hatfield
 139: (  6) - Kaia Kater
 140: (  6) - Kathryn Joseph
