@@ -1268,23 +1268,22 @@
         "Too Low For Zero": -1
     },
     "Elvis Costello": {
-        "Armed Forces (Super Deluxe Edition)": -1,
+        "Armed Forces": -1,
         "Hey Clockface": -1,
         "King Of America": -1,
         "Mighty Like A Rose": -1,
-        "My Aim Is True": -1,
+        "My Aim Is True": 1977,
         "National Ransom": -1,
         "Out Of Our Idiot": -1,
         "Spike": -1,
-        "This Year's Model (2021 Remaster)": -1,
-        "This Year's Model (Deluxe Edition)": -1,
+        "This Year's Model": -1,
         "Trust": -1,
         "We Are All Cowards Now": -1
     },
     "Elvis Costello & the Attractions": {
         "All This Useless Beauty": -1,
         "Armed Forces": -1,
-        "Armed Forces (Super Deluxe Edition)": -1,
+        "Armed Forces": -1,
         "Blood And Chocolate": -1,
         "Bonus": -1,
         "Get Happy!!": -1,
@@ -1292,9 +1291,7 @@
         "Imperial Bedroom": -1,
         "Live 1978": -1,
         "Punch The Clock": -1,
-        "This Year's Model": -1,
-        "This Year's Model (Bonus Disc)": -1,
-        "This Year's Model (Deluxe Edition)": -1
+        "This Year's Model": -1
     },
     "Elvis Costello & the Imposters": {
         "Look Now (Deluxe Edition)": -1
