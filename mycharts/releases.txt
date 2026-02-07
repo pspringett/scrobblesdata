@@ -2860,13 +2860,17 @@
         "Every Bad (Expanded Edition)": -1
     },
     "Prefab Sprout": {
-        "Andromeda Heights": -1,
-        "From Langley Park To Memphis": -1,
-        "Jordan: The Comeback": -1,
-        "Protest Songs": -1,
-        "Steve McQueen": -1,
-        "Swoon": -1,
-        "The Collection": -1,
+        "Andromeda Heights": 1997,
+        "crimson red": 2013,
+        "From Langley Park To Memphis": 1988,
+        "I Trawl The Megahertz": 2003,
+        "Jordan: The Comeback": 1990,
+        "Let's Change The World With Msuic": 2009,
+        "Protest Songs": 1989,
+        "Steve McQueen": 1985,
+        "Swoon": 1984,
+        "The Collection": 2001,
+        "The Gunman And Other Stories": 2001,
         "Youtube": -1
     },
     "Pretenders": {
