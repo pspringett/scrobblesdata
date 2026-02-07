@@ -3519,17 +3519,19 @@
         "Smiley Smile": -1
     },
     "The Beatles": {
-        "A Hard Day's Night (Remastered)": -1,
-        "Beatles For Sale (Remastered)": -1,
-        "Help! (Remastered)": -1,
-        "Magical Mystery Tour (Remastered)": -1,
-        "Please Please Me (Remastered)": -1,
-        "Revolver": -1,
-        "Revolver (Remastered)": -1,
-        "Rubber Soul": -1,
-        "Sgt. Pepper's Lonely Hearts Club Band": -1,
-        "The Beatles (Remastered)": -1,
-        "With The Beatles (Remastered)": -1
+        "A Hard Day's Night": 1964,
+        "Abbey Road": 1969,
+        "Beatles For Sale": 1964,
+        "Help!": 1965,
+        "Let It Be": 1970,
+        "Magical Mystery Tour": 1967,
+        "Please Please Me": 1963,
+        "Revolver": 1966,
+        "Rubber Soul": 1965,
+        "Sgt. Pepper's Lonely Hearts Club Band": 1967,
+        "The Beatles": 1968,
+        "With The Beatles": 1963,
+        "Yellow Submarine": 1969
     },
     "The Belair Lip Bombs": {
         "Again": -1
