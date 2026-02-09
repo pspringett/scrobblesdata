@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      79             6             6            38
+      85             8             7            44
 1: (33) - Glyders
 
 
@@ -29,8 +29,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 4: ( 8) - Creedence Clearwater Revival
 
 
+5: ( 5) - Heavenly
+6: ( 4) - Emma Swift
 
-5: ( 4) - Emma Swift
 
-
-6: ( 1) - Bruce Springsteen
+7: ( 1) - Bruce Springsteen
+8: ( 1) - Heavenly, Calvin Johnson
