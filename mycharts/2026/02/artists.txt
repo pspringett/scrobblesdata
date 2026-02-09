@@ -1,7 +1,7 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     117             9             8            68
-1: (35) - Glyders
+     129            10             9            76
+ 1: (39) - Glyders
 
 
 
@@ -13,26 +13,31 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-2: (23) - Lucinda Williamns
 
 
 
 
-3: (18) - Prefab Sprout
-
-4: (16) - Heavenly
+ 2: (23) - Lucinda Williamns
 
 
 
 
+ 3: (18) - Prefab Sprout
 
-5: (10) - Newdad
-
-6: ( 8) - Creedence Clearwater Revival
-
+ 4: (16) - Heavenly
 
 
-7: ( 4) - Emma Swift
 
-8: ( 2) - Heavenly, Calvin Johnson
-9: ( 1) - Bruce Springsteen
+
+
+ 5: (10) - Newdad
+
+ 6: ( 8) - Creedence Clearwater Revival
+ 7: ( 8) - Lloyd Cole
+
+
+
+ 8: ( 4) - Emma Swift
+
+ 9: ( 2) - Heavenly, Calvin Johnson
+10: ( 1) - Bruce Springsteen
