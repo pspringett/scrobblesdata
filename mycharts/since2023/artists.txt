@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   10834           279           448          3300
+   10845           279           448          3306
   1: (353) - Edwyn Collins
   2: (352) - Slowdive
 
@@ -148,10 +148,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   9: (207) - The Burning Hell
+ 10: (207) - The Cure
 
- 10: (205) - Simple Minds
+ 11: (205) - Simple Minds
 
- 11: (203) - The Cure
+
 
 
 
@@ -385,42 +386,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 127: ( 16) - Chip Taylor & Carrie Rodriguez
 128: ( 16) - Haircut 100
 129: ( 16) - The Specials
-
-130: ( 14) - Joy Division
-131: ( 14) - Katherine Priddy
-132: ( 13) - Blondie
-133: ( 13) - Bob Marley & the Wailers
-134: ( 13) - Jimi Hendrix
-135: ( 13) - The Bathers
-136: ( 13) - case/lang/veirs
-137: ( 12) - B.E.F.
-138: ( 12) - Clinic Stars
-139: ( 12) - Nick Heyward
-140: ( 12) - Paul Haig
-141: ( 11) - Bob Hund
-142: ( 11) - Fleetwood Mac
-143: ( 11) - Guillemots
-144: ( 11) - Hayes Carll
-145: ( 11) - It'S Immaterial
-146: ( 11) - Laura Cantrell
-147: ( 11) - Laurel Canyon
-148: ( 11) - Sly & the Family Stone
-149: ( 11) - Television
-150: ( 11) - The Rolling Stones
-151: ( 11) - Tift Merritt
-152: ( 10) - Brian Eno & David Byrne
-153: ( 10) - Heaven 17
-154: ( 10) - John Cooper Clarke
-155: ( 10) - K.D. Lang
-156: ( 10) - Kate Bush
-157: ( 10) - Mercy Girl
-158: ( 10) - The Jam
-159: ( 10) - Tom Tom Club
-160: ( 10) - Wednesday
-161: ( 10) - Yonder Mountain String Band
-162: (  9) - Eliza Gilkyson
-163: (  8) - Aurora
-164: (  8) - Lloyd Cole and the Commotions
+130: ( 15) - Lloyd Cole and the Commotions
+131: ( 14) - Joy Division
+132: ( 14) - Katherine Priddy
+133: ( 13) - Blondie
+134: ( 13) - Bob Marley & the Wailers
+135: ( 13) - Jimi Hendrix
+136: ( 13) - The Bathers
+137: ( 13) - case/lang/veirs
+138: ( 12) - B.E.F.
+139: ( 12) - Clinic Stars
+140: ( 12) - Nick Heyward
+141: ( 12) - Paul Haig
+142: ( 11) - Bob Hund
+143: ( 11) - Fleetwood Mac
+144: ( 11) - Guillemots
+145: ( 11) - Hayes Carll
+146: ( 11) - It'S Immaterial
+147: ( 11) - Laura Cantrell
+148: ( 11) - Laurel Canyon
+149: ( 11) - Sly & the Family Stone
+150: ( 11) - Television
+151: ( 11) - The Rolling Stones
+152: ( 11) - Tift Merritt
+153: ( 10) - Brian Eno & David Byrne
+154: ( 10) - Heaven 17
+155: ( 10) - John Cooper Clarke
+156: ( 10) - K.D. Lang
+157: ( 10) - Kate Bush
+158: ( 10) - Mercy Girl
+159: ( 10) - The Jam
+160: ( 10) - Tom Tom Club
+161: ( 10) - Wednesday
+162: ( 10) - Yonder Mountain String Band
+163: (  9) - Eliza Gilkyson
+164: (  8) - Aurora
 165: (  8) - The Band
 166: (  8) - The Feelies
 167: (  7) - JT Nero

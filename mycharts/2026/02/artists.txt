@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     138            11            10            85
+     149            12            11            96
  1: (39) - Glyders
 
 
@@ -27,16 +27,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  4: (16) - Heavenly
 
 
+ 5: (13) - Lloyd Cole and the Commotions
+
+ 6: (11) - Lloyd Cole
+ 7: (10) - Newdad
+
+ 8: ( 8) - Creedence Clearwater Revival
 
 
- 5: (11) - Lloyd Cole
- 6: (10) - Newdad
-
- 7: ( 8) - Creedence Clearwater Revival
-
- 8: ( 6) - Lloyd Cole and the Commotions
 
  9: ( 4) - Emma Swift
+10: ( 4) - The Cure
 
-10: ( 2) - Heavenly, Calvin Johnson
-11: ( 1) - Bruce Springsteen
+11: ( 2) - Heavenly, Calvin Johnson
+12: ( 1) - Bruce Springsteen
