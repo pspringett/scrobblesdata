@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     154            14            13           101
+     169            14            13           116
  1: (39) - Glyders
 
 
@@ -31,14 +31,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: (11) - Lloyd Cole
  7: (10) - Newdad
+ 8: (10) - Suzanne Vega
+ 9: (10) - The Burning Hell
 
- 8: ( 8) - Creedence Clearwater Revival
+10: ( 8) - Creedence Clearwater Revival
 
 
 
- 9: ( 4) - Emma Swift
-10: ( 4) - The Cure
-11: ( 3) - The Burning Hell
-12: ( 2) - Heavenly, Calvin Johnson
-13: ( 2) - Suzanne Vega
+11: ( 4) - Emma Swift
+12: ( 4) - The Cure
+
+13: ( 2) - Heavenly, Calvin Johnson
 14: ( 1) - Bruce Springsteen
