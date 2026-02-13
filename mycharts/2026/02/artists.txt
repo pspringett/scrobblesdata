@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     199            17            16           136
+     199            16            16           136
  1: (39) - Glyders
 
 
@@ -22,9 +22,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: (18) - Prefab Sprout
+ 3: (18) - Heavenly
+ 4: (18) - Prefab Sprout
 
- 4: (16) - Heavenly
+
 
 
  5: (13) - Lloyd Cole and the Commotions
@@ -42,5 +43,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: ( 4) - Simple Minds
 14: ( 4) - The Cure
 15: ( 3) - Roxy Music
-16: ( 2) - Heavenly, Calvin Johnson
-17: ( 1) - Bruce Springsteen
+
+16: ( 1) - Bruce Springsteen
