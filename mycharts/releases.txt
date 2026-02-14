@@ -3987,11 +3987,12 @@
         "La Folie": -1
     },
     "The Style Council": {
-        "Cafe Bleu": -1,
-        "Dropping Bombs On The Whitehouse (Extended Version)": -1,
-        "Introducing The Style Council": -1,
-        "Our Favourite Shop": -1,
-        "Our Favourite Shop (Digitally Remastered)": -1
+        "Cafe Bleu": 1984,
+        "Confessions of a Pop Group": 1988,
+        "Introducing The Style Council": 1983,
+        "Modernism: A New Decade": 1989,
+        "Our Favourite Shop": 1985,
+        "The Cost Of Loving": 1987
     },
     "The Sugarcubes": {
         "Life's Too Good": -1
