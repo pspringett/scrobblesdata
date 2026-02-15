@@ -1208,17 +1208,17 @@
         "Understated": 2013
     },
     "Eilen Jewell": {
-        "A Tribute to Loretta Lynn": -1,
-        "Boundary County": -1,
-        "Down Hearted Blues": -1,
-        "Get Behind The Wheel": -1,
-        "Green River": -1,
-        "Gypsy": -1,
-        "Letters From Sinners & Strangers": -1,
-        "Live At The Narrows": -1,
-        "Queen Of The Minor Key": -1,
-        "Sea Of Tears": -1,
-        "Sundown Over Ghost Town": -1
+        "A Tribute to Loretta Lynn": 2010,
+        "Boundary County": 2006,
+        "Down Hearted Blues": 2017,
+        "Get Behind The Wheel": 2023,
+        "Green River": 2020,
+        "Gypsy": 2019,
+        "Letters From Sinners & Strangers": 2007,
+        "Live At The Narrows": 2014,
+        "Queen Of The Minor Key": 2011,
+        "Sea Of Tears": 2009,
+        "Sundown Over Ghost Town": 2015
     },
     "Elastica": {
         "Elastica": -1
