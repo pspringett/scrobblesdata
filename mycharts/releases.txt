@@ -2273,11 +2273,23 @@
     "Low": {
         "Double Negative": -1
     },
-    "Lucinda Williamns": {
-        "World's Gone Wrong": -1
-    },
     "Lucinda Williams": {
-        "Car Wheels On A Gravel Road": -1
+        "Blessed": 2011,
+        "Car Wheels On A Gravel Road": 1998,
+        "Down Where The Spirits Meet The Bone": 2014,
+        "Essence": 2001,
+        "Good Souls Better Angels": 2020,
+        "Happy Woman Blues": 1980,
+        "Litle Honey": 2008,
+        "Lucinda Williams": 1988,
+        "Ramblin On My Mind": 1979,
+        "Stories From a Rock n Roll Heart": 2023,
+        "Sweet Old World": 1992,
+        "The Ghosts of Highway 20": 2016,
+        "Vanished Gardens": 2018,
+        "West": 2007,
+        "World's Gone Wrong": 2026,
+        "World Without Tears": 2003
     },
     "Lucy Dacus": {
         "Historian": -1,
