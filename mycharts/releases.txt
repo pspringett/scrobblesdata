@@ -903,7 +903,13 @@
         "Disraeli Gears (Remastered)": -1
     },
     "Creedence Clearwater Revival": {
-        "Creedence Clearwater Revival": -1
+        "Bayou Country": 1969,
+        "Cosmo's Factory": 1970,
+        "Creedence Clearwater Revival": 1968,
+        "Green River": 1969,
+        "Mardi Gras": 1972,
+        "Pendulum": 1970,
+        "Willy and the Poor Boys": 1969
     },
     "Creep Show": {
         "Mr. Dynamite": -1
@@ -1628,7 +1634,11 @@
         "The Luxury Gap": -1
     },
     "Heavenly": {
-        "Le Jardin De Heavenly": -1
+        "Heavenly vs Satan": 1991,
+        "Highway To Heavenly": 2026,
+        "Le Jardin De Heavenly": 1992,
+        "Operation heavenly": 1996,
+        "The Decline and Fall of heavenly": 1994
     },
     "Hello Forever": {
         "Whatever It Is": -1
@@ -2660,9 +2670,9 @@
         "New York Dolls": -1
     },
     "Newdad": {
-        "Altar": -1,
-        "Madra": -1,
-        "Waves": -1
+        "Altar": 2025,
+        "Madra": 2024,
+        "Waves": 2021
     },
     "Nick Cave & the Bad Seeds": {
         "From Her To Eternity (2009 Remastered Version)": -1,
