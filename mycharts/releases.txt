@@ -3130,10 +3130,22 @@
         "San Francisco": -1
     },
     "Scott Walker": {
-        "Scott": -1,
-        "Scott 2": -1,
-        "Scott 3": -1,
-        "Scott 4": -1
+        "And Who Sall Go To The Ball?": 2007,
+        "Any Day Now": 1973,
+        "Bish Bosch": 2012,
+        "Climate Of Hunter": 1984,
+        "Scott": 1967,
+        "Scott 2": 1968,
+        "Scott 3": 1969,
+        "Scott 4": 1969,
+        "Soused": 2014,
+        "Stretch": 1973,
+        "The Drift": 2006,
+        "The Moviegower": 1972,
+        "Til The Band Comes In": 1970,
+        "Tilt": 1995,
+        "We Had It All": 1974
+
     },
     "Scritti Politti": {
         "Early": -1,
