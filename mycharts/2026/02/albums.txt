@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     260            18            18           156
+     266            18            19           157
  1: (44) - Forever - Glyders
 
 
@@ -29,12 +29,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  4: (18) * Jordan: The Comeback - Prefab Sprout
  5: (18) - Le Jardin De Heavenly - Heavenly
+ 6: (17) - Creedence Clearwater Revival - Creedence Clearwater Revival
+ 7: (16) - Altar - Newdad
+ 8: (15) - Unclouded - Melody'S Echo Chamber
 
- 6: (16) - Altar - Newdad
- 7: (15) - Unclouded - Melody'S Echo Chamber
-
- 8: (13) * Rattlesnakes - Lloyd Cole and the Commotions
- 9: (12) - Creedence Clearwater Revival - Creedence Clearwater Revival
+ 9: (13) * Rattlesnakes - Lloyd Cole and the Commotions
 10: (12) - Tambourine - Tift Merritt
 11: (11) - Ghost Palace - The Burning Hell
 12: (11) * The Negatives - Lloyd Cole
@@ -49,4 +48,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 16: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
 17: ( 3) - Country Life - Roxy Music
 
-18: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+18: ( 1) - Down And Out In Party City - Emma Swift
+19: ( 1) - Streets Of Minneapolis - Bruce Springsteen
