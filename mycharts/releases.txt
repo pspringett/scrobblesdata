@@ -3468,17 +3468,20 @@
     },
     "T. Rex": {
         "77": -1,
-        "A Beard Of Stars (Deluxe Edition)": -1,
-        "Bolan's Zip Gun": -1,
+        "A Beard Of Stars": 1970,
+        "Billy Super Duper": 1982,
+        "Bolan's Zip Gun": 1975,
         "Classic Hits": -1,
-        "Dandy In The Underworld (Deluxe Edition)": -1,
-        "Electric Warrior": -1,
-        "Futuristic Dragon (Deluxe Edition)": -1,
-        "Get It On: The Collection": -1,
-        "Hot Love (Alternative Version)": -1,
-        "T. Rex (Deluxe Edition)": -1,
-        "Tanx (The Visconti Master)": -1,
-        "The Slider": -1
+        "Dandy In The Underworld (Deluxe Edition)": -1977,
+        "Electric Warrior": 1971,
+        "Futuristic Dragon": 1976,
+        "Get It On: The Collection": 1986,
+        "Hot Love (Alternative Version)": 2020,
+        "Light of Love": 1974,
+        "T. Rex": 1970,
+        "Tanx": 1973,
+        "The Slider": 1972,
+        "Zinc Alloy and the Hidden Riders of Tomorrow": 1974
     },
     "Taco": {
         "Best Of Taco": -1
