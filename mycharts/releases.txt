@@ -3061,11 +3061,20 @@
         "": -1
     },
     "Rosanne Cash": {
-        "Black Cadillac": -1,
-        "Rules Of Travel": -1,
-        "She Remembers Everything": -1,
-        "The List": -1,
-        "The River & The Thread": -1
+        "10 Song demo": 1996,
+        "Black Cadillac": 2006,
+        "Interiors": 1990,
+        "King's record Shop": 1987,
+        "Rhythm & Romance": 1985,
+        "Right Or Wrong": 1980,
+        "Rosanne Cash": 1978,
+        "Rules Of Travel": 2003,
+        "Seven Year Ache": 1981,
+        "She Remembers Everything": 2018,
+        "Somewhere In The Stars": 1982,
+        "The List": 2009,
+        "The River & The Thread": 2014,
+        "The Wheel": 1993
     },
     "Rose City Band": {
         "Summerlong": -1

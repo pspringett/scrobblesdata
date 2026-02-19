@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2519           109           151          1063
+    2537           110           152          1075
   1: (126) - Suzanne Vega
   2: (125) - Edwyn Collins
 
@@ -76,11 +76,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  19: ( 57) - Hem
  20: ( 56) - Lucinda Williams
+ 21: ( 56) - The Belair Lip Bombs
 
 
 
- 21: ( 52) - Bob Dylan
- 22: ( 51) - The Belair Lip Bombs
+ 22: ( 52) - Bob Dylan
+
 
 
 
@@ -114,14 +115,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  32: ( 20) - Altered Images
  33: ( 19) - Aztec Camera
- 34: ( 19) - Patty Griffin
- 35: ( 18) - Prefab Sprout
- 36: ( 17) - Echo & the Bunnymen
- 37: ( 17) - Orchestral Manoeuvres in the Dark
- 38: ( 16) - Horsegirl
- 39: ( 16) - T. Rex
- 40: ( 15) - Lloyd Cole and the Commotions
- 41: ( 15) - Melody'S Echo Chamber
+ 34: ( 19) - Melody'S Echo Chamber
+ 35: ( 19) - Patty Griffin
+ 36: ( 18) - Prefab Sprout
+ 37: ( 17) - Echo & the Bunnymen
+ 38: ( 17) - Orchestral Manoeuvres in the Dark
+ 39: ( 16) - Horsegirl
+ 40: ( 16) - T. Rex
+ 41: ( 15) - Lloyd Cole and the Commotions
  42: ( 14) - Katherine Priddy
  43: ( 14) - Paul Weller
  44: ( 13) - Emmylou Harris
@@ -140,54 +141,55 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  57: ( 10) - Mercy Girl
  58: ( 10) - The Sundays
  59: (  9) - Eliza Gilkyson
+ 60: (  9) - Vegas Water Taxi
 
- 60: (  7) - JT Nero
- 61: (  7) - Leonard Cohen
- 62: (  6) - Lauren Mayberry
- 63: (  6) - The Fall
- 64: (  6) - Weekend
- 65: (  5) - Tallies
- 66: (  5) - The Cure
- 67: (  5) - The Zombies
- 68: (  4) - ABC
- 69: (  4) - Rod Stewart
- 70: (  4) - The Human League
- 71: (  4) - U2
- 72: (  3) - Andy Golledge
- 73: (  3) - Florence + the Machine
- 74: (  3) - Patti Smith
- 75: (  3) - Pulp, Chilly Gonzales
- 76: (  2) - Ricky Nelson, the Stone Canyon Band
- 77: (  1) - Ac Acoustics
- 78: (  1) - Billy Idol
- 79: (  1) - Blue Orchids
- 80: (  1) - Brian Eno & David Byrne
- 81: (  1) - Brigitte Calls Me Baby
- 82: (  1) - Bruce Springsteen
- 83: (  1) - Culture Club
- 84: (  1) - Dexys Midnight Runners
- 85: (  1) - Girls At Our Best!
- 86: (  1) - Hurrah!
- 87: (  1) - Jane
- 88: (  1) - Joe Jackson
- 89: (  1) - Level 42
- 90: (  1) - Marine Girls
- 91: (  1) - Nouvelle Vague, Marina Céleste
- 92: (  1) - Simple Minds, Kt Tunstall
- 93: (  1) - Soft Cell
- 94: (  1) - Sylvan Esso, Collections of Colonies of Bees
- 95: (  1) - The Buggles
- 96: (  1) - The Go-go's
- 97: (  1) - The Massed Carnaby Street John Cooper Clarkes
- 98: (  1) - The Monochrome Set
- 99: (  1) - The Motels
-100: (  1) - The Nightingales
-101: (  1) - The Police
-102: (  1) - Trio
-103: (  1) - Turnstile
-104: (  1) - Tv21
-105: (  1) - UB40
-106: (  1) - Visage
-107: (  1) - Wang Chung
-108: (  1) - When in Rome
-109: (  1) - Xtc
+ 61: (  7) - JT Nero
+ 62: (  7) - Leonard Cohen
+ 63: (  6) - Lauren Mayberry
+ 64: (  6) - The Fall
+ 65: (  6) - Weekend
+ 66: (  5) - Tallies
+ 67: (  5) - The Cure
+ 68: (  5) - The Zombies
+ 69: (  4) - ABC
+ 70: (  4) - Rod Stewart
+ 71: (  4) - The Human League
+ 72: (  4) - U2
+ 73: (  3) - Andy Golledge
+ 74: (  3) - Florence + the Machine
+ 75: (  3) - Patti Smith
+ 76: (  3) - Pulp, Chilly Gonzales
+ 77: (  2) - Ricky Nelson, the Stone Canyon Band
+ 78: (  1) - Ac Acoustics
+ 79: (  1) - Billy Idol
+ 80: (  1) - Blue Orchids
+ 81: (  1) - Brian Eno & David Byrne
+ 82: (  1) - Brigitte Calls Me Baby
+ 83: (  1) - Bruce Springsteen
+ 84: (  1) - Culture Club
+ 85: (  1) - Dexys Midnight Runners
+ 86: (  1) - Girls At Our Best!
+ 87: (  1) - Hurrah!
+ 88: (  1) - Jane
+ 89: (  1) - Joe Jackson
+ 90: (  1) - Level 42
+ 91: (  1) - Marine Girls
+ 92: (  1) - Nouvelle Vague, Marina Céleste
+ 93: (  1) - Simple Minds, Kt Tunstall
+ 94: (  1) - Soft Cell
+ 95: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 96: (  1) - The Buggles
+ 97: (  1) - The Go-go's
+ 98: (  1) - The Massed Carnaby Street John Cooper Clarkes
+ 99: (  1) - The Monochrome Set
+100: (  1) - The Motels
+101: (  1) - The Nightingales
+102: (  1) - The Police
+103: (  1) - Trio
+104: (  1) - Turnstile
+105: (  1) - Tv21
+106: (  1) - UB40
+107: (  1) - Visage
+108: (  1) - Wang Chung
+109: (  1) - When in Rome
+110: (  1) - Xtc

@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2857           122           166          1195
+    2875           123           167          1207
   1: (154) - Edwyn Collins
 
 
@@ -102,11 +102,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  21: ( 57) - Hem
  22: ( 56) - Lucinda Williams
+ 23: ( 56) - The Belair Lip Bombs
 
- 23: ( 54) - R.E.M.
+ 24: ( 54) - R.E.M.
 
 
- 24: ( 51) - The Belair Lip Bombs
+
 
 
 
@@ -140,13 +141,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  36: ( 20) - Altered Images
  37: ( 19) - Aztec Camera
- 38: ( 19) - Patty Griffin
- 39: ( 18) - Prefab Sprout
- 40: ( 17) - Echo & the Bunnymen
- 41: ( 17) - Orchestral Manoeuvres in the Dark
- 42: ( 16) - T. Rex
- 43: ( 15) - Lloyd Cole and the Commotions
- 44: ( 15) - Melody'S Echo Chamber
+ 38: ( 19) - Melody'S Echo Chamber
+ 39: ( 19) - Patty Griffin
+ 40: ( 18) - Prefab Sprout
+ 41: ( 17) - Echo & the Bunnymen
+ 42: ( 17) - Orchestral Manoeuvres in the Dark
+ 43: ( 16) - T. Rex
+ 44: ( 15) - Lloyd Cole and the Commotions
  45: ( 14) - Katherine Priddy
  46: ( 14) - Leonard Cohen
  47: ( 13) - Bob Marley & the Wailers
@@ -168,61 +169,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  63: ( 10) - The Sundays
  64: (  9) - Eliza Gilkyson
  65: (  9) - Tom Tom Club
+ 66: (  9) - Vegas Water Taxi
 
- 66: (  7) - JT Nero
- 67: (  7) - Mandrake Handshake
- 68: (  6) - Lauren Mayberry
- 69: (  6) - The Fall
- 70: (  6) - Weekend
- 71: (  5) - Tallies
- 72: (  5) - The Zombies
- 73: (  4) - ABC
- 74: (  4) - Rod Stewart
- 75: (  4) - The Human League
- 76: (  4) - U2
- 77: (  3) - Andy Golledge
- 78: (  3) - Florence + the Machine
- 79: (  3) - Patti Smith
- 80: (  3) - Pulp, Chilly Gonzales
- 81: (  2) - Ricky Nelson, the Stone Canyon Band
- 82: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 83: (  1) - Ac Acoustics
- 84: (  1) - Billy Idol
- 85: (  1) - Blue Orchids
- 86: (  1) - Brian Eno & David Byrne
- 87: (  1) - Brigitte Calls Me Baby
- 88: (  1) - Bruce Springsteen
- 89: (  1) - Culture Club
- 90: (  1) - Dexys Midnight Runners
- 91: (  1) - Girls At Our Best!
- 92: (  1) - Hurrah!
- 93: (  1) - Jane
- 94: (  1) - Joan Osborne
- 95: (  1) - Joe Jackson
- 96: (  1) - Level 42
- 97: (  1) - Marine Girls
- 98: (  1) - Nouvelle Vague, Marina Céleste
- 99: (  1) - Simple Minds, Kt Tunstall
-100: (  1) - Soft Cell
-101: (  1) - Sylvan Esso, Collections of Colonies of Bees
-102: (  1) - The Buggles
-103: (  1) - The Go-go's
-104: (  1) - The Massed Carnaby Street John Cooper Clarkes
-105: (  1) - The Monochrome Set
-106: (  1) - The Motels
-107: (  1) - The Nightingales
-108: (  1) - The Police
-109: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-110: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-111: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-112: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-113: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-114: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-115: (  1) - Trio
-116: (  1) - Turnstile
-117: (  1) - Tv21
-118: (  1) - UB40
-119: (  1) - Visage
-120: (  1) - Wang Chung
-121: (  1) - When in Rome
-122: (  1) - Xtc
+ 67: (  7) - JT Nero
+ 68: (  7) - Mandrake Handshake
+ 69: (  6) - Lauren Mayberry
+ 70: (  6) - The Fall
+ 71: (  6) - Weekend
+ 72: (  5) - Tallies
+ 73: (  5) - The Zombies
+ 74: (  4) - ABC
+ 75: (  4) - Rod Stewart
+ 76: (  4) - The Human League
+ 77: (  4) - U2
+ 78: (  3) - Andy Golledge
+ 79: (  3) - Florence + the Machine
+ 80: (  3) - Patti Smith
+ 81: (  3) - Pulp, Chilly Gonzales
+ 82: (  2) - Ricky Nelson, the Stone Canyon Band
+ 83: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 84: (  1) - Ac Acoustics
+ 85: (  1) - Billy Idol
+ 86: (  1) - Blue Orchids
+ 87: (  1) - Brian Eno & David Byrne
+ 88: (  1) - Brigitte Calls Me Baby
+ 89: (  1) - Bruce Springsteen
+ 90: (  1) - Culture Club
+ 91: (  1) - Dexys Midnight Runners
+ 92: (  1) - Girls At Our Best!
+ 93: (  1) - Hurrah!
+ 94: (  1) - Jane
+ 95: (  1) - Joan Osborne
+ 96: (  1) - Joe Jackson
+ 97: (  1) - Level 42
+ 98: (  1) - Marine Girls
+ 99: (  1) - Nouvelle Vague, Marina Céleste
+100: (  1) - Simple Minds, Kt Tunstall
+101: (  1) - Soft Cell
+102: (  1) - Sylvan Esso, Collections of Colonies of Bees
+103: (  1) - The Buggles
+104: (  1) - The Go-go's
+105: (  1) - The Massed Carnaby Street John Cooper Clarkes
+106: (  1) - The Monochrome Set
+107: (  1) - The Motels
+108: (  1) - The Nightingales
+109: (  1) - The Police
+110: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+111: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+112: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+113: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+114: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+115: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+116: (  1) - Trio
+117: (  1) - Turnstile
+118: (  1) - Tv21
+119: (  1) - UB40
+120: (  1) - Visage
+121: (  1) - Wang Chung
+122: (  1) - When in Rome
+123: (  1) - Xtc

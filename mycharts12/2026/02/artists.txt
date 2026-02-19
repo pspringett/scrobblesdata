@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3555           136           197          1491
+    3573           137           198          1503
   1: (323) - Edwyn Collins
 
 
@@ -272,11 +272,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  22: ( 57) - Hem
  23: ( 56) - Lucinda Williams
+ 24: ( 56) - The Belair Lip Bombs
 
- 24: ( 54) - R.E.M.
+ 25: ( 54) - R.E.M.
 
 
- 25: ( 51) - The Belair Lip Bombs
+
 
 
 
@@ -313,15 +314,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  43: ( 20) - Altered Images
  44: ( 20) - Laura Marling
  45: ( 19) - Aztec Camera
- 46: ( 19) - Patty Griffin
- 47: ( 18) - Prefab Sprout
- 48: ( 18) - The Cure
- 49: ( 17) - Echo & the Bunnymen
- 50: ( 17) - Elvis Costello & the Attractions
- 51: ( 17) - Orchestral Manoeuvres in the Dark
- 52: ( 16) - T. Rex
- 53: ( 15) - Lloyd Cole and the Commotions
- 54: ( 15) - Melody'S Echo Chamber
+ 46: ( 19) - Melody'S Echo Chamber
+ 47: ( 19) - Patty Griffin
+ 48: ( 18) - Prefab Sprout
+ 49: ( 18) - The Cure
+ 50: ( 17) - Echo & the Bunnymen
+ 51: ( 17) - Elvis Costello & the Attractions
+ 52: ( 17) - Orchestral Manoeuvres in the Dark
+ 53: ( 16) - T. Rex
+ 54: ( 15) - Lloyd Cole and the Commotions
  55: ( 14) - British Birds
  56: ( 14) - Katherine Priddy
  57: ( 14) - Leonard Cohen
@@ -347,60 +348,61 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  77: ( 10) - The Sundays
  78: (  9) - Eliza Gilkyson
  79: (  9) - Tom Tom Club
- 80: (  8) - Talking Heads
- 81: (  7) - JT Nero
- 82: (  7) - Joan Osborne
- 83: (  7) - Mandrake Handshake
- 84: (  7) - UB40
- 85: (  6) - The Fall
- 86: (  6) - Weekend
- 87: (  5) - The Zombies
- 88: (  4) - ABC
- 89: (  4) - The Human League
- 90: (  4) - U2
- 91: (  3) - Andy Golledge
- 92: (  3) - Florence + the Machine
- 93: (  3) - Patti Smith
- 94: (  3) - Pulp, Chilly Gonzales
- 95: (  2) - Ricky Nelson, the Stone Canyon Band
- 96: (  2) - Rodney Crowell
- 97: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 98: (  2) - Waxahatchee, Mj Lenderman
- 99: (  1) - Ac Acoustics
-100: (  1) - Billy Idol
-101: (  1) - Blue Orchids
-102: (  1) - Brian Eno & David Byrne
-103: (  1) - Brigitte Calls Me Baby
-104: (  1) - Bruce Springsteen
-105: (  1) - Culture Club
-106: (  1) - Dexys Midnight Runners
-107: (  1) - Girls At Our Best!
-108: (  1) - Hurrah!
-109: (  1) - Jane
-110: (  1) - Joe Jackson
-111: (  1) - Level 42
-112: (  1) - Marine Girls
-113: (  1) - Nouvelle Vague, Marina Céleste
-114: (  1) - Simple Minds, Kt Tunstall
-115: (  1) - Soft Cell
-116: (  1) - Sylvan Esso, Collections of Colonies of Bees
-117: (  1) - The Buggles
-118: (  1) - The Go-go's
-119: (  1) - The Massed Carnaby Street John Cooper Clarkes
-120: (  1) - The Monochrome Set
-121: (  1) - The Motels
-122: (  1) - The Nightingales
-123: (  1) - The Police
-124: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-125: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-126: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-127: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-128: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-129: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-130: (  1) - Trio
-131: (  1) - Turnstile
-132: (  1) - Tv21
-133: (  1) - Visage
-134: (  1) - Wang Chung
-135: (  1) - When in Rome
-136: (  1) - Xtc
+ 80: (  9) - Vegas Water Taxi
+ 81: (  8) - Talking Heads
+ 82: (  7) - JT Nero
+ 83: (  7) - Joan Osborne
+ 84: (  7) - Mandrake Handshake
+ 85: (  7) - UB40
+ 86: (  6) - The Fall
+ 87: (  6) - Weekend
+ 88: (  5) - The Zombies
+ 89: (  4) - ABC
+ 90: (  4) - The Human League
+ 91: (  4) - U2
+ 92: (  3) - Andy Golledge
+ 93: (  3) - Florence + the Machine
+ 94: (  3) - Patti Smith
+ 95: (  3) - Pulp, Chilly Gonzales
+ 96: (  2) - Ricky Nelson, the Stone Canyon Band
+ 97: (  2) - Rodney Crowell
+ 98: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 99: (  2) - Waxahatchee, Mj Lenderman
+100: (  1) - Ac Acoustics
+101: (  1) - Billy Idol
+102: (  1) - Blue Orchids
+103: (  1) - Brian Eno & David Byrne
+104: (  1) - Brigitte Calls Me Baby
+105: (  1) - Bruce Springsteen
+106: (  1) - Culture Club
+107: (  1) - Dexys Midnight Runners
+108: (  1) - Girls At Our Best!
+109: (  1) - Hurrah!
+110: (  1) - Jane
+111: (  1) - Joe Jackson
+112: (  1) - Level 42
+113: (  1) - Marine Girls
+114: (  1) - Nouvelle Vague, Marina Céleste
+115: (  1) - Simple Minds, Kt Tunstall
+116: (  1) - Soft Cell
+117: (  1) - Sylvan Esso, Collections of Colonies of Bees
+118: (  1) - The Buggles
+119: (  1) - The Go-go's
+120: (  1) - The Massed Carnaby Street John Cooper Clarkes
+121: (  1) - The Monochrome Set
+122: (  1) - The Motels
+123: (  1) - The Nightingales
+124: (  1) - The Police
+125: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+126: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+127: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+128: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+129: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+130: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+131: (  1) - Trio
+132: (  1) - Turnstile
+133: (  1) - Tv21
+134: (  1) - Visage
+135: (  1) - Wang Chung
+136: (  1) - When in Rome
+137: (  1) - Xtc
