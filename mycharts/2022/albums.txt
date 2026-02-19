@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3438           160           228          1676
+    3438           160           227          1676
   1: (176) - Mascara Streakz - Altered Images
   2: ( 90) - Daddy's Home - St. Vincent
   3: ( 82) - Strange Mercy - St. Vincent
@@ -15,7 +15,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  12: ( 50) - An Appointment With Mr Yeats - The Waterboys
  13: ( 48) - Nme C81 - Various
  14: ( 45) - Dear Scott - Michael Head & the Red Elastic Band
- 15: ( 40) - Let It Bleed - The Rolling Stones
+ 15: ( 43) - Let It Bleed - The Rolling Stones
  16: ( 39) - Born To Run - Bruce Springsteen
  17: ( 39) - Coals To Newcastle - Orange Juice
  18: ( 39) * Jordan: The Comeback - Prefab Sprout
@@ -103,7 +103,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 100: ( 11) * Love Story - Lloyd Cole
 101: ( 11) - Sermon On The Rocks - Josh Ritter
 102: ( 11) * Standards - Lloyd Cole
-103: ( 10) - Beggars Banquet (50Th Anniversary Edition) - The Rolling Stones
+103: ( 10) - Beggars Banquet - The Rolling Stones
 104: ( 10) * Beyond The Leap Beyond The Law - Martin Stephenson
 105: ( 10) - Can't Buy A Thrill - Steely Dan
 106: ( 10) - Cleaning Out The Ashtrays CD2 Re-make/Re-model - Lloyd Cole
@@ -164,70 +164,69 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 161: (  3) - Grotesque (After The Gramme) (Expanded Edition) - The Fall
 162: (  3) - Hard Times In Babylon - Eliza Gilkyson
 163: (  3) * Hellbent On Compromise - Edwyn Collins
-164: (  3) - Let It Bleed (50Th Anniversary Edition / Remastered 2019) - The Rolling Stones
-165: (  3) * Lost And Found - Eliza Gilkyson
-166: (  3) * Songs To Remember - Scritti Politti
-167: (  3) - Stitch Of The World - Tift Merritt
-168: (  3) - Substance 1987 - New Order
-169: (  3) - Tanx - T. Rex
-170: (  3) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
-171: (  2) - Acoustic - Simple Minds
-172: (  2) - Bolan's Zip Gun - T. Rex
-173: (  2) - Dreaming My Dreams - Waylon Jennings
-174: (  2) - Folksinger Vol 1 - Bremen Radio 2003 - Lloyd Cole
-175: (  2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
-176: (  2) - Heartmind - Cass McCombs
-177: (  2) - It Won't Always Be Like This - Inhaler
-178: (  2) - Land Of No Junction - Aoife Nessa Frances
-179: (  2) - Old Hands - Yonder Mountain String Band
-180: (  2) - Paradise Hotel - Eliza Gilkyson
-181: (  2) * Texas Fever - Orange Juice
-182: (  2) - The Boy's Heart - Martin Stephenson and the Daintees
-183: (  2) - The Slider - T. Rex
-184: (  2) - True (Special Edition) - Spandau Ballet
-185: (  1) - Alpha Zulu - Phoenix
-186: (  1) - Autoamerican - Blondie
-187: (  1) - Back In The Day - Martin Stephenson and the Daintees
-188: (  1) - Beautiful World ((Bonus Track Version)) - Eliza Gilkyson
-189: (  1) - Birth Of A Nation: Inevitable Records: An Independent Liverpool 1979-1986 - It'S Immaterial
-190: (  1) - Blooms & Barnacles - Blooms & Barnacles
-191: (  1) - Born In The U.S.A. - Bruce Springsteen
-192: (  1) - Celebrate (Greatest Hits / Expanded Edition) - Simple Minds
-193: (  1) - Da Capo (Deluxe Edition) - Love
-194: (  1) - Delta Kream - The Black Keys
-195: (  1) - Direction Of The Heart - Simple Minds
-196: (  1) - Divine Symmetry - David Bowie
-197: (  1) - Dream Into Action - Howard Jones
-198: (  1) - Electric Ladyland - Jimi Hendrix
-199: (  1) - Every Bad (Expanded Edition) - Porridge Radio
-200: (  1) - Extricate (Expanded Edition) - The Fall
-201: (  1) - Fetch The Bolt Cutters - Fiona Apple
-202: (  1) - Forever Changes (2015 Remaster) - Love
-203: (  1) - Fun Boy Three - Fun Boy Three
-204: (  1) - Futuristic Dragon (Deluxe Edition) - T. Rex
-205: (  1) - Get It On: The Collection - T. Rex
-206: (  1) - Give Me The Future - Bastille
-207: (  1) * High Land, Hard Rain - Aztec Camera
-208: (  1) - I Don’T Live Here Anymore - The War on Drugs
-209: (  1) - Land Of Milk And Honey - Eliza Gilkyson
-210: (  1) - Mange Tout (Extended Version) - Blancmange
-211: (  1) - Metals - Feist
-212: (  1) - Mistaken Identity - Kim Carnes
-213: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
-214: (  1) - Revelators - Revelators Sound System
-215: (  1) - Revolver - The Beatles
-216: (  1) - Saint Cloud - Waxahatchee
-217: (  1) - Second Helpings - Blancmange
-218: (  1) - Shout - Placebo
-219: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
-220: (  1) - The Beatles - The Beatles
-221: (  1) - The Doors - The Doors
-222: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
-223: (  1) - The Spur - Joan Shelley
-224: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
-225: (  1) - The Wrong People - Furniture
-226: (  1) - Tin Drum - Japan
-227: (  1) - Travelogue - Human League
-228: (  1) - Waiting - Fun Boy Three
-229: (  1) - Your Town Tonight - Eliza Gilkyson
-230: (  1) - Youtube - Prefab Sprout
+164: (  3) * Lost And Found - Eliza Gilkyson
+165: (  3) * Songs To Remember - Scritti Politti
+166: (  3) - Stitch Of The World - Tift Merritt
+167: (  3) - Substance 1987 - New Order
+168: (  3) - Tanx - T. Rex
+169: (  3) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+170: (  2) - Acoustic - Simple Minds
+171: (  2) - Bolan's Zip Gun - T. Rex
+172: (  2) - Dreaming My Dreams - Waylon Jennings
+173: (  2) - Folksinger Vol 1 - Bremen Radio 2003 - Lloyd Cole
+174: (  2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
+175: (  2) - Heartmind - Cass McCombs
+176: (  2) - It Won't Always Be Like This - Inhaler
+177: (  2) - Land Of No Junction - Aoife Nessa Frances
+178: (  2) - Old Hands - Yonder Mountain String Band
+179: (  2) - Paradise Hotel - Eliza Gilkyson
+180: (  2) * Texas Fever - Orange Juice
+181: (  2) - The Boy's Heart - Martin Stephenson and the Daintees
+182: (  2) - The Slider - T. Rex
+183: (  2) - True (Special Edition) - Spandau Ballet
+184: (  1) - Alpha Zulu - Phoenix
+185: (  1) - Autoamerican - Blondie
+186: (  1) - Back In The Day - Martin Stephenson and the Daintees
+187: (  1) - Beautiful World ((Bonus Track Version)) - Eliza Gilkyson
+188: (  1) - Birth Of A Nation: Inevitable Records: An Independent Liverpool 1979-1986 - It'S Immaterial
+189: (  1) - Blooms & Barnacles - Blooms & Barnacles
+190: (  1) - Born In The U.S.A. - Bruce Springsteen
+191: (  1) - Celebrate (Greatest Hits / Expanded Edition) - Simple Minds
+192: (  1) - Da Capo (Deluxe Edition) - Love
+193: (  1) - Delta Kream - The Black Keys
+194: (  1) - Direction Of The Heart - Simple Minds
+195: (  1) - Divine Symmetry - David Bowie
+196: (  1) - Dream Into Action - Howard Jones
+197: (  1) - Electric Ladyland - Jimi Hendrix
+198: (  1) - Every Bad (Expanded Edition) - Porridge Radio
+199: (  1) - Extricate (Expanded Edition) - The Fall
+200: (  1) - Fetch The Bolt Cutters - Fiona Apple
+201: (  1) - Forever Changes (2015 Remaster) - Love
+202: (  1) - Fun Boy Three - Fun Boy Three
+203: (  1) - Futuristic Dragon (Deluxe Edition) - T. Rex
+204: (  1) - Get It On: The Collection - T. Rex
+205: (  1) - Give Me The Future - Bastille
+206: (  1) * High Land, Hard Rain - Aztec Camera
+207: (  1) - I Don’T Live Here Anymore - The War on Drugs
+208: (  1) - Land Of Milk And Honey - Eliza Gilkyson
+209: (  1) - Mange Tout (Extended Version) - Blancmange
+210: (  1) - Metals - Feist
+211: (  1) - Mistaken Identity - Kim Carnes
+212: (  1) - Nancy & Lee - Nancy Sinatra, Lee Hazlewood
+213: (  1) - Revelators - Revelators Sound System
+214: (  1) - Revolver - The Beatles
+215: (  1) - Saint Cloud - Waxahatchee
+216: (  1) - Second Helpings - Blancmange
+217: (  1) - Shout - Placebo
+218: (  1) - Still The Birds - Eliza Gilkyson, Darryl Purpose
+219: (  1) - The Beatles - The Beatles
+220: (  1) - The Doors - The Doors
+221: (  1) - The New Wave Music Podcast - The New Wave Music Podcast
+222: (  1) - The Spur - Joan Shelley
+223: (  1) - The Sun Shines Here: The Roots Of Indie-Pop 1980-1984 - It'S Immaterial
+224: (  1) - The Wrong People - Furniture
+225: (  1) - Tin Drum - Japan
+226: (  1) - Travelogue - Human League
+227: (  1) - Waiting - Fun Boy Three
+228: (  1) - Your Town Tonight - Eliza Gilkyson
+229: (  1) - Youtube - Prefab Sprout
