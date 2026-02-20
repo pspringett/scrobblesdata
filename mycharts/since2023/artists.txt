@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   10993           280           452          3343
+   11001           282           453          3349
   1: (353) - Edwyn Collins
   2: (352) - Slowdive
 
@@ -214,11 +214,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  20: (142) - English Teacher
  21: (142) - Suzanne Vega
+ 22: (142) - U2
 
 
- 22: (139) - Chaparelle
- 23: (139) - St. Vincent
- 24: (138) - U2
+ 23: (139) - Chaparelle
+ 24: (139) - St. Vincent
+
 
 
  25: (135) - David Bowie
@@ -389,10 +390,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 129: ( 16) - Chip Taylor & Carrie Rodriguez
 130: ( 16) - Haircut 100
 131: ( 16) - The Specials
-132: ( 15) - Lloyd Cole and the Commotions
-133: ( 14) - Joy Division
-134: ( 14) - Katherine Priddy
-135: ( 14) - Vegas Water Taxi
+132: ( 16) - Vegas Water Taxi
+133: ( 15) - Lloyd Cole and the Commotions
+134: ( 14) - Joy Division
+135: ( 14) - Katherine Priddy
 136: ( 13) - Blondie
 137: ( 13) - Bob Marley & the Wailers
 138: ( 13) - Jimi Hendrix
@@ -533,9 +534,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 272: (  1) - Trio
 273: (  1) - Turnstile
 274: (  1) - Tv21
-275: (  1) - Van Morrison
-276: (  1) - Visage
-277: (  1) - Wang Chung
-278: (  1) - When in Rome
-279: (  1) - Xtc
-280: (  1) - Yes
+275: (  1) - U2, Ed Sheeran, Taras Topolia
+276: (  1) - U2, Jacknife Lee, Adeola
+277: (  1) - Van Morrison
+278: (  1) - Visage
+279: (  1) - Wang Chung
+280: (  1) - When in Rome
+281: (  1) - Xtc
+282: (  1) - Yes

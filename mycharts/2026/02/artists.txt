@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     297            19            20           169
+     305            22            21           175
  1: (44) - Glyders
 
 
@@ -31,8 +31,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (18) - Prefab Sprout
  7: (17) - Creedence Clearwater Revival
  8: (16) - Newdad
+ 9: (16) - Vegas Water Taxi
 
- 9: (14) - Vegas Water Taxi
+
 10: (13) - Lloyd Cole and the Commotions
 11: (12) - Tift Merritt
 12: (11) - Lloyd Cole
@@ -45,6 +46,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 16: ( 4) - Simple Minds
 17: ( 4) - The Cure
-18: ( 3) - Roxy Music
+18: ( 4) - U2
+19: ( 3) - Roxy Music
 
-19: ( 1) - Bruce Springsteen
+20: ( 1) - Bruce Springsteen
+21: ( 1) - U2, Ed Sheeran, Taras Topolia
+22: ( 1) - U2, Jacknife Lee, Adeola

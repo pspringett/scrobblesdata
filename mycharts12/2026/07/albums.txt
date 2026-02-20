@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2088            80           128           938
+    2096            82           129           944
   1: (98) - Blue Weekend - Wolf Alice
 
 
@@ -97,12 +97,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  34: (17) - Crocodiles - Echo & the Bunnymen
  35: (16) * Electric Warrior - T. Rex
  36: (16) - Heaven, Or Someplace As Nice - Josh Ritter
- 37: (15) - Coals To Newcastle - Orange Juice
- 38: (15) - Low - David Bowie
- 39: (15) * Rattlesnakes - Lloyd Cole and the Commotions
- 40: (15) * Yogi In My House - Martin Stephenson
- 41: (14) - Home Again - Edwyn Collins
- 42: (14) - Long Time Caller, First Time Listener - Vegas Water Taxi
+ 37: (16) - Long Time Caller, First Time Listener - Vegas Water Taxi
+ 38: (15) - Coals To Newcastle - Orange Juice
+ 39: (15) - Low - David Bowie
+ 40: (15) * Rattlesnakes - Lloyd Cole and the Commotions
+ 41: (15) * Yogi In My House - Martin Stephenson
+ 42: (14) - Home Again - Edwyn Collins
  43: (14) * Rabbit Songs - Hem
  44: (14) * The Orange Juice - Orange Juice
  45: (14) - These Frightening Machines - Katherine Priddy
@@ -151,43 +151,46 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  88: ( 5) - Elevation Days - Edwyn Collins
  89: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
  90: ( 4) - 1981-2011 - B.E.F.
- 91: ( 4) - Early Gold - Simple Minds
- 92: ( 4) - Sermon On The Rocks - Josh Ritter
- 93: ( 4) * Seventeen Seconds - The Cure
- 94: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
- 95: ( 4) - The Joshua Tree - U2
- 96: ( 4) - Unplugged....And Seated - Rod Stewart
- 97: ( 3) - Country Life - Roxy Music
- 98: ( 3) - Everybody Scream - Florence + the Machine
- 99: ( 3) - Fables Of The Reconstruction - R.E.M.
-100: ( 3) - Home Recordings - Emma Swift
-101: ( 3) - Horses - Patti Smith
-102: ( 3) * Losing Sleep - Edwyn Collins
-103: ( 3) * Wrecking Ball - Emmylou Harris
-104: ( 3) - Young, Dumb & Wild - Andy Golledge
-105: ( 2) - Empires And Dance - Simple Minds
-106: ( 2) - Golden Age - Heaven 17
-107: ( 2) - Knowledge - Edwyn Collins
-108: ( 2) - More - Pulp, Chilly Gonzales
-109: ( 2) - New Gold Dream - Simple Minds
-110: ( 2) - Rip It Up - Orange Juice
-111: ( 2) - The Clearing - Wolf Alice
-112: ( 1) -  - Orange Juice
-113: ( 1) - Acoustic - Simple Minds, Kt Tunstall
-114: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-115: ( 1) - Down And Out In Party City - Emma Swift
-116: ( 1) - Drums And Wires - Xtc
-117: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-118: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-119: ( 1) - Garbage Island - The Burning Hell
-120: ( 1) * Heroes - David Bowie
-121: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-122: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-123: ( 1) - Slumber Party - Brigitte Calls Me Baby
-124: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-125: ( 1) - The '81 Demos - Weekend
-126: ( 1) - The Candle And The Flame - Robert Forster
-127: ( 1) - The Lexicon Of Love - ABC
-128: ( 1) - The Singles - Weekend
-129: ( 1) - Understanding Music - Ac Acoustics
-130: ( 1) - You Got Here First - Emma Swift
+ 91: ( 4) - Days Of Ash Ep - U2
+ 92: ( 4) - Early Gold - Simple Minds
+ 93: ( 4) - Sermon On The Rocks - Josh Ritter
+ 94: ( 4) * Seventeen Seconds - The Cure
+ 95: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 96: ( 4) - The Joshua Tree - U2
+ 97: ( 4) - Unplugged....And Seated - Rod Stewart
+ 98: ( 3) - Country Life - Roxy Music
+ 99: ( 3) - Everybody Scream - Florence + the Machine
+100: ( 3) - Fables Of The Reconstruction - R.E.M.
+101: ( 3) - Home Recordings - Emma Swift
+102: ( 3) - Horses - Patti Smith
+103: ( 3) * Losing Sleep - Edwyn Collins
+104: ( 3) * Wrecking Ball - Emmylou Harris
+105: ( 3) - Young, Dumb & Wild - Andy Golledge
+106: ( 2) - Empires And Dance - Simple Minds
+107: ( 2) - Golden Age - Heaven 17
+108: ( 2) - Knowledge - Edwyn Collins
+109: ( 2) - More - Pulp, Chilly Gonzales
+110: ( 2) - New Gold Dream - Simple Minds
+111: ( 2) - Rip It Up - Orange Juice
+112: ( 2) - The Clearing - Wolf Alice
+113: ( 1) -  - Orange Juice
+114: ( 1) - Acoustic - Simple Minds, Kt Tunstall
+115: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+116: ( 1) - Days Of Ash Ep - U2, Ed Sheeran, Taras Topolia
+117: ( 1) - Days Of Ash Ep - U2, Jacknife Lee, Adeola
+118: ( 1) - Down And Out In Party City - Emma Swift
+119: ( 1) - Drums And Wires - Xtc
+120: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+121: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+122: ( 1) - Garbage Island - The Burning Hell
+123: ( 1) * Heroes - David Bowie
+124: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+125: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+126: ( 1) - Slumber Party - Brigitte Calls Me Baby
+127: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+128: ( 1) - The '81 Demos - Weekend
+129: ( 1) - The Candle And The Flame - Robert Forster
+130: ( 1) - The Lexicon Of Love - ABC
+131: ( 1) - The Singles - Weekend
+132: ( 1) - Understanding Music - Ac Acoustics
+133: ( 1) - You Got Here First - Emma Swift

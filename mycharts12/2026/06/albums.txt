@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2348            98           136          1009
+    2356           100           137          1015
   1: (98) - Blue Weekend - Wolf Alice
 
   2: (96) - Ghost Palace - The Burning Hell
@@ -99,12 +99,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  38: (17) - Crocodiles - Echo & the Bunnymen
  39: (16) * Electric Warrior - T. Rex
  40: (16) - Heaven, Or Someplace As Nice - Josh Ritter
- 41: (15) - Coals To Newcastle - Orange Juice
- 42: (15) - Low - David Bowie
- 43: (15) * Rattlesnakes - Lloyd Cole and the Commotions
- 44: (15) * Yogi In My House - Martin Stephenson
- 45: (14) - Home Again - Edwyn Collins
- 46: (14) - Long Time Caller, First Time Listener - Vegas Water Taxi
+ 41: (16) - Long Time Caller, First Time Listener - Vegas Water Taxi
+ 42: (15) - Coals To Newcastle - Orange Juice
+ 43: (15) - Low - David Bowie
+ 44: (15) * Rattlesnakes - Lloyd Cole and the Commotions
+ 45: (15) * Yogi In My House - Martin Stephenson
+ 46: (14) - Home Again - Edwyn Collins
  47: (14) * Rabbit Songs - Hem
  48: (14) * The Orange Juice - Orange Juice
  49: (14) - These Frightening Machines - Katherine Priddy
@@ -154,64 +154,67 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  93: ( 5) - Elevation Days - Edwyn Collins
  94: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
  95: ( 4) - 1981-2011 - B.E.F.
- 96: ( 4) - Early Gold - Simple Minds
- 97: ( 4) - Sermon On The Rocks - Josh Ritter
- 98: ( 4) * Seventeen Seconds - The Cure
- 99: ( 4) - The Joshua Tree - U2
-100: ( 4) - Unplugged....And Seated - Rod Stewart
-101: ( 3) - All The Best - The Human League
-102: ( 3) - Country Life - Roxy Music
-103: ( 3) - Everybody Scream - Florence + the Machine
-104: ( 3) - Fables Of The Reconstruction - R.E.M.
-105: ( 3) - Home Recordings - Emma Swift
-106: ( 3) - Horses - Patti Smith
-107: ( 3) * Losing Sleep - Edwyn Collins
-108: ( 3) - The Lexicon Of Love - ABC
-109: ( 3) * Wrecking Ball - Emmylou Harris
-110: ( 3) - Young, Dumb & Wild - Andy Golledge
-111: ( 2) - Empires And Dance - Simple Minds
-112: ( 2) - Golden Age - Heaven 17
-113: ( 2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-114: ( 2) - Knowledge - Edwyn Collins
-115: ( 2) - More - Pulp, Chilly Gonzales
-116: ( 2) - Rip It Up - Orange Juice
-117: ( 2) - The Clearing - Wolf Alice
-118: ( 1) -  - Orange Juice
-119: ( 1) - Acoustic - Simple Minds, Kt Tunstall
-120: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-121: ( 1) - Down And Out In Party City - Emma Swift
-122: ( 1) - Drums And Wires - Xtc
-123: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-124: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-125: ( 1) - Garbage Island - The Burning Hell
-126: ( 1) * Heroes - David Bowie
-127: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-128: ( 1) - New Wave Hits Of The 80S - ABC
-129: ( 1) - New Wave Hits Of The 80S - Billy Idol
-130: ( 1) - New Wave Hits Of The 80S - Culture Club
-131: ( 1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-132: ( 1) - New Wave Hits Of The 80S - Joe Jackson
-133: ( 1) - New Wave Hits Of The 80S - Level 42
-134: ( 1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-135: ( 1) - New Wave Hits Of The 80S - R.E.M.
-136: ( 1) - New Wave Hits Of The 80S - Simple Minds
-137: ( 1) - New Wave Hits Of The 80S - Soft Cell
-138: ( 1) - New Wave Hits Of The 80S - The Buggles
-139: ( 1) - New Wave Hits Of The 80S - The Go-go's
-140: ( 1) - New Wave Hits Of The 80S - The Human League
-141: ( 1) - New Wave Hits Of The 80S - The Motels
-142: ( 1) - New Wave Hits Of The 80S - The Police
-143: ( 1) - New Wave Hits Of The 80S - Trio
-144: ( 1) - New Wave Hits Of The 80S - UB40
-145: ( 1) - New Wave Hits Of The 80S - Wang Chung
-146: ( 1) - New Wave Hits Of The 80S - When in Rome
-147: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-148: ( 1) - Nothing And Forever - Emma Swift
-149: ( 1) - Slumber Party - Brigitte Calls Me Baby
-150: ( 1) - Songs Of A Lost World - The Cure
-151: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-152: ( 1) - The '81 Demos - Weekend
-153: ( 1) - The Candle And The Flame - Robert Forster
-154: ( 1) - The Singles - Weekend
-155: ( 1) - Understanding Music - Ac Acoustics
-156: ( 1) - You Got Here First - Emma Swift
+ 96: ( 4) - Days Of Ash Ep - U2
+ 97: ( 4) - Early Gold - Simple Minds
+ 98: ( 4) - Sermon On The Rocks - Josh Ritter
+ 99: ( 4) * Seventeen Seconds - The Cure
+100: ( 4) - The Joshua Tree - U2
+101: ( 4) - Unplugged....And Seated - Rod Stewart
+102: ( 3) - All The Best - The Human League
+103: ( 3) - Country Life - Roxy Music
+104: ( 3) - Everybody Scream - Florence + the Machine
+105: ( 3) - Fables Of The Reconstruction - R.E.M.
+106: ( 3) - Home Recordings - Emma Swift
+107: ( 3) - Horses - Patti Smith
+108: ( 3) * Losing Sleep - Edwyn Collins
+109: ( 3) - The Lexicon Of Love - ABC
+110: ( 3) * Wrecking Ball - Emmylou Harris
+111: ( 3) - Young, Dumb & Wild - Andy Golledge
+112: ( 2) - Empires And Dance - Simple Minds
+113: ( 2) - Golden Age - Heaven 17
+114: ( 2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+115: ( 2) - Knowledge - Edwyn Collins
+116: ( 2) - More - Pulp, Chilly Gonzales
+117: ( 2) - Rip It Up - Orange Juice
+118: ( 2) - The Clearing - Wolf Alice
+119: ( 1) -  - Orange Juice
+120: ( 1) - Acoustic - Simple Minds, Kt Tunstall
+121: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+122: ( 1) - Days Of Ash Ep - U2, Ed Sheeran, Taras Topolia
+123: ( 1) - Days Of Ash Ep - U2, Jacknife Lee, Adeola
+124: ( 1) - Down And Out In Party City - Emma Swift
+125: ( 1) - Drums And Wires - Xtc
+126: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+127: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+128: ( 1) - Garbage Island - The Burning Hell
+129: ( 1) * Heroes - David Bowie
+130: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+131: ( 1) - New Wave Hits Of The 80S - ABC
+132: ( 1) - New Wave Hits Of The 80S - Billy Idol
+133: ( 1) - New Wave Hits Of The 80S - Culture Club
+134: ( 1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+135: ( 1) - New Wave Hits Of The 80S - Joe Jackson
+136: ( 1) - New Wave Hits Of The 80S - Level 42
+137: ( 1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+138: ( 1) - New Wave Hits Of The 80S - R.E.M.
+139: ( 1) - New Wave Hits Of The 80S - Simple Minds
+140: ( 1) - New Wave Hits Of The 80S - Soft Cell
+141: ( 1) - New Wave Hits Of The 80S - The Buggles
+142: ( 1) - New Wave Hits Of The 80S - The Go-go's
+143: ( 1) - New Wave Hits Of The 80S - The Human League
+144: ( 1) - New Wave Hits Of The 80S - The Motels
+145: ( 1) - New Wave Hits Of The 80S - The Police
+146: ( 1) - New Wave Hits Of The 80S - Trio
+147: ( 1) - New Wave Hits Of The 80S - UB40
+148: ( 1) - New Wave Hits Of The 80S - Wang Chung
+149: ( 1) - New Wave Hits Of The 80S - When in Rome
+150: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+151: ( 1) - Nothing And Forever - Emma Swift
+152: ( 1) - Slumber Party - Brigitte Calls Me Baby
+153: ( 1) - Songs Of A Lost World - The Cure
+154: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+155: ( 1) - The '81 Demos - Weekend
+156: ( 1) - The Candle And The Flame - Robert Forster
+157: ( 1) - The Singles - Weekend
+158: ( 1) - Understanding Music - Ac Acoustics
+159: ( 1) - You Got Here First - Emma Swift
