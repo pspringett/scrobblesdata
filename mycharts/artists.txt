@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   75497          1301          1942         13312
+   75507          1301          1942         13312
    1: (2382) - Lloyd Cole
    2: (2135) - David Bowie
    3: (2021) - Bob Dylan
@@ -70,8 +70,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   67: ( 302) - The Go-Betweens
   68: ( 300) - Elvis Costello
   69: ( 289) - Angie Palmer
-  70: ( 279) - Devine & Statton
-  71: ( 279) - Emma Swift
+  70: ( 288) - Emma Swift
+  71: ( 279) - Devine & Statton
   72: ( 279) - The Corrs
   73: ( 277) - The Smiths
   74: ( 276) - UB40
@@ -330,9 +330,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  327: (  19) - Field Music
  328: (  19) - Patti Smith
  329: (  19) - Paul & Linda Mccartney
- 330: (  18) - Michael Stipe
- 331: (  18) - The Cool Greenhouse
- 332: (  18) - Vegas Water Taxi
+ 330: (  19) - Vegas Water Taxi
+ 331: (  18) - Michael Stipe
+ 332: (  18) - The Cool Greenhouse
  333: (  17) - Bill Nelson
  334: (  17) - Brix Smith
  335: (  17) - Kurt Vile
