@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     337            22            21           179
+     341            23            22           183
  1: (44) - Glyders
 
 
@@ -45,9 +45,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 16: ( 4) - Simple Minds
 17: ( 4) - The Cure
-18: ( 4) - U2
-19: ( 3) - Roxy Music
+18: ( 4) - The Rolling Stones
+19: ( 4) - U2
+20: ( 3) - Roxy Music
 
-20: ( 1) - Bruce Springsteen
-21: ( 1) - U2, Ed Sheeran, Taras Topolia
-22: ( 1) - U2, Jacknife Lee, Adeola
+21: ( 1) - Bruce Springsteen
+22: ( 1) - U2, Ed Sheeran, Taras Topolia
+23: ( 1) - U2, Jacknife Lee, Adeola
