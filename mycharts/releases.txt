@@ -1,8 +1,4 @@
 {
-    "": {
-        "1969: The Velvet Underground Live With Lou Reed": -1,
-        "1969: The Velvet Underground With Lou Reed Live": -1
-    },
     "'74": {
         "The Best Of David Bowie, '69": -1
     },
@@ -1324,11 +1320,30 @@
         "Aspirin Sun": -1
     },
     "Emmylou Harris": {
+        "All I Intended To Be": 2008,
+        "Angel Band": 1987,
+        "Blue Kentucky Girl": 1979,
+        "BlueBird": 1989,
+        "Brand New Dance": 1990,
+        "Cimaaron": 1981,
+        "Cowgirls Prayer": 1993,
+        "Elite Hotel": 1975,
+        "Evangeline": 1981,
+        "Gliding Bird": 1970,
+        "Hard Bargain": 2011,
+        "Light of the Stable": 1979,
+        "Luxury Liner": 1976,
         "Old Yellow Moon": -1,
-        "Red Dirt Girl": -1,
-        "Stumble Into Grace": -1,
+        "Pieces Of The Sky": 1975,
+        "Quarter Moon in a Ten cent Town": 1978,
+        "Red Dirt Girl": 2000,
+        "Roses in the Snow": 1980,
+        "Stumble Into Grace": 2003,
+        "The Ballad of Sally Rose": 1985,
         "The 70's Studio Album Collection": -1,
-        "Wrecking Ball": -1
+        "Thirteen": 1986,
+        "White Shoes": 1983,
+        "Wrecking Ball": 1995
     },
     "English Teacher": {
         "This Could Be Texas": -1
@@ -4105,18 +4120,17 @@
         "New Clear Days": -1
     },
     "The Velvet Underground": {
+        "1969 Velvet Underground Live Volume 1": -1,
+        "1969 Velvet Underground Live Volume 2": -1,
         "Another View": -1,
         "Loaded": -1,
         "The Complete Matrix Tapes #1": -1,
         "The Complete Matrix Tapes #2": -1,
         "The Complete Matrix Tapes #3": -1,
         "The Complete Matrix Tapes #4": -1,
-        "The Velvet Underground": -1,
         "The Velvet Underground & Nico": -1,
-        "The Velvet Underground & Nico (45Th Anniversary)": -1,
-        "The Velvet Underground (45Th Anniversary)": -1,
         "V.U.": -1,
-        "White Light / White Heat (45Th Anniversary)": -1
+        "White Light / White Heat": -1
     },
     "The Very Best Of The Scaffold": {
         "Thank U Very Much": -1

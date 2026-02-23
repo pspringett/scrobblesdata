@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "H:\\dev\\scrobbles\\data\\.venv\\scripts\\python.exe"
+    "python.pythonPath": "H:\\dev\\scrobbles\\data\\.venv\\scripts\\python.exe",
+    "python-envs.pythonProjects": []
 }
