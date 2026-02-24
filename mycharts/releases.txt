@@ -1603,8 +1603,8 @@
         "Women in Music Pt. III": -1
     },
     "Haircut 100": {
-        "Greatest Hits Of Nick Heyward ": -1,
-        "Pelican West Plus": -1
+        "Greatest Hits Of Nick Heyward ": 1997,
+        "Pelican West Plus": 1982
     },
     "Haley Bonar": {
         "Impossible Dream": -1
@@ -2697,11 +2697,17 @@
         "The Boatman's Call": -1
     },
     "Nick Heyward": {
-        "Greatest Hits Of Nick Heyward ": -1,
-        "North Of A Miracle": -1,
-        "Tangled": -1,
-        "Woodland Echoes": -1,
-        "Woodland Echoes (Deluxe Edition)": -1
+        "From MOnday to Sunday": 1993,
+        "Greatest Hits Of Nick Heyward ": 1997,
+        "I Love You Avenue": 1988,
+        "North Of A Miracle": 1983,
+        "Open Sesame Seed": 2001,
+        "Pelican West": 1982,
+        "Postcards from Home": 1986,
+        "Tangled": 1995,
+        "The Apple Bed": 1998,
+        "The Mermaid and the Lighthouse Keeper": 2006,
+        "Woodland Echoes": 2017
     },
     "Nick Lowe": {
         "Jesus Of Cool (Deluxe Edition)": -1
