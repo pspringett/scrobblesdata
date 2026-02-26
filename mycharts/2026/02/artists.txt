@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     408            22            23           201
+     414            23            24           203
  1: (55) - The Belair Lip Bombs
 
 
@@ -8,11 +8,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (48) - Glyders
 
 
 
 
- 2: (44) - Glyders
 
  3: (42) - Vegas Water Taxi
 
@@ -42,9 +42,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (17) - Emma Swift
 10: (16) - Newdad
 
-
-11: (13) - Lloyd Cole and the Commotions
-12: (13) - The Fall
+11: (14) - The Fall
+12: (13) - Lloyd Cole and the Commotions
 13: (12) - Tift Merritt
 14: (12) - U2
 15: (11) - Lloyd Cole
@@ -60,3 +59,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 21: ( 3) - Roxy Music
 
 22: ( 1) - Bruce Springsteen
+23: ( 1) - The Schwa
