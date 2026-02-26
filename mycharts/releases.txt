@@ -956,7 +956,7 @@
     },
     "David Bowie": {
         "Aladdin Sane": 1973,
-        "Black Tie White Noiser": 1993,
+        "Black Tie White Noise": 1993,
         "Blackstar": 2016,
         "Cat People": -1,
         "Changesnowbowie": -1,
@@ -2764,7 +2764,6 @@
         "You Can't Hide Your Love Forever": 1982
     },
     "Orchestral Manoeuvres in the Dark": {
-        "Architecture & Morality [Bonus Tracks]": 1981,
         "Architecture And Morality": 1981,
         "Bauhaus Staircase": 2023,
         "Crush": 1985,
