@@ -1,6 +1,6 @@
 Specified year (2026), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     415            24            25           204
+     423            25            25           207
  1: (55) - The Belair Lip Bombs
 
 
@@ -9,12 +9,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  2: (48) - Glyders
+ 3: (47) - Vegas Water Taxi
 
 
 
 
 
- 3: (42) - Vegas Water Taxi
 
 
 
@@ -57,7 +57,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 19: ( 4) - Simple Minds
 20: ( 4) - The Cure
 21: ( 3) - Roxy Music
+22: ( 3) - Whitelands
 
-22: ( 1) - Bruce Springsteen
-23: ( 1) - The Schwa
-24: ( 1) - Whitelands
+23: ( 1) - Bruce Springsteen
+24: ( 1) - The Schwa
+25: ( 1) - Whitelands, Emma Anderson
