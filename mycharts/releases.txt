@@ -3058,14 +3058,27 @@
         "Western Skies": -1
     },
     "Rodney Crowell": {
-        "Acoustic Classics": -1,
-        "Close Ties": -1,
-        "Fate's Right Hand": -1,
-        "Sex And Gasoline": -1,
-        "Tarpaper Sky": -1,
-        "Texas": -1,
-        "The Houston Kid": -1,
-        "The Outsider": -1
+        "Acoustic Classics": 2018,
+        "Ain't Living Long Like This": 1978,
+        "Airline Highway": 2025,
+        "But What Will the Neigbours Think": 1980,
+        "Chrismas Everywheer": 2018,
+        "Close Ties": 2017,
+        "Diamonds % Dirt": 1988,
+        "Fate's Right Hand": 2003,
+        "Jewel of the South": 1995,
+        "Keys to the Highway": 1989,
+        "Let the Picture Paint Itself": 1994,
+        "Life is Messy": 1992,
+        "Rodney Crowell": 1981,
+        "Sex And Gasoline": 2008,
+        "Street Language": 1986,
+        "Tarpaper Sky": 2014,
+        "Texas": 2019,
+        "The Chicago Sessions": 2023,
+        "The Houston Kid": 2001,
+        "The Outsider": 2005,
+        "Triage": 2021
     },
     "Roky Erickson": {
         "Gremlins Have Pictures": -1
