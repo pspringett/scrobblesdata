@@ -3243,15 +3243,25 @@
         "Revolution Of Mind": -1
     },
     "Shelby Lynne": {
-        "Epic Recordings": -1,
-        "I Am Shelby Lynne (Bonus Track Version)": -1,
-        "I Can't Imagine": -1,
-        "Identity Crisis": -1,
-        "Just A Little Lovin'": -1,
-        "Not Dark Yet": -1,
-        "Revelation Road": -1,
-        "Suit Yourself": -1,
-        "Tears, Lies And Alibis": -1
+        "Consequences of the Crown": 2024,
+        "Epic Recordings": 2000,
+        "I Am Shelby Lynne (Bonus Track Version)": 1999,
+        "I Can't Imagine": 2015,
+        "Identity Crisis": 2003,
+        "Just A Little Lovin'": 2008,
+        "Love, Shelby": 2001,
+        "Not Dark Yet": 2017,
+        "Restless": 1995,
+        "Revelation Road": 2011,
+        "Shelby Lynne": 2020,
+        "Soft Talk": 1991,
+        "Suit Yourself": 2005,
+        "Sunrise": 1989,
+        "Tears, Lies And Alibis": 2010,
+        "Temptation": 1993,
+        "The Healing: A Tone Recordings": 2020,
+        "The Servant": 2021,
+        "Tough All Over": 1990
     },
     "Shelby Lynne, Allison Moorer": {
         "Not Dark Yet": -1
