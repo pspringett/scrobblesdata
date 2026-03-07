@@ -1,6 +1,6 @@
 Specified year (2026), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      41             5             5            38
+      50             7             7            47
 1: (13) - Whitelands
 
 
@@ -10,3 +10,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 3: ( 7) - Sharon Van Etten
 4: ( 6) - Lucinda Williams
 5: ( 6) - Wolf Alice
+6: ( 5) - Emma Swift
+7: ( 4) - Vegas Water Taxi
