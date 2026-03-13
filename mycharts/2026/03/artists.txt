@@ -1,25 +1,28 @@
 Specified year (2026), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     113             9             9            69
-1: (23) - Whitelands
-2: (23) - Wolf Alice
+     114            10            10            70
+ 1: (23) - Whitelands
+ 2: (23) - Wolf Alice
 
-3: (21) - Katherine Priddy
-
-
+ 3: (21) - Katherine Priddy
 
 
 
 
 
-4: (13) - Creedence Clearwater Revival
 
 
-5: (10) - Emma Swift
+ 4: (13) - Creedence Clearwater Revival
 
 
-6: ( 7) - Sharon Van Etten
-7: ( 6) - Lucinda Williams
-8: ( 6) - U2
+ 5: (10) - Emma Swift
 
-9: ( 4) - Vegas Water Taxi
+
+ 6: ( 7) - Sharon Van Etten
+ 7: ( 6) - Lucinda Williams
+ 8: ( 6) - U2
+
+ 9: ( 4) - Vegas Water Taxi
+
+
+10: ( 1) - Tift Merritt
