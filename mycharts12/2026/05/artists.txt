@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2814           113           158          1140
+    2826           114           159          1143
   1: (142) - Emma Swift
 
 
@@ -106,12 +106,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  25: ( 43) - R.E.M.
+ 26: ( 42) - Whitelands
 
 
+ 27: ( 39) - Martin Stephenson
 
- 26: ( 39) - Martin Stephenson
 
- 27: ( 37) - Whitelands
 
  28: ( 35) - Katherine Priddy
  29: ( 34) - Melody'S Echo Chamber
@@ -126,13 +126,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: ( 26) - The Weather Station
  33: ( 25) - Everything But the Girl
  34: ( 24) - The Beach Boys
+ 35: ( 24) - The Fall
 
- 35: ( 22) - David Bowie
- 36: ( 22) - U2
+ 36: ( 22) - David Bowie
+ 37: ( 22) - U2
 
- 37: ( 20) - Altered Images
- 38: ( 20) - Sharon Van Etten
- 39: ( 20) - The Fall
+ 38: ( 20) - Altered Images
+ 39: ( 20) - Sharon Van Etten
  40: ( 19) - Aztec Camera
  41: ( 19) - Patty Griffin
  42: ( 18) - Prefab Sprout
@@ -170,41 +170,42 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  73: (  4) - Rod Stewart
  74: (  4) - The Human League
  75: (  3) - Andy Golledge
- 76: (  3) - Florence + the Machine
- 77: (  3) - Patti Smith
- 78: (  3) - Pulp, Chilly Gonzales
- 79: (  2) - Ricky Nelson, the Stone Canyon Band
- 80: (  1) - Ac Acoustics
- 81: (  1) - Billy Idol
- 82: (  1) - Blue Orchids
- 83: (  1) - Brian Eno & David Byrne
- 84: (  1) - Brigitte Calls Me Baby
- 85: (  1) - Bruce Springsteen
- 86: (  1) - Culture Club
- 87: (  1) - Dexys Midnight Runners
- 88: (  1) - Girls At Our Best!
- 89: (  1) - Hurrah!
- 90: (  1) - Jane
- 91: (  1) - Joe Jackson
- 92: (  1) - Level 42
- 93: (  1) - Marine Girls
- 94: (  1) - Nouvelle Vague, Marina Céleste
- 95: (  1) - Simple Minds, Kt Tunstall
- 96: (  1) - Soft Cell
- 97: (  1) - Sylvan Esso, Collections of Colonies of Bees
- 98: (  1) - The Buggles
- 99: (  1) - The Go-go's
-100: (  1) - The Massed Carnaby Street John Cooper Clarkes
-101: (  1) - The Monochrome Set
-102: (  1) - The Motels
-103: (  1) - The Nightingales
-104: (  1) - The Police
-105: (  1) - The Schwa
-106: (  1) - Trio
-107: (  1) - Turnstile
-108: (  1) - Tv21
-109: (  1) - UB40
-110: (  1) - Visage
-111: (  1) - Wang Chung
-112: (  1) - When in Rome
-113: (  1) - Xtc
+ 76: (  3) - Eyeless in Gaza
+ 77: (  3) - Florence + the Machine
+ 78: (  3) - Patti Smith
+ 79: (  3) - Pulp, Chilly Gonzales
+ 80: (  2) - Ricky Nelson, the Stone Canyon Band
+ 81: (  1) - Ac Acoustics
+ 82: (  1) - Billy Idol
+ 83: (  1) - Blue Orchids
+ 84: (  1) - Brian Eno & David Byrne
+ 85: (  1) - Brigitte Calls Me Baby
+ 86: (  1) - Bruce Springsteen
+ 87: (  1) - Culture Club
+ 88: (  1) - Dexys Midnight Runners
+ 89: (  1) - Girls At Our Best!
+ 90: (  1) - Hurrah!
+ 91: (  1) - Jane
+ 92: (  1) - Joe Jackson
+ 93: (  1) - Level 42
+ 94: (  1) - Marine Girls
+ 95: (  1) - Nouvelle Vague, Marina Céleste
+ 96: (  1) - Simple Minds, Kt Tunstall
+ 97: (  1) - Soft Cell
+ 98: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 99: (  1) - The Buggles
+100: (  1) - The Go-go's
+101: (  1) - The Massed Carnaby Street John Cooper Clarkes
+102: (  1) - The Monochrome Set
+103: (  1) - The Motels
+104: (  1) - The Nightingales
+105: (  1) - The Police
+106: (  1) - The Schwa
+107: (  1) - Trio
+108: (  1) - Turnstile
+109: (  1) - Tv21
+110: (  1) - UB40
+111: (  1) - Visage
+112: (  1) - Wang Chung
+113: (  1) - When in Rome
+114: (  1) - Xtc
