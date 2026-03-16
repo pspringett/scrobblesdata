@@ -1,14 +1,14 @@
 Specified year (2026), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     170            13            13           102
+     178            13            13           104
  1: (29) - Katherine Priddy
  2: (28) - Whitelands
 
+ 3: (26) - Creedence Clearwater Revival
 
 
+ 4: (23) - Wolf Alice
 
- 3: (23) - Wolf Alice
- 4: (22) - Creedence Clearwater Revival
 
 
  5: (19) - Eyeless in Gaza
@@ -21,12 +21,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: (10) - Emma Swift
- 7: ( 9) - The Fall
+ 7: (10) - U2
+ 8: ( 9) - The Fall
 
- 8: ( 7) - Sharon Van Etten
- 9: ( 6) - Lucinda Williams
-10: ( 6) - Newdad
-11: ( 6) - U2
+ 9: ( 7) - Sharon Van Etten
+10: ( 6) - Lucinda Williams
+11: ( 6) - Newdad
 
 12: ( 4) - Vegas Water Taxi
 
