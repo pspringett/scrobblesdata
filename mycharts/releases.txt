@@ -4521,9 +4521,9 @@
         "Joy": -1
     },
     "Whitelands": {
-        "Compliation": 2019,
+        "Compilation": 2019,
+        "Nightbound Eyes Are Blind To The Day": 2024,
         "Old News": 2018,
-        "Night-bound Eyes are Blind to the Day": 2024,
         "Sunlight Echoes": 2026,
         "Whitelands": 2018
     },
