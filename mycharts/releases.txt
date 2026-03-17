@@ -494,6 +494,7 @@
         "70S 100 Hits": -1
     },
     "Bob Dylan": {
+        "": -1,
         "Another Side of Bob Dylan": 1964,
         "Before The Flood": 1974,
         "Before The Flood (Disc 1)": 1974,
@@ -638,7 +639,8 @@
         "Born To Run": -1,
         "Greetings From Asbury Park, N.J.": -1,
         "Santa Claus Is Comin' To Town": -1,
-        "Springsteen On Broadway": -1
+        "Springsteen On Broadway": -1,
+        "Streets Of Minneapolis": -1
     },
     "Bryan Adams": {
         "Get Up (Deluxe)": -1
@@ -831,7 +833,7 @@
         "The Spangle Maker": 1984,
         "Tiny Dynamine": 1985,
         "Treasure": 1984,
-        "Victorialand":1986
+        "Victorialand": 1986
     },
     "Collected Recordings 1988": {
         "Smile If You Want To (In New York": -1
@@ -875,23 +877,23 @@
         "All That Reckoning": 2018,
         "AtlThe End Of Al Paths Taken": 2007,
         "Black Eyed Man": 1992,
+        "Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons)": -1,
+        "Demons: The Nomad Series, Vol. 2": 2011,
         "Early 21st Century Blues": 2005,
         "Ghosts": 2020,
-        "Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons)": -1,
         "Lay It Down": 1996,
         "Miles From Our Home": 1998,
-        "Open": 2001,
         "One Soul Now": 2004,
+        "Open": 2001,
         "Pale Sun Crescent Moon": 1993,
-        "Sharon": 2022,
         "Renmin Park: The Nomad Series, Vol. 1": 2010,
-        "Demons: The Nomad Series, Vol. 2": 2011,
+        "Sharon": 2022,
         "Sing In My Meadow: The Nomad Series, Vol. 3": 2011,
-        "The Wilderness: The Nomad Series, Vol. 4": 2012,
         "Songs Of The Recollection": 2022,
         "Such Ferocious Beauty": 2023,
         "The Caution Horses": 1990,
         "The Trinity Session": 1988,
+        "The Wilderness: The Nomad Series, Vol. 4": 2012,
         "Trinity Revisited": 2007,
         "Whites Off Earth now!!": 1986
     },
@@ -980,7 +982,6 @@
         "Montreal 1983: Cd1": 1983,
         "Montreal 1983: Cd2": 1983,
         "Never Let Me Down": 1987,
-        "outside": 1995,
         "Pin Ups": 1973,
         "Reality": 2003,
         "Scary Monsters (And Super Creeps)": 1980,
@@ -999,7 +1000,8 @@
         "Vh1 Storytellers": -1,
         "Welcome To The Blackout (Live London '78)": 1978,
         "Young Americans": 1975,
-        "[Unknown Album]": -1
+        "[Unknown Album]": -1,
+        "outside": 1995
     },
     "David Byrne": {
         "American Utopia": -1
@@ -1210,8 +1212,8 @@
         "Understated": 2013
     },
     "Eilen Jewell": {
-        "Butcher Holler: A Tribute to Loretta Lynn": 2010,
         "Boundary County": 2006,
+        "Butcher Holler: A Tribute to Loretta Lynn": 2010,
         "Down Hearted Blues": 2017,
         "Get Behind The Wheel": 2023,
         "Green River": 2020,
@@ -1294,11 +1296,11 @@
         "Get Happy!!": 1980,
         "Get Happy!! Cd2": 1980,
         "Goodbye Cruel World": 1984,
-        "Imperial Bedroom": 1982,  
-        "King Of America": 1986,  
+        "Imperial Bedroom": 1982,
+        "King Of America": 1986,
         "Live 1978": 1978,
-        "Spanish Model": 2021,
         "Punch The Clock": 1983,
+        "Spanish Model": 2021,
         "This Year's Model": 1978,
         "Trust": 1981
     },
@@ -1310,6 +1312,7 @@
     },
     "Emma Swift": {
         "Blonde On The Tracks": -1,
+        "Down And Out In Party City": -1,
         "Home Recordings": -1,
         "No Happy Endings": -1,
         "Nothing And Forever": -1,
@@ -1339,8 +1342,8 @@
         "Red Dirt Girl": 2000,
         "Roses in the Snow": 1980,
         "Stumble Into Grace": 2003,
-        "The Ballad of Sally Rose": 1985,
         "The 70's Studio Album Collection": -1,
+        "The Ballad of Sally Rose": 1985,
         "Thirteen": 1986,
         "White Shoes": 1983,
         "Wrecking Ball": 1995
@@ -1537,6 +1540,9 @@
     "Gladys Knight & the Pips": {
         "Ultimate Collection: Gladys Knight & The Pips": -1
     },
+    "Glyders": {
+        "Forever": 2025
+    },
     "Goat Girl": {
         "On All Fours": -1
     },
@@ -1604,7 +1610,8 @@
     },
     "Haircut 100": {
         "Greatest Hits Of Nick Heyward ": 1997,
-        "Pelican West Plus": 1982
+        "Pelican West Plus": 1982,
+        "The Very Best Of": -1
     },
     "Haley Bonar": {
         "Impossible Dream": -1
@@ -1775,6 +1782,7 @@
         "Pearl": -1
     },
     "Japan": {
+        "The Very Best Of": -1,
         "Tin Drum": -1
     },
     "Jarv Is...": {
@@ -1955,8 +1963,8 @@
         "I Believe In You, My Honeydew": 2025,
         "Josh Ritter": 2000,
         "See Here, I Have Built You A Mansion (Rare And Unreleased)": 2020,
-        "So Runs The World Away": 2010,
         "Sermon On The Rocks": 2015,
+        "So Runs The World Away": 2010,
         "Spectral Lines": 2023,
         "The Animal Years": 2006,
         "The Beast In His Tracks": 2013,
@@ -1975,6 +1983,7 @@
         "Closer": -1,
         "Die Kalten Winde Des Winters": -1,
         "Substance": -1,
+        "Substance 1987": -1,
         "The Best Of": -1,
         "Total": -1,
         "Unknown Pleasures": -1,
@@ -2041,7 +2050,9 @@
         "The Kick Inside (2018 Remaster)": -1
     },
     "Katherine Priddy": {
-        "These Frightening Machines": -1
+        "The Eternal Rocks Beneath": 2021,
+        "The Pendulum Swing": 2024,
+        "These Frightening Machines": 2026
     },
     "Kathleen Edwards": {
         "Failer": -1
@@ -2313,8 +2324,8 @@
         "The Ghosts of Highway 20": 2016,
         "Vanished Gardens": 2018,
         "West": 2007,
-        "World's Gone Wrong": 2026,
-        "World Without Tears": 2003
+        "World Without Tears": 2003,
+        "World's Gone Wrong": 2026
     },
     "Lucy Dacus": {
         "Historian": -1,
@@ -2403,11 +2414,11 @@
         "Metro Music": -1
     },
     "Martin Stephenson": {
-        "Airdie": 2004,                
-        "Beyond Leap": 2011,                
+        "Airdie": 2004,
+        "Beyond Leap": 2011,
         "Beyond The Leap Beyond The Law": 1997,
-        "Boys Heart": 2011,
         "Bolivia": 2011,
+        "Boys Heart": 2011,
         "Brady Square": 2019,
         "Cafe of Tiny Kindnesses": 2012,
         "Church & The...": -1,
@@ -2442,7 +2453,7 @@
     },
     "Martin Stephenson and the Daintees": {
         "Back In The Day": -1,
-        "Bayswater Road":2017,
+        "Bayswater Road": 2017,
         "Boat To Bolivia": 1986,
         "California Star": 2012,
         "Chi chi And the Jaguar": 2019,
@@ -2457,8 +2468,8 @@
         "Salutation Road": 1990,
         "The Boy's Heart": 1992,
         "There Comes A Time": 1993,
-        "You Belong To Blue": 2023,
-        "Western Eagle": 2008
+        "Western Eagle": 2008,
+        "You Belong To Blue": 2023
     },
     "Martin Stephenson, John Perry": {
         "New Wave Connection": -1
@@ -2504,7 +2515,8 @@
         "Breathe In, Breath Out": -1
     },
     "Melody'S Echo Chamber": {
-        "Bon Voyage": -1
+        "Bon Voyage": -1,
+        "Unclouded": -1
     },
     "Men At Work": {
         "Business As Usual": -1
@@ -2755,15 +2767,18 @@
         "Nijimusi": -1
     },
     "Orange Juice": {
+        "": -1,
         "Coals To Newcastle": 2010,
         "Rip It Up": 1982,
         "Texas Fever": 1984,
         "The Esteemed Orange Juice": 1992,
         "The Glasgow School": 2005,
         "The Orange Juice": 1984,
+        "The Very Best Of": -1,
         "You Can't Hide Your Love Forever": 1982
     },
     "Orchestral Manoeuvres in the Dark": {
+        "Architecture & Morality": -1,
         "Architecture And Morality": 1981,
         "Bauhaus Staircase": 2023,
         "Crush": 1985,
@@ -2903,7 +2918,6 @@
     },
     "Prefab Sprout": {
         "Andromeda Heights": 1997,
-        "crimson red": 2013,
         "From Langley Park To Memphis": 1988,
         "I Trawl The Megahertz": 2003,
         "Jordan: The Comeback": 1990,
@@ -2913,7 +2927,8 @@
         "Swoon": 1984,
         "The Collection": 2001,
         "The Gunman And Other Stories": 2001,
-        "Youtube": -1
+        "Youtube": -1,
+        "crimson red": 2013
     },
     "Pretenders": {
         "Get Close (Expanded & Remastered)": -1,
@@ -3118,7 +3133,7 @@
         "Flesh And Blood": 1980,
         "For Your Pleasure": 1973,
         "Manifesto": 1979,
-        "More Than This: The Best Of Bryan Ferry ": 1995        ,
+        "More Than This: The Best Of Bryan Ferry ": 1995,
         "Roxy Music": 1972,
         "Siren": 1975,
         "Stranded": 1973
@@ -3209,7 +3224,6 @@
         "Til The Band Comes In": 1970,
         "Tilt": 1995,
         "We Had It All": 1974
-
     },
     "Scritti Politti": {
         "Early": -1,
@@ -3293,7 +3307,7 @@
         "Black and White 050505": 2005,
         "Celebrate (Greatest Hits / Expanded Edition)": -1,
         "Celebration": 1982,
-        "Cry" : 2002,
+        "Cry": 2002,
         "Direction Of The Heart": 2022,
         "Early Gold": 2003,
         "Empires And Dance": 1980,
@@ -3309,7 +3323,7 @@
         "Reel To Real Cacophony": 1979,
         "Sons And Fascination/Sister Feelings Call": 1981,
         "Sparkle In The Rain": 1984,
-        "Street Fighting Years" : 1989,
+        "Street Fighting Years": 1989,
         "Time Out Of Mind": -1,
         "Up All Night": 2023,
         "Walk Between Worlds": 2018
@@ -3527,6 +3541,7 @@
         "Dandy In The Underworld (Deluxe Edition)": -1977,
         "Electric Warrior": 1971,
         "Futuristic Dragon": 1976,
+        "Futuristic Dragon (Deluxe Edition)": -1,
         "Get It On: The Collection": 1986,
         "Hot Love (Alternative Version)": 2020,
         "Light of Love": 1974,
@@ -3627,7 +3642,8 @@
         "Yellow Submarine": 1969
     },
     "The Belair Lip Bombs": {
-        "Again": -1
+        "Again": 2025,
+        "Lush Life": 2023
     },
     "The Best Of": {
         "Favourite Songs": -1
@@ -4050,6 +4066,9 @@
         "Holiday Pop": -1,
         "Weihnachten Workout": -1
     },
+    "The Schwa": {
+        "Gotta Get Away": -1
+    },
     "The Sea and Cake": {
         "Any Day": -1
     },
@@ -4105,7 +4124,8 @@
         "Introducing The Style Council": 1983,
         "Modernism: A New Decade": 1989,
         "Our Favourite Shop": 1985,
-        "The Cost Of Loving": 1987
+        "The Cost Of Loving": 1987,
+        "our favourite shop": -1
     },
     "The Sugarcubes": {
         "Life's Too Good": -1
@@ -4369,9 +4389,10 @@
         "Heavy Light": -1
     },
     "U2": {
-        "All That you Can't Leave Behind": 2000,
         "Achtung Baby": 1991,
+        "All That you Can't Leave Behind": 2000,
         "Boy": 1980,
+        "Days Of Ash Ep": -1,
         "Electrical Storm (Remastered 2024)": -1,
         "How To Dismantle An Atom Bomb": 2004,
         "No Line On The Horizon": 2009,
@@ -4417,6 +4438,9 @@
         "Return of the Grievous Angel: A Tribute to Gram Parsons": -1,
         "The Psychedelic Scene": -1,
         "The Story Of Trojan Records": -1
+    },
+    "Vegas Water Taxi": {
+        "Long Time Caller, First Time Listener": 2026
     },
     "Vibracobra23 Dulosis": {
         "": -1
@@ -4495,6 +4519,13 @@
     "White Fence": {
         "I Have To Feed Larry's Hawk": -1,
         "Joy": -1
+    },
+    "Whitelands": {
+        "Compliation": 2019,
+        "Old News": 2018,
+        "Night-bound Eyes are Blind to the Day": 2024,
+        "Sunlight Echoes": 2026,
+        "Whitelands": 2018
     },
     "William Tyler": {
         "Goes West": -1,
