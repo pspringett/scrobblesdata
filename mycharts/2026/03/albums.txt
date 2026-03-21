@@ -1,6 +1,6 @@
 Specified year (2026), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     215            15            16           120
+     221            16            17           126
  1: (31) - Bayou Country - Creedence Clearwater Revival
  2: (31) - The Clearing - Wolf Alice
  3: (30) - Sunlight Echoes - Whitelands
@@ -30,10 +30,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 10: ( 7) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 11: ( 6) -  Grotesque (After The Gramme) - The Fall
 12: ( 6) - Altar - Newdad
-13: ( 6) - World's Gone Wrong - Lucinda Williams
+13: ( 6) * The Trinity Session - Cowboy Junkies
+14: ( 6) - World's Gone Wrong - Lucinda Williams
 
 
-14: ( 3) * Happy Birthday - Altered Images
+15: ( 3) * Happy Birthday - Altered Images
 
-15: ( 1) - Never Never - The Assembly
-16: ( 1) - Tambourine - Tift Merritt
+16: ( 1) - Never Never - The Assembly
+17: ( 1) - Tambourine - Tift Merritt
