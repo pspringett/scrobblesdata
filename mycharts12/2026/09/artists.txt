@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1632            70           111           765
+    1441            65           107           727
  1: (110) - Josh Ritter
 
 
@@ -24,6 +24,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 3: ( 87) - Wolf Alice
+
+
+
+
+
+
+
+
+
+
+ 4: ( 76) - Creedence Clearwater Revival
 
 
 
@@ -35,38 +47,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
- 3: ( 75) - The Belair Lip Bombs
-
+ 5: ( 64) - The Go-Betweens
 
 
 
 
 
+ 6: ( 58) - Emma Swift
+ 7: ( 57) - Newdad
 
- 4: ( 67) - Newdad
-
-
- 5: ( 64) - Emma Swift
- 6: ( 64) - The Go-Betweens
-
- 7: ( 62) - Creedence Clearwater Revival
- 8: ( 62) - Heavenly
- 9: ( 61) - Lucinda Williams
+ 8: ( 55) - Chaparelle
+ 9: ( 55) - Orange Juice
 
 
 
 
-10: ( 56) - Wolf Alice
-11: ( 55) - Chaparelle
-12: ( 55) - Orange Juice
 
-
-
-13: ( 51) - Vegas Water Taxi
-
-
-14: ( 48) - Glyders
+10: ( 49) - Katherine Priddy
 
 
 
@@ -74,73 +71,69 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+11: ( 41) - Heavenly
 
-15: ( 39) - Martin Stephenson
+12: ( 39) - Martin Stephenson
 
 
-16: ( 36) - Edwyn Collins
+13: ( 36) - Edwyn Collins
+14: ( 35) - Whitelands
+15: ( 34) - Hem
 
-17: ( 34) - Hem
-18: ( 34) - Melody'S Echo Chamber
+16: ( 32) - New Order
 
-19: ( 32) - New Order
+17: ( 30) - Bob Dylan
+18: ( 29) - Lucinda Williams
+19: ( 28) - Echo & the Bunnymen
 
-20: ( 30) - Bob Dylan
+20: ( 26) - Devine & Statton
+21: ( 26) - Eyeless in Gaza
 
-21: ( 28) - Echo & the Bunnymen
+22: ( 24) - Wet Leg
 
-22: ( 26) - Devine & Statton
 
-23: ( 24) - Wet Leg
-
-24: ( 22) - Simple Minds
-
-25: ( 20) - The Fall
+23: ( 21) - The Fall
+24: ( 20) - Sharon Van Etten
+25: ( 20) - The Belair Lip Bombs
 26: ( 19) - Robert Forster
-27: ( 19) - Suzanne Vega
-28: ( 19) - The Burning Hell
-29: ( 19) - Tift Merritt
-30: ( 18) - Prefab Sprout
+27: ( 18) - Simple Minds
 
+28: ( 16) - Altered Images
+29: ( 15) - Vegas Water Taxi
+30: ( 14) - Paul Weller
+31: ( 13) - Emmylou Harris
+32: ( 13) - Haircut 100
+33: ( 12) - David Bowie
+34: ( 12) - Everything But the Girl
+35: ( 12) - Jimi Hendrix
 
-31: ( 15) - Lloyd Cole and the Commotions
-32: ( 14) - Katherine Priddy
-33: ( 14) - Paul Weller
-34: ( 14) - Whitelands
-35: ( 13) - Emmylou Harris
-36: ( 13) - Haircut 100
-37: ( 13) - Sharon Van Etten
-38: ( 12) - Altered Images
-39: ( 12) - David Bowie
-40: ( 12) - Everything But the Girl
-41: ( 12) - Jimi Hendrix
-42: ( 12) - U2
-43: ( 11) - Lloyd Cole
-44: ( 10) - Heaven 17
-45: ( 10) - It'S Immaterial
-46: ( 10) - John Cooper Clarke
-47: ( 10) - Mercy Girl
-48: ( 10) - The Sundays
-49: (  9) - Eliza Gilkyson
-50: (  9) - The Rolling Stones
-
-51: (  7) - Leonard Cohen
-52: (  6) - Aztec Camera
-53: (  5) - The Zombies
-54: (  4) - B.E.F.
-55: (  4) - Rod Stewart
-56: (  4) - The Cure
-57: (  4) - The Weather Station
-58: (  3) - Florence + the Machine
-59: (  3) - Patti Smith
-60: (  3) - Roxy Music
-61: (  2) - Patty Griffin
-62: (  2) - Weekend
-63: (  1) - Ac Acoustics
-64: (  1) - Brian Eno & David Byrne
-65: (  1) - Brigitte Calls Me Baby
-66: (  1) - Bruce Springsteen
-67: (  1) - Sylvan Esso, Collections of Colonies of Bees
-68: (  1) - The Massed Carnaby Street John Cooper Clarkes
-69: (  1) - The Schwa
-70: (  1) - Xtc
+36: ( 10) - Heaven 17
+37: ( 10) - It'S Immaterial
+38: ( 10) - John Cooper Clarke
+39: ( 10) - Mercy Girl
+40: ( 10) - The Sundays
+41: ( 10) - U2
+42: (  9) - Eliza Gilkyson
+43: (  9) - Suzanne Vega
+44: (  8) - The Burning Hell
+45: (  8) - Tift Merritt
+46: (  7) - Leonard Cohen
+47: (  6) - Aztec Camera
+48: (  6) - Cowboy Junkies
+49: (  5) - The Zombies
+50: (  4) - B.E.F.
+51: (  4) - Rod Stewart
+52: (  4) - The Weather Station
+53: (  3) - Anne Mccue
+54: (  3) - Florence + the Machine
+55: (  3) - Patti Smith
+56: (  2) - Lloyd Cole and the Commotions
+57: (  2) - Patty Griffin
+58: (  2) - Weekend
+59: (  1) - Ac Acoustics
+60: (  1) - Brian Eno & David Byrne
+61: (  1) - Brigitte Calls Me Baby
+62: (  1) - Sylvan Esso, Collections of Colonies of Bees
+63: (  1) - The Assembly
+64: (  1) - The Massed Carnaby Street John Cooper Clarkes
+65: (  1) - Xtc

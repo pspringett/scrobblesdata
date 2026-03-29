@@ -1,7 +1,7 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2256            83           135           996
- 1: (126) - Suzanne Vega
+    2065            79           131           963
+ 1: (136) - Wolf Alice
 
 
 
@@ -9,7 +9,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (118) - Emma Swift
 
 
 
@@ -17,12 +16,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: (110) - Josh Ritter
 
 
 
 
- 4: (105) - Wolf Alice
+
+ 2: (116) - Suzanne Vega
+
+
+
+ 3: (112) - Emma Swift
+
+ 4: (110) - Josh Ritter
+
+
+
+
+
 
 
 
@@ -33,8 +43,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 6: ( 94) - The Burning Hell
- 7: ( 93) - Martin Stephenson and the Daintees
+
+ 6: ( 93) - Martin Stephenson and the Daintees
+
+
+
+
+
+
+
+
+
+ 7: ( 83) - The Burning Hell
+
+
+
+
+
+
+ 8: ( 76) - Creedence Clearwater Revival
 
 
 
@@ -46,13 +73,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 9: ( 64) - Orange Juice
+10: ( 64) - The Go-Betweens
 
 
 
 
 
 
- 8: ( 75) - The Belair Lip Bombs
+11: ( 57) - Newdad
+
+12: ( 55) - Chaparelle
+
+
+13: ( 52) - Bob Dylan
+
+
+14: ( 49) - Katherine Priddy
 
 
 
@@ -60,109 +97,78 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 9: ( 67) - Newdad
-
-
-10: ( 64) - Orange Juice
-11: ( 64) - The Go-Betweens
-
-12: ( 62) - Creedence Clearwater Revival
-13: ( 62) - Heavenly
-14: ( 61) - Lucinda Williams
+15: ( 41) - Heavenly
+16: ( 41) - Wet Leg
+17: ( 40) - Simple Minds
+18: ( 39) - Martin Stephenson
 
 
 
+19: ( 35) - Whitelands
+20: ( 34) - Hem
+
+21: ( 32) - New Order
 
 
-15: ( 55) - Chaparelle
+22: ( 29) - Lucinda Williams
+23: ( 28) - Echo & the Bunnymen
+24: ( 28) - Robert Forster
+25: ( 27) - Roxy Music
+26: ( 26) - Devine & Statton
+27: ( 26) - Eyeless in Gaza
+28: ( 26) - The Weather Station
 
-
-16: ( 52) - Bob Dylan
-17: ( 51) - Vegas Water Taxi
-
-
-18: ( 48) - Glyders
-
-
-
-19: ( 44) - Simple Minds
-
-
-20: ( 41) - Wet Leg
-
-21: ( 39) - Martin Stephenson
-
-
-
-
-22: ( 34) - Hem
-23: ( 34) - Melody'S Echo Chamber
-
-24: ( 32) - New Order
-
-25: ( 30) - Roxy Music
-
-26: ( 28) - Echo & the Bunnymen
-27: ( 28) - Robert Forster
-
-28: ( 26) - Devine & Statton
-29: ( 26) - The Weather Station
-
+29: ( 24) - Altered Images
 30: ( 24) - Everything But the Girl
 
 31: ( 22) - David Bowie
-
-32: ( 20) - Altered Images
+32: ( 21) - The Fall
 33: ( 20) - Pulp
-34: ( 20) - The Fall
-35: ( 19) - Aztec Camera
-36: ( 19) - Patty Griffin
-37: ( 19) - Tift Merritt
-38: ( 18) - Prefab Sprout
+34: ( 20) - Sharon Van Etten
+35: ( 20) - The Belair Lip Bombs
+36: ( 19) - Aztec Camera
+37: ( 19) - Patty Griffin
 
-39: ( 16) - T. Rex
-40: ( 16) - U2
-41: ( 15) - Lloyd Cole and the Commotions
-42: ( 14) - Katherine Priddy
-43: ( 14) - Paul Weller
-44: ( 14) - Whitelands
-45: ( 13) - Emmylou Harris
-46: ( 13) - Haircut 100
-47: ( 13) - Sharon Van Etten
-48: ( 12) - Jimi Hendrix
-49: ( 11) - Horsegirl
-50: ( 11) - Lloyd Cole
-51: ( 11) - The Velvet Underground
-52: ( 10) - Heaven 17
-53: ( 10) - It'S Immaterial
-54: ( 10) - John Cooper Clarke
-55: ( 10) - Mercy Girl
-56: ( 10) - The Sundays
-57: (  9) - Eliza Gilkyson
-58: (  9) - The Rolling Stones
 
-59: (  7) - JT Nero
-60: (  7) - Leonard Cohen
-61: (  6) - Lauren Mayberry
-62: (  5) - The Zombies
-63: (  4) - B.E.F.
-64: (  4) - Rod Stewart
-65: (  4) - The Cure
-66: (  3) - Andy Golledge
-67: (  3) - Florence + the Machine
-68: (  3) - Patti Smith
-69: (  3) - R.E.M.
-70: (  2) - Pulp, Chilly Gonzales
-71: (  2) - Weekend
-72: (  1) - ABC
-73: (  1) - Ac Acoustics
-74: (  1) - Brian Eno & David Byrne
-75: (  1) - Brigitte Calls Me Baby
-76: (  1) - Bruce Springsteen
-77: (  1) - Nouvelle Vague, Marina Céleste
-78: (  1) - Simple Minds, Kt Tunstall
-79: (  1) - Sylvan Esso, Collections of Colonies of Bees
-80: (  1) - The Massed Carnaby Street John Cooper Clarkes
-81: (  1) - The Schwa
-82: (  1) - Visage
-83: (  1) - Xtc
+38: ( 16) - T. Rex
+39: ( 15) - Vegas Water Taxi
+40: ( 14) - Paul Weller
+41: ( 14) - U2
+42: ( 13) - Emmylou Harris
+43: ( 13) - Haircut 100
+44: ( 12) - Jimi Hendrix
+45: ( 11) - Horsegirl
+46: ( 11) - The Velvet Underground
+47: ( 10) - Heaven 17
+48: ( 10) - It'S Immaterial
+49: ( 10) - John Cooper Clarke
+50: ( 10) - Mercy Girl
+51: ( 10) - The Sundays
+52: (  9) - Eliza Gilkyson
+53: (  8) - Tift Merritt
+54: (  7) - JT Nero
+55: (  7) - Leonard Cohen
+56: (  6) - Cowboy Junkies
+57: (  6) - Lauren Mayberry
+58: (  5) - The Zombies
+59: (  4) - B.E.F.
+60: (  4) - Rod Stewart
+61: (  3) - Andy Golledge
+62: (  3) - Anne Mccue
+63: (  3) - Florence + the Machine
+64: (  3) - Patti Smith
+65: (  3) - R.E.M.
+66: (  2) - Lloyd Cole and the Commotions
+67: (  2) - Pulp, Chilly Gonzales
+68: (  2) - Weekend
+69: (  1) - ABC
+70: (  1) - Ac Acoustics
+71: (  1) - Brian Eno & David Byrne
+72: (  1) - Brigitte Calls Me Baby
+73: (  1) - Nouvelle Vague, Marina Céleste
+74: (  1) - Simple Minds, Kt Tunstall
+75: (  1) - Sylvan Esso, Collections of Colonies of Bees
+76: (  1) - The Assembly
+77: (  1) - The Massed Carnaby Street John Cooper Clarkes
+78: (  1) - Visage
+79: (  1) - Xtc
