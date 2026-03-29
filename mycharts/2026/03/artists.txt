@@ -1,6 +1,6 @@
 Specified year (2026), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     255            18            21           150
+     256            18            21           150
  1: (35) - Katherine Priddy
  2: (34) - Creedence Clearwater Revival
 
@@ -24,9 +24,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (15) - The Fall
 
 
-
- 7: (11) - Echo & the Bunnymen
- 8: (11) - Emma Swift
+ 7: (12) - Emma Swift
+ 8: (11) - Echo & the Bunnymen
  9: (11) - Vegas Water Taxi
 10: (10) - U2
 
