@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3267           130           179          1307
+    3056           126           174          1262
   1: (154) - Edwyn Collins
 
 
@@ -12,32 +12,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   2: (146) - Josh Ritter
 
 
-  3: (143) - Emma Swift
-
-
-
-
-
-
-  4: (136) - Wolf Alice
-
-
-
-
-
-
-
-
-
-  5: (126) - Suzanne Vega
-
-
-
-
-
-
-
-  6: (118) - Chaparelle
 
 
 
@@ -49,8 +23,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: (132) - Emma Swift
 
 
+
+
+
+  4: (126) - Suzanne Vega
+
+
+
+
+
+
+
+  5: (118) - Chaparelle
+
+
+
+
+
+
+
+
+
+
+
+
+  6: (105) - Wolf Alice
 
 
 
@@ -62,9 +62,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  8: ( 93) - Creedence Clearwater Revival
-  9: ( 93) - Martin Stephenson and the Daintees
- 10: ( 92) - Simple Minds
+  8: ( 93) - Martin Stephenson and the Daintees
+  9: ( 92) - Simple Minds
 
 
 
@@ -73,164 +72,160 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 11: ( 83) - Robert Forster
+ 10: ( 83) - Robert Forster
 
 
 
 
- 12: ( 78) - Pulp
+ 11: ( 78) - Pulp
 
 
- 13: ( 75) - The Belair Lip Bombs
- 14: ( 75) - The Go-Betweens
+ 12: ( 75) - The Belair Lip Bombs
+ 13: ( 75) - The Go-Betweens
 
- 15: ( 73) - Newdad
- 16: ( 73) - Wet Leg
-
-
- 17: ( 70) - Roxy Music
+ 14: ( 73) - Wet Leg
 
 
- 18: ( 67) - Lucinda Williams
+ 15: ( 70) - Roxy Music
 
 
- 19: ( 64) - Bob Dylan
- 20: ( 64) - Orange Juice
-
- 21: ( 62) - Heavenly
- 22: ( 62) - Vegas Water Taxi
- 23: ( 61) - Horsegirl
+ 16: ( 67) - Newdad
 
 
+ 17: ( 64) - Bob Dylan
+ 18: ( 64) - Orange Juice
 
- 24: ( 57) - Hem
-
-
- 25: ( 54) - R.E.M.
+ 19: ( 62) - Creedence Clearwater Revival
+ 20: ( 62) - Heavenly
+ 21: ( 61) - Horsegirl
+ 22: ( 61) - Lucinda Williams
 
 
 
+ 23: ( 57) - Hem
+
+
+ 24: ( 54) - R.E.M.
+
+
+ 25: ( 51) - Vegas Water Taxi
 
 
  26: ( 48) - Glyders
- 27: ( 48) - Katherine Priddy
- 28: ( 47) - Paul Weller
-
-
- 29: ( 44) - Whitelands
-
-
-
-
- 30: ( 39) - Martin Stephenson
- 31: ( 38) - Sharon Van Etten
-
-
- 32: ( 35) - The Fall
- 33: ( 34) - Melody'S Echo Chamber
-
- 34: ( 32) - New Order
+ 27: ( 47) - Paul Weller
 
 
 
 
 
- 35: ( 26) - Devine & Statton
- 36: ( 26) - The Weather Station
- 37: ( 26) - U2
- 38: ( 25) - Everything But the Girl
- 39: ( 25) - Eyeless in Gaza
- 40: ( 24) - The Beach Boys
- 41: ( 23) - Altered Images
- 42: ( 23) - Lloyd Cole
- 43: ( 22) - David Bowie
 
 
- 44: ( 19) - Aztec Camera
- 45: ( 19) - Patty Griffin
- 46: ( 18) - Prefab Sprout
- 47: ( 17) - Echo & the Bunnymen
- 48: ( 17) - Orchestral Manoeuvres in the Dark
- 49: ( 16) - T. Rex
- 50: ( 15) - Lloyd Cole and the Commotions
- 51: ( 14) - Leonard Cohen
+ 28: ( 39) - Martin Stephenson
+
+
+
+
+ 29: ( 34) - Melody'S Echo Chamber
+
+ 30: ( 32) - New Order
+ 31: ( 31) - Sharon Van Etten
+
+
+ 32: ( 28) - Echo & the Bunnymen
+
+ 33: ( 26) - Devine & Statton
+ 34: ( 26) - The Weather Station
+ 35: ( 25) - Everything But the Girl
+ 36: ( 24) - The Beach Boys
+ 37: ( 23) - Lloyd Cole
+ 38: ( 22) - David Bowie
+
+ 39: ( 20) - Altered Images
+ 40: ( 20) - The Fall
+ 41: ( 19) - Aztec Camera
+ 42: ( 19) - Patty Griffin
+ 43: ( 19) - Tift Merritt
+ 44: ( 18) - Prefab Sprout
+ 45: ( 17) - Orchestral Manoeuvres in the Dark
+ 46: ( 16) - T. Rex
+ 47: ( 16) - U2
+ 48: ( 15) - Lloyd Cole and the Commotions
+ 49: ( 14) - Katherine Priddy
+ 50: ( 14) - Leonard Cohen
+ 51: ( 14) - Whitelands
  52: ( 13) - Bob Marley & the Wailers
  53: ( 13) - Emmylou Harris
  54: ( 13) - Haircut 100
  55: ( 13) - Jimi Hendrix
- 56: ( 13) - Tift Merritt
- 57: ( 12) - B.E.F.
- 58: ( 11) - Bob Hund
- 59: ( 11) - Sly & the Family Stone
- 60: ( 11) - The Cure
- 61: ( 11) - The Velvet Underground
- 62: ( 10) - Gardens
- 63: ( 10) - Heaven 17
- 64: ( 10) - It'S Immaterial
- 65: ( 10) - John Cooper Clarke
- 66: ( 10) - Laura Marling
- 67: ( 10) - Mercy Girl
- 68: ( 10) - The Sundays
- 69: (  9) - Eliza Gilkyson
- 70: (  9) - The Rolling Stones
- 71: (  9) - Tom Tom Club
+ 56: ( 12) - B.E.F.
+ 57: ( 11) - Bob Hund
+ 58: ( 11) - Sly & the Family Stone
+ 59: ( 11) - The Cure
+ 60: ( 11) - The Velvet Underground
+ 61: ( 10) - Gardens
+ 62: ( 10) - Heaven 17
+ 63: ( 10) - It'S Immaterial
+ 64: ( 10) - John Cooper Clarke
+ 65: ( 10) - Laura Marling
+ 66: ( 10) - Mercy Girl
+ 67: ( 10) - The Sundays
+ 68: (  9) - Eliza Gilkyson
+ 69: (  9) - The Rolling Stones
+ 70: (  9) - Tom Tom Club
 
- 72: (  7) - JT Nero
- 73: (  7) - Mandrake Handshake
- 74: (  6) - Cowboy Junkies
- 75: (  6) - Lauren Mayberry
- 76: (  6) - Weekend
- 77: (  5) - Tallies
- 78: (  5) - The Zombies
- 79: (  4) - ABC
- 80: (  4) - Rod Stewart
- 81: (  4) - The Human League
- 82: (  3) - Andy Golledge
- 83: (  3) - Florence + the Machine
- 84: (  3) - Patti Smith
- 85: (  3) - Pulp, Chilly Gonzales
- 86: (  2) - Ricky Nelson, the Stone Canyon Band
- 87: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 88: (  1) - Ac Acoustics
- 89: (  1) - Anne Mccue
- 90: (  1) - Billy Idol
- 91: (  1) - Blue Orchids
- 92: (  1) - Brian Eno & David Byrne
- 93: (  1) - Brigitte Calls Me Baby
- 94: (  1) - Bruce Springsteen
- 95: (  1) - Culture Club
- 96: (  1) - Dexys Midnight Runners
- 97: (  1) - Girls At Our Best!
- 98: (  1) - Hurrah!
- 99: (  1) - Jane
-100: (  1) - Joan Osborne
-101: (  1) - Joe Jackson
-102: (  1) - Level 42
-103: (  1) - Marine Girls
-104: (  1) - Nouvelle Vague, Marina Céleste
-105: (  1) - Simple Minds, Kt Tunstall
-106: (  1) - Soft Cell
-107: (  1) - Sylvan Esso, Collections of Colonies of Bees
-108: (  1) - The Assembly
-109: (  1) - The Buggles
-110: (  1) - The Go-go's
-111: (  1) - The Massed Carnaby Street John Cooper Clarkes
-112: (  1) - The Monochrome Set
-113: (  1) - The Motels
-114: (  1) - The Nightingales
-115: (  1) - The Police
-116: (  1) - The Schwa
-117: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
-118: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-119: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
-120: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
-121: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
-122: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
-123: (  1) - Trio
-124: (  1) - Turnstile
-125: (  1) - Tv21
-126: (  1) - UB40
-127: (  1) - Visage
-128: (  1) - Wang Chung
-129: (  1) - When in Rome
-130: (  1) - Xtc
+ 71: (  7) - JT Nero
+ 72: (  7) - Mandrake Handshake
+ 73: (  6) - Lauren Mayberry
+ 74: (  6) - Weekend
+ 75: (  5) - Tallies
+ 76: (  5) - The Zombies
+ 77: (  4) - ABC
+ 78: (  4) - Rod Stewart
+ 79: (  4) - The Human League
+ 80: (  3) - Andy Golledge
+ 81: (  3) - Florence + the Machine
+ 82: (  3) - Patti Smith
+ 83: (  3) - Pulp, Chilly Gonzales
+ 84: (  2) - Ricky Nelson, the Stone Canyon Band
+ 85: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 86: (  1) - Ac Acoustics
+ 87: (  1) - Billy Idol
+ 88: (  1) - Blue Orchids
+ 89: (  1) - Brian Eno & David Byrne
+ 90: (  1) - Brigitte Calls Me Baby
+ 91: (  1) - Bruce Springsteen
+ 92: (  1) - Culture Club
+ 93: (  1) - Dexys Midnight Runners
+ 94: (  1) - Girls At Our Best!
+ 95: (  1) - Hurrah!
+ 96: (  1) - Jane
+ 97: (  1) - Joan Osborne
+ 98: (  1) - Joe Jackson
+ 99: (  1) - Level 42
+100: (  1) - Marine Girls
+101: (  1) - Nouvelle Vague, Marina Céleste
+102: (  1) - Simple Minds, Kt Tunstall
+103: (  1) - Soft Cell
+104: (  1) - Sylvan Esso, Collections of Colonies of Bees
+105: (  1) - The Buggles
+106: (  1) - The Go-go's
+107: (  1) - The Massed Carnaby Street John Cooper Clarkes
+108: (  1) - The Monochrome Set
+109: (  1) - The Motels
+110: (  1) - The Nightingales
+111: (  1) - The Police
+112: (  1) - The Schwa
+113: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock
+114: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+115: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Pat Davey, Paul Harvey, Mark Ramsden, Deezal Martin
+116: (  1) - Tom Robinson, Steve Laurie, Ebo Ross, Sean Mayes, Simon Skinner, Danny Kustow, Mark Ramsden, Deezal Martin
+117: (  1) - Tom Robinson, Steve Laurie, Felix Krish, Pete Glennister, Danny Shogga, Peter Acock, Guy Barker
+118: (  1) - Tom Robinson, Steve Laurie, the Voice Squad, Martin Ditcham, Felix Krish, Pete Glennister, Robin Millar, Danny Shogga, Peter Acock
+119: (  1) - Trio
+120: (  1) - Turnstile
+121: (  1) - Tv21
+122: (  1) - UB40
+123: (  1) - Visage
+124: (  1) - Wang Chung
+125: (  1) - When in Rome
+126: (  1) - Xtc
