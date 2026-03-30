@@ -453,11 +453,11 @@
         "White Christmas": -1
     },
     "Birds of Chicago": {
-        "American Flowers": -1,
-        "Birds Of Chicago": -1,
-        "Live From Space": -1,
-        "Love In Wartime": -1,
-        "Real Midnight": -1
+        "American Flowers": 2017,
+        "Birds Of Chicago": 2012,
+        "Live From Space": 2013,
+        "Love In Wartime": 2018,
+        "Real Midnight": 2016
     },
     "Black Marble": {
         "It's Immaterial": -1
@@ -1650,10 +1650,15 @@
         "A Singular Collection: The Best Of Hazel O'connor": -1
     },
     "Heaven 17": {
+        "Before After": 2005,
+        "Bigger Than America": 1996,
         "Golden Age": -1,
-        "Naked As Advertised Versions 08": -1,
-        "Penthouse And Pavement": -1,
-        "The Luxury Gap": -1
+        "How Men Are": 1984,
+        "Naked As Advertised Versions 08": 2008,
+        "Penthouse And Pavement": 1981,
+        "Pleasure One": 1986,
+        "Teddy Bear, Duke and Psycho": 1988,
+        "The Luxury Gap": 1983
     },
     "Heavenly": {
         "Heavenly vs Satan": 1991,
@@ -3403,8 +3408,13 @@
         "Home Alone": -1
     },
     "Spandau Ballet": {
-        "Journeys To Glory": -1,
-        "True (Special Edition)": -1
+        "Diamond": 1982,
+        "Heart Like a Sky": 1989,
+        "Journeys To Glory": 1981,
+        One More": 2009,
+        "Parade": 1984,
+        "Through the Barricades": 1986,
+        "True": 1984
     },
     "Spare Snare": {
         "Sounds Recorded By Steve Albini": -1
