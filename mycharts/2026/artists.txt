@@ -1,7 +1,7 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     535            31            39           263
- 1: (76) - Creedence Clearwater Revival
+    1229            45            54           400
+ 1: (127) - Creedence Clearwater Revival
 
 
 
@@ -20,7 +20,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (57) - Newdad
 
 
 
@@ -28,7 +27,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: (49) - Katherine Priddy
 
 
 
@@ -36,25 +34,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 4: (41) - Heavenly
-
-
-
-
- 5: (36) - Wolf Alice
- 6: (35) - Whitelands
-
-
-
-
-
- 7: (29) - Lucinda Williams
-
-
- 8: (26) - Eyeless in Gaza
-
-
- 9: (23) - Emma Swift
 
 
 
@@ -62,27 +41,107 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-10: (15) - The Fall
-11: (15) - Vegas Water Taxi
 
-12: (13) - Devine & Statton
-13: (13) - Josh Ritter
-14: (12) - Sharon Van Etten
-15: (11) - Echo & the Bunnymen
-16: (10) - It'S Immaterial
-17: (10) - John Cooper Clarke
-18: (10) - Mercy Girl
-19: (10) - U2
-20: ( 9) - Paul Weller
-21: ( 8) - Tift Merritt
 
-22: ( 6) - Cowboy Junkies
-23: ( 5) - The Zombies
-24: ( 4) - Altered Images
-25: ( 3) - Anne Mccue
-26: ( 3) - Patti Smith
-27: ( 2) - New Order
-28: ( 1) - Brigitte Calls Me Baby
-29: ( 1) - Heaven 17
-30: ( 1) - The Assembly
-31: ( 1) - The Massed Carnaby Street John Cooper Clarkes
+
+
+ 2: ( 83) - Katherine Priddy
+
+
+
+ 3: ( 79) - Newdad
+ 4: ( 79) - Whitelands
+
+ 5: ( 77) - Vegas Water Taxi
+
+
+
+ 6: ( 73) - Lucinda Williams
+ 7: ( 72) - Wolf Alice
+
+
+
+
+
+
+
+
+
+ 8: ( 62) - Heavenly
+
+
+
+
+
+
+ 9: ( 55) - The Belair Lip Bombs
+
+
+
+10: ( 51) - Emma Swift
+11: ( 51) - Eyeless in Gaza
+
+
+12: ( 48) - Glyders
+
+
+
+13: ( 44) - The Fall
+
+
+
+
+
+
+
+
+
+14: ( 34) - Melody'S Echo Chamber
+
+15: ( 32) - U2
+
+
+
+16: ( 28) - Tift Merritt
+
+
+
+
+
+17: ( 22) - Echo & the Bunnymen
+
+
+18: ( 19) - Sharon Van Etten
+19: ( 18) - Josh Ritter
+20: ( 18) - Prefab Sprout
+
+
+
+
+21: ( 13) - Devine & Statton
+22: ( 13) - Lloyd Cole and the Commotions
+23: ( 12) - Cowboy Junkies
+24: ( 11) - Lloyd Cole
+25: ( 11) - The Burning Hell
+26: ( 10) - It'S Immaterial
+27: ( 10) - John Cooper Clarke
+28: ( 10) - Mercy Girl
+29: ( 10) - Suzanne Vega
+30: (  9) - Paul Weller
+31: (  9) - The Rolling Stones
+
+32: (  7) - Altered Images
+
+33: (  5) - The Zombies
+34: (  4) - Anne Mccue
+35: (  4) - Simple Minds
+36: (  4) - The Cure
+37: (  3) - Patti Smith
+38: (  3) - Roxy Music
+39: (  2) - New Order
+40: (  2) - The Assembly
+41: (  1) - Brigitte Calls Me Baby
+42: (  1) - Bruce Springsteen
+43: (  1) - Heaven 17
+44: (  1) - The Massed Carnaby Street John Cooper Clarkes
+45: (  1) - The Schwa

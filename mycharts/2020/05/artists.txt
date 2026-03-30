@@ -1,85 +1,85 @@
 Specified year (2020), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1600            82            86           718
- 1: (128) - David Bowie
- 2: ( 88) - Lloyd Cole
- 3: ( 78) - Tift Merritt
- 4: ( 66) - Bryan Ferry
- 5: ( 64) - T. Rex
- 6: ( 56) - Prefab Sprout
- 7: ( 54) - Corb Lund
- 8: ( 46) - Yazoo
- 9: ( 42) - Hawkwind
-10: ( 42) - New Order
-11: ( 40) - Bob Dylan
-12: ( 38) - Weekend
-13: ( 34) - Various
-14: ( 30) - Alison Moyet
-15: ( 30) - Kacy & Clayton
-16: ( 30) - The Velvet Underground
-17: ( 30) - Young Marble Giants
-18: ( 28) - The Beatles
-19: ( 26) - The Fall
-20: ( 26) - The Style Council
-21: ( 26) - The Wailin' Jennys
-22: ( 24) - Laura Marling
-23: ( 24) - Mindy Smith
-24: ( 22) - Elvis Costello & the Attractions
-25: ( 22) - Emmylou Harris
-26: ( 22) - Lcd Soundsystem
-27: ( 22) - Roddy Frame
-28: ( 22) - Rodney Crowell
-29: ( 22) - Sarah MacDougall
-30: ( 22) - The Weather Station
-31: ( 20) - Haley Bonar
-32: ( 20) - Joni Mitchell
-33: ( 20) - Laura Gibson
-34: ( 20) - Orange Juice
-35: ( 20) - Paul Weller
-36: ( 20) - The Decemberists
-37: ( 16) - Bobbie Gentry
-38: ( 16) - Rachel Harrington
-39: ( 16) - Simon & Garfunkel
-40: ( 16) - Suzanne Vega
-41: ( 14) - Cocteau Twins
-42: ( 14) - JT Nero
-43: ( 14) - Kacey Musgraves
-44: ( 12) - Birds of Chicago
-45: ( 12) - Dave Grusin
-46: ( 12) - Dave Rawlings Machine
-47: ( 12) - Natalie Prass
-48: ( 12) - The Comsat Angels
-49: ( 10) - H.C. Mcentire
-50: ( 10) - School of Seven Bells
-51: ( 10) - The Big Moon
-52: (  8) - Felt
-53: (  8) - The Cure
-54: (  6) - Nick Cave & the Bad Seeds
-55: (  4) - Reggae Rockers
-56: (  2) - Arbouretum
-57: (  2) - Baxter Dury
-58: (  2) - Bradley Brown
-59: (  2) - Chalice
-60: (  2) - Chris Hillman & Steve Earle
-61: (  2) - Cornershop
-62: (  2) - Cowboy Junkies
-63: (  2) - Fourth Street Sisters
-64: (  2) - Hilary Woods
-65: (  2) - Honey Harper
-66: (  2) - John Moreland
-67: (  2) - Judy Mowatt
-68: (  2) - Juniore
-69: (  2) - L.A. Takedown
-70: (  2) - Lehbanchleh
-71: (  2) - Lucinda Williams & David Crosby
-72: (  2) - Mankind
-73: (  2) - Mello
-74: (  2) - Nadia Reid
-75: (  2) - Real Estate
-76: (  2) - Sugar Black
-77: (  2) - Swamp Dogg
-78: (  2) - Tamikrest
-79: (  2) - The Abyssinians
-80: (  2) - The Mighty Diamonds
-81: (  2) - The Pretenders & Emmylou Harris
-82: (  2) - U.S. Girls
+     800            82            86           718
+ 1: (64) - David Bowie
+ 2: (44) - Lloyd Cole
+ 3: (39) - Tift Merritt
+ 4: (33) - Bryan Ferry
+ 5: (32) - T. Rex
+ 6: (28) - Prefab Sprout
+ 7: (27) - Corb Lund
+ 8: (23) - Yazoo
+ 9: (21) - Hawkwind
+10: (21) - New Order
+11: (20) - Bob Dylan
+12: (19) - Weekend
+13: (17) - Various
+14: (15) - Alison Moyet
+15: (15) - Kacy & Clayton
+16: (15) - The Velvet Underground
+17: (15) - Young Marble Giants
+18: (14) - The Beatles
+19: (13) - The Fall
+20: (13) - The Style Council
+21: (13) - The Wailin' Jennys
+22: (12) - Laura Marling
+23: (12) - Mindy Smith
+24: (11) - Elvis Costello & the Attractions
+25: (11) - Emmylou Harris
+26: (11) - Lcd Soundsystem
+27: (11) - Roddy Frame
+28: (11) - Rodney Crowell
+29: (11) - Sarah MacDougall
+30: (11) - The Weather Station
+31: (10) - Haley Bonar
+32: (10) - Joni Mitchell
+33: (10) - Laura Gibson
+34: (10) - Orange Juice
+35: (10) - Paul Weller
+36: (10) - The Decemberists
+37: ( 8) - Bobbie Gentry
+38: ( 8) - Rachel Harrington
+39: ( 8) - Simon & Garfunkel
+40: ( 8) - Suzanne Vega
+41: ( 7) - Cocteau Twins
+42: ( 7) - JT Nero
+43: ( 7) - Kacey Musgraves
+44: ( 6) - Birds of Chicago
+45: ( 6) - Dave Grusin
+46: ( 6) - Dave Rawlings Machine
+47: ( 6) - Natalie Prass
+48: ( 6) - The Comsat Angels
+49: ( 5) - H.C. Mcentire
+50: ( 5) - School of Seven Bells
+51: ( 5) - The Big Moon
+52: ( 4) - Felt
+53: ( 4) - The Cure
+54: ( 3) - Nick Cave & the Bad Seeds
+55: ( 2) - Reggae Rockers
+56: ( 1) - Arbouretum
+57: ( 1) - Baxter Dury
+58: ( 1) - Bradley Brown
+59: ( 1) - Chalice
+60: ( 1) - Chris Hillman & Steve Earle
+61: ( 1) - Cornershop
+62: ( 1) - Cowboy Junkies
+63: ( 1) - Fourth Street Sisters
+64: ( 1) - Hilary Woods
+65: ( 1) - Honey Harper
+66: ( 1) - John Moreland
+67: ( 1) - Judy Mowatt
+68: ( 1) - Juniore
+69: ( 1) - L.A. Takedown
+70: ( 1) - Lehbanchleh
+71: ( 1) - Lucinda Williams & David Crosby
+72: ( 1) - Mankind
+73: ( 1) - Mello
+74: ( 1) - Nadia Reid
+75: ( 1) - Real Estate
+76: ( 1) - Sugar Black
+77: ( 1) - Swamp Dogg
+78: ( 1) - Tamikrest
+79: ( 1) - The Abyssinians
+80: ( 1) - The Mighty Diamonds
+81: ( 1) - The Pretenders & Emmylou Harris
+82: ( 1) - U.S. Girls

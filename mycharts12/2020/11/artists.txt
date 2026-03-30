@@ -1,7 +1,7 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   12871           348           498          3602
-  1: (516) - David Bowie
+    7700           348           498          3602
+  1: (280) - David Bowie
 
 
 
@@ -50,9 +50,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  2: (231) - Elvis Costello & the Attractions
 
 
 
+  3: (227) - Bob Dylan
 
 
 
@@ -68,10 +70,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  4: (211) - Lloyd Cole
 
 
 
 
+  5: (206) - T. Rex
 
 
 
@@ -83,6 +87,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  6: (194) - Cocteau Twins
 
 
 
@@ -95,7 +100,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  2: (422) - Lloyd Cole
 
 
 
@@ -105,15 +109,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  3: (412) - T. Rex
 
-  4: (410) - Bob Dylan
 
 
 
 
 
 
+  7: (165) - Orange Juice
 
 
 
@@ -123,6 +126,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  8: (155) - Various
 
 
 
@@ -134,7 +138,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  9: (143) - Corb Lund
 
+ 10: (141) - New Order
 
 
 
@@ -142,14 +148,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 11: (133) - Sweet
 
 
+ 12: (130) - The Beatles
 
 
 
 
 
-  5: (368) - Cocteau Twins
 
 
 
@@ -157,24 +164,39 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 13: (117) - Paul Weller
 
+ 14: (115) - The Velvet Underground
 
 
 
 
+ 15: (110) - Prefab Sprout
 
 
 
+ 16: (106) - Laura Marling
 
+ 17: (104) - Nick Heyward
 
+ 18: (102) - Chatham County Line
 
 
+ 19: ( 99) - Eliza Gilkyson
+ 20: ( 99) - The Waterboys
 
 
+ 21: ( 96) - Edwyn Collins
+ 22: ( 96) - Orchestral Manoeuvres in the Dark
+ 23: ( 95) - Bat for Lashes
+ 24: ( 94) - Elvis Costello
+ 25: ( 94) - Jarv Is...
+ 26: ( 93) - U2
 
 
 
 
+ 27: ( 88) - Bryan Ferry
 
 
 
@@ -183,597 +205,348 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 28: ( 79) - Emma Swift
+ 29: ( 79) - The Rolling Stones
+ 30: ( 78) - Pretenders
 
 
 
 
+ 31: ( 73) - The Cure
+ 32: ( 72) - Peter Hammill
+ 33: ( 71) - ABC
 
+ 34: ( 69) - Haim
+ 35: ( 69) - Rodney Crowell
 
+ 36: ( 67) - Rod Stewart
+ 37: ( 67) - The Decemberists
 
 
 
 
+ 38: ( 62) - Focus
+ 39: ( 62) - Simon & Garfunkel
+ 40: ( 61) - Elton John
 
 
+ 41: ( 58) - Leonard Cohen
 
 
+ 42: ( 55) - Tift Merritt
+ 43: ( 54) - Sara Watkins
 
+ 44: ( 52) - Furniture
+ 45: ( 52) - Martin Stephenson and the Daintees
+ 46: ( 51) - Simple Minds
+ 47: ( 51) - The Jayhawks
 
+ 48: ( 49) - Brigid Mae Power
+ 49: ( 49) - Dave Grusin
+ 50: ( 49) - Jean Toussaint
+ 51: ( 49) - The Chicks
+ 52: ( 48) - Josh Ritter
 
 
+ 53: ( 45) - The Fall
+ 54: ( 45) - Yazoo
 
 
+ 55: ( 42) - Gretchen Peters
+ 56: ( 41) - Haircut 100
+ 57: ( 41) - Japan
+ 58: ( 41) - Patty Griffin
+ 59: ( 40) - Emmylou Harris
+ 60: ( 40) - Martin Stephenson
+ 61: ( 40) - Modern English
+ 62: ( 39) - Eberard Weber
+ 63: ( 39) - Hawkwind
+ 64: ( 38) - Billy Bragg
+ 65: ( 38) - Felt
+ 66: ( 38) - The Mighty Wah!
+ 67: ( 37) - Department S
+ 68: ( 37) - Kacy & Clayton
+ 69: ( 37) - Lloyd Cole and the Commotions
+ 70: ( 36) - The Proclaimers
+ 71: ( 35) - Josef K
+ 72: ( 34) - Bauhaus
 
+ 73: ( 32) - Blondie
+ 74: ( 32) - Roxy Music
+ 75: ( 31) - Julia Holter
+ 76: ( 31) - Marine Girls
+ 77: ( 30) - Birds of Chicago
+ 78: ( 30) - Eilen Jewell
 
+ 79: ( 28) - Kate Bush
+ 80: ( 28) - Marc Bolan
+ 81: ( 28) - Rod Picott and Amanda Shires
+ 82: ( 27) - Aztec Camera
+ 83: ( 27) - Talking Heads
+ 84: ( 27) - Tower of Song
+ 85: ( 26) - The Corrs
+ 86: ( 26) - The Redlands Palomino Company
 
+ 87: ( 24) - Carrie Rodriguez
+ 88: ( 24) - H.C. Mcentire
+ 89: ( 24) - Shovels & Rope
+ 90: ( 23) - Electric Light Orchestra
+ 91: ( 23) - It'S Immaterial
+ 92: ( 23) - Weekend
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  6: (282) - Various
-
-  7: (280) - Elvis Costello & the Attractions
-
-
-
-
-
-  8: (274) - Orange Juice
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  9: (250) - Corb Lund
-
-
-
- 10: (246) - The Beatles
-
-
-
-
-
- 11: (240) - New Order
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 12: (220) - Prefab Sprout
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 13: (200) - Nick Heyward
-
-
-
-
-
-
-
-
- 14: (191) - Orchestral Manoeuvres in the Dark
-
-
-
-
- 15: (186) - Sweet
-
- 16: (184) - Paul Weller
-
-
-
-
-
-
-
- 17: (176) - Bryan Ferry
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 18: (148) - Eliza Gilkyson
-
-
-
- 19: (144) - The Velvet Underground
-
- 20: (142) - ABC
-
-
-
- 21: (138) - Laura Marling
- 22: (138) - Rodney Crowell
-
- 23: (136) - The Cure
-
-
-
- 24: (132) - The Waterboys
-
-
-
-
-
-
- 25: (125) - Rod Stewart
- 26: (125) - U2
- 27: (124) - Simon & Garfunkel
-
-
-
-
-
-
-
-
-
-
-
- 28: (112) - The Decemberists
- 29: (111) - Leonard Cohen
- 30: (110) - Tift Merritt
-
- 31: (108) - Jarv Is...
-
- 32: (106) - Emma Swift
-
- 33: (104) - Martin Stephenson and the Daintees
-
- 34: (102) - Chatham County Line
- 35: (102) - Pretenders
- 36: (102) - The Jayhawks
-
- 37: (100) - Bat for Lashes
- 38: ( 99) - Elton John
- 39: ( 98) - Brigid Mae Power
- 40: ( 98) - Dave Grusin
- 41: ( 98) - Edwyn Collins
- 42: ( 98) - Haim
-
-
-
- 43: ( 94) - Elvis Costello
-
-
-
- 44: ( 90) - The Fall
- 45: ( 90) - Yazoo
-
-
-
-
-
- 46: ( 84) - Gretchen Peters
-
- 47: ( 82) - Haircut 100
- 48: ( 82) - Japan
- 49: ( 82) - Patty Griffin
-
- 50: ( 80) - Modern English
- 51: ( 79) - Emmylou Harris
- 52: ( 79) - The Rolling Stones
- 53: ( 78) - Eberard Weber
- 54: ( 77) - Simple Minds
- 55: ( 76) - Billy Bragg
-
- 56: ( 74) - Department S
- 57: ( 74) - Felt
-
- 58: ( 72) - Peter Hammill
- 59: ( 72) - The Chicks
- 60: ( 72) - The Proclaimers
-
- 61: ( 70) - Josef K
- 62: ( 70) - Sara Watkins
- 63: ( 69) - Hawkwind
- 64: ( 68) - Bauhaus
- 65: ( 68) - Jean Toussaint
- 66: ( 68) - Josh Ritter
-
- 67: ( 66) - Furniture
-
- 68: ( 64) - Kacy & Clayton
-
- 69: ( 62) - Focus
- 70: ( 62) - Julia Holter
- 71: ( 62) - Marine Girls
-
- 72: ( 60) - Eilen Jewell
-
-
-
- 73: ( 56) - Marc Bolan
- 74: ( 55) - Kate Bush
- 75: ( 54) - Talking Heads
-
- 76: ( 52) - Aztec Camera
- 77: ( 52) - Martin Stephenson
- 78: ( 52) - The Redlands Palomino Company
-
-
-
- 79: ( 48) - Blondie
- 80: ( 48) - Carrie Rodriguez
- 81: ( 48) - Shovels & Rope
-
- 82: ( 46) - Weekend
-
- 83: ( 44) - Lloyd Cole and the Commotions
- 84: ( 44) - Roxy Music
-
- 85: ( 42) - Birds of Chicago
- 86: ( 42) - Eyeless in Gaza
- 87: ( 42) - Rachel Harrington
-
-
-
- 88: ( 38) - H.C. Mcentire
- 89: ( 38) - Mindy Smith
- 90: ( 38) - The Mighty Wah!
- 91: ( 37) - Echo & the Bunnymen
- 92: ( 36) - JT and the Clouds
- 93: ( 36) - Tower of Song
-
- 94: ( 34) - Electric Light Orchestra
- 95: ( 34) - Laura Veirs
- 96: ( 34) - The Human League
- 97: ( 33) - Hem
- 98: ( 33) - It'S Immaterial
- 99: ( 32) - Laura Gibson
-100: ( 32) - Nick Cave & the Bad Seeds
-101: ( 32) - Young Marble Giants
-
-102: ( 30) - Alison Moyet
-103: ( 30) - Rod Picott
-
-104: ( 28) - Devine & Statton
-105: ( 28) - Rod Picott and Amanda Shires
-106: ( 28) - The Clash
-107: ( 28) - The Style Council
-108: ( 27) - Dolly Parton
-109: ( 26) - Brian Eno & David Byrne
-110: ( 26) - Chuck Prophet
-111: ( 26) - Cowboy Junkies
-112: ( 26) - Striking Matches
-113: ( 26) - The Corrs
-114: ( 26) - The Wailin' Jennys
-
-115: ( 24) - Bill Frisell
-116: ( 24) - Laura Cantrell
-117: ( 24) - Lou Reed
-118: ( 24) - The Low Anthem
-119: ( 24) - Willie Nelson & Asleep At the Wheel
-120: ( 23) - Roddy Frame
-121: ( 22) - Angie Palmer
-122: ( 22) - Darling West
-123: ( 22) - Lcd Soundsystem
-124: ( 22) - Sarah MacDougall
-125: ( 22) - She Drew the Gun
-126: ( 22) - The Doors
-127: ( 22) - The Weather Station
-
-128: ( 20) - Andrew Combs
-129: ( 20) - Gillian Welch
-130: ( 20) - Haley Bonar
-131: ( 20) - Joni Mitchell
-132: ( 20) - Justin Townes Earle
-133: ( 20) - Kacey Musgraves
-134: ( 20) - Tracey Thorn
-135: ( 20) - UB40
-136: ( 20) - Walter Salas-Humara
-137: ( 19) - The Civil Wars
-138: ( 19) - Wah!
-139: ( 18) - The Big Moon
-
-140: ( 16) - Bobbie Gentry
-141: ( 16) - Lyle Lovett
-142: ( 16) - Suzanne Vega
-
-143: ( 14) - Green Gartside
-144: ( 14) - JT Nero
-145: ( 14) - The Jam
-
-146: ( 12) - Altered Images
-147: ( 12) - Dave Rawlings Machine
-148: ( 12) - Lera Lynn
-149: ( 12) - Natalie Prass
-150: ( 12) - Robert Plant
-151: ( 12) - The Comsat Angels
-
-152: ( 10) - Chip Taylor & Carrie Rodriguez
-153: ( 10) - Just the Faqs
-154: ( 10) - Kraftwerk
-155: ( 10) - School of Seven Bells
-156: ( 10) - The Dream Syndicate
-
-157: (  8) - Aldous Harding
-158: (  8) - Big Thief
-159: (  8) - Bill Callahan
-160: (  8) - Bon Iver
-161: (  8) - Brigid Dawson and the Mothers Network
-162: (  8) - Caleb Landry Jones
-163: (  8) - Cate le Bon
-164: (  8) - Field Music
-165: (  8) - Fontaines D.c.
-166: (  8) - Joan Shelley
-167: (  8) - Julia Jacklin
-168: (  8) - Margo Price
-169: (  8) - Mark Lanegan
-170: (  8) - Martha Wainwright
-171: (  8) - Modern Nature
-172: (  8) - Phoebe Bridgers
-173: (  8) - Purple Mountains
-174: (  8) - Rhiannon Giddens
-175: (  8) - Steve Earle
-176: (  8) - Weyes Blood
-177: (  8) - William Tyler
-178: (  8) - Woods
-
-179: (  6) - Bill Fay
-180: (  6) - Calexico
-181: (  6) - Don Letts and Turtle Bay Present Reggae 45
-182: (  6) - Joy Division
-183: (  6) - Richard Dawson
-184: (  6) - Rufus Wainwright
-185: (  6) - Sampa the Great
-186: (  6) - The Sundays
-187: (  5) - Martha and the Muffins
-188: (  5) - Rosanne Cash
-189: (  4) - Aoife Nessa Frances
-190: (  4) - Cat Power
-191: (  4) - Chapter 4
-192: (  4) - Damien Jurado
-193: (  4) - Eddie Vedder
-194: (  4) - Hayes Carll
-195: (  4) - I Break Horses
-196: (  4) - John Doe
-197: (  4) - Keeley Forsyth
-198: (  4) - Lehbanchleh
-199: (  4) - Mankind
-200: (  4) - Michael Leonhart Orchestra
-201: (  4) - Reggae Rockers
-202: (  4) - Richie Havens
-203: (  4) - Robert Forster
-204: (  4) - Sonic Youth
-205: (  4) - Sugar Black
-206: (  4) - The Magnetic Fields
-207: (  4) - The Panhandle Mystery Band
-208: (  4) - Tracy Bryant
-209: (  4) - Wire
-210: (  3) - Scritti Politti
-211: (  2) - 13Th Floor Elevators
-212: (  2) - Ac/Dc
-213: (  2) - Acetone
-214: (  2) - Alice Boman
-215: (  2) - Andy Shauf
-216: (  2) - Arbouretum
-217: (  2) - Aretha Franklin
-218: (  2) - Aswad
-219: (  2) - Baxter Dury
-220: (  2) - Betty Davis
-221: (  2) - Billy Joel
-222: (  2) - Blue Öyster Cult
-223: (  2) - Bradley Brown
-224: (  2) - Buffalo Springfield
-225: (  2) - Bunny Wailer
-226: (  2) - Burning Spear
-227: (  2) - Carly Simon
-228: (  2) - Chalice
-229: (  2) - Chapter 5
-230: (  2) - Chip Taylor
-231: (  2) - Chris Hillman & Steve Earle
-232: (  2) - Cornershop
-233: (  2) - David Essex
-234: (  2) - Deep Purple
-235: (  2) - Definitely Dylan
-236: (  2) - Donnie & Joe Emerson
-237: (  2) - Dyke & the Blazers
-238: (  2) - Earl Scruggs
-239: (  2) - Elvis Costello and the Roots
-240: (  2) - Fourth Street Sisters
-241: (  2) - Free
-242: (  2) - Gerry Rafferty
-243: (  2) - Gigi Masin
-244: (  2) - Gladys Knight & the Pips
-245: (  2) - Greg Mason
-246: (  2) - Gregory Isaacs
-247: (  2) - Hilary Woods
-248: (  2) - Honey Harper
-249: (  2) - Hüsker Dü
-250: (  2) - Inner Circle
-251: (  2) - Jackson Browne
-252: (  2) - Jacob Miller
-253: (  2) - Jason Mcmahon
-254: (  2) - Jean Michel Jarre
-255: (  2) - Jim Sullivan
-256: (  2) - Joe Tex
-257: (  2) - John Foxx
-258: (  2) - John Lennon
-259: (  2) - John Moreland
-260: (  2) - Judy Mowatt
-261: (  2) - Junior Byles
-262: (  2) - Junior Murvin
-263: (  2) - Juniore
-264: (  2) - Justin Hinds & the Dominoes
-265: (  2) - Karin Krog
-266: (  2) - Karl Schaffner
-267: (  2) - Kiddus I
-268: (  2) - L.A. Takedown
-269: (  2) - Lee Hazlewood
-270: (  2) - Lettuce
-271: (  2) - Lucinda Williams & David Crosby
-272: (  2) - Magazine
-273: (  2) - Maytones
-274: (  2) - Mello
-275: (  2) - Middle of the Road
-276: (  2) - Modern Studies
-277: (  2) - Mott the Hoople
-278: (  2) - Mr. Elevator
-279: (  2) - Mrgroovybassman
-280: (  2) - Nadia Reid
-281: (  2) - Nap Eyes
-282: (  2) - Nat King Cole
-283: (  2) - Nicolas Godin
-284: (  2) - Ooioo
-285: (  2) - Paul Haig
-286: (  2) - Peter Tosh
-287: (  2) - Real Estate
-288: (  2) - Rex Garvin & the Mighty Cravers
-289: (  2) - Roky Erickson
-290: (  2) - Sex Pistols
-291: (  2) - Sharon Van Etten
-292: (  2) - Shin Joong Hyun & the Men
-293: (  2) - Sonny & Cher
-294: (  2) - Spizz Energi
-295: (  2) - Squirrel Flower
-296: (  2) - Status Quo
-297: (  2) - Stephen Malkmus
-298: (  2) - Steve Harley
-299: (  2) - Steve Wynn
-300: (  2) - Supreme Jubilees
-301: (  2) - Swamp Dogg
-302: (  2) - Tamikrest
-303: (  2) - The Abyssinians
-304: (  2) - The Action
-305: (  2) - The Byrds
-306: (  2) - The Heptones
-307: (  2) - The J. Geils Band
-308: (  2) - The Mellstock Band
-309: (  2) - The Men
-310: (  2) - The Mighty Diamonds
-311: (  2) - The Monkees
-312: (  2) - The Pretenders
-313: (  2) - The Pretenders & Emmylou Harris
-314: (  2) - The Searchers
-315: (  2) - The Shadows of Knight
-316: (  2) - The Spencer Davis Group
-317: (  2) - The Third Bardo
-318: (  2) - The Upsetters
-319: (  2) - Third World
-320: (  2) - Tin Machine
-321: (  2) - Tom Baird
-322: (  2) - Tom Robinson
-323: (  2) - U.S. Girls
-324: (  2) - Wham!
-325: (  2) - Yin Yin
-326: (  2) - Yo La Tengo
-327: (  2) - Yorkston/Thorne/Khan
-328: (  1) - Bbc
-329: (  1) - Bruce Springsteen
-330: (  1) - Cbc Music
-331: (  1) - Chris Rea
-332: (  1) - Diana Krall
-333: (  1) - Dinah Washington
-334: (  1) - Doves
-335: (  1) - Dusty Springfield
-336: (  1) - Elvis Presley
-337: (  1) - Exclusivevids1000
-338: (  1) - Foster the People
-339: (  1) - George Strait
-340: (  1) - Greg Lake
-341: (  1) - Jona Lewie
-342: (  1) - Mike Oldfield
-343: (  1) - Peter Twiddy
-344: (  1) - Randy Newman
-345: (  1) - The Church of Leeds Parish Choir
-346: (  1) - The Late Late Show With James Corden
-347: (  1) - The News 247
-348: (  1) - The Temper Trap
+ 93: ( 21) - Eyeless in Gaza
+ 94: ( 21) - Rachel Harrington
+ 95: ( 20) - Echo & the Bunnymen
+ 96: ( 19) - Mindy Smith
+ 97: ( 19) - Wah!
+ 98: ( 18) - Hem
+ 99: ( 18) - JT and the Clouds
+100: ( 18) - Striking Matches
+101: ( 17) - Laura Veirs
+102: ( 17) - The Human League
+103: ( 16) - Laura Gibson
+104: ( 16) - Nick Cave & the Bad Seeds
+105: ( 16) - Young Marble Giants
+106: ( 15) - Alison Moyet
+107: ( 15) - Rod Picott
+108: ( 14) - Devine & Statton
+109: ( 14) - Dolly Parton
+110: ( 14) - The Clash
+111: ( 14) - The Style Council
+112: ( 13) - Brian Eno & David Byrne
+113: ( 13) - Chuck Prophet
+114: ( 13) - Cowboy Junkies
+115: ( 13) - Lou Reed
+116: ( 13) - The Wailin' Jennys
+117: ( 12) - Bill Frisell
+118: ( 12) - Laura Cantrell
+119: ( 12) - Robert Plant
+120: ( 12) - Roddy Frame
+121: ( 12) - The Low Anthem
+122: ( 12) - Willie Nelson & Asleep At the Wheel
+123: ( 11) - Angie Palmer
+124: ( 11) - Darling West
+125: ( 11) - Lcd Soundsystem
+126: ( 11) - Sarah MacDougall
+127: ( 11) - She Drew the Gun
+128: ( 11) - The Doors
+129: ( 11) - The Weather Station
+130: ( 10) - Andrew Combs
+131: ( 10) - Gillian Welch
+132: ( 10) - Green Gartside
+133: ( 10) - Haley Bonar
+134: ( 10) - Joni Mitchell
+135: ( 10) - Justin Townes Earle
+136: ( 10) - Kacey Musgraves
+137: ( 10) - The Civil Wars
+138: ( 10) - Tracey Thorn
+139: ( 10) - UB40
+140: ( 10) - Walter Salas-Humara
+141: (  9) - The Big Moon
+142: (  9) - The Dream Syndicate
+143: (  8) - Bobbie Gentry
+144: (  8) - Caleb Landry Jones
+145: (  8) - Lyle Lovett
+146: (  8) - Martha Wainwright
+147: (  8) - Suzanne Vega
+148: (  7) - Brigid Dawson and the Mothers Network
+149: (  7) - JT Nero
+150: (  7) - Margo Price
+151: (  7) - Mark Lanegan
+152: (  7) - Steve Earle
+153: (  7) - The Jam
+154: (  7) - William Tyler
+155: (  7) - Woods
+156: (  6) - Altered Images
+157: (  6) - Dave Rawlings Machine
+158: (  6) - Lera Lynn
+159: (  6) - Natalie Prass
+160: (  6) - The Comsat Angels
+161: (  5) - Chip Taylor & Carrie Rodriguez
+162: (  5) - Joy Division
+163: (  5) - Just the Faqs
+164: (  5) - Kraftwerk
+165: (  5) - Rosanne Cash
+166: (  5) - School of Seven Bells
+167: (  4) - Aldous Harding
+168: (  4) - Big Thief
+169: (  4) - Bill Callahan
+170: (  4) - Bon Iver
+171: (  4) - Cate le Bon
+172: (  4) - Damien Jurado
+173: (  4) - Field Music
+174: (  4) - Fontaines D.c.
+175: (  4) - Hayes Carll
+176: (  4) - I Break Horses
+177: (  4) - Joan Shelley
+178: (  4) - Julia Jacklin
+179: (  4) - Michael Leonhart Orchestra
+180: (  4) - Modern Nature
+181: (  4) - Phoebe Bridgers
+182: (  4) - Purple Mountains
+183: (  4) - Rhiannon Giddens
+184: (  4) - Robert Forster
+185: (  4) - The Magnetic Fields
+186: (  4) - Weyes Blood
+187: (  3) - Bill Fay
+188: (  3) - Calexico
+189: (  3) - Chapter 4
+190: (  3) - Don Letts and Turtle Bay Present Reggae 45
+191: (  3) - Martha and the Muffins
+192: (  3) - Richard Dawson
+193: (  3) - Rufus Wainwright
+194: (  3) - Sampa the Great
+195: (  3) - The Sundays
+196: (  2) - Ac/Dc
+197: (  2) - Aoife Nessa Frances
+198: (  2) - Aswad
+199: (  2) - Blue Öyster Cult
+200: (  2) - Carly Simon
+201: (  2) - Cat Power
+202: (  2) - Chapter 5
+203: (  2) - David Essex
+204: (  2) - Eddie Vedder
+205: (  2) - Elvis Costello and the Roots
+206: (  2) - Free
+207: (  2) - Gerry Rafferty
+208: (  2) - Hüsker Dü
+209: (  2) - Jean Michel Jarre
+210: (  2) - John Doe
+211: (  2) - John Foxx
+212: (  2) - John Lennon
+213: (  2) - Keeley Forsyth
+214: (  2) - Lehbanchleh
+215: (  2) - Mankind
+216: (  2) - Middle of the Road
+217: (  2) - Modern Studies
+218: (  2) - Mott the Hoople
+219: (  2) - Nap Eyes
+220: (  2) - Nat King Cole
+221: (  2) - Paul Haig
+222: (  2) - Reggae Rockers
+223: (  2) - Richie Havens
+224: (  2) - Scritti Politti
+225: (  2) - Sharon Van Etten
+226: (  2) - Sonic Youth
+227: (  2) - Spizz Energi
+228: (  2) - Steve Harley
+229: (  2) - Steve Wynn
+230: (  2) - Sugar Black
+231: (  2) - The Mellstock Band
+232: (  2) - The Panhandle Mystery Band
+233: (  2) - The Pretenders
+234: (  2) - Tom Baird
+235: (  2) - Tracy Bryant
+236: (  2) - Wham!
+237: (  2) - Wire
+238: (  2) - Yin Yin
+239: (  1) - 13Th Floor Elevators
+240: (  1) - Acetone
+241: (  1) - Alice Boman
+242: (  1) - Andy Shauf
+243: (  1) - Arbouretum
+244: (  1) - Aretha Franklin
+245: (  1) - Baxter Dury
+246: (  1) - Bbc
+247: (  1) - Betty Davis
+248: (  1) - Billy Joel
+249: (  1) - Bradley Brown
+250: (  1) - Bruce Springsteen
+251: (  1) - Buffalo Springfield
+252: (  1) - Bunny Wailer
+253: (  1) - Burning Spear
+254: (  1) - Cbc Music
+255: (  1) - Chalice
+256: (  1) - Chip Taylor
+257: (  1) - Chris Hillman & Steve Earle
+258: (  1) - Chris Rea
+259: (  1) - Cornershop
+260: (  1) - Deep Purple
+261: (  1) - Definitely Dylan
+262: (  1) - Diana Krall
+263: (  1) - Dinah Washington
+264: (  1) - Donnie & Joe Emerson
+265: (  1) - Doves
+266: (  1) - Dusty Springfield
+267: (  1) - Dyke & the Blazers
+268: (  1) - Earl Scruggs
+269: (  1) - Elvis Presley
+270: (  1) - Exclusivevids1000
+271: (  1) - Foster the People
+272: (  1) - Fourth Street Sisters
+273: (  1) - George Strait
+274: (  1) - Gigi Masin
+275: (  1) - Gladys Knight & the Pips
+276: (  1) - Greg Lake
+277: (  1) - Greg Mason
+278: (  1) - Gregory Isaacs
+279: (  1) - Hilary Woods
+280: (  1) - Honey Harper
+281: (  1) - Inner Circle
+282: (  1) - Jackson Browne
+283: (  1) - Jacob Miller
+284: (  1) - Jason Mcmahon
+285: (  1) - Jim Sullivan
+286: (  1) - Joe Tex
+287: (  1) - John Moreland
+288: (  1) - Jona Lewie
+289: (  1) - Judy Mowatt
+290: (  1) - Junior Byles
+291: (  1) - Junior Murvin
+292: (  1) - Juniore
+293: (  1) - Justin Hinds & the Dominoes
+294: (  1) - Karin Krog
+295: (  1) - Karl Schaffner
+296: (  1) - Kiddus I
+297: (  1) - L.A. Takedown
+298: (  1) - Lee Hazlewood
+299: (  1) - Lettuce
+300: (  1) - Lucinda Williams & David Crosby
+301: (  1) - Magazine
+302: (  1) - Maytones
+303: (  1) - Mello
+304: (  1) - Mike Oldfield
+305: (  1) - Mr. Elevator
+306: (  1) - Mrgroovybassman
+307: (  1) - Nadia Reid
+308: (  1) - Nicolas Godin
+309: (  1) - Ooioo
+310: (  1) - Peter Tosh
+311: (  1) - Peter Twiddy
+312: (  1) - Randy Newman
+313: (  1) - Real Estate
+314: (  1) - Rex Garvin & the Mighty Cravers
+315: (  1) - Roky Erickson
+316: (  1) - Sex Pistols
+317: (  1) - Shin Joong Hyun & the Men
+318: (  1) - Sonny & Cher
+319: (  1) - Squirrel Flower
+320: (  1) - Status Quo
+321: (  1) - Stephen Malkmus
+322: (  1) - Supreme Jubilees
+323: (  1) - Swamp Dogg
+324: (  1) - Tamikrest
+325: (  1) - The Abyssinians
+326: (  1) - The Action
+327: (  1) - The Byrds
+328: (  1) - The Church of Leeds Parish Choir
+329: (  1) - The Heptones
+330: (  1) - The J. Geils Band
+331: (  1) - The Late Late Show With James Corden
+332: (  1) - The Men
+333: (  1) - The Mighty Diamonds
+334: (  1) - The Monkees
+335: (  1) - The News 247
+336: (  1) - The Pretenders & Emmylou Harris
+337: (  1) - The Searchers
+338: (  1) - The Shadows of Knight
+339: (  1) - The Spencer Davis Group
+340: (  1) - The Temper Trap
+341: (  1) - The Third Bardo
+342: (  1) - The Upsetters
+343: (  1) - Third World
+344: (  1) - Tin Machine
+345: (  1) - Tom Robinson
+346: (  1) - U.S. Girls
+347: (  1) - Yo La Tengo
+348: (  1) - Yorkston/Thorne/Khan

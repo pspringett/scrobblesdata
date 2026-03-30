@@ -1,7 +1,11 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1202            65           100           663
- 1: (87) - Wolf Alice
+    1896            74           111           772
+ 1: (127) - Creedence Clearwater Revival
+
+
+
+ 2: (123) - Wolf Alice
 
 
 
@@ -12,13 +16,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (76) - Creedence Clearwater Revival
-
-
-
-
-
- 3: (70) - Josh Ritter
 
 
 
@@ -29,9 +26,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 4: (59) - Martin Stephenson and the Daintees
-
- 5: (57) - Newdad
 
 
 
@@ -39,81 +33,134 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 6: (49) - Katherine Priddy
-
- 7: (47) - The Go-Betweens
 
 
 
 
 
- 8: (41) - Heavenly
-
- 9: (39) - Martin Stephenson
-
-
-10: (36) - Emma Swift
-11: (35) - Whitelands
-12: (34) - Chaparelle
-13: (34) - Hem
-
-14: (32) - New Order
-
-
-15: (29) - Lucinda Williams
-16: (28) - Echo & the Bunnymen
-
-17: (26) - Devine & Statton
-18: (26) - Eyeless in Gaza
 
 
 
 
-19: (21) - The Fall
-20: (20) - Sharon Van Etten
-21: (20) - The Belair Lip Bombs
-22: (19) - Orange Juice
-23: (18) - Simple Minds
 
-24: (16) - Altered Images
-25: (15) - Vegas Water Taxi
-26: (14) - Paul Weller
-27: (13) - Emmylou Harris
-28: (13) - Haircut 100
-29: (12) - David Bowie
-30: (12) - Everything But the Girl
-31: (12) - Jimi Hendrix
-32: (12) - Wet Leg
-33: (11) - Edwyn Collins
-34: (10) - Bob Dylan
-35: (10) - Heaven 17
-36: (10) - It'S Immaterial
-37: (10) - John Cooper Clarke
-38: (10) - Mercy Girl
-39: (10) - The Sundays
-40: (10) - U2
-41: ( 9) - Eliza Gilkyson
-42: ( 9) - Suzanne Vega
-43: ( 8) - Robert Forster
-44: ( 8) - The Burning Hell
-45: ( 8) - Tift Merritt
-46: ( 7) - Leonard Cohen
-47: ( 6) - Aztec Camera
-48: ( 6) - Cowboy Junkies
-49: ( 5) - The Zombies
-50: ( 4) - B.E.F.
-51: ( 4) - Rod Stewart
-52: ( 4) - The Weather Station
-53: ( 3) - Anne Mccue
-54: ( 3) - Florence + the Machine
-55: ( 3) - Patti Smith
-56: ( 2) - Lloyd Cole and the Commotions
-57: ( 2) - Weekend
-58: ( 1) - Ac Acoustics
-59: ( 1) - Brian Eno & David Byrne
-60: ( 1) - Brigitte Calls Me Baby
-61: ( 1) - Patty Griffin
-62: ( 1) - Sylvan Esso, Collections of Colonies of Bees
-63: ( 1) - The Assembly
-64: ( 1) - The Massed Carnaby Street John Cooper Clarkes
-65: ( 1) - Xtc
+
+
+ 3: ( 83) - Katherine Priddy
+
+
+
+ 4: ( 79) - Newdad
+ 5: ( 79) - Whitelands
+
+ 6: ( 77) - Vegas Water Taxi
+
+ 7: ( 75) - Josh Ritter
+ 8: ( 75) - The Belair Lip Bombs
+
+ 9: ( 73) - Lucinda Williams
+
+
+
+
+
+
+
+
+10: ( 64) - Emma Swift
+
+11: ( 62) - Heavenly
+
+
+12: ( 59) - Martin Stephenson and the Daintees
+
+
+
+
+
+
+
+13: ( 51) - Eyeless in Gaza
+14: ( 50) - The Fall
+
+15: ( 48) - Glyders
+16: ( 47) - The Go-Betweens
+
+
+
+
+
+
+
+17: ( 39) - Echo & the Bunnymen
+18: ( 39) - Martin Stephenson
+
+
+
+
+19: ( 34) - Chaparelle
+20: ( 34) - Hem
+21: ( 34) - Melody'S Echo Chamber
+
+22: ( 32) - New Order
+23: ( 32) - U2
+
+
+
+24: ( 28) - Tift Merritt
+25: ( 27) - Sharon Van Etten
+26: ( 26) - Devine & Statton
+
+
+
+27: ( 22) - Simple Minds
+
+
+28: ( 19) - Altered Images
+29: ( 19) - Orange Juice
+30: ( 19) - Suzanne Vega
+31: ( 19) - The Burning Hell
+32: ( 18) - Prefab Sprout
+
+
+33: ( 15) - Lloyd Cole and the Commotions
+34: ( 14) - Paul Weller
+35: ( 13) - Emmylou Harris
+36: ( 13) - Haircut 100
+37: ( 12) - Cowboy Junkies
+38: ( 12) - David Bowie
+39: ( 12) - Everything But the Girl
+40: ( 12) - Jimi Hendrix
+41: ( 12) - Wet Leg
+42: ( 11) - Edwyn Collins
+43: ( 11) - Lloyd Cole
+44: ( 10) - Bob Dylan
+45: ( 10) - Heaven 17
+46: ( 10) - It'S Immaterial
+47: ( 10) - John Cooper Clarke
+48: ( 10) - Mercy Girl
+49: ( 10) - The Sundays
+50: (  9) - Eliza Gilkyson
+51: (  9) - The Rolling Stones
+52: (  8) - Robert Forster
+53: (  7) - Leonard Cohen
+54: (  6) - Aztec Camera
+55: (  5) - The Zombies
+56: (  4) - Anne Mccue
+57: (  4) - B.E.F.
+58: (  4) - Rod Stewart
+59: (  4) - The Cure
+60: (  4) - The Weather Station
+61: (  3) - Florence + the Machine
+62: (  3) - Patti Smith
+63: (  3) - Roxy Music
+64: (  2) - The Assembly
+65: (  2) - Weekend
+66: (  1) - Ac Acoustics
+67: (  1) - Brian Eno & David Byrne
+68: (  1) - Brigitte Calls Me Baby
+69: (  1) - Bruce Springsteen
+70: (  1) - Patty Griffin
+71: (  1) - Sylvan Esso, Collections of Colonies of Bees
+72: (  1) - The Massed Carnaby Street John Cooper Clarkes
+73: (  1) - The Schwa
+74: (  1) - Xtc
