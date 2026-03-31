@@ -1,11 +1,15 @@
 Specified year (2026), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     504            19            22           151
- 1: (69) - Katherine Priddy
+     514            19            22           152
+ 1: (73) - Creedence Clearwater Revival
 
 
 
- 2: (65) - Creedence Clearwater Revival
+ 2: (69) - Katherine Priddy
+
+
+
+
 
 
  3: (62) - Wolf Alice
@@ -57,11 +61,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 11: (16) - Tift Merritt
 
-12: (14) - Sharon Van Etten
+12: (14) - Newdad
+13: (14) - Sharon Van Etten
 
-13: (12) - Cowboy Junkies
-14: (12) - Lucinda Williams
-15: (12) - Newdad
+14: (12) - Cowboy Junkies
+15: (12) - Lucinda Williams
 
 
 
