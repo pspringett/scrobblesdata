@@ -1,6 +1,6 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     661            42            54           461
+     661            43            55           462
  1: (100) - Bob Dylan
  2: ( 68) - ABC
  3: ( 42) - Gretchen Peters
@@ -20,11 +20,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 17: ( 13) - Aztec Camera
 18: ( 13) - Corb Lund
 19: ( 13) - Rachel Harrington
-20: ( 13) - Simple Minds
-21: ( 13) - T. Rex
-22: ( 12) - Eliza Gilkyson
-23: ( 12) - Laura Cantrell
-24: ( 12) - Patty Griffin
+20: ( 13) - T. Rex
+21: ( 12) - Eliza Gilkyson
+22: ( 12) - Laura Cantrell
+23: ( 12) - Patty Griffin
+24: ( 12) - Simple Minds
 25: ( 12) - The Low Anthem
 26: ( 11) - Lou Reed
 27: ( 11) - Nick Heyward
@@ -40,6 +40,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 37: (  1) - Lehbanchleh
 38: (  1) - Mankind
 39: (  1) - Paul Weller
-40: (  1) - Sugar Black
-41: (  1) - The Men
-42: (  1) - Tom Robinson
+40: (  1) - Simple Minds Sons and Fascination/sister Feelings Call
+41: (  1) - Sugar Black
+42: (  1) - The Men
+43: (  1) - Tom Robinson
