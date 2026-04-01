@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2151            78           122           838
+    2162            78           123           846
   1: (83) - These Frightening Machines - Katherine Priddy
   2: (82) - I Believe In You, My Honeydew - Josh Ritter
 
@@ -109,58 +109,59 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  65: ( 9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
  66: ( 9) - Saturns Pattern - Paul Weller
  67: ( 8) - Penthouse And Pavement - Heaven 17
- 68: ( 7) - Nation Shall Speak Unto Nation - Edwyn Collins
- 69: ( 7) * Songs From A Room - Leonard Cohen
- 70: ( 7) - The Glasgow School - Orange Juice
- 71: ( 7) - You Can't Hide Your Love Forever - Orange Juice
- 72: ( 6) - Hex Enduction Hour - The Fall
- 73: ( 6) * Knife - Aztec Camera
- 74: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
- 75: ( 6) - Waves - Newdad
- 76: ( 5) - 66 - Paul Weller
- 77: ( 5) - Low - David Bowie
- 78: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
- 79: ( 4) - 1981-2011 - B.E.F.
- 80: ( 4) - Early Gold - Simple Minds
- 81: ( 4) - Humanhood - The Weather Station
- 82: ( 4) - Roll - Anne Mccue
- 83: ( 4) - Sermon On The Rocks - Josh Ritter
- 84: ( 4) * Seventeen Seconds - The Cure
- 85: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
- 86: ( 4) - Unplugged....And Seated - Rod Stewart
- 87: ( 3) - Country Life - Roxy Music
- 88: ( 3) - Everybody Scream - Florence + the Machine
- 89: ( 3) - Home Recordings - Emma Swift
- 90: ( 3) * Hope And Despair - Edwyn Collins
- 91: ( 3) - Horses - Patti Smith
- 92: ( 3) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
- 93: ( 3) * Wrecking Ball - Emmylou Harris
- 94: ( 2) - Elevation Days - Edwyn Collins
- 95: ( 2) - Empires And Dance - Simple Minds
- 96: ( 2) - Gold - Greatest Hits - The Carpenters
- 97: ( 2) - Golden Age - Heaven 17
- 98: ( 2) - Home Again - Edwyn Collins
- 99: ( 2) * Impossible Dream - Patty Griffin
-100: ( 2) * Losing Sleep - Edwyn Collins
-101: ( 2) - Never Never - The Assembly
-102: ( 2) - New Gold Dream - Simple Minds
-103: ( 1) - Acoustic - Simple Minds
-104: ( 1) - Down And Out In Party City - Emma Swift
-105: ( 1) - Drums And Wires - Xtc
-106: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-107: ( 1) - Garbage Island - The Burning Hell
-108: ( 1) - Gotta Get Away - The Schwa
-109: ( 1) * Heroes - David Bowie
-110: ( 1) - Knowledge - Edwyn Collins
-111: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-112: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-113: ( 1) - Private Practice - Dr Feelgood
-114: ( 1) - Punch The Clock - Elvis Costello & the Attractions
-115: ( 1) - Slumber Party - Brigitte Calls Me Baby
-116: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-117: ( 1) - The '81 Demos - Weekend
-118: ( 1) - The Candle And The Flame - Robert Forster
-119: ( 1) - The Collection - Marc Bolan & T. Rex
-120: ( 1) - The Singles - Weekend
-121: ( 1) - Understanding Music - Ac Acoustics
-122: ( 1) - You Got Here First - Emma Swift
+ 68: ( 7) - Empires And Dance - Simple Minds
+ 69: ( 7) - Nation Shall Speak Unto Nation - Edwyn Collins
+ 70: ( 7) * Songs From A Room - Leonard Cohen
+ 71: ( 7) - The Glasgow School - Orange Juice
+ 72: ( 7) - You Can't Hide Your Love Forever - Orange Juice
+ 73: ( 6) - Hex Enduction Hour - The Fall
+ 74: ( 6) * Knife - Aztec Camera
+ 75: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+ 76: ( 6) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 77: ( 6) - Waves - Newdad
+ 78: ( 5) - 66 - Paul Weller
+ 79: ( 5) - Low - David Bowie
+ 80: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+ 81: ( 4) - 1981-2011 - B.E.F.
+ 82: ( 4) - Early Gold - Simple Minds
+ 83: ( 4) - Humanhood - The Weather Station
+ 84: ( 4) - Roll - Anne Mccue
+ 85: ( 4) - Sermon On The Rocks - Josh Ritter
+ 86: ( 4) * Seventeen Seconds - The Cure
+ 87: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 88: ( 4) - Unplugged....And Seated - Rod Stewart
+ 89: ( 3) - Country Life - Roxy Music
+ 90: ( 3) - Everybody Scream - Florence + the Machine
+ 91: ( 3) - Home Recordings - Emma Swift
+ 92: ( 3) * Hope And Despair - Edwyn Collins
+ 93: ( 3) - Horses - Patti Smith
+ 94: ( 3) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
+ 95: ( 3) * Wrecking Ball - Emmylou Harris
+ 96: ( 2) - Elevation Days - Edwyn Collins
+ 97: ( 2) - Gold - Greatest Hits - The Carpenters
+ 98: ( 2) - Golden Age - Heaven 17
+ 99: ( 2) - Home Again - Edwyn Collins
+100: ( 2) * Impossible Dream - Patty Griffin
+101: ( 2) * Losing Sleep - Edwyn Collins
+102: ( 2) - Never Never - The Assembly
+103: ( 2) - New Gold Dream - Simple Minds
+104: ( 1) - Acoustic - Simple Minds
+105: ( 1) - Down And Out In Party City - Emma Swift
+106: ( 1) - Drums And Wires - Xtc
+107: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+108: ( 1) - Garbage Island - The Burning Hell
+109: ( 1) - Gotta Get Away - The Schwa
+110: ( 1) * Heroes - David Bowie
+111: ( 1) - Knowledge - Edwyn Collins
+112: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+113: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+114: ( 1) - Private Practice - Dr Feelgood
+115: ( 1) - Punch The Clock - Elvis Costello & the Attractions
+116: ( 1) - Slumber Party - Brigitte Calls Me Baby
+117: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+118: ( 1) - The '81 Demos - Weekend
+119: ( 1) - The Candle And The Flame - Robert Forster
+120: ( 1) - The Collection - Marc Bolan & T. Rex
+121: ( 1) - The Singles - Weekend
+122: ( 1) - Understanding Music - Ac Acoustics
+123: ( 1) - You Got Here First - Emma Swift
