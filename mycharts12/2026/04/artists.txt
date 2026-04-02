@@ -1,7 +1,20 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3586           134           186          1340
-  1: (172) - Wolf Alice
+    3339           134           186          1340
+  1: (154) - Edwyn Collins
+
+
+  2: (151) - Josh Ritter
+
+
+
+
+
+
+  3: (144) - Emma Swift
+
+
+  4: (141) - Wolf Alice
 
 
 
@@ -16,13 +29,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-  2: (155) - Emma Swift
-  3: (154) - Edwyn Collins
-
-
-  4: (151) - Josh Ritter
+  5: (126) - Suzanne Vega
 
 
 
@@ -30,32 +37,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-
-
-
-
-
-  5: (135) - Creedence Clearwater Revival
-
-
-
-
-
-
-
-
-  6: (126) - Suzanne Vega
-
-
-
-
-
-
-
-  7: (118) - Chaparelle
+  6: (118) - Chaparelle
 
 
 
@@ -69,7 +51,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
+  7: (104) - Creedence Clearwater Revival
 
 
 
@@ -91,76 +73,78 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 11: ( 83) - Katherine Priddy
- 12: ( 83) - Robert Forster
-
- 13: ( 81) - Newdad
-
- 14: ( 79) - Whitelands
- 15: ( 78) - Pulp
- 16: ( 77) - Vegas Water Taxi
-
- 17: ( 75) - The Belair Lip Bombs
- 18: ( 75) - The Go-Betweens
-
- 19: ( 73) - Lucinda Williams
- 20: ( 73) - Wet Leg
-
-
- 21: ( 70) - Roxy Music
+ 11: ( 83) - Robert Forster
 
 
 
 
-
- 22: ( 64) - Bob Dylan
- 23: ( 64) - Orange Juice
-
- 24: ( 62) - Heavenly
- 25: ( 61) - Horsegirl
+ 12: ( 78) - Pulp
 
 
+ 13: ( 75) - Newdad
+ 14: ( 75) - The Belair Lip Bombs
+ 15: ( 75) - The Go-Betweens
 
- 26: ( 57) - Hem
+ 16: ( 73) - Wet Leg
 
 
- 27: ( 54) - R.E.M.
+ 17: ( 70) - Roxy Music
 
 
- 28: ( 51) - Eyeless in Gaza
- 29: ( 50) - The Fall
+ 18: ( 67) - Lucinda Williams
+ 19: ( 66) - Vegas Water Taxi
 
- 30: ( 48) - Glyders
- 31: ( 47) - Paul Weller
+ 20: ( 64) - Bob Dylan
+ 21: ( 64) - Orange Juice
 
- 32: ( 45) - Sharon Van Etten
+ 22: ( 62) - Heavenly
+ 23: ( 61) - Horsegirl
+
+
+
+ 24: ( 57) - Hem
+
+
+ 25: ( 54) - R.E.M.
+
+
+
+
+ 26: ( 49) - Katherine Priddy
+ 27: ( 49) - Whitelands
+ 28: ( 48) - Glyders
+ 29: ( 47) - Paul Weller
 
 
 
 
 
- 33: ( 39) - Echo & the Bunnymen
- 34: ( 39) - Martin Stephenson
 
 
- 35: ( 36) - U2
-
- 36: ( 34) - Melody'S Echo Chamber
-
- 37: ( 32) - New Order
+ 30: ( 39) - Martin Stephenson
+ 31: ( 38) - Sharon Van Etten
 
 
+ 32: ( 35) - The Fall
+ 33: ( 34) - Melody'S Echo Chamber
 
- 38: ( 28) - Tift Merritt
- 39: ( 27) - Altered Images
- 40: ( 26) - Devine & Statton
- 41: ( 26) - The Weather Station
- 42: ( 25) - Everything But the Girl
- 43: ( 24) - The Beach Boys
- 44: ( 23) - Lloyd Cole
- 45: ( 22) - David Bowie
+ 34: ( 32) - New Order
 
 
+
+ 35: ( 28) - Echo & the Bunnymen
+
+ 36: ( 26) - Devine & Statton
+ 37: ( 26) - Eyeless in Gaza
+ 38: ( 26) - The Weather Station
+ 39: ( 26) - U2
+ 40: ( 25) - Everything But the Girl
+ 41: ( 24) - Altered Images
+ 42: ( 24) - The Beach Boys
+ 43: ( 23) - Lloyd Cole
+ 44: ( 22) - David Bowie
+
+ 45: ( 20) - Tift Merritt
  46: ( 19) - Aztec Camera
  47: ( 19) - Patty Griffin
  48: ( 18) - Prefab Sprout
@@ -173,62 +157,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  55: ( 13) - Haircut 100
  56: ( 13) - Jimi Hendrix
  57: ( 12) - B.E.F.
- 58: ( 12) - Cowboy Junkies
- 59: ( 11) - Bob Hund
- 60: ( 11) - Sly & the Family Stone
- 61: ( 11) - The Cure
- 62: ( 11) - The Velvet Underground
- 63: ( 10) - Gardens
- 64: ( 10) - Heaven 17
- 65: ( 10) - It'S Immaterial
- 66: ( 10) - John Cooper Clarke
- 67: ( 10) - Laura Marling
- 68: ( 10) - Mercy Girl
- 69: ( 10) - The Sundays
- 70: (  9) - Eliza Gilkyson
- 71: (  9) - The Rolling Stones
- 72: (  9) - Tom Tom Club
+ 58: ( 11) - Bob Hund
+ 59: ( 11) - Sly & the Family Stone
+ 60: ( 11) - The Cure
+ 61: ( 11) - The Velvet Underground
+ 62: ( 10) - Gardens
+ 63: ( 10) - Heaven 17
+ 64: ( 10) - It'S Immaterial
+ 65: ( 10) - John Cooper Clarke
+ 66: ( 10) - Laura Marling
+ 67: ( 10) - Mercy Girl
+ 68: ( 10) - The Sundays
+ 69: (  9) - Eliza Gilkyson
+ 70: (  9) - The Rolling Stones
+ 71: (  9) - Tom Tom Club
 
- 73: (  7) - Brigitte Calls Me Baby
- 74: (  7) - JT Nero
- 75: (  7) - Mandrake Handshake
+ 72: (  7) - Brigitte Calls Me Baby
+ 73: (  7) - JT Nero
+ 74: (  7) - Mandrake Handshake
+ 75: (  6) - Cowboy Junkies
  76: (  6) - Lauren Mayberry
  77: (  6) - Weekend
  78: (  5) - Tallies
  79: (  5) - The Zombies
  80: (  4) - ABC
- 81: (  4) - Anne Mccue
- 82: (  4) - Rod Stewart
- 83: (  4) - The Human League
- 84: (  3) - Andy Golledge
+ 81: (  4) - Rod Stewart
+ 82: (  4) - The Human League
+ 83: (  3) - Andy Golledge
+ 84: (  3) - Anne Mccue
  85: (  3) - Florence + the Machine
  86: (  3) - Patti Smith
  87: (  3) - Pulp, Chilly Gonzales
  88: (  2) - Ricky Nelson, the Stone Canyon Band
- 89: (  2) - The Assembly
- 90: (  2) - The Carpenters
- 91: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
- 92: (  1) - Ac Acoustics
- 93: (  1) - Billy Idol
- 94: (  1) - Blue Orchids
- 95: (  1) - Brian Eno & David Byrne
- 96: (  1) - Bruce Springsteen
- 97: (  1) - Culture Club
- 98: (  1) - Dexys Midnight Runners
- 99: (  1) - Dr Feelgood
-100: (  1) - Elvis Costello & the Attractions
-101: (  1) - Girls At Our Best!
-102: (  1) - Hurrah!
-103: (  1) - Jane
-104: (  1) - Joan Osborne
-105: (  1) - Joe Jackson
-106: (  1) - Level 42
-107: (  1) - Marc Bolan & T. Rex
-108: (  1) - Marine Girls
-109: (  1) - Nouvelle Vague, Marina Céleste
-110: (  1) - Simple Minds, Kt Tunstall
-111: (  1) - Soft Cell
-112: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 89: (  2) - The Carpenters
+ 90: (  2) - Tom Robinson, Steve Laurie, Marsha Hunt, Martin Ditcham, Pat Davey, Paul Harvey, Ian Ballamy, Guy Barker
+ 91: (  1) - Ac Acoustics
+ 92: (  1) - Billy Idol
+ 93: (  1) - Blue Orchids
+ 94: (  1) - Brian Eno & David Byrne
+ 95: (  1) - Bruce Springsteen
+ 96: (  1) - Culture Club
+ 97: (  1) - Dexys Midnight Runners
+ 98: (  1) - Dr Feelgood
+ 99: (  1) - Elvis Costello & the Attractions
+100: (  1) - Girls At Our Best!
+101: (  1) - Hurrah!
+102: (  1) - Jane
+103: (  1) - Joan Osborne
+104: (  1) - Joe Jackson
+105: (  1) - Level 42
+106: (  1) - Marc Bolan & T. Rex
+107: (  1) - Marine Girls
+108: (  1) - Nouvelle Vague, Marina Céleste
+109: (  1) - Simple Minds, Kt Tunstall
+110: (  1) - Soft Cell
+111: (  1) - Sylvan Esso, Collections of Colonies of Bees
+112: (  1) - The Assembly
 113: (  1) - The Buggles
 114: (  1) - The Go-go's
 115: (  1) - The Massed Carnaby Street John Cooper Clarkes

@@ -1,7 +1,8 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3046           109           155          1144
-  1: (172) - Wolf Alice
+    2799           109           155          1144
+  1: (142) - Emma Swift
+  2: (141) - Wolf Alice
 
 
 
@@ -16,17 +17,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: (126) - Suzanne Vega
 
 
 
 
-  2: (153) - Emma Swift
 
 
 
 
 
 
+  4: (115) - Josh Ritter
 
 
 
@@ -37,39 +39,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  3: (135) - Creedence Clearwater Revival
-
-
-
-
-
-
-
-
-  4: (126) - Suzanne Vega
-
-
-
-
-
-
-
-
-
-
-  5: (115) - Josh Ritter
-
-
-
-
-
-
-
-
-
-
-
+  5: (104) - Creedence Clearwater Revival
 
 
 
@@ -91,45 +61,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 10: ( 83) - Katherine Priddy
-
- 11: ( 81) - Newdad
-
- 12: ( 79) - Whitelands
-
- 13: ( 77) - Vegas Water Taxi
-
- 14: ( 75) - The Belair Lip Bombs
-
- 15: ( 73) - Lucinda Williams
-
-
-
-
-
- 16: ( 67) - Chaparelle
-
-
- 17: ( 64) - Orange Juice
- 18: ( 64) - The Go-Betweens
- 19: ( 63) - Pulp
- 20: ( 62) - Heavenly
- 21: ( 61) - Roxy Music
- 22: ( 61) - Wet Leg
-
-
-
- 23: ( 57) - Hem
-
-
-
-
- 24: ( 52) - Bob Dylan
- 25: ( 51) - Eyeless in Gaza
- 26: ( 51) - Robert Forster
- 27: ( 50) - The Fall
-
- 28: ( 48) - Glyders
 
 
 
@@ -138,29 +69,72 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 29: ( 39) - Echo & the Bunnymen
- 30: ( 39) - Martin Stephenson
-
-
- 31: ( 36) - U2
-
- 32: ( 34) - Melody'S Echo Chamber
-
- 33: ( 32) - New Order
+ 10: ( 75) - Newdad
+ 11: ( 75) - The Belair Lip Bombs
 
 
 
- 34: ( 28) - Tift Merritt
- 35: ( 27) - Altered Images
- 36: ( 27) - Sharon Van Etten
- 37: ( 26) - Devine & Statton
- 38: ( 26) - The Weather Station
-
- 39: ( 24) - Everything But the Girl
-
- 40: ( 22) - David Bowie
 
 
+
+
+ 12: ( 67) - Chaparelle
+ 13: ( 67) - Lucinda Williams
+ 14: ( 66) - Vegas Water Taxi
+
+ 15: ( 64) - Orange Juice
+ 16: ( 64) - The Go-Betweens
+ 17: ( 63) - Pulp
+ 18: ( 62) - Heavenly
+ 19: ( 61) - Roxy Music
+ 20: ( 61) - Wet Leg
+
+
+
+ 21: ( 57) - Hem
+
+
+
+
+ 22: ( 52) - Bob Dylan
+ 23: ( 51) - Robert Forster
+
+ 24: ( 49) - Katherine Priddy
+ 25: ( 49) - Whitelands
+ 26: ( 48) - Glyders
+
+
+
+
+
+
+
+
+ 27: ( 39) - Martin Stephenson
+
+
+
+ 28: ( 35) - The Fall
+ 29: ( 34) - Melody'S Echo Chamber
+
+ 30: ( 32) - New Order
+
+
+
+ 31: ( 28) - Echo & the Bunnymen
+
+ 32: ( 26) - Devine & Statton
+ 33: ( 26) - Eyeless in Gaza
+ 34: ( 26) - The Weather Station
+ 35: ( 26) - U2
+
+ 36: ( 24) - Altered Images
+ 37: ( 24) - Everything But the Girl
+
+ 38: ( 22) - David Bowie
+
+ 39: ( 20) - Sharon Van Etten
+ 40: ( 20) - Tift Merritt
  41: ( 19) - Aztec Camera
  42: ( 19) - Patty Griffin
  43: ( 18) - Prefab Sprout
@@ -171,55 +145,55 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: ( 13) - Emmylou Harris
  48: ( 13) - Haircut 100
  49: ( 12) - B.E.F.
- 50: ( 12) - Cowboy Junkies
- 51: ( 12) - Jimi Hendrix
- 52: ( 11) - Horsegirl
- 53: ( 11) - Lloyd Cole
- 54: ( 11) - Sly & the Family Stone
- 55: ( 11) - The Velvet Underground
- 56: ( 10) - Heaven 17
- 57: ( 10) - It'S Immaterial
- 58: ( 10) - John Cooper Clarke
- 59: ( 10) - Mercy Girl
- 60: ( 10) - The Sundays
- 61: (  9) - Eliza Gilkyson
- 62: (  9) - The Rolling Stones
+ 50: ( 12) - Jimi Hendrix
+ 51: ( 11) - Horsegirl
+ 52: ( 11) - Lloyd Cole
+ 53: ( 11) - Sly & the Family Stone
+ 54: ( 11) - The Velvet Underground
+ 55: ( 10) - Heaven 17
+ 56: ( 10) - It'S Immaterial
+ 57: ( 10) - John Cooper Clarke
+ 58: ( 10) - Mercy Girl
+ 59: ( 10) - The Sundays
+ 60: (  9) - Eliza Gilkyson
+ 61: (  9) - The Rolling Stones
 
- 63: (  7) - Brigitte Calls Me Baby
- 64: (  7) - JT Nero
- 65: (  7) - Leonard Cohen
+ 62: (  7) - Brigitte Calls Me Baby
+ 63: (  7) - JT Nero
+ 64: (  7) - Leonard Cohen
+ 65: (  6) - Cowboy Junkies
  66: (  6) - Lauren Mayberry
  67: (  5) - The Cure
  68: (  5) - The Zombies
  69: (  4) - ABC
- 70: (  4) - Anne Mccue
- 71: (  4) - R.E.M.
- 72: (  4) - Rod Stewart
- 73: (  4) - The Human League
- 74: (  3) - Andy Golledge
+ 70: (  4) - R.E.M.
+ 71: (  4) - Rod Stewart
+ 72: (  4) - The Human League
+ 73: (  3) - Andy Golledge
+ 74: (  3) - Anne Mccue
  75: (  3) - Florence + the Machine
  76: (  3) - Patti Smith
  77: (  2) - Pulp, Chilly Gonzales
  78: (  2) - Ricky Nelson, the Stone Canyon Band
- 79: (  2) - The Assembly
- 80: (  2) - The Carpenters
- 81: (  2) - Weekend
- 82: (  1) - Ac Acoustics
- 83: (  1) - Billy Idol
- 84: (  1) - Brian Eno & David Byrne
- 85: (  1) - Bruce Springsteen
- 86: (  1) - Culture Club
- 87: (  1) - Dexys Midnight Runners
- 88: (  1) - Dr Feelgood
- 89: (  1) - Elvis Costello & the Attractions
- 90: (  1) - Joe Jackson
- 91: (  1) - Level 42
- 92: (  1) - Marc Bolan & T. Rex
- 93: (  1) - Nouvelle Vague, Marina Céleste
- 94: (  1) - Orchestral Manoeuvres in the Dark
- 95: (  1) - Simple Minds, Kt Tunstall
- 96: (  1) - Soft Cell
- 97: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 79: (  2) - The Carpenters
+ 80: (  2) - Weekend
+ 81: (  1) - Ac Acoustics
+ 82: (  1) - Billy Idol
+ 83: (  1) - Brian Eno & David Byrne
+ 84: (  1) - Bruce Springsteen
+ 85: (  1) - Culture Club
+ 86: (  1) - Dexys Midnight Runners
+ 87: (  1) - Dr Feelgood
+ 88: (  1) - Elvis Costello & the Attractions
+ 89: (  1) - Joe Jackson
+ 90: (  1) - Level 42
+ 91: (  1) - Marc Bolan & T. Rex
+ 92: (  1) - Nouvelle Vague, Marina Céleste
+ 93: (  1) - Orchestral Manoeuvres in the Dark
+ 94: (  1) - Simple Minds, Kt Tunstall
+ 95: (  1) - Soft Cell
+ 96: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 97: (  1) - The Assembly
  98: (  1) - The Buggles
  99: (  1) - The Go-go's
 100: (  1) - The Massed Carnaby Street John Cooper Clarkes

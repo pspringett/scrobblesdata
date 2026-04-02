@@ -1,7 +1,10 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3248           121           171          1210
-  1: (172) - Wolf Alice
+    3001           121           171          1210
+  1: (144) - Emma Swift
+
+
+  2: (141) - Wolf Alice
 
 
 
@@ -16,11 +19,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-  2: (155) - Emma Swift
-
-
+  3: (126) - Suzanne Vega
+  4: (125) - Edwyn Collins
 
 
 
@@ -28,35 +28,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-
-
-
-
-
-
-
-
-
-  3: (135) - Creedence Clearwater Revival
-
-
-
-
-
-
-
-
-  4: (126) - Suzanne Vega
-  5: (125) - Edwyn Collins
-
-
-
-
-
-
-
-  6: (117) - Josh Ritter
+  5: (117) - Josh Ritter
 
 
 
@@ -69,7 +41,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
+  6: (104) - Creedence Clearwater Revival
 
 
 
@@ -91,19 +63,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 10: ( 83) - Katherine Priddy
- 11: ( 83) - Robert Forster
+ 10: ( 83) - Robert Forster
 
- 12: ( 81) - Newdad
 
- 13: ( 79) - Whitelands
- 14: ( 78) - Chaparelle
- 15: ( 78) - Pulp
- 16: ( 77) - Vegas Water Taxi
 
- 17: ( 75) - The Belair Lip Bombs
 
- 18: ( 73) - Lucinda Williams
+ 11: ( 78) - Chaparelle
+ 12: ( 78) - Pulp
+
+
+ 13: ( 75) - Newdad
+ 14: ( 75) - The Belair Lip Bombs
 
 
 
@@ -111,57 +81,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 15: ( 67) - Lucinda Williams
+ 16: ( 66) - Vegas Water Taxi
 
- 19: ( 64) - Orange Juice
- 20: ( 64) - The Go-Betweens
+ 17: ( 64) - Orange Juice
+ 18: ( 64) - The Go-Betweens
 
- 21: ( 62) - Heavenly
- 22: ( 61) - Roxy Music
- 23: ( 61) - Wet Leg
-
-
-
- 24: ( 57) - Hem
+ 19: ( 62) - Heavenly
+ 20: ( 61) - Roxy Music
+ 21: ( 61) - Wet Leg
 
 
 
-
- 25: ( 52) - Bob Dylan
- 26: ( 51) - Eyeless in Gaza
- 27: ( 50) - The Fall
-
- 28: ( 48) - Glyders
+ 22: ( 57) - Hem
 
 
 
 
- 29: ( 43) - R.E.M.
+ 23: ( 52) - Bob Dylan
+
+
+ 24: ( 49) - Katherine Priddy
+ 25: ( 49) - Whitelands
+ 26: ( 48) - Glyders
 
 
 
- 30: ( 39) - Echo & the Bunnymen
- 31: ( 39) - Martin Stephenson
 
-
- 32: ( 36) - U2
-
- 33: ( 34) - Melody'S Echo Chamber
-
- 34: ( 32) - New Order
+ 27: ( 43) - R.E.M.
 
 
 
- 35: ( 28) - Tift Merritt
- 36: ( 27) - Altered Images
- 37: ( 27) - Sharon Van Etten
- 38: ( 26) - Devine & Statton
- 39: ( 26) - The Weather Station
- 40: ( 25) - Everything But the Girl
- 41: ( 24) - The Beach Boys
-
- 42: ( 22) - David Bowie
+ 28: ( 39) - Martin Stephenson
 
 
+
+ 29: ( 35) - The Fall
+ 30: ( 34) - Melody'S Echo Chamber
+
+ 31: ( 32) - New Order
+
+
+
+ 32: ( 28) - Echo & the Bunnymen
+
+ 33: ( 26) - Devine & Statton
+ 34: ( 26) - Eyeless in Gaza
+ 35: ( 26) - The Weather Station
+ 36: ( 26) - U2
+ 37: ( 25) - Everything But the Girl
+ 38: ( 24) - Altered Images
+ 39: ( 24) - The Beach Boys
+
+ 40: ( 22) - David Bowie
+
+ 41: ( 20) - Sharon Van Etten
+ 42: ( 20) - Tift Merritt
  43: ( 19) - Aztec Camera
  44: ( 19) - Patty Griffin
  45: ( 18) - Prefab Sprout
@@ -173,59 +148,59 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  51: ( 13) - Emmylou Harris
  52: ( 13) - Haircut 100
  53: ( 12) - B.E.F.
- 54: ( 12) - Cowboy Junkies
- 55: ( 12) - Jimi Hendrix
- 56: ( 11) - Bob Hund
- 57: ( 11) - Lloyd Cole
- 58: ( 11) - Sly & the Family Stone
- 59: ( 11) - The Velvet Underground
- 60: ( 10) - Heaven 17
- 61: ( 10) - It'S Immaterial
- 62: ( 10) - John Cooper Clarke
- 63: ( 10) - Mercy Girl
- 64: ( 10) - The Sundays
- 65: (  9) - Eliza Gilkyson
- 66: (  9) - The Rolling Stones
+ 54: ( 12) - Jimi Hendrix
+ 55: ( 11) - Bob Hund
+ 56: ( 11) - Lloyd Cole
+ 57: ( 11) - Sly & the Family Stone
+ 58: ( 11) - The Velvet Underground
+ 59: ( 10) - Heaven 17
+ 60: ( 10) - It'S Immaterial
+ 61: ( 10) - John Cooper Clarke
+ 62: ( 10) - Mercy Girl
+ 63: ( 10) - The Sundays
+ 64: (  9) - Eliza Gilkyson
+ 65: (  9) - The Rolling Stones
 
- 67: (  7) - Brigitte Calls Me Baby
- 68: (  7) - JT Nero
- 69: (  7) - Leonard Cohen
+ 66: (  7) - Brigitte Calls Me Baby
+ 67: (  7) - JT Nero
+ 68: (  7) - Leonard Cohen
+ 69: (  6) - Cowboy Junkies
  70: (  6) - Lauren Mayberry
  71: (  6) - Weekend
  72: (  5) - Tallies
  73: (  5) - The Cure
  74: (  5) - The Zombies
  75: (  4) - ABC
- 76: (  4) - Anne Mccue
- 77: (  4) - Rod Stewart
- 78: (  4) - The Human League
- 79: (  3) - Andy Golledge
+ 76: (  4) - Rod Stewart
+ 77: (  4) - The Human League
+ 78: (  3) - Andy Golledge
+ 79: (  3) - Anne Mccue
  80: (  3) - Florence + the Machine
  81: (  3) - Patti Smith
  82: (  3) - Pulp, Chilly Gonzales
  83: (  2) - Ricky Nelson, the Stone Canyon Band
- 84: (  2) - The Assembly
- 85: (  2) - The Carpenters
- 86: (  1) - Ac Acoustics
- 87: (  1) - Billy Idol
- 88: (  1) - Blue Orchids
- 89: (  1) - Brian Eno & David Byrne
- 90: (  1) - Bruce Springsteen
- 91: (  1) - Culture Club
- 92: (  1) - Dexys Midnight Runners
- 93: (  1) - Dr Feelgood
- 94: (  1) - Elvis Costello & the Attractions
- 95: (  1) - Girls At Our Best!
- 96: (  1) - Hurrah!
- 97: (  1) - Jane
- 98: (  1) - Joe Jackson
- 99: (  1) - Level 42
-100: (  1) - Marc Bolan & T. Rex
-101: (  1) - Marine Girls
-102: (  1) - Nouvelle Vague, Marina Céleste
-103: (  1) - Simple Minds, Kt Tunstall
-104: (  1) - Soft Cell
-105: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 84: (  2) - The Carpenters
+ 85: (  1) - Ac Acoustics
+ 86: (  1) - Billy Idol
+ 87: (  1) - Blue Orchids
+ 88: (  1) - Brian Eno & David Byrne
+ 89: (  1) - Bruce Springsteen
+ 90: (  1) - Culture Club
+ 91: (  1) - Dexys Midnight Runners
+ 92: (  1) - Dr Feelgood
+ 93: (  1) - Elvis Costello & the Attractions
+ 94: (  1) - Girls At Our Best!
+ 95: (  1) - Hurrah!
+ 96: (  1) - Jane
+ 97: (  1) - Joe Jackson
+ 98: (  1) - Level 42
+ 99: (  1) - Marc Bolan & T. Rex
+100: (  1) - Marine Girls
+101: (  1) - Nouvelle Vague, Marina Céleste
+102: (  1) - Simple Minds, Kt Tunstall
+103: (  1) - Soft Cell
+104: (  1) - Sylvan Esso, Collections of Colonies of Bees
+105: (  1) - The Assembly
 106: (  1) - The Buggles
 107: (  1) - The Go-go's
 108: (  1) - The Massed Carnaby Street John Cooper Clarkes
