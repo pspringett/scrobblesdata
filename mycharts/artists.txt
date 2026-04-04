@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   70436          1298          1946         13393
+   70445          1298          1946         13398
    1: (2171) - Lloyd Cole
    2: (1897) - David Bowie
    3: (1832) - Bob Dylan
@@ -67,8 +67,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   64: ( 309) - Margo Price
   65: ( 302) - The Go-Betweens
   66: ( 288) - Elvis Costello
-  67: ( 281) - Kate Bush
-  68: ( 280) - Emma Swift
+  67: ( 282) - Emma Swift
+  68: ( 281) - Kate Bush
   69: ( 279) - The Corrs
   70: ( 278) - Angie Palmer
   71: ( 277) - The Smiths
@@ -166,7 +166,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  163: (  83) - Mercury Rev
  164: (  82) - Pretenders
  165: (  82) - The B-52's
- 166: (  80) - Anne Mccue
+ 166: (  81) - Anne Mccue
  167: (  80) - Focus
  168: (  79) - Whitelands
  169: (  78) - Beabadoobee
@@ -348,106 +348,106 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  345: (  13) - John Cale
  346: (  13) - Kristin Hersh
  347: (  13) - Miranda Lambert
- 348: (  13) - Ryan Bingham
- 349: (  13) - The Bathers
- 350: (  13) - Tubeway Army
- 351: (  13) - William Tyler
- 352: (  12) - Belle and Sebastian
- 353: (  12) - Callaghan
- 354: (  12) - Clinic Stars
- 355: (  12) - Fontaines D.c.
- 356: (  12) - Goldfrapp
- 357: (  12) - Jim Croce
- 358: (  12) - John Foxx
- 359: (  12) - Max Romeo
- 360: (  12) - Myrtle Park's Fishing Club
- 361: (  12) - The Church
- 362: (  12) - The Jimi Hendrix Experience
- 363: (  12) - Tom Robinson
- 364: (  12) - Yonder Mountain String Band
- 365: (  11) - Bob Hund
- 366: (  11) - Colin Farrell
- 367: (  11) - Darling West
- 368: (  11) - Dry Cleaning
- 369: (  11) - Elizabeth Cook
- 370: (  11) - Françoise Hardy
- 371: (  11) - Grace Petrie
- 372: (  11) - Guillemots
- 373: (  11) - Guy Clark
- 374: (  11) - Hatchie
- 375: (  11) - Laurel Canyon
- 376: (  11) - Matt Berninger
- 377: (  11) - Peel.Rocks Magazine
- 378: (  11) - Rolling Blackouts Coastal Fever
- 379: (  11) - Television
- 380: (  11) - The Men
- 381: (  11) - Travis Linville
- 382: (  10) - Cara Luft
- 383: (  10) - Dinah Washington
- 384: (  10) - Easy Star All-stars
- 385: (  10) - Elastica
- 386: (  10) - Green Gartside
- 387: (  10) - K.D. Lang
- 388: (  10) - Kathleen Edwards
- 389: (  10) - Madeleine Peyroux
- 390: (  10) - Mercy Girl
- 391: (  10) - Mount Moriah
- 392: (  10) - Nico
- 393: (  10) - Nina Simone
- 394: (  10) - Samantha Crain
- 395: (  10) - The Feelies
- 396: (  10) - The Twilight Sad
- 397: (  10) - Tim Buckley
- 398: (  10) - Wednesday
- 399: (   9) - Bryan Adams
- 400: (   9) - Daniel Bachman
- 401: (   9) - Gregory Isaacs
- 402: (   9) - Hawkwind Zoo
- 403: (   9) - Ian Dury
- 404: (   9) - Lizz Wright
- 405: (   9) - Low
- 406: (   9) - Romi Mayes
- 407: (   9) - Stevie Nicks
- 408: (   9) - Tyler Childers
- 409: (   9) - Waylon Jennings
- 410: (   8) - Andrew Bird
- 411: (   8) - Aurora
- 412: (   8) - Bob Marley
- 413: (   8) - Caleb Landry Jones
- 414: (   8) - Ella Fitzgerald
- 415: (   8) - Forma
- 416: (   8) - Larkin Poe
- 417: (   8) - Let'S Eat Grandma
- 418: (   8) - Mark Lanegan
- 419: (   8) - Martha and the Muffins
- 420: (   8) - Slade
- 421: (   8) - Spizz Energi
- 422: (   8) - Stick in the Wheel
- 423: (   8) - The Band
- 424: (   8) - The Durutti Column
- 425: (   8) - The Lost Brothers
- 426: (   8) - White Fence
- 427: (   7) - Black Marble
- 428: (   7) - Boubacar Traoré
- 429: (   7) - Brigid Dawson and the Mothers Network
- 430: (   7) - Brigitte Calls Me Baby
- 431: (   7) - Buck Owens
- 432: (   7) - Buzzcocks
- 433: (   7) - Chris Eckman
- 434: (   7) - Della Mae
- 435: (   7) - Elephant Micah
- 436: (   7) - Iggy Pop
- 437: (   7) - Joan Osborne
- 438: (   7) - Joan Shelley
- 439: (   7) - La Féline
- 440: (   7) - Lightnin' Hopkins
- 441: (   7) - Mandrake Handshake
- 442: (   7) - Martyn Bates
- 443: (   7) - Nadine
- 444: (   7) - Nat King Cole
- 445: (   7) - Odetta Hartman
- 446: (   7) - Peter Tosh
- 447: (   7) - Po' Girl
+ 348: (  13) - Po' Girl
+ 349: (  13) - Ryan Bingham
+ 350: (  13) - The Bathers
+ 351: (  13) - Tubeway Army
+ 352: (  13) - William Tyler
+ 353: (  12) - Belle and Sebastian
+ 354: (  12) - Callaghan
+ 355: (  12) - Clinic Stars
+ 356: (  12) - Fontaines D.c.
+ 357: (  12) - Goldfrapp
+ 358: (  12) - Jim Croce
+ 359: (  12) - John Foxx
+ 360: (  12) - Max Romeo
+ 361: (  12) - Myrtle Park's Fishing Club
+ 362: (  12) - The Church
+ 363: (  12) - The Jimi Hendrix Experience
+ 364: (  12) - Tom Robinson
+ 365: (  12) - Yonder Mountain String Band
+ 366: (  11) - Bob Hund
+ 367: (  11) - Colin Farrell
+ 368: (  11) - Darling West
+ 369: (  11) - Dry Cleaning
+ 370: (  11) - Elizabeth Cook
+ 371: (  11) - Françoise Hardy
+ 372: (  11) - Grace Petrie
+ 373: (  11) - Guillemots
+ 374: (  11) - Guy Clark
+ 375: (  11) - Hatchie
+ 376: (  11) - Laurel Canyon
+ 377: (  11) - Matt Berninger
+ 378: (  11) - Peel.Rocks Magazine
+ 379: (  11) - Rolling Blackouts Coastal Fever
+ 380: (  11) - Television
+ 381: (  11) - The Men
+ 382: (  11) - Travis Linville
+ 383: (  10) - Cara Luft
+ 384: (  10) - Dinah Washington
+ 385: (  10) - Easy Star All-stars
+ 386: (  10) - Elastica
+ 387: (  10) - Green Gartside
+ 388: (  10) - K.D. Lang
+ 389: (  10) - Kathleen Edwards
+ 390: (  10) - Madeleine Peyroux
+ 391: (  10) - Mercy Girl
+ 392: (  10) - Mount Moriah
+ 393: (  10) - Nico
+ 394: (  10) - Nina Simone
+ 395: (  10) - Samantha Crain
+ 396: (  10) - The Feelies
+ 397: (  10) - The Twilight Sad
+ 398: (  10) - Tim Buckley
+ 399: (  10) - Wednesday
+ 400: (   9) - Bryan Adams
+ 401: (   9) - Daniel Bachman
+ 402: (   9) - Gregory Isaacs
+ 403: (   9) - Hawkwind Zoo
+ 404: (   9) - Ian Dury
+ 405: (   9) - Lizz Wright
+ 406: (   9) - Low
+ 407: (   9) - Romi Mayes
+ 408: (   9) - Stevie Nicks
+ 409: (   9) - Tyler Childers
+ 410: (   9) - Waylon Jennings
+ 411: (   8) - Andrew Bird
+ 412: (   8) - Aurora
+ 413: (   8) - Bob Marley
+ 414: (   8) - Caleb Landry Jones
+ 415: (   8) - Ella Fitzgerald
+ 416: (   8) - Forma
+ 417: (   8) - Larkin Poe
+ 418: (   8) - Let'S Eat Grandma
+ 419: (   8) - Mark Lanegan
+ 420: (   8) - Martha and the Muffins
+ 421: (   8) - Slade
+ 422: (   8) - Spizz Energi
+ 423: (   8) - Stick in the Wheel
+ 424: (   8) - The Band
+ 425: (   8) - The Durutti Column
+ 426: (   8) - The Lost Brothers
+ 427: (   8) - White Fence
+ 428: (   7) - Black Marble
+ 429: (   7) - Boubacar Traoré
+ 430: (   7) - Brigid Dawson and the Mothers Network
+ 431: (   7) - Brigitte Calls Me Baby
+ 432: (   7) - Buck Owens
+ 433: (   7) - Buzzcocks
+ 434: (   7) - Chris Eckman
+ 435: (   7) - Della Mae
+ 436: (   7) - Elephant Micah
+ 437: (   7) - Iggy Pop
+ 438: (   7) - Joan Osborne
+ 439: (   7) - Joan Shelley
+ 440: (   7) - La Féline
+ 441: (   7) - Lightnin' Hopkins
+ 442: (   7) - Mandrake Handshake
+ 443: (   7) - Martyn Bates
+ 444: (   7) - Nadine
+ 445: (   7) - Nat King Cole
+ 446: (   7) - Odetta Hartman
+ 447: (   7) - Peter Tosh
  448: (   7) - Queen
  449: (   7) - Sam Phillips
  450: (   7) - Soft Cell

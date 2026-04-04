@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11474           281           470          3476
+   11483           281           470          3481
   1: (353) - Edwyn Collins
   2: (352) - Slowdive
 
@@ -189,9 +189,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  17: (166) - U2
+ 18: (165) - Emma Swift
+ 19: (164) - Margo Price
 
- 18: (164) - Margo Price
- 19: (163) - Emma Swift
 
 
 
@@ -395,49 +395,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 137: ( 13) - Blondie
 138: ( 13) - Bob Marley & the Wailers
 139: ( 13) - Jimi Hendrix
-140: ( 13) - The Bathers
-141: ( 13) - case/lang/veirs
-142: ( 12) - B.E.F.
-143: ( 12) - Clinic Stars
-144: ( 12) - Nick Heyward
-145: ( 12) - Paul Haig
-146: ( 11) - Bob Hund
-147: ( 11) - Fleetwood Mac
-148: ( 11) - Guillemots
-149: ( 11) - Hayes Carll
-150: ( 11) - It'S Immaterial
-151: ( 11) - Laura Cantrell
-152: ( 11) - Laurel Canyon
-153: ( 11) - Sly & the Family Stone
-154: ( 11) - Television
-155: ( 10) - Brian Eno & David Byrne
-156: ( 10) - Heaven 17
-157: ( 10) - John Cooper Clarke
-158: ( 10) - K.D. Lang
-159: ( 10) - Kate Bush
-160: ( 10) - Mercy Girl
-161: ( 10) - The Jam
-162: ( 10) - Tom Tom Club
-163: ( 10) - Wednesday
-164: ( 10) - Yonder Mountain String Band
-165: (  9) - Eliza Gilkyson
-166: (  8) - Aurora
-167: (  8) - The Band
-168: (  8) - The Feelies
-169: (  8) - Tom Robinson
-170: (  7) - Brigitte Calls Me Baby
-171: (  7) - JT Nero
-172: (  7) - Joan Osborne
-173: (  7) - Mandrake Handshake
-174: (  7) - Po' Girl
+140: ( 13) - Po' Girl
+141: ( 13) - The Bathers
+142: ( 13) - case/lang/veirs
+143: ( 12) - B.E.F.
+144: ( 12) - Clinic Stars
+145: ( 12) - Nick Heyward
+146: ( 12) - Paul Haig
+147: ( 11) - Bob Hund
+148: ( 11) - Fleetwood Mac
+149: ( 11) - Guillemots
+150: ( 11) - Hayes Carll
+151: ( 11) - It'S Immaterial
+152: ( 11) - Laura Cantrell
+153: ( 11) - Laurel Canyon
+154: ( 11) - Sly & the Family Stone
+155: ( 11) - Television
+156: ( 10) - Brian Eno & David Byrne
+157: ( 10) - Heaven 17
+158: ( 10) - John Cooper Clarke
+159: ( 10) - K.D. Lang
+160: ( 10) - Kate Bush
+161: ( 10) - Mercy Girl
+162: ( 10) - The Jam
+163: ( 10) - Tom Tom Club
+164: ( 10) - Wednesday
+165: ( 10) - Yonder Mountain String Band
+166: (  9) - Eliza Gilkyson
+167: (  8) - Aurora
+168: (  8) - The Band
+169: (  8) - The Feelies
+170: (  8) - Tom Robinson
+171: (  7) - Brigitte Calls Me Baby
+172: (  7) - JT Nero
+173: (  7) - Joan Osborne
+174: (  7) - Mandrake Handshake
 175: (  7) - The Redlands Palomino Company
 176: (  7) - The Sound
 
-177: (  5) - Folly Group
-178: (  5) - The Human League
-179: (  5) - The Zombies
-180: (  5) - Tracey Thorn
-181: (  4) - Anne Mccue
+177: (  5) - Anne Mccue
+178: (  5) - Folly Group
+179: (  5) - The Human League
+180: (  5) - The Zombies
+181: (  5) - Tracey Thorn
 182: (  4) - Santana
 183: (  4) - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
 184: (  4) - The Waifs
