@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11726           233           411          3396
+   11726           232           411          3396
   1: (411) - Leonard Cohen
 
 
@@ -287,12 +287,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  34: (131) - The Wailers
 
 
+ 35: (128) - T. Rex
 
-
- 35: (126) - Martin Stephenson
-
-
-
+ 36: (126) - Martin Stephenson
 
 
 
@@ -301,11 +298,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 36: (114) - Lizanne Knott
 
 
 
- 37: (110) - T. Rex
+ 37: (114) - Lizanne Knott
+
+
+
+
 
 
 
@@ -423,131 +423,130 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 105: ( 18) - Elvis Costello
 106: ( 18) - Focus
 107: ( 18) - Joy Division
-108: ( 18) - Marc Bolan
 
 
-109: ( 15) - JT and the Clouds
-110: ( 15) - The Beach Boys
-111: ( 15) - The Mighty Wah!
-112: ( 14) - Brian Eno
-113: ( 14) - Sweet
-114: ( 13) - Laura Cantrell
-115: ( 12) - Callaghan
-116: ( 12) - Goldfrapp
-117: ( 12) - Mindy Smith
-118: ( 12) - Myrtle Park's Fishing Club
-119: ( 11) - Artery
-120: ( 11) - Blondie
-121: ( 11) - Elizabeth Cook
-122: ( 10) - Elastica
-123: ( 10) - Jan Garbarek
-124: ( 10) - Kathleen Edwards
-125: ( 10) - Kraftwerk
-126: ( 10) - Kristin Hersh
-127: ( 10) - Mount Moriah
-128: ( 10) - Samantha Crain
-129: ( 10) - Tim Buckley
-130: (  9) - Natalie Prass
-131: (  8) - Bob Marley
-132: (  8) - The Decemberists
-133: (  7) - B.E.F.
-134: (  7) - Black Marble
-135: (  6) - Jeff Wayne
-136: (  6) - Scott Mckenzie
-137: (  6) - The Rolling Stones
-138: (  5) - Eyeless in Gaza
-139: (  5) - Prefab Sprout
-140: (  5) - The Move
-141: (  4) - 13Th Floor Elevators
-142: (  4) - Cream
-143: (  4) - Kathryn Williams, Anthony Kerr
-144: (  4) - Soft Machine
-145: (  4) - The Chocolate Watch Band
-146: (  4) - The Jimi Hendrix Experience
-147: (  4) - The Pretty Things
-148: (  4) - The Seeds
-149: (  4) - Tomorrow
-150: (  4) - Traffic
-151: (  3) - Alex De Grassi
-152: (  3) - Aretha Franklin
-153: (  3) - Buffalo Springfield
-154: (  3) - Country Joe & the Fish
-155: (  3) - Eric Burdon & the Animals
-156: (  3) - Keith West
-157: (  3) - Love
-158: (  3) - Procol Harum
-159: (  3) - Sly & the Family Stone
-160: (  3) - Small Faces
-161: (  3) - The Bonzo Dog Band
-162: (  3) - The Byrds
-163: (  3) - The Charlatans
-164: (  3) - The Incredible String Band
-165: (  3) - The Kinks
-166: (  3) - The Mamas & the Papas
-167: (  3) - The Smoke
-168: (  2) - Bee Gees
-169: (  2) - Bobbie Gentry
-170: (  2) - Cage the Elephant
-171: (  2) - Chip & Carrie
-172: (  2) - Donovan
-173: (  2) - Family
-174: (  2) - Fifty Foot Hose
-175: (  2) - Jefferson Airplane
-176: (  2) - Lucinda Williams
-177: (  2) - Moby Grape
-178: (  2) - Pink Floyd
-179: (  2) - Slade
-180: (  2) - Sonny & Cher
-181: (  2) - Spizz Energi
-182: (  2) - The Association
-183: (  2) - The Monkees
-184: (  2) - The Moving Sidewalks
-185: (  2) - The Who
-186: (  2) - Wham!
-187: (  1) - Aoife O'Donovan
-188: (  1) - Barna Howard
-189: (  1) - Bay City Rollers
-190: (  1) - Big Brother & the Holding Company
-191: (  1) - Brotherhood of Man
-192: (  1) - Chip Taylor & Carrie Rodriguez
-193: (  1) - Christie
-194: (  1) - Dixie Chicks
-195: (  1) - Dolly Parton
-196: (  1) - Dwight Yoakam
-197: (  1) - Fleetwood Mac
-198: (  1) - Frank Sinatra
-199: (  1) - Frankie Goes to Hollywood
-200: (  1) - Fraser A. Gorman
-201: (  1) - George McCrae
-202: (  1) - George Strait
-203: (  1) - Houndmouth
-204: (  1) - Jamestown Revival
-205: (  1) - Japan
-206: (  1) - John Denver
-207: (  1) - John Fullbright
-208: (  1) - John Lennon
-209: (  1) - Jona Lewie
-210: (  1) - Men At Work
-211: (  1) - Mike Oldfield
-212: (  1) - Mud
-213: (  1) - Nat King Cole
-214: (  1) - Paul McCartney
-215: (  1) - Pilot
-216: (  1) - Shakey Graves
-217: (  1) - Shania Twain
-218: (  1) - Sharon Van Etten
-219: (  1) - Steve Harley & Cockney Rebel
-220: (  1) - Stevie Nicks
-221: (  1) - Sufjan Stevens
-222: (  1) - The Chameleons
-223: (  1) - The Doors
-224: (  1) - The Electric Prunes
-225: (  1) - The Fire Engines
-226: (  1) - The New Basement Tapes
-227: (  1) - The Passions
-228: (  1) - The Pogues
-229: (  1) - The Twang
-230: (  1) - The Youngbloods
-231: (  1) - This Mortal Coil
-232: (  1) - Wizzard
-233: (  1) - Young Marble Giants
+108: ( 15) - JT and the Clouds
+109: ( 15) - The Beach Boys
+110: ( 15) - The Mighty Wah!
+111: ( 14) - Brian Eno
+112: ( 14) - Sweet
+113: ( 13) - Laura Cantrell
+114: ( 12) - Callaghan
+115: ( 12) - Goldfrapp
+116: ( 12) - Mindy Smith
+117: ( 12) - Myrtle Park's Fishing Club
+118: ( 11) - Artery
+119: ( 11) - Blondie
+120: ( 11) - Elizabeth Cook
+121: ( 10) - Elastica
+122: ( 10) - Jan Garbarek
+123: ( 10) - Kathleen Edwards
+124: ( 10) - Kraftwerk
+125: ( 10) - Kristin Hersh
+126: ( 10) - Mount Moriah
+127: ( 10) - Samantha Crain
+128: ( 10) - Tim Buckley
+129: (  9) - Natalie Prass
+130: (  8) - Bob Marley
+131: (  8) - The Decemberists
+132: (  7) - B.E.F.
+133: (  7) - Black Marble
+134: (  6) - Jeff Wayne
+135: (  6) - Scott Mckenzie
+136: (  6) - The Rolling Stones
+137: (  5) - Eyeless in Gaza
+138: (  5) - Prefab Sprout
+139: (  5) - The Move
+140: (  4) - 13Th Floor Elevators
+141: (  4) - Cream
+142: (  4) - Kathryn Williams, Anthony Kerr
+143: (  4) - Soft Machine
+144: (  4) - The Chocolate Watch Band
+145: (  4) - The Jimi Hendrix Experience
+146: (  4) - The Pretty Things
+147: (  4) - The Seeds
+148: (  4) - Tomorrow
+149: (  4) - Traffic
+150: (  3) - Alex De Grassi
+151: (  3) - Aretha Franklin
+152: (  3) - Buffalo Springfield
+153: (  3) - Country Joe & the Fish
+154: (  3) - Eric Burdon & the Animals
+155: (  3) - Keith West
+156: (  3) - Love
+157: (  3) - Procol Harum
+158: (  3) - Sly & the Family Stone
+159: (  3) - Small Faces
+160: (  3) - The Bonzo Dog Band
+161: (  3) - The Byrds
+162: (  3) - The Charlatans
+163: (  3) - The Incredible String Band
+164: (  3) - The Kinks
+165: (  3) - The Mamas & the Papas
+166: (  3) - The Smoke
+167: (  2) - Bee Gees
+168: (  2) - Bobbie Gentry
+169: (  2) - Cage the Elephant
+170: (  2) - Chip & Carrie
+171: (  2) - Donovan
+172: (  2) - Family
+173: (  2) - Fifty Foot Hose
+174: (  2) - Jefferson Airplane
+175: (  2) - Lucinda Williams
+176: (  2) - Moby Grape
+177: (  2) - Pink Floyd
+178: (  2) - Slade
+179: (  2) - Sonny & Cher
+180: (  2) - Spizz Energi
+181: (  2) - The Association
+182: (  2) - The Monkees
+183: (  2) - The Moving Sidewalks
+184: (  2) - The Who
+185: (  2) - Wham!
+186: (  1) - Aoife O'Donovan
+187: (  1) - Barna Howard
+188: (  1) - Bay City Rollers
+189: (  1) - Big Brother & the Holding Company
+190: (  1) - Brotherhood of Man
+191: (  1) - Chip Taylor & Carrie Rodriguez
+192: (  1) - Christie
+193: (  1) - Dixie Chicks
+194: (  1) - Dolly Parton
+195: (  1) - Dwight Yoakam
+196: (  1) - Fleetwood Mac
+197: (  1) - Frank Sinatra
+198: (  1) - Frankie Goes to Hollywood
+199: (  1) - Fraser A. Gorman
+200: (  1) - George McCrae
+201: (  1) - George Strait
+202: (  1) - Houndmouth
+203: (  1) - Jamestown Revival
+204: (  1) - Japan
+205: (  1) - John Denver
+206: (  1) - John Fullbright
+207: (  1) - John Lennon
+208: (  1) - Jona Lewie
+209: (  1) - Men At Work
+210: (  1) - Mike Oldfield
+211: (  1) - Mud
+212: (  1) - Nat King Cole
+213: (  1) - Paul McCartney
+214: (  1) - Pilot
+215: (  1) - Shakey Graves
+216: (  1) - Shania Twain
+217: (  1) - Sharon Van Etten
+218: (  1) - Steve Harley & Cockney Rebel
+219: (  1) - Stevie Nicks
+220: (  1) - Sufjan Stevens
+221: (  1) - The Chameleons
+222: (  1) - The Doors
+223: (  1) - The Electric Prunes
+224: (  1) - The Fire Engines
+225: (  1) - The New Basement Tapes
+226: (  1) - The Passions
+227: (  1) - The Pogues
+228: (  1) - The Twang
+229: (  1) - The Youngbloods
+230: (  1) - This Mortal Coil
+231: (  1) - Wizzard
+232: (  1) - Young Marble Giants

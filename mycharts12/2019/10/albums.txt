@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6331           263           400          2870
+    6331           262           399          2870
   1: (115) - Lionheart - Kate Bush
 
 
@@ -335,7 +335,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 281: (  3) - Digital Garbage - Mudhoney
 282: (  3) - For My Crimes - Marissa Nadler
 283: (  3) - Freedom's Goblin - Ty Segall
-284: (  3) - Futuristic Dragon (Deluxe Edition) - T. Rex
+284: (  3) - Futuristic Dragon - T. Rex
 285: (  3) - Goes West - William Tyler
 286: (  3) - Grenades - Kaia Kater
 287: (  3) - Hawkwind - Hawkwind Zoo
@@ -351,43 +351,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 297: (  3) - The Outsider - Rodney Crowell
 298: (  3) - The Prodigal Son - Ry Cooder
 299: (  3) - The Unseen In Between - Steve Gunn
-300: (  3) - We're Not Talking - The Goon Sax
-301: (  3) - Weird - Juliana Hatfield
-302: (  3) - Words Of Expectation 2 - The Fall
-303: (  3) - Years In The Making - Loudon Wainwright III
-304: (  3) - You Want It Darker - Leonard Cohen
-305: (  3) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
-306: (  2) -  - Murrough Mcbride
-307: (  2) - 1 Time Mirage - Knife Knights
-308: (  2) - Chronicles - Steve Winwood
-309: (  2) - Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain - China Crisis
-310: (  2) - Drama On 3 - Bbc Radio 3
-311: (  2) - Elastic Days - J Mascis
-312: (  2) - Foreign Parts - You Tell Me
-313: (  2) - Get It On: The Collection - T. Rex
-314: (  2) - God's Favorite Customer - Father John Misty
-315: (  2) - Greatest - Ian Dury
-316: (  2) * High Land, Hard Rain - Aztec Camera
-317: (  2) - I Have To Feed Larry's Hawk - White Fence
-318: (  2) - I've Tortured You Long Enough - Mass Gothic
-319: (  2) - In Spades - The Afghan Whigs
-320: (  2) - Loma - Loma
-321: (  2) - Meet Me At The River - Dawn Landes
-322: (  2) - Modern Blues - The Waterboys
-323: (  2) - Moodie - Yuno
-324: (  2) - Nighttime Birds And Morning Stars - Sarah Louise
-325: (  2) - No Cities To Love - Sleater-Kinney
-326: (  2) - No Recover - Eric Bachmann
-327: (  2) * Pinky Blue - Altered Images
-328: (  2) - Rat’S Spit - Julian Lynch
-329: (  2) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
-330: (  2) - Reggatta De Blanc - The Police
-331: (  2) - Sculptor - Luluc
-332: (  2) - Temporal - Julia Kent
-333: (  2) - The Anthology 1964 - 1971 - The Kinks
-334: (  2) - The Crossing - Alejandro Escovedo
-335: (  2) - The Imperial - The Delines
-336: (  2) - The Lexicon Of Love (Digitally Remastered) - ABC
+300: (  3) - The lexicon of Love - ABC
+301: (  3) - We're Not Talking - The Goon Sax
+302: (  3) - Weird - Juliana Hatfield
+303: (  3) - Words Of Expectation 2 - The Fall
+304: (  3) - Years In The Making - Loudon Wainwright III
+305: (  3) - You Want It Darker - Leonard Cohen
+306: (  3) - Zinc Alloy And The Hidden Riders Of Tomorrow - T. Rex
+307: (  2) -  - Murrough Mcbride
+308: (  2) - 1 Time Mirage - Knife Knights
+309: (  2) - Chronicles - Steve Winwood
+310: (  2) - Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain - China Crisis
+311: (  2) - Drama On 3 - Bbc Radio 3
+312: (  2) - Elastic Days - J Mascis
+313: (  2) - Foreign Parts - You Tell Me
+314: (  2) - Get It On: The Collection - T. Rex
+315: (  2) - God's Favorite Customer - Father John Misty
+316: (  2) - Greatest - Ian Dury
+317: (  2) * High Land, Hard Rain - Aztec Camera
+318: (  2) - I Have To Feed Larry's Hawk - White Fence
+319: (  2) - I've Tortured You Long Enough - Mass Gothic
+320: (  2) - In Spades - The Afghan Whigs
+321: (  2) - Loma - Loma
+322: (  2) - Meet Me At The River - Dawn Landes
+323: (  2) - Modern Blues - The Waterboys
+324: (  2) - Moodie - Yuno
+325: (  2) - Nighttime Birds And Morning Stars - Sarah Louise
+326: (  2) - No Cities To Love - Sleater-Kinney
+327: (  2) - No Recover - Eric Bachmann
+328: (  2) * Pinky Blue - Altered Images
+329: (  2) - Rat’S Spit - Julian Lynch
+330: (  2) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
+331: (  2) - Reggatta De Blanc - The Police
+332: (  2) - Sculptor - Luluc
+333: (  2) - Temporal - Julia Kent
+334: (  2) - The Anthology 1964 - 1971 - The Kinks
+335: (  2) - The Crossing - Alejandro Escovedo
+336: (  2) - The Imperial - The Delines
 337: (  2) - The Modern Lovers - Jonathan Richman and the Modern Lovers
 338: (  2) - The Other - King Tuff
 339: (  2) - The Smiths - The Smiths
@@ -419,7 +419,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 365: (  1) - Blood On The Tracks - Mary Lee's Corvette
 366: (  1) - Books And Authors - Books and Authors
 367: (  1) - Classic Hits - T. Rex
-368: (  1) - Dandy In The Underworld (Deluxe Edition) - T. Rex
+368: (  1) - Dandy In The Underworld - T. Rex
 369: (  1) - Dave Brubeck's Greatest Hits - Dave Brubeck
 370: (  1) - Diamonds (Deluxe) - Elton John
 371: (  1) - Divine Madness - Madness
@@ -457,13 +457,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 403: (  1) - Thank U Very Much - The Very Best Of The Scaffold - The Scaffold
 404: (  1) * The Collection - Altered Images
 405: (  1) - The Cream Of Clapton - Derek and the Dominos
-406: (  1) - The Lexicon Of Love (Deluxe Edition) - ABC
-407: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-408: (  1) - The Very Best Of - Haircut 100
-409: (  1) - The Very Best Of - Japan
-410: (  1) - Ultimate Collection - Billy Ocean
-411: (  1) - Up The Junction - Squeeze
-412: (  1) - Upper West Side - Harry Allen
-413: (  1) - Word Of Mouth - Toni Basil
-414: (  1) - Yellow River - Christie
-415: (  1) - [Unknown Album] - David Bowie
+406: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+407: (  1) - The Very Best Of - Haircut 100
+408: (  1) - The Very Best Of - Japan
+409: (  1) - Ultimate Collection - Billy Ocean
+410: (  1) - Up The Junction - Squeeze
+411: (  1) - Upper West Side - Harry Allen
+412: (  1) - Word Of Mouth - Toni Basil
+413: (  1) - Yellow River - Christie
+414: (  1) - [Unknown Album] - David Bowie

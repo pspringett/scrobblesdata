@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    5978           279           409          2970
+    5978           278           409          2970
   1: (281) - David Bowie
 
 
@@ -263,12 +263,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  52: ( 33) - Sarah MacDougall
  53: ( 32) - Anne Mccue
  54: ( 31) - Marine Girls
- 55: ( 30) - Kacy & Clayton
- 56: ( 30) - Lloyd Cole and the Commotions
+ 55: ( 31) - T. Rex
+ 56: ( 30) - Kacy & Clayton
+ 57: ( 30) - Lloyd Cole and the Commotions
 
- 57: ( 28) - Amanda Shires
- 58: ( 28) - Emmylou Harris
- 59: ( 28) - T. Rex
+ 58: ( 28) - Amanda Shires
+ 59: ( 28) - Emmylou Harris
  60: ( 28) - The Clash
  61: ( 27) - Blondie
  62: ( 27) - Rodney Crowell
@@ -384,108 +384,107 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 172: (  3) - Gruff Rhys
 173: (  3) - Hawkwind Zoo
 174: (  3) - Loudon Wainwright III
-175: (  3) - Marc Bolan
-176: (  3) - Marissa Nadler
-177: (  3) - Mudhoney
-178: (  3) - Oliver Coates
-179: (  3) - Omd
-180: (  3) - Ry Cooder
-181: (  3) - Sarah Louise
-182: (  3) - Spiritualized
-183: (  3) - Swamp Dogg
-184: (  3) - The Goon Sax
-185: (  3) - Ty Segall
-186: (  3) - Young Fathers
-187: (  2) - Alejandro Escovedo
-188: (  2) - Bbc Radio 3
-189: (  2) - China Crisis
-190: (  2) - Chip Taylor & Carrie Rodriguez
-191: (  2) - Dawn Landes
-192: (  2) - Eric Bachmann
-193: (  2) - Frankie Cosmos
-194: (  2) - Iron & Wine
-195: (  2) - J Mascis
-196: (  2) - Jo Passed
-197: (  2) - John Lennon
-198: (  2) - Jonathan Richman and the Modern Lovers
-199: (  2) - King Tuff
-200: (  2) - Knife Knights
-201: (  2) - Loma
-202: (  2) - Luluc
-203: (  2) - Martha and the Muffins
-204: (  2) - Mass Gothic
-205: (  2) - Murrough Mcbride
-206: (  2) - Nat King Cole
-207: (  2) - Sky News
-208: (  2) - Sleater-Kinney
-209: (  2) - Steve Winwood
-210: (  2) - The Afghan Whigs
-211: (  2) - The B-52's
-212: (  2) - The Kinks
-213: (  2) - The Mellstock Band
-214: (  2) - The Police
-215: (  2) - The Pretenders
-216: (  2) - Wham!
-217: (  2) - Yuno
-218: (  1) - Bbc
-219: (  1) - Billy Ocean
-220: (  1) - Books and Authors
-221: (  1) - Cbc Music
-222: (  1) - Chris Rea
-223: (  1) - Christian D. Berg
-224: (  1) - Christie
-225: (  1) - Cliff Richard
-226: (  1) - Dana
-227: (  1) - Delacey
-228: (  1) - Derek and the Dominos
-229: (  1) - Diana Krall
-230: (  1) - Dinah Washington
-231: (  1) - Doctor Who
-232: (  1) - Dolly Parton
-233: (  1) - Dollybono
-234: (  1) - Doves
-235: (  1) - Dusty Springfield
-236: (  1) - Earl Scruggs
-237: (  1) - Eliza Gilkyson
-238: (  1) - Elvis Presley
-239: (  1) - Exclusivevids1000
-240: (  1) - Foster the People
-241: (  1) - Free
-242: (  1) - George Strait
-243: (  1) - Greg Lake
-244: (  1) - Hazel O'connor
-245: (  1) - Imagination
-246: (  1) - Inshreds66
-247: (  1) - Jcpenney
-248: (  1) - Jona Lewie
-249: (  1) - Lee Marvin
-250: (  1) - Lisa Stansfield
-251: (  1) - Madness
-252: (  1) - Magazine
-253: (  1) - Mary Lee's Corvette
-254: (  1) - Moaning
-255: (  1) - Mungo Jerry
-256: (  1) - Norman Greenbaum
-257: (  1) - Oh Sees
-258: (  1) - Peter Twiddy
-259: (  1) - Peter, Paul & Mary
-260: (  1) - Randy Newman
-261: (  1) - Rhcptv1
-262: (  1) - Rhino
-263: (  1) - Rosalyn
-264: (  1) - Scritti Politti
-265: (  1) - Softladification
-266: (  1) - Sotonpressarchive
-267: (  1) - Tamara Todevska
-268: (  1) - The Archies
-269: (  1) - The Church of Leeds Parish Choir
-270: (  1) - The Civil Wars
-271: (  1) - The Jackson 5
-272: (  1) - The Late Late Show With James Corden
-273: (  1) - The News 247
-274: (  1) - The Rolling Stones
-275: (  1) - The Scaffold
-276: (  1) - The Temper Trap
-277: (  1) - Toni Basil
-278: (  1) - Vibracobra23 Dulosis
-279: (  1) - Visagevevo
+175: (  3) - Marissa Nadler
+176: (  3) - Mudhoney
+177: (  3) - Oliver Coates
+178: (  3) - Omd
+179: (  3) - Ry Cooder
+180: (  3) - Sarah Louise
+181: (  3) - Spiritualized
+182: (  3) - Swamp Dogg
+183: (  3) - The Goon Sax
+184: (  3) - Ty Segall
+185: (  3) - Young Fathers
+186: (  2) - Alejandro Escovedo
+187: (  2) - Bbc Radio 3
+188: (  2) - China Crisis
+189: (  2) - Chip Taylor & Carrie Rodriguez
+190: (  2) - Dawn Landes
+191: (  2) - Eric Bachmann
+192: (  2) - Frankie Cosmos
+193: (  2) - Iron & Wine
+194: (  2) - J Mascis
+195: (  2) - Jo Passed
+196: (  2) - John Lennon
+197: (  2) - Jonathan Richman and the Modern Lovers
+198: (  2) - King Tuff
+199: (  2) - Knife Knights
+200: (  2) - Loma
+201: (  2) - Luluc
+202: (  2) - Martha and the Muffins
+203: (  2) - Mass Gothic
+204: (  2) - Murrough Mcbride
+205: (  2) - Nat King Cole
+206: (  2) - Sky News
+207: (  2) - Sleater-Kinney
+208: (  2) - Steve Winwood
+209: (  2) - The Afghan Whigs
+210: (  2) - The B-52's
+211: (  2) - The Kinks
+212: (  2) - The Mellstock Band
+213: (  2) - The Police
+214: (  2) - The Pretenders
+215: (  2) - Wham!
+216: (  2) - Yuno
+217: (  1) - Bbc
+218: (  1) - Billy Ocean
+219: (  1) - Books and Authors
+220: (  1) - Cbc Music
+221: (  1) - Chris Rea
+222: (  1) - Christian D. Berg
+223: (  1) - Christie
+224: (  1) - Cliff Richard
+225: (  1) - Dana
+226: (  1) - Delacey
+227: (  1) - Derek and the Dominos
+228: (  1) - Diana Krall
+229: (  1) - Dinah Washington
+230: (  1) - Doctor Who
+231: (  1) - Dolly Parton
+232: (  1) - Dollybono
+233: (  1) - Doves
+234: (  1) - Dusty Springfield
+235: (  1) - Earl Scruggs
+236: (  1) - Eliza Gilkyson
+237: (  1) - Elvis Presley
+238: (  1) - Exclusivevids1000
+239: (  1) - Foster the People
+240: (  1) - Free
+241: (  1) - George Strait
+242: (  1) - Greg Lake
+243: (  1) - Hazel O'connor
+244: (  1) - Imagination
+245: (  1) - Inshreds66
+246: (  1) - Jcpenney
+247: (  1) - Jona Lewie
+248: (  1) - Lee Marvin
+249: (  1) - Lisa Stansfield
+250: (  1) - Madness
+251: (  1) - Magazine
+252: (  1) - Mary Lee's Corvette
+253: (  1) - Moaning
+254: (  1) - Mungo Jerry
+255: (  1) - Norman Greenbaum
+256: (  1) - Oh Sees
+257: (  1) - Peter Twiddy
+258: (  1) - Peter, Paul & Mary
+259: (  1) - Randy Newman
+260: (  1) - Rhcptv1
+261: (  1) - Rhino
+262: (  1) - Rosalyn
+263: (  1) - Scritti Politti
+264: (  1) - Softladification
+265: (  1) - Sotonpressarchive
+266: (  1) - Tamara Todevska
+267: (  1) - The Archies
+268: (  1) - The Church of Leeds Parish Choir
+269: (  1) - The Civil Wars
+270: (  1) - The Jackson 5
+271: (  1) - The Late Late Show With James Corden
+272: (  1) - The News 247
+273: (  1) - The Rolling Stones
+274: (  1) - The Scaffold
+275: (  1) - The Temper Trap
+276: (  1) - Toni Basil
+277: (  1) - Vibracobra23 Dulosis
+278: (  1) - Visagevevo

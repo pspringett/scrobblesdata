@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6019           249           379          2812
+    6019           248           379          2812
   1: (285) - David Bowie
 
 
@@ -253,14 +253,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  41: ( 45) - Aztec Camera
 
  42: ( 43) - Alison Moyet
- 43: ( 43) - The Comsat Angels
- 44: ( 43) - The Velvet Underground
- 45: ( 42) - Sarah MacDougall
- 46: ( 42) - Shelby Lynne
- 47: ( 42) - The Doors
+ 43: ( 43) - T. Rex
+ 44: ( 43) - The Comsat Angels
+ 45: ( 43) - The Velvet Underground
+ 46: ( 42) - Sarah MacDougall
+ 47: ( 42) - Shelby Lynne
+ 48: ( 42) - The Doors
 
- 48: ( 40) - Kacey Musgraves
- 49: ( 40) - T. Rex
+ 49: ( 40) - Kacey Musgraves
 
  50: ( 38) - Amanda Shires
  51: ( 38) - Nick Cave & the Bad Seeds
@@ -388,81 +388,80 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 169: (  3) - Gruff Rhys
 170: (  3) - Hawkwind Zoo
 171: (  3) - Loudon Wainwright III
-172: (  3) - Marc Bolan
-173: (  3) - Marissa Nadler
-174: (  3) - Mudhoney
-175: (  3) - Nick Heyward
-176: (  3) - Oliver Coates
-177: (  3) - Omd
-178: (  3) - Ry Cooder
-179: (  3) - Sarah Louise
-180: (  3) - Spiritualized
-181: (  3) - Swamp Dogg
-182: (  3) - The Goon Sax
-183: (  3) - Ty Segall
-184: (  3) - Young Fathers
-185: (  2) - Alejandro Escovedo
-186: (  2) - Bbc Radio 3
-187: (  2) - China Crisis
-188: (  2) - Chip Taylor & Carrie Rodriguez
-189: (  2) - Dawn Landes
-190: (  2) - Eric Bachmann
-191: (  2) - Frankie Cosmos
-192: (  2) - Iron & Wine
-193: (  2) - J Mascis
-194: (  2) - Jo Passed
-195: (  2) - Jonathan Richman and the Modern Lovers
-196: (  2) - King Tuff
-197: (  2) - Knife Knights
-198: (  2) - Loma
-199: (  2) - Luluc
-200: (  2) - Mass Gothic
-201: (  2) - Murrough Mcbride
-202: (  2) - Sky News
-203: (  2) - Sleater-Kinney
-204: (  2) - Steve Winwood
-205: (  2) - The Afghan Whigs
-206: (  2) - The B-52's
-207: (  2) - The Kinks
-208: (  2) - The Police
-209: (  2) - Yuno
-210: (  1) - Billy Ocean
-211: (  1) - Books and Authors
-212: (  1) - Christian D. Berg
-213: (  1) - Christie
-214: (  1) - Cliff Richard
-215: (  1) - Dana
-216: (  1) - Delacey
-217: (  1) - Derek and the Dominos
-218: (  1) - Doctor Who
-219: (  1) - Dollybono
-220: (  1) - Earl Scruggs
-221: (  1) - Eliza Gilkyson
-222: (  1) - Free
-223: (  1) - Hazel O'connor
-224: (  1) - Imagination
-225: (  1) - Inshreds66
-226: (  1) - Jcpenney
-227: (  1) - Lee Marvin
-228: (  1) - Lisa Stansfield
-229: (  1) - Madness
-230: (  1) - Magazine
-231: (  1) - Martha and the Muffins
-232: (  1) - Mary Lee's Corvette
-233: (  1) - Moaning
-234: (  1) - Mungo Jerry
-235: (  1) - Norman Greenbaum
-236: (  1) - Oh Sees
-237: (  1) - Peter, Paul & Mary
-238: (  1) - Rhcptv1
-239: (  1) - Rhino
-240: (  1) - Rosalyn
-241: (  1) - Softladification
-242: (  1) - Sotonpressarchive
-243: (  1) - Tamara Todevska
-244: (  1) - The Archies
-245: (  1) - The Jackson 5
-246: (  1) - The Scaffold
-247: (  1) - Toni Basil
-248: (  1) - Vibracobra23 Dulosis
-249: (  1) - Visagevevo
+172: (  3) - Marissa Nadler
+173: (  3) - Mudhoney
+174: (  3) - Nick Heyward
+175: (  3) - Oliver Coates
+176: (  3) - Omd
+177: (  3) - Ry Cooder
+178: (  3) - Sarah Louise
+179: (  3) - Spiritualized
+180: (  3) - Swamp Dogg
+181: (  3) - The Goon Sax
+182: (  3) - Ty Segall
+183: (  3) - Young Fathers
+184: (  2) - Alejandro Escovedo
+185: (  2) - Bbc Radio 3
+186: (  2) - China Crisis
+187: (  2) - Chip Taylor & Carrie Rodriguez
+188: (  2) - Dawn Landes
+189: (  2) - Eric Bachmann
+190: (  2) - Frankie Cosmos
+191: (  2) - Iron & Wine
+192: (  2) - J Mascis
+193: (  2) - Jo Passed
+194: (  2) - Jonathan Richman and the Modern Lovers
+195: (  2) - King Tuff
+196: (  2) - Knife Knights
+197: (  2) - Loma
+198: (  2) - Luluc
+199: (  2) - Mass Gothic
+200: (  2) - Murrough Mcbride
+201: (  2) - Sky News
+202: (  2) - Sleater-Kinney
+203: (  2) - Steve Winwood
+204: (  2) - The Afghan Whigs
+205: (  2) - The B-52's
+206: (  2) - The Kinks
+207: (  2) - The Police
+208: (  2) - Yuno
+209: (  1) - Billy Ocean
+210: (  1) - Books and Authors
+211: (  1) - Christian D. Berg
+212: (  1) - Christie
+213: (  1) - Cliff Richard
+214: (  1) - Dana
+215: (  1) - Delacey
+216: (  1) - Derek and the Dominos
+217: (  1) - Doctor Who
+218: (  1) - Dollybono
+219: (  1) - Earl Scruggs
+220: (  1) - Eliza Gilkyson
+221: (  1) - Free
+222: (  1) - Hazel O'connor
+223: (  1) - Imagination
+224: (  1) - Inshreds66
+225: (  1) - Jcpenney
+226: (  1) - Lee Marvin
+227: (  1) - Lisa Stansfield
+228: (  1) - Madness
+229: (  1) - Magazine
+230: (  1) - Martha and the Muffins
+231: (  1) - Mary Lee's Corvette
+232: (  1) - Moaning
+233: (  1) - Mungo Jerry
+234: (  1) - Norman Greenbaum
+235: (  1) - Oh Sees
+236: (  1) - Peter, Paul & Mary
+237: (  1) - Rhcptv1
+238: (  1) - Rhino
+239: (  1) - Rosalyn
+240: (  1) - Softladification
+241: (  1) - Sotonpressarchive
+242: (  1) - Tamara Todevska
+243: (  1) - The Archies
+244: (  1) - The Jackson 5
+245: (  1) - The Scaffold
+246: (  1) - Toni Basil
+247: (  1) - Vibracobra23 Dulosis
+248: (  1) - Visagevevo

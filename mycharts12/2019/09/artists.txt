@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6766           304           455          2840
+    6766           303           454          2840
   1: (297) - David Bowie
 
 
@@ -292,10 +292,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  65: ( 29) - The Clash
  66: ( 28) - Anne Mccue
  67: ( 28) - Joy Division
- 68: ( 27) - The Corrs
+ 68: ( 28) - T. Rex
+ 69: ( 27) - The Corrs
 
- 69: ( 25) - St. Vincent
- 70: ( 25) - T. Rex
+ 70: ( 25) - St. Vincent
  71: ( 24) - Small Faces
  72: ( 24) - Yazoo
  73: ( 23) - The Proclaimers
@@ -403,130 +403,129 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 175: (  3) - Kurt Elling
 176: (  3) - Let'S Eat Grandma
 177: (  3) - Loudon Wainwright III
-178: (  3) - Marc Bolan
-179: (  3) - Marissa Nadler
-180: (  3) - Michael Rault
-181: (  3) - Mudhoney
-182: (  3) - Nathan Salsburg
-183: (  3) - Oliver Coates
-184: (  3) - Ray Davies
-185: (  3) - Rvg
-186: (  3) - Ry Cooder
-187: (  3) - Spiritualized
-188: (  3) - Swamp Dogg
-189: (  3) - The Goon Sax
-190: (  3) - The Innocence Mission
-191: (  3) - The Kinks
-192: (  3) - The Last Poets
-193: (  3) - The Smiths
-194: (  3) - Ty Segall
-195: (  3) - White Fence
-196: (  3) - Young Fathers
-197: (  2) - Alejandro Escovedo
-198: (  2) - Bbc Radio 3
-199: (  2) - Blossom Dearie
-200: (  2) - Bombino
-201: (  2) - China Crisis
-202: (  2) - Dawes
-203: (  2) - Dawn Landes
-204: (  2) - Eric Bachmann
-205: (  2) - Frankie Cosmos
-206: (  2) - Harry Connick, Jr.
-207: (  2) - Ian Dury
-208: (  2) - Iron & Wine
-209: (  2) - J Mascis
-210: (  2) - Jimmie Dale Gilmore
-211: (  2) - Jo Passed
-212: (  2) - Jonathan Richman and the Modern Lovers
-213: (  2) - King Tuff
-214: (  2) - Knife Knights
-215: (  2) - Loma
-216: (  2) - Madness
-217: (  2) - Mass Gothic
-218: (  2) - Matty
-219: (  2) - Natalie Prass
-220: (  2) - Olivia Chaney
-221: (  2) - Sleater-Kinney
-222: (  2) - Soft Cell
-223: (  2) - Steve Winwood
-224: (  2) - The Afghan Whigs
-225: (  2) - The Jam
-226: (  2) - The Police
-227: (  2) - The Pretty Things
-228: (  2) - The Who
-229: (  2) - The Yardbirds
-230: (  2) - Yuno
-231: (  1) - A-Ha
-232: (  1) - Aaron Weinstein
-233: (  1) - Billy Idol
-234: (  1) - Billy Ocean
-235: (  1) - Books and Authors
-236: (  1) - Christie
-237: (  1) - Cliff Richard
-238: (  1) - Culture Club
-239: (  1) - Dana
-240: (  1) - Dave Brubeck
-241: (  1) - Dead Or Alive
-242: (  1) - Delacey
-243: (  1) - Derek and the Dominos
-244: (  1) - Duran Duran
-245: (  1) - Eddie & the Hot Rods
-246: (  1) - Erin Rae
-247: (  1) - Eurythmics
-248: (  1) - Frankie Goes to Hollywood
-249: (  1) - Free
-250: (  1) - Gary Numan
-251: (  1) - Haircut 100
-252: (  1) - Harry Allen
-253: (  1) - Hazel O'connor
-254: (  1) - Ian Shaw
-255: (  1) - Imagination
-256: (  1) - Inxs
-257: (  1) - Jack Jones
-258: (  1) - Jcpenney
-259: (  1) - Joe Jackson
-260: (  1) - Jon Hassell
-261: (  1) - Lee Marvin
-262: (  1) - Lisa Stansfield
-263: (  1) - Martha and the Muffins
-264: (  1) - Mary Lee's Corvette
-265: (  1) - Men At Work
-266: (  1) - Moaning
-267: (  1) - Mungo Jerry
-268: (  1) - Nancy Wilson
-269: (  1) - Neko Case
-270: (  1) - Nena
-271: (  1) - Nick Lowe
-272: (  1) - Norman Greenbaum
-273: (  1) - Oh Sees
-274: (  1) - Peter, Paul & Mary
-275: (  1) - Pink Floyd
-276: (  1) - Plastic Bertrand
-277: (  1) - R.E.M.
-278: (  1) - Rhcptv1
-279: (  1) - Rhino
-280: (  1) - Rosalyn
-281: (  1) - Scritti Politti
-282: (  1) - Softladification
-283: (  1) - Spandau Ballet
-284: (  1) - Squeeze
-285: (  1) - Taco
-286: (  1) - Tamara Todevska
-287: (  1) - Tears for Fears
-288: (  1) - The Archies
-289: (  1) - The Easybeats
-290: (  1) - The Human League
-291: (  1) - The Jackson 5
-292: (  1) - The Scaffold
-293: (  1) - The Specials
-294: (  1) - The Stranglers
-295: (  1) - The Vapors
-296: (  1) - The Wave Pictures
-297: (  1) - Them
-298: (  1) - Toni Basil
-299: (  1) - Tubeway Army
-300: (  1) - Violent Femmes
-301: (  1) - Virginia Wing
-302: (  1) - Visage
-303: (  1) - Visagevevo
-304: (  1) - When in Rome
+178: (  3) - Marissa Nadler
+179: (  3) - Michael Rault
+180: (  3) - Mudhoney
+181: (  3) - Nathan Salsburg
+182: (  3) - Oliver Coates
+183: (  3) - Ray Davies
+184: (  3) - Rvg
+185: (  3) - Ry Cooder
+186: (  3) - Spiritualized
+187: (  3) - Swamp Dogg
+188: (  3) - The Goon Sax
+189: (  3) - The Innocence Mission
+190: (  3) - The Kinks
+191: (  3) - The Last Poets
+192: (  3) - The Smiths
+193: (  3) - Ty Segall
+194: (  3) - White Fence
+195: (  3) - Young Fathers
+196: (  2) - Alejandro Escovedo
+197: (  2) - Bbc Radio 3
+198: (  2) - Blossom Dearie
+199: (  2) - Bombino
+200: (  2) - China Crisis
+201: (  2) - Dawes
+202: (  2) - Dawn Landes
+203: (  2) - Eric Bachmann
+204: (  2) - Frankie Cosmos
+205: (  2) - Harry Connick, Jr.
+206: (  2) - Ian Dury
+207: (  2) - Iron & Wine
+208: (  2) - J Mascis
+209: (  2) - Jimmie Dale Gilmore
+210: (  2) - Jo Passed
+211: (  2) - Jonathan Richman and the Modern Lovers
+212: (  2) - King Tuff
+213: (  2) - Knife Knights
+214: (  2) - Loma
+215: (  2) - Madness
+216: (  2) - Mass Gothic
+217: (  2) - Matty
+218: (  2) - Natalie Prass
+219: (  2) - Olivia Chaney
+220: (  2) - Sleater-Kinney
+221: (  2) - Soft Cell
+222: (  2) - Steve Winwood
+223: (  2) - The Afghan Whigs
+224: (  2) - The Jam
+225: (  2) - The Police
+226: (  2) - The Pretty Things
+227: (  2) - The Who
+228: (  2) - The Yardbirds
+229: (  2) - Yuno
+230: (  1) - A-Ha
+231: (  1) - Aaron Weinstein
+232: (  1) - Billy Idol
+233: (  1) - Billy Ocean
+234: (  1) - Books and Authors
+235: (  1) - Christie
+236: (  1) - Cliff Richard
+237: (  1) - Culture Club
+238: (  1) - Dana
+239: (  1) - Dave Brubeck
+240: (  1) - Dead Or Alive
+241: (  1) - Delacey
+242: (  1) - Derek and the Dominos
+243: (  1) - Duran Duran
+244: (  1) - Eddie & the Hot Rods
+245: (  1) - Erin Rae
+246: (  1) - Eurythmics
+247: (  1) - Frankie Goes to Hollywood
+248: (  1) - Free
+249: (  1) - Gary Numan
+250: (  1) - Haircut 100
+251: (  1) - Harry Allen
+252: (  1) - Hazel O'connor
+253: (  1) - Ian Shaw
+254: (  1) - Imagination
+255: (  1) - Inxs
+256: (  1) - Jack Jones
+257: (  1) - Jcpenney
+258: (  1) - Joe Jackson
+259: (  1) - Jon Hassell
+260: (  1) - Lee Marvin
+261: (  1) - Lisa Stansfield
+262: (  1) - Martha and the Muffins
+263: (  1) - Mary Lee's Corvette
+264: (  1) - Men At Work
+265: (  1) - Moaning
+266: (  1) - Mungo Jerry
+267: (  1) - Nancy Wilson
+268: (  1) - Neko Case
+269: (  1) - Nena
+270: (  1) - Nick Lowe
+271: (  1) - Norman Greenbaum
+272: (  1) - Oh Sees
+273: (  1) - Peter, Paul & Mary
+274: (  1) - Pink Floyd
+275: (  1) - Plastic Bertrand
+276: (  1) - R.E.M.
+277: (  1) - Rhcptv1
+278: (  1) - Rhino
+279: (  1) - Rosalyn
+280: (  1) - Scritti Politti
+281: (  1) - Softladification
+282: (  1) - Spandau Ballet
+283: (  1) - Squeeze
+284: (  1) - Taco
+285: (  1) - Tamara Todevska
+286: (  1) - Tears for Fears
+287: (  1) - The Archies
+288: (  1) - The Easybeats
+289: (  1) - The Human League
+290: (  1) - The Jackson 5
+291: (  1) - The Scaffold
+292: (  1) - The Specials
+293: (  1) - The Stranglers
+294: (  1) - The Vapors
+295: (  1) - The Wave Pictures
+296: (  1) - Them
+297: (  1) - Toni Basil
+298: (  1) - Tubeway Army
+299: (  1) - Violent Femmes
+300: (  1) - Virginia Wing
+301: (  1) - Visage
+302: (  1) - Visagevevo
+303: (  1) - When in Rome

@@ -1,6 +1,6 @@
 Specified year (2020), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     661            42            54           461
+     661            41            54           461
  1: (100) - Bob Dylan
  2: ( 68) - ABC
  3: ( 42) - Gretchen Peters
@@ -13,15 +13,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 10: ( 16) - Tift Merritt
 11: ( 15) - Brigid Mae Power
 12: ( 15) - Rod Picott
-13: ( 14) - Orchestral Manoeuvres in the Dark
-14: ( 14) - The Beatles
-15: ( 14) - The Clash
-16: ( 14) - The Fall
-17: ( 13) - Aztec Camera
-18: ( 13) - Corb Lund
-19: ( 13) - Rachel Harrington
-20: ( 13) - Simple Minds
-21: ( 13) - T. Rex
+13: ( 15) - T. Rex
+14: ( 14) - Orchestral Manoeuvres in the Dark
+15: ( 14) - The Beatles
+16: ( 14) - The Clash
+17: ( 14) - The Fall
+18: ( 13) - Aztec Camera
+19: ( 13) - Corb Lund
+20: ( 13) - Rachel Harrington
+21: ( 13) - Simple Minds
 22: ( 12) - Eliza Gilkyson
 23: ( 12) - Laura Cantrell
 24: ( 12) - Patty Griffin
@@ -36,10 +36,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 33: (  5) - Haircut 100
 34: (  5) - The Cure
 35: (  4) - Phoebe Bridgers
-36: (  2) - Marc Bolan
-37: (  1) - Lehbanchleh
-38: (  1) - Mankind
-39: (  1) - Paul Weller
-40: (  1) - Sugar Black
-41: (  1) - The Men
-42: (  1) - Tom Robinson
+36: (  1) - Lehbanchleh
+37: (  1) - Mankind
+38: (  1) - Paul Weller
+39: (  1) - Sugar Black
+40: (  1) - The Men
+41: (  1) - Tom Robinson

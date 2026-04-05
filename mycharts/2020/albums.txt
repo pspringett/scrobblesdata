@@ -1,6 +1,6 @@
 Specified year (2020)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    7582           338           492          3416
+    7582           337           491          3416
   1: (106) - On Sunset (Deluxe) - Paul Weller
   2: (100) - Strange Fascination - Chatham County Line
   3: ( 96) - Greatest Hits Of Nick Heyward + Haircut 100 - Nick Heyward
@@ -68,11 +68,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  65: ( 37) - When All Is Said And All Is Done - Department S
  66: ( 36) - Crumbling The Antiseptic Beauty/The Splendour Of Fear - Felt
  67: ( 36) - Sunshine On Leith - The Proclaimers
- 68: ( 35) - Salutation Road - Martin Stephenson and the Daintees
- 69: ( 34) - Bauhaus - 1979-1983 Volume One - Bauhaus
- 70: ( 33) - Dandy In The Underworld (Deluxe Edition) - T. Rex
- 71: ( 33) - The Slider - T. Rex
- 72: ( 32) - Futuristic Dragon - T. Rex
+ 68: ( 35) - Futuristic Dragon - T. Rex
+ 69: ( 35) - Salutation Road - Martin Stephenson and the Daintees
+ 70: ( 34) - Bauhaus - 1979-1983 Volume One - Bauhaus
+ 71: ( 33) - Dandy In The Underworld - T. Rex
+ 72: ( 33) - The Slider - T. Rex
  73: ( 32) - Merry Christmas, Baby - Rod Stewart
  74: ( 32) - Tanx - T. Rex
  75: ( 31) - Aviary - Julia Holter
@@ -86,7 +86,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  83: ( 28) * Beyond The Leap Beyond The Law - Martin Stephenson
  84: ( 28) - Help! - The Beatles
  85: ( 28) * Sew Your Heart With Wires - Rod Picott and Amanda Shires
- 86: ( 28) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+ 86: ( 28) - Zinc Alloy And The Hidden Riders Of Tomorrow - T. Rex
  87: ( 27) - Achtung Baby - U2
  88: ( 27) - In City And In Forest - Tower of Song
  89: ( 27) - The Kick Inside - Kate Bush
@@ -340,180 +340,179 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 337: (  3) - David Live (2005 mix) - David Bowie
 338: (  3) - Don Letts And Turtle Bay Present Reggae 45 - Don Letts and Turtle Bay Present Reggae 45
 339: (  3) - Fallen Angels - Bob Dylan
-340: (  3) - Futuristic Dragon (Deluxe Edition) - T. Rex
-341: (  3) - Ghosteen - Nick Cave & the Bad Seeds
-342: (  3) * Reading, Writing & Arithmetic - The Sundays
-343: (  3) * Songs Of Leonard Cohen - Leonard Cohen
-344: (  3) * Station To Station - David Bowie
-345: (  3) - Stranger In The Alps - Phoebe Bridgers
-346: (  3) - The Return - Sampa the Great
-347: (  3) - Unfollow The Rules - Rufus Wainwright
-348: (  3) - War Baby - Hope & Glory - Tom Robinson
-349: (  2) - (What's So Funny 'bout) Peace, Love And Understanding? - Sharon Van Etten
-350: (  2) - 1978-1988 A Decade Of Spizz History - Spizz Energi
-351: (  2) - 70S 100 Hits - Blue Öyster Cult
-352: (  2) - 70S 100 Hits - David Essex
-353: (  2) - 70S 100 Hits - Lou Reed
-354: (  2) - 70S 100 Hits - Middle of the Road
-355: (  2) - 70S Classic Rock - Free
-356: (  2) - Back In Black - Ac/Dc
-357: (  2) - Billboard #1S: The '70S - Carly Simon
-358: (  2) - Blood And Chocolate - Elvis Costello & the Attractions
-359: (  2) - Cactused - Wire
-360: (  2) - Chapter 5 - Chapter 5
-361: (  2) - Chatham County Line - Chatham County Line
-362: (  2) - Debris - Keeley Forsyth
-363: (  2) - Dragnet - The Fall
-364: (  2) - Eight Miles High/Makes No Sense At All (4-Track Maxi-Single) - Hüsker Dü
-365: (  2) - Fate Of Nations - Robert Plant
-366: (  2) - Good As I Been To You - Bob Dylan
-367: (  2) * Hellbent On Compromise - Edwyn Collins
-368: (  2) * Hope And Despair - Edwyn Collins
-369: (  2) - Hush - Tracy Bryant
-370: (  2) - I Fix My Gaze / Don't Shy Away - Loma
-371: (  2) - Ignite The Seven Cannons (Remastered Edition) - Felt
-372: (  2) - Iii - Loma
-373: (  2) - Just Like Moby Dick - The Panhandle Mystery Band
-374: (  2) - Land Of No Junction - Aoife Nessa Frances
-375: (  2) - Live With The Royal Liverpool Philharmonic Orchestra - 06/10/18 - Orchestral Manoeuvres in the Dark
-376: (  2) - Make It Up To You (Unreleased Studio Outtake) - Steve Wynn
-377: (  2) - Metamatic...Plus - John Foxx
-378: (  2) - Metro Music - Martha and the Muffins
-379: (  2) - New Chapter Of Dub - Aswad
-380: (  2) - New Gold Dream - Simple Minds
-381: (  2) - Original Hits - 70S Pop - Mott the Hoople
-382: (  2) - OxygèNe - Jean Michel Jarre
-383: (  2) - Playlist: 70S Pop - Gerry Rafferty
-384: (  2) - Playlist: 70S Pop - Steve Harley
-385: (  2) * Power, Corruption & Lies - New Order
-386: (  2) * Roxy Music - Roxy Music
-387: (  2) - See Here, I Have Built You A Mansion (Rare And Unreleased) - Josh Ritter
-388: (  2) - Serious Moonlight - David Bowie
-389: (  2) - Seventh Sea - Tom Baird
-390: (  2) - Snapshot Of A Beginner - Nap Eyes
-391: (  2) - Songs - Loma
-392: (  2) * Sparkle In The Rain - Simple Minds
-393: (  2) - Swing In 82 - Paul Haig
-394: (  2) - The Rabbit That Hunts Tigers - Yin Yin
-395: (  2) - The Weight Of The Sun - Modern Studies
-396: (  2) - Wise Up Ghost (Deluxe) - Elvis Costello and the Roots
-397: (  1) -  - Bob Dylan
-398: (  1) -  - Mrgroovybassman
-399: (  1) - (The Microcosm) : Visionary Music Of Continental Europe, 1970-1986 - Karl Schaffner
-400: (  1) - 1992 - 2001 - Acetone
-401: (  1) - 2020 - Loma
-402: (  1) - 2020 - Magik Markers
-403: (  1) - A House Safe For Tigers Soundtrack - Lee Hazlewood
-404: (  1) - Acr Loco - A Certain Ratio
-405: (  1) - Acr Loco - Loma
-406: (  1) * Altered Images 12 Inch Mix - Altered Images
-407: (  1) - An Innocent Man - Billy Joel
-408: (  1) - As Long As You Are - Loma
-409: (  1) - Back Door Men - The Shadows of Knight
-410: (  1) - Badala - Loma
-411: (  1) - Barre - Loma
-412: (  1) - Barre - Songhoy Blues
-413: (  1) - Beautiful Rivers And Mountains: The Psychedelic Rock Sound Of South Korea's Shin Joong Hyun 1958-1974 - Shin Joong Hyun & the Men
-414: (  1) - Birthmarks - Hilary Woods
-415: (  1) - Concrete And Glass - Nicolas Godin
-416: (  1) - Crush [Explicit] - Lettuce
-417: (  1) - Definitely Dylan - Definitely Dylan
-418: (  1) - Don't Just Sing: A Karin Krog Anthology 1963-1999 - Karin Krog
-419: (  1) - Dream On - Alice Boman
-420: (  1) - Dreamin' Wild - Donnie & Joe Emerson
-421: (  1) - Dyke's Greatest Hits - The Complete Singles - Dyke & the Blazers
-422: (  1) - Earl Scruggs And Friends - Earl Scruggs
-423: (  1) - Early - Scritti Politti
-424: (  1) - Easter Everywhere - 13Th Floor Elevators
-425: (  1) - England Is A Garden - Cornershop
-426: (  1) - Finds You Well - Loma
-427: (  1) - Fisherman's Blues - The Waterboys
-428: (  1) - Forgotten Days - Loma
-429: (  1) - Free Humans - Hen Ogledd
-430: (  1) - Free Humans - Loma
-431: (  1) - Freeze Frame - The J. Geils Band
-432: (  1) - Goodbye Yellow Brick Road (Remastered) - Elton John
-433: (  1) - Goodbye, Blue Sky - Mr. Elevator
-434: (  1) - Greatest Hits - Joe Tex
-435: (  1) - Green River - Eilen Jewell
-436: (  1) - Gremlins Have Pictures - Roky Erickson
-437: (  1) - Hard Times In Babylon - Eliza Gilkyson
-438: (  1) - Heavy Light - U.S. Girls
-439: (  1) - I Was Born Swimming - Squirrel Flower
-440: (  1) - I'm A Man - The Spencer Davis Group
-441: (  1) - I'm Five Years Ahead Of My Time - The Third Bardo
-442: (  1) - Iii - Fuzz
-443: (  1) - In Case You're In Love - Sonny & Cher
-444: (  1) - It'll All Be Over - Supreme Jubilees
-445: (  1) - Keep On Holding On - The Action
-446: (  1) - Les Nouvelles Musiques De Chambre, Vol. 2 - Gigi Masin
-447: (  1) - Let It All In - Arbouretum
-448: (  1) * Little Creatures - Talking Heads
-449: (  1) - Love Comes In Waves - Loma
-450: (  1) - Lp5 - John Moreland
-451: (  1) - Misfit's Jubilee - Jim White
-452: (  1) - Misfit's Jubilee - Loma
-453: (  1) - Murder Ballads (2011 Remastered Version) - Nick Cave & the Bad Seeds
-454: (  1) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
-455: (  1) - Never Mind The Bollocks, Here’S The Sex Pistols - Sex Pistols
-456: (  1) - Nightcap At Wits' End - Garcia Peoples
-457: (  1) - Nightcap At Wits' End - Loma
-458: (  1) - Nijimusi - Ooioo
-459: (  1) - Odd West - Jason Mcmahon
-460: (  1) - On The Level - Status Quo
-461: (  1) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
-462: (  1) * Organisation - Orchestral Manoeuvres in the Dark
-463: (  1) - Our Feeling Of Natural High - L.A. Takedown
-464: (  1) - Out Of My Province - Nadia Reid
-465: (  1) - Out Of The Blue - Electric Light Orchestra
-466: (  1) - Pacific Street - The Pale Fountains
-467: (  1) - Pine Trees - Loma
-468: (  1) * Rattlesnakes - Lloyd Cole and the Commotions
-469: (  1) - Reflected Images - The Best Of Altered Images - Altered Images
-470: (  1) - Retrospective (The Best Of Buffalo Springfield) - Buffalo Springfield
-471: (  1) - Rex Garvin & The Mighty Cravers - Rex Garvin & the Mighty Cravers
-472: (  1) * Road - Angie Palmer
-473: (  1) - Running On Empty / Nothing But Time (Digital 45) - Jackson Browne
-474: (  1) - Silver Ladders - Loma
-475: (  1) - Silver Ladders - Mary Lattimore
-476: (  1) - Snap, Crackle & Bop - John Cooper Clarke
-477: (  1) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
-478: (  1) - Song To A Refugee - Diana Jones
-479: (  1) - Song To A Refugee - Loma
-480: (  1) - Songs - Adrianne Lenker
-481: (  1) - Sorry You Couldn't Make It - Swamp Dogg
-482: (  1) - Soul Dance! - Loma
-483: (  1) - Soul Queen - Aretha Franklin
-484: (  1) - Sound And Vision - Tin Machine
-485: (  1) - Starmaker - Honey Harper
-486: (  1) - Stone Crush: Memphis Modern Soul 1977-1987 - Greg Mason
-487: (  1) - Stranger In The Alp - Phoebe Bridgers
-488: (  1) - TamotaïT - Tamikrest
-489: (  1) - The Ascension - Loma
-490: (  1) - The Ascension - Sufjan Stevens
-491: (  1) - The Best Of The Monkees - The Monkees
-492: (  1) - The Correct Use Of Soap - Magazine
-493: (  1) - The Essential Byrds - The Byrds
-494: (  1) - The Main Thing - Real Estate
-495: (  1) - The Neon Skyline - Andy Shauf
-496: (  1) - The Night Chancers - Baxter Dury
-497: (  1) - The Searchers: The Pye Anthology 1963-1967 - The Searchers
-498: (  1) - The View From Halfway Down - Andy Bell
-499: (  1) - The View From Halfway Down - Loma
-500: (  1) - They Say I'm Different - Betty Davis
-501: (  1) - Time Out Of Mind - Bob Dylan
-502: (  1) - Transitions 1: Spaceship Bop (1955-57) - Loma
-503: (  1) - Travelogue - The Men
-504: (  1) - Trouble - Loma
-505: (  1) - True Meanings - Paul Weller
-506: (  1) - U.F.O. - Jim Sullivan
-507: (  1) - Ultimate Collection: Gladys Knight & The Pips - Gladys Knight & the Pips
-508: (  1) - Un, Deux, Trois - Juniore
-509: (  1) - Unknown Pleasures (2019 Digital Master) - Joy Division
-510: (  1) - Walking On A String - Loma
-511: (  1) - Wanderer - Cara Dillon
-512: (  1) - We've Only Just Begun - Bat for Lashes
-513: (  1) - Whatever It Is - Hello Forever
-514: (  1) - Whatever It Is - Loma
-515: (  1) - Who Do We Think We Are (Remastered) - Deep Purple
-516: (  1) - Young And Stupid - Josef K
+340: (  3) - Ghosteen - Nick Cave & the Bad Seeds
+341: (  3) * Reading, Writing & Arithmetic - The Sundays
+342: (  3) * Songs Of Leonard Cohen - Leonard Cohen
+343: (  3) * Station To Station - David Bowie
+344: (  3) - Stranger In The Alps - Phoebe Bridgers
+345: (  3) - The Return - Sampa the Great
+346: (  3) - Unfollow The Rules - Rufus Wainwright
+347: (  3) - War Baby - Hope & Glory - Tom Robinson
+348: (  2) - (What's So Funny 'bout) Peace, Love And Understanding? - Sharon Van Etten
+349: (  2) - 1978-1988 A Decade Of Spizz History - Spizz Energi
+350: (  2) - 70S 100 Hits - Blue Öyster Cult
+351: (  2) - 70S 100 Hits - David Essex
+352: (  2) - 70S 100 Hits - Lou Reed
+353: (  2) - 70S 100 Hits - Middle of the Road
+354: (  2) - 70S Classic Rock - Free
+355: (  2) - Back In Black - Ac/Dc
+356: (  2) - Billboard #1S: The '70S - Carly Simon
+357: (  2) - Blood And Chocolate - Elvis Costello & the Attractions
+358: (  2) - Cactused - Wire
+359: (  2) - Chapter 5 - Chapter 5
+360: (  2) - Chatham County Line - Chatham County Line
+361: (  2) - Debris - Keeley Forsyth
+362: (  2) - Dragnet - The Fall
+363: (  2) - Eight Miles High/Makes No Sense At All (4-Track Maxi-Single) - Hüsker Dü
+364: (  2) - Fate Of Nations - Robert Plant
+365: (  2) - Good As I Been To You - Bob Dylan
+366: (  2) * Hellbent On Compromise - Edwyn Collins
+367: (  2) * Hope And Despair - Edwyn Collins
+368: (  2) - Hush - Tracy Bryant
+369: (  2) - I Fix My Gaze / Don't Shy Away - Loma
+370: (  2) - Ignite The Seven Cannons (Remastered Edition) - Felt
+371: (  2) - Iii - Loma
+372: (  2) - Just Like Moby Dick - The Panhandle Mystery Band
+373: (  2) - Land Of No Junction - Aoife Nessa Frances
+374: (  2) - Live With The Royal Liverpool Philharmonic Orchestra - 06/10/18 - Orchestral Manoeuvres in the Dark
+375: (  2) - Make It Up To You (Unreleased Studio Outtake) - Steve Wynn
+376: (  2) - Metamatic...Plus - John Foxx
+377: (  2) - Metro Music - Martha and the Muffins
+378: (  2) - New Chapter Of Dub - Aswad
+379: (  2) - New Gold Dream - Simple Minds
+380: (  2) - Original Hits - 70S Pop - Mott the Hoople
+381: (  2) - OxygèNe - Jean Michel Jarre
+382: (  2) - Playlist: 70S Pop - Gerry Rafferty
+383: (  2) - Playlist: 70S Pop - Steve Harley
+384: (  2) * Power, Corruption & Lies - New Order
+385: (  2) * Roxy Music - Roxy Music
+386: (  2) - See Here, I Have Built You A Mansion (Rare And Unreleased) - Josh Ritter
+387: (  2) - Serious Moonlight - David Bowie
+388: (  2) - Seventh Sea - Tom Baird
+389: (  2) - Snapshot Of A Beginner - Nap Eyes
+390: (  2) - Songs - Loma
+391: (  2) * Sparkle In The Rain - Simple Minds
+392: (  2) - Swing In 82 - Paul Haig
+393: (  2) - The Rabbit That Hunts Tigers - Yin Yin
+394: (  2) - The Weight Of The Sun - Modern Studies
+395: (  2) - Wise Up Ghost (Deluxe) - Elvis Costello and the Roots
+396: (  1) -  - Bob Dylan
+397: (  1) -  - Mrgroovybassman
+398: (  1) - (The Microcosm) : Visionary Music Of Continental Europe, 1970-1986 - Karl Schaffner
+399: (  1) - 1992 - 2001 - Acetone
+400: (  1) - 2020 - Loma
+401: (  1) - 2020 - Magik Markers
+402: (  1) - A House Safe For Tigers Soundtrack - Lee Hazlewood
+403: (  1) - Acr Loco - A Certain Ratio
+404: (  1) - Acr Loco - Loma
+405: (  1) * Altered Images 12 Inch Mix - Altered Images
+406: (  1) - An Innocent Man - Billy Joel
+407: (  1) - As Long As You Are - Loma
+408: (  1) - Back Door Men - The Shadows of Knight
+409: (  1) - Badala - Loma
+410: (  1) - Barre - Loma
+411: (  1) - Barre - Songhoy Blues
+412: (  1) - Beautiful Rivers And Mountains: The Psychedelic Rock Sound Of South Korea's Shin Joong Hyun 1958-1974 - Shin Joong Hyun & the Men
+413: (  1) - Birthmarks - Hilary Woods
+414: (  1) - Concrete And Glass - Nicolas Godin
+415: (  1) - Crush [Explicit] - Lettuce
+416: (  1) - Definitely Dylan - Definitely Dylan
+417: (  1) - Don't Just Sing: A Karin Krog Anthology 1963-1999 - Karin Krog
+418: (  1) - Dream On - Alice Boman
+419: (  1) - Dreamin' Wild - Donnie & Joe Emerson
+420: (  1) - Dyke's Greatest Hits - The Complete Singles - Dyke & the Blazers
+421: (  1) - Earl Scruggs And Friends - Earl Scruggs
+422: (  1) - Early - Scritti Politti
+423: (  1) - Easter Everywhere - 13Th Floor Elevators
+424: (  1) - England Is A Garden - Cornershop
+425: (  1) - Finds You Well - Loma
+426: (  1) - Fisherman's Blues - The Waterboys
+427: (  1) - Forgotten Days - Loma
+428: (  1) - Free Humans - Hen Ogledd
+429: (  1) - Free Humans - Loma
+430: (  1) - Freeze Frame - The J. Geils Band
+431: (  1) - Goodbye Yellow Brick Road (Remastered) - Elton John
+432: (  1) - Goodbye, Blue Sky - Mr. Elevator
+433: (  1) - Greatest Hits - Joe Tex
+434: (  1) - Green River - Eilen Jewell
+435: (  1) - Gremlins Have Pictures - Roky Erickson
+436: (  1) - Hard Times In Babylon - Eliza Gilkyson
+437: (  1) - Heavy Light - U.S. Girls
+438: (  1) - I Was Born Swimming - Squirrel Flower
+439: (  1) - I'm A Man - The Spencer Davis Group
+440: (  1) - I'm Five Years Ahead Of My Time - The Third Bardo
+441: (  1) - Iii - Fuzz
+442: (  1) - In Case You're In Love - Sonny & Cher
+443: (  1) - It'll All Be Over - Supreme Jubilees
+444: (  1) - Keep On Holding On - The Action
+445: (  1) - Les Nouvelles Musiques De Chambre, Vol. 2 - Gigi Masin
+446: (  1) - Let It All In - Arbouretum
+447: (  1) * Little Creatures - Talking Heads
+448: (  1) - Love Comes In Waves - Loma
+449: (  1) - Lp5 - John Moreland
+450: (  1) - Misfit's Jubilee - Jim White
+451: (  1) - Misfit's Jubilee - Loma
+452: (  1) - Murder Ballads (2011 Remastered Version) - Nick Cave & the Bad Seeds
+453: (  1) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
+454: (  1) - Never Mind The Bollocks, Here’S The Sex Pistols - Sex Pistols
+455: (  1) - Nightcap At Wits' End - Garcia Peoples
+456: (  1) - Nightcap At Wits' End - Loma
+457: (  1) - Nijimusi - Ooioo
+458: (  1) - Odd West - Jason Mcmahon
+459: (  1) - On The Level - Status Quo
+460: (  1) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
+461: (  1) * Organisation - Orchestral Manoeuvres in the Dark
+462: (  1) - Our Feeling Of Natural High - L.A. Takedown
+463: (  1) - Out Of My Province - Nadia Reid
+464: (  1) - Out Of The Blue - Electric Light Orchestra
+465: (  1) - Pacific Street - The Pale Fountains
+466: (  1) - Pine Trees - Loma
+467: (  1) * Rattlesnakes - Lloyd Cole and the Commotions
+468: (  1) - Reflected Images - The Best Of Altered Images - Altered Images
+469: (  1) - Retrospective (The Best Of Buffalo Springfield) - Buffalo Springfield
+470: (  1) - Rex Garvin & The Mighty Cravers - Rex Garvin & the Mighty Cravers
+471: (  1) * Road - Angie Palmer
+472: (  1) - Running On Empty / Nothing But Time (Digital 45) - Jackson Browne
+473: (  1) - Silver Ladders - Loma
+474: (  1) - Silver Ladders - Mary Lattimore
+475: (  1) - Snap, Crackle & Bop - John Cooper Clarke
+476: (  1) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
+477: (  1) - Song To A Refugee - Diana Jones
+478: (  1) - Song To A Refugee - Loma
+479: (  1) - Songs - Adrianne Lenker
+480: (  1) - Sorry You Couldn't Make It - Swamp Dogg
+481: (  1) - Soul Dance! - Loma
+482: (  1) - Soul Queen - Aretha Franklin
+483: (  1) - Sound And Vision - Tin Machine
+484: (  1) - Starmaker - Honey Harper
+485: (  1) - Stone Crush: Memphis Modern Soul 1977-1987 - Greg Mason
+486: (  1) - Stranger In The Alp - Phoebe Bridgers
+487: (  1) - TamotaïT - Tamikrest
+488: (  1) - The Ascension - Loma
+489: (  1) - The Ascension - Sufjan Stevens
+490: (  1) - The Best Of The Monkees - The Monkees
+491: (  1) - The Correct Use Of Soap - Magazine
+492: (  1) - The Essential Byrds - The Byrds
+493: (  1) - The Main Thing - Real Estate
+494: (  1) - The Neon Skyline - Andy Shauf
+495: (  1) - The Night Chancers - Baxter Dury
+496: (  1) - The Searchers: The Pye Anthology 1963-1967 - The Searchers
+497: (  1) - The View From Halfway Down - Andy Bell
+498: (  1) - The View From Halfway Down - Loma
+499: (  1) - They Say I'm Different - Betty Davis
+500: (  1) - Time Out Of Mind - Bob Dylan
+501: (  1) - Transitions 1: Spaceship Bop (1955-57) - Loma
+502: (  1) - Travelogue - The Men
+503: (  1) - Trouble - Loma
+504: (  1) - True Meanings - Paul Weller
+505: (  1) - U.F.O. - Jim Sullivan
+506: (  1) - Ultimate Collection: Gladys Knight & The Pips - Gladys Knight & the Pips
+507: (  1) - Un, Deux, Trois - Juniore
+508: (  1) - Unknown Pleasures (2019 Digital Master) - Joy Division
+509: (  1) - Walking On A String - Loma
+510: (  1) - Wanderer - Cara Dillon
+511: (  1) - We've Only Just Begun - Bat for Lashes
+512: (  1) - Whatever It Is - Hello Forever
+513: (  1) - Whatever It Is - Loma
+514: (  1) - Who Do We Think We Are (Remastered) - Deep Purple
+515: (  1) - Young And Stupid - Josef K

@@ -1,14 +1,14 @@
 Specified year (2017), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     771            36            51           458
+     771            35            51           458
  1: (84) - Cowboy Junkies
  2: (53) - Ray Davies
  3: (47) - The Smiths
  4: (43) - London Grammar
- 5: (36) - Heaven 17
- 6: (36) - The Jam
- 7: (34) - Simple Minds
- 8: (33) - T. Rex
+ 5: (39) - T. Rex
+ 6: (36) - Heaven 17
+ 7: (36) - The Jam
+ 8: (34) - Simple Minds
  9: (30) - Corb Lund
 10: (30) - Jack Harris
 11: (29) - Hem
@@ -35,5 +35,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 32: ( 8) - Leonard Cohen
 33: ( 7) - Laura Marling
 34: ( 7) - Yazoo
-35: ( 6) - Marc Bolan
-36: ( 4) - ABC
+35: ( 4) - ABC

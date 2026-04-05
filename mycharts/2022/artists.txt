@@ -1,6 +1,6 @@
 Specified year (2022)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3438           160           227          1676
+    3438           159           227          1676
   1: (330) - Lloyd Cole
   2: (294) - Altered Images
   3: (206) - St. Vincent
@@ -30,11 +30,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  27: ( 38) - The Fall
  28: ( 37) - Martin Stephenson and the Daintees
  29: ( 37) - Robert Plant
- 30: ( 34) - The Linda Lindas
- 31: ( 32) - Sea Power
- 32: ( 31) - Amanda Shires
- 33: ( 31) - Siouxsie and the Banshees
- 34: ( 31) - T. Rex
+ 30: ( 34) - T. Rex
+ 31: ( 34) - The Linda Lindas
+ 32: ( 32) - Sea Power
+ 33: ( 31) - Amanda Shires
+ 34: ( 31) - Siouxsie and the Banshees
  35: ( 31) - Yo La Tengo
  36: ( 26) - That Petrol Emotion
  37: ( 25) - A Certain Ratio
@@ -89,75 +89,74 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  86: (  4) - Queen
  87: (  3) - Aztec Camera
  88: (  3) - Cara Dillon
- 89: (  3) - Marc Bolan
- 90: (  3) - Tift Merritt
- 91: (  2) - Aoife Nessa Frances
- 92: (  2) - Beth Orton
- 93: (  2) - Blancmange
- 94: (  2) - Blue Orchids
- 95: (  2) - Buzzcocks
- 96: (  2) - Børns
- 97: (  2) - Cabaret Voltaire
- 98: (  2) - Cass McCombs
- 99: (  2) - Deutsch Amerikanische Freundschaft
-100: (  2) - Devendra Banhart
-101: (  2) - Essential Logic
-102: (  2) - Fun Boy Three
-103: (  2) - Furious Pig
-104: (  2) - Gaby Moreno
-105: (  2) - Ian Dury
-106: (  2) - Inhaler
-107: (  2) - James Blood Ulmer
-108: (  2) - Joan Jett
-109: (  2) - King Khan
-110: (  2) - Lucinda Williams
-111: (  2) - Nick Cave
-112: (  2) - Panther Burns
-113: (  2) - Peaches
-114: (  2) - Pere Ubu
-115: (  2) - Red Crayola
-116: (  2) - Robert Wyatt
-117: (  2) - Subway Sect
-118: (  2) - Television Personalities
-119: (  2) - The Beat
-120: (  2) - The Beatles
-121: (  2) - The Gist
-122: (  2) - The Masses Carnaby St. John Co
-123: (  2) - The Raincoats
-124: (  2) - Virgin Prunes
-125: (  2) - Wah! Heat
-126: (  2) - Waylon Jennings
-127: (  2) - Yonder Mountain String Band
-128: (  1) - Andrew Bird, Lucius
-129: (  1) - Bastille
-130: (  1) - Blooms & Barnacles
-131: (  1) - Eliza Gilkyson, Darryl Purpose
-132: (  1) - Elysian Fields
-133: (  1) - Emily Haines
-134: (  1) - Feist
-135: (  1) - Fiona Apple
-136: (  1) - Furniture
-137: (  1) - Gavin Friday
-138: (  1) - Howard Jones
-139: (  1) - Human League
-140: (  1) - Japan
-141: (  1) - Jimi Hendrix
-142: (  1) - Joan Shelley
-143: (  1) - John Cameron Mitchell
-144: (  1) - Kesha
-145: (  1) - Kim Carnes
-146: (  1) - Marc Almond
-147: (  1) - Matt Berninger
-148: (  1) - Michael Stipe
-149: (  1) - Nancy Sinatra, Lee Hazlewood
-150: (  1) - Nena
-151: (  1) - Perry Farrell
-152: (  1) - Phoenix
-153: (  1) - Placebo
-154: (  1) - Porridge Radio
-155: (  1) - Revelators Sound System
-156: (  1) - The Black Keys
-157: (  1) - The Doors
-158: (  1) - The New Wave Music Podcast
-159: (  1) - The War on Drugs
-160: (  1) - Waxahatchee
+ 89: (  3) - Tift Merritt
+ 90: (  2) - Aoife Nessa Frances
+ 91: (  2) - Beth Orton
+ 92: (  2) - Blancmange
+ 93: (  2) - Blue Orchids
+ 94: (  2) - Buzzcocks
+ 95: (  2) - Børns
+ 96: (  2) - Cabaret Voltaire
+ 97: (  2) - Cass McCombs
+ 98: (  2) - Deutsch Amerikanische Freundschaft
+ 99: (  2) - Devendra Banhart
+100: (  2) - Essential Logic
+101: (  2) - Fun Boy Three
+102: (  2) - Furious Pig
+103: (  2) - Gaby Moreno
+104: (  2) - Ian Dury
+105: (  2) - Inhaler
+106: (  2) - James Blood Ulmer
+107: (  2) - Joan Jett
+108: (  2) - King Khan
+109: (  2) - Lucinda Williams
+110: (  2) - Nick Cave
+111: (  2) - Panther Burns
+112: (  2) - Peaches
+113: (  2) - Pere Ubu
+114: (  2) - Red Crayola
+115: (  2) - Robert Wyatt
+116: (  2) - Subway Sect
+117: (  2) - Television Personalities
+118: (  2) - The Beat
+119: (  2) - The Beatles
+120: (  2) - The Gist
+121: (  2) - The Masses Carnaby St. John Co
+122: (  2) - The Raincoats
+123: (  2) - Virgin Prunes
+124: (  2) - Wah! Heat
+125: (  2) - Waylon Jennings
+126: (  2) - Yonder Mountain String Band
+127: (  1) - Andrew Bird, Lucius
+128: (  1) - Bastille
+129: (  1) - Blooms & Barnacles
+130: (  1) - Eliza Gilkyson, Darryl Purpose
+131: (  1) - Elysian Fields
+132: (  1) - Emily Haines
+133: (  1) - Feist
+134: (  1) - Fiona Apple
+135: (  1) - Furniture
+136: (  1) - Gavin Friday
+137: (  1) - Howard Jones
+138: (  1) - Human League
+139: (  1) - Japan
+140: (  1) - Jimi Hendrix
+141: (  1) - Joan Shelley
+142: (  1) - John Cameron Mitchell
+143: (  1) - Kesha
+144: (  1) - Kim Carnes
+145: (  1) - Marc Almond
+146: (  1) - Matt Berninger
+147: (  1) - Michael Stipe
+148: (  1) - Nancy Sinatra, Lee Hazlewood
+149: (  1) - Nena
+150: (  1) - Perry Farrell
+151: (  1) - Phoenix
+152: (  1) - Placebo
+153: (  1) - Porridge Radio
+154: (  1) - Revelators Sound System
+155: (  1) - The Black Keys
+156: (  1) - The Doors
+157: (  1) - The New Wave Music Podcast
+158: (  1) - The War on Drugs
+159: (  1) - Waxahatchee

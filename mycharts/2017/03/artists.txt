@@ -1,10 +1,10 @@
 Specified year (2017), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1272            51            76           691
+    1272            50            76           691
  1: (163) - Laura Marling
  2: ( 98) - Cowboy Junkies
- 3: ( 86) - Orchestral Manoeuvres in the Dark
- 4: ( 75) - T. Rex
+ 3: ( 87) - T. Rex
+ 4: ( 86) - Orchestral Manoeuvres in the Dark
  5: ( 58) - Echo & the Bunnymen
  6: ( 43) - Simple Minds
  7: ( 43) - Tift Merritt
@@ -34,21 +34,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 31: ( 13) - Lloyd Cole and the Commotions
 32: ( 12) - It'S Immaterial
 33: ( 12) - Lizanne Knott
-34: ( 12) - Marc Bolan
-35: ( 11) - JT and the Clouds
-36: ( 10) - Jack Harris
-37: ( 10) - Roddy Frame
-38: ( 10) - Roxy Music
-39: ( 10) - The Go-Betweens
-40: (  9) - Aztec Camera
-41: (  9) - Paul Weller
-42: (  7) - Lloyd Cole
-43: (  6) - Jason Isbell
-44: (  6) - New Order
-45: (  6) - Orange Juice
-46: (  5) - The Redlands Palomino Company
-47: (  4) - Edwyn Collins
-48: (  3) - Alex De Grassi
-49: (  3) - Bob Marley
-50: (  3) - Haircut 100
-51: (  1) - The Wailers
+34: ( 11) - JT and the Clouds
+35: ( 10) - Jack Harris
+36: ( 10) - Roddy Frame
+37: ( 10) - Roxy Music
+38: ( 10) - The Go-Betweens
+39: (  9) - Aztec Camera
+40: (  9) - Paul Weller
+41: (  7) - Lloyd Cole
+42: (  6) - Jason Isbell
+43: (  6) - New Order
+44: (  6) - Orange Juice
+45: (  5) - The Redlands Palomino Company
+46: (  4) - Edwyn Collins
+47: (  3) - Alex De Grassi
+48: (  3) - Bob Marley
+49: (  3) - Haircut 100
+50: (  1) - The Wailers

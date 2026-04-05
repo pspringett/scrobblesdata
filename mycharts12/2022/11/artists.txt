@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3320           195           252          1634
+    3320           194           252          1634
   1: (286) - Lloyd Cole
 
 
@@ -258,12 +258,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  27: ( 35) - Michael Head & the Red Elastic Band
- 28: ( 34) - The Linda Lindas
- 29: ( 34) - The Pale Fountains
+ 28: ( 34) - T. Rex
+ 29: ( 34) - The Linda Lindas
+ 30: ( 34) - The Pale Fountains
 
- 30: ( 32) - Sea Power
- 31: ( 31) - Amanda Shires
- 32: ( 31) - T. Rex
+ 31: ( 32) - Sea Power
+ 32: ( 31) - Amanda Shires
  33: ( 31) - Yo La Tengo
 
  34: ( 29) - U2
@@ -326,110 +326,109 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  86: (  4) - Paul Weller
  87: (  3) - Cara Dillon
  88: (  3) - Carrie Underwood
- 89: (  3) - Marc Bolan
- 90: (  2) - Aoife Nessa Frances
- 91: (  2) - Ariana Grande
- 92: (  2) - Band Aid
- 93: (  2) - Beth Orton
- 94: (  2) - Blancmange
- 95: (  2) - Blue Orchids
- 96: (  2) - Buzzcocks
- 97: (  2) - Børns
- 98: (  2) - Cabaret Voltaire
- 99: (  2) - Caroline Rose
-100: (  2) - Cass McCombs
-101: (  2) - Chris De Burgh
-102: (  2) - Deutsch Amerikanische Freundschaft
-103: (  2) - Devendra Banhart
-104: (  2) - Eartha Kitt
-105: (  2) - Elton John
-106: (  2) - Essential Logic
-107: (  2) - Fun Boy Three
-108: (  2) - Furious Pig
-109: (  2) - Gaby Moreno
-110: (  2) - Goat Girl
-111: (  2) - Ian Dury
-112: (  2) - Inhaler
-113: (  2) - James Blood Ulmer
-114: (  2) - Jilted John
-115: (  2) - Joan Jett
-116: (  2) - John Lennon
-117: (  2) - John Williams
-118: (  2) - José Feliciano
-119: (  2) - King Khan
-120: (  2) - Loudon Wainwright III
-121: (  2) - Lucinda Williams
-122: (  2) - Mud
-123: (  2) - Mykola Dmytrovych Leontovych
-124: (  2) - Nat King Cole
-125: (  2) - Nick Cave
-126: (  2) - Panther Burns
-127: (  2) - Peaches
-128: (  2) - Pere Ubu
-129: (  2) - Plastic Bertrand
-130: (  2) - R.E.M.
-131: (  2) - Red Crayola
-132: (  2) - Robert Wyatt
-133: (  2) - Sam Smith
-134: (  2) - Sharon Van Etten
-135: (  2) - Sia
-136: (  2) - Slade
-137: (  2) - Subway Sect
-138: (  2) - Taylor Swift
-139: (  2) - Television Personalities
-140: (  2) - The Beat
-141: (  2) - The Beatles
-142: (  2) - The Gist
-143: (  2) - The Masses Carnaby St. John Co
-144: (  2) - The Pogues
-145: (  2) - The Raincoats
-146: (  2) - Virgin Prunes
-147: (  2) - Wah! Heat
-148: (  2) - Waylon Jennings
-149: (  2) - Yonder Mountain String Band
-150: (  1) - Andrew Bird, Lucius
-151: (  1) - Angel Olsen
-152: (  1) - Bastille
-153: (  1) - Big Thief
-154: (  1) - Blooms & Barnacles
-155: (  1) - Brenda Lee
-156: (  1) - Deerhunter
-157: (  1) - East 17
-158: (  1) - Elysian Fields
-159: (  1) - Emily Haines
-160: (  1) - Feist
-161: (  1) - Furniture
-162: (  1) - Gavin Friday
-163: (  1) - Howard Jones
-164: (  1) - Human League
-165: (  1) - Japan
-166: (  1) - Jazzateers
-167: (  1) - Jimi Hendrix
-168: (  1) - Joan Shelley
-169: (  1) - John Cameron Mitchell
-170: (  1) - Johnny Marks
-171: (  1) - Kesha
-172: (  1) - Kim Carnes
-173: (  1) - Lucy Dacus
-174: (  1) - Marc Almond
-175: (  1) - Matt Berninger
-176: (  1) - Michael Stipe
-177: (  1) - Nancy Sinatra, Lee Hazlewood
-178: (  1) - Nena
-179: (  1) - Perry Farrell
-180: (  1) - Phoenix
-181: (  1) - Placebo
-182: (  1) - Porridge Radio
-183: (  1) - Pretenders
-184: (  1) - Revelators Sound System
-185: (  1) - Robert Palmer
-186: (  1) - Rod Stewart
-187: (  1) - Sparks
-188: (  1) - The Black Keys
-189: (  1) - The Cult
-190: (  1) - The Doors
-191: (  1) - The Felice Brothers
-192: (  1) - The New Wave Music Podcast
-193: (  1) - The War on Drugs
-194: (  1) - Tom Robinson
-195: (  1) - Travis
+ 89: (  2) - Aoife Nessa Frances
+ 90: (  2) - Ariana Grande
+ 91: (  2) - Band Aid
+ 92: (  2) - Beth Orton
+ 93: (  2) - Blancmange
+ 94: (  2) - Blue Orchids
+ 95: (  2) - Buzzcocks
+ 96: (  2) - Børns
+ 97: (  2) - Cabaret Voltaire
+ 98: (  2) - Caroline Rose
+ 99: (  2) - Cass McCombs
+100: (  2) - Chris De Burgh
+101: (  2) - Deutsch Amerikanische Freundschaft
+102: (  2) - Devendra Banhart
+103: (  2) - Eartha Kitt
+104: (  2) - Elton John
+105: (  2) - Essential Logic
+106: (  2) - Fun Boy Three
+107: (  2) - Furious Pig
+108: (  2) - Gaby Moreno
+109: (  2) - Goat Girl
+110: (  2) - Ian Dury
+111: (  2) - Inhaler
+112: (  2) - James Blood Ulmer
+113: (  2) - Jilted John
+114: (  2) - Joan Jett
+115: (  2) - John Lennon
+116: (  2) - John Williams
+117: (  2) - José Feliciano
+118: (  2) - King Khan
+119: (  2) - Loudon Wainwright III
+120: (  2) - Lucinda Williams
+121: (  2) - Mud
+122: (  2) - Mykola Dmytrovych Leontovych
+123: (  2) - Nat King Cole
+124: (  2) - Nick Cave
+125: (  2) - Panther Burns
+126: (  2) - Peaches
+127: (  2) - Pere Ubu
+128: (  2) - Plastic Bertrand
+129: (  2) - R.E.M.
+130: (  2) - Red Crayola
+131: (  2) - Robert Wyatt
+132: (  2) - Sam Smith
+133: (  2) - Sharon Van Etten
+134: (  2) - Sia
+135: (  2) - Slade
+136: (  2) - Subway Sect
+137: (  2) - Taylor Swift
+138: (  2) - Television Personalities
+139: (  2) - The Beat
+140: (  2) - The Beatles
+141: (  2) - The Gist
+142: (  2) - The Masses Carnaby St. John Co
+143: (  2) - The Pogues
+144: (  2) - The Raincoats
+145: (  2) - Virgin Prunes
+146: (  2) - Wah! Heat
+147: (  2) - Waylon Jennings
+148: (  2) - Yonder Mountain String Band
+149: (  1) - Andrew Bird, Lucius
+150: (  1) - Angel Olsen
+151: (  1) - Bastille
+152: (  1) - Big Thief
+153: (  1) - Blooms & Barnacles
+154: (  1) - Brenda Lee
+155: (  1) - Deerhunter
+156: (  1) - East 17
+157: (  1) - Elysian Fields
+158: (  1) - Emily Haines
+159: (  1) - Feist
+160: (  1) - Furniture
+161: (  1) - Gavin Friday
+162: (  1) - Howard Jones
+163: (  1) - Human League
+164: (  1) - Japan
+165: (  1) - Jazzateers
+166: (  1) - Jimi Hendrix
+167: (  1) - Joan Shelley
+168: (  1) - John Cameron Mitchell
+169: (  1) - Johnny Marks
+170: (  1) - Kesha
+171: (  1) - Kim Carnes
+172: (  1) - Lucy Dacus
+173: (  1) - Marc Almond
+174: (  1) - Matt Berninger
+175: (  1) - Michael Stipe
+176: (  1) - Nancy Sinatra, Lee Hazlewood
+177: (  1) - Nena
+178: (  1) - Perry Farrell
+179: (  1) - Phoenix
+180: (  1) - Placebo
+181: (  1) - Porridge Radio
+182: (  1) - Pretenders
+183: (  1) - Revelators Sound System
+184: (  1) - Robert Palmer
+185: (  1) - Rod Stewart
+186: (  1) - Sparks
+187: (  1) - The Black Keys
+188: (  1) - The Cult
+189: (  1) - The Doors
+190: (  1) - The Felice Brothers
+191: (  1) - The New Wave Music Podcast
+192: (  1) - The War on Drugs
+193: (  1) - Tom Robinson
+194: (  1) - Travis

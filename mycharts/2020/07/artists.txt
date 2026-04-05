@@ -1,6 +1,6 @@
 Specified year (2020), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     643            59            72           432
+     643            58            72           432
  1: (49) - Paul Weller
  2: (40) - Sweet
  3: (36) - Eliza Gilkyson
@@ -9,12 +9,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: (29) - Haim
  7: (27) - Eberard Weber
  8: (23) - Lloyd Cole
- 9: (19) - Bob Dylan
-10: (19) - Cocteau Twins
-11: (19) - Jean Toussaint
-12: (19) - Pretenders
-13: (18) - Leonard Cohen
-14: (18) - T. Rex
+ 9: (21) - T. Rex
+10: (19) - Bob Dylan
+11: (19) - Cocteau Twins
+12: (19) - Jean Toussaint
+13: (19) - Pretenders
+14: (18) - Leonard Cohen
 15: (17) - David Bowie
 16: (17) - Laura Veirs
 17: (16) - Blondie
@@ -40,23 +40,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 37: ( 4) - The Big Moon
 38: ( 4) - Weekend
 39: ( 3) - ABC
-40: ( 3) - Marc Bolan
-41: ( 3) - Rod Stewart
-42: ( 3) - Rufus Wainwright
-43: ( 3) - The Beatles
-44: ( 3) - The Cure
-45: ( 3) - The Sundays
-46: ( 2) - Simon & Garfunkel
-47: ( 2) - Tracey Thorn
-48: ( 1) - Brigid Dawson and the Mothers Network
-49: ( 1) - Chapter 4
-50: ( 1) - Dave Grusin
-51: ( 1) - Lettuce
-52: ( 1) - Margo Price
-53: ( 1) - Mark Lanegan
-54: ( 1) - Prefab Sprout
-55: ( 1) - Steve Earle
-56: ( 1) - Talking Heads
-57: ( 1) - The Dream Syndicate
-58: ( 1) - William Tyler
-59: ( 1) - Woods
+40: ( 3) - Rod Stewart
+41: ( 3) - Rufus Wainwright
+42: ( 3) - The Beatles
+43: ( 3) - The Cure
+44: ( 3) - The Sundays
+45: ( 2) - Simon & Garfunkel
+46: ( 2) - Tracey Thorn
+47: ( 1) - Brigid Dawson and the Mothers Network
+48: ( 1) - Chapter 4
+49: ( 1) - Dave Grusin
+50: ( 1) - Lettuce
+51: ( 1) - Margo Price
+52: ( 1) - Mark Lanegan
+53: ( 1) - Prefab Sprout
+54: ( 1) - Steve Earle
+55: ( 1) - Talking Heads
+56: ( 1) - The Dream Syndicate
+57: ( 1) - William Tyler
+58: ( 1) - Woods

@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6803           289           456          3067
+    6803           288           455          3067
   1: (111) - On Sunset (Deluxe) - Paul Weller
 
 
@@ -100,10 +100,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  52: ( 34) - Bauhaus - 1979-1983 Volume One - Bauhaus
  53: ( 33) - Beggars Banquet - The Rolling Stones
- 54: ( 33) - Sex And Gasoline - Rodney Crowell
- 55: ( 33) - Works - Eberard Weber
- 56: ( 32) - Bolan's Zip Gun - T. Rex
- 57: ( 32) - Futuristic Dragon - T. Rex
+ 54: ( 33) - Futuristic Dragon - T. Rex
+ 55: ( 33) - Sex And Gasoline - Rodney Crowell
+ 56: ( 33) - Works - Eberard Weber
+ 57: ( 32) - Bolan's Zip Gun - T. Rex
  58: ( 32) - Merry Christmas, Baby - Rod Stewart
  59: ( 32) - The Graduate - Simon & Garfunkel
 
@@ -323,7 +323,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 272: (  6) - Something On My Mind - The Pale Fountains
 273: (  6) - Spike - Elvis Costello
 274: (  6) - Waiting For A Miracle - The Comsat Angels
-275: (  6) - Zinc Alloy And The Hidden Riders Of Tomorrow - Marc Bolan
+275: (  6) - Zinc Alloy And The Hidden Riders Of Tomorrow - T. Rex
 276: (  5) - Autobahn - Kraftwerk
 277: (  5) - New Gold Dream - Simple Minds
 278: (  5) * Organisation - Orchestral Manoeuvres in the Dark
@@ -450,81 +450,80 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 399: (  1) - Free Humans - Hen Ogledd
 400: (  1) - Free Humans - Loma
 401: (  1) - Freeze Frame - The J. Geils Band
-402: (  1) - Futuristic Dragon (Deluxe Edition) - T. Rex
-403: (  1) - Goodbye Yellow Brick Road (Remastered) - Elton John
-404: (  1) - Green River - Eilen Jewell
-405: (  1) - Gremlins Have Pictures - Roky Erickson
-406: (  1) - Hard Times In Babylon - Eliza Gilkyson
-407: (  1) - Heavy Light - U.S. Girls
-408: (  1) - Iii - Fuzz
-409: (  1) - Initial Success - B.A. Robertson
-410: (  1) - It Is What It Is - Thundercat
-411: (  1) - It'll All Be Over - Supreme Jubilees
-412: (  1) - Les Nouvelles Musiques De Chambre, Vol. 2 - Gigi Masin
-413: (  1) - Let It All In - Arbouretum
-414: (  1) - Lindé - Afel Bocoum
-415: (  1) * Little Creatures - Talking Heads
-416: (  1) - Love Comes In Waves - Loma
-417: (  1) - Lp5 - John Moreland
-418: (  1) * Meanwhile, As Night Falls... - Angie Palmer
-419: (  1) - Misfit's Jubilee - Jim White
-420: (  1) - Misfit's Jubilee - Loma
-421: (  1) - Murder Ballads (2011 Remastered Version) - Nick Cave & the Bad Seeds
-422: (  1) - Music For Sixties - Manfred Mann
-423: (  1) - Never Mind The Bollocks, Here’S The Sex Pistols - Sex Pistols
-424: (  1) - Nightcap At Wits' End - Garcia Peoples
-425: (  1) - Nightcap At Wits' End - Loma
-426: (  1) - Old Flowers - Courtney Marie Andrews
-427: (  1) - On The Level - Status Quo
-428: (  1) - Our Feeling Of Natural High - L.A. Takedown
-429: (  1) - Out Of My Province - Nadia Reid
-430: (  1) - Out Of The Blue - Electric Light Orchestra
-431: (  1) - Pacific Street - The Pale Fountains
-432: (  1) - Pine Trees - Loma
-433: (  1) - Punisher - Phoebe Bridgers
-434: (  1) * Rattlesnakes - Lloyd Cole and the Commotions
-435: (  1) - Reunions - Jason Isbell and the 400 Unit
-436: (  1) - Running On Empty / Nothing But Time (Digital 45) - Jackson Browne
-437: (  1) - Saint Cloud - Waxahatchee
-438: (  1) - Scott 3 - Scott Walker
-439: (  1) - Scott 4 - Scott Walker
-440: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-441: (  1) - Silver Ladders - Loma
-442: (  1) - Silver Ladders - Mary Lattimore
-443: (  1) - Snap, Crackle & Bop - John Cooper Clarke
-444: (  1) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
-445: (  1) - Song To A Refugee - Diana Jones
-446: (  1) - Song To A Refugee - Loma
-447: (  1) - Songs - Adrianne Lenker
-448: (  1) - Sorry You Couldn't Make It - Swamp Dogg
-449: (  1) - Soul Dance! - Loma
-450: (  1) - Starmaker - Honey Harper
-451: (  1) - Stealers Wheel - Stealers Wheel
-452: (  1) - Stone Crush: Memphis Modern Soul 1977-1987 - Greg Mason
-453: (  1) - Stranger In The Alp - Phoebe Bridgers
-454: (  1) - Summerlong - Rose City Band
-455: (  1) - Sundowner - Kevin Morby
-456: (  1) - TamotaïT - Tamikrest
-457: (  1) - The Ascension - Loma
-458: (  1) - The Ascension - Sufjan Stevens
-459: (  1) * The Collection - Altered Images
-460: (  1) - The Main Thing - Real Estate
-461: (  1) - The Night Chancers - Baxter Dury
-462: (  1) - The View From Halfway Down - Andy Bell
-463: (  1) - The View From Halfway Down - Loma
-464: (  1) - They Say I'm Different - Betty Davis
-465: (  1) - Time Out Of Mind - Bob Dylan
-466: (  1) - Traditional Techniques - Stephen Malkmus
-467: (  1) - Transitions 1: Spaceship Bop (1955-57) - Loma
-468: (  1) - Travelogue - The Men
-469: (  1) - Trouble - Loma
-470: (  1) - True Meanings - Paul Weller
-471: (  1) - U.F.O. - Jim Sullivan
-472: (  1) - Un, Deux, Trois - Juniore
-473: (  1) - Unknown Pleasures (2019 Digital Master) - Joy Division
-474: (  1) - Walking On A String - Loma
-475: (  1) - Wanderer - Cara Dillon
-476: (  1) - We've Only Just Begun - Bat for Lashes
-477: (  1) - Whatever It Is - Hello Forever
-478: (  1) - Whatever It Is - Loma
-479: (  1) - Who Do We Think We Are (Remastered) - Deep Purple
+402: (  1) - Goodbye Yellow Brick Road (Remastered) - Elton John
+403: (  1) - Green River - Eilen Jewell
+404: (  1) - Gremlins Have Pictures - Roky Erickson
+405: (  1) - Hard Times In Babylon - Eliza Gilkyson
+406: (  1) - Heavy Light - U.S. Girls
+407: (  1) - Iii - Fuzz
+408: (  1) - Initial Success - B.A. Robertson
+409: (  1) - It Is What It Is - Thundercat
+410: (  1) - It'll All Be Over - Supreme Jubilees
+411: (  1) - Les Nouvelles Musiques De Chambre, Vol. 2 - Gigi Masin
+412: (  1) - Let It All In - Arbouretum
+413: (  1) - Lindé - Afel Bocoum
+414: (  1) * Little Creatures - Talking Heads
+415: (  1) - Love Comes In Waves - Loma
+416: (  1) - Lp5 - John Moreland
+417: (  1) * Meanwhile, As Night Falls... - Angie Palmer
+418: (  1) - Misfit's Jubilee - Jim White
+419: (  1) - Misfit's Jubilee - Loma
+420: (  1) - Murder Ballads (2011 Remastered Version) - Nick Cave & the Bad Seeds
+421: (  1) - Music For Sixties - Manfred Mann
+422: (  1) - Never Mind The Bollocks, Here’S The Sex Pistols - Sex Pistols
+423: (  1) - Nightcap At Wits' End - Garcia Peoples
+424: (  1) - Nightcap At Wits' End - Loma
+425: (  1) - Old Flowers - Courtney Marie Andrews
+426: (  1) - On The Level - Status Quo
+427: (  1) - Our Feeling Of Natural High - L.A. Takedown
+428: (  1) - Out Of My Province - Nadia Reid
+429: (  1) - Out Of The Blue - Electric Light Orchestra
+430: (  1) - Pacific Street - The Pale Fountains
+431: (  1) - Pine Trees - Loma
+432: (  1) - Punisher - Phoebe Bridgers
+433: (  1) * Rattlesnakes - Lloyd Cole and the Commotions
+434: (  1) - Reunions - Jason Isbell and the 400 Unit
+435: (  1) - Running On Empty / Nothing But Time (Digital 45) - Jackson Browne
+436: (  1) - Saint Cloud - Waxahatchee
+437: (  1) - Scott 3 - Scott Walker
+438: (  1) - Scott 4 - Scott Walker
+439: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+440: (  1) - Silver Ladders - Loma
+441: (  1) - Silver Ladders - Mary Lattimore
+442: (  1) - Snap, Crackle & Bop - John Cooper Clarke
+443: (  1) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
+444: (  1) - Song To A Refugee - Diana Jones
+445: (  1) - Song To A Refugee - Loma
+446: (  1) - Songs - Adrianne Lenker
+447: (  1) - Sorry You Couldn't Make It - Swamp Dogg
+448: (  1) - Soul Dance! - Loma
+449: (  1) - Starmaker - Honey Harper
+450: (  1) - Stealers Wheel - Stealers Wheel
+451: (  1) - Stone Crush: Memphis Modern Soul 1977-1987 - Greg Mason
+452: (  1) - Stranger In The Alp - Phoebe Bridgers
+453: (  1) - Summerlong - Rose City Band
+454: (  1) - Sundowner - Kevin Morby
+455: (  1) - TamotaïT - Tamikrest
+456: (  1) - The Ascension - Loma
+457: (  1) - The Ascension - Sufjan Stevens
+458: (  1) * The Collection - Altered Images
+459: (  1) - The Main Thing - Real Estate
+460: (  1) - The Night Chancers - Baxter Dury
+461: (  1) - The View From Halfway Down - Andy Bell
+462: (  1) - The View From Halfway Down - Loma
+463: (  1) - They Say I'm Different - Betty Davis
+464: (  1) - Time Out Of Mind - Bob Dylan
+465: (  1) - Traditional Techniques - Stephen Malkmus
+466: (  1) - Transitions 1: Spaceship Bop (1955-57) - Loma
+467: (  1) - Travelogue - The Men
+468: (  1) - Trouble - Loma
+469: (  1) - True Meanings - Paul Weller
+470: (  1) - U.F.O. - Jim Sullivan
+471: (  1) - Un, Deux, Trois - Juniore
+472: (  1) - Unknown Pleasures (2019 Digital Master) - Joy Division
+473: (  1) - Walking On A String - Loma
+474: (  1) - Wanderer - Cara Dillon
+475: (  1) - We've Only Just Begun - Bat for Lashes
+476: (  1) - Whatever It Is - Hello Forever
+477: (  1) - Whatever It Is - Loma
+478: (  1) - Who Do We Think We Are (Remastered) - Deep Purple

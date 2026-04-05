@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    6331           263           400          2870
+    6331           262           399          2870
   1: (289) - David Bowie
 
 
@@ -277,12 +277,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  61: ( 28) - Electric Light Orchestra
  62: ( 28) - Joy Division
- 63: ( 28) - The Clash
- 64: ( 27) - The Corrs
+ 63: ( 28) - T. Rex
+ 64: ( 28) - The Clash
+ 65: ( 27) - The Corrs
 
- 65: ( 25) - Christine and the Queens
- 66: ( 25) - St. Vincent
- 67: ( 25) - T. Rex
+ 66: ( 25) - Christine and the Queens
+ 67: ( 25) - St. Vincent
  68: ( 24) - Yazoo
  69: ( 23) - The Proclaimers
  70: ( 22) - Fleetwood Mac
@@ -380,102 +380,101 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 162: (  3) - Kaia Kater
 163: (  3) - Lorelle Meets the Obsolete
 164: (  3) - Loudon Wainwright III
-165: (  3) - Marc Bolan
-166: (  3) - Marissa Nadler
-167: (  3) - Mark Knopfler
-168: (  3) - Mudhoney
-169: (  3) - Oliver Coates
-170: (  3) - Ry Cooder
-171: (  3) - Sharon Van Etten
-172: (  3) - Spiritualized
-173: (  3) - Steve Gunn
-174: (  3) - Swamp Dogg
-175: (  3) - The B-52's
-176: (  3) - The Dream Syndicate
-177: (  3) - The Goon Sax
-178: (  3) - Ty Segall
-179: (  3) - William Tyler
-180: (  3) - Young Fathers
-181: (  2) - Alejandro Escovedo
-182: (  2) - Bbc Radio 3
-183: (  2) - China Crisis
-184: (  2) - Chip Taylor & Carrie Rodriguez
-185: (  2) - Dawn Landes
-186: (  2) - Eric Bachmann
-187: (  2) - Frankie Cosmos
-188: (  2) - Ian Dury
-189: (  2) - Iron & Wine
-190: (  2) - J Mascis
-191: (  2) - Jo Passed
-192: (  2) - Jonathan Richman and the Modern Lovers
-193: (  2) - Julia Kent
-194: (  2) - Julian Lynch
-195: (  2) - King Tuff
-196: (  2) - Knife Knights
-197: (  2) - Loma
-198: (  2) - Luluc
-199: (  2) - Madness
-200: (  2) - Mass Gothic
-201: (  2) - Murrough Mcbride
-202: (  2) - Sarah Louise
-203: (  2) - Sleater-Kinney
-204: (  2) - Steve Winwood
-205: (  2) - The Afghan Whigs
-206: (  2) - The Delines
-207: (  2) - The Kinks
-208: (  2) - The Police
-209: (  2) - The Smiths
-210: (  2) - White Fence
-211: (  2) - You Tell Me
-212: (  2) - Yuno
-213: (  1) - Aaron Weinstein
-214: (  1) - Billy Ocean
-215: (  1) - Books and Authors
-216: (  1) - Christian D. Berg
-217: (  1) - Christie
-218: (  1) - Cliff Richard
-219: (  1) - Dana
-220: (  1) - Dave Brubeck
-221: (  1) - Delacey
-222: (  1) - Derek and the Dominos
-223: (  1) - Dollybono
-224: (  1) - Eddie & the Hot Rods
-225: (  1) - Free
-226: (  1) - Harry Allen
-227: (  1) - Hazel O'connor
-228: (  1) - Ian Shaw
-229: (  1) - Imagination
-230: (  1) - Inshreds66
-231: (  1) - Jcpenney
-232: (  1) - Lee Marvin
-233: (  1) - Lisa Stansfield
-234: (  1) - Martha and the Muffins
-235: (  1) - Mary Lee's Corvette
-236: (  1) - Moaning
-237: (  1) - Mungo Jerry
-238: (  1) - Nancy Wilson
-239: (  1) - Nick Lowe
-240: (  1) - Norman Greenbaum
-241: (  1) - Oh Sees
-242: (  1) - Peter, Paul & Mary
-243: (  1) - Rhcptv1
-244: (  1) - Rhino
-245: (  1) - Rosalyn
-246: (  1) - Scritti Politti
-247: (  1) - Sky News
-248: (  1) - Softladification
-249: (  1) - Sotonpressarchive
-250: (  1) - Spandau Ballet
-251: (  1) - Squeeze
-252: (  1) - Tamara Todevska
-253: (  1) - The Archies
-254: (  1) - The Jackson 5
-255: (  1) - The Jam
-256: (  1) - The Scaffold
-257: (  1) - The Specials
-258: (  1) - The Stranglers
-259: (  1) - Toni Basil
-260: (  1) - Tubeway Army
-261: (  1) - Vibracobra23 Dulosis
-262: (  1) - Visage
-263: (  1) - Visagevevo
+165: (  3) - Marissa Nadler
+166: (  3) - Mark Knopfler
+167: (  3) - Mudhoney
+168: (  3) - Oliver Coates
+169: (  3) - Ry Cooder
+170: (  3) - Sharon Van Etten
+171: (  3) - Spiritualized
+172: (  3) - Steve Gunn
+173: (  3) - Swamp Dogg
+174: (  3) - The B-52's
+175: (  3) - The Dream Syndicate
+176: (  3) - The Goon Sax
+177: (  3) - Ty Segall
+178: (  3) - William Tyler
+179: (  3) - Young Fathers
+180: (  2) - Alejandro Escovedo
+181: (  2) - Bbc Radio 3
+182: (  2) - China Crisis
+183: (  2) - Chip Taylor & Carrie Rodriguez
+184: (  2) - Dawn Landes
+185: (  2) - Eric Bachmann
+186: (  2) - Frankie Cosmos
+187: (  2) - Ian Dury
+188: (  2) - Iron & Wine
+189: (  2) - J Mascis
+190: (  2) - Jo Passed
+191: (  2) - Jonathan Richman and the Modern Lovers
+192: (  2) - Julia Kent
+193: (  2) - Julian Lynch
+194: (  2) - King Tuff
+195: (  2) - Knife Knights
+196: (  2) - Loma
+197: (  2) - Luluc
+198: (  2) - Madness
+199: (  2) - Mass Gothic
+200: (  2) - Murrough Mcbride
+201: (  2) - Sarah Louise
+202: (  2) - Sleater-Kinney
+203: (  2) - Steve Winwood
+204: (  2) - The Afghan Whigs
+205: (  2) - The Delines
+206: (  2) - The Kinks
+207: (  2) - The Police
+208: (  2) - The Smiths
+209: (  2) - White Fence
+210: (  2) - You Tell Me
+211: (  2) - Yuno
+212: (  1) - Aaron Weinstein
+213: (  1) - Billy Ocean
+214: (  1) - Books and Authors
+215: (  1) - Christian D. Berg
+216: (  1) - Christie
+217: (  1) - Cliff Richard
+218: (  1) - Dana
+219: (  1) - Dave Brubeck
+220: (  1) - Delacey
+221: (  1) - Derek and the Dominos
+222: (  1) - Dollybono
+223: (  1) - Eddie & the Hot Rods
+224: (  1) - Free
+225: (  1) - Harry Allen
+226: (  1) - Hazel O'connor
+227: (  1) - Ian Shaw
+228: (  1) - Imagination
+229: (  1) - Inshreds66
+230: (  1) - Jcpenney
+231: (  1) - Lee Marvin
+232: (  1) - Lisa Stansfield
+233: (  1) - Martha and the Muffins
+234: (  1) - Mary Lee's Corvette
+235: (  1) - Moaning
+236: (  1) - Mungo Jerry
+237: (  1) - Nancy Wilson
+238: (  1) - Nick Lowe
+239: (  1) - Norman Greenbaum
+240: (  1) - Oh Sees
+241: (  1) - Peter, Paul & Mary
+242: (  1) - Rhcptv1
+243: (  1) - Rhino
+244: (  1) - Rosalyn
+245: (  1) - Scritti Politti
+246: (  1) - Sky News
+247: (  1) - Softladification
+248: (  1) - Sotonpressarchive
+249: (  1) - Spandau Ballet
+250: (  1) - Squeeze
+251: (  1) - Tamara Todevska
+252: (  1) - The Archies
+253: (  1) - The Jackson 5
+254: (  1) - The Jam
+255: (  1) - The Scaffold
+256: (  1) - The Specials
+257: (  1) - The Stranglers
+258: (  1) - Toni Basil
+259: (  1) - Tubeway Army
+260: (  1) - Vibracobra23 Dulosis
+261: (  1) - Visage
+262: (  1) - Visagevevo

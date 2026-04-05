@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3350           178           235          1557
+    3350           177           235          1557
   1: (272) - Lloyd Cole
 
 
@@ -224,10 +224,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  19: ( 53) - Simple Minds
 
+ 20: ( 51) - T. Rex
 
 
 
- 20: ( 48) - T. Rex
 
 
 
@@ -313,87 +313,86 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  92: (  4) - Mike Oldfield
  93: (  4) - Tift Merritt
  94: (  3) - Carrie Underwood
- 95: (  3) - Marc Bolan
- 96: (  2) - Ariana Grande
- 97: (  2) - Band Aid
- 98: (  2) - Blue Orchids
- 99: (  2) - Buzzcocks
-100: (  2) - Cabaret Voltaire
-101: (  2) - Caroline Rose
-102: (  2) - Cass McCombs
-103: (  2) - Chris De Burgh
-104: (  2) - Deutsch Amerikanische Freundschaft
-105: (  2) - Eartha Kitt
-106: (  2) - Elton John
-107: (  2) - Essential Logic
-108: (  2) - Furious Pig
-109: (  2) - Goat Girl
-110: (  2) - Ian Dury
-111: (  2) - James Blood Ulmer
-112: (  2) - Jilted John
-113: (  2) - John Lennon
-114: (  2) - John Williams
-115: (  2) - José Feliciano
-116: (  2) - Loudon Wainwright III
-117: (  2) - Mud
-118: (  2) - Mykola Dmytrovych Leontovych
-119: (  2) - Nat King Cole
-120: (  2) - Panther Burns
-121: (  2) - Pere Ubu
-122: (  2) - Plastic Bertrand
-123: (  2) - R.E.M.
-124: (  2) - Red Crayola
-125: (  2) - Robert Wyatt
-126: (  2) - Sam Smith
-127: (  2) - Scritti Politti
-128: (  2) - Sia
-129: (  2) - Slade
-130: (  2) - Subway Sect
-131: (  2) - Taylor Swift
-132: (  2) - Television Personalities
-133: (  2) - The Beat
-134: (  2) - The Gist
-135: (  2) - The Masses Carnaby St. John Co
-136: (  2) - The Pogues
-137: (  2) - The Raincoats
-138: (  2) - Virgin Prunes
-139: (  2) - Wah! Heat
-140: (  2) - Waylon Jennings
-141: (  2) - Yonder Mountain String Band
-142: (  1) - Andrew Bird, Lucius
-143: (  1) - Angel Olsen
-144: (  1) - Bastille
-145: (  1) - Big Thief
-146: (  1) - Blooms & Barnacles
-147: (  1) - Booker T. & the Mg's
-148: (  1) - Brenda Lee
-149: (  1) - Clan of Xymox
-150: (  1) - Deerhunter
-151: (  1) - East 17
-152: (  1) - Feist
-153: (  1) - Howard Jones
-154: (  1) - Human League
-155: (  1) - Japan
-156: (  1) - Jazzateers
-157: (  1) - Joan Shelley
-158: (  1) - Johnny Marks
-159: (  1) - Lucy Dacus
-160: (  1) - Nancy Sinatra, Lee Hazlewood
-161: (  1) - Nick Cave
-162: (  1) - Placebo
-163: (  1) - Porridge Radio
-164: (  1) - Pretenders
-165: (  1) - Queen
-166: (  1) - Revelators Sound System
-167: (  1) - Robert Palmer
-168: (  1) - Rod Stewart
-169: (  1) - Sparks
-170: (  1) - The Beatles
-171: (  1) - The Black Keys
-172: (  1) - The Cult
-173: (  1) - The Mission
-174: (  1) - The War on Drugs
-175: (  1) - This Mortal Coil
-176: (  1) - Tom Robinson
-177: (  1) - Tones on Tail
-178: (  1) - Travis
+ 95: (  2) - Ariana Grande
+ 96: (  2) - Band Aid
+ 97: (  2) - Blue Orchids
+ 98: (  2) - Buzzcocks
+ 99: (  2) - Cabaret Voltaire
+100: (  2) - Caroline Rose
+101: (  2) - Cass McCombs
+102: (  2) - Chris De Burgh
+103: (  2) - Deutsch Amerikanische Freundschaft
+104: (  2) - Eartha Kitt
+105: (  2) - Elton John
+106: (  2) - Essential Logic
+107: (  2) - Furious Pig
+108: (  2) - Goat Girl
+109: (  2) - Ian Dury
+110: (  2) - James Blood Ulmer
+111: (  2) - Jilted John
+112: (  2) - John Lennon
+113: (  2) - John Williams
+114: (  2) - José Feliciano
+115: (  2) - Loudon Wainwright III
+116: (  2) - Mud
+117: (  2) - Mykola Dmytrovych Leontovych
+118: (  2) - Nat King Cole
+119: (  2) - Panther Burns
+120: (  2) - Pere Ubu
+121: (  2) - Plastic Bertrand
+122: (  2) - R.E.M.
+123: (  2) - Red Crayola
+124: (  2) - Robert Wyatt
+125: (  2) - Sam Smith
+126: (  2) - Scritti Politti
+127: (  2) - Sia
+128: (  2) - Slade
+129: (  2) - Subway Sect
+130: (  2) - Taylor Swift
+131: (  2) - Television Personalities
+132: (  2) - The Beat
+133: (  2) - The Gist
+134: (  2) - The Masses Carnaby St. John Co
+135: (  2) - The Pogues
+136: (  2) - The Raincoats
+137: (  2) - Virgin Prunes
+138: (  2) - Wah! Heat
+139: (  2) - Waylon Jennings
+140: (  2) - Yonder Mountain String Band
+141: (  1) - Andrew Bird, Lucius
+142: (  1) - Angel Olsen
+143: (  1) - Bastille
+144: (  1) - Big Thief
+145: (  1) - Blooms & Barnacles
+146: (  1) - Booker T. & the Mg's
+147: (  1) - Brenda Lee
+148: (  1) - Clan of Xymox
+149: (  1) - Deerhunter
+150: (  1) - East 17
+151: (  1) - Feist
+152: (  1) - Howard Jones
+153: (  1) - Human League
+154: (  1) - Japan
+155: (  1) - Jazzateers
+156: (  1) - Joan Shelley
+157: (  1) - Johnny Marks
+158: (  1) - Lucy Dacus
+159: (  1) - Nancy Sinatra, Lee Hazlewood
+160: (  1) - Nick Cave
+161: (  1) - Placebo
+162: (  1) - Porridge Radio
+163: (  1) - Pretenders
+164: (  1) - Queen
+165: (  1) - Revelators Sound System
+166: (  1) - Robert Palmer
+167: (  1) - Rod Stewart
+168: (  1) - Sparks
+169: (  1) - The Beatles
+170: (  1) - The Black Keys
+171: (  1) - The Cult
+172: (  1) - The Mission
+173: (  1) - The War on Drugs
+174: (  1) - This Mortal Coil
+175: (  1) - Tom Robinson
+176: (  1) - Tones on Tail
+177: (  1) - Travis

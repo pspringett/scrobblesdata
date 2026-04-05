@@ -1,9 +1,9 @@
 Specified year (2020), specified month (3)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     559            44            54           465
+     559            43            54           465
  1: (41) - Rod Stewart
- 2: (38) - Nick Heyward
- 3: (38) - T. Rex
+ 2: (39) - T. Rex
+ 3: (38) - Nick Heyward
  4: (33) - Lloyd Cole
  5: (29) - Prefab Sprout
  6: (28) - Bob Dylan
@@ -40,8 +40,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 37: ( 1) - Eddie Vedder
 38: ( 1) - John Doe
 39: ( 1) - Joy Division
-40: ( 1) - Marc Bolan
-41: ( 1) - Richie Havens
-42: ( 1) - Sonic Youth
-43: ( 1) - Stephen Malkmus
-44: ( 1) - Yo La Tengo
+40: ( 1) - Richie Havens
+41: ( 1) - Sonic Youth
+42: ( 1) - Stephen Malkmus
+43: ( 1) - Yo La Tengo
