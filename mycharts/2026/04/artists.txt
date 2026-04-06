@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     111            15            19            96
+     118            15            19           102
  1: (19) - Emma Swift
 
 
@@ -11,15 +11,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  4: (12) - Elvis Costello & the Attractions
 
 
- 5: ( 9) - Simple Minds
- 6: ( 8) - Katherine Priddy
+ 5: ( 9) - Brigitte Calls Me Baby
+ 6: ( 9) - Simple Minds
+ 7: ( 8) - Katherine Priddy
+ 8: ( 8) - Whitelands
 
- 7: ( 6) - Brigitte Calls Me Baby
- 8: ( 6) - U2
- 9: ( 5) - Martin Stephenson
-10: ( 5) - Whitelands
-11: ( 4) - Edwyn Collins
-12: ( 3) - David Bowie
+ 9: ( 6) - U2
+10: ( 5) - Martin Stephenson
+11: ( 4) - David Bowie
+12: ( 4) - Edwyn Collins
 13: ( 3) - Searows
 14: ( 2) - The Carpenters
 15: ( 1) - Dr Feelgood

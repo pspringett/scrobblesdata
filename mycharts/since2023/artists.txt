@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11540           282           473          3513
+   11547           282           473          3517
   1: (357) - Edwyn Collins
 
 
@@ -222,8 +222,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  24: (141) - Wolf Alice
 
  25: (139) - Chaparelle
- 26: (139) - St. Vincent
- 27: (138) - David Bowie
+ 26: (139) - David Bowie
+ 27: (139) - St. Vincent
+
 
 
 
@@ -277,12 +278,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  39: ( 89) - Jessica Pratt
  40: ( 89) - Josef K
  41: ( 88) - The Sundays
+ 42: ( 87) - Whitelands
 
-
- 42: ( 85) - Wet Leg
- 43: ( 84) - Rod Stewart
- 44: ( 84) - The Go-Betweens
- 45: ( 84) - Whitelands
+ 43: ( 85) - Wet Leg
+ 44: ( 84) - Rod Stewart
+ 45: ( 84) - The Go-Betweens
  46: ( 83) - Gardens
  47: ( 83) - Mercury Rev
 
@@ -417,21 +417,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 155: ( 11) - Sly & the Family Stone
 156: ( 11) - Television
 157: ( 10) - Brian Eno & David Byrne
-158: ( 10) - Heaven 17
-159: ( 10) - John Cooper Clarke
-160: ( 10) - K.D. Lang
-161: ( 10) - Kate Bush
-162: ( 10) - Mercy Girl
-163: ( 10) - The Jam
-164: ( 10) - Tom Tom Club
-165: ( 10) - Wednesday
-166: ( 10) - Yonder Mountain String Band
-167: (  9) - Eliza Gilkyson
-168: (  8) - Aurora
-169: (  8) - The Band
-170: (  8) - The Feelies
-171: (  8) - Tom Robinson
-172: (  7) - Brigitte Calls Me Baby
+158: ( 10) - Brigitte Calls Me Baby
+159: ( 10) - Heaven 17
+160: ( 10) - John Cooper Clarke
+161: ( 10) - K.D. Lang
+162: ( 10) - Kate Bush
+163: ( 10) - Mercy Girl
+164: ( 10) - The Jam
+165: ( 10) - Tom Tom Club
+166: ( 10) - Wednesday
+167: ( 10) - Yonder Mountain String Band
+168: (  9) - Eliza Gilkyson
+169: (  8) - Aurora
+170: (  8) - The Band
+171: (  8) - The Feelies
+172: (  8) - Tom Robinson
 173: (  7) - JT Nero
 174: (  7) - Joan Osborne
 175: (  7) - Mandrake Handshake

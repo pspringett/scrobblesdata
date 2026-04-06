@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1104            54            67           467
+    1111            54            67           471
  1: (104) - Creedence Clearwater Revival
 
 
@@ -49,9 +49,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  6: ( 59) - Emma Swift
 
  7: ( 57) - Katherine Priddy
+ 8: ( 57) - Whitelands
 
- 8: ( 55) - The Belair Lip Bombs
- 9: ( 54) - Whitelands
+ 9: ( 55) - The Belair Lip Bombs
+
 
 
 
@@ -103,21 +104,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 26: ( 11) - Echo & the Bunnymen
 27: ( 11) - Lloyd Cole
 28: ( 11) - The Burning Hell
-29: ( 10) - It'S Immaterial
-30: ( 10) - John Cooper Clarke
-31: ( 10) - Mercy Girl
-32: ( 10) - Suzanne Vega
-33: (  9) - Paul Weller
-34: (  9) - The Rolling Stones
+29: ( 10) - Brigitte Calls Me Baby
+30: ( 10) - It'S Immaterial
+31: ( 10) - John Cooper Clarke
+32: ( 10) - Mercy Girl
+33: ( 10) - Suzanne Vega
+34: (  9) - Paul Weller
+35: (  9) - The Rolling Stones
 
-35: (  7) - Brigitte Calls Me Baby
+
 36: (  6) - Cowboy Junkies
 37: (  5) - Martin Stephenson
 38: (  5) - The Zombies
 39: (  4) - Altered Images
-40: (  4) - Edwyn Collins
-41: (  4) - The Cure
-42: (  3) - David Bowie
+40: (  4) - David Bowie
+41: (  4) - Edwyn Collins
+42: (  4) - The Cure
 43: (  3) - Patti Smith
 44: (  3) - Roxy Music
 45: (  3) - Searows
