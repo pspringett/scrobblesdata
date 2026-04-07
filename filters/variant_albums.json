@@ -16,9 +16,11 @@
     "blonde on the tracks (deluxe edition)": "Blonde On The Tracks",
     "bolan's zip gun (deluxe edition)": "Bolan's Zip Gun",
     "Boy (Remastered)" : "Boy",
+    "burnin' (deluxe edition)": "Burnin'",
     "cabin fever (disc 1 - fever)": "Cabin Fever (Fever Side)",
     "cabin fever (disk 2 - cabin)": "Cabin Fever (Cabin Side)",
     "cahoots (deluxe edition / 2021 remix)" : "Cahoots",
+    "ctch a fire (deluxe edition)": "Catch a Fire",
     "closer (40th anniversary) [2020 digital master]": "Closer",
     "colvin & earle (deluxe edition)": "Colvin & Earle",
     "cracked actor (live) [los angeles '74]": "Cracked Actor - Live Los Angeles '74",
@@ -93,6 +95,7 @@
     "movement [collector's edition]": "Movement",
     "music from big pink (deluxe edition/remixed 2018)" : "Music From Big Pink",
     "my aim is true (deluxe edition)": "My Aim Is True",
+    "natty dread (remastered)": "Natty Dread",
     "new gold dream (81/82/83/84)": "New Gold Dream",
     "new gold dream (81/82/83/84) (Deluxe)": "New Gold Dream",
     "no word from tom (bonus track version)": "No Word From Tom",
@@ -199,4 +202,6 @@
     "young americans (2016 remastered version)": "Young Americans",
     "zinc alloy & the hidden riders of tomorrow (the visconti master)": "Zinc alloy and the Hidden Riders of Tomorrow",
     "the velvet underground & nico 45th Anniversary": "The Velvet Underground & Nico"
+
+        "Burnin' (Deluxe Edition)": -1,
 }
