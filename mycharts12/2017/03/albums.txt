@@ -137,21 +137,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  69: ( 68) * Various Positions - Leonard Cohen
  70: ( 67) - Head Over Heels - Cocteau Twins
  71: ( 66) - Love - Aztec Camera
- 72: ( 65) - Natty Dread (Remastered) - Bob Marley & the Wailers
- 73: ( 65) * October - U2
- 74: ( 65) - Pale Sun Crescent Moon - Cowboy Junkies
- 75: ( 65) - The Outsider - Rodney Crowell
- 76: ( 64) - Sons And Fascination/Sister Feelings Call - Simple Minds
- 77: ( 63) - Saturns Pattern - Paul Weller
- 78: ( 63) - Stranded - Roxy Music
+ 72: ( 65) * October - U2
+ 73: ( 65) - Pale Sun Crescent Moon - Cowboy Junkies
+ 74: ( 65) - The Outsider - Rodney Crowell
+ 75: ( 64) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 76: ( 63) - Saturns Pattern - Paul Weller
+ 77: ( 63) - Stranded - Roxy Music
 
- 79: ( 61) * Gorgeous George - Edwyn Collins
- 80: ( 60) - Colvin & Earle - Colvin & Earle
- 81: ( 60) - For Your Pleasure - Roxy Music
- 82: ( 60) - Revival - Gillian Welch
- 83: ( 60) - Song - It'S Immaterial
- 84: ( 59) * Seven Dials - Roddy Frame
- 85: ( 58) * Signing Off - UB40
+ 78: ( 61) * Gorgeous George - Edwyn Collins
+ 79: ( 60) - Colvin & Earle - Colvin & Earle
+ 80: ( 60) - For Your Pleasure - Roxy Music
+ 81: ( 60) - Revival - Gillian Welch
+ 82: ( 60) - Song - It'S Immaterial
+ 83: ( 59) * Seven Dials - Roddy Frame
+ 84: ( 58) * Signing Off - UB40
+ 85: ( 57) - Natty Dread - Bob Marley & the Wailers
  86: ( 57) - Take Me Home - The Redlands Palomino Company
  87: ( 56) * Bite - Altered Images
  88: ( 56) - Let's Dance - David Bowie
@@ -359,96 +359,97 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 285: (  8) - Bolan's Zip Gun - T. Rex
 286: (  8) - Burnin' - Bob Marley
 287: (  8) - Futuristic Dragon - T. Rex
-288: (  8) - Roll - Anne Mccue
-289: (  8) - Sing In My Meadow: The Nomad Series, Vol. 3 - Cowboy Junkies
-290: (  8) - The Slider - T. Rex
-291: (  7) - It's Immaterial - Black Marble
-292: (  7) * Organisation - Orchestral Manoeuvres in the Dark
-293: (  6) - Ha! Ha! Ha! - Ultravox
-294: (  6) * Happy Birthday - Altered Images
-295: (  6) - London Southern - Jim Lauderdale
-296: (  6) * Texas Fever - Orange Juice
-297: (  6) - Things That Can't Be Undone - Corb Lund
-298: (  5) - The Complete Matrix Tapes #1 - The Velvet Underground
-299: (  4) - Get It On: The Collection - T. Rex
-300: (  4) - Resonator - Kathryn Williams, Anthony Kerr
-301: (  4) - The Complete Matrix Tapes #2 - The Velvet Underground
-302: (  4) - The Complete Peel Sessions 1978-2004 - The Fall
-303: (  3) - 16 Lovers Lane - The Go-Betweens
-304: (  3) * Live at Brooklyn Bowl 2016 - Lloyd Cole
-305: (  3) - Singles - New Order
-306: (  3) - The '81 Demos - Weekend
-307: (  3) - The Water Garden - Alex De Grassi
-308: (  3) - You Want It Darker - Leonard Cohen
-309: (  2) - 1978-1988 A Decade Of Spizz History - Spizz Energi
-310: (  2) - All Summer Long (2001 - Remaster) - The Beach Boys
-311: (  2) * From Langley Park To Memphis - Prefab Sprout
-312: (  2) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
-313: (  2) - Greatest Hits - Slade
-314: (  2) * Hair In My Eyes Like A Highland Steer - Corb Lund
-315: (  2) * Highway 61 Revisited - Bob Dylan
-316: (  2) - Last Christmas - Wham!
-317: (  2) - Melophobia - Cage the Elephant
-318: (  2) - Redshift - Rhyton
-319: (  2) - Smile (Expanded Edition) - The Jayhawks
-320: (  2) * Steve McQueen - Prefab Sprout
-321: (  2) - The Complete Matrix Tapes #3 - The Velvet Underground
-322: (  2) - The Wrong People - Furniture
-323: (  2) - Top 100 80S - New Order
-324: (  1) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
-325: (  1) - A's, B's And Rarities - Suzi Quatro
-326: (  1) - And The War Came - Shakey Graves
-327: (  1) - Back Home Again - John Denver
-328: (  1) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
-329: (  1) * Car Wheels On A Gravel Road - Lucinda Williams
-330: (  1) - Carrie & Lowell - Sufjan Stevens
-331: (  1) - Celebration - Simple Minds
-332: (  1) - Changesonebowie - David Bowie
-333: (  1) - Christie - Christie
-334: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Mud
-335: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
-336: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
-337: (  1) - Essential Music Hits Vol 2 - Mike Oldfield
-338: (  1) - Far Away In Time - Martha and the Muffins
-339: (  1) - Fossils - Aoife O'Donovan
-340: (  1) - Greatest Hits (International Version) - Shania Twain
-341: (  1) - Greatest Hits: Brotherhood Of Man - Brotherhood of Man
-342: (  1) - I Heard It Through The Grapevine / In The Groove (Stereo) - Marvin Gaye
-343: (  1) - I'm In Love With A German Film Star - The Passions
-344: (  1) * Jordan: The Comeback - Prefab Sprout
-345: (  1) - Little Neon Limelight - Houndmouth
-346: (  1) - Lost On The River (Deluxe Edition) - The New Basement Tapes
-347: (  1) - Manifesto - Roxy Music
-348: (  1) * Mccartney II (Special Edition) - Paul McCartney
-349: (  1) - Merry Christmas Wherever You Are - George Strait
-350: (  1) - More Than Somewhat: The Very Best Of - Steve Harley & Cockney Rebel
-351: (  1) - More Than This: The Best Of Bryan Ferry + Roxy Music - Roxy Music
-352: (  1) - NoëL Inoubliable - Frank Sinatra
-353: (  1) - Once Upon A Christmas - Dolly Parton
-354: (  1) - One Soul Now - Cowboy Junkies
-355: (  1) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-356: (  1) - Peace At Last - EP - Hem
-357: (  1) - Power To The People: The Hits - John Lennon
-358: (  1) - Quite A Feelin' - Barna Howard
-359: (  1) - Rock Your Baby: The Best Of George Mccrae - George McCrae
-360: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-361: (  1) - Second Flight - Pilot
-362: (  1) - Slow Gum - Fraser A. Gorman
-363: (  1) - Songs - John Fullbright
-364: (  1) - Springtime - Freakwater
-365: (  1) - Stop The Cavalry - Jona Lewie
-366: (  1) - Suzanne Vega - Suzanne Vega
-367: (  1) - The Best Of - Joy Division
-368: (  1) - The Best Of David Bowie, '69-'74 - David Bowie
-369: (  1) * The Collection - Altered Images
-370: (  1) - The Complete Matrix Tapes #4 - The Velvet Underground
-371: (  1) - The Magic 0F Christmas - Nat King Cole
-372: (  1) - The New Bye & Bye - Chip & Carrie
-373: (  1) - The Singles - Soft Cell
-374: (  1) - Tin Drum - Japan
-375: (  1) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
-376: (  1) - UNCUT 2017-11 Stereotypes - Various
-377: (  1) - Utah - Jamestown Revival
-378: (  1) - Vh1 Storytellers - David Bowie
-379: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
-380: (  1) - Wouldn't You Like It - Bay City Rollers
+288: (  8) - Natty Dread - Bob Marley
+289: (  8) - Roll - Anne Mccue
+290: (  8) - Sing In My Meadow: The Nomad Series, Vol. 3 - Cowboy Junkies
+291: (  8) - The Slider - T. Rex
+292: (  7) - It's Immaterial - Black Marble
+293: (  7) * Organisation - Orchestral Manoeuvres in the Dark
+294: (  6) - Ha! Ha! Ha! - Ultravox
+295: (  6) * Happy Birthday - Altered Images
+296: (  6) - London Southern - Jim Lauderdale
+297: (  6) * Texas Fever - Orange Juice
+298: (  6) - Things That Can't Be Undone - Corb Lund
+299: (  5) - The Complete Matrix Tapes #1 - The Velvet Underground
+300: (  4) - Get It On: The Collection - T. Rex
+301: (  4) - Resonator - Kathryn Williams, Anthony Kerr
+302: (  4) - The Complete Matrix Tapes #2 - The Velvet Underground
+303: (  4) - The Complete Peel Sessions 1978-2004 - The Fall
+304: (  3) - 16 Lovers Lane - The Go-Betweens
+305: (  3) * Live at Brooklyn Bowl 2016 - Lloyd Cole
+306: (  3) - Singles - New Order
+307: (  3) - The '81 Demos - Weekend
+308: (  3) - The Water Garden - Alex De Grassi
+309: (  3) - You Want It Darker - Leonard Cohen
+310: (  2) - 1978-1988 A Decade Of Spizz History - Spizz Energi
+311: (  2) - All Summer Long (2001 - Remaster) - The Beach Boys
+312: (  2) * From Langley Park To Memphis - Prefab Sprout
+313: (  2) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+314: (  2) - Greatest Hits - Slade
+315: (  2) * Hair In My Eyes Like A Highland Steer - Corb Lund
+316: (  2) * Highway 61 Revisited - Bob Dylan
+317: (  2) - Last Christmas - Wham!
+318: (  2) - Melophobia - Cage the Elephant
+319: (  2) - Redshift - Rhyton
+320: (  2) - Smile (Expanded Edition) - The Jayhawks
+321: (  2) * Steve McQueen - Prefab Sprout
+322: (  2) - The Complete Matrix Tapes #3 - The Velvet Underground
+323: (  2) - The Wrong People - Furniture
+324: (  2) - Top 100 80S - New Order
+325: (  1) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
+326: (  1) - A's, B's And Rarities - Suzi Quatro
+327: (  1) - And The War Came - Shakey Graves
+328: (  1) - Back Home Again - John Denver
+329: (  1) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
+330: (  1) * Car Wheels On A Gravel Road - Lucinda Williams
+331: (  1) - Carrie & Lowell - Sufjan Stevens
+332: (  1) - Celebration - Simple Minds
+333: (  1) - Changesonebowie - David Bowie
+334: (  1) - Christie - Christie
+335: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Mud
+336: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
+337: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
+338: (  1) - Essential Music Hits Vol 2 - Mike Oldfield
+339: (  1) - Far Away In Time - Martha and the Muffins
+340: (  1) - Fossils - Aoife O'Donovan
+341: (  1) - Greatest Hits (International Version) - Shania Twain
+342: (  1) - Greatest Hits: Brotherhood Of Man - Brotherhood of Man
+343: (  1) - I Heard It Through The Grapevine / In The Groove (Stereo) - Marvin Gaye
+344: (  1) - I'm In Love With A German Film Star - The Passions
+345: (  1) * Jordan: The Comeback - Prefab Sprout
+346: (  1) - Little Neon Limelight - Houndmouth
+347: (  1) - Lost On The River (Deluxe Edition) - The New Basement Tapes
+348: (  1) - Manifesto - Roxy Music
+349: (  1) * Mccartney II (Special Edition) - Paul McCartney
+350: (  1) - Merry Christmas Wherever You Are - George Strait
+351: (  1) - More Than Somewhat: The Very Best Of - Steve Harley & Cockney Rebel
+352: (  1) - More Than This: The Best Of Bryan Ferry + Roxy Music - Roxy Music
+353: (  1) - NoëL Inoubliable - Frank Sinatra
+354: (  1) - Once Upon A Christmas - Dolly Parton
+355: (  1) - One Soul Now - Cowboy Junkies
+356: (  1) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+357: (  1) - Peace At Last - EP - Hem
+358: (  1) - Power To The People: The Hits - John Lennon
+359: (  1) - Quite A Feelin' - Barna Howard
+360: (  1) - Rock Your Baby: The Best Of George Mccrae - George McCrae
+361: (  1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+362: (  1) - Second Flight - Pilot
+363: (  1) - Slow Gum - Fraser A. Gorman
+364: (  1) - Songs - John Fullbright
+365: (  1) - Springtime - Freakwater
+366: (  1) - Stop The Cavalry - Jona Lewie
+367: (  1) - Suzanne Vega - Suzanne Vega
+368: (  1) - The Best Of - Joy Division
+369: (  1) - The Best Of David Bowie, '69-'74 - David Bowie
+370: (  1) * The Collection - Altered Images
+371: (  1) - The Complete Matrix Tapes #4 - The Velvet Underground
+372: (  1) - The Magic 0F Christmas - Nat King Cole
+373: (  1) - The New Bye & Bye - Chip & Carrie
+374: (  1) - The Singles - Soft Cell
+375: (  1) - Tin Drum - Japan
+376: (  1) - UNCUT 2016 - 02 - What's Going On! - The Sound Of 2016 - Various
+377: (  1) - UNCUT 2017-11 Stereotypes - Various
+378: (  1) - Utah - Jamestown Revival
+379: (  1) - Vh1 Storytellers - David Bowie
+380: (  1) - Words (Music From The Film "Tig") - Sharon Van Etten
+381: (  1) - Wouldn't You Like It - Bay City Rollers

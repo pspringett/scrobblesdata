@@ -21,13 +21,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  18: (103) - Cafe Bleu - The Style Council
  19: (101) - Paging Mr. Proust - The Jayhawks
  20: ( 97) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 21: ( 95) - Natty Dread (Remastered) - Bob Marley & the Wailers
- 22: ( 95) - Upstairs at Erics - Yazoo
- 23: ( 94) - You And Me Both - Yazoo
- 24: ( 91) - Head Over Heels - Cocteau Twins
- 25: ( 89) * Jordan: The Comeback - Prefab Sprout
- 26: ( 88) - Echo & The Bunnymen - Echo & the Bunnymen
- 27: ( 87) - Midwest Farmer's Daughter - Margo Price
+ 21: ( 95) - Upstairs at Erics - Yazoo
+ 22: ( 94) - You And Me Both - Yazoo
+ 23: ( 91) - Head Over Heels - Cocteau Twins
+ 24: ( 89) * Jordan: The Comeback - Prefab Sprout
+ 25: ( 88) - Echo & The Bunnymen - Echo & the Bunnymen
+ 26: ( 87) - Midwest Farmer's Daughter - Margo Price
+ 27: ( 87) - Natty Dread - Bob Marley & the Wailers
  28: ( 77) - New Gold Dream - Simple Minds
  29: ( 77) * Signing Off - UB40
  30: ( 77) - The lexicon of Love - ABC
@@ -269,148 +269,149 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 266: (  8) - For Your Pleasure - Roxy Music
 267: (  8) * I'm Your Man - Leonard Cohen
 268: (  8) - Magical Mystery Tour - The Beatles
-269: (  8) - Sing In My Meadow: The Nomad Series, Vol. 3 - Cowboy Junkies
-270: (  8) - Something More Than Free - Jason Isbell
-271: (  8) - Songs Of Love And Hate - Leonard Cohen
-272: (  8) * The King Is Dead - The Decemberists
-273: (  8) - The Singles - Goldfrapp
-274: (  7) * Demons/Demons - JT Nero
-275: (  7) * Hope And Despair - Edwyn Collins
-276: (  7) * Organisation - Orchestral Manoeuvres in the Dark
-277: (  6) - American Flowers - Birds of Chicago
-278: (  6) - Get It On: The Collection - T. Rex
-279: (  6) - London Southern - Jim Lauderdale
-280: (  6) - San Francisco - Scott Mckenzie
-281: (  6) - Scott 4 - Scott Walker
-282: (  6) - Something On My Mind - The Pale Fountains
-283: (  6) * Texas Fever - Orange Juice
-284: (  6) - The War Of The Worlds - Jeff Wayne
-285: (  5) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
-286: (  5) * Knife - Aztec Camera
-287: (  5) - Mainstream - Lloyd Cole and the Commotions
-288: (  5) * Scott - Scott Walker
-289: (  5) - The Complete Matrix Tapes #2 - The Velvet Underground
-290: (  5) - Total - Joy Division
-291: (  4) - Between The Buttons - The Rolling Stones
-292: (  4) - Demos 88-94 (In New York - Collected Recordings 1988-1996) - Lloyd Cole
-293: (  4) - Disraeli Gears (Remastered) - Cream
-294: (  4) - Easter Everywhere - 13Th Floor Elevators
-295: (  4) - Electric Ladyland - The Jimi Hendrix Experience
-296: (  4) - Garage Band Classics - The Chocolate Watch Band
-297: (  4) - Giant Steps - John Coltrane
-298: (  4) - Innovations In British Psychedelia - Small Faces
-299: (  4) - Mr. Fantasy - Traffic
-300: (  4) - S.F. Sorrow - The Pretty Things
-301: (  4) - Sam Hard And Heavy - Sam Samudio
-302: (  4) * She Ain't Me - Carrie Rodriguez
-303: (  4) - The Seeds - The Seeds
-304: (  4) - The Soft Machine (Remastered And Expanded) - Soft Machine
-305: (  4) - Tomorrow - Tomorrow
-306: (  4) - Treasure - Cocteau Twins
-307: (  3) - 1978-1988 A Decade Of Spizz History - Spizz Energi
-308: (  3) - 40 Greatest Hits - U Roy
-309: (  3) - A Beard Of Stars - T. Rex
-310: (  3) - A Whole New Thing - Sly & the Family Stone
-311: (  3) - All The Young Dudes - Mott the Hoople
-312: (  3) - Buffalo Springfield - Buffalo Springfield
-313: (  3) - Burnin' - Bob Marley
-314: (  3) * Cabin Fever (Fever Side) - Corb Lund
-315: (  3) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
-316: (  3) - Down By The Jetty - Dr. Feelgood
-317: (  3) - Dustbin Of Sound - The Cravats
-318: (  3) - Forever Changes - Love
-319: (  3) - Germ Free Adolescents (Deluxe Edition) - X-Ray Spex
-320: (  3) - Gorilla - The Bonzo Dog Band
-321: (  3) - Greatest Hits - Eric Burdon & the Animals
-322: (  3) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
-323: (  3) - Happy Together - Procol Harum
-324: (  3) - I Never Loved A Man The Way I Love You - Aretha Franklin
-325: (  3) - I-Feel-Like-I'm-Fixin'-To-Die - Country Joe & the Fish
-326: (  3) - It's Smoke Time - The Smoke
-327: (  3) - Kentish Longtails - The Len Price 3
-328: (  3) - Move (2007 Remaster) - The Move
-329: (  3) - My Aim Is True - Elvis Costello
-330: (  3) - New Boots And Panties! - Ian Dury
-331: (  3) - Out Of All This Blue (Deluxe) - The Waterboys
-332: (  3) - Où Est La Maison De Fromage? - John Cooper Clarke
-333: (  3) - Pet Sounds - 40Th Anniversary - The Beach Boys
-334: (  3) - Playing In The Hall - The Charlatans
-335: (  3) - Same Trailer Different Park - Kacey Musgraves
-336: (  3) - Silver Eye - Goldfrapp
-337: (  3) - Something Else By The Kinks (Bonus Track Edition) - The Kinks
-338: (  3) - Spiral Scratch - Buzzcocks
-339: (  3) - Streetcore - Joe Strummer
-340: (  3) - That's Right - The Fallen Leaves
-341: (  3) - The 5000 Spirits Or The Layers Of The Onion - The Incredible String Band
-342: (  3) - The Byrds - The Byrds
-343: (  3) - The Mamas & The Papas - The Mamas & the Papas
-344: (  3) - The Original Psychedelic Album - Keith West
-345: (  3) - The Unfinished Revolution - Christy Moore
-346: (  3) - The Water Garden - Alex De Grassi
-347: (  3) - White Light / White Heat - The Velvet Underground
-348: (  2) - Aladdin Sane - David Bowie
-349: (  2) - Bee Gees' 1St - Bee Gees
-350: (  2) - Cauldron - Fifty Foot Hose
-351: (  2) - Circu5 - Circu5
-352: (  2) - Cool As Folk - Joe Strummer And?the Mescaleros
-353: (  2) * David Bowie - David Bowie
-354: (  2) * From Langley Park To Memphis - Prefab Sprout
-355: (  2) - God Squad Saviour - Department S
-356: (  2) - Hits'n'flips - The Move
-357: (  2) - Hypnotised - The Undertones
-358: (  2) - In Case You're In Love - Sonny & Cher
-359: (  2) - In The City (Remastered Version) - The Jam
-360: (  2) - Insight Out - The Association
-361: (  2) - Mindrocker - A Us-Punk Anthology Vol. 4 (Digitally Remastered) - The Moving Sidewalks
-362: (  2) - More Hot Rocks (Big Hits & Fazed Cookies) - The Rolling Stones
-363: (  2) * Mountains/Forests - JT Nero
-364: (  2) - Music In A Doll's House / Family Entertainment - Family
-365: (  2) - My Greatest Songs - Buddy Holly
-366: (  2) - Ode To Billie Joe - Bobbie Gentry
-367: (  2) * Plastic Wood - Lloyd Cole
-368: (  2) * Rattlesnakes - Lloyd Cole and the Commotions
-369: (  2) - Reflected Images - The Best Of Altered Images - Altered Images
-370: (  2) - Rock With I - U-Roy
-371: (  2) - Selected Works (1972-1999) - Eagles
-372: (  2) - Smiley Smile - The Beach Boys
-373: (  2) * Steve McQueen - Prefab Sprout
-374: (  2) - Sunshine Superman (Stereo Special Edition) - Donovan
-375: (  2) - Surrealistic Pillow - Jefferson Airplane
-376: (  2) - The Birds, The Bees, & The Monkees - The Monkees
-377: (  2) - The Clash - The Clash
-378: (  2) - The Piper At The Gates Of Dawn - Pink Floyd
-379: (  2) - The Singles Collection - Small Faces
-380: (  2) - The Velvet Underground & Nico - The Velvet Underground
-381: (  2) - The Very Best Of Moby Grape Vintage - Moby Grape
-382: (  2) - The Who Sell Out (Deluxe Edition) - The Who
-383: (  2) - Whenever You Need Somebody - Rick Astley
-384: (  1) - Big Brother & The Holding Company - Big Brother & the Holding Company
-385: (  1) - Business As Usual - Men At Work
-386: (  1) * Car Wheels On A Gravel Road - Lucinda Williams
-387: (  1) - Christmas In The Heart - Bob Dylan
-388: (  1) - Codex Teenage Premonition - The Fire Engines
-389: (  1) - Dig Yourself Deep - The Undertones
-390: (  1) - Felt Mountain - Goldfrapp
-391: (  1) - Fly - Dixie Chicks
-392: (  1) - Get What You Need - The Undertones
-393: (  1) - Hypnotised (2016 Remastered) - The Undertones
-394: (  1) - I'm In Love With A German Film Star - The Passions
-395: (  1) - It'll End In Tears (Remastered) - This Mortal Coil
-396: (  1) - Love It When I Feel Like This (Uk Comm Cd Album) - The Twang
-397: (  1) - Nostos - Jean-Michel Blais
-398: (  1) - One Soul Now - Cowboy Junkies
-399: (  1) - Population: Me - Dwight Yoakam
-400: (  1) - Sam The Sham & The Pharoahs, Vol. 1 - Sam the Sham & the Pharaohs
-401: (  1) - Script Of The Bridge (Remastered) - The Chameleons
-402: (  1) - Suit Yourself - Shelby Lynne
-403: (  1) * The Caution Horses - Cowboy Junkies
-404: (  1) * The Collection - Altered Images
-405: (  1) - The Complete Matrix Tapes #3 - The Velvet Underground
-406: (  1) - The Complete Matrix Tapes #4 - The Velvet Underground
-407: (  1) - The Doors (50Th Anniversary Deluxe Edition) - The Doors
-408: (  1) - The Electric Prunes - The Electric Prunes
-409: (  1) - The New Bye & Bye - Chip & Carrie
-410: (  1) - The Youngbloods - The Youngbloods
-411: (  1) - Tin Drum - Japan
-412: (  1) - Ultimate Collection - Small Faces
-413: (  1) - When The Roses Bloom Again - Laura Cantrell
+269: (  8) - Natty Dread - Bob Marley
+270: (  8) - Sing In My Meadow: The Nomad Series, Vol. 3 - Cowboy Junkies
+271: (  8) - Something More Than Free - Jason Isbell
+272: (  8) - Songs Of Love And Hate - Leonard Cohen
+273: (  8) * The King Is Dead - The Decemberists
+274: (  8) - The Singles - Goldfrapp
+275: (  7) * Demons/Demons - JT Nero
+276: (  7) * Hope And Despair - Edwyn Collins
+277: (  7) * Organisation - Orchestral Manoeuvres in the Dark
+278: (  6) - American Flowers - Birds of Chicago
+279: (  6) - Get It On: The Collection - T. Rex
+280: (  6) - London Southern - Jim Lauderdale
+281: (  6) - San Francisco - Scott Mckenzie
+282: (  6) - Scott 4 - Scott Walker
+283: (  6) - Something On My Mind - The Pale Fountains
+284: (  6) * Texas Fever - Orange Juice
+285: (  6) - The War Of The Worlds - Jeff Wayne
+286: (  5) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
+287: (  5) * Knife - Aztec Camera
+288: (  5) - Mainstream - Lloyd Cole and the Commotions
+289: (  5) * Scott - Scott Walker
+290: (  5) - The Complete Matrix Tapes #2 - The Velvet Underground
+291: (  5) - Total - Joy Division
+292: (  4) - Between The Buttons - The Rolling Stones
+293: (  4) - Demos 88-94 (In New York - Collected Recordings 1988-1996) - Lloyd Cole
+294: (  4) - Disraeli Gears (Remastered) - Cream
+295: (  4) - Easter Everywhere - 13Th Floor Elevators
+296: (  4) - Electric Ladyland - The Jimi Hendrix Experience
+297: (  4) - Garage Band Classics - The Chocolate Watch Band
+298: (  4) - Giant Steps - John Coltrane
+299: (  4) - Innovations In British Psychedelia - Small Faces
+300: (  4) - Mr. Fantasy - Traffic
+301: (  4) - S.F. Sorrow - The Pretty Things
+302: (  4) - Sam Hard And Heavy - Sam Samudio
+303: (  4) * She Ain't Me - Carrie Rodriguez
+304: (  4) - The Seeds - The Seeds
+305: (  4) - The Soft Machine (Remastered And Expanded) - Soft Machine
+306: (  4) - Tomorrow - Tomorrow
+307: (  4) - Treasure - Cocteau Twins
+308: (  3) - 1978-1988 A Decade Of Spizz History - Spizz Energi
+309: (  3) - 40 Greatest Hits - U Roy
+310: (  3) - A Beard Of Stars - T. Rex
+311: (  3) - A Whole New Thing - Sly & the Family Stone
+312: (  3) - All The Young Dudes - Mott the Hoople
+313: (  3) - Buffalo Springfield - Buffalo Springfield
+314: (  3) - Burnin' - Bob Marley
+315: (  3) * Cabin Fever (Fever Side) - Corb Lund
+316: (  3) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
+317: (  3) - Down By The Jetty - Dr. Feelgood
+318: (  3) - Dustbin Of Sound - The Cravats
+319: (  3) - Forever Changes - Love
+320: (  3) - Germ Free Adolescents (Deluxe Edition) - X-Ray Spex
+321: (  3) - Gorilla - The Bonzo Dog Band
+322: (  3) - Greatest Hits - Eric Burdon & the Animals
+323: (  3) - Greatest Hits Of Nick Heyward + Haircut 100 - Haircut 100
+324: (  3) - Happy Together - Procol Harum
+325: (  3) - I Never Loved A Man The Way I Love You - Aretha Franklin
+326: (  3) - I-Feel-Like-I'm-Fixin'-To-Die - Country Joe & the Fish
+327: (  3) - It's Smoke Time - The Smoke
+328: (  3) - Kentish Longtails - The Len Price 3
+329: (  3) - Move (2007 Remaster) - The Move
+330: (  3) - My Aim Is True - Elvis Costello
+331: (  3) - New Boots And Panties! - Ian Dury
+332: (  3) - Out Of All This Blue (Deluxe) - The Waterboys
+333: (  3) - Où Est La Maison De Fromage? - John Cooper Clarke
+334: (  3) - Pet Sounds - 40Th Anniversary - The Beach Boys
+335: (  3) - Playing In The Hall - The Charlatans
+336: (  3) - Same Trailer Different Park - Kacey Musgraves
+337: (  3) - Silver Eye - Goldfrapp
+338: (  3) - Something Else By The Kinks (Bonus Track Edition) - The Kinks
+339: (  3) - Spiral Scratch - Buzzcocks
+340: (  3) - Streetcore - Joe Strummer
+341: (  3) - That's Right - The Fallen Leaves
+342: (  3) - The 5000 Spirits Or The Layers Of The Onion - The Incredible String Band
+343: (  3) - The Byrds - The Byrds
+344: (  3) - The Mamas & The Papas - The Mamas & the Papas
+345: (  3) - The Original Psychedelic Album - Keith West
+346: (  3) - The Unfinished Revolution - Christy Moore
+347: (  3) - The Water Garden - Alex De Grassi
+348: (  3) - White Light / White Heat - The Velvet Underground
+349: (  2) - Aladdin Sane - David Bowie
+350: (  2) - Bee Gees' 1St - Bee Gees
+351: (  2) - Cauldron - Fifty Foot Hose
+352: (  2) - Circu5 - Circu5
+353: (  2) - Cool As Folk - Joe Strummer And?the Mescaleros
+354: (  2) * David Bowie - David Bowie
+355: (  2) * From Langley Park To Memphis - Prefab Sprout
+356: (  2) - God Squad Saviour - Department S
+357: (  2) - Hits'n'flips - The Move
+358: (  2) - Hypnotised - The Undertones
+359: (  2) - In Case You're In Love - Sonny & Cher
+360: (  2) - In The City (Remastered Version) - The Jam
+361: (  2) - Insight Out - The Association
+362: (  2) - Mindrocker - A Us-Punk Anthology Vol. 4 (Digitally Remastered) - The Moving Sidewalks
+363: (  2) - More Hot Rocks (Big Hits & Fazed Cookies) - The Rolling Stones
+364: (  2) * Mountains/Forests - JT Nero
+365: (  2) - Music In A Doll's House / Family Entertainment - Family
+366: (  2) - My Greatest Songs - Buddy Holly
+367: (  2) - Ode To Billie Joe - Bobbie Gentry
+368: (  2) * Plastic Wood - Lloyd Cole
+369: (  2) * Rattlesnakes - Lloyd Cole and the Commotions
+370: (  2) - Reflected Images - The Best Of Altered Images - Altered Images
+371: (  2) - Rock With I - U-Roy
+372: (  2) - Selected Works (1972-1999) - Eagles
+373: (  2) - Smiley Smile - The Beach Boys
+374: (  2) * Steve McQueen - Prefab Sprout
+375: (  2) - Sunshine Superman (Stereo Special Edition) - Donovan
+376: (  2) - Surrealistic Pillow - Jefferson Airplane
+377: (  2) - The Birds, The Bees, & The Monkees - The Monkees
+378: (  2) - The Clash - The Clash
+379: (  2) - The Piper At The Gates Of Dawn - Pink Floyd
+380: (  2) - The Singles Collection - Small Faces
+381: (  2) - The Velvet Underground & Nico - The Velvet Underground
+382: (  2) - The Very Best Of Moby Grape Vintage - Moby Grape
+383: (  2) - The Who Sell Out (Deluxe Edition) - The Who
+384: (  2) - Whenever You Need Somebody - Rick Astley
+385: (  1) - Big Brother & The Holding Company - Big Brother & the Holding Company
+386: (  1) - Business As Usual - Men At Work
+387: (  1) * Car Wheels On A Gravel Road - Lucinda Williams
+388: (  1) - Christmas In The Heart - Bob Dylan
+389: (  1) - Codex Teenage Premonition - The Fire Engines
+390: (  1) - Dig Yourself Deep - The Undertones
+391: (  1) - Felt Mountain - Goldfrapp
+392: (  1) - Fly - Dixie Chicks
+393: (  1) - Get What You Need - The Undertones
+394: (  1) - Hypnotised (2016 Remastered) - The Undertones
+395: (  1) - I'm In Love With A German Film Star - The Passions
+396: (  1) - It'll End In Tears (Remastered) - This Mortal Coil
+397: (  1) - Love It When I Feel Like This (Uk Comm Cd Album) - The Twang
+398: (  1) - Nostos - Jean-Michel Blais
+399: (  1) - One Soul Now - Cowboy Junkies
+400: (  1) - Population: Me - Dwight Yoakam
+401: (  1) - Sam The Sham & The Pharoahs, Vol. 1 - Sam the Sham & the Pharaohs
+402: (  1) - Script Of The Bridge (Remastered) - The Chameleons
+403: (  1) - Suit Yourself - Shelby Lynne
+404: (  1) * The Caution Horses - Cowboy Junkies
+405: (  1) * The Collection - Altered Images
+406: (  1) - The Complete Matrix Tapes #3 - The Velvet Underground
+407: (  1) - The Complete Matrix Tapes #4 - The Velvet Underground
+408: (  1) - The Doors (50Th Anniversary Deluxe Edition) - The Doors
+409: (  1) - The Electric Prunes - The Electric Prunes
+410: (  1) - The New Bye & Bye - Chip & Carrie
+411: (  1) - The Youngbloods - The Youngbloods
+412: (  1) - Tin Drum - Japan
+413: (  1) - Ultimate Collection - Small Faces
+414: (  1) - When The Roses Bloom Again - Laura Cantrell

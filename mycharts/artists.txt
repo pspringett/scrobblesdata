@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   70509          1298          1946         13417
+   70518          1298          1946         13423
    1: (2171) - Lloyd Cole
    2: (1901) - David Bowie
    3: (1832) - Bob Dylan
@@ -26,8 +26,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   23: ( 701) - New Order
   24: ( 686) - Martin Stephenson and the Daintees
   25: ( 685) - Scott Walker
-  26: ( 680) - The Style Council
-  27: ( 675) - Martin Stephenson
+  26: ( 684) - Martin Stephenson
+  27: ( 680) - The Style Council
   28: ( 671) - Rosanne Cash
   29: ( 658) - The Rolling Stones
   30: ( 652) - Eilen Jewell
@@ -112,13 +112,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  109: ( 148) - Sweet
  110: ( 147) - JT Nero
  111: ( 147) - Lizanne Knott
- 112: ( 146) - Bob Marley & the Wailers
- 113: ( 146) - Jason Isbell and the 400 Unit
- 114: ( 145) - Freakwater
- 115: ( 142) - English Teacher
- 116: ( 142) - Joy Division
- 117: ( 139) - Chaparelle
- 118: ( 139) - The Pale Fountains
+ 112: ( 146) - Jason Isbell and the 400 Unit
+ 113: ( 145) - Freakwater
+ 114: ( 142) - English Teacher
+ 115: ( 142) - Joy Division
+ 116: ( 139) - Chaparelle
+ 117: ( 139) - The Pale Fountains
+ 118: ( 138) - Bob Marley & the Wailers
  119: ( 134) - My Bloody Valentine
  120: ( 133) - Jack Harris
  121: ( 132) - The Bluebells
@@ -335,85 +335,85 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  332: (  17) - Brix Smith
  333: (  17) - Kurt Vile
  334: (  17) - The Specials
- 335: (  15) - Field Music
- 336: (  15) - Martin Stephenson, John Perry
- 337: (  15) - Sparks
- 338: (  15) - The Dream Syndicate
- 339: (  15) - The Fire Engines
- 340: (  14) - David Byrne
- 341: (  14) - Sly & the Family Stone
- 342: (  13) - David Byrne & St. Vincent
- 343: (  13) - Duran Duran
- 344: (  13) - John Cale
- 345: (  13) - Kristin Hersh
- 346: (  13) - Miranda Lambert
- 347: (  13) - Po' Girl
- 348: (  13) - Ryan Bingham
- 349: (  13) - The Bathers
- 350: (  13) - Tubeway Army
- 351: (  13) - William Tyler
- 352: (  12) - Belle and Sebastian
- 353: (  12) - Callaghan
- 354: (  12) - Clinic Stars
- 355: (  12) - Fontaines D.c.
- 356: (  12) - Goldfrapp
- 357: (  12) - Jim Croce
- 358: (  12) - John Foxx
- 359: (  12) - Max Romeo
- 360: (  12) - Myrtle Park's Fishing Club
- 361: (  12) - The Church
- 362: (  12) - The Jimi Hendrix Experience
- 363: (  12) - Tom Robinson
- 364: (  12) - Yonder Mountain String Band
- 365: (  11) - Bob Hund
- 366: (  11) - Colin Farrell
- 367: (  11) - Darling West
- 368: (  11) - Dry Cleaning
- 369: (  11) - Elizabeth Cook
- 370: (  11) - Françoise Hardy
- 371: (  11) - Grace Petrie
- 372: (  11) - Guillemots
- 373: (  11) - Guy Clark
- 374: (  11) - Hatchie
- 375: (  11) - Laurel Canyon
- 376: (  11) - Matt Berninger
- 377: (  11) - Peel.Rocks Magazine
- 378: (  11) - Rolling Blackouts Coastal Fever
- 379: (  11) - Television
- 380: (  11) - The Men
- 381: (  11) - Travis Linville
- 382: (  10) - Brigitte Calls Me Baby
- 383: (  10) - Cara Luft
- 384: (  10) - Dinah Washington
- 385: (  10) - Easy Star All-stars
- 386: (  10) - Elastica
- 387: (  10) - Green Gartside
- 388: (  10) - K.D. Lang
- 389: (  10) - Kathleen Edwards
- 390: (  10) - Madeleine Peyroux
- 391: (  10) - Mercy Girl
- 392: (  10) - Mount Moriah
- 393: (  10) - Nico
- 394: (  10) - Nina Simone
- 395: (  10) - Samantha Crain
- 396: (  10) - The Feelies
- 397: (  10) - The Twilight Sad
- 398: (  10) - Tim Buckley
- 399: (  10) - Wednesday
- 400: (   9) - Bryan Adams
- 401: (   9) - Daniel Bachman
- 402: (   9) - Gregory Isaacs
- 403: (   9) - Hawkwind Zoo
- 404: (   9) - Ian Dury
- 405: (   9) - Lizz Wright
- 406: (   9) - Low
- 407: (   9) - Romi Mayes
- 408: (   9) - Stevie Nicks
- 409: (   9) - Tyler Childers
- 410: (   9) - Waylon Jennings
- 411: (   8) - Andrew Bird
- 412: (   8) - Aurora
- 413: (   8) - Bob Marley
+ 335: (  16) - Bob Marley
+ 336: (  15) - Field Music
+ 337: (  15) - Martin Stephenson, John Perry
+ 338: (  15) - Sparks
+ 339: (  15) - The Dream Syndicate
+ 340: (  15) - The Fire Engines
+ 341: (  14) - David Byrne
+ 342: (  14) - Sly & the Family Stone
+ 343: (  13) - David Byrne & St. Vincent
+ 344: (  13) - Duran Duran
+ 345: (  13) - John Cale
+ 346: (  13) - Kristin Hersh
+ 347: (  13) - Miranda Lambert
+ 348: (  13) - Po' Girl
+ 349: (  13) - Ryan Bingham
+ 350: (  13) - The Bathers
+ 351: (  13) - Tubeway Army
+ 352: (  13) - William Tyler
+ 353: (  12) - Belle and Sebastian
+ 354: (  12) - Callaghan
+ 355: (  12) - Clinic Stars
+ 356: (  12) - Fontaines D.c.
+ 357: (  12) - Goldfrapp
+ 358: (  12) - Jim Croce
+ 359: (  12) - John Foxx
+ 360: (  12) - Max Romeo
+ 361: (  12) - Myrtle Park's Fishing Club
+ 362: (  12) - The Church
+ 363: (  12) - The Jimi Hendrix Experience
+ 364: (  12) - Tom Robinson
+ 365: (  12) - Yonder Mountain String Band
+ 366: (  11) - Bob Hund
+ 367: (  11) - Colin Farrell
+ 368: (  11) - Darling West
+ 369: (  11) - Dry Cleaning
+ 370: (  11) - Elizabeth Cook
+ 371: (  11) - Françoise Hardy
+ 372: (  11) - Grace Petrie
+ 373: (  11) - Guillemots
+ 374: (  11) - Guy Clark
+ 375: (  11) - Hatchie
+ 376: (  11) - Laurel Canyon
+ 377: (  11) - Matt Berninger
+ 378: (  11) - Peel.Rocks Magazine
+ 379: (  11) - Rolling Blackouts Coastal Fever
+ 380: (  11) - Television
+ 381: (  11) - The Men
+ 382: (  11) - Travis Linville
+ 383: (  10) - Brigitte Calls Me Baby
+ 384: (  10) - Cara Luft
+ 385: (  10) - Dinah Washington
+ 386: (  10) - Easy Star All-stars
+ 387: (  10) - Elastica
+ 388: (  10) - Green Gartside
+ 389: (  10) - K.D. Lang
+ 390: (  10) - Kathleen Edwards
+ 391: (  10) - Madeleine Peyroux
+ 392: (  10) - Mercy Girl
+ 393: (  10) - Mount Moriah
+ 394: (  10) - Nico
+ 395: (  10) - Nina Simone
+ 396: (  10) - Samantha Crain
+ 397: (  10) - The Feelies
+ 398: (  10) - The Twilight Sad
+ 399: (  10) - Tim Buckley
+ 400: (  10) - Wednesday
+ 401: (   9) - Bryan Adams
+ 402: (   9) - Daniel Bachman
+ 403: (   9) - Gregory Isaacs
+ 404: (   9) - Hawkwind Zoo
+ 405: (   9) - Ian Dury
+ 406: (   9) - Lizz Wright
+ 407: (   9) - Low
+ 408: (   9) - Romi Mayes
+ 409: (   9) - Stevie Nicks
+ 410: (   9) - Tyler Childers
+ 411: (   9) - Waylon Jennings
+ 412: (   8) - Andrew Bird
+ 413: (   8) - Aurora
  414: (   8) - Caleb Landry Jones
  415: (   8) - Ella Fitzgerald
  416: (   8) - Forma

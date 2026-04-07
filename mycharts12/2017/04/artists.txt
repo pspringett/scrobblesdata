@@ -355,18 +355,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  63: ( 68) - Orange Juice
  64: ( 67) - Cocteau Twins
 
- 65: ( 65) - Bob Marley & the Wailers
-
- 66: ( 63) - Hackensaw Boys
- 67: ( 63) - Nick Heyward
 
 
- 68: ( 60) - Colvin & Earle
- 69: ( 60) - Elvis Costello & the Attractions
+ 65: ( 63) - Hackensaw Boys
+ 66: ( 63) - Nick Heyward
 
- 70: ( 58) - The Jam
- 71: ( 58) - UB40
 
+ 67: ( 60) - Colvin & Earle
+ 68: ( 60) - Elvis Costello & the Attractions
+
+ 69: ( 58) - The Jam
+ 70: ( 58) - UB40
+ 71: ( 57) - Bob Marley & the Wailers
 
  72: ( 55) - Dire Straits
  73: ( 55) - Rod Stewart
@@ -429,32 +429,31 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 115: ( 18) - Joy Division
 116: ( 18) - The French Impressionists
 
-
-117: ( 15) - The Mighty Wah!
-118: ( 14) - Brian Eno
-119: ( 14) - Chip Taylor & Carrie Rodriguez
-120: ( 14) - Sara Watkins
-121: ( 13) - Kristin Hersh
-122: ( 12) - Callaghan
-123: ( 12) - Laura Cantrell
-124: ( 12) - Loretta Lynn
-125: ( 12) - Mindy Smith
-126: ( 12) - Myrtle Park's Fishing Club
-127: ( 12) - The Velvet Underground
-128: ( 11) - Elizabeth Cook
-129: ( 11) - Guy Clark
-130: ( 10) - B.E.F.
-131: ( 10) - Elastica
-132: ( 10) - Jan Garbarek
-133: ( 10) - Jason Isbell and the 400 Unit
-134: ( 10) - Kathleen Edwards
-135: ( 10) - Kraftwerk
-136: ( 10) - Mount Moriah
-137: ( 10) - Samantha Crain
-138: (  9) - Natalie Prass
-139: (  9) - Nick Cave & the Bad Seeds
-140: (  9) - The Waterboys
-141: (  8) - Bob Marley
+117: ( 16) - Bob Marley
+118: ( 15) - The Mighty Wah!
+119: ( 14) - Brian Eno
+120: ( 14) - Chip Taylor & Carrie Rodriguez
+121: ( 14) - Sara Watkins
+122: ( 13) - Kristin Hersh
+123: ( 12) - Callaghan
+124: ( 12) - Laura Cantrell
+125: ( 12) - Loretta Lynn
+126: ( 12) - Mindy Smith
+127: ( 12) - Myrtle Park's Fishing Club
+128: ( 12) - The Velvet Underground
+129: ( 11) - Elizabeth Cook
+130: ( 11) - Guy Clark
+131: ( 10) - B.E.F.
+132: ( 10) - Elastica
+133: ( 10) - Jan Garbarek
+134: ( 10) - Jason Isbell and the 400 Unit
+135: ( 10) - Kathleen Edwards
+136: ( 10) - Kraftwerk
+137: ( 10) - Mount Moriah
+138: ( 10) - Samantha Crain
+139: (  9) - Natalie Prass
+140: (  9) - Nick Cave & the Bad Seeds
+141: (  9) - The Waterboys
 142: (  8) - Tracey Thorn
 143: (  7) - Black Marble
 144: (  7) - School of Seven Bells

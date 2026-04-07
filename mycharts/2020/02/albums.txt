@@ -1,6 +1,6 @@
 Specified year (2020), specified month (2)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1136            92           107           865
+    1136            92           108           865
   1: (38) - Life's A Riot With Spy Vs. Spy (30Th Anniversary Edition) - Billy Bragg
   2: (36) - Sunshine On Leith - The Proclaimers
   3: (33) - Dandy In The Underworld - T. Rex
@@ -13,15 +13,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  10: (25) - Salutation Road - Martin Stephenson and the Daintees
  11: (24) - Stage - David Bowie
  12: (22) - The Graduate - Simon & Garfunkel
- 13: (22) - Zinc Alloy And The Hidden Riders Of Tomorrow - T. Rex
- 14: (20) - Echoes In A Shallow Bay - Cocteau Twins
- 15: (20) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
- 16: (20) - UNCUT 2016-12 The Hustle - Various
- 17: (19) - Cover Your Tracks - Corb Lund
- 18: (19) - The Slider - T. Rex
- 19: (18) - The Graduate - Dave Grusin
- 20: (17) - Tiny Dynamine - Cocteau Twins
- 21: (16) - Cleaning Out The Ashtrays CD4 Difficult Pieces - Lloyd Cole
+ 13: (20) - Echoes In A Shallow Bay - Cocteau Twins
+ 14: (20) * The T.Rex Wax Co. Singles A's & B's 1972-77 - T. Rex
+ 15: (20) - UNCUT 2016-12 The Hustle - Various
+ 16: (19) - Cover Your Tracks - Corb Lund
+ 17: (19) - The Slider - T. Rex
+ 18: (18) - The Graduate - Dave Grusin
+ 19: (17) - Tiny Dynamine - Cocteau Twins
+ 20: (16) - Cleaning Out The Ashtrays CD4 Difficult Pieces - Lloyd Cole
+ 21: (16) - Zinc Alloy And The Hidden Riders Of Tomorrow - T. Rex
  22: (15) - Aviary - Julia Holter
  23: (15) * Funnel Cloud (Bonus Track Version) - Hem
  24: (15) - Tanx - T. Rex
@@ -73,40 +73,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  70: ( 6) - American Flowers - Birds of Chicago
  71: ( 6) * There Comes A Time - Martin Stephenson and the Daintees
  72: ( 6) - Works - Eberard Weber
- 73: ( 4) - Cardiffians - Devine & Statton
- 74: ( 4) - Live At The Empire Theatre Liverpool. 04.11.19. - Orchestral Manoeuvres in the Dark
- 75: ( 4) - Making A New World - Field Music
- 76: ( 3) - Countless Branches (Deluxe Edition) - Bill Fay
- 77: ( 3) - Lullabies - Cocteau Twins
- 78: ( 2) - Cactused - Wire
- 79: ( 2) - Debris - Keeley Forsyth
- 80: ( 2) - Futuristic Dragon - T. Rex
- 81: ( 2) - Hush - Tracy Bryant
- 82: ( 2) - Just Like Moby Dick - The Panhandle Mystery Band
- 83: ( 2) - Land Of No Junction - Aoife Nessa Frances
- 84: ( 2) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
- 85: ( 1) * Altered Images 12 Inch Mix - Altered Images
- 86: ( 1) - Concrete And Glass - Nicolas Godin
- 87: ( 1) - Crushing - Julia Jacklin
- 88: ( 1) - Designer - Aldous Harding
- 89: ( 1) - Dogrel - Fontaines D.c.
- 90: ( 1) - Dream On - Alice Boman
- 91: ( 1) - Goodbye, Blue Sky - Mr. Elevator
- 92: ( 1) - I Was Born Swimming - Squirrel Flower
- 93: ( 1) - I,I - Bon Iver
- 94: ( 1) - Like The River Loves The Sea - Joan Shelley
- 95: ( 1) - Nature - Modern Nature
- 96: ( 1) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
- 97: ( 1) - Nijimusi - Ooioo
- 98: ( 1) - Odd West - Jason Mcmahon
- 99: ( 1) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
-100: ( 1) - Purple Mountains - Purple Mountains
-101: ( 1) - Reflected Images - The Best Of Altered Images - Altered Images
-102: ( 1) - Reward - Cate le Bon
-103: ( 1) - Shepherd In A Sheepskin Vest - Bill Callahan
-104: ( 1) - Sound And Vision - Tin Machine
-105: ( 1) - The Neon Skyline - Andy Shauf
-106: ( 1) * The Unforgettable Fire - U2
-107: ( 1) - There Is No Other (With Francesco Turrisi) [Deluxe Version] - Rhiannon Giddens
-108: ( 1) - Titanic Rising - Weyes Blood
-109: ( 1) - U.F.O.F. - Big Thief
+ 73: ( 6) - Zinc alloy and the Hidden Riders of Tomorrow - T. Rex
+ 74: ( 4) - Cardiffians - Devine & Statton
+ 75: ( 4) - Live At The Empire Theatre Liverpool. 04.11.19. - Orchestral Manoeuvres in the Dark
+ 76: ( 4) - Making A New World - Field Music
+ 77: ( 3) - Countless Branches (Deluxe Edition) - Bill Fay
+ 78: ( 3) - Lullabies - Cocteau Twins
+ 79: ( 2) - Cactused - Wire
+ 80: ( 2) - Debris - Keeley Forsyth
+ 81: ( 2) - Futuristic Dragon - T. Rex
+ 82: ( 2) - Hush - Tracy Bryant
+ 83: ( 2) - Just Like Moby Dick - The Panhandle Mystery Band
+ 84: ( 2) - Land Of No Junction - Aoife Nessa Frances
+ 85: ( 2) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+ 86: ( 1) * Altered Images 12 Inch Mix - Altered Images
+ 87: ( 1) - Concrete And Glass - Nicolas Godin
+ 88: ( 1) - Crushing - Julia Jacklin
+ 89: ( 1) - Designer - Aldous Harding
+ 90: ( 1) - Dogrel - Fontaines D.c.
+ 91: ( 1) - Dream On - Alice Boman
+ 92: ( 1) - Goodbye, Blue Sky - Mr. Elevator
+ 93: ( 1) - I Was Born Swimming - Squirrel Flower
+ 94: ( 1) - I,I - Bon Iver
+ 95: ( 1) - Like The River Loves The Sea - Joan Shelley
+ 96: ( 1) - Nature - Modern Nature
+ 97: ( 1) - Navarasa : Nine Emotions - Yorkston/Thorne/Khan
+ 98: ( 1) - Nijimusi - Ooioo
+ 99: ( 1) - Odd West - Jason Mcmahon
+100: ( 1) - On The Radio (Music From The Netflix Original Series Sex Education) - Chip Taylor
+101: ( 1) - Purple Mountains - Purple Mountains
+102: ( 1) - Reflected Images - The Best Of Altered Images - Altered Images
+103: ( 1) - Reward - Cate le Bon
+104: ( 1) - Shepherd In A Sheepskin Vest - Bill Callahan
+105: ( 1) - Sound And Vision - Tin Machine
+106: ( 1) - The Neon Skyline - Andy Shauf
+107: ( 1) * The Unforgettable Fire - U2
+108: ( 1) - There Is No Other (With Francesco Turrisi) [Deluxe Version] - Rhiannon Giddens
+109: ( 1) - Titanic Rising - Weyes Blood
+110: ( 1) - U.F.O.F. - Big Thief

@@ -345,16 +345,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  54: ( 84) - The Beatles
 
 
- 55: ( 81) - Bob Marley & the Wailers
- 56: ( 80) - Amanda Shires
- 57: ( 79) - Eilen Jewell
- 58: ( 79) - Lera Lynn
 
- 59: ( 77) - The Beach Boys
- 60: ( 77) - UB40
- 61: ( 76) - Corb Lund
+ 55: ( 80) - Amanda Shires
+ 56: ( 79) - Eilen Jewell
+ 57: ( 79) - Lera Lynn
 
- 62: ( 74) - Ryan Adams
+ 58: ( 77) - The Beach Boys
+ 59: ( 77) - UB40
+ 60: ( 76) - Corb Lund
+
+ 61: ( 74) - Ryan Adams
+ 62: ( 73) - Bob Marley & the Wailers
  63: ( 73) - London Grammar
  64: ( 72) - Cocteau Twins
 
@@ -432,33 +433,32 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 113: ( 18) - Joy Division
 114: ( 18) - The French Impressionists
 115: ( 17) - Elvis Costello
-
-116: ( 15) - The Mighty Wah!
-117: ( 14) - Brian Eno
-118: ( 14) - Sara Watkins
-119: ( 14) - Sweet
-120: ( 13) - Kristin Hersh
-121: ( 12) - Callaghan
-122: ( 12) - Laura Cantrell
-123: ( 12) - Mindy Smith
-124: ( 12) - Myrtle Park's Fishing Club
-125: ( 11) - Blondie
-126: ( 11) - Elizabeth Cook
-127: ( 11) - Guy Clark
-128: ( 10) - Chuck Prophet
-129: ( 10) - Elastica
-130: ( 10) - Jan Garbarek
-131: ( 10) - Kathleen Edwards
-132: ( 10) - Kraftwerk
-133: ( 10) - Mount Moriah
-134: ( 10) - Samantha Crain
-135: ( 10) - Tim Buckley
-136: ( 10) - Tower of Song
-137: ( 10) - Walter Salas-Humara
-138: (  9) - Natalie Prass
-139: (  9) - Nick Cave & the Bad Seeds
-140: (  9) - The Waterboys
-141: (  8) - Bob Marley
+116: ( 16) - Bob Marley
+117: ( 15) - The Mighty Wah!
+118: ( 14) - Brian Eno
+119: ( 14) - Sara Watkins
+120: ( 14) - Sweet
+121: ( 13) - Kristin Hersh
+122: ( 12) - Callaghan
+123: ( 12) - Laura Cantrell
+124: ( 12) - Mindy Smith
+125: ( 12) - Myrtle Park's Fishing Club
+126: ( 11) - Blondie
+127: ( 11) - Elizabeth Cook
+128: ( 11) - Guy Clark
+129: ( 10) - Chuck Prophet
+130: ( 10) - Elastica
+131: ( 10) - Jan Garbarek
+132: ( 10) - Kathleen Edwards
+133: ( 10) - Kraftwerk
+134: ( 10) - Mount Moriah
+135: ( 10) - Samantha Crain
+136: ( 10) - Tim Buckley
+137: ( 10) - Tower of Song
+138: ( 10) - Walter Salas-Humara
+139: (  9) - Natalie Prass
+140: (  9) - Nick Cave & the Bad Seeds
+141: (  9) - The Waterboys
 142: (  8) - The Decemberists
 143: (  7) - B.E.F.
 144: (  7) - Black Marble
