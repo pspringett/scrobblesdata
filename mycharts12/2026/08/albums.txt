@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2413            84           140          1011
+    2420            84           141          1018
   1: (97) - The Resurrection Game - Emma Swift
   2: (96) - Blue Weekend - Wolf Alice
 
@@ -137,62 +137,63 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  79: ( 9) - The Future Is Our Way Out - Brigitte Calls Me Baby
  80: ( 8) - Penthouse And Pavement - Heaven 17
  81: ( 8) - You Can't Hide Your Love Forever - Orange Juice
- 82: ( 7) - For Your Pleasure - Roxy Music
- 83: ( 7) * Songs From A Room - Leonard Cohen
- 84: ( 7) - Time And Patience - Tift Merritt
- 85: ( 6) - Grotesque (After The Gramme) - The Fall
- 86: ( 6) - Hex Enduction Hour - The Fall
- 87: ( 6) * Impossible Dream - Patty Griffin
- 88: ( 6) * Knife - Aztec Camera
- 89: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
- 90: ( 6) * The Trinity Session - Cowboy Junkies
- 91: ( 6) - Waves - Newdad
- 92: ( 5) - 66 - Paul Weller
- 93: ( 5) - Elevation Days - Edwyn Collins
- 94: ( 5) - Home Recordings - Emma Swift
- 95: ( 5) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
- 96: ( 5) - Low - David Bowie
- 97: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
- 98: ( 4) - 1981-2011 - B.E.F.
- 99: ( 4) - David Live (2005 mix) - David Bowie
-100: ( 4) - Early Gold - Simple Minds
-101: ( 4) - Humanhood - The Weather Station
-102: ( 4) - Sermon On The Rocks - Josh Ritter
-103: ( 4) * Seventeen Seconds - The Cure
-104: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-105: ( 4) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
-106: ( 4) - Unplugged....And Seated - Rod Stewart
-107: ( 3) - Country Life - Roxy Music
-108: ( 3) - Death In The Business Of Whaling - Searows
-109: ( 3) - Down And Out In Party City - Emma Swift
-110: ( 3) - Everybody Scream - Florence + the Machine
-111: ( 3) - Fables Of The Reconstruction - R.E.M.
-112: ( 3) - Horses - Patti Smith
-113: ( 3) * Losing Sleep - Edwyn Collins
-114: ( 3) * Wrecking Ball - Emmylou Harris
-115: ( 3) - You Got Here First - Emma Swift
-116: ( 2) - Gold - Greatest Hits - The Carpenters
-117: ( 2) - Golden Age - Heaven 17
-118: ( 2) - Knowledge - Edwyn Collins
-119: ( 2) - New Gold Dream - Simple Minds
-120: ( 2) - Rip It Up - Orange Juice
-121: ( 1) -  - Orange Juice
-122: ( 1) - Acoustic - Simple Minds
-123: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-124: ( 1) - Drums And Wires - Xtc
-125: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-126: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-127: ( 1) - Garbage Island - The Burning Hell
-128: ( 1) - Gotta Get Away - The Schwa
-129: ( 1) * Heroes - David Bowie
-130: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-131: ( 1) - Never Never - The Assembly
-132: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-133: ( 1) - Private Practice - Dr Feelgood
-134: ( 1) - Slumber Party - Brigitte Calls Me Baby
-135: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-136: ( 1) - The '81 Demos - Weekend
-137: ( 1) - The Candle And The Flame - Robert Forster
-138: ( 1) - The Collection - Marc Bolan & T. Rex
-139: ( 1) - The Singles - Weekend
-140: ( 1) - Understanding Music - Ac Acoustics
+ 82: ( 7) - David Bowie (Aka Space Oddity) [2015 Remaster] - David Bowie
+ 83: ( 7) - For Your Pleasure - Roxy Music
+ 84: ( 7) * Songs From A Room - Leonard Cohen
+ 85: ( 7) - Time And Patience - Tift Merritt
+ 86: ( 6) - Grotesque (After The Gramme) - The Fall
+ 87: ( 6) - Hex Enduction Hour - The Fall
+ 88: ( 6) * Impossible Dream - Patty Griffin
+ 89: ( 6) * Knife - Aztec Camera
+ 90: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+ 91: ( 6) * The Trinity Session - Cowboy Junkies
+ 92: ( 6) - Waves - Newdad
+ 93: ( 5) - 66 - Paul Weller
+ 94: ( 5) - Elevation Days - Edwyn Collins
+ 95: ( 5) - Home Recordings - Emma Swift
+ 96: ( 5) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
+ 97: ( 5) - Low - David Bowie
+ 98: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+ 99: ( 4) - 1981-2011 - B.E.F.
+100: ( 4) - David Live (2005 mix) - David Bowie
+101: ( 4) - Early Gold - Simple Minds
+102: ( 4) - Humanhood - The Weather Station
+103: ( 4) - Sermon On The Rocks - Josh Ritter
+104: ( 4) * Seventeen Seconds - The Cure
+105: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+106: ( 4) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+107: ( 4) - Unplugged....And Seated - Rod Stewart
+108: ( 3) - Country Life - Roxy Music
+109: ( 3) - Death In The Business Of Whaling - Searows
+110: ( 3) - Down And Out In Party City - Emma Swift
+111: ( 3) - Everybody Scream - Florence + the Machine
+112: ( 3) - Fables Of The Reconstruction - R.E.M.
+113: ( 3) - Horses - Patti Smith
+114: ( 3) * Losing Sleep - Edwyn Collins
+115: ( 3) * Wrecking Ball - Emmylou Harris
+116: ( 3) - You Got Here First - Emma Swift
+117: ( 2) - Gold - Greatest Hits - The Carpenters
+118: ( 2) - Golden Age - Heaven 17
+119: ( 2) - Knowledge - Edwyn Collins
+120: ( 2) - New Gold Dream - Simple Minds
+121: ( 2) - Rip It Up - Orange Juice
+122: ( 1) -  - Orange Juice
+123: ( 1) - Acoustic - Simple Minds
+124: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+125: ( 1) - Drums And Wires - Xtc
+126: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+127: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+128: ( 1) - Garbage Island - The Burning Hell
+129: ( 1) - Gotta Get Away - The Schwa
+130: ( 1) * Heroes - David Bowie
+131: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+132: ( 1) - Never Never - The Assembly
+133: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+134: ( 1) - Private Practice - Dr Feelgood
+135: ( 1) - Slumber Party - Brigitte Calls Me Baby
+136: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+137: ( 1) - The '81 Demos - Weekend
+138: ( 1) - The Candle And The Flame - Robert Forster
+139: ( 1) - The Collection - Marc Bolan & T. Rex
+140: ( 1) - The Singles - Weekend
+141: ( 1) - Understanding Music - Ac Acoustics
