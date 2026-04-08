@@ -113,13 +113,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  58: (14) - Lilac Tree - Martin Stephenson
  59: (14) * Rabbit Songs - Hem
  60: (14) * The Orange Juice - Orange Juice
- 61: (13) - Favourite Songs - The Best Of - Haircut 100
- 62: (13) * High Land, Hard Rain - Aztec Camera
- 63: (13) - Po' Girl - Po' Girl
- 64: (13) - Spectral Lines - Josh Ritter
- 65: (13) - Tambourine - Tift Merritt
- 66: (13) * Texas Fever - Orange Juice
- 67: (12) - A Beard Of Stars - Tyrannosaurus Rex
+ 61: (13) - A Beard Of Stars - T.Rex
+ 62: (13) - Favourite Songs - The Best Of - Haircut 100
+ 63: (13) * High Land, Hard Rain - Aztec Camera
+ 64: (13) - Po' Girl - Po' Girl
+ 65: (13) - Spectral Lines - Josh Ritter
+ 66: (13) - Tambourine - Tift Merritt
+ 67: (13) * Texas Fever - Orange Juice
  68: (12) - Acoustic - Simple Minds
  69: (12) - Axis: Bold As Love - Jimi Hendrix
  70: (12) - Punch The Clock - Elvis Costello & the Attractions
@@ -196,45 +196,44 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 141: ( 2) - More - Pulp, Chilly Gonzales
 142: ( 2) - Rip It Up - Orange Juice
 143: ( 1) -  - Orange Juice
-144: ( 1) - A Beard Of Stars - T. Rex
-145: ( 1) - Acoustic - Simple Minds, Kt Tunstall
-146: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-147: ( 1) - Bowie At The Beeb - David Bowie
-148: ( 1) - Drums And Wires - Xtc
-149: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-150: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-151: ( 1) - Garbage Island - The Burning Hell
-152: ( 1) - Gotta Get Away - The Schwa
-153: ( 1) * Heroes - David Bowie
-154: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-155: ( 1) - Never Never - The Assembly
-156: ( 1) - New Wave Hits Of The 80S - ABC
-157: ( 1) - New Wave Hits Of The 80S - Billy Idol
-158: ( 1) - New Wave Hits Of The 80S - Culture Club
-159: ( 1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-160: ( 1) - New Wave Hits Of The 80S - Joe Jackson
-161: ( 1) - New Wave Hits Of The 80S - Level 42
-162: ( 1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-163: ( 1) - New Wave Hits Of The 80S - R.E.M.
-164: ( 1) - New Wave Hits Of The 80S - Simple Minds
-165: ( 1) - New Wave Hits Of The 80S - Soft Cell
-166: ( 1) - New Wave Hits Of The 80S - The Buggles
-167: ( 1) - New Wave Hits Of The 80S - The Go-go's
-168: ( 1) - New Wave Hits Of The 80S - The Human League
-169: ( 1) - New Wave Hits Of The 80S - The Motels
-170: ( 1) - New Wave Hits Of The 80S - The Police
-171: ( 1) - New Wave Hits Of The 80S - Trio
-172: ( 1) - New Wave Hits Of The 80S - UB40
-173: ( 1) - New Wave Hits Of The 80S - Wang Chung
-174: ( 1) - New Wave Hits Of The 80S - When in Rome
-175: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-176: ( 1) - Nothing And Forever - Emma Swift
-177: ( 1) - Private Practice - Dr Feelgood
-178: ( 1) - Slumber Party - Brigitte Calls Me Baby
-179: ( 1) - Songs Of A Lost World - The Cure
-180: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-181: ( 1) - The '81 Demos - Weekend
-182: ( 1) - The Candle And The Flame - Robert Forster
-183: ( 1) - The Collection - Marc Bolan & T. Rex
-184: ( 1) - The Singles - Weekend
-185: ( 1) - Understanding Music - Ac Acoustics
+144: ( 1) - Acoustic - Simple Minds, Kt Tunstall
+145: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+146: ( 1) - Bowie At The Beeb - David Bowie
+147: ( 1) - Drums And Wires - Xtc
+148: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+149: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+150: ( 1) - Garbage Island - The Burning Hell
+151: ( 1) - Gotta Get Away - The Schwa
+152: ( 1) * Heroes - David Bowie
+153: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+154: ( 1) - Never Never - The Assembly
+155: ( 1) - New Wave Hits Of The 80S - ABC
+156: ( 1) - New Wave Hits Of The 80S - Billy Idol
+157: ( 1) - New Wave Hits Of The 80S - Culture Club
+158: ( 1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+159: ( 1) - New Wave Hits Of The 80S - Joe Jackson
+160: ( 1) - New Wave Hits Of The 80S - Level 42
+161: ( 1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+162: ( 1) - New Wave Hits Of The 80S - R.E.M.
+163: ( 1) - New Wave Hits Of The 80S - Simple Minds
+164: ( 1) - New Wave Hits Of The 80S - Soft Cell
+165: ( 1) - New Wave Hits Of The 80S - The Buggles
+166: ( 1) - New Wave Hits Of The 80S - The Go-go's
+167: ( 1) - New Wave Hits Of The 80S - The Human League
+168: ( 1) - New Wave Hits Of The 80S - The Motels
+169: ( 1) - New Wave Hits Of The 80S - The Police
+170: ( 1) - New Wave Hits Of The 80S - Trio
+171: ( 1) - New Wave Hits Of The 80S - UB40
+172: ( 1) - New Wave Hits Of The 80S - Wang Chung
+173: ( 1) - New Wave Hits Of The 80S - When in Rome
+174: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+175: ( 1) - Nothing And Forever - Emma Swift
+176: ( 1) - Private Practice - Dr Feelgood
+177: ( 1) - Slumber Party - Brigitte Calls Me Baby
+178: ( 1) - Songs Of A Lost World - The Cure
+179: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+180: ( 1) - The '81 Demos - Weekend
+181: ( 1) - The Candle And The Flame - Robert Forster
+182: ( 1) - The Collection - Marc Bolan & T. Rex
+183: ( 1) - The Singles - Weekend
+184: ( 1) - Understanding Music - Ac Acoustics

@@ -1,6 +1,6 @@
 Specified year (2017)
 Total Tracks Unique Artists Unique albums Unique Tracks
-   10466           224           411          3325
+   10466           225           411          3325
   1: (363) - David Bowie
   2: (342) - Orchestral Manoeuvres in the Dark
   3: (327) - Echo & the Bunnymen
@@ -25,8 +25,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: (147) - The Smiths
  23: (136) - Heaven 17
  24: (134) - Josh Ritter
- 25: (133) - T. Rex
- 26: (133) - The Weather Station
+ 25: (133) - The Weather Station
+ 26: (130) - T. Rex
  27: (126) - Jimi Hendrix
  28: (126) - Roddy Frame
  29: (122) - Jack Harris
@@ -176,52 +176,53 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 173: (  3) - Procol Harum
 174: (  3) - Sly & the Family Stone
 175: (  3) - Spizz Energi
-176: (  3) - The Bonzo Dog Band
-177: (  3) - The Byrds
-178: (  3) - The Charlatans
-179: (  3) - The Cravats
-180: (  3) - The Fallen Leaves
-181: (  3) - The Incredible String Band
-182: (  3) - The Kinks
-183: (  3) - The Len Price 3
-184: (  3) - The Mamas & the Papas
-185: (  3) - The Smoke
-186: (  3) - U Roy
-187: (  3) - X-Ray Spex
-188: (  2) - Bee Gees
-189: (  2) - Bobbie Gentry
-190: (  2) - Buddy Holly
-191: (  2) - Circu5
-192: (  2) - Donovan
-193: (  2) - Eagles
-194: (  2) - Family
-195: (  2) - Fifty Foot Hose
-196: (  2) - Jefferson Airplane
-197: (  2) - Joe Strummer And?the Mescaleros
-198: (  2) - Moby Grape
-199: (  2) - Pink Floyd
-200: (  2) - Rick Astley
-201: (  2) - Sonny & Cher
-202: (  2) - The Association
-203: (  2) - The Clash
-204: (  2) - The Monkees
-205: (  2) - The Moving Sidewalks
-206: (  2) - The Who
-207: (  2) - U-Roy
-208: (  1) - Big Brother & the Holding Company
-209: (  1) - Chip & Carrie
-210: (  1) - Dixie Chicks
-211: (  1) - Dwight Yoakam
-212: (  1) - Japan
-213: (  1) - Jean-Michel Blais
-214: (  1) - Lucinda Williams
-215: (  1) - Men At Work
-216: (  1) - Sam the Sham & the Pharaohs
-217: (  1) - The Chameleons
-218: (  1) - The Doors
-219: (  1) - The Electric Prunes
-220: (  1) - The Fire Engines
-221: (  1) - The Passions
-222: (  1) - The Twang
-223: (  1) - The Youngbloods
-224: (  1) - This Mortal Coil
+176: (  3) - T.Rex
+177: (  3) - The Bonzo Dog Band
+178: (  3) - The Byrds
+179: (  3) - The Charlatans
+180: (  3) - The Cravats
+181: (  3) - The Fallen Leaves
+182: (  3) - The Incredible String Band
+183: (  3) - The Kinks
+184: (  3) - The Len Price 3
+185: (  3) - The Mamas & the Papas
+186: (  3) - The Smoke
+187: (  3) - U Roy
+188: (  3) - X-Ray Spex
+189: (  2) - Bee Gees
+190: (  2) - Bobbie Gentry
+191: (  2) - Buddy Holly
+192: (  2) - Circu5
+193: (  2) - Donovan
+194: (  2) - Eagles
+195: (  2) - Family
+196: (  2) - Fifty Foot Hose
+197: (  2) - Jefferson Airplane
+198: (  2) - Joe Strummer And?the Mescaleros
+199: (  2) - Moby Grape
+200: (  2) - Pink Floyd
+201: (  2) - Rick Astley
+202: (  2) - Sonny & Cher
+203: (  2) - The Association
+204: (  2) - The Clash
+205: (  2) - The Monkees
+206: (  2) - The Moving Sidewalks
+207: (  2) - The Who
+208: (  2) - U-Roy
+209: (  1) - Big Brother & the Holding Company
+210: (  1) - Chip & Carrie
+211: (  1) - Dixie Chicks
+212: (  1) - Dwight Yoakam
+213: (  1) - Japan
+214: (  1) - Jean-Michel Blais
+215: (  1) - Lucinda Williams
+216: (  1) - Men At Work
+217: (  1) - Sam the Sham & the Pharaohs
+218: (  1) - The Chameleons
+219: (  1) - The Doors
+220: (  1) - The Electric Prunes
+221: (  1) - The Fire Engines
+222: (  1) - The Passions
+223: (  1) - The Twang
+224: (  1) - The Youngbloods
+225: (  1) - This Mortal Coil

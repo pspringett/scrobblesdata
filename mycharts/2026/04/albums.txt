@@ -1,11 +1,11 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     158            17            22           131
+     158            16            22           131
  1: (15) - Roll - Anne Mccue
  2: (14) - David Bowie (aka Space Oddity) - David Bowie
  3: (14) - Lilac Tree - Martin Stephenson
- 4: (13) - Po' Girl - Po' Girl
- 5: (12) - A Beard Of Stars - Tyrannosaurus Rex
+ 4: (13) - A Beard Of Stars - T.Rex
+ 5: (13) - Po' Girl - Po' Girl
  6: (12) - Punch The Clock - Elvis Costello & the Attractions
 
  7: (10) - Live At Layman Drug Company 2025 - Emma Swift
@@ -24,6 +24,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 18: ( 3) - You Got Here First - Emma Swift
 19: ( 2) - Gold - Greatest Hits - The Carpenters
 20: ( 2) - Home Recordings - Emma Swift
-21: ( 1) - A Beard Of Stars - T. Rex
-22: ( 1) - Bowie At The Beeb - David Bowie
-23: ( 1) - Private Practice - Dr Feelgood
+21: ( 1) - Bowie At The Beeb - David Bowie
+22: ( 1) - Private Practice - Dr Feelgood

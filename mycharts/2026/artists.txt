@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1151            56            70           500
+    1151            55            70           500
  1: (104) - Creedence Clearwater Revival
 
 
@@ -100,9 +100,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 23: ( 13) - Lloyd Cole and the Commotions
 24: ( 13) - Po' Girl
 25: ( 13) - Simple Minds
-26: ( 12) - Elvis Costello & the Attractions
-27: ( 12) - Sharon Van Etten
-28: ( 12) - Tyrannosaurus Rex
+26: ( 13) - T.Rex
+27: ( 12) - Elvis Costello & the Attractions
+28: ( 12) - Sharon Van Etten
 29: ( 11) - Echo & the Bunnymen
 30: ( 11) - Lloyd Cole
 31: ( 11) - The Burning Hell
@@ -129,7 +129,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 50: (  1) - Dr Feelgood
 51: (  1) - Heaven 17
 52: (  1) - Marc Bolan & T. Rex
-53: (  1) - T. Rex
-54: (  1) - The Assembly
-55: (  1) - The Massed Carnaby Street John Cooper Clarkes
-56: (  1) - The Schwa
+53: (  1) - The Assembly
+54: (  1) - The Massed Carnaby Street John Cooper Clarkes
+55: (  1) - The Schwa
