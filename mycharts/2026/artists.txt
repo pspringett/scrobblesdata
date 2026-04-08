@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1147            56            70           499
+    1151            56            70           500
  1: (104) - Creedence Clearwater Revival
 
 
@@ -43,10 +43,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 5: ( 62) - Heavenly
+ 5: ( 62) - Emma Swift
+ 6: ( 62) - Heavenly
 
 
- 6: ( 59) - Emma Swift
+
 
  7: ( 57) - Katherine Priddy
  8: ( 57) - Whitelands
@@ -87,9 +88,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 16: ( 20) - Tift Merritt
-
-17: ( 18) - Anne Mccue
-18: ( 18) - David Bowie
+17: ( 19) - David Bowie
+18: ( 18) - Anne Mccue
 19: ( 18) - Josh Ritter
 20: ( 18) - Prefab Sprout
 
