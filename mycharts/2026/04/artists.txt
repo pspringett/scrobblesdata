@@ -1,8 +1,9 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     186            20            26           150
- 1: (22) - David Bowie
- 2: (22) - Emma Swift
+     193            20            26           150
+ 1: (24) - Emma Swift
+
+ 2: (22) - David Bowie
 
 
 
@@ -14,15 +15,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (13) - Po' Girl
  6: (13) - T. Rex
  7: (12) - Elvis Costello & the Attractions
+ 8: (11) - U2
+ 9: (10) - Brigitte Calls Me Baby
+10: ( 9) - Simple Minds
+11: ( 8) - Edwyn Collins
+12: ( 8) - Katherine Priddy
+13: ( 8) - Whitelands
 
- 8: (10) - Brigitte Calls Me Baby
- 9: ( 9) - Simple Minds
-10: ( 8) - Edwyn Collins
-11: ( 8) - Katherine Priddy
-12: ( 8) - Whitelands
-
-13: ( 6) - The Belair Lip Bombs
-14: ( 6) - U2
+14: ( 6) - The Belair Lip Bombs
 15: ( 6) - Wolf Alice
 
 16: ( 4) - Lucinda Williams
