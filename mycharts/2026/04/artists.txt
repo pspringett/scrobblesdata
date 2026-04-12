@@ -1,18 +1,18 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     196            20            26           150
+     202            21            27           151
  1: (24) - Emma Swift
 
  2: (22) - David Bowie
 
 
+ 3: (19) - Martin Stephenson
 
 
 
+ 4: (15) - Anne Mccue
+ 5: (15) - Po' Girl
 
- 3: (15) - Anne Mccue
- 4: (15) - Po' Girl
- 5: (14) - Martin Stephenson
  6: (13) - T. Rex
  7: (12) - Elvis Costello & the Attractions
  8: (12) - U2
@@ -30,4 +30,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 17: ( 4) - Vegas Water Taxi
 18: ( 3) - Searows
 19: ( 2) - The Carpenters
-20: ( 1) - Dr Feelgood
+20: ( 1) - Creedence Clearwater Revival
+21: ( 1) - Dr Feelgood
