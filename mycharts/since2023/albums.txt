@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11631           282           476          3546
+   11637           282           476          3546
   1: (146) - Nation Shall Speak Unto Nation - Edwyn Collins
   2: (146) - Spectral Lines - Josh Ritter
   3: (146) - The Boy's Heart - Martin Stephenson and the Daintees
@@ -127,11 +127,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  77: ( 48) - Forever - Glyders
  78: ( 47) - Faded Seaside Glamour - Delays
  79: ( 47) - Substance 1987 - New Order
-
- 80: ( 45) - EELS Volume 2 - Being Dead
- 81: ( 44) - Somersault - Beach Fossils
- 82: ( 44) - Triple Seven - Wishy
- 83: ( 43) - Bayou Country - Creedence Clearwater Revival
+ 80: ( 46) - Bayou Country - Creedence Clearwater Revival
+ 81: ( 45) - EELS Volume 2 - Being Dead
+ 82: ( 44) - Somersault - Beach Fossils
+ 83: ( 44) - Triple Seven - Wishy
  84: ( 43) - Clara Libre - Altered Images
  85: ( 42) - Name Your Sorrow - Pillow Queens
  86: ( 42) - Weathervanes - Jason Isbell and the 400 Unit
@@ -356,38 +355,38 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 304: (  7) - Earth-Sized Worlds - Mandrake Handshake
 305: (  7) - Head Over Heels - Cocteau Twins
 306: (  7) - Home Recordings - Emma Swift
-307: (  7) - Scary Monsters (And Super Creeps) - David Bowie
-308: (  7) * Scott 2 - Scott Walker
-309: (  7) - Songs Of Bob Dylan - Joan Osborne
-310: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-311: (  7) - Time And Patience - Tift Merritt
-312: (  6) * Broken Carelessly - The Redlands Palomino Company
-313: (  6) - Grotesque (After The Gramme) - The Fall
-314: (  6) - Hex Enduction Hour - The Fall
-315: (  6) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
+307: (  7) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
+308: (  7) - Scary Monsters (And Super Creeps) - David Bowie
+309: (  7) * Scott 2 - Scott Walker
+310: (  7) - Songs Of Bob Dylan - Joan Osborne
+311: (  7) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+312: (  7) - Time And Patience - Tift Merritt
+313: (  6) * Broken Carelessly - The Redlands Palomino Company
+314: (  6) - Grotesque (After The Gramme) - The Fall
+315: (  6) - Hex Enduction Hour - The Fall
 316: (  6) - Let's Dance - David Bowie
 317: (  6) * The Trinity Session - Cowboy Junkies
 318: (  6) * Various Positions - Leonard Cohen
 319: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-320: (  5) - Down There! - Folly Group
-321: (  5) - Live In The City Of Angels - Simple Minds
-322: (  5) - Lloyd Cole Live Union Chapel 2023 - Lloyd Cole
-323: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
-324: (  5) - Slates (Live) - The Fall
-325: (  4) - 1981-2011 - B.E.F.
-326: (  4) - Abraxas - Santana
-327: (  4) - David Live (2005 mix) - David Bowie
-328: (  4) - Days Of Open Hand - Suzanne Vega
-329: (  4) - Down And Out In Party City - Emma Swift
-330: (  4) - Early Gold - Simple Minds
-331: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-332: (  4) - Tempest - Bob Dylan
-333: (  4) - The '81 Demos - Weekend
-334: (  4) - The Band - The Band
-335: (  4) - The Joshua Tree - U2
-336: (  4) - Totale's Turns (It's Now Or Never) - The Fall
-337: (  4) - Up All Night - The Waifs
-338: (  4) - You Got Here First - Emma Swift
+320: (  5) - Down And Out In Party City - Emma Swift
+321: (  5) - Down There! - Folly Group
+322: (  5) - Live In The City Of Angels - Simple Minds
+323: (  5) - Lloyd Cole Live Union Chapel 2023 - Lloyd Cole
+324: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
+325: (  5) - Slates (Live) - The Fall
+326: (  5) - You Got Here First - Emma Swift
+327: (  4) - 1981-2011 - B.E.F.
+328: (  4) - Abraxas - Santana
+329: (  4) - David Live (2005 mix) - David Bowie
+330: (  4) - Days Of Open Hand - Suzanne Vega
+331: (  4) - Early Gold - Simple Minds
+332: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+333: (  4) - Tempest - Bob Dylan
+334: (  4) - The '81 Demos - Weekend
+335: (  4) - The Band - The Band
+336: (  4) - The Joshua Tree - U2
+337: (  4) - Totale's Turns (It's Now Or Never) - The Fall
+338: (  4) - Up All Night - The Waifs
 339: (  3) - All The Best - The Human League
 340: (  3) - An Appointment With Mr Yeats - The Waterboys
 341: (  3) - Country Life - Roxy Music
