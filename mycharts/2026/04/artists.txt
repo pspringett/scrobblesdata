@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     217            21            27           157
+     219            21            27           157
  1: (27) - Emma Swift
 
 
@@ -25,8 +25,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 12: ( 8) - Edwyn Collins
 13: ( 8) - Katherine Priddy
 14: ( 8) - Whitelands
+15: ( 8) - Wolf Alice
 
-15: ( 6) - Wolf Alice
+
 
 16: ( 4) - Creedence Clearwater Revival
 17: ( 4) - Lucinda Williams
