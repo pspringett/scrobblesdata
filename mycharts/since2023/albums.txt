@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11651           282           476          3548
+   11659           282           476          3551
   1: (146) - Nation Shall Speak Unto Nation - Edwyn Collins
   2: (146) - Spectral Lines - Josh Ritter
   3: (146) - The Boy's Heart - Martin Stephenson and the Daintees
@@ -85,13 +85,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  42: ( 74) - Flying With Angels - Suzanne Vega
 
- 43: ( 72) - Vicious Creature - Lauren Mayberry
- 44: ( 71) - World's Gone Wrong - Lucinda Williams
- 45: ( 70) - Disenchanter - Alaska Reid
- 46: ( 70) - Get Behind The Wheel - Eilen Jewell
- 47: ( 70) - Long Time Caller, First Time Listener - Vegas Water Taxi
- 48: ( 70) - Loveless - My Bloody Valentine
- 49: ( 69) - Altar - Newdad
+ 43: ( 72) - Altar - Newdad
+ 44: ( 72) - Vicious Creature - Lauren Mayberry
+ 45: ( 71) - World's Gone Wrong - Lucinda Williams
+ 46: ( 70) - Disenchanter - Alaska Reid
+ 47: ( 70) - Get Behind The Wheel - Eilen Jewell
+ 48: ( 70) - Long Time Caller, First Time Listener - Vegas Water Taxi
+ 49: ( 70) - Loveless - My Bloody Valentine
+
 
  50: ( 67) - Short Movie - Laura Marling
  51: ( 67) - Such Ferocious Beauty - Cowboy Junkies
@@ -218,25 +219,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 167: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
 168: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
 169: ( 21) * Seventeen Seconds - The Cure
-170: ( 20) - First Two Pages Of Frankenstein - The National
-171: ( 20) - Lodger - David Bowie
-172: ( 20) - Nashville Skyline - Bob Dylan
-173: ( 20) - On Sunset (Deluxe) - Paul Weller
-174: ( 20) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-175: ( 19) - Da Capo - Love
-176: ( 19) * Heaven Up Here - Echo & the Bunnymen
-177: ( 19) * I Speak Because I Can - Laura Marling
-178: ( 19) * Impossible Dream - Patty Griffin
-179: ( 18) * Don't Get Weird On Me Babe - Lloyd Cole
-180: ( 18) * Hope And Despair - Edwyn Collins
-181: ( 18) * Jordan: The Comeback - Prefab Sprout
-182: ( 18) * Lay It Down - Cowboy Junkies
-183: ( 18) - Rogues Gospel - Duke Garwood
-184: ( 18) - Salutation Road - Martin Stephenson and the Daintees
-185: ( 18) * Signing Off - UB40
-186: ( 18) - Slates - The Fall
-187: ( 17) - Crocodiles - Echo & the Bunnymen
-188: ( 17) - David Bowie (aka Space Oddity) - David Bowie
+170: ( 20) - David Bowie (aka Space Oddity) - David Bowie
+171: ( 20) - First Two Pages Of Frankenstein - The National
+172: ( 20) - Lodger - David Bowie
+173: ( 20) - Nashville Skyline - Bob Dylan
+174: ( 20) - On Sunset (Deluxe) - Paul Weller
+175: ( 20) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+176: ( 19) - Da Capo - Love
+177: ( 19) * Heaven Up Here - Echo & the Bunnymen
+178: ( 19) * I Speak Because I Can - Laura Marling
+179: ( 19) * Impossible Dream - Patty Griffin
+180: ( 18) * Don't Get Weird On Me Babe - Lloyd Cole
+181: ( 18) * Hope And Despair - Edwyn Collins
+182: ( 18) * Jordan: The Comeback - Prefab Sprout
+183: ( 18) * Lay It Down - Cowboy Junkies
+184: ( 18) - Rogues Gospel - Duke Garwood
+185: ( 18) - Salutation Road - Martin Stephenson and the Daintees
+186: ( 18) * Signing Off - UB40
+187: ( 18) - Slates - The Fall
+188: ( 17) - Crocodiles - Echo & the Bunnymen
 189: ( 17) * Electric Warrior - T. Rex
 190: ( 17) * Get Happy!! - Elvis Costello & the Attractions
 191: ( 17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
@@ -270,32 +271,32 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 219: ( 13) - Favourite Songs - The Best Of - Haircut 100
 220: ( 13) - Introducing The Style Council - The Style Council
 221: ( 13) - Kelvingrove Baby - The Bathers
-222: ( 13) - Siren - Roxy Music
-223: ( 13) - Staring At The Sea - The Singles - The Cure
-224: ( 13) - Tambourine - Tift Merritt
-225: ( 13) * This Year's Model - Elvis Costello & the Attractions
-226: ( 12) - Axis: Bold As Love - Jimi Hendrix
-227: ( 12) * Black Eyed Man - Cowboy Junkies
-228: ( 12) * Closer - Joy Division
-229: ( 12) - Greatest Hits: Blondie - Blondie
-230: ( 12) - John Wesley Harding - Bob Dylan
-231: ( 12) - Love Story Demos - Lloyd Cole
-232: ( 12) * Ocean Rain - Echo & the Bunnymen
-233: ( 12) - Only Hinting - Clinic Stars
-234: ( 12) - Punch The Clock - Elvis Costello & the Attractions
-235: ( 12) - Rip It Up - Orange Juice
-236: ( 12) - Rough And Rowdy Ways - Bob Dylan
-237: ( 12) - Woodland Echoes - Nick Heyward
-238: ( 11) - A Whole New Thing - Sly & the Family Stone
-239: ( 11) * Antidepressant - Lloyd Cole
-240: ( 11) * Black Cadillac - Rosanne Cash
-241: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
-242: ( 11) * Bringing It All Back Home - Bob Dylan
-243: ( 11) - Empires And Dance - Simple Minds
-244: ( 11) - Guesswork - Lloyd Cole
-245: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
-246: ( 11) - Laurel Canyon - Laurel Canyon
-247: ( 11) - Let It Bleed - The Rolling Stones
+222: ( 13) - Let It Bleed - The Rolling Stones
+223: ( 13) - Siren - Roxy Music
+224: ( 13) - Staring At The Sea - The Singles - The Cure
+225: ( 13) - Tambourine - Tift Merritt
+226: ( 13) * This Year's Model - Elvis Costello & the Attractions
+227: ( 12) - Axis: Bold As Love - Jimi Hendrix
+228: ( 12) * Black Eyed Man - Cowboy Junkies
+229: ( 12) * Closer - Joy Division
+230: ( 12) - Greatest Hits: Blondie - Blondie
+231: ( 12) - John Wesley Harding - Bob Dylan
+232: ( 12) - Love Story Demos - Lloyd Cole
+233: ( 12) * Ocean Rain - Echo & the Bunnymen
+234: ( 12) - Only Hinting - Clinic Stars
+235: ( 12) - Punch The Clock - Elvis Costello & the Attractions
+236: ( 12) - Rip It Up - Orange Juice
+237: ( 12) - Rough And Rowdy Ways - Bob Dylan
+238: ( 12) - Woodland Echoes - Nick Heyward
+239: ( 11) - A Whole New Thing - Sly & the Family Stone
+240: ( 11) * Antidepressant - Lloyd Cole
+241: ( 11) * Black Cadillac - Rosanne Cash
+242: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
+243: ( 11) * Bringing It All Back Home - Bob Dylan
+244: ( 11) - Empires And Dance - Simple Minds
+245: ( 11) - Guesswork - Lloyd Cole
+246: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+247: ( 11) - Laurel Canyon - Laurel Canyon
 248: ( 11) - Life's Hard And Then You Die - It'S Immaterial
 249: ( 11) * Little Rock - Hayes Carll
 250: ( 11) - Marquee Moon - Television
