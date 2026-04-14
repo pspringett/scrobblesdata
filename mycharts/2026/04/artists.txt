@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     220            21            27           157
+     222            22            28           159
  1: (27) - Emma Swift
 
 
@@ -34,4 +34,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 18: ( 4) - Vegas Water Taxi
 19: ( 3) - Searows
 20: ( 2) - The Carpenters
-21: ( 1) - Dr Feelgood
+21: ( 2) - The Rolling Stones
+22: ( 1) - Dr Feelgood
