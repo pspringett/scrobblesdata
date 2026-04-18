@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3590           130           196          1450
+    3597           131           197          1453
   1: (118) - Western Pleasure - Chaparelle
 
 
@@ -72,11 +72,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  22: ( 53) - Fables Of The Reconstruction - R.E.M.
  23: ( 52) - Heaven, Or Someplace As Nice - Josh Ritter
  24: ( 52) - The Clearing - Wolf Alice
+ 25: ( 51) - Bayou Country - Creedence Clearwater Revival
 
 
+ 26: ( 48) - Forever - Glyders
 
- 25: ( 48) - Forever - Glyders
- 26: ( 47) - Bayou Country - Creedence Clearwater Revival
 
 
 
@@ -219,74 +219,75 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 152: (  3) * Losing Sleep - Edwyn Collins
 153: (  3) - More - Pulp, Chilly Gonzales
 154: (  3) - The Lexicon Of Love - ABC
-155: (  3) * Wrecking Ball - Emmylou Harris
-156: (  3) - Young, Dumb & Wild - Andy Golledge
-157: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-158: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-159: (  2) - Gold - Greatest Hits - The Carpenters
-160: (  2) - Golden Age - Heaven 17
-161: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-162: (  2) - Knowledge - Edwyn Collins
-163: (  2) - No Happy Endings - Emma Swift
-164: (  2) - Rip It Up - Orange Juice
-165: (  1) -  - Orange Juice
-166: (  1) - 0-100 - Bob Hund
-167: (  1) - Acoustic - Simple Minds, Kt Tunstall
-168: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-169: (  1) - Bowie At The Beeb - David Bowie
-170: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
-171: (  1) - Drums And Wires - Xtc
-172: (  1) - Electric Ladyland - Jimi Hendrix
-173: (  1) - Ett Fall Och En LöSning - Bob Hund
-174: (  1) - Fade To Grey:  The Best Of Visage - Visage
-175: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-176: (  1) - Garbage Island - The Burning Hell
-177: (  1) - Gotta Get Away - The Schwa
-178: (  1) * Heroes - David Bowie
-179: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-180: (  1) - Never Enough - Turnstile
-181: (  1) - Never Never - The Assembly
-182: (  1) - New Wave Hits Of The 80S - ABC
-183: (  1) - New Wave Hits Of The 80S - Billy Idol
-184: (  1) - New Wave Hits Of The 80S - Culture Club
-185: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-186: (  1) - New Wave Hits Of The 80S - Joe Jackson
-187: (  1) - New Wave Hits Of The 80S - Level 42
-188: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-189: (  1) - New Wave Hits Of The 80S - R.E.M.
-190: (  1) - New Wave Hits Of The 80S - Simple Minds
-191: (  1) - New Wave Hits Of The 80S - Soft Cell
-192: (  1) - New Wave Hits Of The 80S - The Buggles
-193: (  1) - New Wave Hits Of The 80S - The Go-go's
-194: (  1) - New Wave Hits Of The 80S - The Human League
-195: (  1) - New Wave Hits Of The 80S - The Motels
-196: (  1) - New Wave Hits Of The 80S - The Police
-197: (  1) - New Wave Hits Of The 80S - Trio
-198: (  1) - New Wave Hits Of The 80S - UB40
-199: (  1) - New Wave Hits Of The 80S - Wang Chung
-200: (  1) - New Wave Hits Of The 80S - When in Rome
-201: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-202: (  1) - Nothing And Forever - Emma Swift
-203: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-204: (  1) - Private Practice - Dr Feelgood
-205: (  1) - Scared To Get Happy - Blue Orchids
-206: (  1) - Scared To Get Happy - Everything But the Girl
-207: (  1) - Scared To Get Happy - Girls At Our Best!
-208: (  1) - Scared To Get Happy - Hurrah!
-209: (  1) - Scared To Get Happy - Jane
-210: (  1) - Scared To Get Happy - Marine Girls
-211: (  1) - Scared To Get Happy - The Monochrome Set
-212: (  1) - Scared To Get Happy - The Nightingales
-213: (  1) - Scared To Get Happy - Tv21
-214: (  1) - Scared To Get Happy - Weekend
-215: (  1) - Silence - Vild I Skogen - Bob Hund
-216: (  1) - Slumber Party - Brigitte Calls Me Baby
-217: (  1) - Songs Of Bob Dylan - Joan Osborne
-218: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
-219: (  1) - Streets Of Minneapolis - Bruce Springsteen
-220: (  1) - Stumfilm - Bob Hund
-221: (  1) - The '81 Demos - Weekend
-222: (  1) - The Candle And The Flame - Robert Forster
-223: (  1) - The Collection - Marc Bolan & T. Rex
-224: (  1) - The Singles - Weekend
-225: (  1) - Understanding Music - Ac Acoustics
+155: (  3) - Trampoline (Expanded Edition) - The Mavericks
+156: (  3) * Wrecking Ball - Emmylou Harris
+157: (  3) - Young, Dumb & Wild - Andy Golledge
+158: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+159: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+160: (  2) - Gold - Greatest Hits - The Carpenters
+161: (  2) - Golden Age - Heaven 17
+162: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+163: (  2) - Knowledge - Edwyn Collins
+164: (  2) - No Happy Endings - Emma Swift
+165: (  2) - Rip It Up - Orange Juice
+166: (  1) -  - Orange Juice
+167: (  1) - 0-100 - Bob Hund
+168: (  1) - Acoustic - Simple Minds, Kt Tunstall
+169: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+170: (  1) - Bowie At The Beeb - David Bowie
+171: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+172: (  1) - Drums And Wires - Xtc
+173: (  1) - Electric Ladyland - Jimi Hendrix
+174: (  1) - Ett Fall Och En LöSning - Bob Hund
+175: (  1) - Fade To Grey:  The Best Of Visage - Visage
+176: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+177: (  1) - Garbage Island - The Burning Hell
+178: (  1) - Gotta Get Away - The Schwa
+179: (  1) * Heroes - David Bowie
+180: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+181: (  1) - Never Enough - Turnstile
+182: (  1) - Never Never - The Assembly
+183: (  1) - New Wave Hits Of The 80S - ABC
+184: (  1) - New Wave Hits Of The 80S - Billy Idol
+185: (  1) - New Wave Hits Of The 80S - Culture Club
+186: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+187: (  1) - New Wave Hits Of The 80S - Joe Jackson
+188: (  1) - New Wave Hits Of The 80S - Level 42
+189: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+190: (  1) - New Wave Hits Of The 80S - R.E.M.
+191: (  1) - New Wave Hits Of The 80S - Simple Minds
+192: (  1) - New Wave Hits Of The 80S - Soft Cell
+193: (  1) - New Wave Hits Of The 80S - The Buggles
+194: (  1) - New Wave Hits Of The 80S - The Go-go's
+195: (  1) - New Wave Hits Of The 80S - The Human League
+196: (  1) - New Wave Hits Of The 80S - The Motels
+197: (  1) - New Wave Hits Of The 80S - The Police
+198: (  1) - New Wave Hits Of The 80S - Trio
+199: (  1) - New Wave Hits Of The 80S - UB40
+200: (  1) - New Wave Hits Of The 80S - Wang Chung
+201: (  1) - New Wave Hits Of The 80S - When in Rome
+202: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+203: (  1) - Nothing And Forever - Emma Swift
+204: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+205: (  1) - Private Practice - Dr Feelgood
+206: (  1) - Scared To Get Happy - Blue Orchids
+207: (  1) - Scared To Get Happy - Everything But the Girl
+208: (  1) - Scared To Get Happy - Girls At Our Best!
+209: (  1) - Scared To Get Happy - Hurrah!
+210: (  1) - Scared To Get Happy - Jane
+211: (  1) - Scared To Get Happy - Marine Girls
+212: (  1) - Scared To Get Happy - The Monochrome Set
+213: (  1) - Scared To Get Happy - The Nightingales
+214: (  1) - Scared To Get Happy - Tv21
+215: (  1) - Scared To Get Happy - Weekend
+216: (  1) - Silence - Vild I Skogen - Bob Hund
+217: (  1) - Slumber Party - Brigitte Calls Me Baby
+218: (  1) - Songs Of Bob Dylan - Joan Osborne
+219: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+220: (  1) - Streets Of Minneapolis - Bruce Springsteen
+221: (  1) - Stumfilm - Bob Hund
+222: (  1) - The '81 Demos - Weekend
+223: (  1) - The Candle And The Flame - Robert Forster
+224: (  1) - The Collection - Marc Bolan & T. Rex
+225: (  1) - The Singles - Weekend
+226: (  1) - Understanding Music - Ac Acoustics
