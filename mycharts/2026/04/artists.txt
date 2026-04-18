@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     265            24            31           191
+     266            24            31           192
  1: (45) - David Bowie
 
 
@@ -46,8 +46,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 15: ( 8) - Whitelands
 
 
-16: ( 5) - Robert Forster
-17: ( 4) - Creedence Clearwater Revival
+16: ( 5) - Creedence Clearwater Revival
+17: ( 5) - Robert Forster
 18: ( 4) - Lucinda Williams
 19: ( 4) - The Rolling Stones
 20: ( 4) - Vegas Water Taxi
