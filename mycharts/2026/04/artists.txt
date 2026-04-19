@@ -1,7 +1,10 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     284            25            32           196
- 1: (45) - David Bowie
+     288            25            32           197
+ 1: (48) - David Bowie
+
+
+
 
 
 
@@ -38,7 +41,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: (12) - Elvis Costello & the Attractions
  9: (11) - The Belair Lip Bombs
 10: (10) - Brigitte Calls Me Baby
-11: ( 9) - Creedence Clearwater Revival
+11: (10) - Creedence Clearwater Revival
 12: ( 9) - Simple Minds
 13: ( 9) - Wolf Alice
 14: ( 8) - Edwyn Collins
