@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     300            25            33           203
+     308            26            34           211
  1: (51) - David Bowie
 
 
@@ -13,13 +13,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (39) - Emma Swift
 
 
 
 
 
 
- 2: (33) - Emma Swift
 
 
 
@@ -58,5 +58,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 21: ( 3) - Newdad
 22: ( 3) - Searows
 23: ( 3) - The Mavericks
-24: ( 2) - The Carpenters
-25: ( 1) - Dr Feelgood
+24: ( 2) - Chaparelle
+25: ( 2) - The Carpenters
+26: ( 1) - Dr Feelgood
