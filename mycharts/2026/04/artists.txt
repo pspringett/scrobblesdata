@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     410            34            42           300
+     414            34            42           304
  1: (51) - David Bowie
 
 
@@ -30,12 +30,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  3: (25) - Martin Stephenson
  4: (24) - Anne Mccue
  5: (23) - U2
+ 6: (22) - Robert Forster
 
+ 7: (20) - Elvis Costello
 
- 6: (20) - Elvis Costello
-
- 7: (18) - Po' Girl
- 8: (18) - Robert Forster
+ 8: (18) - Po' Girl
 
 
 
