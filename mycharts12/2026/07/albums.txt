@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2889            95           159          1218
+    2897            95           160          1225
   1: (98) - Blue Weekend - Wolf Alice
   2: (97) - The Resurrection Game - Emma Swift
 
@@ -126,17 +126,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  72: (12) - Rough And Rowdy Ways - Bob Dylan
  73: (12) - Salutation Road - Martin Stephenson and the Daintees
  74: (11) * Boat To Bolivia - Martin Stephenson and the Daintees
- 75: (11) - Empires And Dance - Simple Minds
- 76: (11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 77: (11) - Live At Layman Drug Company 2025 - Emma Swift
- 78: (11) * Ocean Rain - Echo & the Bunnymen
- 79: (11) - Phonetics On And On - Horsegirl
- 80: (11) - The Glasgow School - Orange Juice
- 81: (11) * The Negatives - Lloyd Cole
- 82: (11) - The Velvet Underground & Nico - The Velvet Underground
- 83: (11) - Up All Night - Simple Minds
- 84: (10) * Blonde On Blonde - Bob Dylan
- 85: (10) - Easter Lily Ep - U2
+ 75: (11) - Easter Lily Ep - U2
+ 76: (11) - Empires And Dance - Simple Minds
+ 77: (11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 78: (11) - Live At Layman Drug Company 2025 - Emma Swift
+ 79: (11) * Ocean Rain - Echo & the Bunnymen
+ 80: (11) - Phonetics On And On - Horsegirl
+ 81: (11) - The Glasgow School - Orange Juice
+ 82: (11) * The Negatives - Lloyd Cole
+ 83: (11) - The Velvet Underground & Nico - The Velvet Underground
+ 84: (11) - Up All Night - Simple Minds
+ 85: (10) * Blonde On Blonde - Bob Dylan
  86: (10) - Life's Hard And Then You Die - It'S Immaterial
  87: (10) - Manifesto - Roxy Music
  88: (10) - Mercy Girl Singles - Mercy Girl
@@ -157,59 +157,60 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 103: ( 7) - Home Recordings - Emma Swift
 104: ( 7) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
 105: ( 7) * Songs From A Room - Leonard Cohen
-106: ( 7) - Time And Patience - Tift Merritt
-107: ( 6) - Grotesque (After The Gramme) - The Fall
-108: ( 6) - Hex Enduction Hour - The Fall
-109: ( 6) * Knife - Aztec Camera
-110: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
-111: ( 6) * The Trinity Session - Cowboy Junkies
-112: ( 6) - Vicious Creature - Lauren Mayberry
-113: ( 6) - Waves - Newdad
-114: ( 5) - 66 - Paul Weller
-115: ( 5) - Down And Out In Party City - Emma Swift
-116: ( 5) - Elevation Days - Edwyn Collins
-117: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-118: ( 5) - You Got Here First - Emma Swift
-119: ( 4) - 1981-2011 - B.E.F.
-120: ( 4) - Early Gold - Simple Minds
-121: ( 4) - Sermon On The Rocks - Josh Ritter
-122: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-123: ( 4) - The Joshua Tree - U2
-124: ( 4) - Unplugged....And Seated - Rod Stewart
-125: ( 3) - Country Life - Roxy Music
-126: ( 3) - Death In The Business Of Whaling - Searows
-127: ( 3) - Everybody Scream - Florence + the Machine
-128: ( 3) - Fables Of The Reconstruction - R.E.M.
-129: ( 3) - Horses - Patti Smith
-130: ( 3) * Losing Sleep - Edwyn Collins
-131: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-132: ( 3) * Wrecking Ball - Emmylou Harris
-133: ( 3) - Young, Dumb & Wild - Andy Golledge
-134: ( 2) - Gold - Greatest Hits - The Carpenters
-135: ( 2) - Golden Age - Heaven 17
-136: ( 2) - Knowledge - Edwyn Collins
-137: ( 2) - More - Pulp, Chilly Gonzales
-138: ( 2) - New Gold Dream - Simple Minds
-139: ( 2) - Rip It Up - Orange Juice
-140: ( 1) -  - Orange Juice
-141: ( 1) - Acoustic - Simple Minds, Kt Tunstall
-142: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-143: ( 1) - Bowie At The Beeb - David Bowie
-144: ( 1) - Drums And Wires - Xtc
-145: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-146: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-147: ( 1) - Garbage Island - The Burning Hell
-148: ( 1) - Gotta Get Away - The Schwa
-149: ( 1) * Heroes - David Bowie
-150: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-151: ( 1) - Never Never - The Assembly
-152: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-153: ( 1) - Private Practice - Dr Feelgood
-154: ( 1) - Slumber Party - Brigitte Calls Me Baby
-155: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-156: ( 1) - The '81 Demos - Weekend
-157: ( 1) - The Candle And The Flame - Robert Forster
-158: ( 1) - The Collection - Marc Bolan & T. Rex
-159: ( 1) - The Lexicon Of Love - ABC
-160: ( 1) - The Singles - Weekend
-161: ( 1) - Understanding Music - Ac Acoustics
+106: ( 7) - Stitch Of The World - Tift Merritt
+107: ( 7) - Time And Patience - Tift Merritt
+108: ( 6) - Grotesque (After The Gramme) - The Fall
+109: ( 6) - Hex Enduction Hour - The Fall
+110: ( 6) * Knife - Aztec Camera
+111: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+112: ( 6) * The Trinity Session - Cowboy Junkies
+113: ( 6) - Vicious Creature - Lauren Mayberry
+114: ( 6) - Waves - Newdad
+115: ( 5) - 66 - Paul Weller
+116: ( 5) - Down And Out In Party City - Emma Swift
+117: ( 5) - Elevation Days - Edwyn Collins
+118: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+119: ( 5) - You Got Here First - Emma Swift
+120: ( 4) - 1981-2011 - B.E.F.
+121: ( 4) - Early Gold - Simple Minds
+122: ( 4) - Sermon On The Rocks - Josh Ritter
+123: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+124: ( 4) - The Joshua Tree - U2
+125: ( 4) - Unplugged....And Seated - Rod Stewart
+126: ( 3) - Country Life - Roxy Music
+127: ( 3) - Death In The Business Of Whaling - Searows
+128: ( 3) - Everybody Scream - Florence + the Machine
+129: ( 3) - Fables Of The Reconstruction - R.E.M.
+130: ( 3) - Horses - Patti Smith
+131: ( 3) * Losing Sleep - Edwyn Collins
+132: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+133: ( 3) * Wrecking Ball - Emmylou Harris
+134: ( 3) - Young, Dumb & Wild - Andy Golledge
+135: ( 2) - Gold - Greatest Hits - The Carpenters
+136: ( 2) - Golden Age - Heaven 17
+137: ( 2) - Knowledge - Edwyn Collins
+138: ( 2) - More - Pulp, Chilly Gonzales
+139: ( 2) - New Gold Dream - Simple Minds
+140: ( 2) - Rip It Up - Orange Juice
+141: ( 1) -  - Orange Juice
+142: ( 1) - Acoustic - Simple Minds, Kt Tunstall
+143: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+144: ( 1) - Bowie At The Beeb - David Bowie
+145: ( 1) - Drums And Wires - Xtc
+146: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+147: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+148: ( 1) - Garbage Island - The Burning Hell
+149: ( 1) - Gotta Get Away - The Schwa
+150: ( 1) * Heroes - David Bowie
+151: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+152: ( 1) - Never Never - The Assembly
+153: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+154: ( 1) - Private Practice - Dr Feelgood
+155: ( 1) - Slumber Party - Brigitte Calls Me Baby
+156: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+157: ( 1) - The '81 Demos - Weekend
+158: ( 1) - The Candle And The Flame - Robert Forster
+159: ( 1) - The Collection - Marc Bolan & T. Rex
+160: ( 1) - The Lexicon Of Love - ABC
+161: ( 1) - The Singles - Weekend
+162: ( 1) - Understanding Music - Ac Acoustics

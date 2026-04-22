@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3149           113           167          1283
+    3157           113           168          1290
   1: (98) - Blue Weekend - Wolf Alice
   2: (97) - The Resurrection Game - Emma Swift
   3: (96) - Ghost Palace - The Burning Hell
@@ -128,17 +128,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  76: (12) - Salutation Road - Martin Stephenson and the Daintees
  77: (11) - A Whole New Thing - Sly & the Family Stone
  78: (11) * Boat To Bolivia - Martin Stephenson and the Daintees
- 79: (11) - Empires And Dance - Simple Minds
- 80: (11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
- 81: (11) - Live At Layman Drug Company 2025 - Emma Swift
- 82: (11) - New Gold Dream - Simple Minds
- 83: (11) * Ocean Rain - Echo & the Bunnymen
- 84: (11) - Phonetics On And On - Horsegirl
- 85: (11) - The Glasgow School - Orange Juice
- 86: (11) * The Negatives - Lloyd Cole
- 87: (11) - The Velvet Underground & Nico - The Velvet Underground
- 88: (10) * Blonde On Blonde - Bob Dylan
- 89: (10) - Easter Lily Ep - U2
+ 79: (11) - Easter Lily Ep - U2
+ 80: (11) - Empires And Dance - Simple Minds
+ 81: (11) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+ 82: (11) - Live At Layman Drug Company 2025 - Emma Swift
+ 83: (11) - New Gold Dream - Simple Minds
+ 84: (11) * Ocean Rain - Echo & the Bunnymen
+ 85: (11) - Phonetics On And On - Horsegirl
+ 86: (11) - The Glasgow School - Orange Juice
+ 87: (11) * The Negatives - Lloyd Cole
+ 88: (11) - The Velvet Underground & Nico - The Velvet Underground
+ 89: (10) * Blonde On Blonde - Bob Dylan
  90: (10) - Life's Hard And Then You Die - It'S Immaterial
  91: (10) - Mercy Girl Singles - Mercy Girl
  92: (10) * Reading, Writing & Arithmetic - The Sundays
@@ -160,80 +160,81 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 108: ( 7) - Home Recordings - Emma Swift
 109: ( 7) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
 110: ( 7) * Songs From A Room - Leonard Cohen
-111: ( 7) - Time And Patience - Tift Merritt
-112: ( 6) - Grotesque (After The Gramme) - The Fall
-113: ( 6) - Hex Enduction Hour - The Fall
-114: ( 6) * Knife - Aztec Camera
-115: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
-116: ( 6) * The Trinity Session - Cowboy Junkies
-117: ( 6) - Vicious Creature - Lauren Mayberry
-118: ( 6) - Waves - Newdad
-119: ( 5) - 66 - Paul Weller
-120: ( 5) - Down And Out In Party City - Emma Swift
-121: ( 5) - Elevation Days - Edwyn Collins
-122: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-123: ( 5) - You Got Here First - Emma Swift
-124: ( 4) - 1981-2011 - B.E.F.
-125: ( 4) - Early Gold - Simple Minds
-126: ( 4) - Sermon On The Rocks - Josh Ritter
-127: ( 4) - The Joshua Tree - U2
-128: ( 4) - Unplugged....And Seated - Rod Stewart
-129: ( 3) - All The Best - The Human League
-130: ( 3) - Country Life - Roxy Music
-131: ( 3) - Death In The Business Of Whaling - Searows
-132: ( 3) - Everybody Scream - Florence + the Machine
-133: ( 3) - Fables Of The Reconstruction - R.E.M.
-134: ( 3) - Horses - Patti Smith
-135: ( 3) * Losing Sleep - Edwyn Collins
-136: ( 3) - The Lexicon Of Love - ABC
-137: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-138: ( 3) * Wrecking Ball - Emmylou Harris
-139: ( 3) - Young, Dumb & Wild - Andy Golledge
-140: ( 2) - Gold - Greatest Hits - The Carpenters
-141: ( 2) - Golden Age - Heaven 17
-142: ( 2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-143: ( 2) - Knowledge - Edwyn Collins
-144: ( 2) - More - Pulp, Chilly Gonzales
-145: ( 2) - Rip It Up - Orange Juice
-146: ( 1) -  - Orange Juice
-147: ( 1) - Acoustic - Simple Minds, Kt Tunstall
-148: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-149: ( 1) - Bowie At The Beeb - David Bowie
-150: ( 1) - Drums And Wires - Xtc
-151: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-152: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-153: ( 1) - Garbage Island - The Burning Hell
-154: ( 1) - Gotta Get Away - The Schwa
-155: ( 1) * Heroes - David Bowie
-156: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-157: ( 1) - Never Never - The Assembly
-158: ( 1) - New Wave Hits Of The 80S - ABC
-159: ( 1) - New Wave Hits Of The 80S - Billy Idol
-160: ( 1) - New Wave Hits Of The 80S - Culture Club
-161: ( 1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-162: ( 1) - New Wave Hits Of The 80S - Joe Jackson
-163: ( 1) - New Wave Hits Of The 80S - Level 42
-164: ( 1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-165: ( 1) - New Wave Hits Of The 80S - R.E.M.
-166: ( 1) - New Wave Hits Of The 80S - Simple Minds
-167: ( 1) - New Wave Hits Of The 80S - Soft Cell
-168: ( 1) - New Wave Hits Of The 80S - The Buggles
-169: ( 1) - New Wave Hits Of The 80S - The Go-go's
-170: ( 1) - New Wave Hits Of The 80S - The Human League
-171: ( 1) - New Wave Hits Of The 80S - The Motels
-172: ( 1) - New Wave Hits Of The 80S - The Police
-173: ( 1) - New Wave Hits Of The 80S - Trio
-174: ( 1) - New Wave Hits Of The 80S - UB40
-175: ( 1) - New Wave Hits Of The 80S - Wang Chung
-176: ( 1) - New Wave Hits Of The 80S - When in Rome
-177: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-178: ( 1) - Nothing And Forever - Emma Swift
-179: ( 1) - Private Practice - Dr Feelgood
-180: ( 1) - Slumber Party - Brigitte Calls Me Baby
-181: ( 1) - Songs Of A Lost World - The Cure
-182: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-183: ( 1) - The '81 Demos - Weekend
-184: ( 1) - The Candle And The Flame - Robert Forster
-185: ( 1) - The Collection - Marc Bolan & T. Rex
-186: ( 1) - The Singles - Weekend
-187: ( 1) - Understanding Music - Ac Acoustics
+111: ( 7) - Stitch Of The World - Tift Merritt
+112: ( 7) - Time And Patience - Tift Merritt
+113: ( 6) - Grotesque (After The Gramme) - The Fall
+114: ( 6) - Hex Enduction Hour - The Fall
+115: ( 6) * Knife - Aztec Camera
+116: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+117: ( 6) * The Trinity Session - Cowboy Junkies
+118: ( 6) - Vicious Creature - Lauren Mayberry
+119: ( 6) - Waves - Newdad
+120: ( 5) - 66 - Paul Weller
+121: ( 5) - Down And Out In Party City - Emma Swift
+122: ( 5) - Elevation Days - Edwyn Collins
+123: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+124: ( 5) - You Got Here First - Emma Swift
+125: ( 4) - 1981-2011 - B.E.F.
+126: ( 4) - Early Gold - Simple Minds
+127: ( 4) - Sermon On The Rocks - Josh Ritter
+128: ( 4) - The Joshua Tree - U2
+129: ( 4) - Unplugged....And Seated - Rod Stewart
+130: ( 3) - All The Best - The Human League
+131: ( 3) - Country Life - Roxy Music
+132: ( 3) - Death In The Business Of Whaling - Searows
+133: ( 3) - Everybody Scream - Florence + the Machine
+134: ( 3) - Fables Of The Reconstruction - R.E.M.
+135: ( 3) - Horses - Patti Smith
+136: ( 3) * Losing Sleep - Edwyn Collins
+137: ( 3) - The Lexicon Of Love - ABC
+138: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+139: ( 3) * Wrecking Ball - Emmylou Harris
+140: ( 3) - Young, Dumb & Wild - Andy Golledge
+141: ( 2) - Gold - Greatest Hits - The Carpenters
+142: ( 2) - Golden Age - Heaven 17
+143: ( 2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+144: ( 2) - Knowledge - Edwyn Collins
+145: ( 2) - More - Pulp, Chilly Gonzales
+146: ( 2) - Rip It Up - Orange Juice
+147: ( 1) -  - Orange Juice
+148: ( 1) - Acoustic - Simple Minds, Kt Tunstall
+149: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+150: ( 1) - Bowie At The Beeb - David Bowie
+151: ( 1) - Drums And Wires - Xtc
+152: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+153: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+154: ( 1) - Garbage Island - The Burning Hell
+155: ( 1) - Gotta Get Away - The Schwa
+156: ( 1) * Heroes - David Bowie
+157: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+158: ( 1) - Never Never - The Assembly
+159: ( 1) - New Wave Hits Of The 80S - ABC
+160: ( 1) - New Wave Hits Of The 80S - Billy Idol
+161: ( 1) - New Wave Hits Of The 80S - Culture Club
+162: ( 1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+163: ( 1) - New Wave Hits Of The 80S - Joe Jackson
+164: ( 1) - New Wave Hits Of The 80S - Level 42
+165: ( 1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+166: ( 1) - New Wave Hits Of The 80S - R.E.M.
+167: ( 1) - New Wave Hits Of The 80S - Simple Minds
+168: ( 1) - New Wave Hits Of The 80S - Soft Cell
+169: ( 1) - New Wave Hits Of The 80S - The Buggles
+170: ( 1) - New Wave Hits Of The 80S - The Go-go's
+171: ( 1) - New Wave Hits Of The 80S - The Human League
+172: ( 1) - New Wave Hits Of The 80S - The Motels
+173: ( 1) - New Wave Hits Of The 80S - The Police
+174: ( 1) - New Wave Hits Of The 80S - Trio
+175: ( 1) - New Wave Hits Of The 80S - UB40
+176: ( 1) - New Wave Hits Of The 80S - Wang Chung
+177: ( 1) - New Wave Hits Of The 80S - When in Rome
+178: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+179: ( 1) - Nothing And Forever - Emma Swift
+180: ( 1) - Private Practice - Dr Feelgood
+181: ( 1) - Slumber Party - Brigitte Calls Me Baby
+182: ( 1) - Songs Of A Lost World - The Cure
+183: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+184: ( 1) - The '81 Demos - Weekend
+185: ( 1) - The Candle And The Flame - Robert Forster
+186: ( 1) - The Collection - Marc Bolan & T. Rex
+187: ( 1) - The Singles - Weekend
+188: ( 1) - Understanding Music - Ac Acoustics
