@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     382            33            40           280
+     386            33            40           284
  1: (51) - David Bowie
 
 
@@ -44,16 +44,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 11: (11) - The Belair Lip Bombs
 12: (10) - Brigitte Calls Me Baby
 13: (10) - Chaparelle
-14: ( 9) - Simple Minds
-15: ( 9) - The Cure
-16: ( 9) - Wolf Alice
-17: ( 8) - Edwyn Collins
-18: ( 8) - Josh Ritter
-19: ( 8) - Katherine Priddy
-20: ( 8) - Roxy Music
-21: ( 8) - Whitelands
-22: ( 7) - Tift Merritt
-23: ( 6) - Paul Weller
+14: (10) - Paul Weller
+15: ( 9) - Simple Minds
+16: ( 9) - The Cure
+17: ( 9) - Wolf Alice
+18: ( 8) - Edwyn Collins
+19: ( 8) - Josh Ritter
+20: ( 8) - Katherine Priddy
+21: ( 8) - Roxy Music
+22: ( 8) - Whitelands
+23: ( 7) - Tift Merritt
+
 24: ( 5) - Robert Forster
 25: ( 4) - Lucinda Williams
 26: ( 4) - The Rolling Stones
