@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     395            34            41           293
+     403            34            42           298
  1: (51) - David Bowie
 
 
@@ -41,22 +41,23 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: (14) - Creedence Clearwater Revival
  9: (13) - T. Rex
 10: (12) - Elvis Costello & the Attractions
-11: (11) - The Belair Lip Bombs
-12: (10) - Brigitte Calls Me Baby
-13: (10) - Chaparelle
-14: (10) - Paul Weller
-15: ( 9) - Everything But the Girl
-16: ( 9) - Simple Minds
-17: ( 9) - The Cure
-18: ( 9) - Wolf Alice
-19: ( 8) - Edwyn Collins
-20: ( 8) - Josh Ritter
-21: ( 8) - Katherine Priddy
-22: ( 8) - Roxy Music
-23: ( 8) - Whitelands
-24: ( 7) - Tift Merritt
+11: (11) - Everything But the Girl
+12: (11) - Robert Forster
+13: (11) - The Belair Lip Bombs
+14: (10) - Brigitte Calls Me Baby
+15: (10) - Chaparelle
+16: (10) - Paul Weller
+17: ( 9) - Simple Minds
+18: ( 9) - The Cure
+19: ( 9) - Wolf Alice
+20: ( 8) - Edwyn Collins
+21: ( 8) - Josh Ritter
+22: ( 8) - Katherine Priddy
+23: ( 8) - Roxy Music
+24: ( 8) - Whitelands
+25: ( 7) - Tift Merritt
 
-25: ( 5) - Robert Forster
+
 26: ( 4) - Lucinda Williams
 27: ( 4) - The Rolling Stones
 28: ( 4) - Vegas Water Taxi

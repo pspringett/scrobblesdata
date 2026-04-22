@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2919            96           160          1234
+    2927            96           160          1237
   1: (98) - Blue Weekend - Wolf Alice
   2: (97) - The Resurrection Game - Emma Swift
 
@@ -66,11 +66,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  21: (37) - Blonde On The Tracks - Emma Swift
 
+ 22: (35) - Eden - Everything But the Girl
+ 23: (34) - Days Of Ash Ep - U2
+ 24: (34) - Nation Shall Speak Unto Nation - Edwyn Collins
+ 25: (34) - Unclouded - Melody'S Echo Chamber
 
- 22: (34) - Days Of Ash Ep - U2
- 23: (34) - Nation Shall Speak Unto Nation - Edwyn Collins
- 24: (34) - Unclouded - Melody'S Echo Chamber
- 25: (33) - Eden - Everything But the Girl
  26: (32) - Strawberries - Robert Forster
  27: (32) - Substance 1987 - New Order
 
@@ -158,58 +158,58 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 105: ( 7) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
 106: ( 7) * Songs From A Room - Leonard Cohen
 107: ( 7) - Stitch Of The World - Tift Merritt
-108: ( 7) - Time And Patience - Tift Merritt
-109: ( 6) - Grotesque (After The Gramme) - The Fall
-110: ( 6) - Hex Enduction Hour - The Fall
-111: ( 6) * Knife - Aztec Camera
-112: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
-113: ( 6) * The Trinity Session - Cowboy Junkies
-114: ( 6) - Vicious Creature - Lauren Mayberry
-115: ( 6) - Waves - Newdad
-116: ( 5) - Down And Out In Party City - Emma Swift
-117: ( 5) - Elevation Days - Edwyn Collins
-118: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-119: ( 5) - You Got Here First - Emma Swift
-120: ( 4) - 1981-2011 - B.E.F.
-121: ( 4) - Early Gold - Simple Minds
-122: ( 4) - Sermon On The Rocks - Josh Ritter
-123: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-124: ( 4) - The Joshua Tree - U2
-125: ( 4) - Unplugged....And Seated - Rod Stewart
-126: ( 3) - Country Life - Roxy Music
-127: ( 3) - Death In The Business Of Whaling - Searows
-128: ( 3) - Everybody Scream - Florence + the Machine
-129: ( 3) - Fables Of The Reconstruction - R.E.M.
-130: ( 3) - Horses - Patti Smith
-131: ( 3) * Losing Sleep - Edwyn Collins
-132: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-133: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-134: ( 3) * Wrecking Ball - Emmylou Harris
-135: ( 3) - Young, Dumb & Wild - Andy Golledge
-136: ( 2) - Gold - Greatest Hits - The Carpenters
-137: ( 2) - Golden Age - Heaven 17
-138: ( 2) - Knowledge - Edwyn Collins
-139: ( 2) - More - Pulp, Chilly Gonzales
-140: ( 2) - New Gold Dream - Simple Minds
-141: ( 2) - Rip It Up - Orange Juice
-142: ( 1) -  - Orange Juice
-143: ( 1) - Acoustic - Simple Minds, Kt Tunstall
-144: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-145: ( 1) - Bowie At The Beeb - David Bowie
-146: ( 1) - Drums And Wires - Xtc
-147: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-148: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-149: ( 1) - Garbage Island - The Burning Hell
-150: ( 1) - Gotta Get Away - The Schwa
-151: ( 1) * Heroes - David Bowie
-152: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-153: ( 1) - Never Never - The Assembly
-154: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-155: ( 1) - Private Practice - Dr Feelgood
-156: ( 1) - Slumber Party - Brigitte Calls Me Baby
-157: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-158: ( 1) - The '81 Demos - Weekend
-159: ( 1) - The Candle And The Flame - Robert Forster
+108: ( 7) - The Candle And The Flame - Robert Forster
+109: ( 7) - Time And Patience - Tift Merritt
+110: ( 6) - Grotesque (After The Gramme) - The Fall
+111: ( 6) - Hex Enduction Hour - The Fall
+112: ( 6) * Knife - Aztec Camera
+113: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+114: ( 6) * The Trinity Session - Cowboy Junkies
+115: ( 6) - Vicious Creature - Lauren Mayberry
+116: ( 6) - Waves - Newdad
+117: ( 5) - Down And Out In Party City - Emma Swift
+118: ( 5) - Elevation Days - Edwyn Collins
+119: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+120: ( 5) - You Got Here First - Emma Swift
+121: ( 4) - 1981-2011 - B.E.F.
+122: ( 4) - Early Gold - Simple Minds
+123: ( 4) - Sermon On The Rocks - Josh Ritter
+124: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+125: ( 4) - The Joshua Tree - U2
+126: ( 4) - Unplugged....And Seated - Rod Stewart
+127: ( 3) - Country Life - Roxy Music
+128: ( 3) - Death In The Business Of Whaling - Searows
+129: ( 3) - Everybody Scream - Florence + the Machine
+130: ( 3) - Fables Of The Reconstruction - R.E.M.
+131: ( 3) - Horses - Patti Smith
+132: ( 3) * Losing Sleep - Edwyn Collins
+133: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+134: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+135: ( 3) * Wrecking Ball - Emmylou Harris
+136: ( 3) - Young, Dumb & Wild - Andy Golledge
+137: ( 2) - Gold - Greatest Hits - The Carpenters
+138: ( 2) - Golden Age - Heaven 17
+139: ( 2) - Knowledge - Edwyn Collins
+140: ( 2) - More - Pulp, Chilly Gonzales
+141: ( 2) - New Gold Dream - Simple Minds
+142: ( 2) - Rip It Up - Orange Juice
+143: ( 1) -  - Orange Juice
+144: ( 1) - Acoustic - Simple Minds, Kt Tunstall
+145: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+146: ( 1) - Bowie At The Beeb - David Bowie
+147: ( 1) - Drums And Wires - Xtc
+148: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+149: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+150: ( 1) - Garbage Island - The Burning Hell
+151: ( 1) - Gotta Get Away - The Schwa
+152: ( 1) * Heroes - David Bowie
+153: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+154: ( 1) - Never Never - The Assembly
+155: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+156: ( 1) - Private Practice - Dr Feelgood
+157: ( 1) - Slumber Party - Brigitte Calls Me Baby
+158: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+159: ( 1) - The '81 Demos - Weekend
 160: ( 1) - The Collection - Marc Bolan & T. Rex
 161: ( 1) - The Lexicon Of Love - ABC
 162: ( 1) - The Singles - Weekend

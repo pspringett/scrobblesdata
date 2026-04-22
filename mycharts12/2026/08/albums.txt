@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2681            87           148          1115
+    2689            87           148          1118
   1: (97) - The Resurrection Game - Emma Swift
   2: (96) - Blue Weekend - Wolf Alice
 
@@ -87,10 +87,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  33: (24) - Moisturizer - Wet Leg
  34: (24) - Solitude Standing - Suzanne Vega
  35: (23) - David Bowie (aka Space Oddity) - David Bowie
- 36: (23) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 37: (23) - Strawberries - Robert Forster
+ 36: (23) - Eden - Everything But the Girl
+ 37: (23) - Live In London 1980: The Legendary Chaos Tape - The Fall
+ 38: (23) - Strawberries - Robert Forster
 
- 38: (21) - Eden - Everything But the Girl
+
  39: (20) * Eveningland - Hem
  40: (20) - Nashville Skyline - Bob Dylan
  41: (20) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
@@ -149,57 +150,57 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  93: ( 7) - I Didn't Mean To Get Weird On You, Baby - Emma Swift
  94: ( 7) * Songs From A Room - Leonard Cohen
  95: ( 7) - Stitch Of The World - Tift Merritt
- 96: ( 7) - Time And Patience - Tift Merritt
- 97: ( 6) - Grotesque (After The Gramme) - The Fall
- 98: ( 6) - Hex Enduction Hour - The Fall
- 99: ( 6) * Impossible Dream - Patty Griffin
-100: ( 6) * Knife - Aztec Camera
-101: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
-102: ( 6) * The Trinity Session - Cowboy Junkies
-103: ( 6) - Waves - Newdad
-104: ( 5) - Down And Out In Party City - Emma Swift
-105: ( 5) - Elevation Days - Edwyn Collins
-106: ( 5) - Low - David Bowie
-107: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-108: ( 5) - You Got Here First - Emma Swift
-109: ( 4) - 1981-2011 - B.E.F.
-110: ( 4) - Early Gold - Simple Minds
-111: ( 4) - Humanhood - The Weather Station
-112: ( 4) - Sermon On The Rocks - Josh Ritter
-113: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-114: ( 4) - Unplugged....And Seated - Rod Stewart
-115: ( 3) - Country Life - Roxy Music
-116: ( 3) - Death In The Business Of Whaling - Searows
-117: ( 3) - Everybody Scream - Florence + the Machine
-118: ( 3) - Fables Of The Reconstruction - R.E.M.
-119: ( 3) - Horses - Patti Smith
-120: ( 3) * Losing Sleep - Edwyn Collins
-121: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-122: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-123: ( 3) * Wrecking Ball - Emmylou Harris
-124: ( 2) - Gold - Greatest Hits - The Carpenters
-125: ( 2) - Golden Age - Heaven 17
-126: ( 2) - Knowledge - Edwyn Collins
-127: ( 2) - New Gold Dream - Simple Minds
-128: ( 2) - Rip It Up - Orange Juice
-129: ( 1) -  - Orange Juice
-130: ( 1) - Acoustic - Simple Minds
-131: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
-132: ( 1) - Bowie At The Beeb - David Bowie
-133: ( 1) - Drums And Wires - Xtc
-134: ( 1) - Fade To Grey:  The Best Of Visage - Visage
-135: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-136: ( 1) - Garbage Island - The Burning Hell
-137: ( 1) - Gotta Get Away - The Schwa
-138: ( 1) * Heroes - David Bowie
-139: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-140: ( 1) - Never Never - The Assembly
-141: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-142: ( 1) - Private Practice - Dr Feelgood
-143: ( 1) - Slumber Party - Brigitte Calls Me Baby
-144: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-145: ( 1) - The '81 Demos - Weekend
-146: ( 1) - The Candle And The Flame - Robert Forster
+ 96: ( 7) - The Candle And The Flame - Robert Forster
+ 97: ( 7) - Time And Patience - Tift Merritt
+ 98: ( 6) - Grotesque (After The Gramme) - The Fall
+ 99: ( 6) - Hex Enduction Hour - The Fall
+100: ( 6) * Impossible Dream - Patty Griffin
+101: ( 6) * Knife - Aztec Camera
+102: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+103: ( 6) * The Trinity Session - Cowboy Junkies
+104: ( 6) - Waves - Newdad
+105: ( 5) - Down And Out In Party City - Emma Swift
+106: ( 5) - Elevation Days - Edwyn Collins
+107: ( 5) - Low - David Bowie
+108: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+109: ( 5) - You Got Here First - Emma Swift
+110: ( 4) - 1981-2011 - B.E.F.
+111: ( 4) - Early Gold - Simple Minds
+112: ( 4) - Humanhood - The Weather Station
+113: ( 4) - Sermon On The Rocks - Josh Ritter
+114: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+115: ( 4) - Unplugged....And Seated - Rod Stewart
+116: ( 3) - Country Life - Roxy Music
+117: ( 3) - Death In The Business Of Whaling - Searows
+118: ( 3) - Everybody Scream - Florence + the Machine
+119: ( 3) - Fables Of The Reconstruction - R.E.M.
+120: ( 3) - Horses - Patti Smith
+121: ( 3) * Losing Sleep - Edwyn Collins
+122: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+123: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+124: ( 3) * Wrecking Ball - Emmylou Harris
+125: ( 2) - Gold - Greatest Hits - The Carpenters
+126: ( 2) - Golden Age - Heaven 17
+127: ( 2) - Knowledge - Edwyn Collins
+128: ( 2) - New Gold Dream - Simple Minds
+129: ( 2) - Rip It Up - Orange Juice
+130: ( 1) -  - Orange Juice
+131: ( 1) - Acoustic - Simple Minds
+132: ( 1) - Bande à Part - Nouvelle Vague, Marina Céleste
+133: ( 1) - Bowie At The Beeb - David Bowie
+134: ( 1) - Drums And Wires - Xtc
+135: ( 1) - Fade To Grey:  The Best Of Visage - Visage
+136: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+137: ( 1) - Garbage Island - The Burning Hell
+138: ( 1) - Gotta Get Away - The Schwa
+139: ( 1) * Heroes - David Bowie
+140: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+141: ( 1) - Never Never - The Assembly
+142: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+143: ( 1) - Private Practice - Dr Feelgood
+144: ( 1) - Slumber Party - Brigitte Calls Me Baby
+145: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+146: ( 1) - The '81 Demos - Weekend
 147: ( 1) - The Collection - Marc Bolan & T. Rex
 148: ( 1) - The Singles - Weekend
 149: ( 1) - Understanding Music - Ac Acoustics
