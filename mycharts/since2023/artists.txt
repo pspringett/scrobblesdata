@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   11802           284           480          3591
+   11811           285           480          3594
   1: (361) - Edwyn Collins
 
 
@@ -178,12 +178,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  14: (186) - David Bowie
+ 15: (186) - Paul Weller
 
- 15: (184) - Roxy Music
- 16: (183) - U2
+ 16: (184) - Roxy Music
+ 17: (183) - U2
 
- 17: (181) - Orange Juice
- 18: (180) - Paul Weller
+ 18: (181) - Orange Juice
+
 
 
 
@@ -461,88 +462,89 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 197: (  3) - The Moody Blues
 198: (  3) - The Wailers
 199: (  3) - The Waterboys
-200: (  2) - Blue Bendy
-201: (  2) - Catherine Wheel
-202: (  2) - Emma Tricca
-203: (  2) - Fontaines D.c.
-204: (  2) - Queen
-205: (  2) - Ricky Nelson, the Stone Canyon Band
-206: (  2) - Rodney Crowell
-207: (  2) - Scritti Politti
-208: (  2) - Slade
-209: (  2) - Soft Cell
-210: (  2) - The Carpenters
-211: (  2) - The Ronettes
-212: (  2) - Waxahatchee, Mj Lenderman
-213: (  1) - Ac Acoustics
-214: (  1) - Andy Williams
-215: (  1) - Badfinger
-216: (  1) - Best Christmas Songs
-217: (  1) - Billy Idol
-218: (  1) - Blue Orchids
-219: (  1) - Bruce Springsteen
-220: (  1) - Bryan Ferry
-221: (  1) - Cara Dillon
-222: (  1) - Carole King
-223: (  1) - Charli Xcx
-224: (  1) - Culture Club
-225: (  1) - Dexys Midnight Runners
-226: (  1) - Dr Feelgood
-227: (  1) - Duran Duran
-228: (  1) - Eddie Vedder & the Million Dollar Bashers
-229: (  1) - Eric Clapton
-230: (  1) - Eurythmics, Annie Lennox, Dave Stewart
-231: (  1) - George Harrison
-232: (  1) - Girls At Our Best!
-233: (  1) - Hurrah!
-234: (  1) - James Taylor
-235: (  1) - Jane
-236: (  1) - Janis Joplin
-237: (  1) - Joe Jackson
-238: (  1) - Joni Mitchell
-239: (  1) - Jorja Smith
-240: (  1) - Level 42
-241: (  1) - Marc Bolan & T. Rex
-242: (  1) - Mariah Carey
-243: (  1) - Marine Girls
-244: (  1) - Michael Bublé
-245: (  1) - Mott the Hoople
-246: (  1) - Mud
-247: (  1) - New York Dolls
-248: (  1) - Nick Lowe
-249: (  1) - Nouvelle Vague, Marina Céleste
-250: (  1) - Roy Budd
-251: (  1) - Simple Minds, Kt Tunstall
-252: (  1) - Sonic Youth
-253: (  1) - Spandau Ballet
-254: (  1) - Sparks
-255: (  1) - Status Quo
-256: (  1) - Steve Harley & Cockney Rebel, Steve Harley
-257: (  1) - Suzi Quatro
-258: (  1) - Sweet
-259: (  1) - Sylvan Esso, Collections of Colonies of Bees
-260: (  1) - Tears for Fears
-261: (  1) - The Assembly
-262: (  1) - The Buggles
-263: (  1) - The Divine Comedy
-264: (  1) - The Go-go's
-265: (  1) - The Massed Carnaby Street John Cooper Clarkes
-266: (  1) - The Monochrome Set
-267: (  1) - The Motels
-268: (  1) - The Nightingales
-269: (  1) - The Pogues
-270: (  1) - The Police
-271: (  1) - The Schwa
-272: (  1) - The Temper Trap
-273: (  1) - The Temptations
-274: (  1) - The Vapors
-275: (  1) - Todd Rundgren
-276: (  1) - Trio
-277: (  1) - Turnstile
-278: (  1) - Tv21
-279: (  1) - Van Morrison
-280: (  1) - Visage
-281: (  1) - Wang Chung
-282: (  1) - When in Rome
-283: (  1) - Xtc
-284: (  1) - Yes
+200: (  3) - Tift Merritt, Sam Beam
+201: (  2) - Blue Bendy
+202: (  2) - Catherine Wheel
+203: (  2) - Emma Tricca
+204: (  2) - Fontaines D.c.
+205: (  2) - Queen
+206: (  2) - Ricky Nelson, the Stone Canyon Band
+207: (  2) - Rodney Crowell
+208: (  2) - Scritti Politti
+209: (  2) - Slade
+210: (  2) - Soft Cell
+211: (  2) - The Carpenters
+212: (  2) - The Ronettes
+213: (  2) - Waxahatchee, Mj Lenderman
+214: (  1) - Ac Acoustics
+215: (  1) - Andy Williams
+216: (  1) - Badfinger
+217: (  1) - Best Christmas Songs
+218: (  1) - Billy Idol
+219: (  1) - Blue Orchids
+220: (  1) - Bruce Springsteen
+221: (  1) - Bryan Ferry
+222: (  1) - Cara Dillon
+223: (  1) - Carole King
+224: (  1) - Charli Xcx
+225: (  1) - Culture Club
+226: (  1) - Dexys Midnight Runners
+227: (  1) - Dr Feelgood
+228: (  1) - Duran Duran
+229: (  1) - Eddie Vedder & the Million Dollar Bashers
+230: (  1) - Eric Clapton
+231: (  1) - Eurythmics, Annie Lennox, Dave Stewart
+232: (  1) - George Harrison
+233: (  1) - Girls At Our Best!
+234: (  1) - Hurrah!
+235: (  1) - James Taylor
+236: (  1) - Jane
+237: (  1) - Janis Joplin
+238: (  1) - Joe Jackson
+239: (  1) - Joni Mitchell
+240: (  1) - Jorja Smith
+241: (  1) - Level 42
+242: (  1) - Marc Bolan & T. Rex
+243: (  1) - Mariah Carey
+244: (  1) - Marine Girls
+245: (  1) - Michael Bublé
+246: (  1) - Mott the Hoople
+247: (  1) - Mud
+248: (  1) - New York Dolls
+249: (  1) - Nick Lowe
+250: (  1) - Nouvelle Vague, Marina Céleste
+251: (  1) - Roy Budd
+252: (  1) - Simple Minds, Kt Tunstall
+253: (  1) - Sonic Youth
+254: (  1) - Spandau Ballet
+255: (  1) - Sparks
+256: (  1) - Status Quo
+257: (  1) - Steve Harley & Cockney Rebel, Steve Harley
+258: (  1) - Suzi Quatro
+259: (  1) - Sweet
+260: (  1) - Sylvan Esso, Collections of Colonies of Bees
+261: (  1) - Tears for Fears
+262: (  1) - The Assembly
+263: (  1) - The Buggles
+264: (  1) - The Divine Comedy
+265: (  1) - The Go-go's
+266: (  1) - The Massed Carnaby Street John Cooper Clarkes
+267: (  1) - The Monochrome Set
+268: (  1) - The Motels
+269: (  1) - The Nightingales
+270: (  1) - The Pogues
+271: (  1) - The Police
+272: (  1) - The Schwa
+273: (  1) - The Temper Trap
+274: (  1) - The Temptations
+275: (  1) - The Vapors
+276: (  1) - Todd Rundgren
+277: (  1) - Trio
+278: (  1) - Turnstile
+279: (  1) - Tv21
+280: (  1) - Van Morrison
+281: (  1) - Visage
+282: (  1) - Wang Chung
+283: (  1) - When in Rome
+284: (  1) - Xtc
+285: (  1) - Yes
