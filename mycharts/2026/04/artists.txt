@@ -1,6 +1,6 @@
 Specified year (2026), specified month (4)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     406            34            42           304
+     407            34            42           304
  1: (51) - David Bowie
 
 
@@ -47,9 +47,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 14: (10) - Brigitte Calls Me Baby
 15: (10) - Chaparelle
 16: (10) - Paul Weller
-17: ( 9) - Simple Minds
-18: ( 9) - The Cure
-19: ( 9) - Wolf Alice
+17: (10) - Wolf Alice
+18: ( 9) - Simple Minds
+19: ( 9) - The Cure
 20: ( 8) - Edwyn Collins
 21: ( 8) - Josh Ritter
 22: ( 8) - Katherine Priddy
