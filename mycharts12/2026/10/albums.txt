@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2105            84           131           961
+    2114            85           132           966
   1: (86) - Again - The Belair Lip Bombs
 
 
@@ -86,19 +86,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  38: (17) - Crocodiles - Echo & the Bunnymen
  39: (16) * Happy Birthday - Altered Images
  40: (16) - Heaven, Or Someplace As Nice - Josh Ritter
- 41: (15) - 66 - Paul Weller
- 42: (15) * Rattlesnakes - Lloyd Cole and the Commotions
- 43: (15) * Yogi In My House - Martin Stephenson
- 44: (14) * Rabbit Songs - Hem
- 45: (13) - A Beard Of Stars - T. Rex
- 46: (13) - Favourite Songs - The Best Of - Haircut 100
- 47: (13) - Let It Bleed - The Rolling Stones
- 48: (13) * Seventeen Seconds - The Cure
- 49: (13) - Tambourine - Tift Merritt
- 50: (12) - Axis: Bold As Love - Jimi Hendrix
- 51: (12) - Moisturizer - Wet Leg
- 52: (12) - Punch The Clock - Elvis Costello & the Attractions
- 53: (12) - Strawberries - Robert Forster
+ 41: (16) - Strawberries - Robert Forster
+ 42: (15) - 66 - Paul Weller
+ 43: (15) * Rattlesnakes - Lloyd Cole and the Commotions
+ 44: (15) * Yogi In My House - Martin Stephenson
+ 45: (14) * Rabbit Songs - Hem
+ 46: (13) - A Beard Of Stars - T. Rex
+ 47: (13) - Favourite Songs - The Best Of - Haircut 100
+ 48: (13) - Let It Bleed - The Rolling Stones
+ 49: (13) * Seventeen Seconds - The Cure
+ 50: (13) - Tambourine - Tift Merritt
+ 51: (12) - Axis: Bold As Love - Jimi Hendrix
+ 52: (12) - Moisturizer - Wet Leg
+ 53: (12) - Punch The Clock - Elvis Costello & the Attractions
  54: (11) - Easter Lily Ep - U2
  55: (11) - Empires And Dance - Simple Minds
  56: (11) - Live At Layman Drug Company 2025 - Emma Swift
@@ -136,45 +136,46 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  88: ( 5) - Down And Out In Party City - Emma Swift
  89: ( 5) - Low - David Bowie
  90: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
- 91: ( 5) - You Got Here First - Emma Swift
- 92: ( 4) - 1981-2011 - B.E.F.
- 93: ( 4) - Early Gold - Simple Minds
- 94: ( 4) - Humanhood - The Weather Station
- 95: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
- 96: ( 4) - Unplugged....And Seated - Rod Stewart
- 97: ( 3) - Country Life - Roxy Music
- 98: ( 3) - Death In The Business Of Whaling - Searows
- 99: ( 3) - Everybody Scream - Florence + the Machine
-100: ( 3) - Horses - Patti Smith
-101: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-102: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-103: ( 3) * Wrecking Ball - Emmylou Harris
-104: ( 3) - You Can't Hide Your Love Forever - Orange Juice
-105: ( 2) - Dragnet - The Fall
-106: ( 2) - Gold - Greatest Hits - The Carpenters
-107: ( 2) - Golden Age - Heaven 17
-108: ( 2) - Nation Shall Speak Unto Nation - Edwyn Collins
-109: ( 2) - New Gold Dream - Simple Minds
-110: ( 2) - The Glasgow School - Orange Juice
-111: ( 2) * The Orange Juice - Orange Juice
-112: ( 1) - Acoustic - Simple Minds
-113: ( 1) - Bowie At The Beeb - David Bowie
-114: ( 1) - Drums And Wires - Xtc
-115: ( 1) - Elevation Days - Edwyn Collins
-116: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-117: ( 1) - Garbage Island - The Burning Hell
-118: ( 1) - Gotta Get Away - The Schwa
-119: ( 1) * Heroes - David Bowie
-120: ( 1) * Hope And Despair - Edwyn Collins
-121: ( 1) * Impossible Dream - Patty Griffin
-122: ( 1) * Losing Sleep - Edwyn Collins
-123: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-124: ( 1) - Never Never - The Assembly
-125: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-126: ( 1) - Private Practice - Dr Feelgood
-127: ( 1) - Slumber Party - Brigitte Calls Me Baby
-128: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-129: ( 1) - The '81 Demos - Weekend
-130: ( 1) - The Collection - Marc Bolan & T. Rex
-131: ( 1) - The Singles - Weekend
-132: ( 1) - Understanding Music - Ac Acoustics
+ 91: ( 5) - One More Thing - Lime Garden
+ 92: ( 5) - You Got Here First - Emma Swift
+ 93: ( 4) - 1981-2011 - B.E.F.
+ 94: ( 4) - Early Gold - Simple Minds
+ 95: ( 4) - Humanhood - The Weather Station
+ 96: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+ 97: ( 4) - Unplugged....And Seated - Rod Stewart
+ 98: ( 3) - Country Life - Roxy Music
+ 99: ( 3) - Death In The Business Of Whaling - Searows
+100: ( 3) - Everybody Scream - Florence + the Machine
+101: ( 3) - Horses - Patti Smith
+102: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+103: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+104: ( 3) * Wrecking Ball - Emmylou Harris
+105: ( 3) - You Can't Hide Your Love Forever - Orange Juice
+106: ( 2) - Dragnet - The Fall
+107: ( 2) - Gold - Greatest Hits - The Carpenters
+108: ( 2) - Golden Age - Heaven 17
+109: ( 2) - Nation Shall Speak Unto Nation - Edwyn Collins
+110: ( 2) - New Gold Dream - Simple Minds
+111: ( 2) - The Glasgow School - Orange Juice
+112: ( 2) * The Orange Juice - Orange Juice
+113: ( 1) - Acoustic - Simple Minds
+114: ( 1) - Bowie At The Beeb - David Bowie
+115: ( 1) - Drums And Wires - Xtc
+116: ( 1) - Elevation Days - Edwyn Collins
+117: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+118: ( 1) - Garbage Island - The Burning Hell
+119: ( 1) - Gotta Get Away - The Schwa
+120: ( 1) * Heroes - David Bowie
+121: ( 1) * Hope And Despair - Edwyn Collins
+122: ( 1) * Impossible Dream - Patty Griffin
+123: ( 1) * Losing Sleep - Edwyn Collins
+124: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+125: ( 1) - Never Never - The Assembly
+126: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+127: ( 1) - Private Practice - Dr Feelgood
+128: ( 1) - Slumber Party - Brigitte Calls Me Baby
+129: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+130: ( 1) - The '81 Demos - Weekend
+131: ( 1) - The Collection - Marc Bolan & T. Rex
+132: ( 1) - The Singles - Weekend
+133: ( 1) - Understanding Music - Ac Acoustics

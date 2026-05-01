@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2969            96           161          1244
+    2978            97           162          1249
   1: (108) - Blue Weekend - Wolf Alice
 
 
@@ -74,13 +74,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  21: ( 37) - Blonde On The Tracks - Emma Swift
+ 22: ( 36) - Strawberries - Robert Forster
+ 23: ( 35) - Eden - Everything But the Girl
+ 24: ( 34) - Days Of Ash Ep - U2
+ 25: ( 34) - Nation Shall Speak Unto Nation - Edwyn Collins
+ 26: ( 34) - Unclouded - Melody'S Echo Chamber
 
- 22: ( 35) - Eden - Everything But the Girl
- 23: ( 34) - Days Of Ash Ep - U2
- 24: ( 34) - Nation Shall Speak Unto Nation - Edwyn Collins
- 25: ( 34) - Unclouded - Melody'S Echo Chamber
-
- 26: ( 32) - Strawberries - Robert Forster
  27: ( 32) - Substance 1987 - New Order
 
 
@@ -180,48 +179,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 117: (  5) - Down And Out In Party City - Emma Swift
 118: (  5) - Elevation Days - Edwyn Collins
 119: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
-120: (  5) - You Got Here First - Emma Swift
-121: (  4) - 1981-2011 - B.E.F.
-122: (  4) - Early Gold - Simple Minds
-123: (  4) - Sermon On The Rocks - Josh Ritter
-124: (  4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-125: (  4) - The Joshua Tree - U2
-126: (  4) - Unplugged....And Seated - Rod Stewart
-127: (  3) - Country Life - Roxy Music
-128: (  3) - Death In The Business Of Whaling - Searows
-129: (  3) - Everybody Scream - Florence + the Machine
-130: (  3) - Fables Of The Reconstruction - R.E.M.
-131: (  3) - Horses - Patti Smith
-132: (  3) * Losing Sleep - Edwyn Collins
-133: (  3) - Stitch Of The World - Tift Merritt, Sam Beam
-134: (  3) - Trampoline (Expanded Edition) - The Mavericks
-135: (  3) * Wrecking Ball - Emmylou Harris
-136: (  3) - Young, Dumb & Wild - Andy Golledge
-137: (  2) - Dragnet - The Fall
-138: (  2) - Gold - Greatest Hits - The Carpenters
-139: (  2) - Golden Age - Heaven 17
-140: (  2) - Knowledge - Edwyn Collins
-141: (  2) - More - Pulp, Chilly Gonzales
-142: (  2) - New Gold Dream - Simple Minds
-143: (  2) - Rip It Up - Orange Juice
-144: (  1) -  - Orange Juice
-145: (  1) - Acoustic - Simple Minds, Kt Tunstall
-146: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-147: (  1) - Bowie At The Beeb - David Bowie
-148: (  1) - Drums And Wires - Xtc
-149: (  1) - Fade To Grey:  The Best Of Visage - Visage
-150: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-151: (  1) - Garbage Island - The Burning Hell
-152: (  1) - Gotta Get Away - The Schwa
-153: (  1) * Heroes - David Bowie
-154: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-155: (  1) - Never Never - The Assembly
-156: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-157: (  1) - Private Practice - Dr Feelgood
-158: (  1) - Slumber Party - Brigitte Calls Me Baby
-159: (  1) - Streets Of Minneapolis - Bruce Springsteen
-160: (  1) - The '81 Demos - Weekend
-161: (  1) - The Collection - Marc Bolan & T. Rex
-162: (  1) - The Lexicon Of Love - ABC
-163: (  1) - The Singles - Weekend
-164: (  1) - Understanding Music - Ac Acoustics
+120: (  5) - One More Thing - Lime Garden
+121: (  5) - You Got Here First - Emma Swift
+122: (  4) - 1981-2011 - B.E.F.
+123: (  4) - Early Gold - Simple Minds
+124: (  4) - Sermon On The Rocks - Josh Ritter
+125: (  4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+126: (  4) - The Joshua Tree - U2
+127: (  4) - Unplugged....And Seated - Rod Stewart
+128: (  3) - Country Life - Roxy Music
+129: (  3) - Death In The Business Of Whaling - Searows
+130: (  3) - Everybody Scream - Florence + the Machine
+131: (  3) - Fables Of The Reconstruction - R.E.M.
+132: (  3) - Horses - Patti Smith
+133: (  3) * Losing Sleep - Edwyn Collins
+134: (  3) - Stitch Of The World - Tift Merritt, Sam Beam
+135: (  3) - Trampoline (Expanded Edition) - The Mavericks
+136: (  3) * Wrecking Ball - Emmylou Harris
+137: (  3) - Young, Dumb & Wild - Andy Golledge
+138: (  2) - Dragnet - The Fall
+139: (  2) - Gold - Greatest Hits - The Carpenters
+140: (  2) - Golden Age - Heaven 17
+141: (  2) - Knowledge - Edwyn Collins
+142: (  2) - More - Pulp, Chilly Gonzales
+143: (  2) - New Gold Dream - Simple Minds
+144: (  2) - Rip It Up - Orange Juice
+145: (  1) -  - Orange Juice
+146: (  1) - Acoustic - Simple Minds, Kt Tunstall
+147: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+148: (  1) - Bowie At The Beeb - David Bowie
+149: (  1) - Drums And Wires - Xtc
+150: (  1) - Fade To Grey:  The Best Of Visage - Visage
+151: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+152: (  1) - Garbage Island - The Burning Hell
+153: (  1) - Gotta Get Away - The Schwa
+154: (  1) * Heroes - David Bowie
+155: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+156: (  1) - Never Never - The Assembly
+157: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+158: (  1) - Private Practice - Dr Feelgood
+159: (  1) - Slumber Party - Brigitte Calls Me Baby
+160: (  1) - Streets Of Minneapolis - Bruce Springsteen
+161: (  1) - The '81 Demos - Weekend
+162: (  1) - The Collection - Marc Bolan & T. Rex
+163: (  1) - The Lexicon Of Love - ABC
+164: (  1) - The Singles - Weekend
+165: (  1) - Understanding Music - Ac Acoustics
