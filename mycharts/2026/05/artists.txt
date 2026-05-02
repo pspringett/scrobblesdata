@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      38             6             7            38
+      44             6             7            44
 1: (18) - Lime Garden
 
 
@@ -12,12 +12,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 2: (10) - Whitelands
 
 
+3: ( 7) - Simple Minds
 
 
+4: ( 4) - David Bowie
+5: ( 4) - Robert Forster
 
-3: ( 4) - David Bowie
-4: ( 4) - Robert Forster
 
-
-5: ( 1) - Martin Stephenson
-6: ( 1) - Simple Minds
+6: ( 1) - Martin Stephenson
