@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1486            62            84           658
+    1495            62            84           660
  1: (122) - Creedence Clearwater Revival
 
 
@@ -62,10 +62,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  9: ( 62) - Heavenly
+10: ( 62) - Katherine Priddy
 
-10: ( 60) - David Bowie
+11: ( 60) - David Bowie
 
-11: ( 58) - Katherine Priddy
+
 
 
 
@@ -102,13 +103,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 20: ( 26) - Josh Ritter
 
 
+21: ( 23) - Lime Garden
 
-
-21: ( 21) - Robert Forster
-22: ( 20) - Elvis Costello
-23: ( 20) - Simple Minds
-24: ( 19) - Paul Weller
-25: ( 18) - Lime Garden
+22: ( 21) - Robert Forster
+23: ( 20) - Elvis Costello
+24: ( 20) - Simple Minds
+25: ( 19) - Paul Weller
 26: ( 18) - Po' Girl
 27: ( 18) - Prefab Sprout
 
