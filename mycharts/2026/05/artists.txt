@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      84            11            12            79
+      88            11            12            83
  1: (23) - Lime Garden
 
 
@@ -15,12 +15,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  2: (10) - Whitelands
- 3: ( 9) - David Bowie
+ 3: ( 9) - Angie Palmer
+ 4: ( 9) - David Bowie
 
- 4: ( 7) - Robert Forster
- 5: ( 7) - Simple Minds
- 6: ( 6) - Wolf Alice
- 7: ( 5) - Angie Palmer
+ 5: ( 7) - Robert Forster
+ 6: ( 7) - Simple Minds
+ 7: ( 6) - Wolf Alice
  8: ( 5) - Josh Ritter
  9: ( 5) - Katherine Priddy
 10: ( 5) - Vegas Water Taxi
