@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      94            11            12            84
+      92            10            11            83
  1: (28) - Lime Garden
 
 
@@ -29,6 +29,3 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: ( 5) - Josh Ritter
  9: ( 5) - Katherine Priddy
 10: ( 5) - Vegas Water Taxi
-
-
-11: ( 2) - Martin Stephenson
