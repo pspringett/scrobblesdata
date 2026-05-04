@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     100            11            12            91
+     103            12            13            94
  1: (28) - Lime Garden
 
 
@@ -30,3 +30,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: ( 5) - Katherine Priddy
 10: ( 5) - The Belair Lip Bombs
 11: ( 5) - Vegas Water Taxi
+
+12: ( 3) - Creedence Clearwater Revival
