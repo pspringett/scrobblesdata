@@ -44,8 +44,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  11: (56) - Crocodiles - Echo & the Bunnymen
  12: (55) * Heaven Up Here - Echo & the Bunnymen
  13: (54) - Covered Up With Flowers - Lissie
- 14: (53) * Happy Birthday - Altered Images
- 15: (53) - Ignorance - The Weather Station
+ 14: (54) - Ignorance - The Weather Station
+ 15: (53) * Happy Birthday - Altered Images
  16: (53) - Mccartney - Paul McCartney
 
 
@@ -341,52 +341,51 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 298: ( 1) - Scott 4 - Scott Walker
 299: ( 1) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
 300: ( 1) * Seven Dials - Roddy Frame
-301: ( 1) - Shore - The Weather Station
-302: ( 1) - Silver Ladders - Loma
-303: ( 1) - Silver Ladders - Mary Lattimore
-304: ( 1) - Sleep It Off - Cristina
-305: ( 1) - Snap, Crackle & Bop - John Cooper Clarke
-306: ( 1) - So (Special Edition) - Peter Gabriel
-307: ( 1) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
-308: ( 1) - Song To A Refugee - Diana Jones
-309: ( 1) - Song To A Refugee - Loma
-310: ( 1) - Songs - Adrianne Lenker
-311: ( 1) - Songs To Learn And Sing - Echo & the Bunnymen
-312: ( 1) * Songs To Remember - Scritti Politti
-313: ( 1) - Soul Dance! - Loma
-314: ( 1) - Space Oddity (2019 Mix) - David Bowie
-315: ( 1) * Station To Station - David Bowie
-316: ( 1) - Stealers Wheel - Stealers Wheel
-317: ( 1) - Summerlong - Rose City Band
-318: ( 1) - Sundowner - Kevin Morby
-319: ( 1) - Suzanne Vega - Suzanne Vega
-320: ( 1) - T. Rex - T. Rex
-321: ( 1) - Tempest - Bob Dylan
-322: ( 1) - Tenement Symphony - Marc Almond
-323: ( 1) - The Ascension - Loma
-324: ( 1) - The Ascension - Sufjan Stevens
-325: ( 1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
-326: ( 1) * The Collection - Altered Images
-327: ( 1) - The Lexicon Of Love - ABC
-328: ( 1) - The Pink Opaque - Cocteau Twins
-329: ( 1) - The Real Ramona - Throwing Muses
-330: ( 1) - The Singles 86-98 - Depeche Mode
-331: ( 1) - The Stars We Are - Marc Almond
-332: ( 1) - The Stooges - The Stooges
-333: ( 1) - The View From Halfway Down - Andy Bell
-334: ( 1) - The View From Halfway Down - Loma
-335: ( 1) - Tim (Expanded) - The Replacements
-336: ( 1) - Tin Drum - Japan
-337: ( 1) - Too Low For Zero - Elton John
-338: ( 1) - Totale's Turns (It's Now Or Never) - The Fall
-339: ( 1) - Traditional Techniques - Stephen Malkmus
-340: ( 1) - Transitions 1: Spaceship Bop (1955-57) - Loma
-341: ( 1) - Trouble - Loma
-342: ( 1) - Tubular Bells - Mike Oldfield
-343: ( 1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
-344: ( 1) - Victorialand - Cocteau Twins
-345: ( 1) - Walking On A String - Loma
-346: ( 1) - Wanderer - Cara Dillon
-347: ( 1) - Whatever It Is - Hello Forever
-348: ( 1) - Whatever It Is - Loma
-349: ( 1) - Where The Action Is (Deluxe) - The Waterboys
+301: ( 1) - Silver Ladders - Loma
+302: ( 1) - Silver Ladders - Mary Lattimore
+303: ( 1) - Sleep It Off - Cristina
+304: ( 1) - Snap, Crackle & Bop - John Cooper Clarke
+305: ( 1) - So (Special Edition) - Peter Gabriel
+306: ( 1) - Song Machine, Season One: Strange Timez (Deluxe) - Loma
+307: ( 1) - Song To A Refugee - Diana Jones
+308: ( 1) - Song To A Refugee - Loma
+309: ( 1) - Songs - Adrianne Lenker
+310: ( 1) - Songs To Learn And Sing - Echo & the Bunnymen
+311: ( 1) * Songs To Remember - Scritti Politti
+312: ( 1) - Soul Dance! - Loma
+313: ( 1) - Space Oddity (2019 Mix) - David Bowie
+314: ( 1) * Station To Station - David Bowie
+315: ( 1) - Stealers Wheel - Stealers Wheel
+316: ( 1) - Summerlong - Rose City Band
+317: ( 1) - Sundowner - Kevin Morby
+318: ( 1) - Suzanne Vega - Suzanne Vega
+319: ( 1) - T. Rex - T. Rex
+320: ( 1) - Tempest - Bob Dylan
+321: ( 1) - Tenement Symphony - Marc Almond
+322: ( 1) - The Ascension - Loma
+323: ( 1) - The Ascension - Sufjan Stevens
+324: ( 1) - The Best Years Of Our Lives (Deluxe Version) - Steve Harley
+325: ( 1) * The Collection - Altered Images
+326: ( 1) - The Lexicon Of Love - ABC
+327: ( 1) - The Pink Opaque - Cocteau Twins
+328: ( 1) - The Real Ramona - Throwing Muses
+329: ( 1) - The Singles 86-98 - Depeche Mode
+330: ( 1) - The Stars We Are - Marc Almond
+331: ( 1) - The Stooges - The Stooges
+332: ( 1) - The View From Halfway Down - Andy Bell
+333: ( 1) - The View From Halfway Down - Loma
+334: ( 1) - Tim (Expanded) - The Replacements
+335: ( 1) - Tin Drum - Japan
+336: ( 1) - Too Low For Zero - Elton John
+337: ( 1) - Totale's Turns (It's Now Or Never) - The Fall
+338: ( 1) - Traditional Techniques - Stephen Malkmus
+339: ( 1) - Transitions 1: Spaceship Bop (1955-57) - Loma
+340: ( 1) - Trouble - Loma
+341: ( 1) - Tubular Bells - Mike Oldfield
+342: ( 1) - Tubular Bells Itunes Exclusive Box Set - Mike Oldfield
+343: ( 1) - Victorialand - Cocteau Twins
+344: ( 1) - Walking On A String - Loma
+345: ( 1) - Wanderer - Cara Dillon
+346: ( 1) - Whatever It Is - Hello Forever
+347: ( 1) - Whatever It Is - Loma
+348: ( 1) - Where The Action Is (Deluxe) - The Waterboys
