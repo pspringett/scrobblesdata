@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      79            11            12            74
+      84            11            12            79
  1: (13) - Maybe Not Tonight - Lime Garden
 
 
@@ -10,12 +10,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  5: ( 7) - Empires And Dance - Simple Minds
  6: ( 7) - Strawberries - Robert Forster
+ 7: ( 6) - The Clearing - Wolf Alice
+ 8: ( 5) - I Believe In You, My Honeydew - Josh Ritter
+ 9: ( 5) - Long Time Caller, First Time Listener - Vegas Water Taxi
+10: ( 5) * Tales Of Light And Darkness - Angie Palmer
+11: ( 5) - These Frightening Machines - Katherine Priddy
 
- 7: ( 5) - I Believe In You, My Honeydew - Josh Ritter
- 8: ( 5) - Long Time Caller, First Time Listener - Vegas Water Taxi
- 9: ( 5) * Tales Of Light And Darkness - Angie Palmer
-10: ( 5) - These Frightening Machines - Katherine Priddy
 
-
-11: ( 2) - Lilac Tree - Martin Stephenson
-12: ( 1) - The Clearing - Wolf Alice
+12: ( 2) - Lilac Tree - Martin Stephenson

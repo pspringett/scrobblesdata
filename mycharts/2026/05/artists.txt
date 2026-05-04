@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      79            11            12            74
+      84            11            12            79
  1: (23) - Lime Garden
 
 
@@ -19,12 +19,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  4: ( 7) - Robert Forster
  5: ( 7) - Simple Minds
+ 6: ( 6) - Wolf Alice
+ 7: ( 5) - Angie Palmer
+ 8: ( 5) - Josh Ritter
+ 9: ( 5) - Katherine Priddy
+10: ( 5) - Vegas Water Taxi
 
- 6: ( 5) - Angie Palmer
- 7: ( 5) - Josh Ritter
- 8: ( 5) - Katherine Priddy
- 9: ( 5) - Vegas Water Taxi
 
-
-10: ( 2) - Martin Stephenson
-11: ( 1) - Wolf Alice
+11: ( 2) - Martin Stephenson
