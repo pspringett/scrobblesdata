@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2225            87           134          1001
+    2224            87           134          1001
  1: (126) - Wolf Alice
  2: (125) - Creedence Clearwater Revival
 
@@ -97,9 +97,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 21: ( 34) - Hem
 22: ( 34) - Melody'S Echo Chamber
+23: ( 33) - Lime Garden
+24: ( 32) - New Order
 
-23: ( 32) - New Order
-24: ( 31) - Lime Garden
 
 25: ( 29) - Robert Forster
 26: ( 28) - Echo & the Bunnymen
@@ -111,14 +111,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 31: ( 24) - Paul Weller
 32: ( 23) - Everything But the Girl
 
-
-33: ( 20) - Elvis Costello
-34: ( 20) - Sharon Van Etten
-35: ( 19) - Edwyn Collins
-36: ( 19) - Orange Juice
-37: ( 19) - Suzanne Vega
-38: ( 19) - The Burning Hell
-39: ( 18) - Po' Girl
+33: ( 21) - Po' Girl
+34: ( 20) - Elvis Costello
+35: ( 20) - Sharon Van Etten
+36: ( 19) - Edwyn Collins
+37: ( 19) - Orange Juice
+38: ( 19) - Suzanne Vega
+39: ( 19) - The Burning Hell
 40: ( 18) - Prefab Sprout
 
 41: ( 16) - Altered Images
@@ -127,25 +126,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 44: ( 13) - Emmylou Harris
 45: ( 13) - Haircut 100
-46: ( 13) - Nell Davies
-47: ( 13) - T. Rex
-48: ( 13) - The Cure
-49: ( 13) - The Rolling Stones
-50: ( 12) - Elvis Costello & the Attractions
-51: ( 12) - Jimi Hendrix
-52: ( 12) - Wet Leg
-53: ( 11) - Brigitte Calls Me Baby
-54: ( 11) - Lloyd Cole
-55: ( 11) - Roxy Music
-56: ( 10) - Bob Dylan
-57: ( 10) - Heaven 17
-58: ( 10) - It'S Immaterial
-59: ( 10) - John Cooper Clarke
-60: ( 10) - Mercy Girl
-61: ( 10) - The Sundays
-62: (  9) - Eliza Gilkyson
+46: ( 13) - T. Rex
+47: ( 13) - The Cure
+48: ( 13) - The Rolling Stones
+49: ( 12) - Elvis Costello & the Attractions
+50: ( 12) - Jimi Hendrix
+51: ( 12) - Wet Leg
+52: ( 11) - Brigitte Calls Me Baby
+53: ( 11) - Lloyd Cole
+54: ( 11) - Roxy Music
+55: ( 10) - Bob Dylan
+56: ( 10) - Heaven 17
+57: ( 10) - It'S Immaterial
+58: ( 10) - John Cooper Clarke
+59: ( 10) - Mercy Girl
+60: ( 10) - The Sundays
+61: (  9) - Eliza Gilkyson
 
-63: (  7) - Leonard Cohen
+62: (  7) - Leonard Cohen
+63: (  7) - Nell Davies
 64: (  6) - Aztec Camera
 65: (  6) - Cowboy Junkies
 66: (  5) - The Zombies

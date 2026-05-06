@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3089            99           164          1284
+    3088            99           164          1284
  1: (175) - Emma Swift
  2: (175) - Wolf Alice
 
@@ -150,9 +150,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 29: ( 35) - Everything But the Girl
 30: ( 34) - Hem
 31: ( 34) - Melody'S Echo Chamber
+32: ( 33) - Lime Garden
+33: ( 32) - New Order
 
-32: ( 32) - New Order
-33: ( 31) - Lime Garden
 
 34: ( 29) - T. Rex
 35: ( 28) - Echo & the Bunnymen
@@ -166,13 +166,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 42: ( 24) - Paul Weller
 
 
-
-43: ( 20) - Elvis Costello
-44: ( 20) - Pulp
-45: ( 20) - Sharon Van Etten
-46: ( 19) - Aztec Camera
-47: ( 19) - Patty Griffin
-48: ( 18) - Po' Girl
+43: ( 21) - Po' Girl
+44: ( 20) - Elvis Costello
+45: ( 20) - Pulp
+46: ( 20) - Sharon Van Etten
+47: ( 19) - Aztec Camera
+48: ( 19) - Patty Griffin
 49: ( 18) - Prefab Sprout
 
 
@@ -181,24 +180,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 52: ( 13) - Emmylou Harris
 53: ( 13) - Haircut 100
-54: ( 13) - Nell Davies
-55: ( 13) - The Cure
-56: ( 13) - The Rolling Stones
-57: ( 12) - Elvis Costello & the Attractions
-58: ( 12) - Jimi Hendrix
-59: ( 11) - Brigitte Calls Me Baby
-60: ( 11) - Horsegirl
-61: ( 11) - Lloyd Cole
-62: ( 11) - The Velvet Underground
-63: ( 10) - Heaven 17
-64: ( 10) - It'S Immaterial
-65: ( 10) - John Cooper Clarke
-66: ( 10) - Mercy Girl
-67: ( 10) - The Sundays
-68: (  9) - Eliza Gilkyson
+54: ( 13) - The Cure
+55: ( 13) - The Rolling Stones
+56: ( 12) - Elvis Costello & the Attractions
+57: ( 12) - Jimi Hendrix
+58: ( 11) - Brigitte Calls Me Baby
+59: ( 11) - Horsegirl
+60: ( 11) - Lloyd Cole
+61: ( 11) - The Velvet Underground
+62: ( 10) - Heaven 17
+63: ( 10) - It'S Immaterial
+64: ( 10) - John Cooper Clarke
+65: ( 10) - Mercy Girl
+66: ( 10) - The Sundays
+67: (  9) - Eliza Gilkyson
 
-69: (  7) - JT Nero
-70: (  7) - Leonard Cohen
+68: (  7) - JT Nero
+69: (  7) - Leonard Cohen
+70: (  7) - Nell Davies
 71: (  6) - Cowboy Junkies
 72: (  6) - Lauren Mayberry
 73: (  5) - The Zombies
