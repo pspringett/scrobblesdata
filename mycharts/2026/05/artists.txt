@@ -1,6 +1,6 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     170            18            20           137
+     172            18            20           139
  1: (33) - Lime Garden
 
 
@@ -25,9 +25,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  4: (12) - David Bowie
  5: (12) - Nell Davies
-
- 6: (10) - Whitelands
- 7: ( 9) - Anne Mccue
+ 6: (11) - Anne Mccue
+ 7: (10) - Whitelands
  8: ( 9) - T. Rex
 
  9: ( 7) - Robert Forster
