@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3897           177           255          1628
+    3897           177           254          1628
   1: (122) - Patterns In Repeat - Laura Marling
 
 
@@ -232,13 +232,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 162: (  3) - Spectral Lines - Josh Ritter
 163: (  3) - The '81 Demos - Weekend
 164: (  3) - The Basement Tapes - Bob Dylan and the Band
-165: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-166: (  2) * Fate's Right Hand - Rodney Crowell
-167: (  2) - Ferment - Catherine Wheel
-168: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-169: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-170: (  2) - Music From Big Pink - The Band
-171: (  2) - No Happy Endings - Emma Swift
+165: (  3) - The Resurrection Game - Emma Swift
+166: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+167: (  2) * Fate's Right Hand - Rodney Crowell
+168: (  2) - Ferment - Catherine Wheel
+169: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+170: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+171: (  2) - Music From Big Pink - The Band
 172: (  2) - Romance - Fontaines D.c.
 173: (  2) - Singles 1965-1967 - The Rolling Stones
 174: (  2) * Songs Of Leonard Cohen - Leonard Cohen
@@ -312,47 +312,46 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 242: (  1) - No Dice (Remastered 2010 / Deluxe Edition) - Badfinger
 243: (  1) - Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008) - Soft Cell
 244: (  1) - Northern Lights – Southern Cross - The Band
-245: (  1) - Nothing And Forever - Emma Swift
-246: (  1) * Ocean Rain - Echo & the Bunnymen
-247: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
-248: (  1) - Once Upon A Time - Simple Minds
-249: (  1) - Pearl - Janis Joplin
-250: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
-251: (  1) - Rio (Collector's Edition) - Duran Duran
-252: (  1) - Road Trip Sing-Along Songs - Blondie
-253: (  1) - Runt - Todd Rundgren
-254: (  1) - Scared To Get Happy - Blue Orchids
-255: (  1) - Scared To Get Happy - Everything But the Girl
-256: (  1) - Scared To Get Happy - Girls At Our Best!
-257: (  1) - Scared To Get Happy - Hurrah!
-258: (  1) - Scared To Get Happy - Jane
-259: (  1) - Scared To Get Happy - Marine Girls
-260: (  1) - Scared To Get Happy - The Monochrome Set
-261: (  1) - Scared To Get Happy - The Nightingales
-262: (  1) - Scared To Get Happy - Tv21
-263: (  1) - Scared To Get Happy - Weekend
-264: (  1) - Scary Monsters (And Super Creeps) - David Bowie
-265: (  1) - Silence - Vild I Skogen - Bob Hund
-266: (  1) - Sky's The Limit - The Temptations
-267: (  1) - Sladest (Expanded) - Slade
-268: (  1) - Speaking In Tongues - Talking Heads
-269: (  1) - Stay Another Day - Jorja Smith
-270: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
-271: (  1) - Stop Making Sense - Tom Tom Club
-272: (  1) - Stumfilm - Bob Hund
-273: (  1) - Substance 1987 - Joy Division
-274: (  1) - Suzi Quatro - Suzi Quatro
-275: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
-276: (  1) - Tapestry - Carole King
-277: (  1) - The Andy Williams Christmas Album - Andy Williams
-278: (  1) - The Complete Pye Collection - Status Quo
-279: (  1) - The Hurting - Tears for Fears
-280: (  1) * The Man Who Sold The World - David Bowie
-281: (  1) - The Platinum Collection (2011 Remaster) - Queen
-282: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
-283: (  1) - The Very Best Of Mud - Mud
-284: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
-285: (  1) - This Is The Moody Blues - The Moody Blues
-286: (  1) - Throwback Tunes: Classic Rock - Sweet
-287: (  1) - True - Spandau Ballet
-288: (  1) - Weihnachten Workout - The Ronettes
+245: (  1) * Ocean Rain - Echo & the Bunnymen
+246: (  1) - Omslag: Martin Kann (Vinylljud 2019) - Bob Hund
+247: (  1) - Once Upon A Time - Simple Minds
+248: (  1) - Pearl - Janis Joplin
+249: (  1) - Retrospective: Selected Recordings 1973-2023 - Bryan Ferry
+250: (  1) - Rio (Collector's Edition) - Duran Duran
+251: (  1) - Road Trip Sing-Along Songs - Blondie
+252: (  1) - Runt - Todd Rundgren
+253: (  1) - Scared To Get Happy - Blue Orchids
+254: (  1) - Scared To Get Happy - Everything But the Girl
+255: (  1) - Scared To Get Happy - Girls At Our Best!
+256: (  1) - Scared To Get Happy - Hurrah!
+257: (  1) - Scared To Get Happy - Jane
+258: (  1) - Scared To Get Happy - Marine Girls
+259: (  1) - Scared To Get Happy - The Monochrome Set
+260: (  1) - Scared To Get Happy - The Nightingales
+261: (  1) - Scared To Get Happy - Tv21
+262: (  1) - Scared To Get Happy - Weekend
+263: (  1) - Scary Monsters (And Super Creeps) - David Bowie
+264: (  1) - Silence - Vild I Skogen - Bob Hund
+265: (  1) - Sky's The Limit - The Temptations
+266: (  1) - Sladest (Expanded) - Slade
+267: (  1) - Speaking In Tongues - Talking Heads
+268: (  1) - Stay Another Day - Jorja Smith
+269: (  1) - StenåLdern Kan BöRja (Vinylljud 2019) - Bob Hund
+270: (  1) - Stop Making Sense - Tom Tom Club
+271: (  1) - Stumfilm - Bob Hund
+272: (  1) - Substance 1987 - Joy Division
+273: (  1) - Suzi Quatro - Suzi Quatro
+274: (  1) - Sweet Dreams ((Are Made Of This) [2018 Remastered]) - Eurythmics, Annie Lennox, Dave Stewart
+275: (  1) - Tapestry - Carole King
+276: (  1) - The Andy Williams Christmas Album - Andy Williams
+277: (  1) - The Complete Pye Collection - Status Quo
+278: (  1) - The Hurting - Tears for Fears
+279: (  1) * The Man Who Sold The World - David Bowie
+280: (  1) - The Platinum Collection (2011 Remaster) - Queen
+281: (  1) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+282: (  1) - The Very Best Of Mud - Mud
+283: (  1) - The Warp Of Pure Fun (Re-Mastered) - Paul Haig
+284: (  1) - This Is The Moody Blues - The Moody Blues
+285: (  1) - Throwback Tunes: Classic Rock - Sweet
+286: (  1) - True - Spandau Ballet
+287: (  1) - Weihnachten Workout - The Ronettes
