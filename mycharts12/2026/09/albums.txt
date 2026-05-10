@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2524            87           142          1062
+    2536            88           143          1067
   1: (95) - I Believe In You, My Honeydew - Josh Ritter
 
 
@@ -68,23 +68,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  20: (34) - Blonde On The Tracks - Emma Swift
  21: (34) - Days Of Ash Ep - U2
  22: (34) - Unclouded - Melody'S Echo Chamber
-
- 23: (32) - Substance 1987 - New Order
- 24: (31) - David Bowie (aka Space Oddity) - David Bowie
- 25: (31) - Lilac Tree - Martin Stephenson
+ 23: (33) - Lilac Tree - Martin Stephenson
+ 24: (32) - Substance 1987 - New Order
+ 25: (31) - David Bowie (aka Space Oddity) - David Bowie
  26: (30) - Strawberries - Robert Forster
 
 
- 27: (27) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
- 28: (26) - Empires And Dance - Simple Minds
- 29: (26) - The Prince Of Wales - Devine & Statton
+ 27: (27) - Maybe Not Tonight - Lime Garden
+ 28: (27) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+ 29: (26) - Empires And Dance - Simple Minds
+ 30: (26) - The Prince Of Wales - Devine & Statton
 
- 30: (24) - High Bells Ring Thin - Martin Stephenson
- 31: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 32: (24) - Moisturizer - Wet Leg
- 33: (24) - Po' Girl - Po' Girl
- 34: (23) - Eden - Everything But the Girl
- 35: (23) - Maybe Not Tonight - Lime Garden
+ 31: (24) - High Bells Ring Thin - Martin Stephenson
+ 32: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
+ 33: (24) - Moisturizer - Wet Leg
+ 34: (24) - Po' Girl - Po' Girl
+ 35: (23) - Eden - Everything But the Girl
  36: (22) - A Beard Of Stars - T. Rex
 
  37: (20) * Eveningland - Hem
@@ -144,53 +143,54 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  91: ( 7) - The Glasgow School - Orange Juice
  92: ( 7) - Time And Patience - Tift Merritt
  93: ( 7) - You Can't Hide Your Love Forever - Orange Juice
- 94: ( 6) - Grotesque (After The Gramme) - The Fall
- 95: ( 6) - Hex Enduction Hour - The Fall
- 96: ( 6) * Knife - Aztec Camera
- 97: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
- 98: ( 6) * The Trinity Session - Cowboy Junkies
- 99: ( 6) - Waves - Newdad
-100: ( 5) - Ghost - Mercy Girl
-101: ( 5) - Low - David Bowie
-102: ( 5) - Mercy Girl Singles - Mercy Girl
-103: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-104: ( 4) - 1981-2011 - B.E.F.
-105: ( 4) - Early Gold - Simple Minds
-106: ( 4) - Humanhood - The Weather Station
-107: ( 4) - Sermon On The Rocks - Josh Ritter
-108: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-109: ( 4) - Unplugged....And Seated - Rod Stewart
-110: ( 3) - Country Life - Roxy Music
-111: ( 3) - Death In The Business Of Whaling - Searows
-112: ( 3) - Everybody Scream - Florence + the Machine
-113: ( 3) * Hope And Despair - Edwyn Collins
-114: ( 3) - Horses - Patti Smith
-115: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-116: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-117: ( 3) * Wrecking Ball - Emmylou Harris
-118: ( 2) - Dragnet - The Fall
-119: ( 2) - Elevation Days - Edwyn Collins
-120: ( 2) - Gold - Greatest Hits - The Carpenters
-121: ( 2) - Golden Age - Heaven 17
-122: ( 2) - Home Again - Edwyn Collins
-123: ( 2) * Impossible Dream - Patty Griffin
-124: ( 2) * Losing Sleep - Edwyn Collins
-125: ( 2) - New Gold Dream - Simple Minds
-126: ( 1) - Acoustic - Simple Minds
-127: ( 1) - Bowie At The Beeb - David Bowie
-128: ( 1) - Drums And Wires - Xtc
-129: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-130: ( 1) - Garbage Island - The Burning Hell
-131: ( 1) - Gotta Get Away - The Schwa
-132: ( 1) * Heroes - David Bowie
-133: ( 1) - Knowledge - Edwyn Collins
-134: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-135: ( 1) - Never Never - The Assembly
-136: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-137: ( 1) - Private Practice - Dr Feelgood
-138: ( 1) - Slumber Party - Brigitte Calls Me Baby
-139: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-140: ( 1) - The '81 Demos - Weekend
-141: ( 1) - The Collection - Marc Bolan & T. Rex
-142: ( 1) - The Singles - Weekend
-143: ( 1) - Understanding Music - Ac Acoustics
+ 94: ( 6) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
+ 95: ( 6) - Grotesque (After The Gramme) - The Fall
+ 96: ( 6) - Hex Enduction Hour - The Fall
+ 97: ( 6) * Knife - Aztec Camera
+ 98: ( 6) - Scary Monsters (And Super Creeps) - David Bowie
+ 99: ( 6) * The Trinity Session - Cowboy Junkies
+100: ( 6) - Waves - Newdad
+101: ( 5) - Ghost - Mercy Girl
+102: ( 5) - Low - David Bowie
+103: ( 5) - Mercy Girl Singles - Mercy Girl
+104: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+105: ( 4) - 1981-2011 - B.E.F.
+106: ( 4) - Early Gold - Simple Minds
+107: ( 4) - Humanhood - The Weather Station
+108: ( 4) - Sermon On The Rocks - Josh Ritter
+109: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+110: ( 4) - Unplugged....And Seated - Rod Stewart
+111: ( 3) - Country Life - Roxy Music
+112: ( 3) - Death In The Business Of Whaling - Searows
+113: ( 3) - Everybody Scream - Florence + the Machine
+114: ( 3) * Hope And Despair - Edwyn Collins
+115: ( 3) - Horses - Patti Smith
+116: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+117: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+118: ( 3) * Wrecking Ball - Emmylou Harris
+119: ( 2) - Dragnet - The Fall
+120: ( 2) - Elevation Days - Edwyn Collins
+121: ( 2) - Gold - Greatest Hits - The Carpenters
+122: ( 2) - Golden Age - Heaven 17
+123: ( 2) - Home Again - Edwyn Collins
+124: ( 2) * Impossible Dream - Patty Griffin
+125: ( 2) * Losing Sleep - Edwyn Collins
+126: ( 2) - New Gold Dream - Simple Minds
+127: ( 1) - Acoustic - Simple Minds
+128: ( 1) - Bowie At The Beeb - David Bowie
+129: ( 1) - Drums And Wires - Xtc
+130: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+131: ( 1) - Garbage Island - The Burning Hell
+132: ( 1) - Gotta Get Away - The Schwa
+133: ( 1) * Heroes - David Bowie
+134: ( 1) - Knowledge - Edwyn Collins
+135: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+136: ( 1) - Never Never - The Assembly
+137: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+138: ( 1) - Private Practice - Dr Feelgood
+139: ( 1) - Slumber Party - Brigitte Calls Me Baby
+140: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+141: ( 1) - The '81 Demos - Weekend
+142: ( 1) - The Collection - Marc Bolan & T. Rex
+143: ( 1) - The Singles - Weekend
+144: ( 1) - Understanding Music - Ac Acoustics
