@@ -1,7 +1,15 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3437           119           174          1365
-  1: (188) - Emma Swift
+    3530           119           177          1411
+  1: (196) - Emma Swift
+
+
+
+
+
+
+
+
 
 
 
@@ -43,6 +51,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: (146) - Simple Minds
 
 
 
@@ -60,12 +69,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  4: (128) - Josh Ritter
 
-  3: (128) - Josh Ritter
-
-  4: (126) - Suzanne Vega
-  5: (125) - Creedence Clearwater Revival
-
+  5: (126) - Suzanne Vega
+  6: (125) - Creedence Clearwater Revival
 
 
 
@@ -73,7 +80,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  6: (116) - Simple Minds
+
+
 
 
 
@@ -96,13 +104,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  9: ( 93) - Martin Stephenson and the Daintees
+  9: ( 93) - Bob Dylan
+ 10: ( 93) - Martin Stephenson and the Daintees
 
- 10: ( 91) - The Belair Lip Bombs
- 11: ( 90) - David Bowie
-
-
-
+ 11: ( 91) - The Belair Lip Bombs
+ 12: ( 90) - David Bowie
 
 
 
@@ -111,36 +117,39 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 12: ( 78) - Newdad
- 13: ( 77) - Chaparelle
-
- 14: ( 75) - Vegas Water Taxi
-
-
- 15: ( 72) - Martin Stephenson
- 16: ( 72) - Robert Forster
- 17: ( 71) - Lucinda Williams
- 18: ( 70) - Whitelands
- 19: ( 69) - Roxy Music
 
 
 
+ 13: ( 78) - Newdad
+ 14: ( 77) - Chaparelle
 
- 20: ( 64) - Katherine Priddy
- 21: ( 64) - Orange Juice
- 22: ( 64) - The Go-Betweens
- 23: ( 63) - Pulp
- 24: ( 62) - Heavenly
- 25: ( 61) - Wet Leg
+ 15: ( 75) - Vegas Water Taxi
 
 
-
- 26: ( 57) - Hem
+ 16: ( 72) - Martin Stephenson
+ 17: ( 72) - Robert Forster
+ 18: ( 71) - Lucinda Williams
+ 19: ( 70) - Whitelands
+ 20: ( 69) - Roxy Music
 
 
 
 
- 27: ( 52) - Bob Dylan
+ 21: ( 64) - Katherine Priddy
+ 22: ( 64) - Orange Juice
+ 23: ( 64) - The Go-Betweens
+ 24: ( 63) - Pulp
+ 25: ( 62) - Heavenly
+ 26: ( 61) - Wet Leg
+
+
+
+ 27: ( 57) - Hem
+
+
+
+
+
 
 
  28: ( 49) - U2
@@ -178,37 +187,36 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  45: ( 24) - Po' Girl
 
 
+ 46: ( 21) - Leonard Cohen
+ 47: ( 20) - Elvis Costello
+ 48: ( 19) - Aztec Camera
+ 49: ( 19) - Patty Griffin
+ 50: ( 18) - Prefab Sprout
 
- 46: ( 20) - Elvis Costello
- 47: ( 19) - Aztec Camera
- 48: ( 19) - Patty Griffin
- 49: ( 18) - Prefab Sprout
+ 51: ( 16) - Nell Davies
+ 52: ( 15) - Angie Palmer
+ 53: ( 15) - Lloyd Cole and the Commotions
+ 54: ( 14) - The Cure
+ 55: ( 13) - Emmylou Harris
+ 56: ( 13) - Haircut 100
+ 57: ( 13) - The Redlands Palomino Company
+ 58: ( 13) - The Rolling Stones
+ 59: ( 12) - B.E.F.
+ 60: ( 12) - Elvis Costello & the Attractions
+ 61: ( 12) - Jimi Hendrix
+ 62: ( 11) - Brigitte Calls Me Baby
+ 63: ( 11) - Horsegirl
+ 64: ( 11) - Lloyd Cole
+ 65: ( 11) - Sly & the Family Stone
+ 66: ( 11) - The Velvet Underground
+ 67: ( 10) - Heaven 17
+ 68: ( 10) - It'S Immaterial
+ 69: ( 10) - John Cooper Clarke
+ 70: ( 10) - Mercy Girl
+ 71: ( 10) - The Sundays
+ 72: (  9) - Eliza Gilkyson
 
- 50: ( 16) - Nell Davies
- 51: ( 15) - Angie Palmer
- 52: ( 15) - Lloyd Cole and the Commotions
- 53: ( 14) - The Cure
- 54: ( 13) - Emmylou Harris
- 55: ( 13) - Haircut 100
- 56: ( 13) - The Redlands Palomino Company
- 57: ( 13) - The Rolling Stones
- 58: ( 12) - B.E.F.
- 59: ( 12) - Elvis Costello & the Attractions
- 60: ( 12) - Jimi Hendrix
- 61: ( 11) - Brigitte Calls Me Baby
- 62: ( 11) - Horsegirl
- 63: ( 11) - Lloyd Cole
- 64: ( 11) - Sly & the Family Stone
- 65: ( 11) - The Velvet Underground
- 66: ( 10) - Heaven 17
- 67: ( 10) - It'S Immaterial
- 68: ( 10) - John Cooper Clarke
- 69: ( 10) - Mercy Girl
- 70: ( 10) - The Sundays
- 71: (  9) - Eliza Gilkyson
-
- 72: (  7) - JT Nero
- 73: (  7) - Leonard Cohen
+ 73: (  7) - JT Nero
  74: (  6) - Cowboy Junkies
  75: (  6) - Lauren Mayberry
  76: (  5) - The Bluebells

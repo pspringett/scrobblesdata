@@ -1,7 +1,12 @@
 Specified year (2026), specified month (5)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     221            22            25           175
- 1: (37) - Lime Garden
+     300            24            30           226
+ 1: (42) - Simple Minds
+ 2: (41) - Bob Dylan
+
+
+
+ 3: (37) - Lime Garden
 
 
 
@@ -21,27 +26,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (17) - David Bowie
- 3: (16) - Nell Davies
- 4: (15) - Angie Palmer
- 5: (15) - Simple Minds
+ 4: (17) - David Bowie
+ 5: (16) - Nell Davies
+ 6: (15) - Angie Palmer
+ 7: (15) - Emma Swift
 
- 6: (13) - The Redlands Palomino Company
- 7: (13) - Whitelands
+ 8: (13) - The Redlands Palomino Company
+ 9: (13) - Whitelands
 
- 8: (11) - Anne McCue
+10: (11) - Anne McCue
 
- 9: ( 9) - T. Rex
-10: ( 8) - Martin Stephenson
-11: ( 7) - Emma Swift
-12: ( 7) - Katherine Priddy
-13: ( 7) - Robert Forster
-14: ( 7) - Sharon Van Etten
-15: ( 6) - Po' Girl
-16: ( 6) - Wolf Alice
-17: ( 5) - Josh Ritter
-18: ( 5) - The Belair Lip Bombs
-19: ( 5) - The Bluebells
-20: ( 5) - Vegas Water Taxi
-21: ( 4) - Edwyn Collins
-22: ( 3) - Creedence Clearwater Revival
+11: ( 9) - T. Rex
+12: ( 8) - Martin Stephenson
+13: ( 7) - Katherine Priddy
+14: ( 7) - Robert Forster
+15: ( 7) - Sharon Van Etten
+16: ( 6) - Po' Girl
+17: ( 6) - Wolf Alice
+18: ( 5) - Josh Ritter
+19: ( 5) - The Belair Lip Bombs
+20: ( 5) - The Bluebells
+21: ( 5) - Vegas Water Taxi
+22: ( 4) - Edwyn Collins
+23: ( 3) - Creedence Clearwater Revival
+24: ( 3) - Leonard Cohen

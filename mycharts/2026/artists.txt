@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    1646            66            88           698
+    1739            68            92           752
  1: (125) - Creedence Clearwater Revival
 
 
@@ -32,6 +32,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: ( 94) - Emma Swift
 
 
 
@@ -40,7 +41,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: ( 86) - Emma Swift
 
 
 
@@ -70,6 +70,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+12: ( 58) - Simple Minds
 
 
 
@@ -79,78 +80,77 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+13: ( 48) - Glyders
 
-12: ( 48) - Glyders
 
-
-13: ( 45) - U2
-
+14: ( 45) - U2
 
 
 
+15: ( 41) - Bob Dylan
 
 
-14: ( 38) - Anne McCue
-15: ( 37) - Lime Garden
+16: ( 38) - Anne McCue
+17: ( 37) - Lime Garden
 
 
-16: ( 34) - Melody'S Echo Chamber
-17: ( 33) - Martin Stephenson
-18: ( 32) - The Fall
-19: ( 31) - Josh Ritter
-
-
-20: ( 28) - Simple Minds
-21: ( 27) - Tift Merritt
-22: ( 26) - Eyeless in Gaza
-
-23: ( 24) - Po' Girl
-
-24: ( 22) - T. Rex
-25: ( 21) - Robert Forster
-26: ( 20) - Elvis Costello
-27: ( 19) - Paul Weller
-28: ( 19) - Sharon Van Etten
-29: ( 18) - Prefab Sprout
-
-30: ( 16) - Nell Davies
-31: ( 15) - Angie Palmer
-
-32: ( 13) - Devine & Statton
-33: ( 13) - Lloyd Cole and the Commotions
-34: ( 13) - The Cure
-35: ( 13) - The Redlands Palomino Company
-36: ( 13) - The Rolling Stones
-37: ( 12) - Edwyn Collins
-38: ( 12) - Elvis Costello & the Attractions
-39: ( 11) - Brigitte Calls Me Baby
-40: ( 11) - Echo & the Bunnymen
-41: ( 11) - Everything But the Girl
-42: ( 11) - Lloyd Cole
-43: ( 11) - Roxy Music
-44: ( 11) - The Burning Hell
-45: ( 10) - Chaparelle
-46: ( 10) - It'S Immaterial
-47: ( 10) - John Cooper Clarke
-48: ( 10) - Mercy Girl
-49: ( 10) - Suzanne Vega
+18: ( 34) - Melody'S Echo Chamber
+19: ( 33) - Martin Stephenson
+20: ( 32) - The Fall
+21: ( 31) - Josh Ritter
 
 
 
-50: (  6) - Cowboy Junkies
-51: (  5) - The Bluebells
-52: (  5) - The Zombies
-53: (  4) - Altered Images
-54: (  3) - Patti Smith
-55: (  3) - Searows
-56: (  3) - The Mavericks
-57: (  3) - Tift Merritt, Sam Beam
-58: (  2) - New Order
-59: (  2) - The Carpenters
-60: (  1) - Bruce Springsteen
-61: (  1) - Dr Feelgood
-62: (  1) - Heaven 17
-63: (  1) - Marc Bolan & T. Rex
-64: (  1) - The Assembly
-65: (  1) - The Massed Carnaby Street John Cooper Clarkes
-66: (  1) - The Schwa
+22: ( 27) - Tift Merritt
+23: ( 26) - Eyeless in Gaza
+
+24: ( 24) - Po' Girl
+
+25: ( 22) - T. Rex
+26: ( 21) - Robert Forster
+27: ( 20) - Elvis Costello
+28: ( 19) - Paul Weller
+29: ( 19) - Sharon Van Etten
+30: ( 18) - Prefab Sprout
+
+31: ( 16) - Nell Davies
+32: ( 15) - Angie Palmer
+33: ( 14) - Leonard Cohen
+34: ( 13) - Devine & Statton
+35: ( 13) - Lloyd Cole and the Commotions
+36: ( 13) - The Cure
+37: ( 13) - The Redlands Palomino Company
+38: ( 13) - The Rolling Stones
+39: ( 12) - Edwyn Collins
+40: ( 12) - Elvis Costello & the Attractions
+41: ( 11) - Brigitte Calls Me Baby
+42: ( 11) - Echo & the Bunnymen
+43: ( 11) - Everything But the Girl
+44: ( 11) - Lloyd Cole
+45: ( 11) - Roxy Music
+46: ( 11) - The Burning Hell
+47: ( 10) - Chaparelle
+48: ( 10) - It'S Immaterial
+49: ( 10) - John Cooper Clarke
+50: ( 10) - Mercy Girl
+51: ( 10) - Suzanne Vega
+
+
+
+52: (  6) - Cowboy Junkies
+53: (  5) - The Bluebells
+54: (  5) - The Zombies
+55: (  4) - Altered Images
+56: (  3) - Patti Smith
+57: (  3) - Searows
+58: (  3) - The Mavericks
+59: (  3) - Tift Merritt, Sam Beam
+60: (  2) - New Order
+61: (  2) - The Carpenters
+62: (  1) - Bruce Springsteen
+63: (  1) - Dr Feelgood
+64: (  1) - Heaven 17
+65: (  1) - Marc Bolan & T. Rex
+66: (  1) - The Assembly
+67: (  1) - The Massed Carnaby Street John Cooper Clarkes
+68: (  1) - The Schwa

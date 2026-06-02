@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2313            89           137          1018
+    2406            89           140          1070
  1: (126) - Wolf Alice
  2: (125) - Creedence Clearwater Revival
 
@@ -20,6 +20,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 3: (107) - Emma Swift
 
 
 
@@ -28,7 +29,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: ( 99) - Emma Swift
 
 
 
@@ -51,26 +51,24 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  7: ( 78) - Newdad
 
-
- 8: ( 75) - Vegas Water Taxi
-
-
- 9: ( 72) - Martin Stephenson
-10: ( 71) - Lucinda Williams
-11: ( 70) - Whitelands
+ 8: ( 76) - Simple Minds
+ 9: ( 75) - Vegas Water Taxi
 
 
+10: ( 72) - Martin Stephenson
+11: ( 71) - Lucinda Williams
+12: ( 70) - Whitelands
 
 
 
-12: ( 64) - Katherine Priddy
-
-13: ( 62) - Heavenly
 
 
-14: ( 59) - Martin Stephenson and the Daintees
+13: ( 64) - Katherine Priddy
+
+14: ( 62) - Heavenly
 
 
+15: ( 59) - Martin Stephenson and the Daintees
 
 
 
@@ -78,72 +76,73 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-15: ( 48) - Glyders
-16: ( 47) - The Go-Betweens
-17: ( 46) - Simple Minds
-18: ( 45) - U2
-19: ( 44) - Chaparelle
+16: ( 51) - Bob Dylan
 
 
+17: ( 48) - Glyders
+18: ( 47) - The Go-Betweens
+
+19: ( 45) - U2
+20: ( 44) - Chaparelle
 
 
 
-20: ( 38) - Anne McCue
-21: ( 38) - The Fall
-22: ( 37) - Lime Garden
 
 
-23: ( 34) - Hem
-24: ( 34) - Melody'S Echo Chamber
+21: ( 38) - Anne McCue
+22: ( 38) - The Fall
+23: ( 37) - Lime Garden
 
-25: ( 32) - New Order
+
+24: ( 34) - Hem
+25: ( 34) - Melody'S Echo Chamber
+
+26: ( 32) - New Order
 
 
-26: ( 29) - Robert Forster
-27: ( 28) - Echo & the Bunnymen
-28: ( 27) - Sharon Van Etten
-29: ( 27) - Tift Merritt
-30: ( 26) - Devine & Statton
-31: ( 26) - Eyeless in Gaza
+27: ( 29) - Robert Forster
+28: ( 28) - Echo & the Bunnymen
+29: ( 27) - Sharon Van Etten
+30: ( 27) - Tift Merritt
+31: ( 26) - Devine & Statton
+32: ( 26) - Eyeless in Gaza
 
-32: ( 24) - Paul Weller
-33: ( 24) - Po' Girl
-34: ( 23) - Edwyn Collins
-35: ( 23) - Everything But the Girl
-36: ( 22) - T. Rex
+33: ( 24) - Paul Weller
+34: ( 24) - Po' Girl
+35: ( 23) - Edwyn Collins
+36: ( 23) - Everything But the Girl
+37: ( 22) - T. Rex
+38: ( 21) - Leonard Cohen
+39: ( 20) - Elvis Costello
+40: ( 19) - Orange Juice
+41: ( 19) - Suzanne Vega
+42: ( 19) - The Burning Hell
+43: ( 18) - Prefab Sprout
 
-37: ( 20) - Elvis Costello
-38: ( 19) - Orange Juice
-39: ( 19) - Suzanne Vega
-40: ( 19) - The Burning Hell
-41: ( 18) - Prefab Sprout
+44: ( 16) - Altered Images
+45: ( 16) - Nell Davies
+46: ( 15) - Angie Palmer
+47: ( 15) - Lloyd Cole and the Commotions
 
-42: ( 16) - Altered Images
-43: ( 16) - Nell Davies
-44: ( 15) - Angie Palmer
-45: ( 15) - Lloyd Cole and the Commotions
+48: ( 13) - Emmylou Harris
+49: ( 13) - Haircut 100
+50: ( 13) - The Cure
+51: ( 13) - The Redlands Palomino Company
+52: ( 13) - The Rolling Stones
+53: ( 12) - Elvis Costello & the Attractions
+54: ( 12) - Jimi Hendrix
+55: ( 12) - Wet Leg
+56: ( 11) - Brigitte Calls Me Baby
+57: ( 11) - Lloyd Cole
+58: ( 11) - Roxy Music
+59: ( 10) - Heaven 17
+60: ( 10) - It'S Immaterial
+61: ( 10) - John Cooper Clarke
+62: ( 10) - Mercy Girl
+63: ( 10) - The Sundays
+64: (  9) - Eliza Gilkyson
 
-46: ( 13) - Emmylou Harris
-47: ( 13) - Haircut 100
-48: ( 13) - The Cure
-49: ( 13) - The Redlands Palomino Company
-50: ( 13) - The Rolling Stones
-51: ( 12) - Elvis Costello & the Attractions
-52: ( 12) - Jimi Hendrix
-53: ( 12) - Wet Leg
-54: ( 11) - Brigitte Calls Me Baby
-55: ( 11) - Lloyd Cole
-56: ( 11) - Roxy Music
-57: ( 10) - Bob Dylan
-58: ( 10) - Heaven 17
-59: ( 10) - It'S Immaterial
-60: ( 10) - John Cooper Clarke
-61: ( 10) - Mercy Girl
-62: ( 10) - The Sundays
-63: (  9) - Eliza Gilkyson
 
-64: (  7) - Leonard Cohen
 65: (  6) - Aztec Camera
 66: (  6) - Cowboy Junkies
 67: (  5) - The Bluebells
