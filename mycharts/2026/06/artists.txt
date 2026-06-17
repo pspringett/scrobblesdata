@@ -1,6 +1,6 @@
 Specified year (2026), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     154            15            18           132
+     163            15            18           141
  1: (20) - Leonard Cohen
 
 
@@ -13,14 +13,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  7: (11) - Orchestral Manoeuvres in the Dark
  8: (11) - Wolf Alice
+ 9: (10) - Suzanne Vega
+10: ( 9) - Josh Ritter
+11: ( 9) - Laura Marling
+12: ( 8) - Vegas Water Taxi
 
- 9: ( 9) - Josh Ritter
-10: ( 9) - Laura Marling
-11: ( 8) - Vegas Water Taxi
 
 
-
-12: ( 4) - U2
-13: ( 3) - The Velvet Underground
-14: ( 2) - Martin Stephenson
-15: ( 1) - Suzanne Vega
+13: ( 4) - U2
+14: ( 3) - The Velvet Underground
+15: ( 2) - Martin Stephenson
