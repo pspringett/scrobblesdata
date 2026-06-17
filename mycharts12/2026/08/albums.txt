@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3142            94           163          1285
+    3150            94           164          1293
   1: (106) - Blue Weekend - Wolf Alice
 
   2: (104) - I Believe In You, My Honeydew - Josh Ritter
@@ -161,62 +161,63 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 103: (  9) - Saturns Pattern - Paul Weller
 104: (  8) - Flesh And Blood - Roxy Music
 105: (  8) - Penthouse And Pavement - Heaven 17
-106: (  8) - You Can't Hide Your Love Forever - Orange Juice
-107: (  7) - For Your Pleasure - Roxy Music
-108: (  7) - Home Recordings - Emma Swift
-109: (  7) * Songs From A Room - Leonard Cohen
-110: (  7) - Stitch Of The World - Tift Merritt
-111: (  7) - Time And Patience - Tift Merritt
-112: (  6) - Grotesque (After The Gramme) - The Fall
-113: (  6) * Impossible Dream - Patty Griffin
-114: (  6) * Knife - Aztec Camera
-115: (  6) - Scary Monsters (And Super Creeps) - David Bowie
-116: (  6) * The Trinity Session - Cowboy Junkies
-117: (  6) - Waves - Newdad
-118: (  5) - Elevation Days - Edwyn Collins
-119: (  5) - Ghost - Mercy Girl
-120: (  5) - Low - David Bowie
-121: (  5) - Mercy Girl Singles - Mercy Girl
-122: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
-123: (  4) - 1981-2011 - B.E.F.
-124: (  4) - Early Gold - Simple Minds
-125: (  4) - Humanhood - The Weather Station
-126: (  4) - Sermon On The Rocks - Josh Ritter
-127: (  4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-128: (  4) - Unplugged....And Seated - Rod Stewart
-129: (  3) - Country Life - Roxy Music
-130: (  3) - Death In The Business Of Whaling - Searows
-131: (  3) - Everybody Scream - Florence + the Machine
-132: (  3) - Fables Of The Reconstruction - R.E.M.
-133: (  3) - Horses - Patti Smith
-134: (  3) * Losing Sleep - Edwyn Collins
-135: (  3) - Stitch Of The World - Tift Merritt, Sam Beam
-136: (  3) - The Complete Matrix Tapes #1 - The Velvet Underground
-137: (  3) - Trampoline (Expanded Edition) - The Mavericks
-138: (  3) * Wrecking Ball - Emmylou Harris
-139: (  2) - Dragnet - The Fall
-140: (  2) - Gold - Greatest Hits - The Carpenters
-141: (  2) - Golden Age - Heaven 17
-142: (  2) - Knowledge - Edwyn Collins
-143: (  2) - Rip It Up - Orange Juice
-144: (  1) -  - Orange Juice
-145: (  1) - Acoustic - Simple Minds
-146: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-147: (  1) - Bowie At The Beeb - David Bowie
-148: (  1) - Drums And Wires - Xtc
-149: (  1) - Fade To Grey:  The Best Of Visage - Visage
-150: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-151: (  1) - Garbage Island - The Burning Hell
-152: (  1) - Gotta Get Away - The Schwa
-153: (  1) * Heroes - David Bowie
-154: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-155: (  1) - Never Never - The Assembly
-156: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-157: (  1) - Private Practice - Dr Feelgood
-158: (  1) - Slumber Party - Brigitte Calls Me Baby
-159: (  1) - Streets Of Minneapolis - Bruce Springsteen
-160: (  1) - Take Me Home - The Redlands Palomino Company
-161: (  1) - The '81 Demos - Weekend
-162: (  1) - The Collection - Marc Bolan & T. Rex
-163: (  1) - The Singles - Weekend
-164: (  1) - Understanding Music - Ac Acoustics
+106: (  8) * Various Positions - Leonard Cohen
+107: (  8) - You Can't Hide Your Love Forever - Orange Juice
+108: (  7) - For Your Pleasure - Roxy Music
+109: (  7) - Home Recordings - Emma Swift
+110: (  7) * Songs From A Room - Leonard Cohen
+111: (  7) - Stitch Of The World - Tift Merritt
+112: (  7) - Time And Patience - Tift Merritt
+113: (  6) - Grotesque (After The Gramme) - The Fall
+114: (  6) * Impossible Dream - Patty Griffin
+115: (  6) * Knife - Aztec Camera
+116: (  6) - Scary Monsters (And Super Creeps) - David Bowie
+117: (  6) * The Trinity Session - Cowboy Junkies
+118: (  6) - Waves - Newdad
+119: (  5) - Elevation Days - Edwyn Collins
+120: (  5) - Ghost - Mercy Girl
+121: (  5) - Low - David Bowie
+122: (  5) - Mercy Girl Singles - Mercy Girl
+123: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
+124: (  4) - 1981-2011 - B.E.F.
+125: (  4) - Early Gold - Simple Minds
+126: (  4) - Humanhood - The Weather Station
+127: (  4) - Sermon On The Rocks - Josh Ritter
+128: (  4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+129: (  4) - Unplugged....And Seated - Rod Stewart
+130: (  3) - Country Life - Roxy Music
+131: (  3) - Death In The Business Of Whaling - Searows
+132: (  3) - Everybody Scream - Florence + the Machine
+133: (  3) - Fables Of The Reconstruction - R.E.M.
+134: (  3) - Horses - Patti Smith
+135: (  3) * Losing Sleep - Edwyn Collins
+136: (  3) - Stitch Of The World - Tift Merritt, Sam Beam
+137: (  3) - The Complete Matrix Tapes #1 - The Velvet Underground
+138: (  3) - Trampoline (Expanded Edition) - The Mavericks
+139: (  3) * Wrecking Ball - Emmylou Harris
+140: (  2) - Dragnet - The Fall
+141: (  2) - Gold - Greatest Hits - The Carpenters
+142: (  2) - Golden Age - Heaven 17
+143: (  2) - Knowledge - Edwyn Collins
+144: (  2) - Rip It Up - Orange Juice
+145: (  1) -  - Orange Juice
+146: (  1) - Acoustic - Simple Minds
+147: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+148: (  1) - Bowie At The Beeb - David Bowie
+149: (  1) - Drums And Wires - Xtc
+150: (  1) - Fade To Grey:  The Best Of Visage - Visage
+151: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+152: (  1) - Garbage Island - The Burning Hell
+153: (  1) - Gotta Get Away - The Schwa
+154: (  1) * Heroes - David Bowie
+155: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+156: (  1) - Never Never - The Assembly
+157: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+158: (  1) - Private Practice - Dr Feelgood
+159: (  1) - Slumber Party - Brigitte Calls Me Baby
+160: (  1) - Streets Of Minneapolis - Bruce Springsteen
+161: (  1) - Take Me Home - The Redlands Palomino Company
+162: (  1) - The '81 Demos - Weekend
+163: (  1) - The Collection - Marc Bolan & T. Rex
+164: (  1) - The Singles - Weekend
+165: (  1) - Understanding Music - Ac Acoustics
