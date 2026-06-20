@@ -1,6 +1,6 @@
 Specified year (2026), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     171            17            20           149
+     174            17            20           152
  1: (20) - Leonard Cohen
 
 
@@ -16,10 +16,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (10) - Suzanne Vega
 10: ( 9) - Josh Ritter
 11: ( 9) - Laura Marling
-12: ( 8) - Vegas Water Taxi
+12: ( 8) - Haircut 100
+13: ( 8) - Vegas Water Taxi
 
 
-13: ( 5) - Haircut 100
+
 14: ( 4) - U2
 15: ( 3) - Sharon Van Etten
 16: ( 3) - The Velvet Underground
