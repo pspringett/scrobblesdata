@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   12345           286           488          3722
+   12350           286           488          3722
   1: (153) - 66 - Paul Weller
 
 
@@ -183,10 +183,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 123: ( 31) - Live At Ronnie Scotts - Weekend
 124: ( 31) - New Last Name - Courting
 125: ( 31) * The Caution Horses - Cowboy Junkies
-126: ( 30) - Nightbound Eyes Are Blind To The Day - Whitelands
-127: ( 30) * Seventeen Seconds - The Cure
-128: ( 30) - This Is Why - Paramore
-129: ( 30) - This Is...The Bluebells - The Bluebells
+126: ( 31) - This Is...The Bluebells - The Bluebells
+127: ( 30) - Nightbound Eyes Are Blind To The Day - Whitelands
+128: ( 30) * Seventeen Seconds - The Cure
+129: ( 30) - This Is Why - Paramore
 130: ( 30) * Yogi In My House - Martin Stephenson
 131: ( 29) - Coals To Newcastle - Orange Juice
 132: ( 29) - Mommy - Be Your Own Pet
@@ -280,64 +280,64 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 220: ( 15) - The Freewheelin' Bob Dylan - Bob Dylan
 221: ( 15) * Various Positions - Leonard Cohen
 222: ( 14) * Alas I Cannot Swim - Laura Marling
-223: ( 14) - Drumming the Beating Heart - Eyeless in Gaza
-224: ( 14) * Knife - Aztec Camera
-225: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
-226: ( 14) - Live In Dublin - Leonard Cohen
-227: ( 14) - Love - Aztec Camera
-228: ( 14) * Love Story - Lloyd Cole
-229: ( 14) * Pornography - The Cure
-230: ( 14) * Rabbit Songs - Hem
-231: ( 14) * Road - Angie Palmer
-232: ( 13) - Burnin' - Bob Marley & the Wailers
-233: ( 13) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
-234: ( 13) - Case/Lang/Veirs - case/lang/veirs
-235: ( 13) - Elevation Days - Edwyn Collins
-236: ( 13) - Favourite Songs - The Best Of - Haircut 100
-237: ( 13) - Introducing The Style Council - The Style Council
-238: ( 13) - Kelvingrove Baby - The Bathers
-239: ( 13) - Let It Bleed - The Rolling Stones
-240: ( 13) - Siren - Roxy Music
-241: ( 13) - Staring At The Sea - The Singles - The Cure
-242: ( 13) - Tambourine - Tift Merritt
-243: ( 13) - The Complete Matrix Tapes #1 - The Velvet Underground
-244: ( 13) * This Year's Model - Elvis Costello & the Attractions
-245: ( 12) - Axis: Bold As Love - Jimi Hendrix
-246: ( 12) * Black Eyed Man - Cowboy Junkies
-247: ( 12) * Closer - Joy Division
-248: ( 12) - Greatest Hits: Blondie - Blondie
-249: ( 12) - John Wesley Harding - Bob Dylan
-250: ( 12) - Love Story Demos - Lloyd Cole
-251: ( 12) * Ocean Rain - Echo & the Bunnymen
-252: ( 12) - Only Hinting - Clinic Stars
-253: ( 12) - Pale Hands I Loved So Well - Eyeless in Gaza
-254: ( 12) - Punch The Clock - Elvis Costello & the Attractions
-255: ( 12) - Rip It Up - Orange Juice
-256: ( 12) - Rough And Rowdy Ways - Bob Dylan
-257: ( 12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
-258: ( 12) - Woodland Echoes - Nick Heyward
-259: ( 11) - A Whole New Thing - Sly & the Family Stone
-260: ( 11) * Antidepressant - Lloyd Cole
-261: ( 11) * Black Cadillac - Rosanne Cash
-262: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
-263: ( 11) * Bringing It All Back Home - Bob Dylan
-264: ( 11) - Guesswork - Lloyd Cole
-265: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
-266: ( 11) - Laurel Canyon - Laurel Canyon
-267: ( 11) - Life's Hard And Then You Die - It'S Immaterial
-268: ( 11) * Little Rock - Hayes Carll
-269: ( 11) - Marquee Moon - Television
-270: ( 11) - Rumours - Fleetwood Mac
-271: ( 11) * Scott - Scott Walker
-272: ( 11) - Singles 1965-1967 - The Rolling Stones
-273: ( 11) * Standards - Lloyd Cole
-274: ( 11) - Swing In 82 - Paul Haig
-275: ( 11) - The Glasgow School - Orange Juice
-276: ( 11) * The Negatives - Lloyd Cole
-277: ( 11) - The Velvet Underground & Nico - The Velvet Underground
-278: ( 11) - Through The Windowpane - Guillemots
-279: ( 11) - Traveling Alone - Tift Merritt
-280: ( 10) - Boxing The Compass - Haircut 100
+223: ( 14) - Boxing The Compass - Haircut 100
+224: ( 14) - Drumming the Beating Heart - Eyeless in Gaza
+225: ( 14) * Knife - Aztec Camera
+226: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+227: ( 14) - Live In Dublin - Leonard Cohen
+228: ( 14) - Love - Aztec Camera
+229: ( 14) * Love Story - Lloyd Cole
+230: ( 14) * Pornography - The Cure
+231: ( 14) * Rabbit Songs - Hem
+232: ( 14) * Road - Angie Palmer
+233: ( 13) - Burnin' - Bob Marley & the Wailers
+234: ( 13) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
+235: ( 13) - Case/Lang/Veirs - case/lang/veirs
+236: ( 13) - Elevation Days - Edwyn Collins
+237: ( 13) - Favourite Songs - The Best Of - Haircut 100
+238: ( 13) - Introducing The Style Council - The Style Council
+239: ( 13) - Kelvingrove Baby - The Bathers
+240: ( 13) - Let It Bleed - The Rolling Stones
+241: ( 13) - Siren - Roxy Music
+242: ( 13) - Staring At The Sea - The Singles - The Cure
+243: ( 13) - Tambourine - Tift Merritt
+244: ( 13) - The Complete Matrix Tapes #1 - The Velvet Underground
+245: ( 13) * This Year's Model - Elvis Costello & the Attractions
+246: ( 12) - Axis: Bold As Love - Jimi Hendrix
+247: ( 12) * Black Eyed Man - Cowboy Junkies
+248: ( 12) * Closer - Joy Division
+249: ( 12) - Greatest Hits: Blondie - Blondie
+250: ( 12) - John Wesley Harding - Bob Dylan
+251: ( 12) - Love Story Demos - Lloyd Cole
+252: ( 12) * Ocean Rain - Echo & the Bunnymen
+253: ( 12) - Only Hinting - Clinic Stars
+254: ( 12) - Pale Hands I Loved So Well - Eyeless in Gaza
+255: ( 12) - Punch The Clock - Elvis Costello & the Attractions
+256: ( 12) - Rip It Up - Orange Juice
+257: ( 12) - Rough And Rowdy Ways - Bob Dylan
+258: ( 12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+259: ( 12) - Woodland Echoes - Nick Heyward
+260: ( 11) - A Whole New Thing - Sly & the Family Stone
+261: ( 11) * Antidepressant - Lloyd Cole
+262: ( 11) * Black Cadillac - Rosanne Cash
+263: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
+264: ( 11) * Bringing It All Back Home - Bob Dylan
+265: ( 11) - Guesswork - Lloyd Cole
+266: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+267: ( 11) - Laurel Canyon - Laurel Canyon
+268: ( 11) - Life's Hard And Then You Die - It'S Immaterial
+269: ( 11) * Little Rock - Hayes Carll
+270: ( 11) - Marquee Moon - Television
+271: ( 11) - Rumours - Fleetwood Mac
+272: ( 11) * Scott - Scott Walker
+273: ( 11) - Singles 1965-1967 - The Rolling Stones
+274: ( 11) * Standards - Lloyd Cole
+275: ( 11) - Swing In 82 - Paul Haig
+276: ( 11) - The Glasgow School - Orange Juice
+277: ( 11) * The Negatives - Lloyd Cole
+278: ( 11) - The Velvet Underground & Nico - The Velvet Underground
+279: ( 11) - Through The Windowpane - Guillemots
+280: ( 11) - Traveling Alone - Tift Merritt
 281: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
 282: ( 10) - Junk Culture - Orchestral Manoeuvres in the Dark
 283: ( 10) - Life In A Day - Simple Minds

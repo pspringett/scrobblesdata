@@ -1,7 +1,8 @@
 Specified year (2026), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     184            17            20           154
- 1: (25) - This Is...The Bluebells - The Bluebells
+     189            17            20           154
+ 1: (26) - This Is...The Bluebells - The Bluebells
+
 
 
 
@@ -12,13 +13,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  2: (16) - The End of the World or Whatever - Nell Davies
 
- 3: (14) - Hex Enduction Hour - The Fall
- 4: (13) * Broken Carelessly - The Redlands Palomino Company
- 5: (12) - Once Upon A Time - Simple Minds
- 6: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
- 7: (11) - Live In Dublin - Leonard Cohen
- 8: (11) - The Clearing - Wolf Alice
- 9: (10) - Boxing The Compass - Haircut 100
+ 3: (14) - Boxing The Compass - Haircut 100
+ 4: (14) - Hex Enduction Hour - The Fall
+ 5: (13) * Broken Carelessly - The Redlands Palomino Company
+ 6: (12) - Once Upon A Time - Simple Minds
+ 7: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 8: (11) - Live In Dublin - Leonard Cohen
+ 9: (11) - The Clearing - Wolf Alice
 10: (10) - Suzanne Vega - Suzanne Vega
 11: ( 9) - I Believe In You, My Honeydew - Josh Ritter
 12: ( 9) * I Speak Because I Can - Laura Marling
