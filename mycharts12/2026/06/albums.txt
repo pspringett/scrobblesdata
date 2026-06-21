@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3708           120           185          1487
+    3711           120           186          1488
   1: (108) - Blue Weekend - Wolf Alice
 
 
@@ -43,8 +43,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 13: ( 66) - Strawberries - Robert Forster
 
- 13: ( 65) - Strawberries - Robert Forster
  14: ( 64) - 16 Lovers Lane - The Go-Betweens
  15: ( 64) - These Frightening Machines - Katherine Priddy
  16: ( 63) - Bayou Country - Creedence Clearwater Revival
@@ -138,14 +138,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  82: ( 13) - Favourite Songs - The Best Of - Haircut 100
  83: ( 13) * High Land, Hard Rain - Aztec Camera
  84: ( 13) - Let It Bleed - The Rolling Stones
- 85: ( 13) * Seventeen Seconds - The Cure
- 86: ( 13) - Spectral Lines - Josh Ritter
- 87: ( 13) - Tambourine - Tift Merritt
- 88: ( 13) * Texas Fever - Orange Juice
- 89: ( 12) - Acoustic - Simple Minds
- 90: ( 12) - Axis: Bold As Love - Jimi Hendrix
- 91: ( 12) - Once Upon A Time - Simple Minds
- 92: ( 12) - Pale Hands I Loved So Well - Eyeless in Gaza
+ 85: ( 13) - Pale Hands I Loved So Well - Eyeless in Gaza
+ 86: ( 13) * Seventeen Seconds - The Cure
+ 87: ( 13) - Spectral Lines - Josh Ritter
+ 88: ( 13) - Tambourine - Tift Merritt
+ 89: ( 13) * Texas Fever - Orange Juice
+ 90: ( 12) - Acoustic - Simple Minds
+ 91: ( 12) - Axis: Bold As Love - Jimi Hendrix
+ 92: ( 12) - Once Upon A Time - Simple Minds
  93: ( 12) - Punch The Clock - Elvis Costello & the Attractions
  94: ( 12) - Rough And Rowdy Ways - Bob Dylan
  95: ( 12) - Salutation Road - Martin Stephenson and the Daintees
@@ -223,40 +223,41 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 167: (  1) - Acoustic - Simple Minds, Kt Tunstall
 168: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
 169: (  1) - Bowie At The Beeb - David Bowie
-170: (  1) - Drums And Wires - Xtc
-171: (  1) - Fade To Grey:  The Best Of Visage - Visage
-172: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-173: (  1) - Garbage Island - The Burning Hell
-174: (  1) - Gotta Get Away - The Schwa
-175: (  1) * Heroes - David Bowie
-176: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-177: (  1) - Never Never - The Assembly
-178: (  1) - New Wave Hits Of The 80S - ABC
-179: (  1) - New Wave Hits Of The 80S - Billy Idol
-180: (  1) - New Wave Hits Of The 80S - Culture Club
-181: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
-182: (  1) - New Wave Hits Of The 80S - Joe Jackson
-183: (  1) - New Wave Hits Of The 80S - Level 42
-184: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
-185: (  1) - New Wave Hits Of The 80S - R.E.M.
-186: (  1) - New Wave Hits Of The 80S - Simple Minds
-187: (  1) - New Wave Hits Of The 80S - Soft Cell
-188: (  1) - New Wave Hits Of The 80S - The Buggles
-189: (  1) - New Wave Hits Of The 80S - The Go-go's
-190: (  1) - New Wave Hits Of The 80S - The Human League
-191: (  1) - New Wave Hits Of The 80S - The Motels
-192: (  1) - New Wave Hits Of The 80S - The Police
-193: (  1) - New Wave Hits Of The 80S - Trio
-194: (  1) - New Wave Hits Of The 80S - UB40
-195: (  1) - New Wave Hits Of The 80S - Wang Chung
-196: (  1) - New Wave Hits Of The 80S - When in Rome
-197: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-198: (  1) - Private Practice - Dr Feelgood
-199: (  1) - Slumber Party - Brigitte Calls Me Baby
-200: (  1) - Songs Of A Lost World - The Cure
-201: (  1) - Streets Of Minneapolis - Bruce Springsteen
-202: (  1) - Take Me Home - The Redlands Palomino Company
-203: (  1) - The '81 Demos - Weekend
-204: (  1) - The Collection - Marc Bolan & T. Rex
-205: (  1) - The Singles - Weekend
-206: (  1) - Understanding Music - Ac Acoustics
+170: (  1) - Drumming The Beating Heart / Pale Hands I Loved So Well - Eyeless in Gaza
+171: (  1) - Drums And Wires - Xtc
+172: (  1) - Fade To Grey:  The Best Of Visage - Visage
+173: (  1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+174: (  1) - Garbage Island - The Burning Hell
+175: (  1) - Gotta Get Away - The Schwa
+176: (  1) * Heroes - David Bowie
+177: (  1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+178: (  1) - Never Never - The Assembly
+179: (  1) - New Wave Hits Of The 80S - ABC
+180: (  1) - New Wave Hits Of The 80S - Billy Idol
+181: (  1) - New Wave Hits Of The 80S - Culture Club
+182: (  1) - New Wave Hits Of The 80S - Dexys Midnight Runners
+183: (  1) - New Wave Hits Of The 80S - Joe Jackson
+184: (  1) - New Wave Hits Of The 80S - Level 42
+185: (  1) - New Wave Hits Of The 80S - Orchestral Manoeuvres in the Dark
+186: (  1) - New Wave Hits Of The 80S - R.E.M.
+187: (  1) - New Wave Hits Of The 80S - Simple Minds
+188: (  1) - New Wave Hits Of The 80S - Soft Cell
+189: (  1) - New Wave Hits Of The 80S - The Buggles
+190: (  1) - New Wave Hits Of The 80S - The Go-go's
+191: (  1) - New Wave Hits Of The 80S - The Human League
+192: (  1) - New Wave Hits Of The 80S - The Motels
+193: (  1) - New Wave Hits Of The 80S - The Police
+194: (  1) - New Wave Hits Of The 80S - Trio
+195: (  1) - New Wave Hits Of The 80S - UB40
+196: (  1) - New Wave Hits Of The 80S - Wang Chung
+197: (  1) - New Wave Hits Of The 80S - When in Rome
+198: (  1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+199: (  1) - Private Practice - Dr Feelgood
+200: (  1) - Slumber Party - Brigitte Calls Me Baby
+201: (  1) - Songs Of A Lost World - The Cure
+202: (  1) - Streets Of Minneapolis - Bruce Springsteen
+203: (  1) - Take Me Home - The Redlands Palomino Company
+204: (  1) - The '81 Demos - Weekend
+205: (  1) - The Collection - Marc Bolan & T. Rex
+206: (  1) - The Singles - Weekend
+207: (  1) - Understanding Music - Ac Acoustics
