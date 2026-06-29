@@ -1,6 +1,6 @@
 Specified year (2026), specified month (6)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     234            20            26           177
+     236            20            25           179
  1: (26) - The Bluebells
 
 
@@ -19,10 +19,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  9: (11) - Orchestral Manoeuvres in the Dark
-10: (10) - Suzanne Vega
-11: ( 9) - Josh Ritter
-12: ( 9) - Laura Marling
-13: ( 8) - Lime Garden
+10: (10) - Lime Garden
+11: (10) - Suzanne Vega
+12: ( 9) - Josh Ritter
+13: ( 9) - Laura Marling
 14: ( 8) - Vegas Water Taxi
 
 
