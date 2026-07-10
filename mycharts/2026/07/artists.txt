@@ -1,7 +1,7 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     100             9             9            74
-1: (28) - Haircut 100
+     102            10            10            76
+ 1: (28) - Haircut 100
 
 
 
@@ -14,21 +14,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-2: (15) - The Bluebells
+ 2: (15) - The Bluebells
 
 
-3: (12) - Lime Garden
-4: (12) - Nell Davies
-5: (12) - Orchestral Manoeuvres in the Dark
-
-
-
-6: ( 8) - Creedence Clearwater Revival
-7: ( 8) - Sharon Van Etten
+ 3: (12) - Lime Garden
+ 4: (12) - Nell Davies
+ 5: (12) - Orchestral Manoeuvres in the Dark
 
 
 
-8: ( 4) - Nick Heyward
+ 6: ( 8) - Creedence Clearwater Revival
+ 7: ( 8) - Sharon Van Etten
 
 
-9: ( 1) - Martin Stephenson
+
+ 8: ( 4) - Nick Heyward
+
+ 9: ( 2) - The Fall
+10: ( 1) - Martin Stephenson
