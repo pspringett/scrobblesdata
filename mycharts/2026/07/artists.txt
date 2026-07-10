@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      90             9             9            64
+     100             9             9            74
 1: (28) - Haircut 100
 
 
@@ -19,15 +19,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 3: (12) - Lime Garden
 4: (12) - Nell Davies
+5: (12) - Orchestral Manoeuvres in the Dark
 
 
 
-5: ( 8) - Creedence Clearwater Revival
-6: ( 8) - Sharon Van Etten
+6: ( 8) - Creedence Clearwater Revival
+7: ( 8) - Sharon Van Etten
 
 
 
-7: ( 4) - Nick Heyward
+8: ( 4) - Nick Heyward
 
-8: ( 2) - Orchestral Manoeuvres in the Dark
+
 9: ( 1) - Martin Stephenson
