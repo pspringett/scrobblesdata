@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     126            10            10            79
+     131            11            11            84
  1: (28) - Haircut 100
 
 
@@ -23,11 +23,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: ( 8) - Creedence Clearwater Revival
  7: ( 8) - Sharon Van Etten
+ 8: ( 7) - The Fall
 
 
+ 9: ( 4) - Nick Heyward
 
- 8: ( 4) - Nick Heyward
- 9: ( 4) - The Fall
-
-
-10: ( 1) - Martin Stephenson
+10: ( 2) - The Rolling Stones
+11: ( 1) - Martin Stephenson
