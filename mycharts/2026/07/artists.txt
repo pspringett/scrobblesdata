@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     190            16            18           133
+     199            16            19           142
  1: (37) - Haircut 100
 
 
@@ -20,13 +20,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  3: (21) - Nell Davies
 
 
+ 4: (18) - Orchestral Manoeuvres in the Dark
+ 5: (17) - Lime Garden
+ 6: (16) - David Bowie
+ 7: (16) - Roxy Music
 
- 4: (17) - Lime Garden
- 5: (16) - Roxy Music
 
 
- 6: (13) - Orchestral Manoeuvres in the Dark
- 7: (12) - David Bowie
+
 
 
 
