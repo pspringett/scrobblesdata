@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     165            16            17           118
+     167            16            17           120
  1: (28) - Haircut 100
 
 
@@ -23,10 +23,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: ( 8) - Creedence Clearwater Revival
  7: ( 8) - Emma Swift
- 8: ( 8) - Sharon Van Etten
- 9: ( 7) - The Fall
-10: ( 6) - David Bowie
-11: ( 6) - Roxy Music
+ 8: ( 8) - Roxy Music
+ 9: ( 8) - Sharon Van Etten
+10: ( 7) - The Fall
+11: ( 6) - David Bowie
 12: ( 6) - Whitelands
 13: ( 5) - It’S Immaterial
 14: ( 4) - Nick Heyward
