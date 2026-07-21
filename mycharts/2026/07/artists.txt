@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     184            16            17           127
+     190            16            18           133
  1: (37) - Haircut 100
 
 
@@ -26,15 +26,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: (13) - Orchestral Manoeuvres in the Dark
+ 7: (12) - David Bowie
 
 
 
-
- 7: ( 8) - Creedence Clearwater Revival
- 8: ( 8) - Emma Swift
- 9: ( 8) - Sharon Van Etten
-10: ( 7) - The Fall
-11: ( 6) - David Bowie
+ 8: ( 8) - Creedence Clearwater Revival
+ 9: ( 8) - Emma Swift
+10: ( 8) - Sharon Van Etten
+11: ( 7) - The Fall
 12: ( 6) - Whitelands
 13: ( 5) - It’S Immaterial
 14: ( 4) - Nick Heyward
