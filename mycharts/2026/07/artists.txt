@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     167            16            17           120
+     175            16            17           127
  1: (28) - Haircut 100
 
 
@@ -13,17 +13,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  4: (17) - Lime Garden
+ 5: (16) - Roxy Music
+
+
+ 6: (13) - Orchestral Manoeuvres in the Dark
 
 
 
- 5: (13) - Orchestral Manoeuvres in the Dark
 
-
-
-
- 6: ( 8) - Creedence Clearwater Revival
- 7: ( 8) - Emma Swift
- 8: ( 8) - Roxy Music
+ 7: ( 8) - Creedence Clearwater Revival
+ 8: ( 8) - Emma Swift
  9: ( 8) - Sharon Van Etten
 10: ( 7) - The Fall
 11: ( 6) - David Bowie
