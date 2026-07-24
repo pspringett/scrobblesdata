@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     213            17            20           156
+     216            17            20           158
  1: (37) - Haircut 100
 
 
@@ -28,13 +28,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 8: (11) - Simple Minds
 
 
-
- 8: ( 8) - Creedence Clearwater Revival
- 9: ( 8) - Emma Swift
-10: ( 8) - Sharon Van Etten
-11: ( 8) - Simple Minds
+ 9: ( 8) - Creedence Clearwater Revival
+10: ( 8) - Emma Swift
+11: ( 8) - Sharon Van Etten
 12: ( 7) - The Fall
 13: ( 6) - Whitelands
 14: ( 5) - It’S Immaterial
