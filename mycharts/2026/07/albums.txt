@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     245            19            22           176
+     250            19            23           178
  1: (39) - Boxing The Compass - Haircut 100
 
 
@@ -27,11 +27,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (16) - The Best Of Roxy Music - Roxy Music
  6: (15) - 16 Lovers Lane - The Go-Betweens
 
- 7: (13) - Live - In The City Of Light - Simple Minds
- 8: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
- 9: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
-10: (10) - Lodger (2017 Remaster) - David Bowie
-11: ( 9) - Green River - Creedence Clearwater Revival
+ 7: (13) - Green River - Creedence Clearwater Revival
+ 8: (13) - Live - In The City Of Light - Simple Minds
+ 9: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+10: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+11: (10) - Lodger (2017 Remaster) - David Bowie
 12: ( 9) - The Confuser - Robyn Hitchcock
 13: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
 14: ( 8) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
@@ -45,3 +45,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 21: ( 1) - Lilac Tree - Martin Stephenson
 22: ( 1) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+23: ( 1) * Tallulah - The Go-Betweens

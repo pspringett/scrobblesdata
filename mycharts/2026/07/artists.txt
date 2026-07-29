@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     245            19            22           176
+     250            19            23           178
  1: (39) - Haircut 100
 
 
@@ -26,13 +26,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (17) - Lime Garden
  6: (16) - David Bowie
  7: (16) - Roxy Music
- 8: (15) - The Go-Betweens
-
- 9: (13) - Simple Minds
+ 8: (16) - The Go-Betweens
 
 
+ 9: (13) - Creedence Clearwater Revival
+10: (13) - Simple Minds
 
-10: ( 9) - Creedence Clearwater Revival
+
+
 11: ( 9) - Robyn Hitchcock
 12: ( 8) - Emma Swift
 13: ( 8) - Sharon Van Etten
