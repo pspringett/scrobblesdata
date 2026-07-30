@@ -1,6 +1,6 @@
 Specified year (2026), specified month (7)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     250            19            23           178
+     252            19            23           178
  1: (39) - Haircut 100
 
 
@@ -32,9 +32,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  9: (13) - Creedence Clearwater Revival
 10: (13) - Simple Minds
 
+11: (11) - Robyn Hitchcock
 
 
-11: ( 9) - Robyn Hitchcock
 12: ( 8) - Emma Swift
 13: ( 8) - Sharon Van Etten
 14: ( 7) - The Fall
