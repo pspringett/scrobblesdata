@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2958            97           165          1277
+    2973            97           165          1284
   1: (91) - Again - The Belair Lip Bombs
 
 
@@ -77,20 +77,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  32: (28) - The Resurrection Game - Emma Swift
+ 33: (27) - The Confuser - Robyn Hitchcock
+ 34: (26) - Bob Dylan - Bob Dylan
+ 35: (26) - Strawberries - Robert Forster
+ 36: (26) - The Prince Of Wales - Devine & Statton
 
- 33: (26) - Bob Dylan - Bob Dylan
- 34: (26) - Strawberries - Robert Forster
- 35: (26) - The Prince Of Wales - Devine & Statton
+ 37: (24) - High Bells Ring Thin - Martin Stephenson
+ 38: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
+ 39: (24) - Po' Girl - Po' Girl
+ 40: (23) - Eden - Everything But the Girl
+ 41: (22) - A Beard Of Stars - T. Rex
 
- 36: (24) - High Bells Ring Thin - Martin Stephenson
- 37: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 38: (24) - Po' Girl - Po' Girl
- 39: (23) - Eden - Everything But the Girl
- 40: (22) - A Beard Of Stars - T. Rex
-
- 41: (20) * Eveningland - Hem
- 42: (20) - Hex Enduction Hour - The Fall
- 43: (20) - The Confuser - Robyn Hitchcock
+ 42: (20) * Eveningland - Hem
+ 43: (20) - Hex Enduction Hour - The Fall
  44: (20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
  45: (19) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
  46: (19) - Flying With Angels - Suzanne Vega
@@ -110,53 +109,53 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  60: (15) * Tales Of Light And Darkness - Angie Palmer
  61: (15) - The Freewheelin' Bob Dylan - Bob Dylan
  62: (15) * Yogi In My House - Martin Stephenson
- 63: (14) - Live In Dublin - Leonard Cohen
- 64: (14) * Rabbit Songs - Hem
- 65: (13) * Broken Carelessly - The Redlands Palomino Company
- 66: (13) - Favourite Songs - The Best Of - Haircut 100
- 67: (13) - Green River - Creedence Clearwater Revival
- 68: (13) - Let It Bleed - The Rolling Stones
- 69: (13) - Live - In The City Of Light - Simple Minds
- 70: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
- 71: (13) * Seventeen Seconds - The Cure
- 72: (13) - Tambourine - Tift Merritt
- 73: (12) - Axis: Bold As Love - Jimi Hendrix
- 74: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
- 75: (12) - Moisturizer - Wet Leg
- 76: (12) - Once Upon A Time - Simple Minds
- 77: (12) - Punch The Clock - Elvis Costello & the Attractions
- 78: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
- 79: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
- 80: (11) - Low - David Bowie
- 81: (11) * Ocean Rain - Echo & the Bunnymen
- 82: (11) * The Negatives - Lloyd Cole
- 83: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 84: (10) * Blonde On Blonde - Bob Dylan
- 85: (10) - Life's Hard And Then You Die - It'S Immaterial
- 86: (10) - Lodger (2017 Remaster) - David Bowie
- 87: (10) - One More Thing - Lime Garden
- 88: (10) * Reading, Writing & Arithmetic - The Sundays
- 89: (10) - Snap, Crackle & Bop - John Cooper Clarke
- 90: (10) - Spectral Lines - Josh Ritter
- 91: (10) * Stumble Into Grace - Emmylou Harris
- 92: (10) - Suzanne Vega - Suzanne Vega
- 93: (10) - The Candle And The Flame - Robert Forster
- 94: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 95: ( 9) * I Speak Because I Can - Laura Marling
- 96: ( 9) * Lost And Found - Eliza Gilkyson
- 97: ( 9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
- 98: ( 9) - Saturns Pattern - Paul Weller
- 99: ( 9) * Various Positions - Leonard Cohen
-100: ( 8) - Flesh And Blood - Roxy Music
-101: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
-102: ( 8) - Penthouse And Pavement - Heaven 17
-103: ( 7) - Home Recordings - Emma Swift
-104: ( 7) - Room To Live - The Fall
-105: ( 7) * Songs From A Room - Leonard Cohen
-106: ( 7) - Stitch Of The World - Tift Merritt
-107: ( 7) * Texas Fever - Orange Juice
-108: ( 7) - Time And Patience - Tift Merritt
-109: ( 6) - Foreign Tongues - The Rolling Stones
+ 63: (14) - Foreign Tongues - The Rolling Stones
+ 64: (14) - Live In Dublin - Leonard Cohen
+ 65: (14) * Rabbit Songs - Hem
+ 66: (13) * Broken Carelessly - The Redlands Palomino Company
+ 67: (13) - Favourite Songs - The Best Of - Haircut 100
+ 68: (13) - Green River - Creedence Clearwater Revival
+ 69: (13) - Let It Bleed - The Rolling Stones
+ 70: (13) - Live - In The City Of Light - Simple Minds
+ 71: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
+ 72: (13) * Seventeen Seconds - The Cure
+ 73: (13) - Tambourine - Tift Merritt
+ 74: (12) - Axis: Bold As Love - Jimi Hendrix
+ 75: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+ 76: (12) - Moisturizer - Wet Leg
+ 77: (12) - Once Upon A Time - Simple Minds
+ 78: (12) - Punch The Clock - Elvis Costello & the Attractions
+ 79: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+ 80: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 81: (11) - Low - David Bowie
+ 82: (11) * Ocean Rain - Echo & the Bunnymen
+ 83: (11) * The Negatives - Lloyd Cole
+ 84: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 85: (10) * Blonde On Blonde - Bob Dylan
+ 86: (10) - Life's Hard And Then You Die - It'S Immaterial
+ 87: (10) - Lodger (2017 Remaster) - David Bowie
+ 88: (10) - One More Thing - Lime Garden
+ 89: (10) * Reading, Writing & Arithmetic - The Sundays
+ 90: (10) - Snap, Crackle & Bop - John Cooper Clarke
+ 91: (10) - Spectral Lines - Josh Ritter
+ 92: (10) * Stumble Into Grace - Emmylou Harris
+ 93: (10) - Suzanne Vega - Suzanne Vega
+ 94: (10) - The Candle And The Flame - Robert Forster
+ 95: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 96: ( 9) * I Speak Because I Can - Laura Marling
+ 97: ( 9) * Lost And Found - Eliza Gilkyson
+ 98: ( 9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
+ 99: ( 9) - Saturns Pattern - Paul Weller
+100: ( 9) * Various Positions - Leonard Cohen
+101: ( 8) - Flesh And Blood - Roxy Music
+102: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
+103: ( 8) - Penthouse And Pavement - Heaven 17
+104: ( 7) - Home Recordings - Emma Swift
+105: ( 7) - Room To Live - The Fall
+106: ( 7) * Songs From A Room - Leonard Cohen
+107: ( 7) - Stitch Of The World - Tift Merritt
+108: ( 7) * Texas Fever - Orange Juice
+109: ( 7) - Time And Patience - Tift Merritt
 110: ( 6) * Gorgeous George - Edwyn Collins
 111: ( 6) - Grotesque (After The Gramme) - The Fall
 112: ( 6) * Knife - Aztec Camera

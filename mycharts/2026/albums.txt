@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2291            78           120           977
+    2306            78           120           984
   1: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
 
   2: (81) - The Clearing - Wolf Alice
@@ -63,15 +63,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  26: (30) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
 
+ 27: (27) - The Confuser - Robyn Hitchcock
+ 28: (26) - Bob Dylan - Bob Dylan
 
- 27: (26) - Bob Dylan - Bob Dylan
+ 29: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
+ 30: (24) - Po' Girl - Po' Girl
 
- 28: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
- 29: (24) - Po' Girl - Po' Girl
+ 31: (22) - A Beard Of Stars - T. Rex
 
- 30: (22) - A Beard Of Stars - T. Rex
-
- 31: (20) - The Confuser - Robyn Hitchcock
  32: (20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
  33: (19) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
  34: (19) - Strawberries - Robert Forster
@@ -86,49 +85,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  43: (15) - Easter Lily Ep - U2
  44: (15) * Tales Of Light And Darkness - Angie Palmer
  45: (15) - The Freewheelin' Bob Dylan - Bob Dylan
- 46: (14) - Hex Enduction Hour - The Fall
- 47: (14) - Live In Dublin - Leonard Cohen
- 48: (13) * Broken Carelessly - The Redlands Palomino Company
- 49: (13) - Green River - Creedence Clearwater Revival
- 50: (13) - Let It Bleed - The Rolling Stones
- 51: (13) - Live - In The City Of Light - Simple Minds
- 52: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
- 53: (13) * Rattlesnakes - Lloyd Cole and the Commotions
- 54: (13) * Seventeen Seconds - The Cure
- 55: (13) - Tambourine - Tift Merritt
- 56: (13) - The Prince Of Wales - Devine & Statton
- 57: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
- 58: (12) - Once Upon A Time - Simple Minds
- 59: (12) - Punch The Clock - Elvis Costello & the Attractions
- 60: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
- 61: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
- 62: (11) - Eden - Everything But the Girl
- 63: (11) - Ghost Palace - The Burning Hell
- 64: (11) * Ocean Rain - Echo & the Bunnymen
- 65: (11) * The Negatives - Lloyd Cole
- 66: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 67: (10) - 66 - Paul Weller
- 68: (10) - Blue Weekend - Wolf Alice
- 69: (10) - Flying With Angels - Suzanne Vega
- 70: (10) - Life's Hard And Then You Die - It'S Immaterial
- 71: (10) - Lodger (2017 Remaster) - David Bowie
- 72: (10) - One More Thing - Lime Garden
- 73: (10) - Snap, Crackle & Bop - John Cooper Clarke
- 74: (10) - Suzanne Vega - Suzanne Vega
- 75: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 76: (10) - Western Pleasure - Chaparelle
- 77: ( 9) * I Speak Because I Can - Laura Marling
- 78: ( 9) - Saturns Pattern - Paul Weller
- 79: ( 9) - The Candle And The Flame - Robert Forster
- 80: ( 9) * Various Positions - Leonard Cohen
- 81: ( 8) - Flesh And Blood - Roxy Music
- 82: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
- 83: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
- 84: ( 7) - Home Recordings - Emma Swift
- 85: ( 7) - Room To Live - The Fall
- 86: ( 7) - Stitch Of The World - Tift Merritt
- 87: ( 7) - Time And Patience - Tift Merritt
- 88: ( 6) - Foreign Tongues - The Rolling Stones
+ 46: (14) - Foreign Tongues - The Rolling Stones
+ 47: (14) - Hex Enduction Hour - The Fall
+ 48: (14) - Live In Dublin - Leonard Cohen
+ 49: (13) * Broken Carelessly - The Redlands Palomino Company
+ 50: (13) - Green River - Creedence Clearwater Revival
+ 51: (13) - Let It Bleed - The Rolling Stones
+ 52: (13) - Live - In The City Of Light - Simple Minds
+ 53: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
+ 54: (13) * Rattlesnakes - Lloyd Cole and the Commotions
+ 55: (13) * Seventeen Seconds - The Cure
+ 56: (13) - Tambourine - Tift Merritt
+ 57: (13) - The Prince Of Wales - Devine & Statton
+ 58: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+ 59: (12) - Once Upon A Time - Simple Minds
+ 60: (12) - Punch The Clock - Elvis Costello & the Attractions
+ 61: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+ 62: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 63: (11) - Eden - Everything But the Girl
+ 64: (11) - Ghost Palace - The Burning Hell
+ 65: (11) * Ocean Rain - Echo & the Bunnymen
+ 66: (11) * The Negatives - Lloyd Cole
+ 67: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 68: (10) - 66 - Paul Weller
+ 69: (10) - Blue Weekend - Wolf Alice
+ 70: (10) - Flying With Angels - Suzanne Vega
+ 71: (10) - Life's Hard And Then You Die - It'S Immaterial
+ 72: (10) - Lodger (2017 Remaster) - David Bowie
+ 73: (10) - One More Thing - Lime Garden
+ 74: (10) - Snap, Crackle & Bop - John Cooper Clarke
+ 75: (10) - Suzanne Vega - Suzanne Vega
+ 76: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 77: (10) - Western Pleasure - Chaparelle
+ 78: ( 9) * I Speak Because I Can - Laura Marling
+ 79: ( 9) - Saturns Pattern - Paul Weller
+ 80: ( 9) - The Candle And The Flame - Robert Forster
+ 81: ( 9) * Various Positions - Leonard Cohen
+ 82: ( 8) - Flesh And Blood - Roxy Music
+ 83: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
+ 84: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
+ 85: ( 7) - Home Recordings - Emma Swift
+ 86: ( 7) - Room To Live - The Fall
+ 87: ( 7) - Stitch Of The World - Tift Merritt
+ 88: ( 7) - Time And Patience - Tift Merritt
  89: ( 6) - Grotesque (After The Gramme) - The Fall
  90: ( 6) - Low - David Bowie
  91: ( 6) * The Trinity Session - Cowboy Junkies
