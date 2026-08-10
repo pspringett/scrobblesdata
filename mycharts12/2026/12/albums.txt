@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2331            79           122          1003
+    2349            80           123          1014
   1: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
 
   2: (81) - The Clearing - Wolf Alice
@@ -21,8 +21,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  8: (64) - Maybe Not Tonight - Lime Garden
+  8: (65) - Maybe Not Tonight - Lime Garden
   9: (64) - These Frightening Machines - Katherine Priddy
  10: (63) - Bayou Country - Creedence Clearwater Revival
  11: (62) - Creedence Clearwater Revival - Creedence Clearwater Revival
@@ -57,13 +56,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  22: (34) - Days Of Ash Ep - U2
  23: (34) - Unclouded - Melody'S Echo Chamber
+ 24: (33) - The Confuser - Robyn Hitchcock
+ 25: (32) - I Believe In You, My Honeydew - Josh Ritter
+ 26: (31) - David Bowie (aka Space Oddity) - David Bowie
+ 27: (30) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
- 24: (32) - I Believe In You, My Honeydew - Josh Ritter
- 25: (31) - David Bowie (aka Space Oddity) - David Bowie
- 26: (30) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
 
- 27: (27) - The Confuser - Robyn Hitchcock
  28: (26) - Bob Dylan - Bob Dylan
 
  29: (24) - Live In London 1980: The Legendary Chaos Tape - The Fall
@@ -105,61 +104,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  63: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
  64: (11) - Eden - Everything But the Girl
  65: (11) - Ghost Palace - The Burning Hell
- 66: (11) * Ocean Rain - Echo & the Bunnymen
- 67: (11) * The Negatives - Lloyd Cole
- 68: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 69: (10) - 66 - Paul Weller
- 70: (10) - Blue Weekend - Wolf Alice
- 71: (10) - Flying With Angels - Suzanne Vega
- 72: (10) - Life's Hard And Then You Die - It'S Immaterial
- 73: (10) - Lodger (2017 Remaster) - David Bowie
- 74: (10) - One More Thing - Lime Garden
- 75: (10) - Snap, Crackle & Bop - John Cooper Clarke
- 76: (10) - Suzanne Vega - Suzanne Vega
- 77: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 78: ( 9) - A Duck's Water Off My Back - Champion Trees
- 79: ( 9) * I Speak Because I Can - Laura Marling
- 80: ( 9) - Saturns Pattern - Paul Weller
- 81: ( 9) - The Candle And The Flame - Robert Forster
- 82: ( 9) * Various Positions - Leonard Cohen
- 83: ( 8) - Flesh And Blood - Roxy Music
- 84: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
- 85: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
- 86: ( 7) - Home Recordings - Emma Swift
- 87: ( 7) - Room To Live - The Fall
- 88: ( 7) - Stitch Of The World - Tift Merritt
- 89: ( 7) - Time And Patience - Tift Merritt
- 90: ( 6) - Grotesque (After The Gramme) - The Fall
- 91: ( 6) - Low - David Bowie
- 92: ( 6) - Red Rust September - Eyeless in Gaza
- 93: ( 6) * The Trinity Session - Cowboy Junkies
- 94: ( 6) - Waves - Newdad
- 95: ( 5) - Ghost - Mercy Girl
- 96: ( 5) - House For Sale - It’S Immaterial
- 97: ( 5) - Mercy Girl Singles - Mercy Girl
- 98: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
- 99: ( 5) - Your Day Will Come - Chanel Beads
-100: ( 4) * Happy Birthday - Altered Images
-101: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-102: ( 4) - Woodland Echoes - Nick Heyward
-103: ( 3) - Country Life - Roxy Music
-104: ( 3) - Death In The Business Of Whaling - Searows
-105: ( 3) - Horses - Patti Smith
-106: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-107: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
-108: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-109: ( 2) - Dragnet - The Fall
-110: ( 2) - Gold - Greatest Hits - The Carpenters
-111: ( 2) - Substance 1987 - New Order
-112: ( 1) - Bowie At The Beeb - David Bowie
-113: ( 1) - Golden Age - Heaven 17
-114: ( 1) - Gotta Get Away - The Schwa
-115: ( 1) - Never Never - The Assembly
-116: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-117: ( 1) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-118: ( 1) - Private Practice - Dr Feelgood
-119: ( 1) - Slumber Party - Brigitte Calls Me Baby
-120: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-121: ( 1) - Take Me Home - The Redlands Palomino Company
-122: ( 1) * Tallulah - The Go-Betweens
-123: ( 1) - The Collection - Marc Bolan & T. Rex
+ 66: (11) * Little Rock - Hayes Carll
+ 67: (11) * Ocean Rain - Echo & the Bunnymen
+ 68: (11) * The Negatives - Lloyd Cole
+ 69: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 70: (10) - 66 - Paul Weller
+ 71: (10) - Blue Weekend - Wolf Alice
+ 72: (10) - Flying With Angels - Suzanne Vega
+ 73: (10) - Life's Hard And Then You Die - It'S Immaterial
+ 74: (10) - Lodger (2017 Remaster) - David Bowie
+ 75: (10) - One More Thing - Lime Garden
+ 76: (10) - Snap, Crackle & Bop - John Cooper Clarke
+ 77: (10) - Suzanne Vega - Suzanne Vega
+ 78: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 79: ( 9) - A Duck's Water Off My Back - Champion Trees
+ 80: ( 9) * I Speak Because I Can - Laura Marling
+ 81: ( 9) - Saturns Pattern - Paul Weller
+ 82: ( 9) - The Candle And The Flame - Robert Forster
+ 83: ( 9) * Various Positions - Leonard Cohen
+ 84: ( 8) - Flesh And Blood - Roxy Music
+ 85: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
+ 86: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
+ 87: ( 7) - Home Recordings - Emma Swift
+ 88: ( 7) - Room To Live - The Fall
+ 89: ( 7) - Stitch Of The World - Tift Merritt
+ 90: ( 7) - Time And Patience - Tift Merritt
+ 91: ( 6) - Grotesque (After The Gramme) - The Fall
+ 92: ( 6) - Low - David Bowie
+ 93: ( 6) - Red Rust September - Eyeless in Gaza
+ 94: ( 6) * The Trinity Session - Cowboy Junkies
+ 95: ( 6) - Waves - Newdad
+ 96: ( 5) - Ghost - Mercy Girl
+ 97: ( 5) - House For Sale - It’S Immaterial
+ 98: ( 5) - Mercy Girl Singles - Mercy Girl
+ 99: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+100: ( 5) - Your Day Will Come - Chanel Beads
+101: ( 4) * Happy Birthday - Altered Images
+102: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+103: ( 4) - Woodland Echoes - Nick Heyward
+104: ( 3) - Country Life - Roxy Music
+105: ( 3) - Death In The Business Of Whaling - Searows
+106: ( 3) - Horses - Patti Smith
+107: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+108: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
+109: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+110: ( 2) - Dragnet - The Fall
+111: ( 2) - Gold - Greatest Hits - The Carpenters
+112: ( 2) - Substance 1987 - New Order
+113: ( 1) - Bowie At The Beeb - David Bowie
+114: ( 1) - Golden Age - Heaven 17
+115: ( 1) - Gotta Get Away - The Schwa
+116: ( 1) - Never Never - The Assembly
+117: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+118: ( 1) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+119: ( 1) - Private Practice - Dr Feelgood
+120: ( 1) - Slumber Party - Brigitte Calls Me Baby
+121: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+122: ( 1) - Take Me Home - The Redlands Palomino Company
+123: ( 1) * Tallulah - The Go-Betweens
+124: ( 1) - The Collection - Marc Bolan & T. Rex
