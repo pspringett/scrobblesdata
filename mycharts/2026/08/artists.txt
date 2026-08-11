@@ -1,6 +1,6 @@
 Specified year (2026), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      99            12            13            93
+     100            12            13            94
  1: (15) - Robyn Hitchcock
 
 
@@ -10,9 +10,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  4: (10) - The Rolling Stones
  5: ( 9) - Champion Trees
  6: ( 9) - Haircut 100
-
- 7: ( 7) - Lime Garden
- 8: ( 7) - Scritti Politti
+ 7: ( 8) - Scritti Politti
+ 8: ( 7) - Lime Garden
  9: ( 6) - Chaparelle
 10: ( 6) - Eyeless in Gaza
 11: ( 5) - Chanel Beads
