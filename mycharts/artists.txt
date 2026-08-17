@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   71763          1304          1965         13644
+   71776          1304          1965         13646
    1: (2171) - Lloyd Cole
    2: (1981) - David Bowie
    3: (1873) - Bob Dylan
@@ -35,7 +35,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   32: ( 605) - The Beatles
   33: ( 596) - Emmylou Harris
   34: ( 562) - The Velvet Underground
-  35: ( 545) - T. Rex
+  35: ( 549) - T. Rex
   36: ( 530) - Shelby Lynne
   37: ( 480) - Talking Heads
   38: ( 468) - Rodney Crowell
@@ -332,79 +332,79 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  329: (  19) - Patti Smith
  330: (  19) - Paul & Linda Mccartney
  331: (  18) - Calexico
- 332: (  18) - Michael Stipe
- 333: (  18) - The Cool Greenhouse
- 334: (  17) - Bill Nelson
- 335: (  17) - Brix Smith
- 336: (  17) - Kurt Vile
- 337: (  17) - The Specials
- 338: (  16) - Bob Marley
- 339: (  15) - Field Music
- 340: (  15) - Martin Stephenson, John Perry
- 341: (  15) - Sparks
- 342: (  15) - The Dream Syndicate
- 343: (  15) - The Fire Engines
- 344: (  14) - David Byrne
- 345: (  14) - Sly & the Family Stone
- 346: (  13) - David Byrne & St. Vincent
- 347: (  13) - Duran Duran
- 348: (  13) - John Cale
- 349: (  13) - Kristin Hersh
- 350: (  13) - Miranda Lambert
- 351: (  13) - Ryan Bingham
- 352: (  13) - The Bathers
- 353: (  13) - Tubeway Army
- 354: (  13) - William Tyler
- 355: (  12) - Belle and Sebastian
- 356: (  12) - Callaghan
- 357: (  12) - Clinic Stars
- 358: (  12) - Fontaines D.c.
- 359: (  12) - Goldfrapp
- 360: (  12) - Jim Croce
- 361: (  12) - John Foxx
- 362: (  12) - Max Romeo
- 363: (  12) - Myrtle Park's Fishing Club
- 364: (  12) - The Church
- 365: (  12) - The Jimi Hendrix Experience
- 366: (  12) - Tom Robinson
- 367: (  12) - Yonder Mountain String Band
- 368: (  11) - Bob Hund
- 369: (  11) - Brigitte Calls Me Baby
- 370: (  11) - Colin Farrell
- 371: (  11) - Darling West
- 372: (  11) - Dry Cleaning
- 373: (  11) - Elizabeth Cook
- 374: (  11) - Françoise Hardy
- 375: (  11) - Grace Petrie
- 376: (  11) - Guillemots
- 377: (  11) - Guy Clark
- 378: (  11) - Hatchie
- 379: (  11) - Laurel Canyon
- 380: (  11) - Matt Berninger
- 381: (  11) - Peel.Rocks Magazine
- 382: (  11) - Rolling Blackouts Coastal Fever
- 383: (  11) - Television
- 384: (  11) - The Men
- 385: (  11) - Travis Linville
- 386: (  10) - Cara Luft
- 387: (  10) - Dinah Washington
- 388: (  10) - Easy Star All-stars
- 389: (  10) - Elastica
- 390: (  10) - Green Gartside
- 391: (  10) - K.D. Lang
- 392: (  10) - Kathleen Edwards
- 393: (  10) - Madeleine Peyroux
- 394: (  10) - Mercy Girl
- 395: (  10) - Mount Moriah
- 396: (  10) - Nico
- 397: (  10) - Nina Simone
- 398: (  10) - Samantha Crain
- 399: (  10) - The Feelies
- 400: (  10) - The Twilight Sad
- 401: (  10) - Tim Buckley
- 402: (  10) - Wednesday
- 403: (   9) - Bryan Adams
- 404: (   9) - Champion Trees
+ 332: (  18) - Champion Trees
+ 333: (  18) - Michael Stipe
+ 334: (  18) - The Cool Greenhouse
+ 335: (  17) - Bill Nelson
+ 336: (  17) - Brix Smith
+ 337: (  17) - Kurt Vile
+ 338: (  17) - The Specials
+ 339: (  16) - Bob Marley
+ 340: (  15) - Field Music
+ 341: (  15) - Martin Stephenson, John Perry
+ 342: (  15) - Sparks
+ 343: (  15) - The Dream Syndicate
+ 344: (  15) - The Fire Engines
+ 345: (  14) - David Byrne
+ 346: (  14) - Sly & the Family Stone
+ 347: (  13) - David Byrne & St. Vincent
+ 348: (  13) - Duran Duran
+ 349: (  13) - John Cale
+ 350: (  13) - Kristin Hersh
+ 351: (  13) - Miranda Lambert
+ 352: (  13) - Ryan Bingham
+ 353: (  13) - The Bathers
+ 354: (  13) - Tubeway Army
+ 355: (  13) - William Tyler
+ 356: (  12) - Belle and Sebastian
+ 357: (  12) - Callaghan
+ 358: (  12) - Clinic Stars
+ 359: (  12) - Fontaines D.c.
+ 360: (  12) - Goldfrapp
+ 361: (  12) - Jim Croce
+ 362: (  12) - John Foxx
+ 363: (  12) - Max Romeo
+ 364: (  12) - Myrtle Park's Fishing Club
+ 365: (  12) - The Church
+ 366: (  12) - The Jimi Hendrix Experience
+ 367: (  12) - Tom Robinson
+ 368: (  12) - Yonder Mountain String Band
+ 369: (  11) - Bob Hund
+ 370: (  11) - Brigitte Calls Me Baby
+ 371: (  11) - Colin Farrell
+ 372: (  11) - Darling West
+ 373: (  11) - Dry Cleaning
+ 374: (  11) - Elizabeth Cook
+ 375: (  11) - Françoise Hardy
+ 376: (  11) - Grace Petrie
+ 377: (  11) - Guillemots
+ 378: (  11) - Guy Clark
+ 379: (  11) - Hatchie
+ 380: (  11) - Laurel Canyon
+ 381: (  11) - Matt Berninger
+ 382: (  11) - Peel.Rocks Magazine
+ 383: (  11) - Rolling Blackouts Coastal Fever
+ 384: (  11) - Television
+ 385: (  11) - The Men
+ 386: (  11) - Travis Linville
+ 387: (  10) - Cara Luft
+ 388: (  10) - Dinah Washington
+ 389: (  10) - Easy Star All-stars
+ 390: (  10) - Elastica
+ 391: (  10) - Green Gartside
+ 392: (  10) - K.D. Lang
+ 393: (  10) - Kathleen Edwards
+ 394: (  10) - Madeleine Peyroux
+ 395: (  10) - Mercy Girl
+ 396: (  10) - Mount Moriah
+ 397: (  10) - Nico
+ 398: (  10) - Nina Simone
+ 399: (  10) - Samantha Crain
+ 400: (  10) - The Feelies
+ 401: (  10) - The Twilight Sad
+ 402: (  10) - Tim Buckley
+ 403: (  10) - Wednesday
+ 404: (   9) - Bryan Adams
  405: (   9) - Daniel Bachman
  406: (   9) - Gregory Isaacs
  407: (   9) - Hawkwind Zoo
