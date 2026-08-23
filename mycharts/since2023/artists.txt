@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   12817           290           506          3848
+   12885           290           508          3906
   1: (371) - Josh Ritter
 
 
@@ -172,33 +172,33 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 14: (201) - Echo & the Bunnymen
+ 15: (200) - Roxy Music
 
- 14: (200) - Roxy Music
-
- 15: (198) - Lloyd Cole
-
-
+ 16: (198) - Lloyd Cole
 
 
 
 
- 16: (191) - Wolf Alice
- 17: (190) - Paul Weller
 
 
- 18: (187) - U2
- 19: (186) - The Bluebells
+ 17: (191) - Wolf Alice
+ 18: (190) - Paul Weller
 
 
- 20: (183) - Lime Garden
- 21: (183) - Orchestral Manoeuvres in the Dark
-
- 22: (181) - Orange Juice
+ 19: (187) - U2
+ 20: (186) - The Bluebells
 
 
+ 21: (183) - Lime Garden
+ 22: (183) - Orchestral Manoeuvres in the Dark
+
+ 23: (181) - Orange Juice
 
 
- 23: (176) - Echo & the Bunnymen
+
+
+
 
 
 
@@ -337,81 +337,80 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  75: ( 48) - Glyders
  76: ( 47) - Delays
  77: ( 47) - JT Nero
+ 78: ( 46) - Blondie
+ 79: ( 45) - Elvis Costello & the Attractions
+ 80: ( 44) - Beach Fossils
+ 81: ( 44) - T. Rex
+ 82: ( 44) - Wishy
 
- 78: ( 45) - Elvis Costello & the Attractions
- 79: ( 44) - Beach Fossils
- 80: ( 44) - T. Rex
- 81: ( 44) - Wishy
+ 83: ( 42) - Cigarettes After Sex
+ 84: ( 42) - Jason Isbell and the 400 Unit
+ 85: ( 42) - Pillow Queens
 
- 82: ( 42) - Cigarettes After Sex
- 83: ( 42) - Jason Isbell and the 400 Unit
- 84: ( 42) - Pillow Queens
+ 86: ( 40) - The Redlands Palomino Company
+ 87: ( 39) - Angie Palmer
+ 88: ( 39) - Cocteau Twins
+ 89: ( 39) - Shack
+ 90: ( 39) - Tallies
+ 91: ( 38) - Anne McCue
+ 92: ( 38) - Coach Party
+ 93: ( 38) - Suede
+ 94: ( 38) - The Rolling Stones
+ 95: ( 38) - Tift Merritt
+ 96: ( 37) - Pj Harvey
+ 97: ( 36) - Bryan Ferry, Amelia Barratt
+ 98: ( 35) - Talking Heads
+ 99: ( 34) - Emmylou Harris
+100: ( 34) - Melody'S Echo Chamber
+101: ( 34) - Waxahatchee
+102: ( 33) - Robyn Hitchcock
+103: ( 32) - Nightbus
+104: ( 31) - Courting
+105: ( 31) - Weyes Blood
+106: ( 30) - Paramore
+107: ( 30) - Yazoo
+108: ( 29) - Be Your Own Pet
+109: ( 29) - Scott Walker
+110: ( 29) - The Corrs
+111: ( 28) - The Last Dinner Party
+112: ( 28) - The Smiths
+113: ( 28) - The Zephyrs
 
- 85: ( 40) - The Redlands Palomino Company
- 86: ( 39) - Angie Palmer
- 87: ( 39) - Cocteau Twins
- 88: ( 39) - Shack
- 89: ( 39) - Tallies
- 90: ( 38) - Anne McCue
- 91: ( 38) - Coach Party
- 92: ( 38) - Suede
- 93: ( 38) - The Rolling Stones
- 94: ( 38) - Tift Merritt
- 95: ( 37) - Pj Harvey
- 96: ( 36) - Bryan Ferry, Amelia Barratt
- 97: ( 35) - Talking Heads
- 98: ( 34) - Emmylou Harris
- 99: ( 34) - Melody'S Echo Chamber
-100: ( 34) - Waxahatchee
-101: ( 33) - Robyn Hitchcock
-102: ( 32) - Nightbus
-103: ( 31) - Courting
-104: ( 31) - Weyes Blood
-105: ( 30) - Paramore
-106: ( 30) - Yazoo
-107: ( 29) - Be Your Own Pet
-108: ( 29) - Scott Walker
-109: ( 29) - The Corrs
-110: ( 28) - The Last Dinner Party
-111: ( 28) - The Smiths
-112: ( 28) - The Zephyrs
-
-113: ( 26) - The Weather Station
-114: ( 25) - Taylor Swift
-115: ( 25) - The Velvet Underground
-116: ( 24) - ABC
-117: ( 24) - Mint Mile
-118: ( 24) - Po' Girl
-119: ( 24) - The B-52's
-120: ( 24) - The Beach Boys
-121: ( 23) - Julie
-122: ( 22) - Curtis Mayfield
-123: ( 22) - Diiv
-124: ( 22) - Hayes Carll
-125: ( 22) - Inhaler
-126: ( 22) - Jana Horn
-127: ( 22) - Steve Mason
-128: ( 21) - Cut Worms
-129: ( 21) - Drop Nineteens
-130: ( 21) - Rosanne Cash
-131: ( 21) - Shelby Lynne, Allison Moorer
-132: ( 20) - Elvis Costello
-133: ( 20) - The National
-134: ( 19) - Love
-135: ( 19) - Patty Griffin
-136: ( 19) - UB40
-137: ( 18) - Champion Trees
-138: ( 18) - Duke Garwood
-139: ( 18) - Prefab Sprout
-140: ( 17) - Bill Nelson
-141: ( 17) - Brix Smith
-142: ( 16) - Chip Taylor & Carrie Rodriguez
-143: ( 16) - Nick Heyward
-144: ( 16) - The Specials
-145: ( 15) - Lloyd Cole and the Commotions
-146: ( 14) - Blondie
-147: ( 14) - Joy Division
-148: ( 13) - Bob Marley & the Wailers
+114: ( 26) - The Weather Station
+115: ( 25) - Taylor Swift
+116: ( 25) - The Velvet Underground
+117: ( 24) - ABC
+118: ( 24) - Bob Marley & the Wailers
+119: ( 24) - Mint Mile
+120: ( 24) - Po' Girl
+121: ( 24) - The B-52's
+122: ( 24) - The Beach Boys
+123: ( 23) - Julie
+124: ( 22) - Curtis Mayfield
+125: ( 22) - Diiv
+126: ( 22) - Hayes Carll
+127: ( 22) - Inhaler
+128: ( 22) - Jana Horn
+129: ( 22) - Steve Mason
+130: ( 21) - Cut Worms
+131: ( 21) - Drop Nineteens
+132: ( 21) - Rosanne Cash
+133: ( 21) - Shelby Lynne, Allison Moorer
+134: ( 20) - Elvis Costello
+135: ( 20) - The National
+136: ( 19) - Love
+137: ( 19) - Patty Griffin
+138: ( 19) - UB40
+139: ( 18) - Champion Trees
+140: ( 18) - Duke Garwood
+141: ( 18) - Prefab Sprout
+142: ( 17) - Bill Nelson
+143: ( 17) - Brix Smith
+144: ( 16) - Chip Taylor & Carrie Rodriguez
+145: ( 16) - Nick Heyward
+146: ( 16) - The Specials
+147: ( 15) - Lloyd Cole and the Commotions
+148: ( 14) - Joy Division
 149: ( 13) - Jimi Hendrix
 150: ( 13) - The Bathers
 151: ( 13) - case/lang/veirs

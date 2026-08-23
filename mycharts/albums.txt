@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   71779          1304          1967         13647
+   71847          1304          1967         13694
    1: (312) - Cafe Bleu - The Style Council
    2: (299) - Sermon On The Rocks - Josh Ritter
    3: (276) - Head Over Heels - Cocteau Twins
@@ -10,10 +10,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
    7: (244) * Broken Carelessly - The Redlands Palomino Company
    8: (242) - Mascara Streakz - Altered Images
    9: (242) - The River & The Thread - Rosanne Cash
-  10: (233) - The Smiths - The Smiths
-  11: (230) * Grand Canyon - Sarah MacDougall
-  12: (223) * Jordan: The Comeback - Prefab Sprout
-  13: (216) - Echo & The Bunnymen - Echo & the Bunnymen
+  10: (234) - Echo & The Bunnymen - Echo & the Bunnymen
+  11: (233) - The Smiths - The Smiths
+  12: (230) * Grand Canyon - Sarah MacDougall
+  13: (223) * Jordan: The Comeback - Prefab Sprout
   14: (215) - The Prince Of Wales - Devine & Statton
   15: (214) - Case/Lang/Veirs - case/lang/veirs
   16: (212) * Eveningland - Hem
@@ -257,40 +257,40 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  254: ( 92) - Wet Leg - Wet Leg
  255: ( 91) - Again - The Belair Lip Bombs
  256: ( 91) - Desolation Boulevard (New Extended Version) - Sweet
- 257: ( 91) - Singles 1965-1967 - The Rolling Stones
- 258: ( 90) * Boat To Bolivia - Martin Stephenson and the Daintees
- 259: ( 90) - Daddy's Home - St. Vincent
- 260: ( 90) - Evergreen - Echo & the Bunnymen
- 261: ( 90) - Fever Breaks - Josh Ritter
- 262: ( 90) - Nashville - Josh Rouse
- 263: ( 90) * No Word From Tom - Hem
- 264: ( 90) - Porcupine - Echo & the Bunnymen
- 265: ( 89) - Here In The Pitch - Jessica Pratt
- 266: ( 89) - Suzanne Vega - Suzanne Vega
- 267: ( 88) * Blonde On Blonde - Bob Dylan
- 268: ( 88) * Cabin Fever (Fever Side) - Corb Lund
- 269: ( 88) * Hope And Despair - Edwyn Collins
- 270: ( 86) - 2020 - Eliza Gilkyson
- 271: ( 86) - Aladdin Sane - David Bowie
- 272: ( 86) * Led Zeppelin - Led Zeppelin
- 273: ( 86) * Little Rock - Hayes Carll
- 274: ( 86) - Masseduction - St. Vincent
- 275: ( 86) - Music In A Foreign Language - Lloyd Cole
- 276: ( 86) - Other World - Peter Hammill
- 277: ( 86) * There Comes A Time - Martin Stephenson and the Daintees
- 278: ( 86) - UNCUT 2016-04 On The Highway - Various
- 279: ( 85) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
- 280: ( 85) - Women in Music Pt. III - Haim
- 281: ( 84) - Beauty Stab - ABC
- 282: ( 84) * Highway 61 Revisited - Bob Dylan
- 283: ( 84) * Lost And Found - Eliza Gilkyson
- 284: ( 84) * Organisation - Orchestral Manoeuvres in the Dark
- 285: ( 84) - She Remembers Everything - Rosanne Cash
- 286: ( 83) * Black Eyed Man - Cowboy Junkies
- 287: ( 83) - Born Horses - Mercury Rev
- 288: ( 83) - Flaws - Gardens
- 289: ( 83) - Long Time Caller, First Time Listener - Vegas Water Taxi
- 290: ( 83) * Ocean Rain - Echo & the Bunnymen
+ 257: ( 91) * Ocean Rain - Echo & the Bunnymen
+ 258: ( 91) - Singles 1965-1967 - The Rolling Stones
+ 259: ( 90) * Boat To Bolivia - Martin Stephenson and the Daintees
+ 260: ( 90) - Daddy's Home - St. Vincent
+ 261: ( 90) - Evergreen - Echo & the Bunnymen
+ 262: ( 90) - Fever Breaks - Josh Ritter
+ 263: ( 90) - Nashville - Josh Rouse
+ 264: ( 90) * No Word From Tom - Hem
+ 265: ( 90) - Porcupine - Echo & the Bunnymen
+ 266: ( 89) - Here In The Pitch - Jessica Pratt
+ 267: ( 89) - Suzanne Vega - Suzanne Vega
+ 268: ( 88) * Blonde On Blonde - Bob Dylan
+ 269: ( 88) * Cabin Fever (Fever Side) - Corb Lund
+ 270: ( 88) * Hope And Despair - Edwyn Collins
+ 271: ( 86) - 2020 - Eliza Gilkyson
+ 272: ( 86) - Aladdin Sane - David Bowie
+ 273: ( 86) * Led Zeppelin - Led Zeppelin
+ 274: ( 86) * Little Rock - Hayes Carll
+ 275: ( 86) - Masseduction - St. Vincent
+ 276: ( 86) - Music In A Foreign Language - Lloyd Cole
+ 277: ( 86) - Other World - Peter Hammill
+ 278: ( 86) * There Comes A Time - Martin Stephenson and the Daintees
+ 279: ( 86) - UNCUT 2016-04 On The Highway - Various
+ 280: ( 85) - Collected Recordings 1983-1989 - Lloyd Cole and the Commotions
+ 281: ( 85) - Women in Music Pt. III - Haim
+ 282: ( 84) - Beauty Stab - ABC
+ 283: ( 84) * Highway 61 Revisited - Bob Dylan
+ 284: ( 84) * Lost And Found - Eliza Gilkyson
+ 285: ( 84) * Organisation - Orchestral Manoeuvres in the Dark
+ 286: ( 84) - She Remembers Everything - Rosanne Cash
+ 287: ( 83) * Black Eyed Man - Cowboy Junkies
+ 288: ( 83) - Born Horses - Mercury Rev
+ 289: ( 83) - Flaws - Gardens
+ 290: ( 83) - Long Time Caller, First Time Listener - Vegas Water Taxi
  291: ( 83) - The Clearing - Wolf Alice
  292: ( 82) - B-52's - The B-52's
  293: ( 82) - Beggars Banquet - The Rolling Stones
@@ -774,958 +774,958 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  771: ( 26) - Bob Dylan - Bob Dylan
  772: ( 26) - Humanhood - The Weather Station
  773: ( 26) - Illuminations - Buffy Sainte-marie
- 774: ( 25) - A Beard Of Stars - T. Rex
- 775: ( 25) - Evermore - Taylor Swift
- 776: ( 25) - Everything Now - Arcade Fire
- 777: ( 25) - Folksinger Vol 5 - Reims 2022 - Lloyd Cole
- 778: ( 25) - Metrobolist (Aka The Man Who Sold The World) [2020 Mix] - David Bowie
- 779: ( 25) - Rogues Gospel - Duke Garwood
- 780: ( 25) - Self Portrait - Bob Dylan
- 781: ( 24) - Ambertron - Mint Mile
- 782: ( 24) - High Bells Ring Thin - Martin Stephenson
- 783: ( 24) - Pet Sounds - The Beach Boys
- 784: ( 24) - Po' Girl - Po' Girl
- 785: ( 24) - Pohorylle - Margo Cilker
- 786: ( 24) - The Lexicon Of Love - ABC
- 787: ( 23) - Burnin' - Bob Marley & the Wailers
- 788: ( 23) - Marry Me - St. Vincent
- 789: ( 23) - My Anti-Aircraft Friend - Julie
- 790: ( 23) - Shadow Kingdom - Bob Dylan
- 791: ( 23) - Up All Night - Simple Minds
- 792: ( 22) - Brothers & Sisters - Steve Mason
- 793: ( 22) - Cuts & Bruises - Inhaler
- 794: ( 22) - Frog In Boiling Water - Diiv
- 795: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
- 796: ( 22) - The Window Is The Dream - Jana Horn
- 797: ( 21) - Cut Worms - Cut Worms
- 798: ( 21) - Hard Light - Drop Nineteens
- 799: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
- 800: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
- 801: ( 20) - A Walk Across The Rooftops - The Blue Nile
- 802: ( 20) - First Two Pages Of Frankenstein - The National
- 803: ( 20) * Impossible Dream - Patty Griffin
- 804: ( 20) - Nashville Skyline - Bob Dylan
- 805: ( 20) - The Velvet Underground & Nico - The Velvet Underground
- 806: ( 20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
- 807: ( 19) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
- 808: ( 19) - Horses - Patti Smith
- 809: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
- 810: ( 19) - Reflected Images - The Best Of Altered Images - Altered Images
- 811: ( 19) * Shot Of Love - Bob Dylan
- 812: ( 19) * Songs To Remember - Scritti Politti
- 813: ( 18) - A Duck's Water Off My Back - Champion Trees
- 814: ( 18) - Emma Swift Singles 2026 - Emma Swift
- 815: ( 18) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Michael Stipe
- 816: ( 18) - The Cool Greenhouse - The Cool Greenhouse
- 817: ( 17) - Collective Force - Martin Stephenson
- 818: ( 17) - Live And Intermittent - Magazine
- 819: ( 17) - Live At Layman Drug Company 2025 - Emma Swift
- 820: ( 17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
- 821: ( 17) - Valley Of The Dolls - Brix Smith
- 822: ( 16) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
- 823: ( 16) - Talking Heads '77 - Talking Heads
- 824: ( 16) - The Best Of Roxy Music - Roxy Music
- 825: ( 16) - The Specials - The Specials
- 826: ( 16) - The Very Best Of - Orange Juice
- 827: ( 15) - Codex Teenage Premonition - The Fire Engines
- 828: ( 15) - Easter Lily Ep - U2
- 829: ( 15) - Fourth Drawer Down - The Associates
- 830: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
- 831: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
- 832: ( 15) - New Wave Connection - Martin Stephenson, John Perry
- 833: ( 14) - A Whole New Thing - Sly & the Family Stone
- 834: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
- 835: ( 14) - American Utopia - David Byrne
- 836: ( 14) - Document (R.E.M. No. 5) - R.E.M.
- 837: ( 14) - Foreign Tongues - The Rolling Stones
- 838: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
- 839: ( 14) - In The Flat Field - Bauhaus
- 840: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
- 841: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
- 842: ( 14) - Live In Dublin - Leonard Cohen
- 843: ( 14) - Raising Sand - Robert Plant
- 844: ( 14) - Talk On Corners - The Corrs
- 845: ( 13) * Blood On The Tracks - Bob Dylan
- 846: ( 13) - Favourite Songs - The Best Of - Haircut 100
- 847: ( 13) - Green River - Creedence Clearwater Revival
- 848: ( 13) - Hippopotamus - Sparks
- 849: ( 13) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Kurt Vile
- 850: ( 13) - Kelvingrove Baby - The Bathers
- 851: ( 13) - Live - In The City Of Light - Simple Minds
- 852: ( 13) - Love This Giant - David Byrne & St. Vincent
- 853: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
- 854: ( 13) - Platinum - Miranda Lambert
- 855: ( 13) - Staring At The Sea - The Singles - The Cure
- 856: ( 13) - Strange Angels - Kristin Hersh
- 857: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
- 858: ( 13) - Tubular Bells - Mike Oldfield
- 859: ( 12) - A History Of Now - Callaghan
- 860: ( 12) - Axis: Bold As Love - Jimi Hendrix
- 861: ( 12) - Badbea - Edwyn Collins
- 862: ( 12) - Electric Ladyland - The Jimi Hendrix Experience
- 863: ( 12) - Girls In Peacetime Want To Dance - Belle and Sebastian
- 864: ( 12) - Greatest - Jim Croce
- 865: ( 12) - Greatest Hits: Blondie - Blondie
- 866: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
- 867: ( 12) * Losing Sleep - Edwyn Collins
- 868: ( 12) - Love Story Demos - Lloyd Cole
- 869: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
- 870: ( 12) - Old Hands - Yonder Mountain String Band
- 871: ( 12) - Only Hinting - Clinic Stars
- 872: ( 12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
- 873: ( 12) - Tubeway Army - Tubeway Army
- 874: ( 12) - War Baby - Hope & Glory - Tom Robinson
- 875: ( 11) -  - Peel.Rocks Magazine
- 876: ( 11) - Actor - St. Vincent
- 877: ( 11) * David Bowie - David Bowie
- 878: ( 11) - Duran Duran - Duran Duran
- 879: ( 11) - Exodus Of Venus - Elizabeth Cook
- 880: ( 11) - Get It On: The Collection - T. Rex
- 881: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
- 882: ( 11) - Helplessness Blues - Fleet Foxes
- 883: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
- 884: ( 11) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Matt Berninger
- 885: ( 11) - Jessica Pratt - Jessica Pratt
- 886: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
- 887: ( 11) - La Question - Françoise Hardy
- 888: ( 11) - Laurel Canyon - Laurel Canyon
- 889: ( 11) - Marquee Moon - Television
- 890: ( 11) - My Favorite Picture Of You - Guy Clark
- 891: ( 11) - Mysterio - Ian McCulloch
- 892: ( 11) - Open Here - Field Music
- 893: ( 11) - Pollinator - Blondie
- 894: ( 11) - Queer As Folk - Grace Petrie
- 895: ( 11) * See You Around - Travis Linville
- 896: ( 11) - Serious Moonlight - David Bowie
- 897: ( 11) - Songs Of Experience - U2
- 898: ( 11) - Texas - Rodney Crowell
- 899: ( 11) - The Wide Afternoon - Jack Harris
- 900: ( 11) - Through The Windowpane - Guillemots
- 901: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
- 902: ( 11) - Watch - Manfred Mann's Earth Band
- 903: ( 11) - While I Was Asleep - Darling West
- 904: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
- 905: ( 10) - Chelsea Girl - Nico
- 906: ( 10) - Dub Side Of The Moon - Easy Star All-stars
- 907: ( 10) - Elastica - Elastica
- 908: ( 10) - Failer - Kathleen Edwards
- 909: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
- 910: ( 10) - How To Dance - Mount Moriah
- 911: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 912: ( 10) - Life In A Day - Simple Minds
- 913: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 914: ( 10) - Lodger (2017 Remaster) - David Bowie
- 915: ( 10) - Metamatic - John Foxx
- 916: ( 10) - Naked As Advertised Versions 08 - Heaven 17
- 917: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
- 918: ( 10) - Rat Saw God - Wednesday
- 919: ( 10) - Reel To Real Cacophony - Simple Minds
- 920: ( 10) - Setting Sons - The Jam
- 921: ( 10) - Sharon - Cowboy Junkies
- 922: ( 10) - Starfish - The Church
- 923: ( 10) - Starsailor - Tim Buckley
- 924: ( 10) - Tales From The Realm Of The Queen Of Pentacles - Suzanne Vega
- 925: ( 10) - Tangled Man - Green Gartside
- 926: ( 10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 927: ( 10) - Themes - Volume 2 - Simple Minds
- 928: ( 10) - Total - New Order
- 929: ( 10) - Under Branch & Thorn & Tree - Samantha Crain
- 930: ( 10) - Winter Sang - Eyeless in Gaza
- 931: (  9) * Before The Flood - Bob Dylan
- 932: (  9) - Blue Sky Thinkin' - Anne McCue
- 933: (  9) * Bob Dylan At Budokan - Bob Dylan
- 934: (  9) - Double Negative - Low
- 935: (  9) - Get Up (Deluxe) - Bryan Adams
- 936: (  9) - Hawkwind - Hawkwind Zoo
- 937: (  9) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Sharon Van Etten
- 938: (  9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
- 939: (  9) - Plastic Letters - Blondie
- 940: (  9) - Purgatory - Tyler Childers
- 941: (  9) - The Best Of - Nick Cave & the Bad Seeds
- 942: (  9) - The Clash (Remastered) - The Clash
- 943: (  9) - The Morning Star - Daniel Bachman
- 944: (  9) - The Universe Inside - The Dream Syndicate
- 945: (  9) - This Is The Story - The Proclaimers
- 946: (  9) - To Each - A Certain Ratio
- 947: (  8) - Burnin' - Bob Marley
- 948: (  8) - Follow Them True - Stick in the Wheel
- 949: (  8) - Halfway Towards A Healing - The Lost Brothers
- 950: (  8) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Andrew Bird
- 951: (  8) - I'm All Ears - Let'S Eat Grandma
- 952: (  8) * Life On Mars Original Soundtrack - Various
- 953: (  8) - Live At Bowery Ballroom 2025 - Emma Swift
- 954: (  8) - Loaded: Live In New York - Lloyd Cole
- 955: (  8) - Magical Mystery Tour - The Beatles
- 956: (  8) - Music For Stowaways - B.E.F.
- 957: (  8) - Natty Dread - Bob Marley
- 958: (  8) - Right Here - The Go-Betweens
- 959: (  8) - Semblance - Forma
- 960: (  8) - Sing In My Meadow: The Nomad Series, Vol. 3 - Cowboy Junkies
- 961: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
- 962: (  8) - Stray - Aztec Camera
- 963: (  8) - The Guitar And Other Machines - The Durutti Column
- 964: (  8) - The Mother Stone - Caleb Landry Jones
- 965: (  8) - The Singles - Goldfrapp
- 966: (  8) - The Thread That Keeps Us - Calexico
- 967: (  8) * Thick As Thieves - Larkin Poe
- 968: (  8) - What Happened To The Heart? - Aurora
- 969: (  8) - Zinc alloy and the Hidden Riders of Tomorrow - T. Rex
- 970: (  7) - 1978-1988 A Decade Of Spizz History - Spizz Energi
- 971: (  7) - All Fall Down - The Sound
- 972: (  7) - Ballet Of Apes - Brigid Dawson and the Mothers Network
- 973: (  7) - Bon Voyage - Melody'S Echo Chamber
- 974: (  7) - Changesnowbowie - David Bowie
- 975: (  7) - Dounia Tabolo - Boubacar Traoré
- 976: (  7) - Earth-Sized Worlds - Mandrake Handshake
- 977: (  7) * Empire Burlesque - Bob Dylan
- 978: (  7) - Family Reunion - Della Mae
- 979: (  7) - Genericana - Elephant Micah
- 980: (  7) - Ghosts Of West Virginia - Steve Earle
- 981: (  7) - God's Favorite Customer - Father John Misty
- 982: (  7) - Harney County - Chris Eckman
- 983: (  7) - Home Recordings - Emma Swift
- 984: (  7) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Courtney Barnett
- 985: (  7) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - St. Vincent
- 986: (  7) * Imagination Feels Like Poison - Martyn Bates
- 987: (  7) - It's Immaterial - Black Marble
- 988: (  7) - Kiss Me, Kiss Me, Kiss Me - The Cure
- 989: (  7) * Liberator - Orchestral Manoeuvres in the Dark
- 990: (  7) - Music From First Cow - William Tyler
- 991: (  7) - Nashville Obsolete - Dave Rawlings Machine
- 992: (  7) - New Long Leg - Dry Cleaning
- 993: (  7) - Oh My - Nadine
- 994: (  7) - Old Rockhounds Never Die - Odetta Hartman
- 995: (  7) - Performance - White Denim
- 996: (  7) - Republic - New Order
- 997: (  7) - Room To Live - The Fall
- 998: (  7) - Shadow People - The Limiñanas
- 999: (  7) - Songs Of Bob Dylan - Joan Osborne
-1000: (  7) - Straight Songs Of Sorrow - Mark Lanegan
-1001: (  7) - Strange To Explain - Woods
-1002: (  7) - Sulk - The Associates
-1003: (  7) - That's How Rumors Get Started - Margo Price
-1004: (  7) - The Best Of - Joy Division
-1005: (  7) * The Collection - Altered Images
-1006: (  7) - The Future And The Past - Natalie Prass
-1007: (  7) - The Sound Of The Smiths - The Smiths
-1008: (  7) * This Year's Model - Live 1978 - Elvis Costello & the Attractions
-1009: (  7) - Time And Patience - Tift Merritt
-1010: (  7) - Travelogue - The Men
-1011: (  7) - Triomphe - La Féline
-1012: (  7) - Understand What Black Is - The Last Poets
-1013: (  7) * Welcome To Scullyville - Martin Stephenson
-1014: (  7) - With Animals - Duke Garwood
-1015: (  7) - Words Of Expectation 1 - The Fall
-1016: (  6) - 100% 80's (100 Classic Hits) - Sing Karaoke Sing
-1017: (  6) - 3 X 4: The Bangles, The Three O'clock, The Dream Syndicate, Rain Parade - The Dream Syndicate
-1018: (  6) - A Broke Moon Rises - Papa M
-1019: (  6) - A Hymn For Ancient Land - Jim Ghedi
-1020: (  6) - At Weddings - Tomberlin
-1021: (  6) - Bella Donna (2016 Remastered) - Stevie Nicks
-1022: (  6) - Black Rainbow Sound - Menace Beach
-1023: (  6) - Charlie Patton Highway (Turn It Up, Pt. 1) - Robert Plant
-1024: (  6) - Close To The Bone - Tom Tom Club
-1025: (  6) - De Facto - Lorelle Meets the Obsolete
-1026: (  6) - Dragnet - The Fall
-1027: (  6) - Eat To The Beat - Blondie
-1028: (  6) - From When I Wake The Want Is - Kathryn Joseph
-1029: (  6) - Goes West - William Tyler
-1030: (  6) - Golden Apples Of The Sun - Caroline Herring
-1031: (  6) - Grenades - Kaia Kater
-1032: (  6) - Ha! Ha! Ha! - Ultravox
-1033: (  6) - Hard Times In Babylon - Eliza Gilkyson
-1034: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Fontaines D.c.
-1035: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Iggy Pop
-1036: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - King Princess
-1037: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Thurston Moore
-1038: (  6) - Last Christmas - Wham!
-1039: (  6) - Liberty Belle And The Black Diamond Express - The Go-Betweens
-1040: (  6) - London Southern - Jim Lauderdale
-1041: (  6) - Music Complete - New Order
-1042: (  6) - Out Of Our Idiot - Elvis Costello
-1043: (  6) - Red Rust September - Eyeless in Gaza
-1044: (  6) - Remind Me Tomorrow - Sharon Van Etten
-1045: (  6) - San Francisco - Scott Mckenzie
-1046: (  6) - Singles - New Order
-1047: (  6) - Songs Of Innocence - U2
-1048: (  6) - Sounds Recorded By Steve Albini - Spare Snare
-1049: (  6) - Spike - Elvis Costello
-1050: (  6) - Springsteen On Broadway - Bruce Springsteen
-1051: (  6) - Standing In The Doorway: Chrissie Hynde Sings Bob Dylan - Chrissie Hynde
-1052: (  6) - Stealers Wheel - Stealers Wheel
-1053: (  6) - Sugar & Spice - Hatchie
-1054: (  6) - The Bela Session - Bauhaus
-1055: (  6) * The Light Fantastic - Cara Luft
-1056: (  6) - The Orchard - Lizz Wright
-1057: (  6) - The Underworld & You - Two Circles
-1058: (  6) - The Unseen In Between - Steve Gunn
-1059: (  6) - The War Of The Worlds - Jeff Wayne
-1060: (  6) - Weird - Juliana Hatfield
-1061: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
-1062: (  5) - A Light For Attracting Attention - The Smile
-1063: (  5) - Beatopia - Beabadoobee, Pinkpantheress
-1064: (  5) - Bellowing Sun - Mind Over Mirrors
-1065: (  5) - Between The Earth And Sky - Lankum
-1066: (  5) - Chamber Music Society - Esperanza Spalding
-1067: (  5) - Chemistry Lessons Volume 1 - Chris Carter
-1068: (  5) * City Of Refuge - Rachel Harrington
-1069: (  5) - Deran - Bombino
-1070: (  5) - Down There! - Folly Group
-1071: (  5) - Downey To Lubbock - Jimmie Dale Gilmore
-1072: (  5) - Dungeness - Trembling Bells
-1073: (  5) - Early - Scritti Politti
-1074: (  5) - Easter Everywhere - 13Th Floor Elevators
-1075: (  5) - Ecstatic Arrow - Virginia Wing
-1076: (  5) - Ella At Duke's Place - Ella Fitzgerald
-1077: (  5) - Empire - Sarah MacDougall
-1078: (  5) - Foreign Parts - You Tell Me
-1079: (  5) - Gannett Syndication Service - Just the Faqs
-1080: (  5) - Gershwin: 's Wonderful -Gershwin Songbook (Disc 1) - Nina Simone
-1081: (  5) - Ghost - Mercy Girl
-1082: (  5) - Greatest Hits (Remastered) - Queen
-1083: (  5) - Hell-On - Neko Case
-1084: (  5) - Higgledypiggledy - Slug
-1085: (  5) - Hippo Lite - Drinks
-1086: (  5) - House For Sale - It’S Immaterial
-1087: (  5) - I Have To Feed Larry's Hawk - White Fence
-1088: (  5) - I'm In Love With A German Film Star - The Passions
-1089: (  5) - It's A New Day Tonight - Michael Rault
-1090: (  5) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
-1091: (  5) - Live From Austin, Tx - Eliza Gilkyson
-1092: (  5) - Live In The City Of Angels - Simple Minds
-1093: (  5) - Lloyd Cole Live Union Chapel 2023 - Lloyd Cole
-1094: (  5) - Longwave - Bonny Doon
-1095: (  5) - Mercy Girl Singles - Mercy Girl
-1096: (  5) - Metro Music - Martha and the Muffins
-1097: (  5) - No Count Sarah - Sarah Vaughan
-1098: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
-1099: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
-1100: (  5) - Parallel Lines (Remastered) - Blondie
-1101: (  5) - Peace At Last - EP - Hem
-1102: (  5) - Pinned - A Place to Bury Strangers
-1103: (  5) - Rat's Spit - Julian Lynch
-1104: (  5) * Saved - Bob Dylan
-1105: (  5) - Sculptor - Luluc
-1106: (  5) - Sex & Food - Unknown Mortal Orchestra
-1107: (  5) - Slates (Live) - The Fall
-1108: (  5) * Sweet Somethin' Steady - Romi Mayes
-1109: (  5) - Temporal - Julia Kent
-1110: (  5) - The Imperial - The Delines
-1111: (  5) - The Louder I Call, The Faster It Runs - Wye Oak
-1112: (  5) - The Magic 0F Christmas - Nat King Cole
-1113: (  5) - The Straight Hits! - Josh T. Pearson
-1114: (  5) - Total - Joy Division
-1115: (  5) - Triplicate - Bob Dylan
-1116: (  5) - UNCUT 2016-02 - Various
-1117: (  5) - We've Been Going About This All Wrong - Sharon Van Etten
-1118: (  5) - Your Day Will Come - Chanel Beads
-1119: (  4) -  - Philscreen
-1120: (  4) - 13 Rivers - Richard Thompson
-1121: (  4) - >>> - Beak>
-1122: (  4) - Abraxas - Santana
-1123: (  4) * Achin In Yer Bones - Romi Mayes
-1124: (  4) - Acoustic Classics - Rodney Crowell
-1125: (  4) - All The Roadrunning - Mark Knopfler & Emmylou Harris
-1126: (  4) - Blondie (Remastered) - Blondie
-1127: (  4) - Bottle It In - Kurt Vile
-1128: (  4) - Brushes With Happiness - The Wave Pictures
-1129: (  4) - Calling From A Country Phone (Bonus Tracks) - Robert Forster
-1130: (  4) - Careless Love - Madeleine Peyroux
-1131: (  4) - Crushing - Julia Jacklin
-1132: (  4) - Designer - Aldous Harding
-1133: (  4) - Disraeli Gears (Remastered) - Cream
-1134: (  4) - Dogrel - Fontaines D.c.
-1135: (  4) - Dreamland - Madeleine Peyroux
-1136: (  4) - Drift - The Men
-1137: (  4) - Early Gold - Simple Minds
-1138: (  4) - Entertainment! - Gang of Four
-1139: (  4) - For Those In Love - Dinah Washington
-1140: (  4) - Garage Band Classics - The Chocolate Watch Band
-1141: (  4) - Giant Steps - John Coltrane
-1142: (  4) - Glad Rag Doll - Diana Krall
-1143: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
-1144: (  4) - Historian - Lucy Dacus
-1145: (  4) - Hormone Lemonade - Cavern of Anti-Matter
-1146: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
-1147: (  4) - I,I - Bon Iver
-1148: (  4) - Infidels - Bob Dylan
-1149: (  4) - Innovations In British Psychedelia - Small Faces
-1150: (  4) - Jazz Blues Divas - Shirley Horn
-1151: (  4) - Land Of No Junction - Aoife Nessa Frances
-1152: (  4) - Le Kov - Gwenno
-1153: (  4) - Learning To Crawl - The Pretenders
-1154: (  4) - Lena Horne Greatest Hits - Lena Horne
-1155: (  4) - Like The River Loves The Sea - Joan Shelley
-1156: (  4) - Live At The Empire Theatre Liverpool. 04.11.19. - Orchestral Manoeuvres in the Dark
-1157: (  4) - Loaded: Re-Loaded 45Th Anniversary Edition - The Velvet Underground
-1158: (  4) - Local Color - Mose Allison
-1159: (  4) - Making A New World - Field Music
-1160: (  4) - Manhattan Moods - Mary Stallings
-1161: (  4) - Mighty Like A Rose - Elvis Costello
-1162: (  4) - Mono - The Mavericks
-1163: (  4) - Mr. Fantasy - Traffic
-1164: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
-1165: (  4) - Nature - Modern Nature
-1166: (  4) - Ocean Rain Live 2008 - Echo & the Bunnymen
-1167: (  4) - Ommadawn - Mike Oldfield
-1168: (  4) - Peppermint Pig - Cocteau Twins
-1169: (  4) - Power In The Darkness - Tom Robinson Band
-1170: (  4) - Power To The People: The Hits - John Lennon
-1171: (  4) - Purple Mountains - Purple Mountains
-1172: (  4) - Putting On Airs - Erin Rae
-1173: (  4) - Quickies - The Magnetic Fields
-1174: (  4) - Rare Birds - Jonathan Wilson
-1175: (  4) - Record - Tracey Thorn
-1176: (  4) - Resonator - Kathryn Williams, Anthony Kerr
-1177: (  4) - Reward - Cate le Bon
-1178: (  4) - Rock N Roll Jamboree - Stephenson'S Rocketts
-1179: (  4) - S.F. Sorrow - The Pretty Things
-1180: (  4) - Sam Hard And Heavy - Sam Samudio
-1181: (  4) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
-1182: (  4) - Shepherd In A Sheepskin Vest - Bill Callahan
-1183: (  4) - Shut Him Down - Michael Leonhart Orchestra
-1184: (  4) - Sings The Blues - Nina Simone
-1185: (  4) - Some Cities - Doves
-1186: (  4) - Space Gun - Guided By Voices
-1187: (  4) - Stumpwork - Dry Cleaning
-1188: (  4) - Surfer Rosa (Remastered) - Pixies
-1189: (  4) - Tempting The Storm - Cara Luft
-1190: (  4) - The Band - The Band
-1191: (  4) - The Complete Peel Sessions 1978-2004 - The Fall
-1192: (  4) - The End Of The F***Ing World (Original Songs And Score) - Graham Coxon
-1193: (  4) - The Great Gentlemen Of Jazz Vocals - Arthur Prysock
-1194: (  4) - The Mike Oldfield Collection - Mike Oldfield
-1195: (  4) - The Only Fun In Town - Josef K
-1196: (  4) - The Other Years - The Other Years
-1197: (  4) - The Seeds - The Seeds
-1198: (  4) - The Soft Machine (Remastered And Expanded) - Soft Machine
-1199: (  4) - There Is No Other (With Francesco Turrisi) [Deluxe Version] - Rhiannon Giddens
-1200: (  4) - Titanic Rising - Weyes Blood
-1201: (  4) - Tomorrow - Tomorrow
-1202: (  4) - Too Much Alike (With Patty Griffin) - Robert Plant
-1203: (  4) - Top 100 80S - New Order
-1204: (  4) - Transangelic Exodus - Ezra Furman
-1205: (  4) - U.F.O.F. - Big Thief
-1206: (  4) - Up All Night - The Waifs
-1207: (  4) - Warnings - I Break Horses
-1208: (  4) - What's New, Tomboy? - Damien Jurado
-1209: (  4) - When The Roses Bloom Again - Laura Cantrell
-1210: (  4) - Whistle Down The Wind - Joan Baez
-1211: (  4) - White Christmas - Bing Crosby
-1212: (  3) - 2020 - Richard Dawson
-1213: (  3) - 40 Greatest Hits - U Roy
-1214: (  3) - 40 Years - The Greatest Hits - Spandau Ballet
-1215: (  3) - A Quality Of Mercy - Rvg
-1216: (  3) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
-1217: (  3) - A's, B's And Rarities - Suzi Quatro
-1218: (  3) - All The Best - The Human League
-1219: (  3) - All The Young Dudes - Mott the Hoople
-1220: (  3) - And Nothing Hurt - Spiritualized
-1221: (  3) - Avalon - Roxy Music
-1222: (  3) - Babelsberg - Gruff Rhys
-1223: (  3) - Brotherhood - New Order
-1224: (  3) - Buffalo Springfield - Buffalo Springfield
-1225: (  3) * Car Wheels On A Gravel Road - Lucinda Williams
-1226: (  3) - Cara Dillon - Cara Dillon
-1227: (  3) - Catch A Fire - Bob Marley & the Wailers
-1228: (  3) - Chapter 4 - Chapter 4
-1229: (  3) - Cocoa Sugar - Young Fathers
-1230: (  3) - Complete Madness - Madness
-1231: (  3) - Countless Branches (Deluxe Edition) - Bill Fay
-1232: (  3) - Cut It Out - The Go-Betweens
-1233: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
-1234: (  3) - Dancing With Strangers (Deluxe Edition) [2019 Remaster] - Chris Rea
-1235: (  3) - Dazzle Ships Live At The Museum Of Liverpool - Omd
-1236: (  3) - Death In The Business Of Whaling - Searows
-1237: (  3) - Deeper Well - Kacey Musgraves
-1238: (  3) - Digital Garbage - Mudhoney
-1239: (  3) - Don Letts And Turtle Bay Present Reggae 45 - Don Letts and Turtle Bay Present Reggae 45
-1240: (  3) - Down By The Jetty - Dr. Feelgood
-1241: (  3) - Drama On 3 - Bbc Radio 3
-1242: (  3) - Dreaming Wide Awake - Lizz Wright
-1243: (  3) - Dustbin Of Sound - The Cravats
-1244: (  3) - Ella Sings The Cole Porter & Rodgers And Hart Songbook - Ella Fitzgerald
-1245: (  3) - Everybody Scream - Florence + the Machine
-1246: (  3) - Everything's Gone Green (2019 Remaster) - New Order
-1247: (  3) - Fallen Angels - Bob Dylan
-1248: (  3) - For My Crimes - Marissa Nadler
-1249: (  3) - Forever Changes - Love
-1250: (  3) - Freedom's Goblin - Ty Segall
-1251: (  3) - Germ Free Adolescents (Deluxe Edition) - X-Ray Spex
-1252: (  3) - Get Close (Expanded & Remastered) - Pretenders
-1253: (  3) - Ghosteen - Nick Cave & the Bad Seeds
-1254: (  3) - Glass: Low Symphony, From The Music Of David Bowie & Brian Eno - Philip Glass
-1255: (  3) - Gorilla - The Bonzo Dog Band
-1256: (  3) - Greatest Hits - Eric Burdon & the Animals
-1257: (  3) - Greatest Hits - Slade
-1258: (  3) - Halo - Juana Molina
-1259: (  3) - Happy Together - Procol Harum
-1260: (  3) - Hawkwind - Dave Brock
-1261: (  3) - I Feel For You - Chaka Khan
-1262: (  3) - I Need To Start A Garden - Haley Heynderickx
-1263: (  3) - I Never Loved A Man The Way I Love You - Aretha Franklin
-1264: (  3) - I'm Bad Now - Nap Eyes
-1265: (  3) - I-Feel-Like-I'm-Fixin'-To-Die - Country Joe & the Fish
-1266: (  3) - If I Don't Make It, I Love U - Still House Plants
-1267: (  3) - In Case You're In Love - Sonny & Cher
-1268: (  3) - In The Dark - Toots and the Maytals
-1269: (  3) - It's Smoke Time - The Smoke
-1270: (  3) - Jassbusters - Connan Mockasin
-1271: (  3) - John Coltrane And Johnny Hartman (Hd Remastered Edition) - John Coltrane & Johnny Hartman
-1272: (  3) - Joy - White Fence
-1273: (  3) - Kentish Longtails - The Len Price 3
-1274: (  3) - Lamp Lit Prose - Dirty Projectors
-1275: (  3) * Live From KXLU Radio - Gina Villalobos
-1276: (  3) * Live at Brooklyn Bowl 2016 - Lloyd Cole
-1277: (  3) - Look Now (Deluxe Edition) - Elvis Costello & the Imposters
-1278: (  3) - Love, Loss, And Auto-Tune - Swamp Dogg
-1279: (  3) - Merry Christmas Wherever You Are - George Strait
-1280: (  3) - More - Pulp, Chilly Gonzales
-1281: (  3) - More Songs About Buildings And Food - Talking Heads
-1282: (  3) - Mother - Xylouris White
-1283: (  3) - Move (2007 Remaster) - The Move
-1284: (  3) - Mr. Dynamite - Creep Show
-1285: (  3) - Music For Sixties - Manfred Mann
-1286: (  3) - My Generation - The Who
-1287: (  3) - New Boots And Panties! - Ian Dury
-1288: (  3) - Nighttime Birds And Morning Stars - Sarah Louise
-1289: (  3) - No, No, No - Dawn Penn
-1290: (  3) - Once Upon A Christmas - Dolly Parton
-1291: (  3) - Ooh La La - Faces
-1292: (  3) - Our Country: Americana Act 2 - Ray Davies
-1293: (  3) - Out Deh - Gregory Isaacs
-1294: (  3) - Out Of All This Blue (Deluxe) - The Waterboys
-1295: (  3) - Où Est La Maison De Fromage? - John Cooper Clarke
-1296: (  3) - Pastoral - Gazelle Twin
-1297: (  3) - Playing In The Hall - The Charlatans
-1298: (  3) - Radyo SiwèL - Mélissa Laveaux
-1299: (  3) - Rastaman Vibration - Bob Marley & the Wailers
-1300: (  3) - Santa Claus Is Comin' To Town - Bruce Springsteen
-1301: (  3) - Shelley's On Zenn-La - Oliver Coates
-1302: (  3) - Sign "O" The Times - Prince
-1303: (  3) - Silver Eye - Goldfrapp
-1304: (  3) - Singles (2016 Remaster) - New Order
-1305: (  3) - Something Else By The Kinks (Bonus Track Edition) - The Kinks
-1306: (  3) - Songs To Remember (Remaster) - Scritti Politti
-1307: (  3) - Spiral Scratch - Buzzcocks
-1308: (  3) - Stitch Of The World - Tift Merritt, Sam Beam
-1309: (  3) - Stop The Cavalry - Jona Lewie
-1310: (  3) - Streetcore - Joe Strummer
-1311: (  3) - Stretchy Pants - Carrie Underwood
-1312: (  3) - Sun On The Square - The Innocence Mission
-1313: (  3) - That's Right - The Fallen Leaves
-1314: (  3) - The 5000 Spirits Or The Layers Of The Onion - The Incredible String Band
-1315: (  3) - The Basement Tapes - Bob Dylan and the Band
-1316: (  3) - The Byrds - The Byrds
-1317: (  3) - The Gate - Kurt Elling
-1318: (  3) - The Look Of Love - ABC
-1319: (  3) - The Mamas & The Papas - The Mamas & the Papas
-1320: (  3) - The Modern Lovers - Jonathan Richman and the Modern Lovers
-1321: (  3) - The Original Psychedelic Album - Keith West
-1322: (  3) - The Prodigal Son - Ry Cooder
-1323: (  3) - The Queen Is Dead - The Smiths
-1324: (  3) - The Return - Sampa the Great
-1325: (  3) - The Toughest - Peter Tosh
-1326: (  3) - The Unfinished Revolution - Christy Moore
-1327: (  3) - The Very Best Of Mud - Mud
-1328: (  3) - The Water Garden - Alex De Grassi
-1329: (  3) - Third - Nathan Salsburg
-1330: (  3) - Trampoline (Expanded Edition) - The Mavericks
-1331: (  3) - True - Spandau Ballet
-1332: (  3) * UNCUT 2016-04 - On The Highway - Various
-1333: (  3) - Unfollow The Rules - Rufus Wainwright
-1334: (  3) - Uniform Distortion - Jim James
-1335: (  3) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
-1336: (  3) - We're Not Talking - The Goon Sax
-1337: (  3) - White Light / White Heat - The Velvet Underground
-1338: (  3) - Wilder - The Teardrop Explodes
-1339: (  3) - Words Of Expectation 2 - The Fall
-1340: (  3) * World At Large - The Dust Poets
-1341: (  3) - Years In The Making - Loudon Wainwright III
-1342: (  3) - You Never Were Much Of A Dancer - Gwenifer Raymond
-1343: (  3) - Young, Dumb & Wild - Andy Golledge
-1344: (  2) -  - Dcoops
-1345: (  2) -  - Murrough Mcbride
-1346: (  2) -  - Sky News
-1347: (  2) - (What's So Funny 'bout) Peace, Love And Understanding? - Sharon Van Etten
-1348: (  2) - 1 Time Mirage - Knife Knights
-1349: (  2) - 2010-06-10: Lafayette Square, Buffalo, Ny, Usa - Tift Merritt
-1350: (  2) - 2011-04-13: The Handlebar, Greenville, Sc, Usa - Hayes Carll
-1351: (  2) - 70S 100 Hits - Blue Öyster Cult
-1352: (  2) - 70S 100 Hits - David Essex
-1353: (  2) - 70S 100 Hits - Lou Reed
-1354: (  2) - 70S 100 Hits - Middle of the Road
-1355: (  2) - 70S Classic Rock - Free
-1356: (  2) * Altered Images 12 Inch Mix - Altered Images
-1357: (  2) - Aspirin Sun - Emma Tricca
-1358: (  2) - Back In Black - Ac/Dc
-1359: (  2) - Balsams - Chuck Johnson
-1360: (  2) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
-1361: (  2) - Be A Rebel - New Order
-1362: (  2) - Bee Gees' 1St - Bee Gees
-1363: (  2) - Best Of - Middle of the Road
-1364: (  2) - Billboard #1S: The '70S - Carly Simon
-1365: (  2) - Blood And Chocolate - Elvis Costello & the Attractions
-1366: (  2) - Blue Skies & Free-Rides: The Best Of 1986-1989 - The Weather Prophets
-1367: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
-1368: (  2) - Business As Usual - Men At Work
-1369: (  2) - Cactused - Wire
-1370: (  2) - Caribou (Remastered) - Elton John
-1371: (  2) - Cauldron - Fifty Foot Hose
-1372: (  2) - Chapter 5 - Chapter 5
-1373: (  2) - Chatham County Line - Chatham County Line
-1374: (  2) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
-1375: (  2) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
-1376: (  2) - Christmas In The Heart - Bob Dylan
-1377: (  2) - Christmas Jukebox - Slade
-1378: (  2) - Christmas Tree Farm - Taylor Swift
-1379: (  2) - Christmas With Nat, Dean And Bing - Nat King Cole
-1380: (  2) - Chronicles - Steve Winwood
-1381: (  2) - Circu5 - Circu5
-1382: (  2) - Cool As Folk - Joe Strummer And?the Mescaleros
-1383: (  2) - Dare! - The Human League
-1384: (  2) * David Rodigan Summmer Of Reggae - David Rodigan
-1385: (  2) - Debris - Keeley Forsyth
-1386: (  2) - Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain - China Crisis
-1387: (  2) - Do They Know Its Christmas? - Band Aid
-1388: (  2) - Dreaming My Dreams - Waylon Jennings
-1389: (  2) - DéJàVu - Matty
-1390: (  2) - Earl Scruggs And Friends - Earl Scruggs
-1391: (  2) - Eight Miles High/Makes No Sense At All (4-Track Maxi-Single) - Hüsker Dü
-1392: (  2) - Elastic Days - J Mascis
-1393: (  2) - Electric Ladyland - Jimi Hendrix
-1394: (  2) - Essential Music Hits Vol 2 - Mike Oldfield
-1395: (  2) - Everyday Is Christmas - Sia
-1396: (  2) - F.L.M. (Deluxe Edition) - Mel & Kim
-1397: (  2) - Far Away In Time - Martha and the Muffins
-1398: (  2) - Fate Of Nations - Robert Plant
-1399: (  2) - Feels Like Home - Sheryl Crow
-1400: (  2) - Feliz Navidad - José Feliciano
-1401: (  2) - Ferment - Catherine Wheel
-1402: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
-1403: (  2) - God Squad Saviour - Department S
-1404: (  2) - Gold - Greatest Hits - The Carpenters
-1405: (  2) - Golden Age - Heaven 17
-1406: (  2) - Greatest - Ian Dury
-1407: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
-1408: (  2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
-1409: (  2) - Grrr! - The Rolling Stones
-1410: (  2) - Half The Perfect World - Madeleine Peyroux
-1411: (  2) * Hard Rain - Bob Dylan
-1412: (  2) - Have Yourself A Merry Little Christmas - Sam Smith
-1413: (  2) - Heartmind - Cass McCombs
-1414: (  2) - Heyday - The Church
-1415: (  2) - Hits'n'flips - The Move
-1416: (  2) - Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition] - Mykola Dmytrovych Leontovych
-1417: (  2) - Home Alone - Soundtrack - John Williams
-1418: (  2) - Hot Love (Alternative Version) - T. Rex
-1419: (  2) - Hundreds Of Days - Mary Lattimore
-1420: (  2) - Hush - Tracy Bryant
-1421: (  2) - Hyaena (Remastered And Expanded) - Siouxsie and the Banshees
-1422: (  2) - Hypersonic Missiles - Sam Fender
-1423: (  2) - Hypnotised - The Undertones
-1424: (  2) - I Am Shelby Lynne (Bonus Track Version) - Shelby Lynne
-1425: (  2) - I Fix My Gaze / Don't Shy Away - Loma
-1426: (  2) - I've Tortured You Long Enough - Mass Gothic
-1427: (  2) - Icon - A Very Special Christmas - John Lennon
-1428: (  2) - If I Should Fall From Grace With God (Expanded Edition) - The Pogues
-1429: (  2) - Ignite The Seven Cannons (Remastered Edition) - Felt
-1430: (  2) - Iii - Loma
-1431: (  2) - In Spades - The Afghan Whigs
-1432: (  2) - In The City (Remastered Version) - The Jam
-1433: (  2) - Insight Out - The Association
-1434: (  2) - It'll End In Tears (Remastered) - This Mortal Coil
-1435: (  2) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
-1436: (  2) - Joan Shelley - Joan Shelley
-1437: (  2) - Just Like Moby Dick - The Panhandle Mystery Band
-1438: (  2) - Kimono My House - Sparks
-1439: (  2) - Knowledge - Edwyn Collins
-1440: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
-1441: (  2) - Lennon Bermuda - Yoko Ono
-1442: (  2) - Life's Too Good - The Sugarcubes
-1443: (  2) - Lifes Rich Pageant (Deluxe Edition) - R.E.M.
-1444: (  2) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
-1445: (  2) - Live At Bestival 2012 - New Order
-1446: (  2) - Live With The Royal Liverpool Philharmonic Orchestra - 06/10/18 - Orchestral Manoeuvres in the Dark
-1447: (  2) - Loma - Loma
-1448: (  2) - London 0 Hull 4 - The Housemartins
-1449: (  2) - Loner - Caroline Rose
-1450: (  2) - Look - Beth Nielsen Chapman
-1451: (  2) - Make It Up To You (Unreleased Studio Outtake) - Steve Wynn
-1452: (  2) * Mccartney II (Special Edition) - Paul McCartney
-1453: (  2) - Meat Is Murder - The Smiths
-1454: (  2) - Meet Me At The River - Dawn Landes
-1455: (  2) - Melophobia - Cage the Elephant
-1456: (  2) - Metamatic...Plus - John Foxx
-1457: (  2) - Mindrocker - A Us-Punk Anthology Vol. 4 (Digitally Remastered) - The Moving Sidewalks
-1458: (  2) - Mirror Moves - The Psychedelic Furs
-1459: (  2) - Missing You - The Collection - Chris De Burgh
-1460: (  2) - Moodie - Yuno
-1461: (  2) - More Hot Rocks (Big Hits & Fazed Cookies) - The Rolling Stones
-1462: (  2) - Music From Big Pink - The Band
-1463: (  2) - Music In A Doll's House / Family Entertainment - Family
-1464: (  2) - My Greatest Songs - Buddy Holly
-1465: (  2) - New Chapter Of Dub - Aswad
-1466: (  2) - New Wave Hits Of The 80S - ABC
-1467: (  2) - New Wave Hits Of The 80S - Soft Cell
-1468: (  2) - New Wave Hits Of The 80S - UB40
-1469: (  2) - No Cities To Love - Sleater-Kinney
-1470: (  2) - No Recover - Eric Bachmann
-1471: (  2) - Non-Stop Erotic Cabaret - Soft Cell
-1472: (  2) - On All Fours - Goat Girl
-1473: (  2) - Once Upon A Summertime - Blossom Dearie
-1474: (  2) - Only Yazoo - The Best Of Yazoo - Yazoo
-1475: (  2) - Original Hits - 70S Pop - Mott the Hoople
-1476: (  2) - OxygèNe - Jean Michel Jarre
-1477: (  2) - Paradise Hotel - Eliza Gilkyson
-1478: (  2) - Passwords - Dawes
-1479: (  2) - Peasant - Richard Dawson
-1480: (  2) - Playlist: 70S Pop - Gerry Rafferty
-1481: (  2) - Playlist: 70S Pop - Steve Harley
-1482: (  2) - Population: Me - Dwight Yoakam
-1483: (  2) - Private Revolution - World Party
-1484: (  2) - Pure Comedy - Father John Misty
-1485: (  2) - Redshift - Rhyton
-1486: (  2) - Reggatta De Blanc - The Police
-1487: (  2) - Replicas - Gary Numan
-1488: (  2) - Rio (Collector's Edition) - Duran Duran
-1489: (  2) - Rock With I - U-Roy
-1490: (  2) - Romance - Fontaines D.c.
-1491: (  2) - Saint Cloud - Waxahatchee
-1492: (  2) - Santa Baby - Eartha Kitt
-1493: (  2) - Santa Tell Me - Ariana Grande
-1494: (  2) - Script Of The Bridge (Remastered) - The Chameleons
-1495: (  2) - See Here, I Have Built You A Mansion (Rare And Unreleased) - Josh Ritter
-1496: (  2) - Selected Works (1972-1999) - Eagles
-1497: (  2) - Seventh Sea - Tom Baird
-1498: (  2) - Shelter - Olivia Chaney
-1499: (  2) - Side By Side (Live At Spacebomb Studios) - Natalie Prass
-1500: (  2) - Slowdive - Slowdive
-1501: (  2) - Smile (Expanded Edition) - The Jayhawks
-1502: (  2) - Smiley Smile - The Beach Boys
-1503: (  2) - Snapshot Of A Beginner - Nap Eyes
-1504: (  2) - Social Studies - Loudon Wainwright III
-1505: (  2) - Songs - Loma
-1506: (  2) - Songs Of Thomas Hardy's Wessex - The Mellstock Band
-1507: (  2) - Songs To Learn And Sing - Echo & the Bunnymen
-1508: (  2) - Strangeways, Here We Come - The Smiths
-1509: (  2) - Sub-Stance - Department S
-1510: (  2) - Suit Yourself - Shelby Lynne
-1511: (  2) - Sunshine Superman (Stereo Special Edition) - Donovan
-1512: (  2) - Sure - Hatchie
-1513: (  2) - Surprise Surprise Surprise - Miracle Legion
-1514: (  2) - Surrealistic Pillow - Jefferson Airplane
-1515: (  2) - Sweet Misdemeanour - Martin Stephenson
-1516: (  2) - Technique - New Order
-1517: (  2) - Tell Me How You Really Feel - Courtney Barnett
-1518: (  2) - The Anthology 1964 - 1971 - The Kinks
-1519: (  2) - The Birds, The Bees, & The Monkees - The Monkees
-1520: (  2) - The Collection - Prefab Sprout
-1521: (  2) - The Correct Use Of Soap - Magazine
-1522: (  2) - The Crossing - Alejandro Escovedo
-1523: (  2) - The Essential Leonard Cohen - Leonard Cohen
-1524: (  2) - The Essential Mindy Smith - Mindy Smith
-1525: (  2) - The Good Earth - The Feelies
-1526: (  2) - The Moon And The Melodies - Cocteau Twins
-1527: (  2) - The Navigator - Hurray for the Riff Raff
-1528: (  2) - The New Bye & Bye - Chip & Carrie
-1529: (  2) - The Other - King Tuff
-1530: (  2) - The Piper At The Gates Of Dawn - Pink Floyd
-1531: (  2) - The Pretty Things - The Pretty Things
-1532: (  2) - The Rabbit That Hunts Tigers - Yin Yin
-1533: (  2) - The Singles Collection - Small Faces
-1534: (  2) - The Very Best Of Moby Grape Vintage - Moby Grape
-1535: (  2) - The Weight Of The Sun - Modern Studies
-1536: (  2) - The Who Sell Out (Deluxe Edition) - The Who
-1537: (  2) - Their Prime - Jo Passed
-1538: (  2) - They Might Be Giants - They Might Be Giants
-1539: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
-1540: (  2) - To Our Children's Children's Children - The Moody Blues
-1541: (  2) - Tommy - The Wedding Present
-1542: (  2) - True Love Stories - Jilted John
-1543: (  2) - True Stories - Talking Heads
-1544: (  2) - Vessel - Frankie Cosmos
-1545: (  2) - Visions Of A Life - Wolf Alice
-1546: (  2) - We Are In Love - Harry Connick, Jr.
-1547: (  2) - Weed Garden - Iron & Wine
-1548: (  2) - Whenever You Need Somebody - Rick Astley
-1549: (  2) - Wise Up Ghost (Deluxe) - Elvis Costello and the Roots
-1550: (  2) - ÇA Plane Pour Moi - Plastic Bertrand
-1551: (  1) -  - Bbc
-1552: (  1) -  - Bob Dylan
-1553: (  1) -  - Catatonia
-1554: (  1) -  - Cbc Music
-1555: (  1) -  - Christian D. Berg
-1556: (  1) -  - Doctor Who
-1557: (  1) -  - Dollybono
-1558: (  1) -  - Exclusivevids1000
-1559: (  1) -  - Foster the People
-1560: (  1) -  - Inshreds66
-1561: (  1) -  - Jcpenney
-1562: (  1) -  - Literal Cry Laughing After Greg Davies' Awful Impression
-1563: (  1) -  - Mrgroovybassman
-1564: (  1) -  - Nacho Video
-1565: (  1) -  - Orange Juice
-1566: (  1) -  - Peter Twiddy
-1567: (  1) -  - Rhcptv1
-1568: (  1) -  - Rhino
-1569: (  1) -  - Rosalyn
-1570: (  1) -  - Softladification
-1571: (  1) -  - Sotonpressarchive
-1572: (  1) -  - The Cure
-1573: (  1) -  - The Late Late Show With James Corden
-1574: (  1) -  - The News 247
-1575: (  1) -  - The Thin White Duke
-1576: (  1) -  - Thepnutno2
-1577: (  1) -  - Vibracobra23 Dulosis
-1578: (  1) -  - Visagevevo
-1579: (  1) - (The Microcosm) : Visionary Music Of Continental Europe, 1970-1986 - Karl Schaffner
-1580: (  1) - 0-100 - Bob Hund
-1581: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & the Aces
-1582: (  1) - 1984 - 1989 - Lloyd Cole and the Commotions
-1583: (  1) - 1992 - 2001 - Acetone
-1584: (  1) - 2020 - Loma
-1585: (  1) - 2020 - Magik Markers
-1586: (  1) - 40 Golden Greats - Cliff Richard
-1587: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
-1588: (  1) - 7 - Beach House
-1589: (  1) - 7 Seconds - Porridge Radio
-1590: (  1) - 80S Forever - New Order
-1591: (  1) - 99 Luftballons - Nena
-1592: (  1) - A Deeper Understanding - The War on Drugs
-1593: (  1) - A Ghost In Every Bar (The Lyrics Of Fran Landesman) - Ian Shaw
-1594: (  1) - A Hard Rain's A-Gonna Fall - Laura Marling
-1595: (  1) - A House Safe For Tigers Soundtrack - Lee Hazlewood
-1596: (  1) - A Kind Of Magic (2011 Remaster) - Queen
-1597: (  1) - A Secret History... The Best Of The Divine Comedy - The Divine Comedy
-1598: (  1) - A Singular Collection: The Best Of Hazel O'connor - Hazel O'connor
-1599: (  1) - A Traditional Christmas - The Church of Leeds Parish Choir
-1600: (  1) - A Very Special Christmas 25Th Anniversary - Alison Moyet
-1601: (  1) - Ablaze - School of Seven Bells
-1602: (  1) - Acoustic - Simple Minds, Kt Tunstall
-1603: (  1) - Acquaintance - Willie Nelson
-1604: (  1) - Acr Loco - A Certain Ratio
-1605: (  1) - Acr Loco - Loma
-1606: (  1) - Affection - Lisa Stansfield
-1607: (  1) - Album 1700 - Peter, Paul & Mary
-1608: (  1) - All Right Now: The Collection - Free
-1609: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
-1610: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
-1611: (  1) - Alpha Zulu - Phoenix
-1612: (  1) - An Innocent Man - Billy Joel
-1613: (  1) - And The War Came - Shakey Graves
-1614: (  1) - Animal - Lump
-1615: (  1) - Any Day - The Sea and Cake
-1616: (  1) - Architecture & Morality - Orchestral Manoeuvres in the Dark
-1617: (  1) - As Long As You Are - Loma
-1618: (  1) - Atlas - Real Estate
-1619: (  1) - Autoamerican - Blondie
-1620: (  1) - Back Door Men - The Shadows of Knight
-1621: (  1) - Back Home Again - John Denver
-1622: (  1) - Back In The Day - Martin Stephenson and the Daintees
-1623: (  1) - Badala - Loma
-1624: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
-1625: (  1) - Bandsplain - Bandsplain
-1626: (  1) - Bang: The Bert Berns Story (Original Motion Picture Soundtrack) - Them
-1627: (  1) - Barre - Loma
-1628: (  1) - Barre - Songhoy Blues
-1629: (  1) - Be Released - Virginia Wing
-1630: (  1) - Beautiful Rivers And Mountains: The Psychedelic Rock Sound Of South Korea's Shin Joong Hyun 1958-1974 - Shin Joong Hyun & the Men
-1631: (  1) - Beautiful World ((Bonus Track Version)) - Eliza Gilkyson
-1632: (  1) * Before The Flood (Disc 1) - Bob Dylan
-1633: (  1) - Best Of Taco - Taco
-1634: (  1) * Beyond Leap - Martin Stephenson
-1635: (  1) - Big Brother & The Holding Company - Big Brother & the Holding Company
-1636: (  1) - Birth Of A Nation: Inevitable Records: An Independent Liverpool 1979-1986 - It'S Immaterial
-1637: (  1) - Birthmarks - Hilary Woods
-1638: (  1) - Blondie (Remastered 2001) - Blondie
-1639: (  1) - Blood On The Tracks - Mary Lee's Corvette
-1640: (  1) - Blooms & Barnacles - Blooms & Barnacles
-1641: (  1) - Blue Bell Knoll - Cocteau Twins
-1642: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
-1643: (  1) - Books And Authors - Books and Authors
-1644: (  1) - Born In The U.S.A. - Bruce Springsteen
-1645: (  1) - Born Sandy Devotional - The Triffids
-1646: (  1) - Boundary County - Eilen Jewell
-1647: (  1) - Bowie At The Beeb - David Bowie
-1648: (  1) - Brat - Charli Xcx
-1649: (  1) - Breakout - Louisa Mark
-1650: (  1) - Breathe In, Breath Out - Melodies Echo Chamber
-1651: (  1) - Brick By Brick - Iggy Pop
-1652: (  1) - Buckingham Solo - Tift Merritt
-1653: (  1) - Bug (Remastered) - Dinosaur Jr.
-1654: (  1) - Buon Natale (Merry Christmas) - Dinah Washington
-1655: (  1) - Bye - Slow Hands
-1656: (  1) - Cahoots - The Band
-1657: (  1) - Can't Wake Up - Shakey Graves
-1658: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
-1659: (  1) - Candy Apple Grey - Hüsker Dü
-1660: (  1) - Car Button Cloth - The Lemonheads
-1661: (  1) - Caribou (Remastered 1995) - Elton John
-1662: (  1) - Carrie & Lowell - Sufjan Stevens
-1663: (  1) - Cat People - David Bowie
-1664: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & the Wailers
-1665: (  1) - Celebrate (Greatest Hits / Expanded Edition) - Simple Minds
-1666: (  1) - Certainty - Big Thief
-1667: (  1) - Changesonebowie - David Bowie
-1668: (  1) - Christie - Christie
-1669: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Mud
-1670: (  1) - Christmas Gifts 2013 - Best Of Collection Vol. 3 - Elvis Presley
-1671: (  1) - Christmas Jams - Michael Bublé
-1672: (  1) - Clan Of Xymox - Clan of Xymox
-1673: (  1) - Classic Hits - T. Rex
-1674: (  1) - Close To The Bone - Bonus - Tom Tom Club
-1675: (  1) - Closing Sound - Blue Bendy
-1676: (  1) - Closing Time - Tom Waits
-1677: (  1) - Clues - Robert Palmer
-1678: (  1) - Colossal Youth (40Th Anniversary Edition) - Young Marble Giants
-1679: (  1) - Colour By Numbers - Culture Club
-1680: (  1) - Combat Rock (Remastered) - The Clash
-1681: (  1) - Combat Rock - The Clash
-1682: (  1) - Coming Home - Cara Dillon
-1683: (  1) - Complete - The Smiths
-1684: (  1) - Concrete And Glass - Nicolas Godin
-1685: (  1) - Conditions - The Temper Trap
-1686: (  1) - Conditions Remixed - The Temper Trap
-1687: (  1) - Coney Island Baby - Lou Reed
-1688: (  1) - Cosmic Wink - Jess Williamson
-1689: (  1) - Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons) - Cowboy Junkies
-1690: (  1) - Crash - The Human League
-1691: (  1) - Crimson Tide - Destroyer
-1692: (  1) - Crush [Explicit] - Lettuce
-1693: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
-1694: (  1) - Curse Of The I-5 Corridor - Neko Case
-1695: (  1) - Da Capo (Deluxe Edition) - Love
-1696: (  1) - Dancing With Myself (Rac Remix) - Billy Idol
-1697: (  1) - Darklands (Expanded Version) - The Jesus and Mary Chain
-1698: (  1) - Darling Arithmetic (Deluxe Version) - Villagers
-1699: (  1) - Dave Brubeck's Greatest Hits - Dave Brubeck
-1700: (  1) - David Essex - David Essex
-1701: (  1) - Deafman Glance - Ryley Walker
-1702: (  1) - Definitely Dylan - Definitely Dylan
-1703: (  1) - Delta Kream - The Black Keys
-1704: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
-1705: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
-1706: (  1) - Diamonds (Deluxe) - Elton John
-1707: (  1) - Die Kalten Winde Des Winters - Joy Division
-1708: (  1) - Dig Yourself Deep - The Undertones
-1709: (  1) - Dimensional People - Mouse on Mars
-1710: (  1) - Direction Of The Heart - Simple Minds
-1711: (  1) - Divine Madness - Madness
-1712: (  1) - Divine Symmetry - David Bowie
-1713: (  1) - Do Anything You Wanna Do: The Best Of - Eddie & the Hot Rods
-1714: (  1) - Don't Just Sing: A Karin Krog Anthology 1963-1999 - Karin Krog
-1715: (  1) - Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981-82 - Jazzateers
-1716: (  1) - Dream Into Action - Howard Jones
-1717: (  1) - Dream On - Alice Boman
-1718: (  1) - Dream Song - Michael Rault
-1719: (  1) - Dreamboats & Miniskirts - Those Were The Days - Dusty Springfield
-1720: (  1) - Dreamin' Wild - Donnie & Joe Emerson
-1721: (  1) - Dreams - The Allman Brothers Band
-1722: (  1) - Drumming The Beating Heart - Eyeless in Gaza
-1723: (  1) - Drums And Wires - Xtc
-1724: (  1) - Dyke's Greatest Hits - The Complete Singles - Dyke & the Blazers
-1725: (  1) - Echo & The Bunnymen (Expanded) [2008 Remaster] - Echo & the Bunnymen
+ 774: ( 26) - Plastic Letters - Blondie
+ 775: ( 25) - A Beard Of Stars - T. Rex
+ 776: ( 25) - Evermore - Taylor Swift
+ 777: ( 25) - Everything Now - Arcade Fire
+ 778: ( 25) - Folksinger Vol 5 - Reims 2022 - Lloyd Cole
+ 779: ( 25) - Metrobolist (Aka The Man Who Sold The World) [2020 Mix] - David Bowie
+ 780: ( 25) - Rogues Gospel - Duke Garwood
+ 781: ( 25) - Self Portrait - Bob Dylan
+ 782: ( 24) - Ambertron - Mint Mile
+ 783: ( 24) - High Bells Ring Thin - Martin Stephenson
+ 784: ( 24) - Pet Sounds - The Beach Boys
+ 785: ( 24) - Po' Girl - Po' Girl
+ 786: ( 24) - Pohorylle - Margo Cilker
+ 787: ( 24) - The Lexicon Of Love - ABC
+ 788: ( 23) - Burnin' - Bob Marley & the Wailers
+ 789: ( 23) - Marry Me - St. Vincent
+ 790: ( 23) - My Anti-Aircraft Friend - Julie
+ 791: ( 23) - Shadow Kingdom - Bob Dylan
+ 792: ( 23) - Up All Night - Simple Minds
+ 793: ( 22) - Brothers & Sisters - Steve Mason
+ 794: ( 22) - Cuts & Bruises - Inhaler
+ 795: ( 22) - Frog In Boiling Water - Diiv
+ 796: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
+ 797: ( 22) - The Window Is The Dream - Jana Horn
+ 798: ( 21) - Cut Worms - Cut Worms
+ 799: ( 21) - Hard Light - Drop Nineteens
+ 800: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+ 801: ( 21) - The Roaring Silence - Manfred Mann's Earth Band
+ 802: ( 20) - A Walk Across The Rooftops - The Blue Nile
+ 803: ( 20) - First Two Pages Of Frankenstein - The National
+ 804: ( 20) * Impossible Dream - Patty Griffin
+ 805: ( 20) - Nashville Skyline - Bob Dylan
+ 806: ( 20) - The Velvet Underground & Nico - The Velvet Underground
+ 807: ( 20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
+ 808: ( 19) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
+ 809: ( 19) - Horses - Patti Smith
+ 810: ( 19) - Ram (Paul Mccartney Archive Collection) - Paul & Linda Mccartney
+ 811: ( 19) - Reflected Images - The Best Of Altered Images - Altered Images
+ 812: ( 19) * Shot Of Love - Bob Dylan
+ 813: ( 19) * Songs To Remember - Scritti Politti
+ 814: ( 18) - A Duck's Water Off My Back - Champion Trees
+ 815: ( 18) - Emma Swift Singles 2026 - Emma Swift
+ 816: ( 18) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Michael Stipe
+ 817: ( 18) - The Cool Greenhouse - The Cool Greenhouse
+ 818: ( 17) - Collective Force - Martin Stephenson
+ 819: ( 17) - Live And Intermittent - Magazine
+ 820: ( 17) - Live At Layman Drug Company 2025 - Emma Swift
+ 821: ( 17) - Quit Dreaming (And Get On The Beam) - Bill Nelson
+ 822: ( 17) - Valley Of The Dolls - Brix Smith
+ 823: ( 16) - Blondie (Remastered 2001) - Blondie
+ 824: ( 16) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
+ 825: ( 16) - Talking Heads '77 - Talking Heads
+ 826: ( 16) - The Best Of Roxy Music - Roxy Music
+ 827: ( 16) - The Specials - The Specials
+ 828: ( 16) - The Very Best Of - Orange Juice
+ 829: ( 15) - Codex Teenage Premonition - The Fire Engines
+ 830: ( 15) - Easter Lily Ep - U2
+ 831: ( 15) - Fourth Drawer Down - The Associates
+ 832: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
+ 833: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
+ 834: ( 15) - New Wave Connection - Martin Stephenson, John Perry
+ 835: ( 14) - A Whole New Thing - Sly & the Family Stone
+ 836: ( 14) - All This Useless Beauty - Elvis Costello & the Attractions
+ 837: ( 14) - American Utopia - David Byrne
+ 838: ( 14) - Document (R.E.M. No. 5) - R.E.M.
+ 839: ( 14) - Foreign Tongues - The Rolling Stones
+ 840: ( 14) - I Could Be Happy: The Best Of Altered Images - Altered Images
+ 841: ( 14) - In The Flat Field - Bauhaus
+ 842: ( 14) - Kaleidoscope (Remastered & Expanded) - Siouxsie and the Banshees
+ 843: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+ 844: ( 14) - Live In Dublin - Leonard Cohen
+ 845: ( 14) - Raising Sand - Robert Plant
+ 846: ( 14) - Talk On Corners - The Corrs
+ 847: ( 13) * Blood On The Tracks - Bob Dylan
+ 848: ( 13) - Favourite Songs - The Best Of - Haircut 100
+ 849: ( 13) - Green River - Creedence Clearwater Revival
+ 850: ( 13) - Hippopotamus - Sparks
+ 851: ( 13) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Kurt Vile
+ 852: ( 13) - Kelvingrove Baby - The Bathers
+ 853: ( 13) - Live - In The City Of Light - Simple Minds
+ 854: ( 13) - Love This Giant - David Byrne & St. Vincent
+ 855: ( 13) * Paris 1919 (Remastered + Expanded) - John Cale
+ 856: ( 13) - Platinum - Miranda Lambert
+ 857: ( 13) - Staring At The Sea - The Singles - The Cure
+ 858: ( 13) - Strange Angels - Kristin Hersh
+ 859: ( 13) - The Kick Inside (2018 Remaster) - Kate Bush
+ 860: ( 13) - Tubular Bells - Mike Oldfield
+ 861: ( 12) - A History Of Now - Callaghan
+ 862: ( 12) - Axis: Bold As Love - Jimi Hendrix
+ 863: ( 12) - Badbea - Edwyn Collins
+ 864: ( 12) - Electric Ladyland - The Jimi Hendrix Experience
+ 865: ( 12) - Girls In Peacetime Want To Dance - Belle and Sebastian
+ 866: ( 12) - Greatest - Jim Croce
+ 867: ( 12) - Greatest Hits: Blondie - Blondie
+ 868: ( 12) - Live 1965 (Music From Charlie Is My Darling) - The Rolling Stones
+ 869: ( 12) * Losing Sleep - Edwyn Collins
+ 870: ( 12) - Love Story Demos - Lloyd Cole
+ 871: ( 12) - Nothing To Be Afraid Of - Myrtle Park's Fishing Club
+ 872: ( 12) - Old Hands - Yonder Mountain String Band
+ 873: ( 12) - Only Hinting - Clinic Stars
+ 874: ( 12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+ 875: ( 12) - Tubeway Army - Tubeway Army
+ 876: ( 12) - War Baby - Hope & Glory - Tom Robinson
+ 877: ( 11) -  - Peel.Rocks Magazine
+ 878: ( 11) - Actor - St. Vincent
+ 879: ( 11) * David Bowie - David Bowie
+ 880: ( 11) - Duran Duran - Duran Duran
+ 881: ( 11) - Exodus Of Venus - Elizabeth Cook
+ 882: ( 11) - Get It On: The Collection - T. Rex
+ 883: ( 11) - Greatest Hits Live In Concert - Echo & the Bunnymen
+ 884: ( 11) - Helplessness Blues - Fleet Foxes
+ 885: ( 11) - Hope Downs - Rolling Blackouts Coastal Fever
+ 886: ( 11) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Matt Berninger
+ 887: ( 11) - Jessica Pratt - Jessica Pratt
+ 888: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+ 889: ( 11) - La Question - Françoise Hardy
+ 890: ( 11) - Laurel Canyon - Laurel Canyon
+ 891: ( 11) - Legend - Bob Marley & the Wailers
+ 892: ( 11) - Marquee Moon - Television
+ 893: ( 11) - My Favorite Picture Of You - Guy Clark
+ 894: ( 11) - Mysterio - Ian McCulloch
+ 895: ( 11) - Open Here - Field Music
+ 896: ( 11) - Pollinator - Blondie
+ 897: ( 11) - Queer As Folk - Grace Petrie
+ 898: ( 11) * See You Around - Travis Linville
+ 899: ( 11) - Serious Moonlight - David Bowie
+ 900: ( 11) - Songs Of Experience - U2
+ 901: ( 11) - Texas - Rodney Crowell
+ 902: ( 11) - The Wide Afternoon - Jack Harris
+ 903: ( 11) - Through The Windowpane - Guillemots
+ 904: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
+ 905: ( 11) - Watch - Manfred Mann's Earth Band
+ 906: ( 11) - While I Was Asleep - Darling West
+ 907: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
+ 908: ( 10) - Chelsea Girl - Nico
+ 909: ( 10) - Dub Side Of The Moon - Easy Star All-stars
+ 910: ( 10) - Elastica - Elastica
+ 911: ( 10) - Failer - Kathleen Edwards
+ 912: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
+ 913: ( 10) - How To Dance - Mount Moriah
+ 914: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 915: ( 10) - Life In A Day - Simple Minds
+ 916: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 917: ( 10) - Lodger (2017 Remaster) - David Bowie
+ 918: ( 10) - Metamatic - John Foxx
+ 919: ( 10) - Naked As Advertised Versions 08 - Heaven 17
+ 920: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
+ 921: ( 10) - Rat Saw God - Wednesday
+ 922: ( 10) - Reel To Real Cacophony - Simple Minds
+ 923: ( 10) - Setting Sons - The Jam
+ 924: ( 10) - Sharon - Cowboy Junkies
+ 925: ( 10) - Starfish - The Church
+ 926: ( 10) - Starsailor - Tim Buckley
+ 927: ( 10) - Tales From The Realm Of The Queen Of Pentacles - Suzanne Vega
+ 928: ( 10) - Tangled Man - Green Gartside
+ 929: ( 10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 930: ( 10) - Themes - Volume 2 - Simple Minds
+ 931: ( 10) - Total - New Order
+ 932: ( 10) - Under Branch & Thorn & Tree - Samantha Crain
+ 933: ( 10) - Winter Sang - Eyeless in Gaza
+ 934: (  9) * Before The Flood - Bob Dylan
+ 935: (  9) - Blue Sky Thinkin' - Anne McCue
+ 936: (  9) * Bob Dylan At Budokan - Bob Dylan
+ 937: (  9) - Double Negative - Low
+ 938: (  9) - Get Up (Deluxe) - Bryan Adams
+ 939: (  9) - Hawkwind - Hawkwind Zoo
+ 940: (  9) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Sharon Van Etten
+ 941: (  9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
+ 942: (  9) - Purgatory - Tyler Childers
+ 943: (  9) - The Best Of - Nick Cave & the Bad Seeds
+ 944: (  9) - The Clash (Remastered) - The Clash
+ 945: (  9) - The Morning Star - Daniel Bachman
+ 946: (  9) - The Universe Inside - The Dream Syndicate
+ 947: (  9) - This Is The Story - The Proclaimers
+ 948: (  9) - To Each - A Certain Ratio
+ 949: (  8) - Burnin' - Bob Marley
+ 950: (  8) - Follow Them True - Stick in the Wheel
+ 951: (  8) - Halfway Towards A Healing - The Lost Brothers
+ 952: (  8) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Andrew Bird
+ 953: (  8) - I'm All Ears - Let'S Eat Grandma
+ 954: (  8) * Life On Mars Original Soundtrack - Various
+ 955: (  8) - Live At Bowery Ballroom 2025 - Emma Swift
+ 956: (  8) - Loaded: Live In New York - Lloyd Cole
+ 957: (  8) - Magical Mystery Tour - The Beatles
+ 958: (  8) - Music For Stowaways - B.E.F.
+ 959: (  8) - Natty Dread - Bob Marley
+ 960: (  8) - Right Here - The Go-Betweens
+ 961: (  8) - Semblance - Forma
+ 962: (  8) - Sing In My Meadow: The Nomad Series, Vol. 3 - Cowboy Junkies
+ 963: (  8) - Some Kinda Love: Performing The Music Of The Velvet Underground - The Feelies
+ 964: (  8) - Stray - Aztec Camera
+ 965: (  8) - The Guitar And Other Machines - The Durutti Column
+ 966: (  8) - The Mother Stone - Caleb Landry Jones
+ 967: (  8) - The Singles - Goldfrapp
+ 968: (  8) - The Thread That Keeps Us - Calexico
+ 969: (  8) * Thick As Thieves - Larkin Poe
+ 970: (  8) - What Happened To The Heart? - Aurora
+ 971: (  8) - Zinc alloy and the Hidden Riders of Tomorrow - T. Rex
+ 972: (  7) - 1978-1988 A Decade Of Spizz History - Spizz Energi
+ 973: (  7) - All Fall Down - The Sound
+ 974: (  7) - Ballet Of Apes - Brigid Dawson and the Mothers Network
+ 975: (  7) - Bon Voyage - Melody'S Echo Chamber
+ 976: (  7) - Changesnowbowie - David Bowie
+ 977: (  7) - Dounia Tabolo - Boubacar Traoré
+ 978: (  7) - Earth-Sized Worlds - Mandrake Handshake
+ 979: (  7) * Empire Burlesque - Bob Dylan
+ 980: (  7) - Family Reunion - Della Mae
+ 981: (  7) - Genericana - Elephant Micah
+ 982: (  7) - Ghosts Of West Virginia - Steve Earle
+ 983: (  7) - God's Favorite Customer - Father John Misty
+ 984: (  7) - Harney County - Chris Eckman
+ 985: (  7) - Home Recordings - Emma Swift
+ 986: (  7) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Courtney Barnett
+ 987: (  7) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - St. Vincent
+ 988: (  7) * Imagination Feels Like Poison - Martyn Bates
+ 989: (  7) - It's Immaterial - Black Marble
+ 990: (  7) - Kiss Me, Kiss Me, Kiss Me - The Cure
+ 991: (  7) * Liberator - Orchestral Manoeuvres in the Dark
+ 992: (  7) - Music From First Cow - William Tyler
+ 993: (  7) - Nashville Obsolete - Dave Rawlings Machine
+ 994: (  7) - New Long Leg - Dry Cleaning
+ 995: (  7) - Oh My - Nadine
+ 996: (  7) - Old Rockhounds Never Die - Odetta Hartman
+ 997: (  7) - Performance - White Denim
+ 998: (  7) - Republic - New Order
+ 999: (  7) - Room To Live - The Fall
+1000: (  7) - Shadow People - The Limiñanas
+1001: (  7) - Songs Of Bob Dylan - Joan Osborne
+1002: (  7) - Straight Songs Of Sorrow - Mark Lanegan
+1003: (  7) - Strange To Explain - Woods
+1004: (  7) - Sulk - The Associates
+1005: (  7) - That's How Rumors Get Started - Margo Price
+1006: (  7) - The Best Of - Joy Division
+1007: (  7) * The Collection - Altered Images
+1008: (  7) - The Future And The Past - Natalie Prass
+1009: (  7) - The Sound Of The Smiths - The Smiths
+1010: (  7) * This Year's Model - Live 1978 - Elvis Costello & the Attractions
+1011: (  7) - Time And Patience - Tift Merritt
+1012: (  7) - Travelogue - The Men
+1013: (  7) - Triomphe - La Féline
+1014: (  7) - Understand What Black Is - The Last Poets
+1015: (  7) * Welcome To Scullyville - Martin Stephenson
+1016: (  7) - With Animals - Duke Garwood
+1017: (  7) - Words Of Expectation 1 - The Fall
+1018: (  6) - 100% 80's (100 Classic Hits) - Sing Karaoke Sing
+1019: (  6) - 3 X 4: The Bangles, The Three O'clock, The Dream Syndicate, Rain Parade - The Dream Syndicate
+1020: (  6) - A Broke Moon Rises - Papa M
+1021: (  6) - A Hymn For Ancient Land - Jim Ghedi
+1022: (  6) - At Weddings - Tomberlin
+1023: (  6) - Bella Donna (2016 Remastered) - Stevie Nicks
+1024: (  6) - Black Rainbow Sound - Menace Beach
+1025: (  6) - Charlie Patton Highway (Turn It Up, Pt. 1) - Robert Plant
+1026: (  6) - Close To The Bone - Tom Tom Club
+1027: (  6) - De Facto - Lorelle Meets the Obsolete
+1028: (  6) - Dragnet - The Fall
+1029: (  6) - Eat To The Beat - Blondie
+1030: (  6) - From When I Wake The Want Is - Kathryn Joseph
+1031: (  6) - Goes West - William Tyler
+1032: (  6) - Golden Apples Of The Sun - Caroline Herring
+1033: (  6) - Grenades - Kaia Kater
+1034: (  6) - Ha! Ha! Ha! - Ultravox
+1035: (  6) - Hard Times In Babylon - Eliza Gilkyson
+1036: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Fontaines D.c.
+1037: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Iggy Pop
+1038: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - King Princess
+1039: (  6) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Thurston Moore
+1040: (  6) - Last Christmas - Wham!
+1041: (  6) - Liberty Belle And The Black Diamond Express - The Go-Betweens
+1042: (  6) - London Southern - Jim Lauderdale
+1043: (  6) - Music Complete - New Order
+1044: (  6) - Out Of Our Idiot - Elvis Costello
+1045: (  6) - Red Rust September - Eyeless in Gaza
+1046: (  6) - Remind Me Tomorrow - Sharon Van Etten
+1047: (  6) - San Francisco - Scott Mckenzie
+1048: (  6) - Singles - New Order
+1049: (  6) - Songs Of Innocence - U2
+1050: (  6) - Sounds Recorded By Steve Albini - Spare Snare
+1051: (  6) - Spike - Elvis Costello
+1052: (  6) - Springsteen On Broadway - Bruce Springsteen
+1053: (  6) - Standing In The Doorway: Chrissie Hynde Sings Bob Dylan - Chrissie Hynde
+1054: (  6) - Stealers Wheel - Stealers Wheel
+1055: (  6) - Sugar & Spice - Hatchie
+1056: (  6) - The Bela Session - Bauhaus
+1057: (  6) * The Light Fantastic - Cara Luft
+1058: (  6) - The Orchard - Lizz Wright
+1059: (  6) - The Underworld & You - Two Circles
+1060: (  6) - The Unseen In Between - Steve Gunn
+1061: (  6) - The War Of The Worlds - Jeff Wayne
+1062: (  6) - Weird - Juliana Hatfield
+1063: (  5) - A Distant Shore (Expanded Edition) - Tracey Thorn
+1064: (  5) - A Light For Attracting Attention - The Smile
+1065: (  5) - Beatopia - Beabadoobee, Pinkpantheress
+1066: (  5) - Bellowing Sun - Mind Over Mirrors
+1067: (  5) - Between The Earth And Sky - Lankum
+1068: (  5) - Chamber Music Society - Esperanza Spalding
+1069: (  5) - Chemistry Lessons Volume 1 - Chris Carter
+1070: (  5) * City Of Refuge - Rachel Harrington
+1071: (  5) - Deran - Bombino
+1072: (  5) - Down There! - Folly Group
+1073: (  5) - Downey To Lubbock - Jimmie Dale Gilmore
+1074: (  5) - Dungeness - Trembling Bells
+1075: (  5) - Early - Scritti Politti
+1076: (  5) - Easter Everywhere - 13Th Floor Elevators
+1077: (  5) - Ecstatic Arrow - Virginia Wing
+1078: (  5) - Ella At Duke's Place - Ella Fitzgerald
+1079: (  5) - Empire - Sarah MacDougall
+1080: (  5) - Foreign Parts - You Tell Me
+1081: (  5) - Gannett Syndication Service - Just the Faqs
+1082: (  5) - Gershwin: 's Wonderful -Gershwin Songbook (Disc 1) - Nina Simone
+1083: (  5) - Ghost - Mercy Girl
+1084: (  5) - Greatest Hits (Remastered) - Queen
+1085: (  5) - Hell-On - Neko Case
+1086: (  5) - Higgledypiggledy - Slug
+1087: (  5) - Hippo Lite - Drinks
+1088: (  5) - House For Sale - It’S Immaterial
+1089: (  5) - I Have To Feed Larry's Hawk - White Fence
+1090: (  5) - I'm In Love With A German Film Star - The Passions
+1091: (  5) - It's A New Day Tonight - Michael Rault
+1092: (  5) - Listening To Pictures (Pentimento Volume One) - Jon Hassell
+1093: (  5) - Live From Austin, Tx - Eliza Gilkyson
+1094: (  5) - Live In The City Of Angels - Simple Minds
+1095: (  5) - Lloyd Cole Live Union Chapel 2023 - Lloyd Cole
+1096: (  5) - Longwave - Bonny Doon
+1097: (  5) - Mercy Girl Singles - Mercy Girl
+1098: (  5) - Metro Music - Martha and the Muffins
+1099: (  5) - No Count Sarah - Sarah Vaughan
+1100: (  5) - Odessey And Oracle (Mono Remastered) - The Zombies
+1101: (  5) - Original Jazz Recordings (Digitally Remastered) - Dinah Washington
+1102: (  5) - Parallel Lines (Remastered) - Blondie
+1103: (  5) - Peace At Last - EP - Hem
+1104: (  5) - Pinned - A Place to Bury Strangers
+1105: (  5) - Rat's Spit - Julian Lynch
+1106: (  5) * Saved - Bob Dylan
+1107: (  5) - Sculptor - Luluc
+1108: (  5) - Sex & Food - Unknown Mortal Orchestra
+1109: (  5) - Slates (Live) - The Fall
+1110: (  5) * Sweet Somethin' Steady - Romi Mayes
+1111: (  5) - Temporal - Julia Kent
+1112: (  5) - The Imperial - The Delines
+1113: (  5) - The Louder I Call, The Faster It Runs - Wye Oak
+1114: (  5) - The Magic 0F Christmas - Nat King Cole
+1115: (  5) - The Straight Hits! - Josh T. Pearson
+1116: (  5) - Total - Joy Division
+1117: (  5) - Triplicate - Bob Dylan
+1118: (  5) - UNCUT 2016-02 - Various
+1119: (  5) - We've Been Going About This All Wrong - Sharon Van Etten
+1120: (  5) - Your Day Will Come - Chanel Beads
+1121: (  4) -  - Philscreen
+1122: (  4) - 13 Rivers - Richard Thompson
+1123: (  4) - >>> - Beak>
+1124: (  4) - Abraxas - Santana
+1125: (  4) * Achin In Yer Bones - Romi Mayes
+1126: (  4) - Acoustic Classics - Rodney Crowell
+1127: (  4) - All The Roadrunning - Mark Knopfler & Emmylou Harris
+1128: (  4) - Blondie (Remastered) - Blondie
+1129: (  4) - Bottle It In - Kurt Vile
+1130: (  4) - Brushes With Happiness - The Wave Pictures
+1131: (  4) - Calling From A Country Phone (Bonus Tracks) - Robert Forster
+1132: (  4) - Careless Love - Madeleine Peyroux
+1133: (  4) - Crushing - Julia Jacklin
+1134: (  4) - Designer - Aldous Harding
+1135: (  4) - Disraeli Gears (Remastered) - Cream
+1136: (  4) - Dogrel - Fontaines D.c.
+1137: (  4) - Dreamland - Madeleine Peyroux
+1138: (  4) - Drift - The Men
+1139: (  4) - Early Gold - Simple Minds
+1140: (  4) - Entertainment! - Gang of Four
+1141: (  4) - For Those In Love - Dinah Washington
+1142: (  4) - Garage Band Classics - The Chocolate Watch Band
+1143: (  4) - Giant Steps - John Coltrane
+1144: (  4) - Glad Rag Doll - Diana Krall
+1145: (  4) - Hardly Working - Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom
+1146: (  4) - Historian - Lucy Dacus
+1147: (  4) - Hormone Lemonade - Cavern of Anti-Matter
+1148: (  4) - I Just Dropped By To Say Hello - Johnny Hartman
+1149: (  4) - I,I - Bon Iver
+1150: (  4) - Infidels - Bob Dylan
+1151: (  4) - Innovations In British Psychedelia - Small Faces
+1152: (  4) - Jazz Blues Divas - Shirley Horn
+1153: (  4) - Land Of No Junction - Aoife Nessa Frances
+1154: (  4) - Le Kov - Gwenno
+1155: (  4) - Learning To Crawl - The Pretenders
+1156: (  4) - Lena Horne Greatest Hits - Lena Horne
+1157: (  4) - Like The River Loves The Sea - Joan Shelley
+1158: (  4) - Live At The Empire Theatre Liverpool. 04.11.19. - Orchestral Manoeuvres in the Dark
+1159: (  4) - Loaded: Re-Loaded 45Th Anniversary Edition - The Velvet Underground
+1160: (  4) - Local Color - Mose Allison
+1161: (  4) - Making A New World - Field Music
+1162: (  4) - Manhattan Moods - Mary Stallings
+1163: (  4) - Mighty Like A Rose - Elvis Costello
+1164: (  4) - Mono - The Mavericks
+1165: (  4) - Mr. Fantasy - Traffic
+1166: (  4) - Muslims And Christians (Habibi Funk 008) - Kamal Keila
+1167: (  4) - Nature - Modern Nature
+1168: (  4) - Ocean Rain Live 2008 - Echo & the Bunnymen
+1169: (  4) - Ommadawn - Mike Oldfield
+1170: (  4) - Peppermint Pig - Cocteau Twins
+1171: (  4) - Power In The Darkness - Tom Robinson Band
+1172: (  4) - Power To The People: The Hits - John Lennon
+1173: (  4) - Purple Mountains - Purple Mountains
+1174: (  4) - Putting On Airs - Erin Rae
+1175: (  4) - Quickies - The Magnetic Fields
+1176: (  4) - Rare Birds - Jonathan Wilson
+1177: (  4) - Record - Tracey Thorn
+1178: (  4) - Resonator - Kathryn Williams, Anthony Kerr
+1179: (  4) - Reward - Cate le Bon
+1180: (  4) - Rock N Roll Jamboree - Stephenson'S Rocketts
+1181: (  4) - S.F. Sorrow - The Pretty Things
+1182: (  4) - Sam Hard And Heavy - Sam Samudio
+1183: (  4) - Script Of The Bridge - 25Th Anniversary Edition - The Chameleons
+1184: (  4) - Shepherd In A Sheepskin Vest - Bill Callahan
+1185: (  4) - Shut Him Down - Michael Leonhart Orchestra
+1186: (  4) - Sings The Blues - Nina Simone
+1187: (  4) - Some Cities - Doves
+1188: (  4) - Space Gun - Guided By Voices
+1189: (  4) - Stumpwork - Dry Cleaning
+1190: (  4) - Surfer Rosa (Remastered) - Pixies
+1191: (  4) - Tempting The Storm - Cara Luft
+1192: (  4) - The Band - The Band
+1193: (  4) - The Complete Peel Sessions 1978-2004 - The Fall
+1194: (  4) - The End Of The F***Ing World (Original Songs And Score) - Graham Coxon
+1195: (  4) - The Great Gentlemen Of Jazz Vocals - Arthur Prysock
+1196: (  4) - The Mike Oldfield Collection - Mike Oldfield
+1197: (  4) - The Only Fun In Town - Josef K
+1198: (  4) - The Other Years - The Other Years
+1199: (  4) - The Seeds - The Seeds
+1200: (  4) - The Soft Machine (Remastered And Expanded) - Soft Machine
+1201: (  4) - There Is No Other (With Francesco Turrisi) [Deluxe Version] - Rhiannon Giddens
+1202: (  4) - Titanic Rising - Weyes Blood
+1203: (  4) - Tomorrow - Tomorrow
+1204: (  4) - Too Much Alike (With Patty Griffin) - Robert Plant
+1205: (  4) - Top 100 80S - New Order
+1206: (  4) - Transangelic Exodus - Ezra Furman
+1207: (  4) - U.F.O.F. - Big Thief
+1208: (  4) - Up All Night - The Waifs
+1209: (  4) - Warnings - I Break Horses
+1210: (  4) - What's New, Tomboy? - Damien Jurado
+1211: (  4) - When The Roses Bloom Again - Laura Cantrell
+1212: (  4) - Whistle Down The Wind - Joan Baez
+1213: (  4) - White Christmas - Bing Crosby
+1214: (  3) - 2020 - Richard Dawson
+1215: (  3) - 40 Greatest Hits - U Roy
+1216: (  3) - 40 Years - The Greatest Hits - Spandau Ballet
+1217: (  3) - A Quality Of Mercy - Rvg
+1218: (  3) - A Very Special Christmas 25Th Anniversary - Stevie Nicks
+1219: (  3) - A's, B's And Rarities - Suzi Quatro
+1220: (  3) - All The Best - The Human League
+1221: (  3) - All The Young Dudes - Mott the Hoople
+1222: (  3) - And Nothing Hurt - Spiritualized
+1223: (  3) - Avalon - Roxy Music
+1224: (  3) - Babelsberg - Gruff Rhys
+1225: (  3) - Brotherhood - New Order
+1226: (  3) - Buffalo Springfield - Buffalo Springfield
+1227: (  3) * Car Wheels On A Gravel Road - Lucinda Williams
+1228: (  3) - Cara Dillon - Cara Dillon
+1229: (  3) - Catch A Fire - Bob Marley & the Wailers
+1230: (  3) - Chapter 4 - Chapter 4
+1231: (  3) - Cocoa Sugar - Young Fathers
+1232: (  3) - Complete Madness - Madness
+1233: (  3) - Countless Branches (Deluxe Edition) - Bill Fay
+1234: (  3) - Cut It Out - The Go-Betweens
+1235: (  3) - Daintees Live @ Manchester Poly 1986 - Martin Stephenson and the Daintees
+1236: (  3) - Dancing With Strangers (Deluxe Edition) [2019 Remaster] - Chris Rea
+1237: (  3) - Dazzle Ships Live At The Museum Of Liverpool - Omd
+1238: (  3) - Death In The Business Of Whaling - Searows
+1239: (  3) - Deeper Well - Kacey Musgraves
+1240: (  3) - Digital Garbage - Mudhoney
+1241: (  3) - Don Letts And Turtle Bay Present Reggae 45 - Don Letts and Turtle Bay Present Reggae 45
+1242: (  3) - Down By The Jetty - Dr. Feelgood
+1243: (  3) - Drama On 3 - Bbc Radio 3
+1244: (  3) - Dreaming Wide Awake - Lizz Wright
+1245: (  3) - Dustbin Of Sound - The Cravats
+1246: (  3) - Ella Sings The Cole Porter & Rodgers And Hart Songbook - Ella Fitzgerald
+1247: (  3) - Everybody Scream - Florence + the Machine
+1248: (  3) - Everything's Gone Green (2019 Remaster) - New Order
+1249: (  3) - Fallen Angels - Bob Dylan
+1250: (  3) - For My Crimes - Marissa Nadler
+1251: (  3) - Forever Changes - Love
+1252: (  3) - Freedom's Goblin - Ty Segall
+1253: (  3) - Germ Free Adolescents (Deluxe Edition) - X-Ray Spex
+1254: (  3) - Get Close (Expanded & Remastered) - Pretenders
+1255: (  3) - Ghosteen - Nick Cave & the Bad Seeds
+1256: (  3) - Glass: Low Symphony, From The Music Of David Bowie & Brian Eno - Philip Glass
+1257: (  3) - Gorilla - The Bonzo Dog Band
+1258: (  3) - Greatest Hits - Eric Burdon & the Animals
+1259: (  3) - Greatest Hits - Slade
+1260: (  3) - Halo - Juana Molina
+1261: (  3) - Happy Together - Procol Harum
+1262: (  3) - Hawkwind - Dave Brock
+1263: (  3) - I Feel For You - Chaka Khan
+1264: (  3) - I Need To Start A Garden - Haley Heynderickx
+1265: (  3) - I Never Loved A Man The Way I Love You - Aretha Franklin
+1266: (  3) - I'm Bad Now - Nap Eyes
+1267: (  3) - I-Feel-Like-I'm-Fixin'-To-Die - Country Joe & the Fish
+1268: (  3) - If I Don't Make It, I Love U - Still House Plants
+1269: (  3) - In Case You're In Love - Sonny & Cher
+1270: (  3) - In The Dark - Toots and the Maytals
+1271: (  3) - It's Smoke Time - The Smoke
+1272: (  3) - Jassbusters - Connan Mockasin
+1273: (  3) - John Coltrane And Johnny Hartman (Hd Remastered Edition) - John Coltrane & Johnny Hartman
+1274: (  3) - Joy - White Fence
+1275: (  3) - Kentish Longtails - The Len Price 3
+1276: (  3) - Lamp Lit Prose - Dirty Projectors
+1277: (  3) * Live From KXLU Radio - Gina Villalobos
+1278: (  3) * Live at Brooklyn Bowl 2016 - Lloyd Cole
+1279: (  3) - Look Now (Deluxe Edition) - Elvis Costello & the Imposters
+1280: (  3) - Love, Loss, And Auto-Tune - Swamp Dogg
+1281: (  3) - Merry Christmas Wherever You Are - George Strait
+1282: (  3) - More - Pulp, Chilly Gonzales
+1283: (  3) - More Songs About Buildings And Food - Talking Heads
+1284: (  3) - Mother - Xylouris White
+1285: (  3) - Move (2007 Remaster) - The Move
+1286: (  3) - Mr. Dynamite - Creep Show
+1287: (  3) - Music For Sixties - Manfred Mann
+1288: (  3) - My Generation - The Who
+1289: (  3) - New Boots And Panties! - Ian Dury
+1290: (  3) - Nighttime Birds And Morning Stars - Sarah Louise
+1291: (  3) - No, No, No - Dawn Penn
+1292: (  3) - Once Upon A Christmas - Dolly Parton
+1293: (  3) - Ooh La La - Faces
+1294: (  3) - Our Country: Americana Act 2 - Ray Davies
+1295: (  3) - Out Deh - Gregory Isaacs
+1296: (  3) - Out Of All This Blue (Deluxe) - The Waterboys
+1297: (  3) - Où Est La Maison De Fromage? - John Cooper Clarke
+1298: (  3) - Pastoral - Gazelle Twin
+1299: (  3) - Playing In The Hall - The Charlatans
+1300: (  3) - Radyo SiwèL - Mélissa Laveaux
+1301: (  3) - Rastaman Vibration - Bob Marley & the Wailers
+1302: (  3) - Santa Claus Is Comin' To Town - Bruce Springsteen
+1303: (  3) - Shelley's On Zenn-La - Oliver Coates
+1304: (  3) - Sign "O" The Times - Prince
+1305: (  3) - Silver Eye - Goldfrapp
+1306: (  3) - Singles (2016 Remaster) - New Order
+1307: (  3) - Something Else By The Kinks (Bonus Track Edition) - The Kinks
+1308: (  3) - Songs To Remember (Remaster) - Scritti Politti
+1309: (  3) - Spiral Scratch - Buzzcocks
+1310: (  3) - Stitch Of The World - Tift Merritt, Sam Beam
+1311: (  3) - Stop The Cavalry - Jona Lewie
+1312: (  3) - Streetcore - Joe Strummer
+1313: (  3) - Stretchy Pants - Carrie Underwood
+1314: (  3) - Sun On The Square - The Innocence Mission
+1315: (  3) - That's Right - The Fallen Leaves
+1316: (  3) - The 5000 Spirits Or The Layers Of The Onion - The Incredible String Band
+1317: (  3) - The Basement Tapes - Bob Dylan and the Band
+1318: (  3) - The Byrds - The Byrds
+1319: (  3) - The Gate - Kurt Elling
+1320: (  3) - The Look Of Love - ABC
+1321: (  3) - The Mamas & The Papas - The Mamas & the Papas
+1322: (  3) - The Modern Lovers - Jonathan Richman and the Modern Lovers
+1323: (  3) - The Original Psychedelic Album - Keith West
+1324: (  3) - The Prodigal Son - Ry Cooder
+1325: (  3) - The Queen Is Dead - The Smiths
+1326: (  3) - The Return - Sampa the Great
+1327: (  3) - The Toughest - Peter Tosh
+1328: (  3) - The Unfinished Revolution - Christy Moore
+1329: (  3) - The Very Best Of Mud - Mud
+1330: (  3) - The Water Garden - Alex De Grassi
+1331: (  3) - Third - Nathan Salsburg
+1332: (  3) - Trampoline (Expanded Edition) - The Mavericks
+1333: (  3) - True - Spandau Ballet
+1334: (  3) * UNCUT 2016-04 - On The Highway - Various
+1335: (  3) - Unfollow The Rules - Rufus Wainwright
+1336: (  3) - Uniform Distortion - Jim James
+1337: (  3) * We Still Love Our Country - Carrie Rodriguez and Ben Kyle
+1338: (  3) - We're Not Talking - The Goon Sax
+1339: (  3) - White Light / White Heat - The Velvet Underground
+1340: (  3) - Wilder - The Teardrop Explodes
+1341: (  3) - Words Of Expectation 2 - The Fall
+1342: (  3) * World At Large - The Dust Poets
+1343: (  3) - Years In The Making - Loudon Wainwright III
+1344: (  3) - You Never Were Much Of A Dancer - Gwenifer Raymond
+1345: (  3) - Young, Dumb & Wild - Andy Golledge
+1346: (  2) -  - Dcoops
+1347: (  2) -  - Murrough Mcbride
+1348: (  2) -  - Sky News
+1349: (  2) - (What's So Funny 'bout) Peace, Love And Understanding? - Sharon Van Etten
+1350: (  2) - 1 Time Mirage - Knife Knights
+1351: (  2) - 2010-06-10: Lafayette Square, Buffalo, Ny, Usa - Tift Merritt
+1352: (  2) - 2011-04-13: The Handlebar, Greenville, Sc, Usa - Hayes Carll
+1353: (  2) - 70S 100 Hits - Blue Öyster Cult
+1354: (  2) - 70S 100 Hits - David Essex
+1355: (  2) - 70S 100 Hits - Lou Reed
+1356: (  2) - 70S 100 Hits - Middle of the Road
+1357: (  2) - 70S Classic Rock - Free
+1358: (  2) * Altered Images 12 Inch Mix - Altered Images
+1359: (  2) - Aspirin Sun - Emma Tricca
+1360: (  2) - Back In Black - Ac/Dc
+1361: (  2) - Balsams - Chuck Johnson
+1362: (  2) - Bang!... The Greatest Hits Of Frankie Goes To Hollywood - Frankie Goes to Hollywood
+1363: (  2) - Be A Rebel - New Order
+1364: (  2) - Bee Gees' 1St - Bee Gees
+1365: (  2) - Best Of - Middle of the Road
+1366: (  2) - Billboard #1S: The '70S - Carly Simon
+1367: (  2) - Blood And Chocolate - Elvis Costello & the Attractions
+1368: (  2) - Blue Skies & Free-Rides: The Best Of 1986-1989 - The Weather Prophets
+1369: (  2) - Bob Hund (Vinylljud 2019) - Bob Hund
+1370: (  2) - Business As Usual - Men At Work
+1371: (  2) - Cactused - Wire
+1372: (  2) - Caribou (Remastered) - Elton John
+1373: (  2) - Cauldron - Fifty Foot Hose
+1374: (  2) - Chapter 5 - Chapter 5
+1375: (  2) - Chatham County Line - Chatham County Line
+1376: (  2) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - The Pogues
+1377: (  2) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Wizzard
+1378: (  2) - Christmas In The Heart - Bob Dylan
+1379: (  2) - Christmas Jukebox - Slade
+1380: (  2) - Christmas Tree Farm - Taylor Swift
+1381: (  2) - Christmas With Nat, Dean And Bing - Nat King Cole
+1382: (  2) - Chronicles - Steve Winwood
+1383: (  2) - Circu5 - Circu5
+1384: (  2) - Cool As Folk - Joe Strummer And?the Mescaleros
+1385: (  2) - Dare! - The Human League
+1386: (  2) * David Rodigan Summmer Of Reggae - David Rodigan
+1387: (  2) - Debris - Keeley Forsyth
+1388: (  2) - Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain - China Crisis
+1389: (  2) - Do They Know Its Christmas? - Band Aid
+1390: (  2) - Dreaming My Dreams - Waylon Jennings
+1391: (  2) - DéJàVu - Matty
+1392: (  2) - Earl Scruggs And Friends - Earl Scruggs
+1393: (  2) - Eight Miles High/Makes No Sense At All (4-Track Maxi-Single) - Hüsker Dü
+1394: (  2) - Elastic Days - J Mascis
+1395: (  2) - Electric Ladyland - Jimi Hendrix
+1396: (  2) - Essential Music Hits Vol 2 - Mike Oldfield
+1397: (  2) - Everyday Is Christmas - Sia
+1398: (  2) - F.L.M. (Deluxe Edition) - Mel & Kim
+1399: (  2) - Far Away In Time - Martha and the Muffins
+1400: (  2) - Fate Of Nations - Robert Plant
+1401: (  2) - Feels Like Home - Sheryl Crow
+1402: (  2) - Feliz Navidad - José Feliciano
+1403: (  2) - Ferment - Catherine Wheel
+1404: (  2) - Folkmusik FöR Folk Som Inte Kan Bete Sig Som Folk - Bob Hund
+1405: (  2) - God Squad Saviour - Department S
+1406: (  2) - Gold - Greatest Hits - The Carpenters
+1407: (  2) - Golden Age - Heaven 17
+1408: (  2) - Greatest - Ian Dury
+1409: (  2) - Greatest Hits - Ricky Nelson, the Stone Canyon Band
+1410: (  2) - Greetings From Asbury Park, N.J. - Bruce Springsteen
+1411: (  2) - Grrr! - The Rolling Stones
+1412: (  2) - Half The Perfect World - Madeleine Peyroux
+1413: (  2) * Hard Rain - Bob Dylan
+1414: (  2) - Have Yourself A Merry Little Christmas - Sam Smith
+1415: (  2) - Heartmind - Cass McCombs
+1416: (  2) - Heyday - The Church
+1417: (  2) - Hits'n'flips - The Move
+1418: (  2) - Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition] - Mykola Dmytrovych Leontovych
+1419: (  2) - Home Alone - Soundtrack - John Williams
+1420: (  2) - Hot Love (Alternative Version) - T. Rex
+1421: (  2) - Hundreds Of Days - Mary Lattimore
+1422: (  2) - Hush - Tracy Bryant
+1423: (  2) - Hyaena (Remastered And Expanded) - Siouxsie and the Banshees
+1424: (  2) - Hypersonic Missiles - Sam Fender
+1425: (  2) - Hypnotised - The Undertones
+1426: (  2) - I Am Shelby Lynne (Bonus Track Version) - Shelby Lynne
+1427: (  2) - I Fix My Gaze / Don't Shy Away - Loma
+1428: (  2) - I've Tortured You Long Enough - Mass Gothic
+1429: (  2) - Icon - A Very Special Christmas - John Lennon
+1430: (  2) - If I Should Fall From Grace With God (Expanded Edition) - The Pogues
+1431: (  2) - Ignite The Seven Cannons (Remastered Edition) - Felt
+1432: (  2) - Iii - Loma
+1433: (  2) - In Spades - The Afghan Whigs
+1434: (  2) - In The City (Remastered Version) - The Jam
+1435: (  2) - Insight Out - The Association
+1436: (  2) - It'll End In Tears (Remastered) - This Mortal Coil
+1437: (  2) - Jesus Of Cool (Deluxe Edition) - Nick Lowe
+1438: (  2) - Joan Shelley - Joan Shelley
+1439: (  2) - Just Like Moby Dick - The Panhandle Mystery Band
+1440: (  2) - Kimono My House - Sparks
+1441: (  2) - Knowledge - Edwyn Collins
+1442: (  2) - Legend – The Best Of Bob Marley & The Wailers - The Wailers
+1443: (  2) - Lennon Bermuda - Yoko Ono
+1444: (  2) - Life's Too Good - The Sugarcubes
+1445: (  2) - Lifes Rich Pageant (Deluxe Edition) - R.E.M.
+1446: (  2) - Live 1962-1966 - Rare Performances From The Copyright Collections - Bob Dylan and Joan Baez
+1447: (  2) - Live At Bestival 2012 - New Order
+1448: (  2) - Live With The Royal Liverpool Philharmonic Orchestra - 06/10/18 - Orchestral Manoeuvres in the Dark
+1449: (  2) - Loma - Loma
+1450: (  2) - London 0 Hull 4 - The Housemartins
+1451: (  2) - Loner - Caroline Rose
+1452: (  2) - Look - Beth Nielsen Chapman
+1453: (  2) - Make It Up To You (Unreleased Studio Outtake) - Steve Wynn
+1454: (  2) * Mccartney II (Special Edition) - Paul McCartney
+1455: (  2) - Meat Is Murder - The Smiths
+1456: (  2) - Meet Me At The River - Dawn Landes
+1457: (  2) - Melophobia - Cage the Elephant
+1458: (  2) - Metamatic...Plus - John Foxx
+1459: (  2) - Mindrocker - A Us-Punk Anthology Vol. 4 (Digitally Remastered) - The Moving Sidewalks
+1460: (  2) - Mirror Moves - The Psychedelic Furs
+1461: (  2) - Missing You - The Collection - Chris De Burgh
+1462: (  2) - Moodie - Yuno
+1463: (  2) - More Hot Rocks (Big Hits & Fazed Cookies) - The Rolling Stones
+1464: (  2) - Music From Big Pink - The Band
+1465: (  2) - Music In A Doll's House / Family Entertainment - Family
+1466: (  2) - My Greatest Songs - Buddy Holly
+1467: (  2) - New Chapter Of Dub - Aswad
+1468: (  2) - New Wave Hits Of The 80S - ABC
+1469: (  2) - New Wave Hits Of The 80S - Soft Cell
+1470: (  2) - New Wave Hits Of The 80S - UB40
+1471: (  2) - No Cities To Love - Sleater-Kinney
+1472: (  2) - No Recover - Eric Bachmann
+1473: (  2) - Non-Stop Erotic Cabaret - Soft Cell
+1474: (  2) - On All Fours - Goat Girl
+1475: (  2) - Once Upon A Summertime - Blossom Dearie
+1476: (  2) - Only Yazoo - The Best Of Yazoo - Yazoo
+1477: (  2) - Original Hits - 70S Pop - Mott the Hoople
+1478: (  2) - OxygèNe - Jean Michel Jarre
+1479: (  2) - Paradise Hotel - Eliza Gilkyson
+1480: (  2) - Passwords - Dawes
+1481: (  2) - Peasant - Richard Dawson
+1482: (  2) - Playlist: 70S Pop - Gerry Rafferty
+1483: (  2) - Playlist: 70S Pop - Steve Harley
+1484: (  2) - Population: Me - Dwight Yoakam
+1485: (  2) - Private Revolution - World Party
+1486: (  2) - Pure Comedy - Father John Misty
+1487: (  2) - Redshift - Rhyton
+1488: (  2) - Reggatta De Blanc - The Police
+1489: (  2) - Replicas - Gary Numan
+1490: (  2) - Rio (Collector's Edition) - Duran Duran
+1491: (  2) - Rock With I - U-Roy
+1492: (  2) - Romance - Fontaines D.c.
+1493: (  2) - Saint Cloud - Waxahatchee
+1494: (  2) - Santa Baby - Eartha Kitt
+1495: (  2) - Santa Tell Me - Ariana Grande
+1496: (  2) - Script Of The Bridge (Remastered) - The Chameleons
+1497: (  2) - See Here, I Have Built You A Mansion (Rare And Unreleased) - Josh Ritter
+1498: (  2) - Selected Works (1972-1999) - Eagles
+1499: (  2) - Seventh Sea - Tom Baird
+1500: (  2) - Shelter - Olivia Chaney
+1501: (  2) - Side By Side (Live At Spacebomb Studios) - Natalie Prass
+1502: (  2) - Slowdive - Slowdive
+1503: (  2) - Smile (Expanded Edition) - The Jayhawks
+1504: (  2) - Smiley Smile - The Beach Boys
+1505: (  2) - Snapshot Of A Beginner - Nap Eyes
+1506: (  2) - Social Studies - Loudon Wainwright III
+1507: (  2) - Songs - Loma
+1508: (  2) - Songs Of Thomas Hardy's Wessex - The Mellstock Band
+1509: (  2) - Songs To Learn And Sing - Echo & the Bunnymen
+1510: (  2) - Strangeways, Here We Come - The Smiths
+1511: (  2) - Sub-Stance - Department S
+1512: (  2) - Suit Yourself - Shelby Lynne
+1513: (  2) - Sunshine Superman (Stereo Special Edition) - Donovan
+1514: (  2) - Sure - Hatchie
+1515: (  2) - Surprise Surprise Surprise - Miracle Legion
+1516: (  2) - Surrealistic Pillow - Jefferson Airplane
+1517: (  2) - Sweet Misdemeanour - Martin Stephenson
+1518: (  2) - Technique - New Order
+1519: (  2) - Tell Me How You Really Feel - Courtney Barnett
+1520: (  2) - The Anthology 1964 - 1971 - The Kinks
+1521: (  2) - The Birds, The Bees, & The Monkees - The Monkees
+1522: (  2) - The Collection - Prefab Sprout
+1523: (  2) - The Correct Use Of Soap - Magazine
+1524: (  2) - The Crossing - Alejandro Escovedo
+1525: (  2) - The Essential Leonard Cohen - Leonard Cohen
+1526: (  2) - The Essential Mindy Smith - Mindy Smith
+1527: (  2) - The Good Earth - The Feelies
+1528: (  2) - The Moon And The Melodies - Cocteau Twins
+1529: (  2) - The Navigator - Hurray for the Riff Raff
+1530: (  2) - The New Bye & Bye - Chip & Carrie
+1531: (  2) - The Other - King Tuff
+1532: (  2) - The Piper At The Gates Of Dawn - Pink Floyd
+1533: (  2) - The Pretty Things - The Pretty Things
+1534: (  2) - The Rabbit That Hunts Tigers - Yin Yin
+1535: (  2) - The Singles Collection - Small Faces
+1536: (  2) - The Very Best Of Moby Grape Vintage - Moby Grape
+1537: (  2) - The Weight Of The Sun - Modern Studies
+1538: (  2) - The Who Sell Out (Deluxe Edition) - The Who
+1539: (  2) - Their Prime - Jo Passed
+1540: (  2) - They Might Be Giants - They Might Be Giants
+1541: (  2) - Tigers Blood - Waxahatchee, Mj Lenderman
+1542: (  2) - To Our Children's Children's Children - The Moody Blues
+1543: (  2) - Tommy - The Wedding Present
+1544: (  2) - True Love Stories - Jilted John
+1545: (  2) - True Stories - Talking Heads
+1546: (  2) - Vessel - Frankie Cosmos
+1547: (  2) - Visions Of A Life - Wolf Alice
+1548: (  2) - We Are In Love - Harry Connick, Jr.
+1549: (  2) - Weed Garden - Iron & Wine
+1550: (  2) - Whenever You Need Somebody - Rick Astley
+1551: (  2) - Wise Up Ghost (Deluxe) - Elvis Costello and the Roots
+1552: (  2) - ÇA Plane Pour Moi - Plastic Bertrand
+1553: (  1) -  - Bbc
+1554: (  1) -  - Bob Dylan
+1555: (  1) -  - Catatonia
+1556: (  1) -  - Cbc Music
+1557: (  1) -  - Christian D. Berg
+1558: (  1) -  - Doctor Who
+1559: (  1) -  - Dollybono
+1560: (  1) -  - Exclusivevids1000
+1561: (  1) -  - Foster the People
+1562: (  1) -  - Inshreds66
+1563: (  1) -  - Jcpenney
+1564: (  1) -  - Literal Cry Laughing After Greg Davies' Awful Impression
+1565: (  1) -  - Mrgroovybassman
+1566: (  1) -  - Nacho Video
+1567: (  1) -  - Orange Juice
+1568: (  1) -  - Peter Twiddy
+1569: (  1) -  - Rhcptv1
+1570: (  1) -  - Rhino
+1571: (  1) -  - Rosalyn
+1572: (  1) -  - Softladification
+1573: (  1) -  - Sotonpressarchive
+1574: (  1) -  - The Cure
+1575: (  1) -  - The Late Late Show With James Corden
+1576: (  1) -  - The News 247
+1577: (  1) -  - The Thin White Duke
+1578: (  1) -  - Thepnutno2
+1579: (  1) -  - Vibracobra23 Dulosis
+1580: (  1) -  - Visagevevo
+1581: (  1) - (The Microcosm) : Visionary Music Of Continental Europe, 1970-1986 - Karl Schaffner
+1582: (  1) - 0-100 - Bob Hund
+1583: (  1) - 007: The Best Of Desmond Dekker - Desmond Dekker & the Aces
+1584: (  1) - 1984 - 1989 - Lloyd Cole and the Commotions
+1585: (  1) - 1992 - 2001 - Acetone
+1586: (  1) - 2020 - Loma
+1587: (  1) - 2020 - Magik Markers
+1588: (  1) - 40 Golden Greats - Cliff Richard
+1589: (  1) - 461 Ocean Blvd. (Deluxe Edition) - Eric Clapton
+1590: (  1) - 7 - Beach House
+1591: (  1) - 7 Seconds - Porridge Radio
+1592: (  1) - 80S Forever - New Order
+1593: (  1) - 99 Luftballons - Nena
+1594: (  1) - A Deeper Understanding - The War on Drugs
+1595: (  1) - A Ghost In Every Bar (The Lyrics Of Fran Landesman) - Ian Shaw
+1596: (  1) - A Hard Rain's A-Gonna Fall - Laura Marling
+1597: (  1) - A House Safe For Tigers Soundtrack - Lee Hazlewood
+1598: (  1) - A Kind Of Magic (2011 Remaster) - Queen
+1599: (  1) - A Secret History... The Best Of The Divine Comedy - The Divine Comedy
+1600: (  1) - A Singular Collection: The Best Of Hazel O'connor - Hazel O'connor
+1601: (  1) - A Traditional Christmas - The Church of Leeds Parish Choir
+1602: (  1) - A Very Special Christmas 25Th Anniversary - Alison Moyet
+1603: (  1) - Ablaze - School of Seven Bells
+1604: (  1) - Acoustic - Simple Minds, Kt Tunstall
+1605: (  1) - Acquaintance - Willie Nelson
+1606: (  1) - Acr Loco - A Certain Ratio
+1607: (  1) - Acr Loco - Loma
+1608: (  1) - Affection - Lisa Stansfield
+1609: (  1) - Album 1700 - Peter, Paul & Mary
+1610: (  1) - All Right Now: The Collection - Free
+1611: (  1) - All The Young Dudes (Expanded Edition) - Mott the Hoople
+1612: (  1) - All Things Must Pass (50Th Anniversary) - George Harrison
+1613: (  1) - Alpha Zulu - Phoenix
+1614: (  1) - An Innocent Man - Billy Joel
+1615: (  1) - And The War Came - Shakey Graves
+1616: (  1) - Animal - Lump
+1617: (  1) - Any Day - The Sea and Cake
+1618: (  1) - Architecture & Morality - Orchestral Manoeuvres in the Dark
+1619: (  1) - As Long As You Are - Loma
+1620: (  1) - Atlas - Real Estate
+1621: (  1) - Autoamerican - Blondie
+1622: (  1) - Back Door Men - The Shadows of Knight
+1623: (  1) - Back Home Again - John Denver
+1624: (  1) - Back In The Day - Martin Stephenson and the Daintees
+1625: (  1) - Badala - Loma
+1626: (  1) - Bande à Part - Nouvelle Vague, Marina Céleste
+1627: (  1) - Bandsplain - Bandsplain
+1628: (  1) - Bang: The Bert Berns Story (Original Motion Picture Soundtrack) - Them
+1629: (  1) - Barre - Loma
+1630: (  1) - Barre - Songhoy Blues
+1631: (  1) - Be Released - Virginia Wing
+1632: (  1) - Beautiful Rivers And Mountains: The Psychedelic Rock Sound Of South Korea's Shin Joong Hyun 1958-1974 - Shin Joong Hyun & the Men
+1633: (  1) - Beautiful World ((Bonus Track Version)) - Eliza Gilkyson
+1634: (  1) * Before The Flood (Disc 1) - Bob Dylan
+1635: (  1) - Best Of Taco - Taco
+1636: (  1) * Beyond Leap - Martin Stephenson
+1637: (  1) - Big Brother & The Holding Company - Big Brother & the Holding Company
+1638: (  1) - Birth Of A Nation: Inevitable Records: An Independent Liverpool 1979-1986 - It'S Immaterial
+1639: (  1) - Birthmarks - Hilary Woods
+1640: (  1) - Blood On The Tracks - Mary Lee's Corvette
+1641: (  1) - Blooms & Barnacles - Blooms & Barnacles
+1642: (  1) - Blue Bell Knoll - Cocteau Twins
+1643: (  1) - Bob Dylan At Budokan (Cd1) - Bob Dylan
+1644: (  1) - Books And Authors - Books and Authors
+1645: (  1) - Born In The U.S.A. - Bruce Springsteen
+1646: (  1) - Born Sandy Devotional - The Triffids
+1647: (  1) - Boundary County - Eilen Jewell
+1648: (  1) - Bowie At The Beeb - David Bowie
+1649: (  1) - Brat - Charli Xcx
+1650: (  1) - Breakout - Louisa Mark
+1651: (  1) - Breathe In, Breath Out - Melodies Echo Chamber
+1652: (  1) - Brick By Brick - Iggy Pop
+1653: (  1) - Buckingham Solo - Tift Merritt
+1654: (  1) - Bug (Remastered) - Dinosaur Jr.
+1655: (  1) - Buon Natale (Merry Christmas) - Dinah Washington
+1656: (  1) - Bye - Slow Hands
+1657: (  1) - Cahoots - The Band
+1658: (  1) - Can't Wake Up - Shakey Graves
+1659: (  1) - Candlelit Keys: Christmas Classics - Best Christmas Songs
+1660: (  1) - Candy Apple Grey - Hüsker Dü
+1661: (  1) - Car Button Cloth - The Lemonheads
+1662: (  1) - Caribou (Remastered 1995) - Elton John
+1663: (  1) - Carrie & Lowell - Sufjan Stevens
+1664: (  1) - Cat People - David Bowie
+1665: (  1) - Catch A Fire (Deluxe Edition) - Bob Marley & the Wailers
+1666: (  1) - Celebrate (Greatest Hits / Expanded Edition) - Simple Minds
+1667: (  1) - Certainty - Big Thief
+1668: (  1) - Changesonebowie - David Bowie
+1669: (  1) - Christie - Christie
+1670: (  1) - Christmas - The Collection (50 Of The Greatest Original Xmas Hits) - Mud
+1671: (  1) - Christmas Gifts 2013 - Best Of Collection Vol. 3 - Elvis Presley
+1672: (  1) - Christmas Jams - Michael Bublé
+1673: (  1) - Clan Of Xymox - Clan of Xymox
+1674: (  1) - Classic Hits - T. Rex
+1675: (  1) - Close To The Bone - Bonus - Tom Tom Club
+1676: (  1) - Closing Sound - Blue Bendy
+1677: (  1) - Closing Time - Tom Waits
+1678: (  1) - Clues - Robert Palmer
+1679: (  1) - Colossal Youth (40Th Anniversary Edition) - Young Marble Giants
+1680: (  1) - Colour By Numbers - Culture Club
+1681: (  1) - Combat Rock (Remastered) - The Clash
+1682: (  1) - Combat Rock - The Clash
+1683: (  1) - Coming Home - Cara Dillon
+1684: (  1) - Complete - The Smiths
+1685: (  1) - Concrete And Glass - Nicolas Godin
+1686: (  1) - Conditions - The Temper Trap
+1687: (  1) - Conditions Remixed - The Temper Trap
+1688: (  1) - Coney Island Baby - Lou Reed
+1689: (  1) - Cosmic Wink - Jess Williamson
+1690: (  1) - Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons) - Cowboy Junkies
+1691: (  1) - Crash - The Human League
+1692: (  1) - Crimson Tide - Destroyer
+1693: (  1) - Crush [Explicit] - Lettuce
+1694: (  1) - Cum On Feel The Hitz: The Best Of Slade - Slade
+1695: (  1) - Curse Of The I-5 Corridor - Neko Case
+1696: (  1) - Da Capo (Deluxe Edition) - Love
+1697: (  1) - Dancing With Myself (Rac Remix) - Billy Idol
+1698: (  1) - Darklands (Expanded Version) - The Jesus and Mary Chain
+1699: (  1) - Darling Arithmetic (Deluxe Version) - Villagers
+1700: (  1) - Dave Brubeck's Greatest Hits - Dave Brubeck
+1701: (  1) - David Essex - David Essex
+1702: (  1) - Deafman Glance - Ryley Walker
+1703: (  1) - Definitely Dylan - Definitely Dylan
+1704: (  1) - Delta Kream - The Black Keys
+1705: (  1) - Deran Deran Alkheir (Well Wishes) - Bombino
+1706: (  1) - Det öVerexponerade GöMstäLlet - Bob Hund
+1707: (  1) - Diamonds (Deluxe) - Elton John
+1708: (  1) - Die Kalten Winde Des Winters - Joy Division
+1709: (  1) - Dig Yourself Deep - The Undertones
+1710: (  1) - Dimensional People - Mouse on Mars
+1711: (  1) - Direction Of The Heart - Simple Minds
+1712: (  1) - Divine Madness - Madness
+1713: (  1) - Divine Symmetry - David Bowie
+1714: (  1) - Do Anything You Wanna Do: The Best Of - Eddie & the Hot Rods
+1715: (  1) - Don't Just Sing: A Karin Krog Anthology 1963-1999 - Karin Krog
+1716: (  1) - Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981-82 - Jazzateers
+1717: (  1) - Dream Into Action - Howard Jones
+1718: (  1) - Dream On - Alice Boman
+1719: (  1) - Dream Song - Michael Rault
+1720: (  1) - Dreamboats & Miniskirts - Those Were The Days - Dusty Springfield
+1721: (  1) - Dreamin' Wild - Donnie & Joe Emerson
+1722: (  1) - Dreams - The Allman Brothers Band
+1723: (  1) - Drumming The Beating Heart - Eyeless in Gaza
+1724: (  1) - Drums And Wires - Xtc
+1725: (  1) - Dyke's Greatest Hits - The Complete Singles - Dyke & the Blazers
 1726: (  1) - Electrical Storm (Remastered 2024) - U2
 1727: (  1) - Elton John - Elton John
 1728: (  1) - England Is A Garden - Cornershop

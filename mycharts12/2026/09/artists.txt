@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3288           101           180          1387
+    3356           102           182          1446
   1: (142) - Wolf Alice
 
 
@@ -93,103 +93,104 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 23: ( 55) - Orange Juice
- 24: ( 54) - The Bluebells
+ 23: ( 55) - Echo & the Bunnymen
+ 24: ( 55) - Orange Juice
+ 25: ( 54) - The Bluebells
 
 
 
 
- 25: ( 49) - U2
- 26: ( 48) - Edwyn Collins
- 27: ( 48) - Glyders
- 28: ( 47) - Robert Forster
+ 26: ( 49) - U2
+ 27: ( 48) - Edwyn Collins
+ 28: ( 48) - Glyders
+ 29: ( 47) - Robert Forster
 
 
 
 
 
 
- 29: ( 40) - JT Nero
+ 30: ( 40) - JT Nero
 
- 30: ( 38) - Anne McCue
- 31: ( 38) - Sharon Van Etten
- 32: ( 37) - Orchestral Manoeuvres in the Dark
-
-
- 33: ( 34) - Eyeless in Gaza
- 34: ( 34) - Hem
- 35: ( 34) - Melody'S Echo Chamber
- 36: ( 33) - Robyn Hitchcock
- 37: ( 33) - The Redlands Palomino Company
- 38: ( 32) - New Order
-
- 39: ( 30) - Echo & the Bunnymen
- 40: ( 30) - Leonard Cohen
- 41: ( 29) - Suzanne Vega
-
- 42: ( 27) - Roxy Music
- 43: ( 27) - The Rolling Stones
- 44: ( 27) - Tift Merritt
- 45: ( 26) - Devine & Statton
- 46: ( 26) - T. Rex
-
- 47: ( 24) - Paul Weller
- 48: ( 24) - Po' Girl
- 49: ( 24) - Wet Leg
- 50: ( 23) - Everything But the Girl
+ 31: ( 38) - Anne McCue
+ 32: ( 38) - Sharon Van Etten
+ 33: ( 37) - Orchestral Manoeuvres in the Dark
 
 
- 51: ( 20) - Elvis Costello
- 52: ( 19) - The Burning Hell
- 53: ( 18) - Champion Trees
- 54: ( 18) - Prefab Sprout
+ 34: ( 34) - Eyeless in Gaza
+ 35: ( 34) - Hem
+ 36: ( 34) - Melody'S Echo Chamber
+ 37: ( 33) - Blondie
+ 38: ( 33) - Robyn Hitchcock
+ 39: ( 33) - The Redlands Palomino Company
+ 40: ( 32) - New Order
 
- 55: ( 16) - Altered Images
- 56: ( 15) - Angie Palmer
- 57: ( 15) - Lloyd Cole and the Commotions
+ 41: ( 30) - Leonard Cohen
+ 42: ( 29) - Suzanne Vega
 
- 58: ( 13) - Emmylou Harris
- 59: ( 13) - The Cure
- 60: ( 12) - Elvis Costello & the Attractions
- 61: ( 12) - Jimi Hendrix
- 62: ( 11) - Brigitte Calls Me Baby
- 63: ( 11) - Hayes Carll
- 64: ( 11) - Lloyd Cole
- 65: ( 10) - Heaven 17
- 66: ( 10) - It'S Immaterial
- 67: ( 10) - John Cooper Clarke
- 68: ( 10) - Mercy Girl
- 69: ( 10) - The Sundays
- 70: (  9) - Eliza Gilkyson
- 71: (  9) - Laura Marling
- 72: (  8) - Scritti Politti
+ 43: ( 27) - Roxy Music
+ 44: ( 27) - The Rolling Stones
+ 45: ( 27) - Tift Merritt
+ 46: ( 26) - Devine & Statton
+ 47: ( 26) - T. Rex
 
- 73: (  6) - Aztec Camera
- 74: (  6) - Cowboy Junkies
- 75: (  5) - Chanel Beads
- 76: (  5) - It’S Immaterial
- 77: (  5) - The Zombies
- 78: (  4) - B.E.F.
- 79: (  4) - Nick Heyward
- 80: (  4) - Rod Stewart
- 81: (  4) - The Weather Station
- 82: (  3) - Florence + the Machine
- 83: (  3) - Patti Smith
- 84: (  3) - Searows
- 85: (  3) - The Mavericks
- 86: (  3) - The Velvet Underground
- 87: (  3) - Tift Merritt, Sam Beam
- 88: (  2) - Patty Griffin
- 89: (  2) - The Carpenters
- 90: (  2) - Weekend
- 91: (  1) - Ac Acoustics
- 92: (  1) - Blondie
- 93: (  1) - Brian Eno & David Byrne
- 94: (  1) - Bruce Springsteen
- 95: (  1) - Dr Feelgood
- 96: (  1) - Marc Bolan & T. Rex
- 97: (  1) - Sylvan Esso, Collections of Colonies of Bees
- 98: (  1) - The Assembly
- 99: (  1) - The Massed Carnaby Street John Cooper Clarkes
-100: (  1) - The Schwa
-101: (  1) - Xtc
+ 48: ( 24) - Paul Weller
+ 49: ( 24) - Po' Girl
+ 50: ( 24) - Wet Leg
+ 51: ( 23) - Everything But the Girl
+
+
+ 52: ( 20) - Elvis Costello
+ 53: ( 19) - The Burning Hell
+ 54: ( 18) - Champion Trees
+ 55: ( 18) - Prefab Sprout
+
+ 56: ( 16) - Altered Images
+ 57: ( 15) - Angie Palmer
+ 58: ( 15) - Lloyd Cole and the Commotions
+
+ 59: ( 13) - Emmylou Harris
+ 60: ( 13) - The Cure
+ 61: ( 12) - Elvis Costello & the Attractions
+ 62: ( 12) - Jimi Hendrix
+ 63: ( 11) - Bob Marley & the Wailers
+ 64: ( 11) - Brigitte Calls Me Baby
+ 65: ( 11) - Hayes Carll
+ 66: ( 11) - Lloyd Cole
+ 67: ( 10) - Heaven 17
+ 68: ( 10) - It'S Immaterial
+ 69: ( 10) - John Cooper Clarke
+ 70: ( 10) - Mercy Girl
+ 71: ( 10) - The Sundays
+ 72: (  9) - Eliza Gilkyson
+ 73: (  9) - Laura Marling
+ 74: (  8) - Scritti Politti
+
+ 75: (  6) - Aztec Camera
+ 76: (  6) - Cowboy Junkies
+ 77: (  5) - Chanel Beads
+ 78: (  5) - It’S Immaterial
+ 79: (  5) - The Zombies
+ 80: (  4) - B.E.F.
+ 81: (  4) - Nick Heyward
+ 82: (  4) - Rod Stewart
+ 83: (  4) - The Weather Station
+ 84: (  3) - Florence + the Machine
+ 85: (  3) - Patti Smith
+ 86: (  3) - Searows
+ 87: (  3) - The Mavericks
+ 88: (  3) - The Velvet Underground
+ 89: (  3) - Tift Merritt, Sam Beam
+ 90: (  2) - Patty Griffin
+ 91: (  2) - The Carpenters
+ 92: (  2) - Weekend
+ 93: (  1) - Ac Acoustics
+ 94: (  1) - Brian Eno & David Byrne
+ 95: (  1) - Bruce Springsteen
+ 96: (  1) - Dr Feelgood
+ 97: (  1) - Marc Bolan & T. Rex
+ 98: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 99: (  1) - The Assembly
+100: (  1) - The Massed Carnaby Street John Cooper Clarkes
+101: (  1) - The Schwa
+102: (  1) - Xtc
