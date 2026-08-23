@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2449            83           130          1090
+    2474            83           131          1115
   1: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
 
   2: (81) - The Clearing - Wolf Alice
@@ -89,85 +89,86 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: (16) - Western Pleasure - Chaparelle
  48: (15) - Drumming the Beating Heart - Eyeless in Gaza
  49: (15) - Easter Lily Ep - U2
- 50: (15) * Tales Of Light And Darkness - Angie Palmer
- 51: (15) - The Freewheelin' Bob Dylan - Bob Dylan
- 52: (14) - Foreign Tongues - The Rolling Stones
- 53: (14) - Hex Enduction Hour - The Fall
- 54: (14) - Live In Dublin - Leonard Cohen
- 55: (13) * Broken Carelessly - The Redlands Palomino Company
- 56: (13) - Green River - Creedence Clearwater Revival
- 57: (13) - Let It Bleed - The Rolling Stones
- 58: (13) - Live - In The City Of Light - Simple Minds
- 59: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
- 60: (13) * Rattlesnakes - Lloyd Cole and the Commotions
- 61: (13) * Seventeen Seconds - The Cure
- 62: (13) - Tambourine - Tift Merritt
- 63: (13) - The Prince Of Wales - Devine & Statton
- 64: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
- 65: (12) - Once Upon A Time - Simple Minds
- 66: (12) - Punch The Clock - Elvis Costello & the Attractions
- 67: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
- 68: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
- 69: (11) - Eden - Everything But the Girl
- 70: (11) - Ghost Palace - The Burning Hell
- 71: (11) - Legend - Bob Marley & the Wailers
- 72: (11) * Little Rock - Hayes Carll
- 73: (11) * The Negatives - Lloyd Cole
- 74: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 75: (10) - 66 - Paul Weller
- 76: (10) - Blue Weekend - Wolf Alice
- 77: (10) - Flying With Angels - Suzanne Vega
- 78: (10) - Life's Hard And Then You Die - It'S Immaterial
- 79: (10) - Lodger (2017 Remaster) - David Bowie
- 80: (10) - One More Thing - Lime Garden
- 81: (10) - Snap, Crackle & Bop - John Cooper Clarke
- 82: (10) - Suzanne Vega - Suzanne Vega
- 83: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 84: ( 9) * I Speak Because I Can - Laura Marling
- 85: ( 9) - Saturns Pattern - Paul Weller
- 86: ( 9) - The Candle And The Flame - Robert Forster
- 87: ( 9) * Various Positions - Leonard Cohen
- 88: ( 8) - Flesh And Blood - Roxy Music
- 89: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
- 90: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
- 91: ( 7) - Home Recordings - Emma Swift
- 92: ( 7) - Room To Live - The Fall
- 93: ( 7) - Stitch Of The World - Tift Merritt
- 94: ( 7) - Time And Patience - Tift Merritt
- 95: ( 6) - Grotesque (After The Gramme) - The Fall
- 96: ( 6) - Low - David Bowie
- 97: ( 6) - Red Rust September - Eyeless in Gaza
- 98: ( 6) * The Trinity Session - Cowboy Junkies
- 99: ( 6) - Waves - Newdad
-100: ( 5) - Ghost - Mercy Girl
-101: ( 5) - House For Sale - It’S Immaterial
-102: ( 5) - Mercy Girl Singles - Mercy Girl
-103: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-104: ( 5) * Songs To Remember - Scritti Politti
-105: ( 5) - Your Day Will Come - Chanel Beads
-106: ( 4) * Electric Warrior - T. Rex
-107: ( 4) * Happy Birthday - Altered Images
-108: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-109: ( 4) - Woodland Echoes - Nick Heyward
-110: ( 3) - Country Life - Roxy Music
-111: ( 3) - Death In The Business Of Whaling - Searows
-112: ( 3) - Horses - Patti Smith
-113: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-114: ( 3) - Songs To Remember (Remaster) - Scritti Politti
-115: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-116: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
-117: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-118: ( 2) - Dragnet - The Fall
-119: ( 2) - Gold - Greatest Hits - The Carpenters
-120: ( 2) - Substance 1987 - New Order
-121: ( 1) - Bowie At The Beeb - David Bowie
-122: ( 1) - Golden Age - Heaven 17
-123: ( 1) - Gotta Get Away - The Schwa
-124: ( 1) - Never Never - The Assembly
-125: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-126: ( 1) - Private Practice - Dr Feelgood
-127: ( 1) - Slumber Party - Brigitte Calls Me Baby
-128: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-129: ( 1) - Take Me Home - The Redlands Palomino Company
-130: ( 1) * Tallulah - The Go-Betweens
-131: ( 1) - The Collection - Marc Bolan & T. Rex
+ 50: (15) * Electric Warrior - T. Rex
+ 51: (15) * Tales Of Light And Darkness - Angie Palmer
+ 52: (15) - The Freewheelin' Bob Dylan - Bob Dylan
+ 53: (14) - Foreign Tongues - The Rolling Stones
+ 54: (14) - Hex Enduction Hour - The Fall
+ 55: (14) - Live In Dublin - Leonard Cohen
+ 56: (14) - Pelican West Plus - Haircut 100
+ 57: (13) * Broken Carelessly - The Redlands Palomino Company
+ 58: (13) - Green River - Creedence Clearwater Revival
+ 59: (13) - Let It Bleed - The Rolling Stones
+ 60: (13) - Live - In The City Of Light - Simple Minds
+ 61: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
+ 62: (13) * Rattlesnakes - Lloyd Cole and the Commotions
+ 63: (13) * Seventeen Seconds - The Cure
+ 64: (13) - Tambourine - Tift Merritt
+ 65: (13) - The Prince Of Wales - Devine & Statton
+ 66: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+ 67: (12) - Once Upon A Time - Simple Minds
+ 68: (12) - Punch The Clock - Elvis Costello & the Attractions
+ 69: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+ 70: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 71: (11) - Eden - Everything But the Girl
+ 72: (11) - Ghost Palace - The Burning Hell
+ 73: (11) - Legend - Bob Marley & the Wailers
+ 74: (11) * Little Rock - Hayes Carll
+ 75: (11) * The Negatives - Lloyd Cole
+ 76: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 77: (10) - 66 - Paul Weller
+ 78: (10) - Blue Weekend - Wolf Alice
+ 79: (10) - Flying With Angels - Suzanne Vega
+ 80: (10) - Life's Hard And Then You Die - It'S Immaterial
+ 81: (10) - Lodger (2017 Remaster) - David Bowie
+ 82: (10) - One More Thing - Lime Garden
+ 83: (10) - Snap, Crackle & Bop - John Cooper Clarke
+ 84: (10) - Suzanne Vega - Suzanne Vega
+ 85: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 86: ( 9) * I Speak Because I Can - Laura Marling
+ 87: ( 9) - Saturns Pattern - Paul Weller
+ 88: ( 9) - The Candle And The Flame - Robert Forster
+ 89: ( 9) * Various Positions - Leonard Cohen
+ 90: ( 8) - Flesh And Blood - Roxy Music
+ 91: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
+ 92: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
+ 93: ( 7) - Home Recordings - Emma Swift
+ 94: ( 7) - Room To Live - The Fall
+ 95: ( 7) - Stitch Of The World - Tift Merritt
+ 96: ( 7) - Time And Patience - Tift Merritt
+ 97: ( 6) - Grotesque (After The Gramme) - The Fall
+ 98: ( 6) - Low - David Bowie
+ 99: ( 6) - Red Rust September - Eyeless in Gaza
+100: ( 6) * The Trinity Session - Cowboy Junkies
+101: ( 6) - Waves - Newdad
+102: ( 5) - Ghost - Mercy Girl
+103: ( 5) - House For Sale - It’S Immaterial
+104: ( 5) - Mercy Girl Singles - Mercy Girl
+105: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+106: ( 5) * Songs To Remember - Scritti Politti
+107: ( 5) - Your Day Will Come - Chanel Beads
+108: ( 4) * Happy Birthday - Altered Images
+109: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+110: ( 4) - Woodland Echoes - Nick Heyward
+111: ( 3) - Country Life - Roxy Music
+112: ( 3) - Death In The Business Of Whaling - Searows
+113: ( 3) - Horses - Patti Smith
+114: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+115: ( 3) - Songs To Remember (Remaster) - Scritti Politti
+116: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+117: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
+118: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+119: ( 2) - Dragnet - The Fall
+120: ( 2) - Gold - Greatest Hits - The Carpenters
+121: ( 2) - Substance 1987 - New Order
+122: ( 1) - Bowie At The Beeb - David Bowie
+123: ( 1) - Golden Age - Heaven 17
+124: ( 1) - Gotta Get Away - The Schwa
+125: ( 1) - Never Never - The Assembly
+126: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+127: ( 1) - Private Practice - Dr Feelgood
+128: ( 1) - Slumber Party - Brigitte Calls Me Baby
+129: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+130: ( 1) - Take Me Home - The Redlands Palomino Company
+131: ( 1) * Tallulah - The Go-Betweens
+132: ( 1) - The Collection - Marc Bolan & T. Rex
