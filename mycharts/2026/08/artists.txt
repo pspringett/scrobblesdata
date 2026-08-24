@@ -1,6 +1,6 @@
 Specified year (2026), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     224            19            22           200
+     256            20            23           232
  1: (33) - Blondie
 
 
@@ -21,20 +21,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: (15) - Robyn Hitchcock
  7: (15) - T. Rex
+ 8: (14) - The Bluebells
+ 9: (13) - English Teacher
 
+10: (11) - Bob Marley & the Wailers
+11: (11) - Hayes Carll
+12: (10) - The Rolling Stones
 
+13: ( 8) - Ride
+14: ( 8) - Scritti Politti
+15: ( 7) - Lime Garden
+16: ( 6) - Chaparelle
+17: ( 6) - Eyeless in Gaza
+18: ( 5) - Chanel Beads
+19: ( 4) - The Go-Betweens
 
- 8: (11) - Bob Marley & the Wailers
- 9: (11) - Hayes Carll
-10: (10) - The Rolling Stones
-
-11: ( 8) - Scritti Politti
-12: ( 7) - Lime Garden
-13: ( 6) - Chaparelle
-14: ( 6) - Eyeless in Gaza
-15: ( 5) - Chanel Beads
-16: ( 4) - The Go-Betweens
-
-17: ( 2) - English Teacher
-18: ( 2) - Orchestral Manoeuvres in the Dark
-19: ( 1) - The Bluebells
+20: ( 2) - Orchestral Manoeuvres in the Dark
