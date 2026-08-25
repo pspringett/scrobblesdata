@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2525            86           133          1144
+    2533            87           134          1152
   1: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
 
   2: (81) - The Clearing - Wolf Alice
@@ -113,34 +113,34 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  71: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
  72: (11) - Eden - Everything But the Girl
  73: (11) - Ghost Palace - The Burning Hell
- 74: (11) - Legend - Bob Marley & the Wailers
- 75: (11) * Little Rock - Hayes Carll
- 76: (11) * The Negatives - Lloyd Cole
- 77: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 78: (10) - 66 - Paul Weller
- 79: (10) - Blue Weekend - Wolf Alice
- 80: (10) - Flying With Angels - Suzanne Vega
- 81: (10) - Life's Hard And Then You Die - It'S Immaterial
- 82: (10) - Lodger (2017 Remaster) - David Bowie
- 83: (10) - One More Thing - Lime Garden
- 84: (10) - Snap, Crackle & Bop - John Cooper Clarke
- 85: (10) - Suzanne Vega - Suzanne Vega
- 86: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 87: ( 9) * I Speak Because I Can - Laura Marling
- 88: ( 9) - Saturns Pattern - Paul Weller
- 89: ( 9) - The Candle And The Flame - Robert Forster
- 90: ( 9) * Various Positions - Leonard Cohen
- 91: ( 8) - Flesh And Blood - Roxy Music
- 92: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
- 93: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
- 94: ( 8) - Nowhere - Ride
- 95: ( 8) * Songs To Remember - Scritti Politti
- 96: ( 7) - Home Recordings - Emma Swift
- 97: ( 7) - Room To Live - The Fall
- 98: ( 7) - Stitch Of The World - Tift Merritt
- 99: ( 7) - Time And Patience - Tift Merritt
-100: ( 6) - Grotesque (After The Gramme) - The Fall
-101: ( 6) - It Goes On - Westside Cowboy
+ 74: (11) - It Goes On - Westside Cowboy
+ 75: (11) - Legend - Bob Marley & the Wailers
+ 76: (11) * Little Rock - Hayes Carll
+ 77: (11) * The Negatives - Lloyd Cole
+ 78: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 79: (10) - 66 - Paul Weller
+ 80: (10) - Blue Weekend - Wolf Alice
+ 81: (10) - Flying With Angels - Suzanne Vega
+ 82: (10) - Life's Hard And Then You Die - It'S Immaterial
+ 83: (10) - Lodger (2017 Remaster) - David Bowie
+ 84: (10) - One More Thing - Lime Garden
+ 85: (10) - Snap, Crackle & Bop - John Cooper Clarke
+ 86: (10) - Suzanne Vega - Suzanne Vega
+ 87: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 88: ( 9) * I Speak Because I Can - Laura Marling
+ 89: ( 9) - Saturns Pattern - Paul Weller
+ 90: ( 9) - The Candle And The Flame - Robert Forster
+ 91: ( 9) * Various Positions - Leonard Cohen
+ 92: ( 8) - Flesh And Blood - Roxy Music
+ 93: ( 8) - Heaven, Or Someplace As Nice - Josh Ritter
+ 94: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
+ 95: ( 8) - Nowhere - Ride
+ 96: ( 8) * Songs To Remember - Scritti Politti
+ 97: ( 7) - Home Recordings - Emma Swift
+ 98: ( 7) - Room To Live - The Fall
+ 99: ( 7) - Stitch Of The World - Tift Merritt
+100: ( 7) - Time And Patience - Tift Merritt
+101: ( 6) - Grotesque (After The Gramme) - The Fall
 102: ( 6) - Low - David Bowie
 103: ( 6) - Red Rust September - Eyeless in Gaza
 104: ( 6) * The Trinity Session - Cowboy Junkies
@@ -153,24 +153,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 111: ( 4) * Happy Birthday - Altered Images
 112: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
 113: ( 4) - Woodland Echoes - Nick Heyward
-114: ( 3) - Country Life - Roxy Music
-115: ( 3) - Death In The Business Of Whaling - Searows
-116: ( 3) - Horses - Patti Smith
-117: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-118: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-119: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
-120: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-121: ( 2) - Dragnet - The Fall
-122: ( 2) - Gold - Greatest Hits - The Carpenters
-123: ( 2) - Substance 1987 - New Order
-124: ( 1) - Bowie At The Beeb - David Bowie
-125: ( 1) - Golden Age - Heaven 17
-126: ( 1) - Gotta Get Away - The Schwa
-127: ( 1) - Never Never - The Assembly
-128: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-129: ( 1) - Private Practice - Dr Feelgood
-130: ( 1) - Slumber Party - Brigitte Calls Me Baby
-131: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-132: ( 1) - Take Me Home - The Redlands Palomino Company
-133: ( 1) * Tallulah - The Go-Betweens
-134: ( 1) - The Collection - Marc Bolan & T. Rex
+114: ( 3) - Brennan Wedl - Brennan Wedl
+115: ( 3) - Country Life - Roxy Music
+116: ( 3) - Death In The Business Of Whaling - Searows
+117: ( 3) - Horses - Patti Smith
+118: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+119: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+120: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
+121: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+122: ( 2) - Dragnet - The Fall
+123: ( 2) - Gold - Greatest Hits - The Carpenters
+124: ( 2) - Substance 1987 - New Order
+125: ( 1) - Bowie At The Beeb - David Bowie
+126: ( 1) - Golden Age - Heaven 17
+127: ( 1) - Gotta Get Away - The Schwa
+128: ( 1) - Never Never - The Assembly
+129: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+130: ( 1) - Private Practice - Dr Feelgood
+131: ( 1) - Slumber Party - Brigitte Calls Me Baby
+132: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+133: ( 1) - Take Me Home - The Redlands Palomino Company
+134: ( 1) * Tallulah - The Go-Betweens
+135: ( 1) - The Collection - Marc Bolan & T. Rex

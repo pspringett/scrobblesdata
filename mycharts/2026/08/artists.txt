@@ -1,6 +1,6 @@
 Specified year (2026), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     262            21            24           238
+     270            22            25           246
  1: (33) - Blondie
 
 
@@ -26,15 +26,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 10: (11) - Bob Marley & the Wailers
 11: (11) - Hayes Carll
-12: (10) - The Rolling Stones
+12: (11) - Westside Cowboy
+13: (10) - The Rolling Stones
 
-13: ( 8) - Ride
-14: ( 8) - Scritti Politti
-15: ( 7) - Lime Garden
-16: ( 6) - Chaparelle
-17: ( 6) - Eyeless in Gaza
-18: ( 6) - Westside Cowboy
+14: ( 8) - Ride
+15: ( 8) - Scritti Politti
+16: ( 7) - Lime Garden
+17: ( 6) - Chaparelle
+18: ( 6) - Eyeless in Gaza
 19: ( 5) - Chanel Beads
 20: ( 4) - The Go-Betweens
-
-21: ( 2) - Orchestral Manoeuvres in the Dark
+21: ( 3) - Brennan Wedl
+22: ( 2) - Orchestral Manoeuvres in the Dark
