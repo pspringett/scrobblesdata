@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2559            87           137          1166
+    2602            87           137          1200
  1: (138) - Creedence Clearwater Revival
 
 
@@ -48,16 +48,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: ( 91) - Wolf Alice
+ 3: ( 91) - Lime Garden
+ 4: ( 91) - Wolf Alice
 
 
- 4: ( 88) - Simple Minds
+ 5: ( 88) - Simple Minds
 
 
- 5: ( 85) - Haircut 100
- 6: ( 84) - David Bowie
- 7: ( 83) - Vegas Water Taxi
- 8: ( 82) - Lime Garden
+ 6: ( 85) - Haircut 100
+ 7: ( 84) - David Bowie
+ 8: ( 83) - Vegas Water Taxi
+
 
 
 
@@ -90,43 +91,44 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 17: ( 53) - The Fall
 
 
-18: ( 50) - JT Nero
-19: ( 49) - U2
-20: ( 48) - Glyders
+18: ( 50) - Echo & the Bunnymen
+19: ( 50) - JT Nero
+20: ( 49) - U2
+21: ( 48) - Glyders
+
+22: ( 46) - Orchestral Manoeuvres in the Dark
 
 
 
 
+23: ( 41) - Bob Dylan
+24: ( 40) - Josh Ritter
 
-
-21: ( 41) - Bob Dylan
-22: ( 41) - Echo & the Bunnymen
-23: ( 40) - Josh Ritter
-
-24: ( 38) - Anne McCue
-25: ( 38) - Orchestral Manoeuvres in the Dark
+25: ( 38) - Anne McCue
 26: ( 37) - T. Rex
 27: ( 36) - Martin Stephenson
 
 28: ( 34) - Eyeless in Gaza
 29: ( 34) - Melody'S Echo Chamber
 30: ( 33) - Blondie
-31: ( 33) - Robyn Hitchcock
-32: ( 33) - The Redlands Palomino Company
+31: ( 33) - Leonard Cohen
+32: ( 33) - Robyn Hitchcock
+33: ( 33) - The Redlands Palomino Company
 
 
-33: ( 30) - Sharon Van Etten
+34: ( 30) - Sharon Van Etten
+35: ( 30) - The Go-Betweens
 
-34: ( 28) - Robert Forster
-35: ( 27) - Roxy Music
-36: ( 27) - The Rolling Stones
-37: ( 27) - Tift Merritt
+36: ( 28) - Robert Forster
+37: ( 27) - Roxy Music
+38: ( 27) - The Rolling Stones
+39: ( 27) - Tift Merritt
 
-38: ( 25) - Leonard Cohen
-39: ( 24) - Po' Girl
 
-40: ( 22) - Westside Cowboy
-41: ( 21) - The Go-Betweens
+40: ( 24) - Po' Girl
+
+41: ( 22) - Westside Cowboy
+
 42: ( 20) - Elvis Costello
 43: ( 20) - Suzanne Vega
 44: ( 19) - Paul Weller

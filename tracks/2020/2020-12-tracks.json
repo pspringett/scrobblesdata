@@ -45,7 +45,7 @@
         "2020-12-06 10:41:52",
         "Elvis Costello",
         "Hey Clockface",
-        "They're Not Laughing at Me Now"
+        "They\u2019re Not Laughing at Me Now"
     ],
     [
         "2020-12-06 10:46:19",
@@ -777,7 +777,7 @@
         "2020-12-11 23:39:52",
         "Paul McCartney",
         "Mccartney",
-        "Maybe I'm Amazed"
+        "Maybe I\u2019m Amazed"
     ],
     [
         "2020-12-11 23:43:43",
@@ -813,7 +813,7 @@
         "2020-12-12 22:49:49",
         "Elvis Costello",
         "Hey Clockface",
-        "What Is It That I Need That I Don't Already Have?"
+        "What Is It That I Need That I Don\u2019t Already Have?"
     ],
     [
         "2020-12-12 22:53:38",
@@ -825,7 +825,7 @@
         "2020-12-12 22:58:04",
         "Elvis Costello",
         "Hey Clockface",
-        "I Can't Say Her Name"
+        "I Can\u2019t Say Her Name"
     ],
     [
         "2020-12-12 23:01:03",
@@ -873,7 +873,7 @@
         "2020-12-13 16:25:01",
         "Elvis Costello & the Attractions",
         "Armed Forces",
-        "(What's So Funny 'Bout) Peace, Love & Understanding? (Live At The Dominion Theatre, 1978)"
+        "(What\u2019s So Funny 'Bout) Peace, Love & Understanding? (Live At The Dominion Theatre, 1978)"
     ],
     [
         "2020-12-14 22:55:33",
@@ -1479,7 +1479,7 @@
         "2020-12-18 23:16:42",
         "Paul McCartney",
         "Mccartney",
-        "Maybe I'm Amazed"
+        "Maybe I\u2019m Amazed"
     ],
     [
         "2020-12-18 23:20:33",
@@ -2091,7 +2091,7 @@
         "2020-12-30 10:55:00",
         "Paul McCartney",
         "Mccartney",
-        "Maybe I'm Amazed"
+        "Maybe I\u2019m Amazed"
     ],
     [
         "2020-12-30 10:58:50",
