@@ -1,13 +1,13 @@
 Specified year (2026), specified month (8)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     288            22            25           253
+     296            23            29           261
  1: (33) - Blondie
 
 
+ 2: (30) - Echo & the Bunnymen
 
 
 
- 2: (27) - Echo & the Bunnymen
 
 
 
@@ -29,12 +29,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: (10) - Brennan Wedl
 14: (10) - The Rolling Stones
 
-15: ( 8) - Ride
-16: ( 8) - Scritti Politti
-17: ( 7) - Lime Garden
+15: ( 8) - Lime Garden
+16: ( 8) - Ride
+17: ( 8) - Scritti Politti
+
 18: ( 6) - Chaparelle
 19: ( 6) - Eyeless in Gaza
 20: ( 5) - Chanel Beads
-21: ( 4) - The Go-Betweens
+21: ( 5) - The Go-Betweens
 
-22: ( 2) - Orchestral Manoeuvres in the Dark
+22: ( 3) - Orchestral Manoeuvres in the Dark
+23: ( 2) - Leonard Cohen
