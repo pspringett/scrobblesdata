@@ -1,7 +1,7 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     109             9             9            87
-1: (30) - It Goes On - Westside Cowboy
+     122            11            11            99
+ 1: (30) - It Goes On - Westside Cowboy
 
 
 
@@ -16,18 +16,20 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-2: (15) * Electric Warrior - T. Rex
-3: (15) * Organisation - Orchestral Manoeuvres in the Dark
+ 2: (15) * Electric Warrior - T. Rex
+ 3: (15) * Organisation - Orchestral Manoeuvres in the Dark
 
-4: (13) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
+ 4: (13) - By The Time You Hear This... We'll Be Gone - The Redlands Palomino Company
 
-5: (11) - Pelican West Plus - Haircut 100
-
-6: ( 9) - Brennan Wedl - Brennan Wedl
-7: ( 9) - Heaven, Or Someplace As Nice - Josh Ritter
-
-
+ 5: (11) - Pelican West Plus - Haircut 100
+ 6: (10) - A Duck's Water Off My Back - Champion Trees
+ 7: ( 9) - Brennan Wedl - Brennan Wedl
+ 8: ( 9) - Heaven, Or Someplace As Nice - Josh Ritter
 
 
-8: ( 4) - Maybe Not Tonight - Lime Garden
-9: ( 3) - A Duck's Water Off My Back - Champion Trees
+
+ 9: ( 5) - Strawberries - Robert Forster
+10: ( 4) - Maybe Not Tonight - Lime Garden
+
+
+11: ( 1) - Altar - Newdad
