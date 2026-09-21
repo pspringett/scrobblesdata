@@ -1,14 +1,14 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     199            14            14           114
+     199            13            13           113
  1: (41) - Westside Cowboy
 
 
 
 
  2: (36) - Champion Trees
+ 3: (35) - Creedence Clearwater Revival
 
- 3: (34) - Creedence Clearwater Revival
 
 
 
@@ -44,5 +44,4 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 12: ( 4) - Lime Garden
 
 
-13: ( 1) - Dbproductreviews
-14: ( 1) - Newdad
+13: ( 1) - Newdad
