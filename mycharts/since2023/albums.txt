@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   13248           292           510          3978
+   13258           292           510          3979
   1: (155) - This Could Be Texas - English Teacher
   2: (155) - Western Pleasure - Chaparelle
 
@@ -125,12 +125,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  73: ( 60) - Home Again - Edwyn Collins
  74: ( 59) - Never Wrestle With A Pig - Nell Davies
 
+ 75: ( 57) - A Duck's Water Off My Back - Champion Trees
 
+ 76: ( 55) - Aswad - Aswad
+ 77: ( 55) - Never A Dull Moment - Rod Stewart
+ 78: ( 55) - The Prince Of Wales - Devine & Statton
 
- 75: ( 55) - Aswad - Aswad
- 76: ( 55) - Never A Dull Moment - Rod Stewart
- 77: ( 55) - The Prince Of Wales - Devine & Statton
- 78: ( 54) - A Duck's Water Off My Back - Champion Trees
  79: ( 53) - Fables Of The Reconstruction - R.E.M.
  80: ( 52) * Eveningland - Hem
  81: ( 51) - In Search Of Mr Rykyn - British Birds
@@ -211,49 +211,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 155: ( 28) - Victorialand - Cocteau Twins
 156: ( 27) - You And Me Both - Yazoo
 157: ( 26) - Bob Dylan - Bob Dylan
-158: ( 26) - Humanhood - The Weather Station
-159: ( 26) * Texas Fever - Orange Juice
-160: ( 25) - Evermore - Taylor Swift
-161: ( 24) - Ambertron - Mint Mile
-162: ( 24) - B-52's - The B-52's
-163: ( 24) - For Your Pleasure - Roxy Music
-164: ( 24) * Gorgeous George - Edwyn Collins
-165: ( 24) - High Bells Ring Thin - Martin Stephenson
-166: ( 24) * Organisation - Orchestral Manoeuvres in the Dark
-167: ( 24) - Pet Sounds - The Beach Boys
-168: ( 24) - Po' Girl - Po' Girl
-169: ( 24) * There Comes A Time - Martin Stephenson and the Daintees
-170: ( 24) - Wet Leg - Wet Leg
-171: ( 24) * Wrecking Ball - Emmylou Harris
-172: ( 23) * Blonde On Blonde - Bob Dylan
-173: ( 23) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
-174: ( 23) - My Anti-Aircraft Friend - Julie
-175: ( 23) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-176: ( 23) - Shadow Kingdom - Bob Dylan
-177: ( 23) - The Lexicon Of Love - ABC
-178: ( 23) * The Orange Juice - Orange Juice
-179: ( 23) - Up All Night - Simple Minds
-180: ( 22) - A Beard Of Stars - T. Rex
-181: ( 22) - Brothers & Sisters - Steve Mason
-182: ( 22) - Cuts & Bruises - Inhaler
-183: ( 22) - Frog In Boiling Water - Diiv
-184: ( 22) * Hellbent On Compromise - Edwyn Collins
-185: ( 22) * Little Rock - Hayes Carll
-186: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
-187: ( 22) - The Window Is The Dream - Jana Horn
-188: ( 21) - Cut Worms - Cut Worms
-189: ( 21) - Hard Light - Drop Nineteens
-190: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
-191: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
-192: ( 21) * Ocean Rain - Echo & the Bunnymen
-193: ( 20) - First Two Pages Of Frankenstein - The National
-194: ( 20) - Hex Enduction Hour - The Fall
-195: ( 20) - Lodger - David Bowie
-196: ( 20) - Nashville Skyline - Bob Dylan
-197: ( 20) - On Sunset (Deluxe) - Paul Weller
-198: ( 20) * Tallulah - The Go-Betweens
-199: ( 20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
-200: ( 19) - Brennan Wedl - Brennan Wedl
+158: ( 26) - Brennan Wedl - Brennan Wedl
+159: ( 26) - Humanhood - The Weather Station
+160: ( 26) * Texas Fever - Orange Juice
+161: ( 25) - Evermore - Taylor Swift
+162: ( 24) - Ambertron - Mint Mile
+163: ( 24) - B-52's - The B-52's
+164: ( 24) - For Your Pleasure - Roxy Music
+165: ( 24) * Gorgeous George - Edwyn Collins
+166: ( 24) - High Bells Ring Thin - Martin Stephenson
+167: ( 24) * Organisation - Orchestral Manoeuvres in the Dark
+168: ( 24) - Pet Sounds - The Beach Boys
+169: ( 24) - Po' Girl - Po' Girl
+170: ( 24) * There Comes A Time - Martin Stephenson and the Daintees
+171: ( 24) - Wet Leg - Wet Leg
+172: ( 24) * Wrecking Ball - Emmylou Harris
+173: ( 23) * Blonde On Blonde - Bob Dylan
+174: ( 23) * Gladsome, Humour & Blue - Martin Stephenson and the Daintees
+175: ( 23) - My Anti-Aircraft Friend - Julie
+176: ( 23) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+177: ( 23) - Shadow Kingdom - Bob Dylan
+178: ( 23) - The Lexicon Of Love - ABC
+179: ( 23) * The Orange Juice - Orange Juice
+180: ( 23) - Up All Night - Simple Minds
+181: ( 22) - A Beard Of Stars - T. Rex
+182: ( 22) - Brothers & Sisters - Steve Mason
+183: ( 22) - Cuts & Bruises - Inhaler
+184: ( 22) - Frog In Boiling Water - Diiv
+185: ( 22) * Hellbent On Compromise - Edwyn Collins
+186: ( 22) * Little Rock - Hayes Carll
+187: ( 22) - The Very Best Of Curtis Mayfield - Curtis Mayfield
+188: ( 22) - The Window Is The Dream - Jana Horn
+189: ( 21) - Cut Worms - Cut Worms
+190: ( 21) - Hard Light - Drop Nineteens
+191: ( 21) - Miscellaneous Early - Martin Stephenson and the Daintees
+192: ( 21) - Not Dark Yet - Shelby Lynne, Allison Moorer
+193: ( 21) * Ocean Rain - Echo & the Bunnymen
+194: ( 20) - First Two Pages Of Frankenstein - The National
+195: ( 20) - Hex Enduction Hour - The Fall
+196: ( 20) - Lodger - David Bowie
+197: ( 20) - Nashville Skyline - Bob Dylan
+198: ( 20) - On Sunset (Deluxe) - Paul Weller
+199: ( 20) * Tallulah - The Go-Betweens
+200: ( 20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
 201: ( 19) * Broken Carelessly - The Redlands Palomino Company
 202: ( 19) - Da Capo - Love
 203: ( 19) * Heaven Up Here - Echo & the Bunnymen
