@@ -1,6 +1,6 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     223            14            14           122
+     229            14            15           128
  1: (52) - Westside Cowboy
 
 
@@ -46,12 +46,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: (11) - Haircut 100
 
  9: ( 9) - Josh Ritter
+10: ( 8) - New Order
 
 
+11: ( 5) - Robert Forster
+12: ( 5) - Robyn Hitchcock
+13: ( 4) - Lime Garden
 
-10: ( 5) - Robert Forster
-11: ( 5) - Robyn Hitchcock
-12: ( 4) - Lime Garden
 
-13: ( 2) - New Order
 14: ( 1) - Newdad
