@@ -1,6 +1,6 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     239            15            16           134
+     242            15            16           137
  1: (52) - It Goes On - Westside Cowboy
 
 
@@ -46,9 +46,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  8: (11) - Pelican West Plus - Haircut 100
 
  9: ( 9) - Heaven, Or Someplace As Nice - Josh Ritter
+10: ( 9) - The Resurrection Game - Emma Swift
 
 
-10: ( 6) - The Resurrection Game - Emma Swift
+
 11: ( 5) - Strawberries - Robert Forster
 12: ( 5) - Substance 1987 - New Order
 13: ( 5) - The Confuser - Robyn Hitchcock
