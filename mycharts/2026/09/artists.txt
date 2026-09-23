@@ -1,6 +1,6 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     246            16            17           141
+     250            16            17           144
  1: (52) - Westside Cowboy
 
 
@@ -50,10 +50,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 11: ( 8) - New Order
 
 
-12: ( 5) - Robert Forster
-13: ( 5) - Robyn Hitchcock
-14: ( 4) - Katherine Priddy
-15: ( 4) - Lime Garden
-
-
-16: ( 1) - Newdad
+12: ( 5) - Newdad
+13: ( 5) - Robert Forster
+14: ( 5) - Robyn Hitchcock
+15: ( 4) - Katherine Priddy
+16: ( 4) - Lime Garden
