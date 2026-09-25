@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    2852            87           138          1228
+    2904            87           140          1256
  1: (177) - Creedence Clearwater Revival
 
 
@@ -56,18 +56,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (122) - Emma Swift
 
 
 
 
-
-
-
-
-
-
-
- 2: (111) - Emma Swift
 
 
 
@@ -82,15 +75,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 3: ( 96) - Haircut 100
- 4: ( 95) - Lime Garden
+
+ 3: (102) - Wolf Alice
 
 
 
- 5: ( 91) - Wolf Alice
+ 4: ( 98) - Simple Minds
+
+ 5: ( 96) - Haircut 100
+ 6: ( 95) - Lime Garden
 
 
- 6: ( 88) - Simple Minds
+
+
+
+
+
 
 
 
@@ -129,20 +129,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 20: ( 53) - The Fall
-21: ( 52) - T. Rex
+21: ( 52) - Bob Dylan
+22: ( 52) - T. Rex
 
-22: ( 50) - Echo & the Bunnymen
-23: ( 50) - JT Nero
-24: ( 49) - Josh Ritter
-25: ( 49) - U2
-26: ( 48) - Glyders
+23: ( 50) - Echo & the Bunnymen
+24: ( 50) - JT Nero
+25: ( 49) - Josh Ritter
+26: ( 49) - U2
+27: ( 48) - Glyders
 
-27: ( 46) - The Redlands Palomino Company
-
-
+28: ( 46) - The Redlands Palomino Company
 
 
-28: ( 41) - Bob Dylan
+
+
+
 
 
 29: ( 38) - Anne McCue
@@ -174,29 +175,28 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 45: ( 20) - Suzanne Vega
 46: ( 19) - Paul Weller
 47: ( 18) - Prefab Sprout
+48: ( 17) - Scritti Politti
+49: ( 16) - Chaparelle
+50: ( 15) - Angie Palmer
 
-48: ( 16) - Chaparelle
-49: ( 15) - Angie Palmer
-
-50: ( 13) - Devine & Statton
-51: ( 13) - English Teacher
-52: ( 13) - Lloyd Cole and the Commotions
-53: ( 13) - The Cure
-54: ( 12) - Edwyn Collins
-55: ( 12) - Elvis Costello & the Attractions
-56: ( 11) - Bob Marley & the Wailers
-57: ( 11) - Brigitte Calls Me Baby
-58: ( 11) - Everything But the Girl
-59: ( 11) - Hayes Carll
-60: ( 11) - Lloyd Cole
-61: ( 11) - The Burning Hell
-62: ( 10) - It'S Immaterial
-63: ( 10) - John Cooper Clarke
-64: ( 10) - Mercy Girl
-65: ( 10) - New Order
-66: (  9) - Laura Marling
-67: (  8) - Ride
-68: (  8) - Scritti Politti
+51: ( 13) - Devine & Statton
+52: ( 13) - English Teacher
+53: ( 13) - Lloyd Cole and the Commotions
+54: ( 13) - The Cure
+55: ( 12) - Edwyn Collins
+56: ( 12) - Elvis Costello & the Attractions
+57: ( 11) - Bob Marley & the Wailers
+58: ( 11) - Brigitte Calls Me Baby
+59: ( 11) - Everything But the Girl
+60: ( 11) - Hayes Carll
+61: ( 11) - Lloyd Cole
+62: ( 11) - The Burning Hell
+63: ( 10) - It'S Immaterial
+64: ( 10) - John Cooper Clarke
+65: ( 10) - Mercy Girl
+66: ( 10) - New Order
+67: (  9) - Laura Marling
+68: (  8) - Ride
 
 69: (  6) - Cowboy Junkies
 70: (  5) - Chanel Beads

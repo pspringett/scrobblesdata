@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3759           106           190          1571
+    3811           106           192          1598
   1: (177) - Creedence Clearwater Revival
 
 
@@ -20,25 +20,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  2: (158) - Emma Swift
+
+
+
+
+  3: (153) - Wolf Alice
 
 
 
 
 
 
-
-
-
-
-
-  2: (147) - Emma Swift
-  3: (146) - Josh Ritter
-
-
-
-  4: (142) - Wolf Alice
-
-
+  4: (146) - Josh Ritter
 
 
 
@@ -68,11 +62,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  5: (116) - Simple Minds
 
-  5: (109) - Haircut 100
 
 
-  6: (106) - Simple Minds
+
+
+
+  6: (109) - Haircut 100
+
+
+
 
 
 
@@ -97,18 +97,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  12: ( 83) - Newdad
  13: ( 83) - Vegas Water Taxi
+ 14: ( 82) - Bob Dylan
 
 
 
 
 
+ 15: ( 76) - Whitelands
+ 16: ( 75) - Martin Stephenson
+ 17: ( 74) - Westside Cowboy
 
- 14: ( 76) - Whitelands
- 15: ( 75) - Martin Stephenson
- 16: ( 74) - Westside Cowboy
 
-
- 17: ( 71) - Bob Dylan
  18: ( 71) - Chaparelle
  19: ( 71) - Lucinda Williams
 
@@ -178,29 +177,28 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  55: ( 20) - Elvis Costello
  56: ( 19) - The Burning Hell
  57: ( 18) - Prefab Sprout
+ 58: ( 17) - Scritti Politti
+ 59: ( 16) - Altered Images
+ 60: ( 15) - Angie Palmer
+ 61: ( 15) - Lloyd Cole and the Commotions
 
- 58: ( 16) - Altered Images
- 59: ( 15) - Angie Palmer
- 60: ( 15) - Lloyd Cole and the Commotions
-
- 61: ( 13) - Emmylou Harris
- 62: ( 13) - English Teacher
- 63: ( 13) - The Cure
- 64: ( 12) - Elvis Costello & the Attractions
- 65: ( 12) - Jimi Hendrix
- 66: ( 11) - Bob Marley & the Wailers
- 67: ( 11) - Brigitte Calls Me Baby
- 68: ( 11) - Hayes Carll
- 69: ( 11) - Lloyd Cole
- 70: ( 10) - Heaven 17
- 71: ( 10) - It'S Immaterial
- 72: ( 10) - John Cooper Clarke
- 73: ( 10) - Mercy Girl
- 74: ( 10) - The Sundays
- 75: (  9) - Eliza Gilkyson
- 76: (  9) - Laura Marling
- 77: (  8) - Ride
- 78: (  8) - Scritti Politti
+ 62: ( 13) - Emmylou Harris
+ 63: ( 13) - English Teacher
+ 64: ( 13) - The Cure
+ 65: ( 12) - Elvis Costello & the Attractions
+ 66: ( 12) - Jimi Hendrix
+ 67: ( 11) - Bob Marley & the Wailers
+ 68: ( 11) - Brigitte Calls Me Baby
+ 69: ( 11) - Hayes Carll
+ 70: ( 11) - Lloyd Cole
+ 71: ( 10) - Heaven 17
+ 72: ( 10) - It'S Immaterial
+ 73: ( 10) - John Cooper Clarke
+ 74: ( 10) - Mercy Girl
+ 75: ( 10) - The Sundays
+ 76: (  9) - Eliza Gilkyson
+ 77: (  9) - Laura Marling
+ 78: (  8) - Ride
 
  79: (  6) - Aztec Camera
  80: (  6) - Cowboy Junkies

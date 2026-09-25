@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3117            97           166          1353
+    3169            97           168          1380
  1: (177) - Creedence Clearwater Revival
 
 
@@ -46,19 +46,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 2: (132) - Emma Swift
+ 3: (131) - Wolf Alice
 
-
-
-
-
-
-
-
-
-
-
- 2: (121) - Emma Swift
- 3: (120) - Wolf Alice
 
 
 
@@ -74,7 +64,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 4: (104) - Simple Minds
+ 4: (114) - Simple Minds
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -131,18 +131,19 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-23: ( 52) - T. Rex
+23: ( 52) - Bob Dylan
+24: ( 52) - T. Rex
 
-24: ( 50) - JT Nero
-25: ( 49) - U2
-26: ( 48) - Glyders
+25: ( 50) - JT Nero
+26: ( 49) - U2
+27: ( 48) - Glyders
 
-27: ( 46) - The Redlands Palomino Company
-
-
+28: ( 46) - The Redlands Palomino Company
 
 
-28: ( 41) - Bob Dylan
+
+
+
 
 
 29: ( 38) - Anne McCue
@@ -178,27 +179,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 51: ( 20) - Suzanne Vega
 52: ( 19) - Orange Juice
 53: ( 18) - Prefab Sprout
+54: ( 17) - Scritti Politti
+55: ( 16) - Altered Images
+56: ( 15) - Angie Palmer
+57: ( 15) - Lloyd Cole and the Commotions
 
-54: ( 16) - Altered Images
-55: ( 15) - Angie Palmer
-56: ( 15) - Lloyd Cole and the Commotions
-
-57: ( 13) - English Teacher
-58: ( 13) - The Cure
-59: ( 12) - Elvis Costello & the Attractions
-60: ( 12) - The Burning Hell
-61: ( 12) - Wet Leg
-62: ( 11) - Bob Marley & the Wailers
-63: ( 11) - Brigitte Calls Me Baby
-64: ( 11) - Hayes Carll
-65: ( 11) - Lloyd Cole
-66: ( 10) - Heaven 17
-67: ( 10) - It'S Immaterial
-68: ( 10) - John Cooper Clarke
-69: ( 10) - Mercy Girl
-70: (  9) - Laura Marling
-71: (  8) - Ride
-72: (  8) - Scritti Politti
+58: ( 13) - English Teacher
+59: ( 13) - The Cure
+60: ( 12) - Elvis Costello & the Attractions
+61: ( 12) - The Burning Hell
+62: ( 12) - Wet Leg
+63: ( 11) - Bob Marley & the Wailers
+64: ( 11) - Brigitte Calls Me Baby
+65: ( 11) - Hayes Carll
+66: ( 11) - Lloyd Cole
+67: ( 10) - Heaven 17
+68: ( 10) - It'S Immaterial
+69: ( 10) - John Cooper Clarke
+70: ( 10) - Mercy Girl
+71: (  9) - Laura Marling
+72: (  8) - Ride
 
 73: (  6) - Cowboy Junkies
 74: (  5) - Chanel Beads
