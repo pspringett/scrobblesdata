@@ -1,7 +1,7 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3169            97           168          1380
- 1: (177) - Creedence Clearwater Revival
+    3217           102           173          1428
+  1: (177) - Creedence Clearwater Revival
 
 
 
@@ -46,8 +46,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 2: (132) - Emma Swift
- 3: (131) - Wolf Alice
+  2: (132) - Emma Swift
+  3: (131) - Wolf Alice
 
 
 
@@ -64,7 +64,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 4: (114) - Simple Minds
+  4: (114) - Simple Minds
 
 
 
@@ -82,9 +82,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 5: ( 96) - David Bowie
- 6: ( 96) - Haircut 100
- 7: ( 95) - Lime Garden
+  5: ( 96) - David Bowie
+  6: ( 96) - Haircut 100
+  7: ( 95) - Lime Garden
 
 
 
@@ -96,49 +96,49 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 8: ( 83) - Newdad
- 9: ( 83) - Vegas Water Taxi
+  8: ( 83) - Newdad
+  9: ( 83) - Vegas Water Taxi
 
 
 
 
 
 
-10: ( 76) - Whitelands
+ 10: ( 76) - Whitelands
 
-11: ( 74) - Westside Cowboy
+ 11: ( 74) - Westside Cowboy
 
-12: ( 72) - Josh Ritter
-13: ( 71) - Lucinda Williams
-14: ( 71) - The Belair Lip Bombs
+ 12: ( 72) - Josh Ritter
+ 13: ( 71) - Lucinda Williams
+ 14: ( 71) - The Belair Lip Bombs
 
 
-15: ( 68) - Katherine Priddy
-16: ( 68) - The Bluebells
-17: ( 67) - Echo & the Bunnymen
+ 15: ( 68) - Katherine Priddy
+ 16: ( 68) - The Bluebells
+ 17: ( 67) - Echo & the Bunnymen
 
 
 
 
-18: ( 62) - Heavenly
-19: ( 61) - Orchestral Manoeuvres in the Dark
+ 18: ( 62) - Heavenly
+ 19: ( 61) - Orchestral Manoeuvres in the Dark
 
-20: ( 59) - Nell Davies
-21: ( 59) - The Fall
-22: ( 58) - Champion Trees
+ 20: ( 59) - Nell Davies
+ 21: ( 59) - The Fall
+ 22: ( 58) - Champion Trees
 
 
 
 
 
-23: ( 52) - Bob Dylan
-24: ( 52) - T. Rex
+ 23: ( 52) - Bob Dylan
+ 24: ( 52) - T. Rex
 
-25: ( 50) - JT Nero
-26: ( 49) - U2
-27: ( 48) - Glyders
+ 25: ( 50) - JT Nero
+ 26: ( 49) - U2
+ 27: ( 48) - Glyders
 
-28: ( 46) - The Redlands Palomino Company
+ 28: ( 46) - The Redlands Palomino Company
 
 
 
@@ -146,82 +146,85 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-29: ( 38) - Anne McCue
-30: ( 38) - Robyn Hitchcock
-31: ( 38) - Sharon Van Etten
+ 29: ( 38) - Anne McCue
+ 30: ( 38) - Robyn Hitchcock
+ 31: ( 38) - Sharon Van Etten
 
-32: ( 36) - Martin Stephenson
+ 32: ( 36) - Martin Stephenson
 
-33: ( 34) - Eyeless in Gaza
-34: ( 34) - Melody'S Echo Chamber
-35: ( 34) - Robert Forster
-36: ( 33) - Blondie
-37: ( 33) - Leonard Cohen
+ 33: ( 34) - Eyeless in Gaza
+ 34: ( 34) - Melody'S Echo Chamber
+ 35: ( 34) - Robert Forster
+ 36: ( 33) - Blondie
+ 37: ( 33) - Leonard Cohen
 
 
-38: ( 30) - The Go-Betweens
+ 38: ( 30) - The Go-Betweens
+ 39: ( 29) - The Rolling Stones
+ 40: ( 28) - Chaparelle
+ 41: ( 27) - New Order
+ 42: ( 27) - Roxy Music
+ 43: ( 27) - Tift Merritt
+ 44: ( 26) - Brennan Wedl
+ 45: ( 26) - Devine & Statton
 
-39: ( 28) - Chaparelle
-40: ( 27) - New Order
-41: ( 27) - Roxy Music
-42: ( 27) - The Rolling Stones
-43: ( 27) - Tift Merritt
-44: ( 26) - Brennan Wedl
-45: ( 26) - Devine & Statton
+ 46: ( 24) - Paul Weller
+ 47: ( 24) - Po' Girl
+ 48: ( 23) - Edwyn Collins
+ 49: ( 23) - Everything But the Girl
 
-46: ( 24) - Paul Weller
-47: ( 24) - Po' Girl
-48: ( 23) - Edwyn Collins
-49: ( 23) - Everything But the Girl
 
+ 50: ( 20) - Elvis Costello
+ 51: ( 20) - Suzanne Vega
+ 52: ( 19) - Orange Juice
+ 53: ( 18) - Prefab Sprout
+ 54: ( 17) - Scritti Politti
+ 55: ( 16) - Altered Images
+ 56: ( 15) - Angie Palmer
+ 57: ( 15) - Lloyd Cole and the Commotions
+ 58: ( 14) - The Beatles
+ 59: ( 13) - English Teacher
+ 60: ( 13) - Robert Plant
+ 61: ( 13) - The Cure
+ 62: ( 12) - Elvis Costello & the Attractions
+ 63: ( 12) - The Burning Hell
+ 64: ( 12) - Wet Leg
+ 65: ( 11) - Bob Marley & the Wailers
+ 66: ( 11) - Brigitte Calls Me Baby
+ 67: ( 11) - Hayes Carll
+ 68: ( 11) - Lloyd Cole
+ 69: ( 10) - Heaven 17
+ 70: ( 10) - It'S Immaterial
+ 71: ( 10) - John Cooper Clarke
+ 72: ( 10) - Mercy Girl
+ 73: ( 10) - Roddy Frame
+ 74: (  9) - Laura Marling
+ 75: (  8) - Ride
+ 76: (  8) - Tom Robinson Band
 
-50: ( 20) - Elvis Costello
-51: ( 20) - Suzanne Vega
-52: ( 19) - Orange Juice
-53: ( 18) - Prefab Sprout
-54: ( 17) - Scritti Politti
-55: ( 16) - Altered Images
-56: ( 15) - Angie Palmer
-57: ( 15) - Lloyd Cole and the Commotions
-
-58: ( 13) - English Teacher
-59: ( 13) - The Cure
-60: ( 12) - Elvis Costello & the Attractions
-61: ( 12) - The Burning Hell
-62: ( 12) - Wet Leg
-63: ( 11) - Bob Marley & the Wailers
-64: ( 11) - Brigitte Calls Me Baby
-65: ( 11) - Hayes Carll
-66: ( 11) - Lloyd Cole
-67: ( 10) - Heaven 17
-68: ( 10) - It'S Immaterial
-69: ( 10) - John Cooper Clarke
-70: ( 10) - Mercy Girl
-71: (  9) - Laura Marling
-72: (  8) - Ride
-
-73: (  6) - Cowboy Junkies
-74: (  5) - Chanel Beads
-75: (  5) - It’S Immaterial
-76: (  5) - The Zombies
-77: (  4) - B.E.F.
-78: (  4) - Nick Heyward
-79: (  4) - Rod Stewart
-80: (  4) - The Weather Station
-81: (  3) - Patti Smith
-82: (  3) - Searows
-83: (  3) - The Mavericks
-84: (  3) - The Velvet Underground
-85: (  3) - Tift Merritt, Sam Beam
-86: (  2) - The Carpenters
-87: (  2) - Weekend
-88: (  1) - Ac Acoustics
-89: (  1) - Brian Eno & David Byrne
-90: (  1) - Bruce Springsteen
-91: (  1) - Dr Feelgood
-92: (  1) - Marc Bolan & T. Rex
-93: (  1) - Sylvan Esso, Collections of Colonies of Bees
-94: (  1) - The Assembly
-95: (  1) - The Massed Carnaby Street John Cooper Clarkes
-96: (  1) - The Schwa
-97: (  1) - Xtc
+ 77: (  6) - Cowboy Junkies
+ 78: (  5) - Chanel Beads
+ 79: (  5) - It’S Immaterial
+ 80: (  5) - The Zombies
+ 81: (  4) - B.E.F.
+ 82: (  4) - Nick Heyward
+ 83: (  4) - Rod Stewart
+ 84: (  4) - The Weather Station
+ 85: (  3) - Patti Smith
+ 86: (  3) - Searows
+ 87: (  3) - The Mavericks
+ 88: (  3) - The Velvet Underground
+ 89: (  3) - Tift Merritt, Sam Beam
+ 90: (  2) - The Carpenters
+ 91: (  2) - Weekend
+ 92: (  1) - Ac Acoustics
+ 93: (  1) - Brian Eno & David Byrne
+ 94: (  1) - Bruce Springsteen
+ 95: (  1) - Dr Feelgood
+ 96: (  1) - Marc Bolan & T. Rex
+ 97: (  1) - Sylvan Esso, Collections of Colonies of Bees
+ 98: (  1) - The Assembly
+ 99: (  1) - The Massed Carnaby Street John Cooper Clarkes
+100: (  1) - The Schwa
+101: (  1) - The Tom Robinson Band
+102: (  1) - Xtc

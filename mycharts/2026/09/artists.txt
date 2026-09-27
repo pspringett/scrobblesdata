@@ -1,6 +1,6 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     302            20            22           196
+     350            26            27           244
  1: (52) - Westside Cowboy
 
 
@@ -40,20 +40,26 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (16) - Brennan Wedl
  6: (15) - Orchestral Manoeuvres in the Dark
  7: (15) - T. Rex
+ 8: (14) - The Beatles
+ 9: (13) - Robert Plant
+10: (13) - The Redlands Palomino Company
 
- 8: (13) - The Redlands Palomino Company
+11: (11) - Bob Dylan
+12: (11) - Haircut 100
+13: (11) - Wolf Alice
+14: (10) - Roddy Frame
+15: (10) - Simple Minds
+16: ( 9) - Josh Ritter
+17: ( 9) - Scritti Politti
+18: ( 8) - New Order
+19: ( 8) - Tom Robinson Band
 
- 9: (11) - Bob Dylan
-10: (11) - Haircut 100
-11: (11) - Wolf Alice
-12: (10) - Simple Minds
-13: ( 9) - Josh Ritter
-14: ( 9) - Scritti Politti
-15: ( 8) - New Order
 
+20: ( 5) - Newdad
+21: ( 5) - Robert Forster
+22: ( 5) - Robyn Hitchcock
+23: ( 4) - Katherine Priddy
+24: ( 4) - Lime Garden
 
-16: ( 5) - Newdad
-17: ( 5) - Robert Forster
-18: ( 5) - Robyn Hitchcock
-19: ( 4) - Katherine Priddy
-20: ( 4) - Lime Garden
+25: ( 2) - The Rolling Stones
+26: ( 1) - The Tom Robinson Band
