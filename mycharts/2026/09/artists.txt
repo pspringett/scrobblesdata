@@ -1,6 +1,6 @@
 Specified year (2026), specified month (9)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     381            28            29           255
+     382            28            30           256
  1: (52) - Westside Cowboy
 
 
@@ -46,9 +46,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 12: (11) - Bob Dylan
 13: (11) - Haircut 100
-14: (11) - Wolf Alice
-15: (10) - Roddy Frame
-16: (10) - Simple Minds
+14: (11) - Simple Minds
+15: (11) - Wolf Alice
+16: (10) - Roddy Frame
 17: ( 9) - Josh Ritter
 18: ( 8) - New Order
 19: ( 8) - Tom Robinson Band
