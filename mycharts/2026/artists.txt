@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3038            95           150          1352
+    3040            95           150          1352
  1: (177) - Creedence Clearwater Revival
 
 
@@ -171,8 +171,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 45: ( 20) - Elvis Costello
 46: ( 20) - Suzanne Vega
 47: ( 19) - Paul Weller
-48: ( 18) - Prefab Sprout
-49: ( 17) - Phoebe Bridgers
+48: ( 19) - Phoebe Bridgers
+49: ( 18) - Prefab Sprout
+
 50: ( 16) - Chaparelle
 51: ( 15) - Angie Palmer
 52: ( 14) - The Beatles
