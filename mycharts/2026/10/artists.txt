@@ -1,6 +1,6 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     143            10            10            67
+     145            10            10            69
  1: (33) - Phoebe Bridgers
  2: (32) - Echo & the Bunnymen
 
@@ -29,8 +29,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  5: ( 6) - Scritti Politti
- 6: ( 5) - Wet Leg
- 7: ( 4) - Emma Swift
- 8: ( 3) - Ride
+ 6: ( 5) - Ride
+ 7: ( 5) - Wet Leg
+ 8: ( 4) - Emma Swift
  9: ( 3) - The Fall
 10: ( 2) - Simple Minds
