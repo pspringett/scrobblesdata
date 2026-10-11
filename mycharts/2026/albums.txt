@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3137            96           152          1358
+    3137            95           151          1358
   1: (85) - Maybe Not Tonight - Lime Garden
 
   2: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
@@ -97,95 +97,93 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  60: (16) - Western Pleasure - Chaparelle
  61: (15) - Drumming the Beating Heart - Eyeless in Gaza
  62: (15) - Easter Lily Ep - U2
- 63: (15) * Tales Of Light And Darkness - Angie Palmer
- 64: (15) - The Freewheelin' Bob Dylan - Bob Dylan
- 65: (14) - Foreign Tongues - The Rolling Stones
- 66: (14) - Hex Enduction Hour - The Fall
- 67: (14) - Live In Dublin - Leonard Cohen
- 68: (14) - Rubber Soul (Remastered 2009) - The Beatles
- 69: (13) * Broken Carelessly - The Redlands Palomino Company
- 70: (13) - Let It Bleed - The Rolling Stones
- 71: (13) - Live - In The City Of Light - Simple Minds
- 72: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
- 73: (13) - Raising Sand - Robert Plant
- 74: (13) * Rattlesnakes - Lloyd Cole and the Commotions
- 75: (13) * Seventeen Seconds - The Cure
- 76: (13) - Tambourine - Tift Merritt
- 77: (13) - The Prince Of Wales - Devine & Statton
- 78: (13) - This Could Be Texas - English Teacher
- 79: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
- 80: (12) - Evergreen - Echo & the Bunnymen
- 81: (12) - Once Upon A Time - Simple Minds
- 82: (12) - Punch The Clock - Elvis Costello & the Attractions
- 83: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
- 84: (11) - Another Side Of Bob Dylan - Bob Dylan
- 85: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
- 86: (11) - Eden - Everything But the Girl
- 87: (11) - Ghost Palace - The Burning Hell
- 88: (11) - Legend - Bob Marley & the Wailers
- 89: (11) * Little Rock - Hayes Carll
- 90: (11) * Tallulah - The Go-Betweens
- 91: (11) * The Negatives - Lloyd Cole
- 92: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
- 93: (10) - 66 - Paul Weller
- 94: (10) - Flying With Angels - Suzanne Vega
- 95: (10) - Life's Hard And Then You Die - It'S Immaterial
- 96: (10) - Lodger (2017 Remaster) - David Bowie
- 97: (10) - One More Thing - Lime Garden
- 98: (10) * Seven Dials - Roddy Frame
- 99: (10) - Snap, Crackle & Bop - John Cooper Clarke
-100: (10) * Songs Of Leonard Cohen - Leonard Cohen
-101: (10) * Sparkle In The Rain - Simple Minds
-102: (10) - Suzanne Vega - Suzanne Vega
-103: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
-104: ( 9) * I Speak Because I Can - Laura Marling
-105: ( 9) - Saturns Pattern - Paul Weller
-106: ( 9) - The Candle And The Flame - Robert Forster
-107: ( 9) * Various Positions - Leonard Cohen
-108: ( 8) - 2-4-6-8 Motorway: Best Of - Tom Robinson Band
-109: ( 8) - Flesh And Blood - Roxy Music
-110: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
-111: ( 8) - Nowhere - Ride
+ 63: (15) - Nowhere - Ride
+ 64: (15) * Tales Of Light And Darkness - Angie Palmer
+ 65: (15) - The Freewheelin' Bob Dylan - Bob Dylan
+ 66: (14) - Foreign Tongues - The Rolling Stones
+ 67: (14) - Hex Enduction Hour - The Fall
+ 68: (14) - Live In Dublin - Leonard Cohen
+ 69: (14) - Rubber Soul - The Beatles
+ 70: (13) * Broken Carelessly - The Redlands Palomino Company
+ 71: (13) - Let It Bleed - The Rolling Stones
+ 72: (13) - Live - In The City Of Light - Simple Minds
+ 73: (13) - Pale Hands I Loved So Well - Eyeless in Gaza
+ 74: (13) - Raising Sand - Robert Plant
+ 75: (13) * Rattlesnakes - Lloyd Cole and the Commotions
+ 76: (13) * Seventeen Seconds - The Cure
+ 77: (13) - Tambourine - Tift Merritt
+ 78: (13) - The Prince Of Wales - Devine & Statton
+ 79: (13) - This Could Be Texas - English Teacher
+ 80: (12) - Dazzle Ships - Orchestral Manoeuvres in the Dark
+ 81: (12) - Evergreen - Echo & the Bunnymen
+ 82: (12) - Once Upon A Time - Simple Minds
+ 83: (12) - Punch The Clock - Elvis Costello & the Attractions
+ 84: (12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+ 85: (11) - Another Side Of Bob Dylan - Bob Dylan
+ 86: (11) - Bauhaus Staircase - Orchestral Manoeuvres in the Dark
+ 87: (11) - Eden - Everything But the Girl
+ 88: (11) - Ghost Palace - The Burning Hell
+ 89: (11) - Legend - Bob Marley & the Wailers
+ 90: (11) * Little Rock - Hayes Carll
+ 91: (11) * Tallulah - The Go-Betweens
+ 92: (11) * The Negatives - Lloyd Cole
+ 93: (11) - The Punishment Of Luxury - Orchestral Manoeuvres in the Dark
+ 94: (10) - 66 - Paul Weller
+ 95: (10) - Flying With Angels - Suzanne Vega
+ 96: (10) - Life's Hard And Then You Die - It'S Immaterial
+ 97: (10) - Lodger (2017 Remaster) - David Bowie
+ 98: (10) - One More Thing - Lime Garden
+ 99: (10) * Seven Dials - Roddy Frame
+100: (10) - Snap, Crackle & Bop - John Cooper Clarke
+101: (10) * Songs Of Leonard Cohen - Leonard Cohen
+102: (10) * Sparkle In The Rain - Simple Minds
+103: (10) - Suzanne Vega - Suzanne Vega
+104: (10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+105: ( 9) - 2-4-6-8 Motorway: Best Of - Tom Robinson Band
+106: ( 9) * I Speak Because I Can - Laura Marling
+107: ( 9) - Saturns Pattern - Paul Weller
+108: ( 9) - The Candle And The Flame - Robert Forster
+109: ( 9) * Various Positions - Leonard Cohen
+110: ( 8) - Flesh And Blood - Roxy Music
+111: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
 112: ( 7) - Home Recordings - Emma Swift
-113: ( 7) - Nowhere [Remastered] - Ride
-114: ( 7) - Room To Live - The Fall
-115: ( 7) - Stitch Of The World - Tift Merritt
-116: ( 7) - Substance 1987 - New Order
-117: ( 7) - Time And Patience - Tift Merritt
-118: ( 6) - Grotesque (After The Gramme) - The Fall
-119: ( 6) - Low - David Bowie
-120: ( 6) - Perverted By Language (Expanded Edition) - The Fall
-121: ( 6) - Red Rust September - Eyeless in Gaza
-122: ( 6) * The Trinity Session - Cowboy Junkies
-123: ( 6) - Waves - Newdad
-124: ( 5) - Ghost - Mercy Girl
-125: ( 5) - House For Sale - It’S Immaterial
-126: ( 5) - Mercy Girl Singles - Mercy Girl
-127: ( 5) - Moisturizer - Wet Leg
-128: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
-129: ( 5) - Your Day Will Come - Chanel Beads
-130: ( 4) * Happy Birthday - Altered Images
-131: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
-132: ( 4) - Woodland Echoes - Nick Heyward
-133: ( 3) - Country Life - Roxy Music
-134: ( 3) - Death In The Business Of Whaling - Searows
-135: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
-136: ( 3) - Horses - Patti Smith
-137: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-138: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-139: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
-140: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-141: ( 2) - Dragnet - The Fall
-142: ( 2) - Gold - Greatest Hits - The Carpenters
-143: ( 2) - Singles 1965-1967 - The Rolling Stones
-144: ( 1) - 2-4-6-8 Motorway: Best Of - The Tom Robinson Band
-145: ( 1) - Bowie At The Beeb - David Bowie
-146: ( 1) - Golden Age - Heaven 17
-147: ( 1) - Gotta Get Away - The Schwa
-148: ( 1) - Never Never - The Assembly
-149: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-150: ( 1) - Private Practice - Dr Feelgood
-151: ( 1) - Slumber Party - Brigitte Calls Me Baby
-152: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-153: ( 1) - Take Me Home - The Redlands Palomino Company
-154: ( 1) - The Collection - Marc Bolan & T. Rex
+113: ( 7) - Room To Live - The Fall
+114: ( 7) - Stitch Of The World - Tift Merritt
+115: ( 7) - Substance 1987 - New Order
+116: ( 7) - Time And Patience - Tift Merritt
+117: ( 6) - Grotesque (After The Gramme) - The Fall
+118: ( 6) - Low - David Bowie
+119: ( 6) - Perverted By Language - The Fall
+120: ( 6) - Red Rust September - Eyeless in Gaza
+121: ( 6) * The Trinity Session - Cowboy Junkies
+122: ( 6) - Waves - Newdad
+123: ( 5) - Ghost - Mercy Girl
+124: ( 5) - House For Sale - It’S Immaterial
+125: ( 5) - Mercy Girl Singles - Mercy Girl
+126: ( 5) - Moisturizer - Wet Leg
+127: ( 5) - Odessey And Oracle (Mono Remastered) - The Zombies
+128: ( 5) - Your Day Will Come - Chanel Beads
+129: ( 4) * Happy Birthday - Altered Images
+130: ( 4) - Sons And Fascination/Sister Feelings Call - Simple Minds
+131: ( 4) - Woodland Echoes - Nick Heyward
+132: ( 3) - Country Life - Roxy Music
+133: ( 3) - Death In The Business Of Whaling - Searows
+134: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
+135: ( 3) - Horses - Patti Smith
+136: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+137: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+138: ( 3) - The Complete Matrix Tapes #1 - The Velvet Underground
+139: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+140: ( 2) - Dragnet - The Fall
+141: ( 2) - Gold - Greatest Hits - The Carpenters
+142: ( 2) - Singles 1965-1967 - The Rolling Stones
+143: ( 1) - Bowie At The Beeb - David Bowie
+144: ( 1) - Golden Age - Heaven 17
+145: ( 1) - Gotta Get Away - The Schwa
+146: ( 1) - Never Never - The Assembly
+147: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+148: ( 1) - Private Practice - Dr Feelgood
+149: ( 1) - Slumber Party - Brigitte Calls Me Baby
+150: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+151: ( 1) - Take Me Home - The Redlands Palomino Company
+152: ( 1) - The Collection - Marc Bolan & T. Rex
