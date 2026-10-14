@@ -1,9 +1,10 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     158            10            10            74
+     165            11            11            80
  1: (33) - Lost Weekend - Phoebe Bridgers
  2: (32) - Apples For Isaac - Echo & the Bunnymen
- 3: (31) - That Girl Ep - Spaceacre
+ 3: (32) - That Girl Ep - Spaceacre
+
  4: (30) - Tent - Zoe Graham
 
 
@@ -28,8 +29,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 6: ( 6) * Songs To Remember - Scritti Politti
- 7: ( 5) - Moisturizer - Wet Leg
- 8: ( 4) - The Resurrection Game - Emma Swift
- 9: ( 3) - Perverted By Language - The Fall
-10: ( 2) - New Gold Dream - Simple Minds
+ 6: ( 6) - Perverted By Language - The Fall
+ 7: ( 6) * Songs To Remember - Scritti Politti
+ 8: ( 5) - Moisturizer - Wet Leg
+ 9: ( 4) - The Resurrection Game - Emma Swift
+10: ( 3) - Brennan Wedl - Brennan Wedl
+11: ( 2) - New Gold Dream - Simple Minds
