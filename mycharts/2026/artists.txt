@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3137            95           151          1358
+    3145            95           151          1361
  1: (177) - Creedence Clearwater Revival
 
 
@@ -158,12 +158,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 37: ( 33) - Robert Forster
 38: ( 32) - Brennan Wedl
 39: ( 32) - Scritti Politti
+40: ( 31) - Spaceacre
+41: ( 30) - Sharon Van Etten
+42: ( 30) - The Go-Betweens
+43: ( 30) - Zoe Graham
+44: ( 29) - The Rolling Stones
 
-40: ( 30) - Sharon Van Etten
-41: ( 30) - The Go-Betweens
-42: ( 30) - Zoe Graham
-43: ( 29) - The Rolling Stones
-44: ( 28) - Spaceacre
 45: ( 27) - Roxy Music
 46: ( 27) - Tift Merritt
 
@@ -173,13 +173,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 48: ( 20) - Elvis Costello
-49: ( 20) - Suzanne Vega
-50: ( 19) - Paul Weller
-51: ( 18) - Prefab Sprout
+49: ( 20) - Ride
+50: ( 20) - Suzanne Vega
+51: ( 19) - Paul Weller
+52: ( 18) - Prefab Sprout
 
-52: ( 16) - Chaparelle
-53: ( 15) - Angie Palmer
-54: ( 15) - Ride
+53: ( 16) - Chaparelle
+54: ( 15) - Angie Palmer
 55: ( 14) - The Beatles
 56: ( 13) - Devine & Statton
 57: ( 13) - English Teacher

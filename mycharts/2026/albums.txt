@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3137            95           151          1358
+    3145            95           151          1361
   1: (85) - Maybe Not Tonight - Lime Garden
 
   2: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
@@ -67,11 +67,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  32: (32) - I Believe In You, My Honeydew - Josh Ritter
  33: (32) * Songs To Remember - Scritti Politti
  34: (31) - David Bowie (aka Space Oddity) - David Bowie
- 35: (30) * Electric Warrior - T. Rex
- 36: (30) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
- 37: (30) - Tent - Zoe Graham
- 38: (29) - The Resurrection Game - Emma Swift
- 39: (28) - That Girl Ep - Spaceacre
+ 35: (31) - That Girl Ep - Spaceacre
+ 36: (30) * Electric Warrior - T. Rex
+ 37: (30) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
+ 38: (30) - Tent - Zoe Graham
+ 39: (29) - The Resurrection Game - Emma Swift
+
 
  40: (26) - Bob Dylan - Bob Dylan
  41: (25) - Pelican West Plus - Haircut 100
@@ -83,21 +84,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  46: (22) - A Beard Of Stars - T. Rex
  47: (21) - Blue Weekend - Wolf Alice
  48: (20) - New Gold Dream - Simple Minds
- 49: (20) * Ocean Rain - Echo & the Bunnymen
- 50: (20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
- 51: (19) - 16 Lovers Lane - The Go-Betweens
- 52: (18) - Echo & The Bunnymen - Echo & the Bunnymen
- 53: (18) * Jordan: The Comeback - Prefab Sprout
- 54: (17) - Emma Swift Singles 2026 - Emma Swift
- 55: (17) - Heaven, Or Someplace As Nice - Josh Ritter
- 56: (17) - Live At Layman Drug Company 2025 - Emma Swift
- 57: (17) - Plastic Letters - Blondie
- 58: (16) - Blondie - Blondie
- 59: (16) - The Best Of Roxy Music - Roxy Music
- 60: (16) - Western Pleasure - Chaparelle
- 61: (15) - Drumming the Beating Heart - Eyeless in Gaza
- 62: (15) - Easter Lily Ep - U2
- 63: (15) - Nowhere - Ride
+ 49: (20) - Nowhere - Ride
+ 50: (20) * Ocean Rain - Echo & the Bunnymen
+ 51: (20) - This Year's Model (2021 Remaster / Deluxe) - Elvis Costello
+ 52: (19) - 16 Lovers Lane - The Go-Betweens
+ 53: (18) - Echo & The Bunnymen - Echo & the Bunnymen
+ 54: (18) * Jordan: The Comeback - Prefab Sprout
+ 55: (17) - Emma Swift Singles 2026 - Emma Swift
+ 56: (17) - Heaven, Or Someplace As Nice - Josh Ritter
+ 57: (17) - Live At Layman Drug Company 2025 - Emma Swift
+ 58: (17) - Plastic Letters - Blondie
+ 59: (16) - Blondie - Blondie
+ 60: (16) - The Best Of Roxy Music - Roxy Music
+ 61: (16) - Western Pleasure - Chaparelle
+ 62: (15) - Drumming the Beating Heart - Eyeless in Gaza
+ 63: (15) - Easter Lily Ep - U2
  64: (15) * Tales Of Light And Darkness - Angie Palmer
  65: (15) - The Freewheelin' Bob Dylan - Bob Dylan
  66: (14) - Foreign Tongues - The Rolling Stones
