@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   72555          1308          1973         13838
+   72562          1308          1973         13843
    1: (312) - Cafe Bleu - The Style Council
    2: (299) - Sermon On The Rocks - Josh Ritter
    3: (276) - Head Over Heels - Cocteau Twins
@@ -32,12 +32,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   29: (199) * Sparkle In The Rain - Simple Minds
   30: (199) - The lexicon of Love - ABC
   31: (198) - Substance 1987 - New Order
-  32: (196) - Blonde On The Tracks - Emma Swift
-  33: (195) - Country Life - Roxy Music
-  34: (194) - Chaleur Humaine - Christine and the Queens
-  35: (193) - Once I Was An Eagle - Laura Marling
-  36: (193) - Sons And Fascination/Sister Feelings Call - Simple Minds
-  37: (192) - 16 Lovers Lane - The Go-Betweens
+  32: (197) - 16 Lovers Lane - The Go-Betweens
+  33: (196) - Blonde On The Tracks - Emma Swift
+  34: (195) - Country Life - Roxy Music
+  35: (194) - Chaleur Humaine - Christine and the Queens
+  36: (193) - Once I Was An Eagle - Laura Marling
+  37: (193) - Sons And Fascination/Sister Feelings Call - Simple Minds
   38: (192) - Manifesto - Roxy Music
   39: (192) - Short Movie - Laura Marling
   40: (192) * Yogi In My House - Martin Stephenson
@@ -903,54 +903,54 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  900: ( 11) - My Favorite Picture Of You - Guy Clark
  901: ( 11) - Mysterio - Ian McCulloch
  902: ( 11) - Open Here - Field Music
- 903: ( 11) - Pollinator - Blondie
- 904: ( 11) - Queer As Folk - Grace Petrie
- 905: ( 11) * See You Around - Travis Linville
- 906: ( 11) - Serious Moonlight - David Bowie
- 907: ( 11) - Songs Of Experience - U2
- 908: ( 11) - Texas - Rodney Crowell
- 909: ( 11) - The Wide Afternoon - Jack Harris
- 910: ( 11) - Through The Windowpane - Guillemots
- 911: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
- 912: ( 11) - Watch - Manfred Mann's Earth Band
- 913: ( 11) - While I Was Asleep - Darling West
- 914: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
- 915: ( 10) - Chelsea Girl - Nico
- 916: ( 10) - Dub Side Of The Moon - Easy Star All-stars
- 917: ( 10) - Elastica - Elastica
- 918: ( 10) - Failer - Kathleen Edwards
- 919: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
- 920: ( 10) - How To Dance - Mount Moriah
- 921: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
- 922: ( 10) - Life In A Day - Simple Minds
- 923: ( 10) - Lionheart (2018 Remaster) - Kate Bush
- 924: ( 10) - Lodger (2017 Remaster) - David Bowie
- 925: ( 10) - Metamatic - John Foxx
- 926: ( 10) - Naked As Advertised Versions 08 - Heaven 17
- 927: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
- 928: ( 10) - Rat Saw God - Wednesday
- 929: ( 10) - Reel To Real Cacophony - Simple Minds
- 930: ( 10) - Setting Sons - The Jam
- 931: ( 10) - Sharon - Cowboy Junkies
- 932: ( 10) - Starfish - The Church
- 933: ( 10) - Starsailor - Tim Buckley
- 934: ( 10) - Tales From The Realm Of The Queen Of Pentacles - Suzanne Vega
- 935: ( 10) - Tangled Man - Green Gartside
- 936: ( 10) - The Future Is Our Way Out - Brigitte Calls Me Baby
- 937: ( 10) - Themes - Volume 2 - Simple Minds
- 938: ( 10) - Total - New Order
- 939: ( 10) - Under Branch & Thorn & Tree - Samantha Crain
- 940: ( 10) - Winter Sang - Eyeless in Gaza
- 941: (  9) - 2-4-6-8 Motorway: Best Of - Tom Robinson Band
- 942: (  9) * Before The Flood - Bob Dylan
- 943: (  9) - Blue Sky Thinkin' - Anne McCue
- 944: (  9) * Bob Dylan At Budokan - Bob Dylan
- 945: (  9) - Double Negative - Low
- 946: (  9) - Get Up (Deluxe) - Bryan Adams
- 947: (  9) - Hawkwind - Hawkwind Zoo
- 948: (  9) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Sharon Van Etten
- 949: (  9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
- 950: (  9) - Perverted By Language - The Fall
+ 903: ( 11) - Perverted By Language - The Fall
+ 904: ( 11) - Pollinator - Blondie
+ 905: ( 11) - Queer As Folk - Grace Petrie
+ 906: ( 11) * See You Around - Travis Linville
+ 907: ( 11) - Serious Moonlight - David Bowie
+ 908: ( 11) - Songs Of Experience - U2
+ 909: ( 11) - Texas - Rodney Crowell
+ 910: ( 11) - The Wide Afternoon - Jack Harris
+ 911: ( 11) - Through The Windowpane - Guillemots
+ 912: ( 11) - War Ina Babylon (Expanded Edition) - Max Romeo
+ 913: ( 11) - Watch - Manfred Mann's Earth Band
+ 914: ( 11) - While I Was Asleep - Darling West
+ 915: ( 10) * Anarchy In The UK - 30 Years Of Punk - Various
+ 916: ( 10) - Chelsea Girl - Nico
+ 917: ( 10) - Dub Side Of The Moon - Easy Star All-stars
+ 918: ( 10) - Elastica - Elastica
+ 919: ( 10) - Failer - Kathleen Edwards
+ 920: ( 10) - Here We Rest - Jason Isbell and the 400 Unit
+ 921: ( 10) - How To Dance - Mount Moriah
+ 922: ( 10) - Hymns Of The 49Th Parallel - K.D. Lang
+ 923: ( 10) - Life In A Day - Simple Minds
+ 924: ( 10) - Lionheart (2018 Remaster) - Kate Bush
+ 925: ( 10) - Lodger (2017 Remaster) - David Bowie
+ 926: ( 10) - Metamatic - John Foxx
+ 927: ( 10) - Naked As Advertised Versions 08 - Heaven 17
+ 928: ( 10) - Nobody Wants To Be Here & Nobody Wants To Leave - The Twilight Sad
+ 929: ( 10) - Rat Saw God - Wednesday
+ 930: ( 10) - Reel To Real Cacophony - Simple Minds
+ 931: ( 10) - Setting Sons - The Jam
+ 932: ( 10) - Sharon - Cowboy Junkies
+ 933: ( 10) - Starfish - The Church
+ 934: ( 10) - Starsailor - Tim Buckley
+ 935: ( 10) - Tales From The Realm Of The Queen Of Pentacles - Suzanne Vega
+ 936: ( 10) - Tangled Man - Green Gartside
+ 937: ( 10) - The Future Is Our Way Out - Brigitte Calls Me Baby
+ 938: ( 10) - Themes - Volume 2 - Simple Minds
+ 939: ( 10) - Total - New Order
+ 940: ( 10) - Under Branch & Thorn & Tree - Samantha Crain
+ 941: ( 10) - Winter Sang - Eyeless in Gaza
+ 942: (  9) - 2-4-6-8 Motorway: Best Of - Tom Robinson Band
+ 943: (  9) * Before The Flood - Bob Dylan
+ 944: (  9) - Blue Sky Thinkin' - Anne McCue
+ 945: (  9) * Bob Dylan At Budokan - Bob Dylan
+ 946: (  9) - Double Negative - Low
+ 947: (  9) - Get Up (Deluxe) - Bryan Adams
+ 948: (  9) - Hawkwind - Hawkwind Zoo
+ 949: (  9) - I'll Be Your Mirror: A Tribute To The Velvet Underground & Nico - Sharon Van Etten
+ 950: (  9) - New Gold Dream - Live From Paisley Abbey - Simple Minds
  951: (  9) - Purgatory - Tyler Childers
  952: (  9) - The Best Of - Nick Cave & the Bad Seeds
  953: (  9) - The Clash (Remastered) - The Clash
