@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3859           113           197          1652
+    3915           115           199          1693
   1: (177) - Creedence Clearwater Revival
 
 
@@ -87,7 +87,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 10: ( 91) - The Belair Lip Bombs
+ 10: ( 91) - Martin Stephenson
+ 11: ( 91) - The Belair Lip Bombs
 
 
 
@@ -95,16 +96,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 11: ( 83) - Newdad
- 12: ( 83) - Vegas Water Taxi
- 13: ( 82) - The Go-Betweens
+ 12: ( 83) - Newdad
+ 13: ( 83) - Vegas Water Taxi
+ 14: ( 82) - The Go-Betweens
 
 
 
- 14: ( 78) - Westside Cowboy
+ 15: ( 78) - Westside Cowboy
 
- 15: ( 76) - Whitelands
- 16: ( 75) - Martin Stephenson
+ 16: ( 76) - Whitelands
+
 
 
 
@@ -116,27 +117,27 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 22: ( 64) - JT Nero
+
+ 23: ( 62) - Bob Dylan
+ 24: ( 62) - Heavenly
+ 25: ( 62) - Nell Davies
+ 26: ( 61) - Orchestral Manoeuvres in the Dark
+
+ 27: ( 59) - Martin Stephenson and the Daintees
+ 28: ( 58) - The Redlands Palomino Company
 
 
- 22: ( 62) - Bob Dylan
- 23: ( 62) - Heavenly
- 24: ( 62) - Nell Davies
- 25: ( 61) - Orchestral Manoeuvres in the Dark
-
- 26: ( 59) - Martin Stephenson and the Daintees
 
 
 
+ 29: ( 52) - T. Rex
 
- 27: ( 54) - JT Nero
+ 30: ( 50) - Chaparelle
+ 31: ( 49) - U2
+ 32: ( 48) - Glyders
 
- 28: ( 52) - T. Rex
 
- 29: ( 50) - Chaparelle
- 30: ( 49) - U2
- 31: ( 48) - Glyders
-
- 32: ( 46) - The Redlands Palomino Company
 
  33: ( 44) - Anne McCue
 
@@ -184,52 +185,54 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  64: ( 16) - Altered Images
  65: ( 15) - Angie Palmer
  66: ( 15) - Lloyd Cole and the Commotions
- 67: ( 14) - The Beatles
- 68: ( 13) - Emmylou Harris
- 69: ( 13) - English Teacher
- 70: ( 13) - Robert Plant
- 71: ( 13) - The Cure
- 72: ( 12) - Elvis Costello & the Attractions
- 73: ( 12) - Jimi Hendrix
- 74: ( 11) - Bob Marley & the Wailers
- 75: ( 11) - Brigitte Calls Me Baby
- 76: ( 11) - Hayes Carll
- 77: ( 10) - Heaven 17
- 78: ( 10) - It'S Immaterial
- 79: ( 10) - John Cooper Clarke
- 80: ( 10) - Mercy Girl
- 81: ( 10) - Roddy Frame
- 82: ( 10) - The Sundays
- 83: (  9) - Eliza Gilkyson
- 84: (  9) - Laura Marling
- 85: (  9) - Tom Robinson Band
+ 67: ( 14) - Talking Heads
+ 68: ( 14) - The Beatles
+ 69: ( 13) - Emmylou Harris
+ 70: ( 13) - English Teacher
+ 71: ( 13) - Robert Plant
+ 72: ( 13) - The Cure
+ 73: ( 12) - Elvis Costello & the Attractions
+ 74: ( 12) - Jimi Hendrix
+ 75: ( 11) - Bob Marley & the Wailers
+ 76: ( 11) - Brigitte Calls Me Baby
+ 77: ( 11) - Hayes Carll
+ 78: ( 10) - Heaven 17
+ 79: ( 10) - It'S Immaterial
+ 80: ( 10) - John Cooper Clarke
+ 81: ( 10) - Mercy Girl
+ 82: ( 10) - Roddy Frame
+ 83: ( 10) - The Sundays
+ 84: (  9) - Eliza Gilkyson
+ 85: (  9) - Laura Marling
+ 86: (  9) - Tom Robinson Band
 
 
- 86: (  6) - Aztec Camera
- 87: (  6) - Cowboy Junkies
- 88: (  5) - Chanel Beads
- 89: (  5) - It’S Immaterial
- 90: (  5) - The Zombies
- 91: (  4) - B.E.F.
- 92: (  4) - Nick Heyward
- 93: (  4) - Rod Stewart
- 94: (  4) - The Weather Station
- 95: (  3) - Florence + the Machine
- 96: (  3) - Patti Smith
- 97: (  3) - Searows
- 98: (  3) - The Mavericks
- 99: (  3) - The Velvet Underground
-100: (  3) - Tift Merritt, Sam Beam
-101: (  2) - The Carpenters
-102: (  2) - Weekend
-103: (  1) - Ac Acoustics
-104: (  1) - Brian Eno & David Byrne
-105: (  1) - Bruce Springsteen
-106: (  1) - Dr Feelgood
-107: (  1) - Marc Bolan & T. Rex
-108: (  1) - Patty Griffin
-109: (  1) - Sylvan Esso, Collections of Colonies of Bees
-110: (  1) - The Assembly
-111: (  1) - The Massed Carnaby Street John Cooper Clarkes
-112: (  1) - The Schwa
-113: (  1) - Xtc
+ 87: (  6) - Aztec Camera
+ 88: (  6) - Cowboy Junkies
+ 89: (  6) - The Velvet Underground
+ 90: (  5) - Chanel Beads
+ 91: (  5) - It’S Immaterial
+ 92: (  5) - The Zombies
+ 93: (  4) - B.E.F.
+ 94: (  4) - Nick Heyward
+ 95: (  4) - Rod Stewart
+ 96: (  4) - The Weather Station
+ 97: (  3) - Florence + the Machine
+ 98: (  3) - Patti Smith
+ 99: (  3) - Searows
+100: (  3) - The Mavericks
+101: (  3) - Tift Merritt, Sam Beam
+102: (  2) - The Carpenters
+103: (  2) - Weekend
+104: (  1) - Ac Acoustics
+105: (  1) - Brian Eno & David Byrne
+106: (  1) - Bruce Springsteen
+107: (  1) - Dr Feelgood
+108: (  1) - Marc Bolan & T. Rex
+109: (  1) - Patty Griffin
+110: (  1) - Sylvan Esso, Collections of Colonies of Bees
+111: (  1) - The Assembly
+112: (  1) - The Massed Carnaby Street John Cooper Clarkes
+113: (  1) - The Schwa
+114: (  1) - Tom Tom Club
+115: (  1) - Xtc

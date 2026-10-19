@@ -1,6 +1,6 @@
 All time
 Total Tracks Unique Artists Unique albums Unique Tracks
-   72590          1308          1974         13843
+   72646          1308          1974         13849
    1: (2178) - Lloyd Cole
    2: (1981) - David Bowie
    3: (1884) - Bob Dylan
@@ -21,10 +21,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   18: ( 823) - Elvis Costello & the Attractions
   19: ( 812) - Orange Juice
   20: ( 746) - Altered Images
-  21: ( 718) - Paul Weller
-  22: ( 709) - New Order
-  23: ( 707) - Hem
-  24: ( 706) - Martin Stephenson
+  21: ( 722) - Martin Stephenson
+  22: ( 718) - Paul Weller
+  23: ( 709) - New Order
+  24: ( 707) - Hem
   25: ( 686) - Martin Stephenson and the Daintees
   26: ( 685) - Scott Walker
   27: ( 680) - The Style Council
@@ -35,10 +35,10 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   32: ( 607) - Prefab Sprout
   33: ( 596) - Emmylou Harris
   34: ( 575) - T. Rex
-  35: ( 562) - The Velvet Underground
+  35: ( 565) - The Velvet Underground
   36: ( 530) - Shelby Lynne
-  37: ( 480) - Talking Heads
-  38: ( 469) - The Redlands Palomino Company
+  37: ( 494) - Talking Heads
+  38: ( 481) - The Redlands Palomino Company
   39: ( 468) - Rodney Crowell
   40: ( 455) - Nick Heyward
   41: ( 450) - Sarah MacDougall
@@ -84,11 +84,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
   81: ( 245) - Christine and the Queens
   82: ( 237) - The Burning Hell
   83: ( 214) - case/lang/veirs
-  84: ( 209) - The Beach Boys
-  85: ( 205) - The Wailers
-  86: ( 204) - Lera Lynn
-  87: ( 203) - Kacey Musgraves
-  88: ( 201) - JT Nero
+  84: ( 211) - JT Nero
+  85: ( 209) - The Beach Boys
+  86: ( 205) - The Wailers
+  87: ( 204) - Lera Lynn
+  88: ( 203) - Kacey Musgraves
   89: ( 201) - Robert Plant
   90: ( 200) - The Bluebells
   91: ( 199) - Jason Isbell
@@ -160,8 +160,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  157: (  94) - The Jesus and Mary Chain
  158: (  92) - Phoebe Bridgers
  159: (  91) - The Belair Lip Bombs
- 160: (  90) - Josh Rouse
- 161: (  90) - Tom Tom Club
+ 160: (  91) - Tom Tom Club
+ 161: (  90) - Josh Rouse
  162: (  87) - A Certain Ratio
  163: (  86) - Led Zeppelin
  164: (  86) - Peter Hammill
