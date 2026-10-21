@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3513           106           182          1534
+    3562           106           184          1552
   1: (177) - Creedence Clearwater Revival
 
 
@@ -34,6 +34,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  2: (144) - Emma Swift
 
 
 
@@ -42,7 +43,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-  2: (136) - Emma Swift
 
 
 
@@ -72,17 +72,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  5: (105) - Echo & the Bunnymen
-
-
+  5: (106) - David Bowie
+  6: (105) - Echo & the Bunnymen
 
 
 
 
 
 
-  6: ( 96) - David Bowie
+
+
   7: ( 96) - Haircut 100
   8: ( 95) - Lime Garden
 
@@ -126,22 +125,22 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  24: ( 58) - The Redlands Palomino Company
+ 25: ( 57) - Anne McCue
 
 
 
 
-
- 25: ( 52) - Bob Dylan
- 26: ( 52) - Martin Stephenson
- 27: ( 52) - T. Rex
-
-
- 28: ( 49) - U2
- 29: ( 48) - Glyders
+ 26: ( 52) - Bob Dylan
+ 27: ( 52) - Martin Stephenson
+ 28: ( 52) - T. Rex
 
 
+ 29: ( 49) - U2
+ 30: ( 48) - Glyders
 
- 30: ( 44) - Anne McCue
+
+
+
 
 
 
@@ -171,44 +170,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: ( 27) - Roxy Music
  48: ( 27) - Tift Merritt
  49: ( 26) - Devine & Statton
+ 50: ( 25) - Angie Palmer
+ 51: ( 24) - Paul Weller
+ 52: ( 24) - Po' Girl
+ 53: ( 23) - Edwyn Collins
+ 54: ( 23) - Everything But the Girl
 
- 50: ( 24) - Paul Weller
- 51: ( 24) - Po' Girl
- 52: ( 23) - Edwyn Collins
- 53: ( 23) - Everything But the Girl
 
-
- 54: ( 20) - Elvis Costello
- 55: ( 20) - Ride
- 56: ( 20) - Suzanne Vega
- 57: ( 19) - Orange Juice
- 58: ( 18) - Lloyd Cole
- 59: ( 18) - Prefab Sprout
- 60: ( 17) - Wet Leg
- 61: ( 16) - Altered Images
- 62: ( 15) - Angie Palmer
+ 55: ( 20) - Elvis Costello
+ 56: ( 20) - Ride
+ 57: ( 20) - Suzanne Vega
+ 58: ( 19) - Orange Juice
+ 59: ( 18) - Lloyd Cole
+ 60: ( 18) - Prefab Sprout
+ 61: ( 17) - Wet Leg
+ 62: ( 16) - Altered Images
  63: ( 15) - Lloyd Cole and the Commotions
  64: ( 14) - Talking Heads
  65: ( 14) - The Beatles
- 66: ( 13) - English Teacher
- 67: ( 13) - Robert Plant
- 68: ( 13) - The Cure
- 69: ( 12) - Elvis Costello & the Attractions
- 70: ( 12) - The Burning Hell
- 71: ( 11) - Bob Marley & the Wailers
- 72: ( 11) - Brigitte Calls Me Baby
- 73: ( 11) - Hayes Carll
- 74: ( 10) - Heaven 17
- 75: ( 10) - It'S Immaterial
- 76: ( 10) - John Cooper Clarke
- 77: ( 10) - Mercy Girl
- 78: ( 10) - Roddy Frame
- 79: (  9) - Laura Marling
- 80: (  9) - Tom Robinson Band
+ 66: ( 14) - The Velvet Underground
+ 67: ( 13) - English Teacher
+ 68: ( 13) - Robert Plant
+ 69: ( 13) - The Cure
+ 70: ( 12) - Elvis Costello & the Attractions
+ 71: ( 12) - The Burning Hell
+ 72: ( 11) - Bob Marley & the Wailers
+ 73: ( 11) - Brigitte Calls Me Baby
+ 74: ( 11) - Hayes Carll
+ 75: ( 10) - Heaven 17
+ 76: ( 10) - It'S Immaterial
+ 77: ( 10) - John Cooper Clarke
+ 78: ( 10) - Mercy Girl
+ 79: ( 10) - Roddy Frame
+ 80: (  9) - Laura Marling
+ 81: (  9) - Tom Robinson Band
 
 
- 81: (  6) - Cowboy Junkies
- 82: (  6) - The Velvet Underground
+ 82: (  6) - Cowboy Junkies
  83: (  5) - Chanel Beads
  84: (  5) - It’S Immaterial
  85: (  5) - The Zombies

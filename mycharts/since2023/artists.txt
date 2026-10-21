@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   13684           299           522          4145
+   13733           299           523          4156
   1: (380) - Josh Ritter
 
 
@@ -132,6 +132,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
   9: (251) - Echo & the Bunnymen
+ 10: (250) - Emma Swift
 
 
 
@@ -140,7 +141,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 10: (242) - Emma Swift
 
 
 
@@ -153,6 +153,7 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 12: (229) - David Bowie
 
 
 
@@ -163,7 +164,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
- 12: (219) - David Bowie
  13: (218) - The Burning Hell
 
  14: (216) - The Cure
@@ -340,32 +340,31 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  71: ( 60) - Aztec Camera
  72: ( 59) - New Order
 
+ 73: ( 57) - Anne McCue
 
+ 74: ( 55) - Aswad
+ 75: ( 55) - Devine & Statton
+ 76: ( 54) - R.E.M.
+ 77: ( 53) - The Style Council
 
- 73: ( 55) - Aswad
- 74: ( 55) - Devine & Statton
- 75: ( 54) - R.E.M.
- 76: ( 53) - The Style Council
+ 78: ( 51) - British Birds
 
- 77: ( 51) - British Birds
+ 79: ( 49) - A Certain Ratio
+ 80: ( 49) - Angie Palmer
+ 81: ( 49) - Everything But the Girl
+ 82: ( 49) - Talking Heads
+ 83: ( 48) - Glyders
+ 84: ( 47) - Delays
+ 85: ( 46) - Blondie
+ 86: ( 45) - Elvis Costello & the Attractions
+ 87: ( 44) - Beach Fossils
+ 88: ( 44) - Wishy
 
- 78: ( 49) - A Certain Ratio
- 79: ( 49) - Everything But the Girl
- 80: ( 49) - Talking Heads
- 81: ( 48) - Glyders
- 82: ( 47) - Delays
- 83: ( 46) - Blondie
- 84: ( 45) - Elvis Costello & the Attractions
- 85: ( 44) - Anne McCue
- 86: ( 44) - Beach Fossils
- 87: ( 44) - Wishy
+ 89: ( 42) - Cigarettes After Sex
+ 90: ( 42) - Jason Isbell and the 400 Unit
+ 91: ( 42) - Pillow Queens
 
- 88: ( 42) - Cigarettes After Sex
- 89: ( 42) - Jason Isbell and the 400 Unit
- 90: ( 42) - Pillow Queens
-
- 91: ( 40) - The Rolling Stones
- 92: ( 39) - Angie Palmer
+ 92: ( 40) - The Rolling Stones
  93: ( 39) - Cocteau Twins
  94: ( 39) - Shack
  95: ( 39) - Tallies
@@ -375,25 +374,25 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  99: ( 38) - Tift Merritt
 100: ( 37) - Pj Harvey
 101: ( 36) - Bryan Ferry, Amelia Barratt
-102: ( 35) - Brennan Wedl
-103: ( 35) - Scritti Politti
-104: ( 35) - Spaceacre
-105: ( 34) - Emmylou Harris
-106: ( 34) - Melody'S Echo Chamber
-107: ( 34) - Waxahatchee
-108: ( 34) - Zoe Graham
-109: ( 33) - Phoebe Bridgers
-110: ( 32) - Nightbus
-111: ( 31) - Courting
-112: ( 31) - Weyes Blood
-113: ( 30) - Paramore
-114: ( 30) - Yazoo
-115: ( 29) - Be Your Own Pet
-116: ( 29) - Scott Walker
-117: ( 29) - The Corrs
-118: ( 28) - The Last Dinner Party
-119: ( 28) - The Smiths
-120: ( 28) - The Velvet Underground
+102: ( 36) - The Velvet Underground
+103: ( 35) - Brennan Wedl
+104: ( 35) - Scritti Politti
+105: ( 35) - Spaceacre
+106: ( 34) - Emmylou Harris
+107: ( 34) - Melody'S Echo Chamber
+108: ( 34) - Waxahatchee
+109: ( 34) - Zoe Graham
+110: ( 33) - Phoebe Bridgers
+111: ( 32) - Nightbus
+112: ( 31) - Courting
+113: ( 31) - Weyes Blood
+114: ( 30) - Paramore
+115: ( 30) - Yazoo
+116: ( 29) - Be Your Own Pet
+117: ( 29) - Scott Walker
+118: ( 29) - The Corrs
+119: ( 28) - The Last Dinner Party
+120: ( 28) - The Smiths
 121: ( 28) - The Zephyrs
 
 122: ( 26) - The Weather Station
