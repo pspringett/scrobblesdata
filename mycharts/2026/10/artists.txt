@@ -1,12 +1,14 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     310            25            27           208
- 1: (38) - Echo & the Bunnymen
+     319            26            28           210
+ 1: (40) - Phoebe Bridgers
+
+ 2: (38) - Echo & the Bunnymen
 
 
- 2: (35) - Spaceacre
- 3: (34) - Zoe Graham
- 4: (33) - Phoebe Bridgers
+ 3: (35) - Spaceacre
+ 4: (34) - Zoe Graham
+
 
 
 
@@ -45,5 +47,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 21: ( 4) - Westside Cowboy
 22: ( 3) - Brennan Wedl
 23: ( 3) - Nell Davies
-24: ( 2) - Simple Minds
-25: ( 1) - Tom Tom Club
+24: ( 2) - Haircut 100
+25: ( 2) - Simple Minds
+26: ( 1) - Tom Tom Club
