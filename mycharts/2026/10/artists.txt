@@ -1,6 +1,6 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     338            29            30           223
+     347            30            31           232
  1: (41) - Spaceacre
  2: (40) - Phoebe Bridgers
 
@@ -30,15 +30,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  6: (14) - Talking Heads
  7: (13) - Anne McCue
- 8: (12) - Emma Swift
- 9: (12) - Ride
-10: (12) - The Redlands Palomino Company
-11: (11) - The Velvet Underground
-12: (10) - Angie Palmer
-13: (10) - David Bowie
-14: (10) - JT Nero
+ 8: (13) - The Fall
+ 9: (12) - Emma Swift
+10: (12) - Ride
+11: (12) - The Redlands Palomino Company
+12: (11) - The Velvet Underground
+13: (10) - Angie Palmer
+14: (10) - David Bowie
+15: (10) - JT Nero
 
-15: ( 8) - The Fall
+
 16: ( 7) - Lloyd Cole
 17: ( 7) - Scritti Politti
 18: ( 7) - Slowdive
@@ -46,11 +47,12 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 19: ( 5) - Champion Trees
 20: ( 5) - The Go-Betweens
 21: ( 5) - Wet Leg
-22: ( 4) - Freakwater
-23: ( 4) - Westside Cowboy
-24: ( 3) - Brennan Wedl
-25: ( 3) - Nell Davies
-26: ( 2) - Haircut 100
-27: ( 2) - Simple Minds
-28: ( 2) - Tom Robinson
-29: ( 1) - Tom Tom Club
+22: ( 4) - Creedence Clearwater Revival
+23: ( 4) - Freakwater
+24: ( 4) - Westside Cowboy
+25: ( 3) - Brennan Wedl
+26: ( 3) - Nell Davies
+27: ( 2) - Haircut 100
+28: ( 2) - Simple Minds
+29: ( 2) - Tom Robinson
+30: ( 1) - Tom Tom Club

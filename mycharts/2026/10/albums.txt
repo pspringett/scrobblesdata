@@ -1,6 +1,6 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     338            29            30           223
+     347            30            31           232
  1: (41) - That Girl Ep - Spaceacre
  2: (40) - Lost Weekend - Phoebe Bridgers
 
@@ -29,16 +29,16 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  5: (16) * Beyond The Leap Beyond The Law - Martin Stephenson
 
  6: (14) * Stop Making Sense - Talking Heads
- 7: (13) - Roll - Anne McCue
- 8: (12) - Nowhere - Ride
- 9: (12) - Take Me Home - The Redlands Palomino Company
+ 7: (13) - Perverted By Language - The Fall
+ 8: (13) - Roll - Anne McCue
+ 9: (12) - Nowhere - Ride
+10: (12) - Take Me Home - The Redlands Palomino Company
 
-10: (10) * Mountains/Forests - JT Nero
-11: (10) * Tales Of Light And Darkness - Angie Palmer
-12: (10) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
+11: (10) * Mountains/Forests - JT Nero
+12: (10) * Tales Of Light And Darkness - Angie Palmer
+13: (10) - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars - David Bowie
 
-13: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
-14: ( 8) - Perverted By Language - The Fall
+14: ( 8) - Live At Bowery Ballroom 2025 - Emma Swift
 15: ( 7) - Easy Pieces - Lloyd Cole
 16: ( 7) - Just For A Day - Slowdive
 17: ( 7) * Songs To Remember - Scritti Politti
@@ -47,13 +47,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 19: ( 5) - 16 Lovers Lane - The Go-Betweens
 20: ( 5) - A Duck's Water Off My Back - Champion Trees
 21: ( 5) - Moisturizer - Wet Leg
-22: ( 4) - It Goes On - Westside Cowboy
-23: ( 4) - Scheherazade - Freakwater
-24: ( 4) - The Complete Matrix Tapes - The Velvet Underground
-25: ( 4) - The Resurrection Game - Emma Swift
-26: ( 3) - Brennan Wedl - Brennan Wedl
-27: ( 3) - The End Of The World Or Whatever - Nell Davies
-28: ( 2) - Boxing The Compass - Haircut 100
-29: ( 2) - New Gold Dream - Simple Minds
-30: ( 2) - War Baby - Hope & Glory - Tom Robinson
-31: ( 1) - Stop Making Sense - Tom Tom Club
+22: ( 4) - Green River - Creedence Clearwater Revival
+23: ( 4) - It Goes On - Westside Cowboy
+24: ( 4) - Scheherazade - Freakwater
+25: ( 4) - The Complete Matrix Tapes - The Velvet Underground
+26: ( 4) - The Resurrection Game - Emma Swift
+27: ( 3) - Brennan Wedl - Brennan Wedl
+28: ( 3) - The End Of The World Or Whatever - Nell Davies
+29: ( 2) - Boxing The Compass - Haircut 100
+30: ( 2) - New Gold Dream - Simple Minds
+31: ( 2) - War Baby - Hope & Glory - Tom Robinson
+32: ( 1) - Stop Making Sense - Tom Tom Club

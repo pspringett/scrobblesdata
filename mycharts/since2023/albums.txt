@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-   13761           300           523          4160
+   13770           300           523          4165
   1: (155) - This Could Be Texas - English Teacher
   2: (155) - Western Pleasure - Chaparelle
 
@@ -128,14 +128,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  77: ( 57) - Roll - Anne McCue
+ 78: ( 56) - Green River - Creedence Clearwater Revival
+ 79: ( 55) - Aswad - Aswad
+ 80: ( 55) - Never A Dull Moment - Rod Stewart
+ 81: ( 55) - The Prince Of Wales - Devine & Statton
 
- 78: ( 55) - Aswad - Aswad
- 79: ( 55) - Never A Dull Moment - Rod Stewart
- 80: ( 55) - The Prince Of Wales - Devine & Statton
-
- 81: ( 53) - Fables Of The Reconstruction - R.E.M.
- 82: ( 52) * Eveningland - Hem
- 83: ( 52) - Green River - Creedence Clearwater Revival
+ 82: ( 53) - Fables Of The Reconstruction - R.E.M.
+ 83: ( 52) * Eveningland - Hem
  84: ( 52) - Substance 1987 - New Order
  85: ( 51) - In Search Of Mr Rykyn - British Birds
 
@@ -292,70 +291,70 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 235: ( 16) - Live At Bowery Ballroom 2025 - Emma Swift
 236: ( 16) - Live At The Glasgow Pavilion 1990 - Martin Stephenson and the Daintees
 237: ( 16) - Metrobolist (Aka The Man Who Sold The World) [2020 Mix] - David Bowie
-238: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
-239: ( 16) - The Best Of Roxy Music - Roxy Music
-240: ( 16) - The Specials - The Specials
-241: ( 16) - Woodland Echoes - Nick Heyward
-242: ( 15) - Drumming the Beating Heart - Eyeless in Gaza
-243: ( 15) - Easter Lily Ep - U2
-244: ( 15) * I'm Your Man - Leonard Cohen
-245: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
-246: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
-247: ( 15) * Rattlesnakes - Lloyd Cole and the Commotions
-248: ( 15) - The Freewheelin' Bob Dylan - Bob Dylan
-249: ( 15) * Various Positions - Leonard Cohen
-250: ( 14) * Alas I Cannot Swim - Laura Marling
-251: ( 14) - Foreign Tongues - The Rolling Stones
-252: ( 14) * Knife - Aztec Camera
-253: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
-254: ( 14) - Live In Dublin - Leonard Cohen
-255: ( 14) - Love - Aztec Camera
-256: ( 14) * Love Story - Lloyd Cole
-257: ( 14) * Pornography - The Cure
-258: ( 14) * Rabbit Songs - Hem
-259: ( 14) * Road - Angie Palmer
-260: ( 14) - Rubber Soul - The Beatles
-261: ( 13) - Burnin' - Bob Marley & the Wailers
-262: ( 13) - Case/Lang/Veirs - case/lang/veirs
-263: ( 13) - Elevation Days - Edwyn Collins
-264: ( 13) - Favourite Songs - The Best Of - Haircut 100
-265: ( 13) - Introducing The Style Council - The Style Council
-266: ( 13) - Kelvingrove Baby - The Bathers
-267: ( 13) - Let It Bleed - The Rolling Stones
-268: ( 13) - Live - In The City Of Light - Simple Minds
-269: ( 13) - Pale Hands I Loved So Well - Eyeless in Gaza
-270: ( 13) - Raising Sand - Robert Plant
-271: ( 13) - Singles 1965-1967 - The Rolling Stones
-272: ( 13) - Siren - Roxy Music
-273: ( 13) - Staring At The Sea - The Singles - The Cure
-274: ( 13) - Take Me Home - The Redlands Palomino Company
-275: ( 13) - Tambourine - Tift Merritt
-276: ( 13) * This Year's Model - Elvis Costello & the Attractions
-277: ( 12) - Axis: Bold As Love - Jimi Hendrix
-278: ( 12) * Black Eyed Man - Cowboy Junkies
-279: ( 12) * Closer - Joy Division
-280: ( 12) - Greatest Hits: Blondie - Blondie
-281: ( 12) - John Wesley Harding - Bob Dylan
-282: ( 12) - Love Story Demos - Lloyd Cole
-283: ( 12) - Only Hinting - Clinic Stars
-284: ( 12) - Punch The Clock - Elvis Costello & the Attractions
-285: ( 12) - Rip It Up - Orange Juice
-286: ( 12) - Rough And Rowdy Ways - Bob Dylan
-287: ( 12) * Songs Of Leonard Cohen - Leonard Cohen
-288: ( 12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
-289: ( 11) - A Whole New Thing - Sly & the Family Stone
-290: ( 11) - Another Side Of Bob Dylan - Bob Dylan
-291: ( 11) * Antidepressant - Lloyd Cole
-292: ( 11) * Black Cadillac - Rosanne Cash
-293: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
-294: ( 11) * Bringing It All Back Home - Bob Dylan
-295: ( 11) - Guesswork - Lloyd Cole
-296: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
-297: ( 11) - Laurel Canyon - Laurel Canyon
-298: ( 11) - Legend - Bob Marley & the Wailers
-299: ( 11) - Life's Hard And Then You Die - It'S Immaterial
-300: ( 11) - Marquee Moon - Television
-301: ( 11) - Perverted By Language - The Fall
+238: ( 16) - Perverted By Language - The Fall
+239: ( 16) - Red Dog Tracks - Chip Taylor & Carrie Rodriguez
+240: ( 16) - The Best Of Roxy Music - Roxy Music
+241: ( 16) - The Specials - The Specials
+242: ( 16) - Woodland Echoes - Nick Heyward
+243: ( 15) - Drumming the Beating Heart - Eyeless in Gaza
+244: ( 15) - Easter Lily Ep - U2
+245: ( 15) * I'm Your Man - Leonard Cohen
+246: ( 15) - Live 1966 "The Royal Albert Hall Concert" The Bootleg Series Vol. 4 - Bob Dylan
+247: ( 15) - Live At The Borderline, London - Martin Stephenson and the Daintees
+248: ( 15) * Rattlesnakes - Lloyd Cole and the Commotions
+249: ( 15) - The Freewheelin' Bob Dylan - Bob Dylan
+250: ( 15) * Various Positions - Leonard Cohen
+251: ( 14) * Alas I Cannot Swim - Laura Marling
+252: ( 14) - Foreign Tongues - The Rolling Stones
+253: ( 14) * Knife - Aztec Camera
+254: ( 14) - Live 1990 - Palace Theatre - Lloyd Cole
+255: ( 14) - Live In Dublin - Leonard Cohen
+256: ( 14) - Love - Aztec Camera
+257: ( 14) * Love Story - Lloyd Cole
+258: ( 14) * Pornography - The Cure
+259: ( 14) * Rabbit Songs - Hem
+260: ( 14) * Road - Angie Palmer
+261: ( 14) - Rubber Soul - The Beatles
+262: ( 13) - Burnin' - Bob Marley & the Wailers
+263: ( 13) - Case/Lang/Veirs - case/lang/veirs
+264: ( 13) - Elevation Days - Edwyn Collins
+265: ( 13) - Favourite Songs - The Best Of - Haircut 100
+266: ( 13) - Introducing The Style Council - The Style Council
+267: ( 13) - Kelvingrove Baby - The Bathers
+268: ( 13) - Let It Bleed - The Rolling Stones
+269: ( 13) - Live - In The City Of Light - Simple Minds
+270: ( 13) - Pale Hands I Loved So Well - Eyeless in Gaza
+271: ( 13) - Raising Sand - Robert Plant
+272: ( 13) - Singles 1965-1967 - The Rolling Stones
+273: ( 13) - Siren - Roxy Music
+274: ( 13) - Staring At The Sea - The Singles - The Cure
+275: ( 13) - Take Me Home - The Redlands Palomino Company
+276: ( 13) - Tambourine - Tift Merritt
+277: ( 13) * This Year's Model - Elvis Costello & the Attractions
+278: ( 12) - Axis: Bold As Love - Jimi Hendrix
+279: ( 12) * Black Eyed Man - Cowboy Junkies
+280: ( 12) * Closer - Joy Division
+281: ( 12) - Greatest Hits: Blondie - Blondie
+282: ( 12) - John Wesley Harding - Bob Dylan
+283: ( 12) - Love Story Demos - Lloyd Cole
+284: ( 12) - Only Hinting - Clinic Stars
+285: ( 12) - Punch The Clock - Elvis Costello & the Attractions
+286: ( 12) - Rip It Up - Orange Juice
+287: ( 12) - Rough And Rowdy Ways - Bob Dylan
+288: ( 12) * Songs Of Leonard Cohen - Leonard Cohen
+289: ( 12) - The Testimonial Ep — Live At The Royal Festival Hall 2025 - Edwyn Collins
+290: ( 11) - A Whole New Thing - Sly & the Family Stone
+291: ( 11) - Another Side Of Bob Dylan - Bob Dylan
+292: ( 11) * Antidepressant - Lloyd Cole
+293: ( 11) * Black Cadillac - Rosanne Cash
+294: ( 11) * Boat To Bolivia - Martin Stephenson and the Daintees
+295: ( 11) * Bringing It All Back Home - Bob Dylan
+296: ( 11) - Guesswork - Lloyd Cole
+297: ( 11) - Just Like A Rose: The Anniversary Sessions - Laura Cantrell
+298: ( 11) - Laurel Canyon - Laurel Canyon
+299: ( 11) - Legend - Bob Marley & the Wailers
+300: ( 11) - Life's Hard And Then You Die - It'S Immaterial
+301: ( 11) - Marquee Moon - Television
 302: ( 11) - Rumours - Fleetwood Mac
 303: ( 11) * Scott - Scott Walker
 304: ( 11) * Standards - Lloyd Cole
