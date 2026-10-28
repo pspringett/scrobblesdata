@@ -1,6 +1,6 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     371            31            33           248
+     375            31            33           252
  1: (42) - Echo & the Bunnymen
  2: (41) - Spaceacre
  3: (40) - Phoebe Bridgers
@@ -25,12 +25,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 5: (18) - Nick Heyward
 
+ 6: (16) - Martin Stephenson
+ 7: (16) - The Fall
 
- 5: (16) - Martin Stephenson
- 6: (16) - The Fall
-
- 7: (14) - Nick Heyward
  8: (14) - Talking Heads
  9: (13) - Anne McCue
 10: (12) - Emma Swift
