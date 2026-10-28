@@ -1,6 +1,6 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     363            31            32           240
+     367            31            32           244
  1: (42) - Echo & the Bunnymen
  2: (41) - Spaceacre
  3: (40) - Phoebe Bridgers
@@ -39,13 +39,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 13: (10) - Angie Palmer
 14: (10) - David Bowie
 15: (10) - JT Nero
+16: (10) - Nick Heyward
 
 
-16: ( 7) - Lloyd Cole
-17: ( 7) - Scritti Politti
-18: ( 7) - Slowdive
-19: ( 6) - Brennan Wedl
-20: ( 6) - Nick Heyward
+17: ( 7) - Lloyd Cole
+18: ( 7) - Scritti Politti
+19: ( 7) - Slowdive
+20: ( 6) - Brennan Wedl
 21: ( 5) - Champion Trees
 22: ( 5) - The Go-Betweens
 23: ( 5) - Wet Leg
