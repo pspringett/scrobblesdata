@@ -1,6 +1,6 @@
 Specified year (2026), specified month (10)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     375            31            33           252
+     376            32            34           253
  1: (42) - Echo & the Bunnymen
  2: (41) - Spaceacre
  3: (40) - Phoebe Bridgers
@@ -55,4 +55,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 28: ( 2) - Haircut 100
 29: ( 2) - Simple Minds
 30: ( 2) - Tom Robinson
-31: ( 1) - Tom Tom Club
+31: ( 1) - Everything But the Girl
+32: ( 1) - Tom Tom Club
