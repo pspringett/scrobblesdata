@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3651           110           190          1591
+    3660           111           191          1594
   1: (85) - Maybe Not Tonight - Lime Garden
 
   2: (83) - Long Time Caller, First Time Listener - Vegas Water Taxi
@@ -41,15 +41,15 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+ 20: (50) - Lost Weekend - Phoebe Bridgers
 
+ 21: (48) - Blonde On The Tracks - Emma Swift
+ 22: (48) - Blue Weekend - Wolf Alice
+ 23: (48) - Forever - Glyders
+ 24: (47) - I Believe In You, My Honeydew - Josh Ritter
+ 25: (46) - Apples For Isaac - Echo & the Bunnymen
+ 26: (46) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
 
- 20: (48) - Blonde On The Tracks - Emma Swift
- 21: (48) - Blue Weekend - Wolf Alice
- 22: (48) - Forever - Glyders
- 23: (47) - I Believe In You, My Honeydew - Josh Ritter
- 24: (46) - Apples For Isaac - Echo & the Bunnymen
- 25: (46) - Sharon Van Etten & The Attachment Theory - Sharon Van Etten
- 26: (45) - Lost Weekend - Phoebe Bridgers
 
 
  27: (42) - Empires And Dance - Simple Minds
@@ -85,9 +85,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  51: (24) - Strawberries - Robert Forster
  52: (24) - Substance 1987 - New Order
  53: (23) - Eden - Everything But the Girl
- 54: (22) - A Beard Of Stars - T. Rex
- 55: (22) - New Gold Dream - Simple Minds
- 56: (22) - Perverted By Language - The Fall
+ 54: (23) - Perverted By Language - The Fall
+ 55: (22) - A Beard Of Stars - T. Rex
+ 56: (22) - New Gold Dream - Simple Minds
 
  57: (20) - Hex Enduction Hour - The Fall
  58: (20) - Nowhere - Ride
@@ -187,42 +187,43 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 151: ( 4) - The Complete Matrix Tapes - The Velvet Underground
 152: ( 4) - Unplugged....And Seated - Rod Stewart
 153: ( 4) - Woodland Echoes - Nick Heyward
-154: ( 3) - Country Life - Roxy Music
-155: ( 3) - Death In The Business Of Whaling - Searows
-156: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
-157: ( 3) - Gotta Get Out - The Linda Lindas
-158: ( 3) - Horses - Patti Smith
-159: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
-160: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
-161: ( 3) - Trampoline (Expanded Edition) - The Mavericks
-162: ( 3) - You Can't Hide Your Love Forever - Orange Juice
-163: ( 2) - Dragnet - The Fall
-164: ( 2) - Gold - Greatest Hits - The Carpenters
-165: ( 2) - Golden Age - Heaven 17
-166: ( 2) - Nation Shall Speak Unto Nation - Edwyn Collins
-167: ( 2) - Singles 1965-1967 - The Rolling Stones
-168: ( 2) - The Glasgow School - Orange Juice
-169: ( 2) * The Orange Juice - Orange Juice
-170: ( 2) - War Baby - Hope & Glory - Tom Robinson
-171: ( 1) - Acoustic - Simple Minds
-172: ( 1) - Bowie At The Beeb - David Bowie
-173: ( 1) - Drums And Wires - Xtc
-174: ( 1) - Elevation Days - Edwyn Collins
-175: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
-176: ( 1) - Garbage Island - The Burning Hell
-177: ( 1) - Gotta Get Away - The Schwa
-178: ( 1) * Heroes - David Bowie
-179: ( 1) * Hope And Despair - Edwyn Collins
-180: ( 1) * Losing Sleep - Edwyn Collins
-181: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
-182: ( 1) - Never Never - The Assembly
-183: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
-184: ( 1) - Private Practice - Dr Feelgood
-185: ( 1) - Slumber Party - Brigitte Calls Me Baby
-186: ( 1) - Stop Making Sense - Tom Tom Club
-187: ( 1) - Streets Of Minneapolis - Bruce Springsteen
-188: ( 1) - The '81 Demos - Weekend
-189: ( 1) - The Collection - Marc Bolan & T. Rex
-190: ( 1) - The Singles - Weekend
-191: ( 1) - Understanding Music - Ac Acoustics
-192: ( 1) - Young And Dumb - Everything But the Girl
+154: ( 3) - Adult Dvd - Adult Dvd
+155: ( 3) - Country Life - Roxy Music
+156: ( 3) - Death In The Business Of Whaling - Searows
+157: ( 3) - Everything's Gone Green (2019 Remaster) - New Order
+158: ( 3) - Gotta Get Out - The Linda Lindas
+159: ( 3) - Horses - Patti Smith
+160: ( 3) * Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres in the Dark
+161: ( 3) - Stitch Of The World - Tift Merritt, Sam Beam
+162: ( 3) - Trampoline (Expanded Edition) - The Mavericks
+163: ( 3) - You Can't Hide Your Love Forever - Orange Juice
+164: ( 2) - Dragnet - The Fall
+165: ( 2) - Gold - Greatest Hits - The Carpenters
+166: ( 2) - Golden Age - Heaven 17
+167: ( 2) - Nation Shall Speak Unto Nation - Edwyn Collins
+168: ( 2) - Singles 1965-1967 - The Rolling Stones
+169: ( 2) - The Glasgow School - Orange Juice
+170: ( 2) * The Orange Juice - Orange Juice
+171: ( 2) - War Baby - Hope & Glory - Tom Robinson
+172: ( 1) - Acoustic - Simple Minds
+173: ( 1) - Bowie At The Beeb - David Bowie
+174: ( 1) - Drums And Wires - Xtc
+175: ( 1) - Elevation Days - Edwyn Collins
+176: ( 1) - Funeral Singers - Sylvan Esso, Collections of Colonies of Bees
+177: ( 1) - Garbage Island - The Burning Hell
+178: ( 1) - Gotta Get Away - The Schwa
+179: ( 1) * Heroes - David Bowie
+180: ( 1) * Hope And Despair - Edwyn Collins
+181: ( 1) * Losing Sleep - Edwyn Collins
+182: ( 1) * My Life In The Bush Of Ghosts - Brian Eno & David Byrne
+183: ( 1) - Never Never - The Assembly
+184: ( 1) - Nme/Rough Trade C81 - The Massed Carnaby Street John Cooper Clarkes
+185: ( 1) - Private Practice - Dr Feelgood
+186: ( 1) - Slumber Party - Brigitte Calls Me Baby
+187: ( 1) - Stop Making Sense - Tom Tom Club
+188: ( 1) - Streets Of Minneapolis - Bruce Springsteen
+189: ( 1) - The '81 Demos - Weekend
+190: ( 1) - The Collection - Marc Bolan & T. Rex
+191: ( 1) - The Singles - Weekend
+192: ( 1) - Understanding Music - Ac Acoustics
+193: ( 1) - Young And Dumb - Everything But the Girl
