@@ -1,11 +1,15 @@
 Specified year (2026), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-      29             7             7            29
-1: (7) - Simple Minds
+      35             7             7            30
+1: (11) - Phoebe Bridgers
 
-2: (5) - Phoebe Bridgers
-3: (4) - Adult Dvd
-4: (4) - Echo & the Bunnymen
-5: (4) - The Fall
-6: (3) - The Linda Lindas
-7: (2) - Sharon Van Etten
+
+
+2: ( 7) - Simple Minds
+
+
+3: ( 4) - Adult Dvd
+4: ( 4) - Echo & the Bunnymen
+5: ( 4) - The Fall
+6: ( 3) - The Linda Lindas
+7: ( 2) - Sharon Van Etten
