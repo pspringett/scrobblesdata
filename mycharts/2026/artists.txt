@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3479           103           168          1507
+    3482           103           168          1510
   1: (181) - Creedence Clearwater Revival
 
 
@@ -183,10 +183,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  54: ( 19) - Paul Weller
  55: ( 18) - Lloyd Cole
  56: ( 18) - Prefab Sprout
+ 57: ( 17) - Edwyn Collins
+ 58: ( 16) - Chaparelle
 
- 57: ( 16) - Chaparelle
-
- 58: ( 14) - Edwyn Collins
  59: ( 14) - Talking Heads
  60: ( 14) - The Beatles
  61: ( 14) - The Velvet Underground
