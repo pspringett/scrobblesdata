@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3491           103           168          1510
+    3494           103           168          1512
   1: (181) - Creedence Clearwater Revival
 
 
@@ -130,8 +130,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  23: ( 58) - The Redlands Palomino Company
  24: ( 57) - Anne McCue
- 25: ( 56) - Phoebe Bridgers
- 26: ( 55) - Bob Dylan
+ 25: ( 56) - Bob Dylan
+ 26: ( 56) - Phoebe Bridgers
+
 
 
  27: ( 52) - Martin Stephenson
@@ -185,9 +186,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  56: ( 18) - Lloyd Cole
  57: ( 18) - Prefab Sprout
  58: ( 17) - Edwyn Collins
- 59: ( 16) - Chaparelle
+ 59: ( 16) - Adult Dvd
+ 60: ( 16) - Chaparelle
 
- 60: ( 14) - Adult Dvd
  61: ( 14) - Talking Heads
  62: ( 14) - The Beatles
  63: ( 14) - The Velvet Underground
