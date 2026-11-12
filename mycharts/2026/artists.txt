@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3541           104           170          1531
+    3593           105           173          1563
   1: (181) - Creedence Clearwater Revival
 
 
@@ -64,6 +64,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: (118) - Simple Minds
+
+
+
+
+
+  4: (112) - Echo & the Bunnymen
 
 
 
@@ -73,13 +80,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
-
-  3: (108) - Simple Minds
-
-
-
-
-  4: (103) - Echo & the Bunnymen
   5: (102) - Wolf Alice
 
 
@@ -109,19 +109,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  13: ( 76) - Whitelands
 
+ 14: ( 74) - Bob Dylan
+
+
+ 15: ( 71) - Lucinda Williams
+ 16: ( 71) - The Belair Lip Bombs
+ 17: ( 70) - Phoebe Bridgers
+ 18: ( 69) - Champion Trees
+ 19: ( 68) - Katherine Priddy
+ 20: ( 68) - The Bluebells
 
 
 
- 14: ( 71) - Lucinda Williams
- 15: ( 71) - The Belair Lip Bombs
- 16: ( 70) - Phoebe Bridgers
- 17: ( 69) - Champion Trees
- 18: ( 68) - Katherine Priddy
- 19: ( 68) - The Bluebells
-
-
-
- 20: ( 64) - Bob Dylan
  21: ( 64) - JT Nero
 
  22: ( 62) - Heavenly
@@ -175,61 +174,62 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  47: ( 25) - Angie Palmer
  48: ( 25) - Chaparelle
  49: ( 25) - Slowdive
- 50: ( 24) - Po' Girl
+ 50: ( 25) - The Velvet Underground
+ 51: ( 24) - Po' Girl
 
- 51: ( 22) - Nick Heyward
- 52: ( 21) - Everything But the Girl
- 53: ( 20) - Elvis Costello
- 54: ( 20) - Fenne Lily
- 55: ( 20) - Ride
- 56: ( 20) - Suzanne Vega
- 57: ( 19) - Paul Weller
- 58: ( 18) - Lloyd Cole
- 59: ( 18) - Prefab Sprout
- 60: ( 17) - Edwyn Collins
- 61: ( 16) - Adult Dvd
+ 52: ( 22) - Nick Heyward
+ 53: ( 21) - Everything But the Girl
+ 54: ( 20) - Elvis Costello
+ 55: ( 20) - Fenne Lily
+ 56: ( 20) - Ride
+ 57: ( 20) - Suzanne Vega
+ 58: ( 19) - Paul Weller
+ 59: ( 18) - Lloyd Cole
+ 60: ( 18) - Prefab Sprout
+ 61: ( 17) - Edwyn Collins
+ 62: ( 16) - Adult Dvd
 
- 62: ( 14) - Talking Heads
- 63: ( 14) - The Beatles
- 64: ( 14) - The Velvet Underground
+ 63: ( 14) - Talking Heads
+ 64: ( 14) - The Beatles
  65: ( 13) - Devine & Statton
  66: ( 13) - English Teacher
  67: ( 13) - Lloyd Cole and the Commotions
  68: ( 13) - Robert Plant
  69: ( 13) - The Cure
  70: ( 12) - Elvis Costello & the Attractions
- 71: ( 11) - Bob Marley & the Wailers
- 72: ( 11) - Brigitte Calls Me Baby
- 73: ( 11) - Hayes Carll
- 74: ( 11) - The Burning Hell
- 75: ( 10) - It'S Immaterial
- 76: ( 10) - John Cooper Clarke
- 77: ( 10) - Mercy Girl
- 78: ( 10) - New Order
- 79: ( 10) - Roddy Frame
- 80: (  9) - Laura Marling
- 81: (  9) - Tom Robinson Band
+ 71: ( 12) - Scott Walker
+ 72: ( 11) - Bob Marley & the Wailers
+ 73: ( 11) - Brigitte Calls Me Baby
+ 74: ( 11) - Hayes Carll
+ 75: ( 11) - The Burning Hell
+ 76: ( 10) - It'S Immaterial
+ 77: ( 10) - John Cooper Clarke
+ 78: ( 10) - Mercy Girl
+ 79: ( 10) - New Order
+ 80: ( 10) - Roddy Frame
+ 81: (  9) - Laura Marling
+ 82: (  9) - Tom Robinson Band
 
- 82: (  7) - Orange Juice
- 83: (  6) - Cowboy Junkies
- 84: (  5) - Chanel Beads
- 85: (  5) - It’S Immaterial
- 86: (  5) - The Zombies
- 87: (  5) - Wet Leg
- 88: (  4) - Altered Images
- 89: (  4) - Freakwater
- 90: (  3) - Patti Smith
- 91: (  3) - Searows
- 92: (  3) - The Linda Lindas
- 93: (  3) - The Mavericks
- 94: (  3) - Tift Merritt, Sam Beam
- 95: (  2) - The Carpenters
- 96: (  2) - Tom Robinson
- 97: (  1) - Bruce Springsteen
- 98: (  1) - Dr Feelgood
- 99: (  1) - Heaven 17
-100: (  1) - Marc Bolan & T. Rex
-101: (  1) - The Assembly
-102: (  1) - The Massed Carnaby Street John Cooper Clarkes
-103: (  1) - The Schwa
-104: (  1) - Tom Tom Club
+ 83: (  7) - Orange Juice
+ 84: (  6) - Cowboy Junkies
+ 85: (  5) - Chanel Beads
+ 86: (  5) - It’S Immaterial
+ 87: (  5) - The Zombies
+ 88: (  5) - Wet Leg
+ 89: (  4) - Altered Images
+ 90: (  4) - Freakwater
+ 91: (  3) - Patti Smith
+ 92: (  3) - Searows
+ 93: (  3) - The Linda Lindas
+ 94: (  3) - The Mavericks
+ 95: (  3) - Tift Merritt, Sam Beam
+ 96: (  2) - The Carpenters
+ 97: (  2) - Tom Robinson
+ 98: (  1) - Bruce Springsteen
+ 99: (  1) - Dr Feelgood
+100: (  1) - Heaven 17
+101: (  1) - Marc Bolan & T. Rex
+102: (  1) - The Assembly
+103: (  1) - The Massed Carnaby Street John Cooper Clarkes
+104: (  1) - The Schwa
+105: (  1) - Tom Tom Club

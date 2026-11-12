@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3806           112           195          1643
+    3858           113           198          1675
   1: (181) - Creedence Clearwater Revival
 
 
@@ -48,21 +48,21 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
 
+  3: (134) - Simple Minds
+
+
+  4: (131) - Wolf Alice
+
+  5: (129) - Echo & the Bunnymen
 
 
 
-  3: (131) - Wolf Alice
 
 
 
 
 
 
-  4: (124) - Simple Minds
-
-
-
-  5: (120) - Echo & the Bunnymen
 
 
 
@@ -109,19 +109,18 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  13: ( 76) - Whitelands
 
+ 14: ( 74) - Bob Dylan
+
+ 15: ( 72) - Josh Ritter
+ 16: ( 71) - Lucinda Williams
+ 17: ( 71) - The Belair Lip Bombs
+ 18: ( 70) - Phoebe Bridgers
+ 19: ( 69) - Champion Trees
+ 20: ( 68) - Katherine Priddy
+ 21: ( 68) - The Bluebells
 
 
- 14: ( 72) - Josh Ritter
- 15: ( 71) - Lucinda Williams
- 16: ( 71) - The Belair Lip Bombs
- 17: ( 70) - Phoebe Bridgers
- 18: ( 69) - Champion Trees
- 19: ( 68) - Katherine Priddy
- 20: ( 68) - The Bluebells
 
-
-
- 21: ( 64) - Bob Dylan
  22: ( 64) - JT Nero
 
  23: ( 62) - Heavenly
@@ -175,66 +174,67 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  52: ( 26) - Orange Juice
  53: ( 25) - Angie Palmer
  54: ( 25) - Slowdive
- 55: ( 24) - Paul Weller
- 56: ( 24) - Po' Girl
+ 55: ( 25) - The Velvet Underground
+ 56: ( 24) - Paul Weller
+ 57: ( 24) - Po' Girl
 
- 57: ( 22) - Nick Heyward
+ 58: ( 22) - Nick Heyward
 
- 58: ( 20) - Elvis Costello
- 59: ( 20) - Fenne Lily
- 60: ( 20) - Ride
- 61: ( 20) - Suzanne Vega
+ 59: ( 20) - Elvis Costello
+ 60: ( 20) - Fenne Lily
+ 61: ( 20) - Ride
+ 62: ( 20) - Suzanne Vega
 
- 62: ( 18) - Lloyd Cole
- 63: ( 18) - Prefab Sprout
- 64: ( 17) - Wet Leg
- 65: ( 16) - Adult Dvd
- 66: ( 16) - Altered Images
- 67: ( 15) - Lloyd Cole and the Commotions
- 68: ( 14) - Talking Heads
- 69: ( 14) - The Beatles
- 70: ( 14) - The Velvet Underground
+ 63: ( 18) - Lloyd Cole
+ 64: ( 18) - Prefab Sprout
+ 65: ( 17) - Wet Leg
+ 66: ( 16) - Adult Dvd
+ 67: ( 16) - Altered Images
+ 68: ( 15) - Lloyd Cole and the Commotions
+ 69: ( 14) - Talking Heads
+ 70: ( 14) - The Beatles
  71: ( 13) - English Teacher
  72: ( 13) - Robert Plant
  73: ( 13) - The Cure
  74: ( 12) - Elvis Costello & the Attractions
- 75: ( 12) - The Burning Hell
- 76: ( 11) - Bob Marley & the Wailers
- 77: ( 11) - Brigitte Calls Me Baby
- 78: ( 11) - Hayes Carll
- 79: ( 10) - Heaven 17
- 80: ( 10) - It'S Immaterial
- 81: ( 10) - John Cooper Clarke
- 82: ( 10) - Mercy Girl
- 83: ( 10) - Roddy Frame
- 84: (  9) - Laura Marling
- 85: (  9) - Tom Robinson Band
+ 75: ( 12) - Scott Walker
+ 76: ( 12) - The Burning Hell
+ 77: ( 11) - Bob Marley & the Wailers
+ 78: ( 11) - Brigitte Calls Me Baby
+ 79: ( 11) - Hayes Carll
+ 80: ( 10) - Heaven 17
+ 81: ( 10) - It'S Immaterial
+ 82: ( 10) - John Cooper Clarke
+ 83: ( 10) - Mercy Girl
+ 84: ( 10) - Roddy Frame
+ 85: (  9) - Laura Marling
+ 86: (  9) - Tom Robinson Band
 
 
- 86: (  6) - Cowboy Junkies
- 87: (  5) - Chanel Beads
- 88: (  5) - It’S Immaterial
- 89: (  5) - The Zombies
- 90: (  4) - B.E.F.
- 91: (  4) - Freakwater
- 92: (  4) - Rod Stewart
- 93: (  4) - The Weather Station
- 94: (  3) - Patti Smith
- 95: (  3) - Searows
- 96: (  3) - The Linda Lindas
- 97: (  3) - The Mavericks
- 98: (  3) - Tift Merritt, Sam Beam
- 99: (  2) - The Carpenters
-100: (  2) - Tom Robinson
-101: (  2) - Weekend
-102: (  1) - Ac Acoustics
-103: (  1) - Brian Eno & David Byrne
-104: (  1) - Bruce Springsteen
-105: (  1) - Dr Feelgood
-106: (  1) - Marc Bolan & T. Rex
-107: (  1) - Sylvan Esso, Collections of Colonies of Bees
-108: (  1) - The Assembly
-109: (  1) - The Massed Carnaby Street John Cooper Clarkes
-110: (  1) - The Schwa
-111: (  1) - Tom Tom Club
-112: (  1) - Xtc
+ 87: (  6) - Cowboy Junkies
+ 88: (  5) - Chanel Beads
+ 89: (  5) - It’S Immaterial
+ 90: (  5) - The Zombies
+ 91: (  4) - B.E.F.
+ 92: (  4) - Freakwater
+ 93: (  4) - Rod Stewart
+ 94: (  4) - The Weather Station
+ 95: (  3) - Patti Smith
+ 96: (  3) - Searows
+ 97: (  3) - The Linda Lindas
+ 98: (  3) - The Mavericks
+ 99: (  3) - Tift Merritt, Sam Beam
+100: (  2) - The Carpenters
+101: (  2) - Tom Robinson
+102: (  2) - Weekend
+103: (  1) - Ac Acoustics
+104: (  1) - Brian Eno & David Byrne
+105: (  1) - Bruce Springsteen
+106: (  1) - Dr Feelgood
+107: (  1) - Marc Bolan & T. Rex
+108: (  1) - Sylvan Esso, Collections of Colonies of Bees
+109: (  1) - The Assembly
+110: (  1) - The Massed Carnaby Street John Cooper Clarkes
+111: (  1) - The Schwa
+112: (  1) - Tom Tom Club
+113: (  1) - Xtc
