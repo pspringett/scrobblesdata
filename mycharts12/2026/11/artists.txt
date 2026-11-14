@@ -1,6 +1,6 @@
 Since 2023
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3866           113           198          1675
+    3873           113           198          1675
   1: (181) - Creedence Clearwater Revival
 
 
@@ -162,14 +162,14 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  43: ( 33) - Everything But the Girl
  44: ( 33) - Leonard Cohen
  45: ( 33) - Scritti Politti
+ 46: ( 33) - Slowdive
 
 
 
- 46: ( 29) - The Rolling Stones
- 47: ( 28) - Edwyn Collins
- 48: ( 27) - New Order
- 49: ( 27) - Roxy Music
- 50: ( 27) - Slowdive
+ 47: ( 29) - The Rolling Stones
+ 48: ( 28) - Edwyn Collins
+ 49: ( 27) - New Order
+ 50: ( 27) - Roxy Music
  51: ( 27) - Tift Merritt
  52: ( 26) - Devine & Statton
  53: ( 26) - Orange Juice
@@ -180,9 +180,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  58: ( 22) - Adult Dvd
  59: ( 22) - Nick Heyward
-
- 60: ( 20) - Elvis Costello
- 61: ( 20) - Fenne Lily
+ 60: ( 21) - Fenne Lily
+ 61: ( 20) - Elvis Costello
  62: ( 20) - Ride
  63: ( 20) - Suzanne Vega
 
