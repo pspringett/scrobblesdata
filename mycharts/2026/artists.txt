@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3618           105           173          1563
+    3620           105           173          1563
   1: (181) - Creedence Clearwater Revival
 
 
@@ -136,9 +136,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  27: ( 52) - Martin Stephenson
  28: ( 52) - T. Rex
+ 29: ( 51) - Josh Ritter
 
-
- 29: ( 49) - Josh Ritter
  30: ( 49) - U2
  31: ( 48) - Glyders
  32: ( 47) - Spaceacre

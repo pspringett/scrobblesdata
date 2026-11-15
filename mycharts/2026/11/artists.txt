@@ -1,6 +1,6 @@
 Specified year (2026), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     244            20            21           166
+     246            21            22           168
  1: (26) - Slowdive
  2: (25) - Phoebe Bridgers
  3: (24) - Echo & the Bunnymen
@@ -30,5 +30,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 16: ( 5) - The Belair Lip Bombs
 17: ( 4) - Westside Cowboy
 18: ( 3) - The Linda Lindas
-19: ( 2) - Sharon Van Etten
-20: ( 1) - The Go-Betweens
+19: ( 2) - Josh Ritter
+20: ( 2) - Sharon Van Etten
+21: ( 1) - The Go-Betweens
