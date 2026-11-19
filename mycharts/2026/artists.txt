@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3620           105           173          1563
+    3625           105           173          1563
   1: (181) - Creedence Clearwater Revival
 
 
@@ -114,8 +114,9 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  16: ( 71) - Lucinda Williams
- 17: ( 70) - Phoebe Bridgers
- 18: ( 69) - Champion Trees
+ 17: ( 70) - Champion Trees
+ 18: ( 70) - Phoebe Bridgers
+
  19: ( 68) - Katherine Priddy
  20: ( 68) - The Bluebells
 
@@ -170,14 +171,13 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
  46: ( 27) - Roxy Music
  47: ( 27) - Tift Merritt
+ 48: ( 26) - Fenne Lily
+ 49: ( 25) - Angie Palmer
+ 50: ( 25) - Chaparelle
+ 51: ( 25) - The Velvet Underground
+ 52: ( 24) - Po' Girl
 
- 48: ( 25) - Angie Palmer
- 49: ( 25) - Chaparelle
- 50: ( 25) - The Velvet Underground
- 51: ( 24) - Po' Girl
-
- 52: ( 22) - Adult Dvd
- 53: ( 22) - Fenne Lily
+ 53: ( 22) - Adult Dvd
  54: ( 22) - Nick Heyward
  55: ( 21) - Everything But the Girl
  56: ( 20) - Elvis Costello

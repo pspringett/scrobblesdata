@@ -1,13 +1,13 @@
 Specified year (2026), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     246            21            22           168
- 1: (26) - Slowdive
- 2: (25) - Phoebe Bridgers
- 3: (24) - Echo & the Bunnymen
+     251            22            23           169
+ 1: (26) - Fenne Lily
+ 2: (26) - Slowdive
+ 3: (25) - Phoebe Bridgers
+ 4: (24) - Echo & the Bunnymen
 
- 4: (22) - Adult Dvd
- 5: (22) - Bob Dylan
- 6: (22) - Fenne Lily
+ 5: (22) - Adult Dvd
+ 6: (22) - Bob Dylan
 
 
 
@@ -32,4 +32,5 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 18: ( 3) - The Linda Lindas
 19: ( 2) - Josh Ritter
 20: ( 2) - Sharon Van Etten
-21: ( 1) - The Go-Betweens
+21: ( 1) - Champion Trees
+22: ( 1) - The Go-Betweens
