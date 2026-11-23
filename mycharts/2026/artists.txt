@@ -1,6 +1,6 @@
 Specified year (2026)
 Total Tracks Unique Artists Unique albums Unique Tracks
-    3656           105           175          1571
+    3663           105           175          1571
   1: (181) - Creedence Clearwater Revival
 
 
@@ -153,18 +153,17 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  33: ( 38) - Brennan Wedl
  34: ( 38) - Robyn Hitchcock
  35: ( 38) - Sharon Van Etten
+ 36: ( 37) - Slowdive
+ 37: ( 36) - The Go-Betweens
 
- 36: ( 36) - The Go-Betweens
-
- 37: ( 34) - Adult Dvd
- 38: ( 34) - Eyeless in Gaza
- 39: ( 34) - Melody'S Echo Chamber
- 40: ( 34) - Zoe Graham
- 41: ( 33) - Blondie
- 42: ( 33) - Leonard Cohen
- 43: ( 33) - Robert Forster
- 44: ( 33) - Scritti Politti
- 45: ( 33) - Slowdive
+ 38: ( 34) - Adult Dvd
+ 39: ( 34) - Eyeless in Gaza
+ 40: ( 34) - Melody'S Echo Chamber
+ 41: ( 34) - Zoe Graham
+ 42: ( 33) - Blondie
+ 43: ( 33) - Leonard Cohen
+ 44: ( 33) - Robert Forster
+ 45: ( 33) - Scritti Politti
 
 
 
@@ -177,12 +176,11 @@ Total Tracks Unique Artists Unique albums Unique Tracks
  51: ( 25) - Chaparelle
  52: ( 25) - The Velvet Underground
  53: ( 24) - Po' Girl
-
- 54: ( 22) - Nick Heyward
- 55: ( 21) - Everything But the Girl
- 56: ( 20) - Elvis Costello
- 57: ( 20) - Ride
- 58: ( 20) - Suzanne Vega
+ 54: ( 23) - Suzanne Vega
+ 55: ( 22) - Nick Heyward
+ 56: ( 21) - Everything But the Girl
+ 57: ( 20) - Elvis Costello
+ 58: ( 20) - Ride
  59: ( 19) - Paul Weller
  60: ( 18) - Lloyd Cole
  61: ( 18) - Prefab Sprout
