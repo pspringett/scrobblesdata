@@ -1,14 +1,15 @@
 Specified year (2026), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     318            28            29           202
+     325            28            29           203
  1: (34) - Adult Dvd - Adult Dvd
+ 2: (34) - Apples For Isaac - Echo & the Bunnymen
 
 
- 2: (31) - Win Win - Fenne Lily
- 3: (30) - Lost Weekend - Phoebe Bridgers
- 4: (30) - Pygmalion - Slowdive
+ 3: (31) - Win Win - Fenne Lily
+ 4: (30) - Lost Weekend - Phoebe Bridgers
+ 5: (30) - Pygmalion - Slowdive
 
- 5: (28) - Apples For Isaac - Echo & the Bunnymen
+
 
 
 
@@ -20,7 +21,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  6: (17) - Empires And Dance - Simple Minds
- 7: (16) - Perverted By Language - The Fall
+ 7: (17) - Perverted By Language - The Fall
+
 
 
 

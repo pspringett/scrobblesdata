@@ -1,14 +1,15 @@
 Specified year (2026), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     318            28            29           202
+     325            28            29           203
  1: (34) - Adult Dvd
+ 2: (34) - Echo & the Bunnymen
 
 
- 2: (31) - Fenne Lily
- 3: (30) - Phoebe Bridgers
- 4: (30) - Slowdive
+ 3: (31) - Fenne Lily
+ 4: (30) - Phoebe Bridgers
+ 5: (30) - Slowdive
 
- 5: (28) - Echo & the Bunnymen
+
 
 
 
@@ -20,7 +21,8 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 
 
  7: (17) - Simple Minds
- 8: (16) - The Fall
+ 8: (17) - The Fall
+
 
 
 
