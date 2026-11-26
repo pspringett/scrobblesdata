@@ -1,6 +1,6 @@
 Specified year (2026), specified month (11)
 Total Tracks Unique Artists Unique albums Unique Tracks
-     339            30            32           216
+     342            31            33           219
  1: (34) - Adult Dvd
  2: (34) - Echo & the Bunnymen
 
@@ -48,5 +48,6 @@ Total Tracks Unique Artists Unique albums Unique Tracks
 26: ( 3) - Orchestral Manoeuvres in the Dark
 27: ( 3) - The Go-Betweens
 28: ( 3) - The Linda Lindas
-29: ( 2) - Josh Ritter
-30: ( 2) - Sharon Van Etten
+29: ( 3) - UB40
+30: ( 2) - Josh Ritter
+31: ( 2) - Sharon Van Etten
